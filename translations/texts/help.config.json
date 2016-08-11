@@ -43,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /admin. Enables or disables admin mode, which enables all crafting recipes, prevents damage or energy loss, and allows access to admin-only commands."
+      "Eng": "Usage /admin. Enables or disables admin mode, which enables all crafting recipes, prevents damage or energy loss, and allows access to admin-only commands.",
+      "Rus": "Используя команду /admin. Вы можете включать или отключать режим администратора, который открывает все рецепты крафта, убирает получаемый урон и потерю энергии, также обеспечивает доступ к командам администратора"
     }
   },
   {
@@ -54,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /ban playerSpecifier [reason] [kind] [timeInSeconds]. Kick and ban the specified player and send the reason to the player. If no reason is specified then the player's server nickname is used as the reason. Kind is specified as \"uuid\" or \"ip\" or \"both\" and defaults to \"both\". timeInSeconds defaults to forever. Bans that have a specified duration are not persistent. If you shut down the server or reload configuration, all of your temporarily banned users will be unbanned immediately."
+      "Eng": "Usage /ban playerSpecifier [reason] [kind] [timeInSeconds]. Kick and ban the specified player and send the reason to the player. If no reason is specified then the player's server nickname is used as the reason. Kind is specified as \"uuid\" or \"ip\" or \"both\" and defaults to \"both\". timeInSeconds defaults to forever. Bans that have a specified duration are not persistent. If you shut down the server or reload configuration, all of your temporarily banned users will be unbanned immediately.",
+      "Rus": ""
     }
   },
   {
@@ -65,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /boxes. Toggle the display of collision debugging polygons if debug mode is enabled."
+      "Eng": "Usage /boxes. Toggle the display of collision debugging polygons if debug mode is enabled.",
+      "Rus": ""
     }
   },
   {
@@ -76,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /cinema cinematicPath. Plays the specified cinematic for testing."
+      "Eng": "Usage /cinema cinematicPath. Plays the specified cinematic for testing.",
+      "Rus": ""
     }
   },
   {
@@ -87,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /clearboxes. Toggle whether or not to clear boxes displayed with /boxes every frame.  Useful for determining routes that enemies take, can get messy looking though."
+      "Eng": "Usage /clearboxes. Toggle whether or not to clear boxes displayed with /boxes every frame.  Useful for determining routes that enemies take, can get messy looking though.",
+      "Rus": ""
     }
   },
   {
@@ -98,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /clearcinematics. Resets all history of played unique cinematics, allowing the player to see these cinematics again."
+      "Eng": "Usage /clearcinematics. Resets all history of played unique cinematics, allowing the player to see these cinematics again.",
+      "Rus": ""
     }
   },
   {
@@ -109,7 +115,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /clearradiomessages. Resets all history of received unique radio messages, allowing the player to see these messages again."
+      "Eng": "Usage /clearradiomessages. Resets all history of received unique radio messages, allowing the player to see these messages again.",
+      "Rus": "Команда /clearradiomessages. Сбрасывает все полученные радиосообщения, что позволит игроку увидеть эти сообщения снова."
     }
   },
   {
@@ -120,7 +127,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /clearscannedobjects. Resets the player's record of previously scanned objects. Will not reset quest progress for object scanning quests."
+      "Eng": "Usage /clearscannedobjects. Resets the player's record of previously scanned objects. Will not reset quest progress for object scanning quests.",
+      "Rus": ""
     }
   },
   {
@@ -131,7 +139,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /clearstagehand. Despawns any stagehands with positions close to the current cursor position."
+      "Eng": "Usage /clearstagehand. Despawns any stagehands with positions close to the current cursor position.",
+      "Rus": ""
     }
   },
   {
@@ -142,7 +151,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /completequest questId. Force completion of a currently active quest with the given quest ID (usually the quest template ID)."
+      "Eng": "Usage /completequest questId. Force completion of a currently active quest with the given quest ID (usually the quest template ID).",
+      "Rus": ""
     }
   },
   {
@@ -153,7 +163,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /deaths. Displays the total death count of the current character."
+      "Eng": "Usage /deaths. Displays the total death count of the current character.",
+      "Rus": "Команда /deaths. Отображает количество смертей текущего персонажа."
     }
   },
   {
@@ -164,7 +175,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /debug. Enable debugging mode."
+      "Eng": "Usage /debug. Enable debugging mode.",
+      "Rus": "Команда /debug. Включить режим отладки."
     }
   },
   {
@@ -175,7 +187,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /disablespawning. Disable automatic monster spawning on the current world."
+      "Eng": "Usage /disablespawning. Disable automatic monster spawning on the current world.",
+      "Rus": "Команда /disablespawning. Отключает автоматическое появление монстров в текущем мире."
     }
   },
   {
@@ -186,7 +199,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /enablespawning. Enable automatic monster spawning on the current world."
+      "Eng": "Usage /enablespawning. Enable automatic monster spawning on the current world.",
+      "Rus": "Команда /enablespawning. Включает автоматическое появление монстров в текущем мире."
     }
   },
   {
@@ -197,7 +211,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /enabletech techName. Unlocks the specified tech for use."
+      "Eng": "Usage /enabletech techName. Unlocks the specified tech for use.",
+      "Rus": "Команда /enabletech techName. Открывает указанную технологию."
     }
   },
   {
@@ -208,7 +223,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /entityeval <lua>. Evaluates given lua in the context of the closest scripted entity to the cursor. Only usable locally."
+      "Eng": "Usage /entityeval <lua>. Evaluates given lua in the context of the closest scripted entity to the cursor. Only usable locally.",
+      "Rus": ""
     }
   },
   {
@@ -219,7 +235,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /eval <lua>. Evaluates given lua in script processor context. Only usable locally."
+      "Eng": "Usage /eval <lua>. Evaluates given lua in script processor context. Only usable locally.",
+      "Rus": ""
     }
   },
   {
@@ -230,7 +247,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /failquest questId. Force failure of a currently active quest with the given quest ID (usually the quest template ID)."
+      "Eng": "Usage /failquest questId. Force failure of a currently active quest with the given quest ID (usually the quest template ID).",
+      "Rus": ""
     }
   },
   {
@@ -241,7 +259,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /fixedcamera. Toggle locking the camera's position; camera will not scroll. Sectors may not load or behave correctly when the camera is distant from the player's position."
+      "Eng": "Usage /fixedcamera. Toggle locking the camera's position; camera will not scroll. Sectors may not load or behave correctly when the camera is distant from the player's position.",
+      "Rus": ""
     }
   },
   {
@@ -252,7 +271,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /fullbright. Disable the lighting engine and show everything."
+      "Eng": "Usage /fullbright. Disable the lighting engine and show everything.",
+      "Rus": ""
     }
   },
   {
@@ -263,7 +283,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /giveessentialitem item slotName. Sets the specified essential slot to the specified item, overwriting the existing contents. Valid slot names are: beamaxe, wiretool, painttool, inspectiontool."
+      "Eng": "Usage /giveessentialitem item slotName. Sets the specified essential slot to the specified item, overwriting the existing contents. Valid slot names are: beamaxe, wiretool, painttool, inspectiontool.",
+      "Rus": ""
     }
   },
   {
@@ -274,7 +295,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /gravity. Display the gravity at the player's position."
+      "Eng": "Usage /gravity. Display the gravity at the player's position.",
+      "Rus": ""
     }
   },
   {
