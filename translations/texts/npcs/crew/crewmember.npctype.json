@@ -72,7 +72,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Жизнь среди звезд как раз для меня. Пожалуйста, разрешите вступить в вашу команду?"
+    ],
     "Files": {
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/offer/glitch/default/1/glitchEmotedText"
@@ -108,7 +110,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Кто-нибудь еще почувствовал космическую турбулентность что только что была?"
+    ],
     "Files": {
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/offer/penguin/default/4"
@@ -193,7 +197,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Не могу поверить, что я умер, когда я был как раз в середине что-то."
+    ],
     "Files": {
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/respawned/penguin/default/0"
@@ -229,7 +235,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Бой - это искусство, а я - артист. Я буду здесь если понадоблюсь."
+    ],
     "Files": {
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/1"
@@ -265,7 +273,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ты хочешь чтобы я остался здесь?"
+    ],
     "Files": {
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/unfollow/default/default/3"
@@ -277,7 +287,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Не заходи так далеко!"
+    ],
     "Files": {
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/penguin/default/1"
@@ -289,7 +301,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Не уходите далеко!"
+    ],
     "Files": {
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/cantreach/default/default/3"
@@ -409,7 +423,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флоран оставил вассс позади!"
+    ],
     "Files": {
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/cantreach/floran/default/1"
@@ -433,7 +449,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флоран недостаточно близко к вам!"
+    ],
     "Files": {
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/cantreach/floran/default/2"
@@ -602,7 +620,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Эй, большествол! Оставь это на меня!"
+    ],
     "Files": {
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/penguin/default/0"
@@ -638,7 +658,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я верю, что могу оказать вам помощь. Возможно вы разрешите стать членом экипажа на вашем корабле?"
+    ],
     "Files": {
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/offer/hylotl/default/2"
@@ -650,7 +672,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я всегда готов одолжить вам свой меч и мастерство в бою, если вам это будет нужно."
+    ],
     "Files": {
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/2/glitchEmotedText"
@@ -662,7 +686,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Если вы желаете, я останусь здесь, капитан."
+    ],
     "Files": {
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/unfollow/glitch/default/3/glitchEmotedText"
@@ -713,7 +739,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я забрался на Апекс однажды. Классный обзор."
+    ],
     "Files": {
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/offer/penguin/default/2"
@@ -737,7 +765,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я надеюсь я воссоздался  правильно. Я выгляжу хорошо?"
+    ],
     "Files": {
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/respawned/glitch/default/2/glitchEmotedText"
@@ -773,7 +803,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я останусь здесь, если вы хотите этого от меня, капитан."
+    ],
     "Files": {
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/unfollow/glitch/default/2/glitchEmotedText"
@@ -785,7 +817,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я буду оставаться на страже до тех пор пока я вам не понадоблюсь, капитан."
+    ],
     "Files": {
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/roleDescription/apex/default/1"
@@ -797,7 +831,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я буду здесь до тех пор, пока вам не понадобится дублер."
+    ],
     "Files": {
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/roleDescription/apex/default/0"
@@ -845,7 +881,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я буду здесь если тебе понадобится помощь чтобы защитить себя."
+    ],
     "Files": {
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/2"
@@ -941,7 +979,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я останусь тут. Возвращайтесь когда вам будет нужна моя помощь, капитан!"
+    ],
     "Files": {
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/unfollow/default/default/1"
@@ -953,7 +993,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я буду ждать здесь до тез пор, пока мне не нужно будет за что-то сражаться для тебя."
+    ],
     "Files": {
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/roleDescription/penguin/default/0"
@@ -965,7 +1007,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я очень полезная персона. Можно вступить к тебе?"
+    ],
     "Files": {
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/offer/glitch/default/2/glitchEmotedText"
@@ -989,7 +1033,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я вернулся и как единое целое!"
+    ],
     "Files": {
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/respawned/default/default/3"
@@ -1049,7 +1095,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я ищу экипаж для вступления. Вы заинтересованны?"
+    ],
     "Files": {
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/offer/default/default/2"
@@ -1061,7 +1109,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я собираюсь начать новую жизнь. Вы нанимаете?"
+    ],
     "Files": {
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/offer/apex/default/2"
@@ -1085,7 +1135,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Если я стану частью вашего экипажа, вы защитите меня от Большого Эйпа?"
+    ],
     "Files": {
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/offer/apex/default/0"
@@ -1121,7 +1173,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Если я вам понадоблюсь в бою, я буду здесь!"
+    ],
     "Files": {
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/roleDescription/default/default/2"
@@ -1145,7 +1199,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Если тебе нужна военная поддержка, я буду тут."
+    ],
     "Files": {
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/roleDescription/apex/default/2"
@@ -1265,7 +1321,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Позвольте мне нагнать вас!"
+    ],
     "Files": {
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/cantreach/default/default/4"
@@ -1277,7 +1335,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Давайте идти!"
+    ],
     "Files": {
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/follow/default/default/2"
@@ -1289,7 +1349,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Отправляемся."
+    ],
     "Files": {
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/follow/penguin/default/1"
@@ -1297,7 +1359,7 @@
     },
     "Texts": {
       "Eng": "Let's go then.",
-      "Rus": "Отправляемся."
+      "Rus": "Тогда отправляемся."
     }
   },
   {
@@ -1565,7 +1627,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Воссоздание щщщекочет."
+    ],
     "Files": {
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/respawned/floran/default/2"
@@ -1697,7 +1761,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Плавать среди звезд... Возможно ты ищешь членов в экипаж?"
+    ],
     "Files": {
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/offer/avian/default/0"

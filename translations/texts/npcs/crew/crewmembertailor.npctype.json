@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Поговори с Флораном, если захочешь обновить униформу!"
+    ],
     "Files": {
       "npcs/crew/crewmembertailor.npctype": [
         "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0"
@@ -24,7 +26,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Приходите ко мне как только пожелаете обновить униформу экипажа."
+    ],
     "Files": {
       "npcs/crew/crewmembertailor.npctype": [
         "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmotedText"
@@ -48,7 +52,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флоран может обновить форму экипажа как только пожелаете"
+    ],
     "Files": {
       "npcs/crew/crewmembertailor.npctype": [
         "/scriptConfig/dialog/crewmember/roleDescription/floran/default/1"
@@ -60,7 +66,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флоран впечатлен вашим чувством ссстиля! ",
+      "Флоран впечатлен твоим чувством сстиля! "
+    ],
     "Files": {
       "npcs/crew/crewmembertailor.npctype": [
         "/scriptConfig/dialog/converse/floran/default/1"
@@ -68,11 +77,13 @@
     },
     "Texts": {
       "Eng": "Floran impressed with your sense of ssstyle!",
-      "Rus": "Флоран впечатлен твоим чувством сстиля! "
+      "Rus": "Флоран впечатлён твоим чувством ссстиля!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флорану нравится выбор одежды, капитан."
+    ],
     "Files": {
       "npcs/crew/crewmembertailor.npctype": [
         "/scriptConfig/dialog/converse/floran/default/2"
@@ -84,7 +95,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флоран думает это хххорошая форма!"
+    ],
     "Files": {
       "npcs/crew/crewmembertailor.npctype": [
         "/scriptConfig/dialog/converse/floran/default/0"
@@ -96,7 +109,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я не могу дождаться того момента, когда услышу, что люди думают о вашей новой униформе, капитан!"
+    ],
     "Files": {
       "npcs/crew/crewmembertailor.npctype": [
         "/scriptConfig/dialog/converse/glitch/default/2/glitchEmotedText"
@@ -108,7 +123,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я уверен людям понравится ваша униформа!"
+    ],
     "Files": {
       "npcs/crew/crewmembertailor.npctype": [
         "/scriptConfig/dialog/converse/glitch/default/1/glitchEmotedText"
@@ -120,7 +137,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Если вы хотите обновить униформу экипажа, просто обратитесь ко мне!"
+    ],
     "Files": {
       "npcs/crew/crewmembertailor.npctype": [
         "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1/glitchEmotedText"
@@ -132,7 +151,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Невероятное чувство моды, капитан!"
+    ],
     "Files": {
       "npcs/crew/crewmembertailor.npctype": [
         "/scriptConfig/dialog/converse/default/default/3"
@@ -156,7 +177,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Со своими навыками портного я могу обновить форму вашего экипажа. Если вам понадобятся мои услуги, просто поговорите со мной."
+    ],
     "Files": {
       "npcs/crew/crewmembertailor.npctype": [
         "/scriptConfig/dialog/crewmember/roleDescription/default/default/1"
@@ -192,7 +215,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Подающий надежды выбор формы, капитан!"
+    ],
     "Files": {
       "npcs/crew/crewmembertailor.npctype": [
         "/scriptConfig/dialog/converse/glitch/default/0/glitchEmotedText"
@@ -204,7 +229,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "В этой одежде ваш экипаж правда бесподобен. Хороший выбор, капитан!"
+    ],
     "Files": {
       "npcs/crew/crewmembertailor.npctype": [
         "/scriptConfig/dialog/converse/default/default/2"

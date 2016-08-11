@@ -12,7 +12,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "У Флоран есть вещщщи что выручат тебя!",
+      "У Флорана есть вещи что выручат тебя!"
+    ],
     "Files": {
       "npcs/crew/crewmemberchemist.npctype": [
         "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/0"
@@ -20,7 +23,7 @@
     },
     "Texts": {
       "Eng": "Floran hasss things to help you out!",
-      "Rus": "У Флорана есть вещи что выручат тебя!"
+      "Rus": "У Флорана есть кое-что, что выручит тебя!"
     }
   },
   {
@@ -36,7 +39,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Интересно, это должно вам помочь?"
+    ],
     "Files": {
       "npcs/crew/crewmemberchemist.npctype": [
         "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2/glitchEmotedText"
@@ -72,7 +77,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Возможно, это поможет вам!"
+    ],
     "Files": {
       "npcs/crew/crewmemberchemist.npctype": [
         "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1/glitchEmotedText"
