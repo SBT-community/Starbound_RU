@@ -16,7 +16,7 @@
       "jump": {
         "rocketjump.tech.json": 1,
         "walljump.tech.json": 1,
-        "doublejump.tech.json": 1,
+        "doublejump.tech.json": 2,
         "multijump.tech.json": 1
       }
     },
@@ -66,7 +66,7 @@
         "gothic.npctype.json": 10
       },
       "shared_r.npctype.json": 5,
-      "statuses.config.json": 0,
+      "statuses.config.json": 47,
       "follower.npctype.json": 6,
       "friendlyguard.npctype.json": 25,
       "tutorialtenant.npctype.json": 16,
@@ -96,7 +96,7 @@
           "executioner.npctype.json": 3
         },
         "avianairship": {
-          "airshipquartermaster.npctype.json": 14
+          "airshipquartermaster.npctype.json": 17
         }
       },
       "museum": {
@@ -215,15 +215,15 @@
         "lanafight.npctype.json": 5
       },
       "crew": {
-        "crewmember.npctype.json": 115,
-        "shared_crewmember.json": 5,
-        "crewmembermedic.npctype.json": 17,
-        "crewmembermechanic.npctype.json": 2,
-        "crewmembertailor.npctype.json": 16,
-        "crewmemberchemist.npctype.json": 6,
-        "crewmemberoutlaw.npctype.json": 47,
-        "crewmemberengineer.npctype.json": 2,
-        "crewmemberjanitor.npctype.json": 1
+        "crewmember.npctype.json": 162,
+        "shared_crewmember.json": 8,
+        "crewmembermedic.npctype.json": 19,
+        "crewmembermechanic.npctype.json": 4,
+        "crewmembertailor.npctype.json": 18,
+        "crewmemberchemist.npctype.json": 8,
+        "crewmemberoutlaw.npctype.json": 49,
+        "crewmemberengineer.npctype.json": 4,
+        "crewmemberjanitor.npctype.json": 3
       },
       "shared_tutorial.json": 2,
       "arena": {
@@ -260,7 +260,7 @@
         "undergroundvillager.npctype.json": 25,
         "desertvillager.npctype.json": 6,
         "snowvillager.npctype.json": 6,
-        "shared_guard.npctype.json": 11,
+        "shared_guard.npctype.json": 12,
         "foundryworker.npctype.json": 13,
         "frogmerchant.npctype.json": 2,
         "greenfinger.npctype.json": 18,
@@ -618,7 +618,7 @@
     },
     "shared_goldenplatform.mat.json": 5,
     "shared_ice..json": 1,
-    "help.config.json": 4,
+    "help.config.json": 12,
     "shared_tribalplatform.mat.json": 4,
     "shared_ant.json": 5,
     "interface": {
@@ -1135,7 +1135,7 @@
       }
     },
     "wide_spread_fields.json": 44,
-    "shared_tungstenplatform.mat.json": 4,
+    "shared_tungstenplatform.mat.json": 5,
     "shared_copperplatform.mat.json": 5,
     "shared_monster.json": 14,
     "liquids": {
@@ -1158,11 +1158,11 @@
     "shared_wreckplatform.mat.json": 4,
     "_metadata.json": 1,
     "shared_medievalladder.mat.json": 2,
-    "npcs.json": 41,
+    "npcs.json": 42,
     "celestial.config.json": 32,
     "shared_tar..json": 1,
     "shared_merchant..json": 1,
-    "player.config.json": 2,
+    "player.config.json": 3,
     "monsters": {
       "ghosts": {
         "spookit": {
@@ -1528,11 +1528,11 @@
     },
     "names": {
       "tribal.namesource.json": 0,
-      "russiansurname.namesource.json": 0,
-      "russianmale.namesource.json": 0,
-      "shared_e.namesource.json": 0,
-      "russianfemale.namesource.json": 0,
-      "aztec.namesource.json": 0
+      "russiansurname.namesource.json": 50,
+      "russianmale.namesource.json": 83,
+      "shared_e.namesource.json": 2,
+      "russianfemale.namesource.json": 89,
+      "aztec.namesource.json": 138
     },
     "shared_platform.json": 1,
     "blueprint.config.json": 2,
@@ -9018,7 +9018,7 @@
     "shared_ect.json": 0,
     "shared_thorns.json": 1,
     "shared_ancientplatform.mat.json": 5,
-    "radiomessages.config.json": 0,
+    "radiomessages.config.json": 1,
     "ai": {
       "missionpenguin2.aimission.json": 3,
       "missionhuman1.aimission.json": 3,
@@ -9128,7 +9128,7 @@
     "radiomessages": {
       "tutorial.radiomessages.json": 23,
       "quests.radiomessages.json": 6,
-      "missions.radiomessages.json": 52,
+      "missions.radiomessages.json": 57,
       "ship.radiomessages.json": 3,
       "techchallenge.radiomessages.json": 8,
       "intro.radiomessages.json": 16,
@@ -12513,7 +12513,7 @@
         },
         "decorative": {
           "shared_fleshplant": {
-            "shared_fleshplant.grass.json": 1
+            "shared_fleshplant.grass.json": 2
           },
           "shared_crystalflower": {
             "shared_crystalflower.grass.json": 2
