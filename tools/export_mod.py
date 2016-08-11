@@ -137,9 +137,9 @@ labelsTranslatedN = sum_up_counter(labelsTranslated)
 
   
 with open(join(translations_dir, "translatedlabels.json"), "w") as f:
-  dump(labelsTranslated, f, indent = 2)
+  dump(labelsTranslated, f, indent = 2, sort_keys=True)
 with open(join(translations_dir, "totallabels.json"), "w") as f:
-  dump(labelsTotal, f, indent = 2)
+  dump(labelsTotal, f, indent = 2, sort_keys=True)
 
 print("Statistics:")
 print("Translated labels: " + str(labelsTranslatedN))
