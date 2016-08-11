@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/giantflower/giantflowerchair/giantflowerchair.object": [
+        "/avianDescription"
+      ],
+      "objects/biome/mushroom/shroomchair/shroomchair.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The back of this chair chafes against my feathers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/giantflower/giantflowerchair/giantflowerchair.object": [
+        "/apexDescription"
+      ],
+      "objects/biome/mushroom/shroomchair/shroomchair.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This chair feels spongy and weird."
+    }
+  }
+]

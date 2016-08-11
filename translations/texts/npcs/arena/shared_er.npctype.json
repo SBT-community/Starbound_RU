@@ -1,0 +1,117 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenabruiser.npctype": [
+        "/scriptConfig/dialog/cantReach/default/default/0"
+      ],
+      "npcs/arena/arenafighter.npctype": [
+        "/scriptConfig/dialog/cantReach/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come closer!",
+      "Rus": "Подойди ближе!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenabruiser.npctype": [
+        "/scriptConfig/dialog/cantReach/default/default/1"
+      ],
+      "npcs/arena/arenafighter.npctype": [
+        "/scriptConfig/dialog/cantReach/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll get you!",
+      "Rus": "Я тебя достану!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Приготовься к поражению!"
+    ],
+    "Files": {
+      "npcs/arena/arenabruiser.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/arena/arenafighter.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Prepare to be crushed!",
+      "Rus": "Приготовься быть раздавленным!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Ты не убежишь!"
+    ],
+    "Files": {
+      "npcs/arena/arenabruiser.npctype": [
+        "/scriptConfig/dialog/outOfSight/default/default/0"
+      ],
+      "npcs/arena/arenafighter.npctype": [
+        "/scriptConfig/dialog/outOfSight/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "There is no escape!",
+      "Rus": "Тебе не сбежать!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Нет ничего сильнее нашей общей силы!"
+    ],
+    "Files": {
+      "npcs/arena/arenabruiser.npctype": [
+        "/scriptConfig/dialog/cheerOn/default/default/0"
+      ],
+      "npcs/arena/arenafighter.npctype": [
+        "/scriptConfig/dialog/cheerOn/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "They're no match for our combined power!",
+      "Rus": "Они не сравнятся с нашей объединенной мощью!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "В этот раз я тебя прикончу!"
+    ],
+    "Files": {
+      "npcs/arena/arenabruiser.npctype": [
+        "/scriptConfig/dialog/reattack/default/default/0"
+      ],
+      "npcs/arena/arenafighter.npctype": [
+        "/scriptConfig/dialog/reattack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This time I'll end you!",
+      "Rus": "На этот раз я покончу с тобой!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Ты не спрячешься от меня!"
+    ],
+    "Files": {
+      "npcs/arena/arenabruiser.npctype": [
+        "/scriptConfig/dialog/lostTarget/default/default/0"
+      ],
+      "npcs/arena/arenafighter.npctype": [
+        "/scriptConfig/dialog/lostTarget/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You can't hide from me!",
+      "Rus": "Тебе не спрятаться от меня!"
+    }
+  }
+]

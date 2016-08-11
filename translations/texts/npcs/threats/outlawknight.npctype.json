@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/outlawknight.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have an urge to commit some barbarous acts!",
+      "Rus": "У меня дикое желание сделать что-нибудь варварское!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/outlawknight.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll leave you in pieces!",
+      "Rus": "Я разорву тебя на кусочки!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/outlawknight.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll post you back home in little pieces!",
+      "Rus": "Я по частям отправлю тебя домой!"
+    }
+  }
+]

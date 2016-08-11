@@ -1,0 +1,32 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/inventorstable.config": [
+        "/paneLayout/windowtitle/title"
+      ],
+      "objects/crafting/upgradeablecraftingobjects/inventorstable/inventorstable.object": [
+        "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Inventor's Table",
+      "Rus": "Стол изобретателя"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/inventorstable.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ],
+      "objects/crafting/upgradeablecraftingobjects/inventorstable/inventorstable.object": [
+        "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  ^#b9b5b2;Innovation station",
+      "Rus": "^#b9b5b2;Инновационная станция"
+    }
+  }
+]

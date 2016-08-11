@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/castlewalls2.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/castlewalls2.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It appears these bricks were all cut from the same stone.",
+      "Rus": "Похоже все кирпичи добыты из одной скалы."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/castlewalls2.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/castlewalls2.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Small Stone Brick",
+      "Rus": "Маленький Каменный Кирпич"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Небольшие каменные плиты, идеальны для тонких деталей конструкции."
+    ],
+    "Files": {
+      "items/materials/castlewalls2.matitem": [
+        "/description"
+      ],
+      "tiles/materials/castlewalls2.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Small stone slabs, perfect for the finer details.",
+      "Rus": "Маленькие каменные плиты, идеальны для тонких деталей."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/castlewalls2.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/castlewalls2.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some bricks carved outta rock.",
+      "Rus": "Пара кирпичей, выдолбленные из скалы."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/castlewalls2.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/castlewalls2.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These sstone brickss are ssmall.",
+      "Rus": "Эти кирпиччи сслишком малы"
+    }
+  }
+]

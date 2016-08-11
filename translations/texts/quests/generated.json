@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/pools/hatadjectives.config": [
+        "/0/1/45/0",
+        "/0/1/46/0"
+      ],
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/5"
+      ],
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "creepy"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/pools/hatadjectives.config": [
+        "/0/1/40/0"
+      ],
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "fierce"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/pools/hatadjectives.config": [
+        "/0/1/51/0"
+      ],
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "powerful"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/pools/hatadjectives.config": [
+        "/0/1/48/0"
+      ],
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "vicious"
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/purplecrystal.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/purplecrystal.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light appears to dance through this purple crystal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/purplecrystal.matitem": [
+        "/description"
+      ],
+      "tiles/materials/purplecrystal.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light seems to twist inside these purple crystals.",
+      "Rus": "Видно, как свет преломляется внутри этих фиолетовых кристаллов."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/purplecrystal.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/purplecrystal.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pretty purple crysstal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/purplecrystal.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/purplecrystal.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Purple Crystal Block",
+      "Rus": "Блок фиолетовых кристаллов"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/purplecrystal.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/purplecrystal.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This purple crystal is purdy lookin'."
+    }
+  }
+]

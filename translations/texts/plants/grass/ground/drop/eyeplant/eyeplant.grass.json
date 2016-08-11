@@ -1,0 +1,39 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/drop/eyeplant/eyeplant.grass": [
+        "/description",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A gross eyeball flower.",
+      "Rus": "Большой глазастый цветок."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/drop/eyeplant/eyeplant.grass": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vile eye.",
+      "Rus": "Отвратительный глаз."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/drop/eyeplant/eyeplant.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran gaze into abysssss.",
+      "Rus": "Флоран вглядывается в бездну."
+    }
+  }
+]

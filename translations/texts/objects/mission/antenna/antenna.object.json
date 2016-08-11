@@ -1,0 +1,97 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/antenna/antenna.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A device to pick up signals."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/antenna/antenna.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A signal-boosting antenna.",
+      "Rus": "Повышающая сигнал антенна."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/antenna/antenna.object": [
+        "/apexDescription",
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An antenna.",
+      "Rus": "Антенна."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/antenna/antenna.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An antenna. These are typically used to boost communication signals.",
+      "Rus": "Антенна. Обычно используются для усиления сигналов."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/antenna/antenna.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Antenna",
+      "Rus": "Антенна"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/antenna/antenna.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran could use this to ssstab.",
+      "Rus": "Флоран могли бы использовать её что бы дратьсся."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/antenna/antenna.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is there anybody out there? Wait, I don't wanna know.",
+      "Rus": "\"Есть кто на другом конце? Хотя нет. Не хочу знать."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/antenna/antenna.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This antenna is playing havoc with my sensors."
+    }
+  }
+]

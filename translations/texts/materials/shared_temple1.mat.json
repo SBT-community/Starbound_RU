@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/temple1.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/temple1.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likes sstone picturess.",
+      "Rus": "Флорану нравятсся картинки на камнях."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/temple1.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/temple1.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ol' blocks with some sorta carvin'.",
+      "Rus": "Что за камни, да ещё и нацарапано что-то."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/temple1.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/temple1.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Temple Block",
+      "Rus": "Храмовый блок"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/temple1.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/temple1.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These stone carvings depict an unknown language.",
+      "Rus": "На этих камнях письмена на неизвестном языке."
+    }
+  }
+]

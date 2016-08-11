@@ -1,0 +1,53 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/avianswitchhidden/avianswitchhidden1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avian/avianswitchhidden/avianswitchhidden2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/glitch/medievalswitchhidden/medievalswitchhidden.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange tile."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/avianswitchhidden/avianswitchhidden1.object": [
+        "/apexDescription"
+      ],
+      "objects/avian/avianswitchhidden/avianswitchhidden2.object": [
+        "/apexDescription"
+      ],
+      "objects/glitch/medievalswitchhidden/medievalswitchhidden.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This tile appears to be loose."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/avianswitchhidden/avianswitchhidden1.object": [
+        "/avianDescription"
+      ],
+      "objects/avian/avianswitchhidden/avianswitchhidden2.object": [
+        "/avianDescription"
+      ],
+      "objects/glitch/medievalswitchhidden/medievalswitchhidden.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This tile is a bad fit."
+    }
+  }
+]

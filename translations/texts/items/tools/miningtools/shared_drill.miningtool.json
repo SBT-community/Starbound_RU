@@ -1,0 +1,29 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Бурит быстро, но быстро ломается. Временная альтернатива манипулятор материи.",
+      "Бурит быстро, но быстро ломается. Временная альтернатива манипулятора материи.",
+      "Бурит быстро, но и быстро ломается. Временная альтернатива манипулятора материи."
+    ],
+    "Files": {
+      "items/tools/miningtools/copperdrill.miningtool": [
+        "/description"
+      ],
+      "items/tools/miningtools/diamonddrill.miningtool": [
+        "/description"
+      ],
+      "items/tools/miningtools/golddrill.miningtool": [
+        "/description"
+      ],
+      "items/tools/miningtools/platinumdrill.miningtool": [
+        "/description"
+      ],
+      "items/tools/miningtools/silverdrill.miningtool": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drills fast but breaks quickly. A temporary alternative to the matter manipulator."
+    }
+  }
+]

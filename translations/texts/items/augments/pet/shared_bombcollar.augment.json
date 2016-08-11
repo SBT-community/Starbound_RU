@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Ошейник, который вызывает взрыв вашего питомца, после его смерти."
+    ],
+    "Files": {
+      "items/augments/pet/electricbombcollar.augment": [
+        "/description"
+      ],
+      "items/augments/pet/firebombcollar.augment": [
+        "/description"
+      ],
+      "items/augments/pet/icebombcollar.augment": [
+        "/description"
+      ],
+      "items/augments/pet/poisonbombcollar.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A collar that causes your pet to explode when they're defeated.",
+      "Rus": "Ошейник, который взрывает вашего питомца, после его смерти."
+    }
+  }
+]

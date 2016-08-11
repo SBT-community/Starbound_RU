@@ -1,0 +1,89 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/humanprison.npctype": [
+        "/scriptConfig/dialog/converse/human/default/2",
+        "/scriptConfig/dialog/converse/human/human/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do I look like a bit of a misfit in this jumpsuit?",
+      "Rus": "Должен ли я выглядеть как неудачник в этом комбинезоне?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/humanprison.npctype": [
+        "/scriptConfig/dialog/converse/human/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't think I'm a menace because of this jumpsuit! I'm wearing it because it's comfy.",
+      "Rus": "Не подумайте, что я опасен из-за этого комбинезона! Я ношу его, потому что он удобный."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/humanprison.npctype": [
+        "/scriptConfig/dialog/converse/human/default/1",
+        "/scriptConfig/dialog/converse/human/human/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't worry, I'm not dangerous! I was in prison for financial skulduggery...",
+      "Rus": "Не волнуйтесь, я не опасен! Я был в тюрьме за финансовое надувательство..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/humanprison.npctype": [
+        "/scriptConfig/dialog/converse/human/default/4",
+        "/scriptConfig/dialog/converse/human/human/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I didn't go to prison, this jumpsuit is just for comfort... Honest.",
+      "Rus": "Я не шёл в тюрьму, этот комбинезон просто для комфорта... Честное слово."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/humanprison.npctype": [
+        "/scriptConfig/dialog/converse/human/human/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I heard about what happened to Earth. I'm glad I was in prison elsewhere at the time.",
+      "Rus": "Я слышал о том, что случилось с Землей. Я рад, что в то время я был в тюрьме в другом месте."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/humanprison.npctype": [
+        "/scriptConfig/dialog/converse/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I just got out of prison! I was quite fond of it, though.",
+      "Rus": "Я только что вышел из тюрьмы! Хотя, я очень любил её."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/humanprison.npctype": [
+        "/scriptConfig/dialog/converse/human/human/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "If I had joined the Protectorate, maybe I wouldn't have ended up in prison.",
+      "Rus": "Если бы я присоединился к Протекторату, возможно, я бы не оказался в тюрьме."
+    }
+  }
+]

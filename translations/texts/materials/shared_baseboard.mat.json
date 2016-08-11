@@ -1,0 +1,77 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/baseboard.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/baseboard.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Baseboards are not commonly found in Glitch construction.",
+      "Rus": "Плинтуса не часто встречаются в конструкциях Гличей."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/baseboard.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/baseboard.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Classic Baseboard",
+      "Rus": "Классический Плинтус"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/baseboard.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/baseboard.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fancy wall boardsss.",
+      "Rus": "Необычные настенные доски."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/baseboard.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/baseboard.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some fancy wall moulding.",
+      "Rus": "Несколько необычные украшения для стен."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/baseboard.matitem": [
+        "/description"
+      ],
+      "tiles/materials/baseboard.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This baseboard completes the classic home look.",
+      "Rus": "Этот плинтус завершает классический домашний вид."
+    }
+  }
+]

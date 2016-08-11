@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fullwood1.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/fullwood1.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Although this wood looks freshly chopped, it has been carefully treated.",
+      "Rus": "Хотя эта древесина и выглядит свеже нарезанной, она явно чем-то пропитана."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Тщательно обработанная древесина, которая сохраняет свежий рубленый внешний вид."
+    ],
+    "Files": {
+      "items/materials/fullwood1.matitem": [
+        "/description"
+      ],
+      "tiles/materials/fullwood1.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Carefully treated wood that maintains a freshly chopped appearance.",
+      "Rus": "Аккуратно обработанная древесина. Хорошо сохраняет структуру рисунка."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fullwood1.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/fullwood1.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It looks fresh cut, but this wood has been treated with somethin'.",
+      "Rus": "Дерево выглядит как недавно срублёное, но кажись чем-то умаслено."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fullwood1.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/fullwood1.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jusst some bassic wood.",
+      "Rus": "Обычная деревяшшка"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Обработанная Древесина"
+    ],
+    "Files": {
+      "items/materials/fullwood1.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/fullwood1.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Treated Wood",
+      "Rus": "Обработанная древесина"
+    }
+  }
+]

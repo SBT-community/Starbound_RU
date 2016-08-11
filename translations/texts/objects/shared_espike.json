@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Не хотелось бы упасть на один из них.",
+      "Не хочу упасть на один из них..."
+    ],
+    "Files": {
+      "objects/biome/tentacle/tentaclespike/tentaclespike.object": [
+        "/description"
+      ],
+      "objects/mission/bonespike/bonespike.object": [
+        "/description"
+      ],
+      "objects/obstacles/ice/icespike/icespike.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't wanna fall on one of these..."
+    }
+  }
+]

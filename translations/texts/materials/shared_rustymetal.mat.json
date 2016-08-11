@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rustymetal.matitem": [
+        "/description"
+      ],
+      "tiles/materials/rustymetal.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Old metal encrusted with rust.",
+      "Rus": "Старый металл, покрытый ржавчиной."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rustymetal.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/rustymetal.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Russst covered metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rustymetal.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/rustymetal.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rusty Metal",
+      "Rus": "Ржавый металл"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rustymetal.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/rustymetal.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some ol' metal covered in thick rust."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rustymetal.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/rustymetal.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The rust on this metal makes me very uncomfortable."
+    }
+  }
+]

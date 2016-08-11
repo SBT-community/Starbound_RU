@@ -1,0 +1,109 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitybrokenelectricbox1/scorchedcitybrokenelectricbox1.object": [
+        "/apexDescription"
+      ],
+      "objects/biome/scorchedcity/scorchedcitybrokenelectricbox2/scorchedcitybrokenelectricbox2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A broken utility box, there are some exposed wires here.",
+      "Rus": "Поломанный ящик, из него торчат оголённые провода."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitybrokenelectricbox1/scorchedcitybrokenelectricbox1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/biome/scorchedcity/scorchedcitybrokenelectricbox2/scorchedcitybrokenelectricbox2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A utility box, it is rusted over.",
+      "Rus": "Ящик, весь проржавел."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Всё полезное уже давно спёрли из этого ящика."
+    ],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitybrokenelectricbox1/scorchedcitybrokenelectricbox1.object": [
+        "/novakidDescription"
+      ],
+      "objects/biome/scorchedcity/scorchedcitybrokenelectricbox2/scorchedcitybrokenelectricbox2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Anythin' useful was gone long ago from this utility box.",
+      "Rus": "Чегоб там не было, уж сплыло давно."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitybrokenelectricbox1/scorchedcitybrokenelectricbox1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/biome/scorchedcity/scorchedcitybrokenelectricbox2/scorchedcitybrokenelectricbox2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This once useful utility box is rusted and broken.",
+      "Rus": "Когда-то полезный ящик, теперь проржавел и сломан."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitybrokenelectricbox1/scorchedcitybrokenelectricbox1.object": [
+        "/humanDescription"
+      ],
+      "objects/biome/scorchedcity/scorchedcitybrokenelectricbox2/scorchedcitybrokenelectricbox2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This utility box is broken, looks like someone took anything useful.",
+      "Rus": "Ящик, похоже всё ценное кто-то забрал."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitybrokenelectricbox1/scorchedcitybrokenelectricbox1.object": [
+        "/avianDescription"
+      ],
+      "objects/biome/scorchedcity/scorchedcitybrokenelectricbox2/scorchedcitybrokenelectricbox2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This utility box is rusty and broken.",
+      "Rus": "Ящик, ржавый и поломанный."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitybrokenelectricbox1/scorchedcitybrokenelectricbox1.object": [
+        "/floranDescription"
+      ],
+      "objects/biome/scorchedcity/scorchedcitybrokenelectricbox2/scorchedcitybrokenelectricbox2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thiss is broken, can sssee wiress.",
+      "Rus": "Эта штука ссломана, ессть провода."
+    }
+  }
+]

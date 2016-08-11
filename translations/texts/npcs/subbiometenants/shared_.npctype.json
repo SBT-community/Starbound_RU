@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Давай как-нибудь снова встретимся!"
+    ],
+    "Files": {
+      "npcs/subbiometenants/glow.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/6"
+      ],
+      "npcs/subbiometenants/prism.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let's do business again soon!",
+      "Rus": "Приятно иметь с тобой дело, еще увидимся!"
+    }
+  }
+]

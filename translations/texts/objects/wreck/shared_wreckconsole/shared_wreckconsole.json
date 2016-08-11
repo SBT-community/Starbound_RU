@@ -1,0 +1,140 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wreckconsole1/wreckconsole1.object": [
+        "/avianDescription"
+      ],
+      "objects/wreck/wreckconsole2/wreckconsole2.object": [
+        "/avianDescription"
+      ],
+      "objects/wreck/wreckconsole3/wreckconsole3.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A console. It doesn't work.",
+      "Rus": "Консоль. Она не работает."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Бесполезная повреждённая консоль."
+    ],
+    "Files": {
+      "objects/wreck/wreckconsole1/wreckconsole1.object": [
+        "/apexDescription"
+      ],
+      "objects/wreck/wreckconsole2/wreckconsole2.object": [
+        "/apexDescription"
+      ],
+      "objects/wreck/wreckconsole3/wreckconsole3.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A useless wrecked console.",
+      "Rus": "Бесполезная сломанная консоль."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Поврежденная консоль. Удивительно, что эта вещь когда-либо работала.",
+      "Повреждённая консоль. Интересно, она вообще когда-нибудь работала."
+    ],
+    "Files": {
+      "objects/wreck/wreckconsole1/wreckconsole1.object": [
+        "/novakidDescription"
+      ],
+      "objects/wreck/wreckconsole2/wreckconsole2.object": [
+        "/novakidDescription"
+      ],
+      "objects/wreck/wreckconsole3/wreckconsole3.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wrecked console. I wonder if this thing ever worked."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Эта консоль не работает. Половина кнопок отсутствуют."
+    ],
+    "Files": {
+      "objects/wreck/wreckconsole1/wreckconsole1.object": [
+        "/humanDescription"
+      ],
+      "objects/wreck/wreckconsole2/wreckconsole2.object": [
+        "/humanDescription"
+      ],
+      "objects/wreck/wreckconsole3/wreckconsole3.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This console doesn't work. Half the buttons are missing.",
+      "Rus": "Эта консоль не работает. Половина кнопок отсутствует."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Эта консоль сломана  и бесполезна."
+    ],
+    "Files": {
+      "objects/wreck/wreckconsole1/wreckconsole1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/wreck/wreckconsole2/wreckconsole2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/wreck/wreckconsole3/wreckconsole3.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This console is broken and useless.",
+      "Rus": "Эта консоль сломана и бесполезна."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Эта консоль сломана и не подлежит ."
+    ],
+    "Files": {
+      "objects/wreck/wreckconsole1/wreckconsole1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/wreck/wreckconsole2/wreckconsole2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/wreck/wreckconsole3/wreckconsole3.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This console is broken beyond repair.",
+      "Rus": "Эта консоль сломана и не подлежит ремонту."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Эта консоль не работает."
+    ],
+    "Files": {
+      "objects/wreck/wreckconsole1/wreckconsole1.object": [
+        "/floranDescription"
+      ],
+      "objects/wreck/wreckconsole2/wreckconsole2.object": [
+        "/floranDescription"
+      ],
+      "objects/wreck/wreckconsole3/wreckconsole3.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This consssole is broken.",
+      "Rus": "Эта консоль сссломана."
+    }
+  }
+]

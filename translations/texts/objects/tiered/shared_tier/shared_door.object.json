@@ -1,0 +1,101 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/tiered/tier1door/tier1door.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/tiered/tier2door/tier2door.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A useful, basic door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/tiered/tier1door/tier1door.object": [
+        "/avianDescription"
+      ],
+      "objects/tiered/tier2door/tier2door.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fairly sturdy for a basic door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/tiered/tier1door/tier1door.object": [
+        "/novakidDescription"
+      ],
+      "objects/tiered/tier2door/tier2door.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just a simple door, does the job I guess."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/tiered/tier3door/tier3door.object": [
+        "/novakidDescription"
+      ],
+      "objects/tiered/tier4door/tier4door.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now this is a sturdy lookin' door!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/tiered/tier3door/tier3door.object": [
+        "/apexDescription"
+      ],
+      "objects/tiered/tier4door/tier4door.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door is rather secure."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/tiered/tier1door/tier1door.object": [
+        "/apexDescription"
+      ],
+      "objects/tiered/tier2door/tier2door.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door is relatively secure.",
+      "Rus": "Эта дверь обеспечит относительную безопасность."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/tiered/tier3door/tier3door.object": [
+        "/avianDescription"
+      ],
+      "objects/tiered/tier4door/tier4door.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Very sturdy for a basic door."
+    }
+  }
+]

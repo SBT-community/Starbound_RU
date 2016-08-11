@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Для выращивания болтолуковицы! Вопреки всему, мягкой."
+    ],
+    "Files": {
+      "items/generic/produce/boltbulb.consumable": [
+        "/description"
+      ],
+      "objects/farmables/boltbulb/wildboltbulbseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Boltbulb! Surprisingly soft.",
+      "Rus": "Болтолуковица! Неожиданно мягкая."
+    }
+  }
+]

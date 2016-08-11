@@ -1,0 +1,87 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Блок полностью состоит из золота."
+    ],
+    "Files": {
+      "items/materials/goldblock.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/goldblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A block made entirely of solid gold.",
+      "Rus": "Блок целиком сделан из чистого золота."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Целый блок чистого золота."
+    ],
+    "Files": {
+      "items/materials/goldblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/goldblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A whole block of solid gold.",
+      "Rus": "Цельный блок чистого золота."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Блок золота"
+    ],
+    "Files": {
+      "items/materials/goldblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/goldblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gold Block",
+      "Rus": "Золотой блок"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Ззолотые блоки ссветятся."
+    ],
+    "Files": {
+      "items/materials/goldblock.matitem": [
+        "/floranDescription"
+      ],
+      "tiles/materials/goldblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sshiny gold blockss.",
+      "Rus": "Ссверкающий золотой блок."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Ю-Ху! Блестящие блоки чистого золота!",
+      "Юху! Блестящий блок чистого золота!"
+    ],
+    "Files": {
+      "items/materials/goldblock.matitem": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/goldblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yeehaw! Shiny blocks of solid gold!"
+    }
+  }
+]

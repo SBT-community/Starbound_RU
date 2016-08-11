@@ -1,0 +1,90 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratedoor/protectoratedoor.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/apexshipdoor/apexshipdoor.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/avianshipdoor/avianshipdoor.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/floranshipdoor/floranshipdoor.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/glitchshipdoor/glitchshipdoor.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/humanshipdoor/humanshipdoor.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/hylotlshipdoor/hylotlshipdoor.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/novakidshipdoor/novakidshipdoor.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A door.",
+      "Rus": "Дверь."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/opulent/opulentdoor/opulentdoor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/themed/wave/wavedoor/wavedoor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/tiered/tier3door/tier3door.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/tiered/tier4door/tier4door.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A useful door."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Флориан прятатьсся за дверь. Выпрыгивай! кромссай!",
+      "Флориан прячьсся за дверью. Высскакивай. Кромссай!"
+    ],
+    "Files": {
+      "objects/themed/executive/executivedoor/executivedoor.object": [
+        "/floranDescription"
+      ],
+      "objects/themed/opulent/opulentdoor/opulentdoor.object": [
+        "/floranDescription"
+      ],
+      "objects/themed/serene/serenedoor/serenedoor.object": [
+        "/floranDescription"
+      ],
+      "objects/themed/wave/wavedoor/wavedoor.object": [
+        "/floranDescription"
+      ],
+      "objects/tiered/tier1door/tier1door.object": [
+        "/floranDescription"
+      ],
+      "objects/tiered/tier2door/tier2door.object": [
+        "/floranDescription"
+      ],
+      "objects/tiered/tier3door/tier3door.object": [
+        "/floranDescription"
+      ],
+      "objects/tiered/tier4door/tier4door.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran hide behind door. Jump out. Ssstab!"
+    }
+  }
+]

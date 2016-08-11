@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Мы начнём прямо сейчас. Пингвины всегда работают, не покладая рук... или крыльев."
+    ],
+    "Files": {
+      "quests/outpost/shipupgrade/illegalshipupgrade2.questtemplate": [
+        "/completionText"
+      ],
+      "quests/outpost/shipupgrade/shipupgrade2.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yer ship'll be upgraded right away. The penguins always do a fine job.",
+      "Rus": "Твой корабль скоро будет улучшен. Пингвины работают, не покладая рук... или крыльев."
+    }
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/thickgrass/thickgrass.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grassy.",
+      "Rus": "Травянисто."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/thickgrass/thickgrass.grass": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thick grass.",
+      "Rus": "Густая трава."
+    }
+  }
+]

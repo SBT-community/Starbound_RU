@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex.config": [
+        "/messages/learned"
+      ]
+    },
+    "Texts": {
+      "Eng": "Codex added to journal!",
+      "Rus": "Кодекс добавлен в журнал!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex.config": [
+        "/messages/alreadyKnown"
+      ]
+    },
+    "Texts": {
+      "Eng": "Codex already known.",
+      "Rus": "Кодекс уже изучен."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex.config": [
+        "/defaultItemConfig/category"
+      ]
+    },
+    "Texts": {
+      "Eng": "codex",
+      "Rus": "Кодекс"
+    }
+  }
+]

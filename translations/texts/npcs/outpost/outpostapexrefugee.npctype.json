@@ -1,0 +1,27 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outpostapexrefugee.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/0",
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hello, star traveller! A friendly face is always welcome here.",
+      "Rus": "Привет, космопилот! Тут тебе всегда рады."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outpostapexrefugee.npctype": [
+        "/scriptConfig/dialog/converse/apex/apex/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "We are both free of the Miniknog here!",
+      "Rus": "Тут Министерству нас не достать!"
+    }
+  }
+]

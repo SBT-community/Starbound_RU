@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/plate.matitem": [
+        "/description"
+      ],
+      "tiles/materials/plate.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reminds me of the inside of a medical centre.",
+      "Rus": "Напоминает мне о стенах медицинского центра."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/plate.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/plate.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Smooth Plated Block",
+      "Rus": "Блок из полированных плит"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/plate.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/plate.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some smooth lookin' wall plates."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/plate.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/plate.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssmooth sshiny metal platess."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/plate.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/plate.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These metal plates have been carefully smoothed."
+    }
+  }
+]

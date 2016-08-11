@@ -1,0 +1,146 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/prism.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Sells window materials",
+      "Rus": "Продажа оконных материалов."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/prism.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Window Salesman",
+      "Rus": "Продавец Окон"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/prism.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here we are - Would you like to buy some glass to make windows?",
+      "Rus": "А вот и мы - не хотите ли купить немного оконного стекла?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/prism.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope you are happy with your windows!",
+      "Rus": "Надеюсь, тебя устроят эти окна!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/prism.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I sell window materials! Build yourself a brighter home, today!",
+      "Rus": "Я продаю оконные материалы! Сделай свой дом светлее уже сегодня! Без регистрации и смс!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/prism.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you need more windows, you know where to find me!",
+      "Rus": "Если тебе понадобятся еще окна - ты знаешь где меня найти!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/prism.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Improve your home with some elegant window installations!",
+      "Rus": "Укрась свое жилище элегантными окнами!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/prism.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let some light into your home - Add some windows!",
+      "Rus": "Добавь света в свой дом - установи окна!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/prism.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let some light into your home - Come back soon!",
+      "Rus": "Добавь света в свой дом - приходи еще!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/prism.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "People with windows in their homes live happier lives. It's a fact!",
+      "Rus": "Люди, у которых есть окна в доме, живут более счастливой жизнью. Проверено!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/prism.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wonderful. Now, perhaps you would like to look at my windows?",
+      "Rus": "Замечательно. Теперь, может быть, вы взгляните на мои окна?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/prism.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You came! Now, would you like to purchase some window materials?",
+      "Rus": "Проходи! Хочешь купить окна?"
+    }
+  }
+]

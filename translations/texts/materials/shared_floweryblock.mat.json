@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Безвкусный набор листьев и цветов"
+    ],
+    "Files": {
+      "items/materials/floweryblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/floweryblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fragrant bundle made of flowers and leaves.",
+      "Rus": "Безвкусный набор листьев и цветов."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/floweryblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/floweryblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flower Block",
+      "Rus": "Цветочный блок"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/floweryblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/floweryblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some bright lookin' flowers.",
+      "Rus": "Несколько ярких на вид цветов."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/floweryblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/floweryblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thesse flowerss look healthy.",
+      "Rus": "Эти цветы выглядят неплохо."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/floweryblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/floweryblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This arrangement of flowers is pleasing.",
+      "Rus": "Этот набор цветов прекрасен."
+    }
+  }
+]

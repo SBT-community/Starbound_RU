@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Укрепленная труба, обычно используется в канализационных системах."
+    ],
+    "Files": {
+      "items/materials/heavypipe.matitem": [
+        "/description"
+      ],
+      "tiles/materials/heavypipe.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A heavy pipe, commonly used in waste systems.",
+      "Rus": "Толстая труба, используемая в канализационных системах."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Укрепленная труба"
+    ],
+    "Files": {
+      "items/materials/heavypipe.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/heavypipe.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Heavy Pipe",
+      "Rus": "Толстая труба"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/heavypipe.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/heavypipe.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I would hate to see the waste that has been passed through this pipe.",
+      "Rus": "Я не хотел бы видеть помои, которые прокачивали через эти трубы."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/heavypipe.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/heavypipe.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some dirty ol' pipes.",
+      "Rus": "Старые да грязные трубы."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/heavypipe.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/heavypipe.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssmelly ssewer pipe.",
+      "Rus": "Вонючая канализационная труба."
+    }
+  }
+]

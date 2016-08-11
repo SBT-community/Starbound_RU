@@ -1,0 +1,86 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/bandit.npctype": [
+        "/scriptConfig/dialog/attack/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't think you're getting out of this one easily!",
+      "Rus": "Не думай, что ты так просто уйдешь!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/bandit.npctype": [
+        "/scriptConfig/dialog/attack/human/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Good, a fight! I was almost bored!",
+      "Rus": "Отлично, драка! Я почти заскучал!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/bandit.npctype": [
+        "/scriptConfig/dialog/attack/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey look, easy prey!",
+      "Rus": "Гляди, легкая жертва!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/bandit.npctype": [
+        "/scriptConfig/dialog/attack/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I bet you'll drop lots of pixels!",
+      "Rus": "Уверен, с тебя выпадет много пикселей!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/bandit.npctype": [
+        "/scriptConfig/dialog/attack/human/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surprise, you're about to get poked full of holes!",
+      "Rus": "Сюрприз, я сейчас в тебе дырок понаделаю!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/bandit.npctype": [
+        "/scriptConfig/dialog/attack/human/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "This isn't personal, I just love attacking people!",
+      "Rus": "Ничего личного, я просто люблю нападать на людей!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/bandit.npctype": [
+        "/scriptConfig/dialog/attack/human/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "You've wandered right into the wolf's den!",
+      "Rus": "Ты забрел прямо в волчье логово!"
+    }
+  }
+]

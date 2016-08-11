@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Блок лунной базы "
+    ],
+    "Files": {
+      "items/materials/lunarbaseblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/lunarbaseblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lunar Base Block",
+      "Rus": "Блок лунной базы"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/lunarbaseblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/lunarbaseblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sorta tough lookin' metal.",
+      "Rus": "Похоже на какой-то жесткий металл."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/lunarbaseblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/lunarbaseblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssstrong metal blockss.",
+      "Rus": "Прочные металличессские блоки."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Этот сплав выглядит невероятно прочным."
+    ],
+    "Files": {
+      "items/materials/lunarbaseblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/lunarbaseblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This alloy looks incredibly durable.",
+      "Rus": "Этот сплав кажется невероятно прочным."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/lunarbaseblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/lunarbaseblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This durable alloy is not familiar.",
+      "Rus": "Этот прочный сплав неизвестен."
+    }
+  }
+]

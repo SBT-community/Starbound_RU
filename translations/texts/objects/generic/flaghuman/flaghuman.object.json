@@ -1,0 +1,105 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flaghuman/flaghuman.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A human flag. I can use this as a waypoint for teleportation.",
+      "Rus": "Флаг человечества. Я могу использовать его как цель для телепортации."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flaghuman/flaghuman.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small locator module attached to this human flag allows it to be bookmarked for teleportation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flaghuman/flaghuman.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Human Flag",
+      "Rus": "Флаг человечества"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flaghuman/flaghuman.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Human flag makess good point to teleport back to ussing teleporter!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flaghuman/flaghuman.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can bookmark this human flag for quick teleportin'."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flaghuman/flaghuman.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The flag of the Protectorate. Use ^green;[E]^white; to bookmark a teleportation location.",
+      "Rus": "Флаг Протектората. Используйте ^green;[E]^white; для добавления точки телепортации в закладки."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flaghuman/flaghuman.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This human flag can act as a way point, enabling me to return to this point using a teleporter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flaghuman/flaghuman.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This human flag can be bookmarked as a destination for my ship teleporter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flaghuman/flaghuman.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This human flag can be saved as a location for my teleporter. Then I can return to it at any time.",
+      "Rus": "Флаг человечества устанавливает точку телепортации. Можно сохранить и пользоваться в любое время."
+    }
+  }
+]

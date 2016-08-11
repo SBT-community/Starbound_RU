@@ -1,0 +1,49 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/protectoratesword.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impetuous. Give me your sword! ...Hm, perhaps I should be more specific. Give me your ^orange;Broken Broadsword^reset; so that I may fix it! Esther has been telling me how - and it poses no challenge for a swordsman like myself! ^white;However, ^green;I will need ^orange;10 Tech Cards^green; to get the job done^reset;.",
+      "Rus": "Импульсивно. Дай мне свой меч! ...Хм, возможно, я должен быть более конкретным. Дай мне свой ^orange;Сломанный широкий меч^reset;, чтобы я мог его починить! Эстер рассказала мне, как это сделать - и это не проблема для такого мечника, как я! ^white;Однако, ^green;мне понадобятся^orange;10 карт технологий^green;, чтобы закончить свою работу^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/protectoratesword.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Proud. Here it is! Better than new! You're welcome!",
+      "Rus": "Гордо. Держи! Лучше, чем прежде! Обращайся, если что!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/protectoratesword.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Speak to ^orange;The Baron^reset; at the ^orange;outpost^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/protectoratesword.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;The Hero's Forge",
+      "Rus": "^green;Кузница Героя"
+    }
+  }
+]

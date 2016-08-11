@@ -1,0 +1,32 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/frog.config": [
+        "/alert/default/default/0",
+        "/enclosedArea/default/default/0",
+        "/final/default/default/0",
+        "/helpme/default/default/0",
+        "/helpthem/default/default/0",
+        "/otherDeed/default/default/0",
+        "/severe/default/default/0",
+        "/tagCriteria/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/frog.config": [
+        "/accuse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "...!",
+      "Rus": "...!"
+    }
+  }
+]

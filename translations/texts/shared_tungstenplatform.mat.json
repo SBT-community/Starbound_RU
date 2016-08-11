@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tungstenplatform.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/platforms/tungstenplatform.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Platforms made outta tungsten.",
+      "Rus": "Платформы, изготовленные из вольфрама."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tungstenplatform.matitem": [
+        "/florandescription"
+      ],
+      "tiles/platforms/tungstenplatform.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sstrong metal platformss.",
+      "Rus": "Крепкие металлические платформы."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Крепкие платформы сделанные из Вольфрама.",
+      "Прочная платформа из вольфрама."
+    ],
+    "Files": {
+      "items/materials/tungstenplatform.matitem": [
+        "/description"
+      ],
+      "tiles/platforms/tungstenplatform.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strong platforms made from tungsten."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tungstenplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/tungstenplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tungsten Platform",
+      "Rus": "Вольфрамовая платформа"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tungstenplatform.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/platforms/tungstenplatform.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tungsten can be made into extremely solid platforms.",
+      "Rus": "Вольфрам делает эти платформы необычайно крепкими."
+    }
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Я не был на земле уже много лет! Как там дела?"
+    ],
+    "Files": {
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/converse/human/default/17"
+      ],
+      "npcs/tutorialtenant.npctype": [
+        "/scriptConfig/dialog/converse/human/default/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "I haven't been to Earth in years! How is it doing these days?",
+      "Rus": "Как давно я не был на Земле! Как там дела?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Я просто путешествую, по личным причинам."
+    ],
+    "Files": {
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ],
+      "npcs/tutorialtenant.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm just on my travels, doing my own thing.",
+      "Rus": "Я просто путешествую, по своим делам."
+    }
+  }
+]

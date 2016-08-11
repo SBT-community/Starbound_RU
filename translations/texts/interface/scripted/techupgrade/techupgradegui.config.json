@@ -1,0 +1,109 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/techupgrade/techupgradegui.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Choose your techs",
+      "Rus": "Выберите технологию"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/techupgrade/techupgradegui.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Tech Upgrade Console",
+      "Rus": "Консоль улучшения технологий"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/techupgrade/techupgradegui.config": [
+        "/gui/lblTechSlotBody/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "BODY TECH",
+      "Rus": "ТЕХНОЛОГИЯ\nДЛЯ ТЕЛА"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/techupgrade/techupgradegui.config": [
+        "/gui/lblTechSlotHead/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "HEAD TECH",
+      "Rus": "ТЕХНОЛОГИЯ\nДЛЯ ГОЛОВЫ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/techupgrade/techupgradegui.config": [
+        "/gui/lblSlot/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Head",
+      "Rus": "Голова"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/techupgrade/techupgradegui.config": [
+        "/gui/lblTechSlotLeg/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "LEG TECH",
+      "Rus": "ТЕХНОЛОГИЯ\nДЛЯ НОГ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/techupgrade/techupgradegui.config": [
+        "/gui/lblChipsLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "REQUIRED TECH CARDS",
+      "Rus": "КАРТОЧЕК ТЕХНОЛОГИЙ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/techupgrade/techupgradegui.config": [
+        "/gui/lblDescription/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Select a slot to modify",
+      "Rus": "Выберите слот для модификации"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/techupgrade/techupgradegui.config": [
+        "/selectTechDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Select a tech to equip or upgrade"
+    }
+  }
+]

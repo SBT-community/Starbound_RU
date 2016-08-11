@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/silverplatform.matitem": [
+        "/description"
+      ],
+      "tiles/platforms/silverplatform.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A polished platform crafted from pure silver.",
+      "Rus": "Отполированная платформа, сделанная из чистого серебра."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/silverplatform.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/platforms/silverplatform.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can see my reflection in these silver platforms."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/silverplatform.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/platforms/silverplatform.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll reckon this platform is worth its weight in silver."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/silverplatform.matitem": [
+        "/florandescription"
+      ],
+      "tiles/platforms/silverplatform.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Platformss made from ssilver."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Платформа из Серебра"
+    ],
+    "Files": {
+      "items/materials/silverplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/silverplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Silver Platform",
+      "Rus": "Серебряная платформа"
+    }
+  }
+]

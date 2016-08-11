@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/shipupgrade/illegalshipupgrade1.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/outpost/shipupgrade/illegalshipupgrade2.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/outpost/shipupgrade/illegalshipupgrade3.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/outpost/shipupgrade/illegalshipupgrade4.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/outpost/shipupgrade/illegalshipupgrade5.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/outpost/shipupgrade/shipupgrade1.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/outpost/shipupgrade/shipupgrade2.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/outpost/shipupgrade/shipupgrade3.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/outpost/shipupgrade/shipupgrade4.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/outpost/shipupgrade/shipupgrade5.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Deliver ^orange;Upgrade Modules^reset; to ^orange;Penguin Pete^reset; at the ^orange;outpost^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Найди ^orange;<itemName>^reset;: ^green;<current> / <required>^reset; "
+    ],
+    "Files": {
+      "quests/outpost/shipupgrade/illegalshipupgrade1.questtemplate": [
+        "/scriptConfig/conditions/0/description"
+      ],
+      "quests/outpost/shipupgrade/illegalshipupgrade2.questtemplate": [
+        "/scriptConfig/conditions/0/description"
+      ],
+      "quests/outpost/shipupgrade/illegalshipupgrade3.questtemplate": [
+        "/scriptConfig/conditions/0/description"
+      ],
+      "quests/outpost/shipupgrade/illegalshipupgrade4.questtemplate": [
+        "/scriptConfig/conditions/0/description"
+      ],
+      "quests/outpost/shipupgrade/illegalshipupgrade5.questtemplate": [
+        "/scriptConfig/conditions/0/description"
+      ],
+      "quests/outpost/shipupgrade/shipupgrade1.questtemplate": [
+        "/scriptConfig/conditions/0/description"
+      ],
+      "quests/outpost/shipupgrade/shipupgrade2.questtemplate": [
+        "/scriptConfig/conditions/0/description"
+      ],
+      "quests/outpost/shipupgrade/shipupgrade3.questtemplate": [
+        "/scriptConfig/conditions/0/description"
+      ],
+      "quests/outpost/shipupgrade/shipupgrade4.questtemplate": [
+        "/scriptConfig/conditions/0/description"
+      ],
+      "quests/outpost/shipupgrade/shipupgrade5.questtemplate": [
+        "/scriptConfig/conditions/0/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Find ^orange;<itemName>^reset;: ^green;<current> / <required>^reset;",
+      "Rus": "Найдите ^orange;<itemName>^reset;: ^green;<current> / <required>^reset; "
+    }
+  }
+]

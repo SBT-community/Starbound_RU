@@ -1,0 +1,47 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/boomerang/boomerang.activeitem": [
+        "/shortdescription"
+      ],
+      "items/categories.config": [
+        "/labels/boomerang"
+      ]
+    },
+    "Texts": {
+      "Eng": "Boomerang",
+      "Rus": "Бумеранг"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/chakram/chakram.activeitem": [
+        "/shortdescription"
+      ],
+      "items/categories.config": [
+        "/labels/chakram"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chakram",
+      "Rus": "Чакрам"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/swamp/froggsuit/frogg.legs": [
+        "/shortdescription"
+      ],
+      "items/fossils/humanoid/froggfossil3.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frogg Legs",
+      "Rus": "Ноги Фрогга"
+    }
+  }
+]

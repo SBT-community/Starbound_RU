@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/protectorateplatform.matitem": [
+        "/description"
+      ],
+      "tiles/platforms/protectorateplatform.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple looking platform.",
+      "Rus": "Обычная бесхитростная платформа."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/protectorateplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/protectorateplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Protectorate Platform",
+      "Rus": "Платформа Проектората"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/protectorateplatform.matitem": [
+        "/florandescription"
+      ],
+      "tiles/platforms/protectorateplatform.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shiny metal platformsss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/protectorateplatform.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/platforms/protectorateplatform.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some fancy lookin' platforms made outta metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/protectorateplatform.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/platforms/protectorateplatform.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These platforms can easily support my weight."
+    }
+  }
+]

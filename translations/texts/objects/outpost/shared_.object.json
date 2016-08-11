@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/penguinbar/penguinbartop.object": [
+        "/chatOptions/0"
+      ],
+      "objects/outpost/ursaminer/ursaminerclosed.object": [
+        "/chatOptions/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Business ain't so great around here these days..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/penguinbar/penguinbartop.object": [
+        "/chatOptions/1"
+      ],
+      "objects/outpost/ursaminer/ursaminerclosed.object": [
+        "/chatOptions/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You here to sort out my problems, huh?"
+    }
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperladder.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/platforms/copperladder.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A ladder made outta copper.",
+      "Rus": "Лестница из меди"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperladder.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/copperladder.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Copper Ladder",
+      "Rus": "Медная лестница"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperladder.matitem": [
+        "/florandescription"
+      ],
+      "tiles/platforms/copperladder.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ladder iss made from sshiny copper.",
+      "Rus": "Лестница из блестящей меди"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperladder.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/platforms/copperladder.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ladder is made from copper."
+    }
+  }
+]

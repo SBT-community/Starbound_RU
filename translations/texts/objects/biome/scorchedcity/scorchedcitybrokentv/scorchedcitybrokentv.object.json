@@ -1,0 +1,92 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Разбитый ТВ",
+      "Сломанный телевизор"
+    ],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitybrokentv/scorchedcitybrokentv.object": [
+        "/description",
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A broken television set."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Разбитый телевизор",
+      "Экран то разбит"
+    ],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitybrokentv/scorchedcitybrokentv.object": [
+        "/avianDescription",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A broken television."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitybrokentv/scorchedcitybrokentv.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Broken Stylish TV",
+      "Rus": "Разбитый но стильный ТВ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitybrokentv/scorchedcitybrokentv.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Televisssion iss broken.",
+      "Rus": "Телевизор Разбит"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitybrokentv/scorchedcitybrokentv.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The screen is broken. Even that is better than static, though.",
+      "Rus": "Экран разбит, но выглядит все равно не плохо"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitybrokentv/scorchedcitybrokentv.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The screen of this TV is broken.",
+      "Rus": "Экран разбит"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitybrokentv/scorchedcitybrokentv.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The screen sure is smashed up good.",
+      "Rus": "Экран разбит вдребезги"
+    }
+  }
+]

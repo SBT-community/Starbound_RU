@@ -1,0 +1,231 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/signstore/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "At this store you're able to create your own custom signs.",
+      "Rus": "В этом киоске ты можешь создать свои собственные таблички."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Before you go jetting off, I'll teach you how to ^green;access and use^white; the ^orange;scan mode^white; on your ^orange;Matter Manipulator^white;. There is a lot to be learned from your surroundings, and the Outpost is no exception. ^green;Press ^#71f2f6;[N]^green; to equip your ^orange;scanner^white;, key areas of interest will appear green. Let me know how you get on!",
+      "Rus": "До того как ты смоешься, я научу тебя, как ^green;получить доступ и использовать^white; ^orange; Режим Сканирования^white; на твоём ^orange;Манипуляторе Материи^white;. Тебе ещё многое предстоит узнать об окружающем тебя мире и Форпост не исключение.  ^green;Нажми ^#71f2f6;[N]^green;, чтобы включить свой ^orange;сканер^white;, особенно любопытные объекты будут подсвечены зелёным. Держи меня в курсе!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excellent work. It may seem trivial, but scanning is an essential skill that will be pivotal in our search for the artifacts.",
+      "Rus": "Отличная работа. Это может показаться тривиальным, но сканирование является одним из важнейших навыков, который будет иметь решающее значение в поисках артефактов."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/shipyardcaptain/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Penguin Pete is an authority on automobiles, from hi-tech spacecrafts to humble hoverbikes.",
+      "Rus": "Пингвин Пит весьма компетентен в вопросах транспорта, от высокотехнологичных космических кораблей до скромных ховербайков."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scanning is such a rewarding hobby.",
+      "Rus": "Сканирование - это очень полезное хобби."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/scriptConfig/radioMessages/complete/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "That concludes our tour for today! ^#71f2f6;Come and find me^white; when you're ready.",
+      "Rus": "На этом закончим наш тур! ^#71f2f6;Вернись ко мне^white;, когда будешь готов."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/scriptConfig/radioMessages/startWithProgress/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Outpost is a wonderful, vibrant place full of curiosities. There's still more to see!",
+      "Rus": "Форпост - это прекрасное живое место, полное любопытных вещей. Ещё столько нужно посмотреть!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/terramart/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Terramart stocks farming and gardening supplies, among other things. They will even buy home-grown produce from you through their remote shipping service.",
+      "Rus": "\"Terramart\", помимо всего прочего, предлагает фермерские и садовые принадлежности. Они даже купят твой личный урожай с помощью дистанционной службы доставки."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/penguinbartop/text",
+        "/scriptConfig/radioMessages/uniqueProgress/penguinbartop2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The barkeep in the Beakeasy will happily trade any diamonds you may have for penguin dubloons, which are popular among his mercenary clientele.",
+      "Rus": "Бармен в пингвиньем баре \"Beakeasy\" с радостью обменяет твои алмазы на пингвиньи дублоны, которые имеют хождение среди его клиентуры наемников."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/techlabconsole2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This console will allow you to equip Techs, greatly enhancing your mobility and dexterity.",
+      "Rus": "Эта консоль позволит тебе использовать Технологии, значительно повышающие твою мобильность и ловкость."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/frogfurnishing/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This furniture shop sells a large selection of exotic pieces from across the universe, and regularly has new stock. It also sells colony deeds, which attract tenants when placed in dwellings.",
+      "Rus": "Магазин мебели обладает широким ассортиментом, собранным по всей Вселенной, и часто пополняет запасы. Также тут продают Колонизаторы, которые привлекут арендаторов, если поставить их в помещение."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/frogfurnishingclosed/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This furniture shop will sell a selection of exotic pieces from across the universe, and regularly have new stock. It will also sell colony deeds, which attract tenants when placed in dwellings.",
+      "Rus": "Магазин мебели обладает широким ассортиментом, собранным по всей Вселенной, и часто пополняет запасы. Также тут продают Колонизаторы, которые привлекут арендаторов, если поставить их в помещение."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Visit The Outpost",
+      "Rus": "Посетите Форпост"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/terramartclosed/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "When Terramart is open, it will stock farming and gardening supplies, among other things. They will even buy home-grown produce from you through their remote shipping service.",
+      "Rus": "Когда \"Terramart\" откроется, он будет предлагать, помимо всего прочего,  фермерские и садовые принадлежности. Они даже купят твой личный урожай с помощью дистанционной службы доставки."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/signstoreclosed/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "When this store is open for business you'll be able to create custom signs here.",
+      "Rus": "Когда этот киоск откроется, ты сможешь создавать здесь уникальные таблички."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/scriptConfig/radioMessages/startAlreadyComplete/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wonderful! You certainly do possess an inquiring mind.",
+      "Rus": "Великолепно! Ты определенно обладаешь пытливым умом."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/2stopshopclosed/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You can buy personal teleporters from this shop once it opens. Extremely useful things.",
+      "Rus": "Ты сможешь купить персональные телепортеры в этом магазине, когда он откроется. Чрезвычайно полезная вещь."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/2stopshop/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You can buy personal teleporters from this shop, extremely useful things.",
+      "Rus": "Ты можешь купить персональный телерепортер в этом магазине, это очень полезная вещь."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/scriptConfig/descriptions/findClues"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Scan objects^reset; to learn more about the ^orange;Outpost^reset;",
+      "Rus": "^green;Просканируйте объекты^reset;, чтобы узнать больше о ^orange;Форпосте^reset;"
+    }
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/fetch.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "As your next tasssk, could you ^green;find us ^orange;<fetchedItems>? ^white;Not too big a job for someone sskillful like you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/fetch.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excellent! Now we can put these to use."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/fetch.questtemplate": [
+        "/scriptConfig/generatedText/text/first/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Firsst, Floran needs you to ^green;find ^orange;<fetchedItems>. ^white;Go go go!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/fetch.questtemplate": [
+        "/scriptConfig/generatedText/text/first/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "First ^green;I need you to gather ^orange;<fetchedItems>^white; for me. Thank you in advance!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/fetch.questtemplate": [
+        "/scriptConfig/generatedText/text/first/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can't find ^orange;<fetchedItems>. ^white;Floran will reward you generously if you ^green;fetch sssome."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/fetch.questtemplate": [
+        "/scriptConfig/generatedText/text/first/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "For the first part of my plan, ^green;I need you to gather ^orange;<fetchedItems>^white; for me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/fetch.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Great! Let'ss get to work with our <fetchedItems>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/fetch.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I appreciate you gathering those items for me! I have a plan for them..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/fetch.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm so pleased that you managed to gather these for me, they're essential for my plan. Thank you!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/fetch.questtemplate": [
+        "/scriptConfig/generatedText/text/first/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Initially, ^green;we'll need to gather ^orange;<fetchedItems>^white;. Could you handle that?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/fetch.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next ^green;we'll need ^orange;<fetchedItems>.^white; I'm sure that's well within your capabilities."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/fetch.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next, ^green;I need you to collect ^orange;<fetchedItems>^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/fetch.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next, ^green;we'll need ^orange;<fetchedItems>^white;. You can handle that, right?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/fetch.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perfect - now Floran can put these to ussse!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/fetch.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perfect, this will work nicely. Thank you!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/fetch.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perfect, time to put our <fetchedItems> to ussse."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/fetch.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thank you for getting these for me, I have plans for them!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/fetch.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thank you, this is exactly what I need for the next stage of my plan..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/fetch.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "That was quicker than Floran expected! Floran very pleassed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/fetch.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These items are just what I need for my plan!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/fetch.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Time to ^green;find ^orange;<fetchedItems>. ^white;It'sss very important we do this next."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/fetch.questtemplate": [
+        "/scriptConfig/generatedText/text/first/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "To begin, ^green;I'll need ^orange;<fetchedItems>^white;. Could you lend a hand?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/fetch.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Well done <player>, I never doubted you could do it!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/fetch.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;The next thing I'll need is ^orange;<fetchedItems>^white;. It's important to the plan."
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratelobbystudent2.npctype": [
+        "/scriptConfig/dialog/speak/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey <entityname>! Have a moment to chat?",
+      "Rus": "Привет <entityname>! Есть минутка поболтать?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratelobbystudent2.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hear that those Matter Manipulators can disassemble all kinds of materials.",
+      "Rus": "Я слышал, что эти Манипуляторы способны демонтировать любой материал."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratelobbystudent2.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you get assigned to some distant world, don't forget you'll always have friends here on Earth!",
+      "Rus": "Если ты получишь назначение на один из удаленных миров, не забывай, что у тебя всегда есть друзья здесь, на Земле!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratelobbystudent2.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soon you'll be a real Protector, with your very own Matter Manipulator. Must be exciting!",
+      "Rus": "Скоро ты станешь настоящим Протектором, со своим собственным Манипулятором Материи. Это должно быть интересно!"
+    }
+  }
+]

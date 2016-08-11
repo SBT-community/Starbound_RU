@@ -1,0 +1,47 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/largewoodencrate/largewoodencrate.object": [
+        "/hylotlDescription"
+      ],
+      "objects/glitch/smallwoodencrate/smallwoodencrate.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crate made of wood.",
+      "Rus": "Ящик сделан из дерева."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/largewoodencrate/largewoodencrate.object": [
+        "/avianDescription"
+      ],
+      "objects/glitch/smallwoodencrate/smallwoodencrate.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wooden storage box.",
+      "Rus": "Деревянная коробка для хранения."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/largewoodencrate/largewoodencrate.object": [
+        "/humanDescription"
+      ],
+      "objects/glitch/smallwoodencrate/smallwoodencrate.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's just a crate.",
+      "Rus": "Просто ящик."
+    }
+  }
+]

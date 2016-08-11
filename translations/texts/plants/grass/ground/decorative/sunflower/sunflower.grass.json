@@ -1,0 +1,41 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Красивый подсолнух."
+    ],
+    "Files": {
+      "plants/grass/ground/decorative/sunflower/sunflower.grass": [
+        "/description",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A beautiful sunflower.",
+      "Rus": "Прекрасный подсолнух."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/sunflower/sunflower.grass": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "An attractive sunflower.",
+      "Rus": "Привлекательный подсолнух."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/sunflower/sunflower.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pretty sssunflower.",
+      "Rus": "Милый подсолнух."
+    }
+  }
+]

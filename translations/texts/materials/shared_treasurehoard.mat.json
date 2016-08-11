@@ -1,0 +1,77 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/treasurehoard.matitem": [
+        "/description"
+      ],
+      "tiles/materials/treasurehoard.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shimmering hoard of valuable treasure.",
+      "Rus": "Сияющая куча золота и драгоценностей."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/treasurehoard.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/treasurehoard.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likes ssshiny gold!",
+      "Rus": "Флоран любит блесстящее золото!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/treasurehoard.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/treasurehoard.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gold! I can hardly contain my excitement!",
+      "Rus": "Батюшки! Да тут никаких карманов не хватит!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/treasurehoard.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/treasurehoard.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't take my eyes off this treasure.",
+      "Rus": "Я не могу оторвать глаз от этих сокровищ."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/treasurehoard.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/treasurehoard.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Treasure Hoard",
+      "Rus": "Куча сокровищ"
+    }
+  }
+]

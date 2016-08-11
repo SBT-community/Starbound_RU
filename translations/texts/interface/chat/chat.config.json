@@ -1,0 +1,49 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/chat/chat.config": [
+        "/gui/filterGroup/buttons/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "ALL",
+      "Rus": "ВСЕ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/chat/chat.config": [
+        "/gui/filterGroup/buttons/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "LOG",
+      "Rus": "ЛОГ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/chat/chat.config": [
+        "/gui/say/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Say:",
+      "Rus": "Чат:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/chat/chat.config": [
+        "/config/colors/radioMessage"
+      ]
+    },
+    "Texts": {
+      "Eng": "^shadow,cyan;"
+    }
+  }
+]

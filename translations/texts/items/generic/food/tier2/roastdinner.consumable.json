@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier2/roastdinner.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just a regular roast dinner. Nothing fancy, but satisfying all the same.",
+      "Rus": "Всего лишь обычное жаркое. Ничего особенного, но вполне утоляет голод."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier2/roastdinner.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Roast Dinner",
+      "Rus": "Жаркое"
+    }
+  }
+]

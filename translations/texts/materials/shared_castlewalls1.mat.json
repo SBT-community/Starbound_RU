@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/castlewalls1.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/castlewalls1.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Giant sstone brickss.",
+      "Rus": "Гигантссский каменный кирпичч"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Тяжелый Каменный Кирпич"
+    ],
+    "Files": {
+      "items/materials/castlewalls1.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/castlewalls1.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Heavy Stone Brick",
+      "Rus": "Тяжелый каменный кирпич"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/castlewalls1.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/castlewalls1.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'd hate t've been the fella who had to lay these heavy bricks.",
+      "Rus": "Я б не хотел быть парнем, что вечно лежит на этих массивных кирпичах."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/castlewalls1.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/castlewalls1.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stone bricks like this are frequently used in castle construction.",
+      "Rus": "Такие каменные кирпичи часто используют в строительстве замков."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Твердые каменные плиты, идеальны для строительства замка."
+    ],
+    "Files": {
+      "items/materials/castlewalls1.matitem": [
+        "/description"
+      ],
+      "tiles/materials/castlewalls1.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strong stone slabs, perfect for building a castle.",
+      "Rus": "Крепкие каменные плиты, идеальны для строительства замка."
+    }
+  }
+]

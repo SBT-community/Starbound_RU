@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/medkit.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Medical Kit",
+      "Rus": "Аптечка"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/medkit.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Restores 100 health over 10 seconds, and instantly cures most status effects.",
+      "Rus": "Восстанавливает 100 здоровья в течении 10 секунд, и мгновенно исцеляет от большинства  негативных эффектов."
+    }
+  }
+]

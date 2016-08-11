@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Корень."
+    ],
+    "Files": {
+      "plants/bushes/ceiling/ceilingwicked/ceilingwicked.bush": [
+        "/floranDescription"
+      ],
+      "plants/grass/ceiling/decorative/ceilingroots/ceilingroots.grass": [
+        "/floranDescription"
+      ],
+      "plants/grass/ground/drop/root/root.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rootsss!",
+      "Rus": "Корни!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Остро.",
+      "Острые."
+    ],
+    "Files": {
+      "plants/bushes/ground/cactus1/cactus1.bush": [
+        "/floranDescription"
+      ],
+      "plants/bushes/ground/cactus2/cactus2.bush": [
+        "/floranDescription"
+      ],
+      "plants/grass/ceiling/decorative/ceilingcurlythorns/ceilingcurlythorns.grass": [
+        "/floranDescription"
+      ],
+      "plants/grass/ground/decorative/spikes/spikes.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssspiky.",
+      "Rus": "Шшшипы."
+    }
+  }
+]

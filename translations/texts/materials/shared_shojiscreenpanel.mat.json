@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shojiscreenpanel.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/shojiscreenpanel.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fancy lookin' screen panel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shojiscreenpanel.matitem": [
+        "/description"
+      ],
+      "tiles/materials/shojiscreenpanel.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A traditional screen panel.",
+      "Rus": "Панель Сёдзи. Представляет собой бумагу, крепящуюся к деревянной раме."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shojiscreenpanel.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/shojiscreenpanel.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shoji Screen Panel",
+      "Rus": "Блочная панель Сёдзи"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shojiscreenpanel.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/shojiscreenpanel.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sstrange screen panelss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shojiscreenpanel.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/shojiscreenpanel.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These panels are simple and traditional."
+    }
+  }
+]

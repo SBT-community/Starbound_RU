@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/koichi.npctype": [
+        "/scriptConfig/dialog/koichi/giveRelic/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "But, um... May I come with you? This object, the artifact - I would love to know more.",
+      "Rus": "А... эм... Можно мне с тобой? Эта вещь,.. этот артефакт... Я бы хотел узнать о нем больше."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/koichi.npctype": [
+        "/scriptConfig/dialog/koichi/giveRelic/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I think it's best to entrust it to you - a reward for your decency. It's certainly not safe here.",
+      "Rus": "Я думаю, это стоит вручить тебе - награду за твою порядочность. Но здесь все еще не безопасно."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/koichi.npctype": [
+        "/scriptConfig/dialog/koichi/greet/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "So you're here for this artifact too? How intriguing...",
+      "Rus": "Так ты тоже здесь из-за этого артефакта? Как интригующе..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/koichi.npctype": [
+        "/scriptConfig/dialog/koichi/end/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The great thinkers tell us that 'Experience is the Mother of Wisdom'. I am going to become SO WISE!",
+      "Rus": "Великие мудрецы говорят нам: \" Опыт - мать Мудрости\". Я собираюсь стать ТАКИМ ЖЕ МУДРЫМ!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/koichi.npctype": [
+        "/scriptConfig/dialog/koichi/greet/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're here! You made it! You defeated those cowled villains!",
+      "Rus": "Получилось! Ты сделал это! Ты победил этих культистов!"
+    }
+  }
+]

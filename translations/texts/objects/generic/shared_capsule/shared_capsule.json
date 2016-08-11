@@ -1,0 +1,70 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/capsulebig/capsulebig.object": [
+        "/avianDescription"
+      ],
+      "objects/generic/capsulemed/capsulemed.object": [
+        "/avianDescription"
+      ],
+      "objects/generic/capsulesmall/capsulesmall.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A capsule. Something is inside, I wonder what it is..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/capsulebig/capsulebig.object": [
+        "/apexDescription"
+      ],
+      "objects/generic/capsulemed/capsulemed.object": [
+        "/apexDescription"
+      ],
+      "objects/generic/capsulesmall/capsulesmall.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A capsule. These often contain supplies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/capsulebig/capsulebig.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/generic/capsulemed/capsulemed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/generic/capsulesmall/capsulesmall.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It is difficult to resist the urge to break this capsule."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/capsulebig/capsulebig.object": [
+        "/novakidDescription"
+      ],
+      "objects/generic/capsulemed/capsulemed.object": [
+        "/novakidDescription"
+      ],
+      "objects/generic/capsulesmall/capsulesmall.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This capsule'd be perfect for target practice."
+    }
+  }
+]

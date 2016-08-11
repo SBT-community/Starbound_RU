@@ -1,0 +1,256 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/themed_build.questtemplate": [
+        "/scriptConfig/objectives/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "3 <tag>^reset;",
+      "Rus": "3 <tag>^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/themed_build.questtemplate": [
+        "/scriptConfig/generatedText/title/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "<questGiver> wants new friends"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/themed_build.questtemplate": [
+        "/scriptConfig/generatedText/title/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "<questGiver>'s plan for expansion"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/themed_build.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can you ^green;build a home^white;, and ^green;place ^orange;3^green; <tag>.^white; inside? Don't forget to ^green;include a ^orange;Colony Deed^green; and a ^orange;light!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/themed_build.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can you build a home^white;, and inside ^green;place ^orange;3^green; <tag>.^white; Don't forget to ^green;include a ^orange;Colony Deed^green; and a ^orange;light!^white; I'm excited!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/themed_build.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Could you ^green;build a home^white; and ^green;place ^orange;3^green; <tag>^white; inside? Don't forget to ^green;include a ^orange;Colony Deed^green; and a ^orange;light!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/themed_build.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran needsss you to ^green;make a home^white;, and ^green;place ^orange;3^green; <tag>^green; inside^white;. Don't forget ^green;a ^orange;Colony Deed^green; and a ^orange;light!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/themed_build.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran wantsss you to ^green;build a home^white;, and ^green;place ^orange;3^green; <tag>^green; inside.^white; Don't forget ^green;a ^orange;Colony Deed^green; and a ^orange;light!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/themed_build.questtemplate": [
+        "/scriptConfig/generatedText/failureText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I didn't help <questGiver> with <questGiver.pronoun.possessiveDet> idea to make a home. She doesn't need another neighbour anyhow."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/themed_build.questtemplate": [
+        "/scriptConfig/generatedText/failureText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I was unable to help <questGiver> by building a home. I'm too busy for things like that."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/themed_build.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Success! Floran has new friend! Floran likesss the home you made."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/themed_build.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Success! I hope our new neighbour enjoys their home. Thanks for your help!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/themed_build.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thank you! Now we have a new local resident! Isn't that exciting?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/themed_build.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "We have a new neighbour! I'm sure they'll fit in here. Thank you for your generous assistance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/themed_build.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You made the home! Floran is impressed with your ssskills."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/themed_build.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your design skills are better than I expected, what a lovely home. Thank you for your efforts!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/themed_build.questtemplate": [
+        "/scriptConfig/generatedText/goalText/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Affable. Don't you think we could use some new neighbours around here? I have a plan..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/themed_build.questtemplate": [
+        "/scriptConfig/generatedText/goalText/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Cheerful. I have a plan to make new friends around here. Would you like to assist?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/themed_build.questtemplate": [
+        "/scriptConfig/generatedText/goalText/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Floran thinksss we need new a neighbour! Floran has plan..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/themed_build.questtemplate": [
+        "/scriptConfig/generatedText/goalText/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Floran wantsss new friend! Can you help?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/themed_build.questtemplate": [
+        "/scriptConfig/generatedText/goalText/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;I think we could benefit from making new friends. I have a plan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/themed_build.questtemplate": [
+        "/scriptConfig/generatedText/goalText/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Wouldn't it be nice to meet some new people? I have an idea..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/themed_build.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Build a home^white;, and inside ^green;place ^orange;3^green; <tag>.^white; Don't forget to ^green;include a ^orange;Colony Deed^green; and a ^orange;light!"
+    }
+  }
+]

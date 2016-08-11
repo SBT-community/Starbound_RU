@@ -1,0 +1,807 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/actionFigure"
+      ]
+    },
+    "Texts": {
+      "Eng": "Action Figure",
+      "Rus": "Фигурка"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/artifact"
+      ]
+    },
+    "Texts": {
+      "Eng": "Artifact",
+      "Rus": "Артефакт"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/backwear"
+      ]
+    },
+    "Texts": {
+      "Eng": "Backwear",
+      "Rus": "Наспинный предмет"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/block"
+      ]
+    },
+    "Texts": {
+      "Eng": "Block",
+      "Rus": "Блок"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/bow"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bow",
+      "Rus": "Лук"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/breakable"
+      ]
+    },
+    "Texts": {
+      "Eng": "Breakable",
+      "Rus": "Хрупкое"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/bug"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bug",
+      "Rus": "Жук"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/chestwear"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chestwear",
+      "Rus": "Верхняя одежда"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/clothingDye"
+      ]
+    },
+    "Texts": {
+      "Eng": "Clothing Dye",
+      "Rus": "Краситель"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/cookingIngredient"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cooking Ingredient",
+      "Rus": "Кулинарные ингридиенты"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/craftingMaterial"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crafting Material",
+      "Rus": "Материал для создания"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/crafting"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crafting Station",
+      "Rus": "Верстак"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/crossbow"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crossbow",
+      "Rus": "Арбалет"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/currency"
+      ]
+    },
+    "Texts": {
+      "Eng": "Currency",
+      "Rus": "Валюта"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/dagger"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dagger",
+      "Rus": "Кинжал"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/decorative"
+      ]
+    },
+    "Texts": {
+      "Eng": "Decorative",
+      "Rus": "Декорации"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/spawner"
+      ]
+    },
+    "Texts": {
+      "Eng": "Deed",
+      "Rus": "Документ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/drink"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drink",
+      "Rus": "Напиток"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/eppAugment"
+      ]
+    },
+    "Texts": {
+      "Eng": "EPP Augment",
+      "Rus": "Модуль НЭЗ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/enviroProtectionPack"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enviro Protection Pack",
+      "Rus": "Набор Эко-Защиты"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/farmBeastEgg"
+      ]
+    },
+    "Texts": {
+      "Eng": "Farm Beast Egg",
+      "Rus": "Яйцо скота"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/farmBeastFood"
+      ]
+    },
+    "Texts": {
+      "Eng": "Farm Beast Food",
+      "Rus": "Корм для скота"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/fistWeapon"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fist Weapon",
+      "Rus": "Кистевое оружие"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/farmBeastFeed"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fluffalo Food",
+      "Rus": "Корм Флуффало"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/food"
+      ]
+    },
+    "Texts": {
+      "Eng": "Food",
+      "Rus": "Еда"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/generic"
+      ]
+    },
+    "Texts": {
+      "Eng": "Generic",
+      "Rus": "Стандартный"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/headwear"
+      ]
+    },
+    "Texts": {
+      "Eng": "Headwear",
+      "Rus": "Головной убор"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/foodJunk",
+        "/labels/junk"
+      ]
+    },
+    "Texts": {
+      "Eng": "Junk",
+      "Rus": "Мусор"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/largeFossil"
+      ]
+    },
+    "Texts": {
+      "Eng": "Large Fossil",
+      "Rus": "Большая окаменелость"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/light"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light Source",
+      "Rus": "Источник света"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/liquid"
+      ]
+    },
+    "Texts": {
+      "Eng": "Liquid",
+      "Rus": "Жидкость"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/medicine"
+      ]
+    },
+    "Texts": {
+      "Eng": "Medicine",
+      "Rus": "Лекарства"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/mediumFossil"
+      ]
+    },
+    "Texts": {
+      "Eng": "Medium Fossil",
+      "Rus": "Средняя окаменелость"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/musicalInstrument"
+      ]
+    },
+    "Texts": {
+      "Eng": "Musical Instrument",
+      "Rus": "Музыкальный инструмент"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/mysteriousReward"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mysterious Reward",
+      "Rus": "Таинственная награда"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/other"
+      ]
+    },
+    "Texts": {
+      "Eng": "Other",
+      "Rus": "Другое"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/petCollar"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pet Collar",
+      "Rus": "Ошейник"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/platform"
+      ]
+    },
+    "Texts": {
+      "Eng": "Platform",
+      "Rus": "Платформа"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/preparedFood"
+      ]
+    },
+    "Texts": {
+      "Eng": "Prepared Food",
+      "Rus": "Готовая еда"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/quest"
+      ]
+    },
+    "Texts": {
+      "Eng": "Quest",
+      "Rus": "Задание"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/rail"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rail",
+      "Rus": "Рельс"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/railPlatform"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rail Platform",
+      "Rus": "Железнодорожная платформа"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/railPoint"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rail Point",
+      "Rus": "Железнодорожный пункт"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/fridgeStorage"
+      ]
+    },
+    "Texts": {
+      "Eng": "Refrigerated Storage",
+      "Rus": "Холодильная камера"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/seed"
+      ]
+    },
+    "Texts": {
+      "Eng": "Seed",
+      "Rus": "Семя"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/shield"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shield",
+      "Rus": "Щит"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/fuel"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ship Fuel",
+      "Rus": "Топливо"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/shipLicense"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ship License",
+      "Rus": "Корабельная лицензия"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/shortsword"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shortsword",
+      "Rus": "Короткий меч"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/smallFossil"
+      ]
+    },
+    "Texts": {
+      "Eng": "Small Fossil",
+      "Rus": "Малая окаменелость"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/spear"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spear",
+      "Rus": "Копье"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/staff"
+      ]
+    },
+    "Texts": {
+      "Eng": "Staff",
+      "Rus": "Посох"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/storage"
+      ]
+    },
+    "Texts": {
+      "Eng": "Storage",
+      "Rus": "Хранилище"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/tech"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tech",
+      "Rus": "Технология"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/techManagement"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tech Management",
+      "Rus": "Технология управления"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/teleportMarker"
+      ]
+    },
+    "Texts": {
+      "Eng": "Teleport Marker",
+      "Rus": "Точка телепортации"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/throwableItem"
+      ]
+    },
+    "Texts": {
+      "Eng": "Throwable Item",
+      "Rus": "Предмет для метания"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/toy"
+      ]
+    },
+    "Texts": {
+      "Eng": "Toy",
+      "Rus": "Игрушка"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/tradingCard"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trading Card",
+      "Rus": "Торговая карта"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/trap"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trap",
+      "Rus": "Ловушка"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/trophy"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trophy",
+      "Rus": "Награда"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/uniqueWeapon"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unique Weapon",
+      "Rus": "Уникальное оружие"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/upgradeComponent"
+      ]
+    },
+    "Texts": {
+      "Eng": "Upgrade Component",
+      "Rus": "Компонент модернизации"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/vehicleController"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vehicle Controller",
+      "Rus": "Пульт управления"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/wand"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wand",
+      "Rus": "Жезл"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/whip"
+      ]
+    },
+    "Texts": {
+      "Eng": "Whip",
+      "Rus": "Хлыст"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/wire"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wire",
+      "Rus": "Провод"
+    }
+  }
+]

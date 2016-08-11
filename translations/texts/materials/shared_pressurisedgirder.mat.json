@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pressurisedgirder.matitem": [
+        "/description"
+      ],
+      "tiles/materials/pressurisedgirder.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A girder designed to accommodate pressurisation changes.",
+      "Rus": "Балки, способные выдерживать перепады давления."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pressurisedgirder.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/pressurisedgirder.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A girder made to accommodate adjustments in pressurisation "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pressurisedgirder.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/pressurisedgirder.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tough 'ol metal girder."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pressurisedgirder.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/pressurisedgirder.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pressurised Girder",
+      "Rus": "Герметичные опоры"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pressurisedgirder.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/pressurisedgirder.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shiny sstrong metal girder."
+    }
+  }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/hive/larva.chest": [
+        "/description"
+      ],
+      "items/armors/biome/hive/larvanpc/larva.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bug like chest, with a pair of extra arms attached.",
+      "Rus": "Похожий на жука нагрудник, с парой дополнительных лапок."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/hive/larva.head": [
+        "/description"
+      ],
+      "items/armors/biome/hive/larvanpc/larva.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mask which resembles a large insect.",
+      "Rus": "Маска изображающая большое насекомое."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/hive/larva.chest": [
+        "/shortdescription"
+      ],
+      "items/armors/biome/hive/larvanpc/larva.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Larva Chest",
+      "Rus": "Нагрудник Личинки"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Лапы Личинки",
+      "Широкие и большие лапы, которые выглядят жутковато."
+    ],
+    "Files": {
+      "items/armors/biome/hive/larva.legs": [
+        "/shortdescription"
+      ],
+      "items/armors/biome/hive/larvanpc/larva.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Larva Legs"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/hive/larva.head": [
+        "/shortdescription"
+      ],
+      "items/armors/biome/hive/larvanpc/larva.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Larva Mask",
+      "Rus": "Маска Личинки"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Лапы Личинки"
+    ],
+    "Files": {
+      "items/armors/biome/hive/larva.legs": [
+        "/description"
+      ],
+      "items/armors/biome/hive/larvanpc/larva.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wide, large creepy looking legs.",
+      "Rus": "Широкие и большие лапы, которые выглядят жутковато."
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/destroyruin.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Even after everything, I'm sure you have plenty more adventures to go on.  At least take this, dear.",
+      "Rus": "Даже после всего этого, я уверена, что у тебя впереди много других приключений. Возьми хотя бы это, дорогуша."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/destroyruin.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ]
+    },
+    "Texts": {
+      "Eng": "Find a way back to the ^orange;outpost^reset;",
+      "Rus": "Найди способ вернуться обратно на ^orange;Форпост^reset; "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/destroyruin.questtemplate": [
+        "/scriptConfig/descriptions/destroyRuin"
+      ]
+    },
+    "Texts": {
+      "Eng": "Go through the ^orange;Ark^reset; and ^green;destroy ^orange;the Ruin^reset;",
+      "Rus": "Пройдите через ^orange;Ковчег^reset; и ^green;одолейте ^orange;Разрушителя^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/destroyruin.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have something to tell you, dear, and something to ^orange;show you^reset;. ^green;It's time for me to ask more of you than I've ever asked before^reset;... I believe you're ready for this task, do you?",
+      "Rus": "Я должна тебе кое-что рассказать, дорогуша, и ^orange;показать^reset;. ^green;Время попросить тебя о самом большом одолжении^reset;... Я думаю, что ты готов для этого задания, не так ли? "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/destroyruin.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Opening the Ark",
+      "Rus": "Открытие Ковчега"
+    }
+  }
+]

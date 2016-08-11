@@ -1,0 +1,66 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Древний кирпич."
+    ],
+    "Files": {
+      "items/materials/ancientbrick.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/ancientbrick.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient Brick",
+      "Rus": "Древний кирпич"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ancientbrick.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/ancientbrick.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient carved brickss.",
+      "Rus": "Древний резной кирпич."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ancientbrick.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/ancientbrick.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These ancient bricks have withstood the ravages of time.",
+      "Rus": "Эти древние кирпичи выдержали разрушительное действие времени."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Этот резной кирпич неверноятно стар."
+    ],
+    "Files": {
+      "items/materials/ancientbrick.matitem": [
+        "/description"
+      ],
+      "tiles/materials/ancientbrick.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This carved brick is immeasurably old.",
+      "Rus": "Этот резной кирпич невероятно стар."
+    }
+  }
+]

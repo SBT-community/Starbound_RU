@@ -1,0 +1,117 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodenelevator/woodenelevatorlong.object": [
+        "/humanDescription"
+      ],
+      "objects/generic/woodenelevator/woodenelevatorshort.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rickety, wooden elevator.",
+      "Rus": "Покосившийся деревянный лифт."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodenelevator/woodenelevatorlong.object": [
+        "/novakidDescription"
+      ],
+      "objects/generic/woodenelevator/woodenelevatorshort.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wobbly wooden elevator.",
+      "Rus": "Шаткий деревянный лифт."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodenelevator/woodenelevatorlong.object": [
+        "/avianDescription"
+      ],
+      "objects/generic/woodenelevator/woodenelevatorshort.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wooden elevator, the smoothest elevator there is."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodenelevator/woodenelevatorlong.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/generic/woodenelevator/woodenelevatorshort.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Does a wooden elevator meet safety standards?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodenelevator/woodenelevatorlong.object": [
+        "/floranDescription"
+      ],
+      "objects/generic/woodenelevator/woodenelevatorshort.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran feel sssafe using wooden machine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodenelevator/woodenelevatorlong.object": [
+        "/apexDescription"
+      ],
+      "objects/generic/woodenelevator/woodenelevatorshort.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't feel so safe on this wooden elevator."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodenelevator/woodenelevatorlong.object": [
+        "/hylotlDescription"
+      ],
+      "objects/generic/woodenelevator/woodenelevatorshort.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The smooth movement of wood and pulleys."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodenelevator/woodenelevatorlong.object": [
+        "/description"
+      ],
+      "objects/generic/woodenelevator/woodenelevatorshort.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This simple wooden elevator operates on a pulley system.",
+      "Rus": "Этот простой деревянный лифт работает по системе шкива."
+    }
+  }
+]

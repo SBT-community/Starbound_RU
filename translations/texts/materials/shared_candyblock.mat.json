@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/candyblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/candyblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A big ol' piece of rock candy.",
+      "Rus": "Большой конфетный камень."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Конфетный Блок"
+    ],
+    "Files": {
+      "items/materials/candyblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/candyblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Candy Block",
+      "Rus": "Конфетный блок"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/candyblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/candyblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Candy hass colourful sstripess.",
+      "Rus": "У конфеты цветные полоски."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Сладко-пахнущая каменная конфета!"
+    ],
+    "Files": {
+      "items/materials/candyblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/candyblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sweet-smelling rock candy!",
+      "Rus": "Вкусно пахнущий конфетный блок!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/candyblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/candyblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This appears to be a giant piece of hard candy.",
+      "Rus": "Кажется, это гигантский кусок твердой карамели."
+    }
+  }
+]

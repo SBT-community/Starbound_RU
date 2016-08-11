@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenaadvisor3.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Burn spray can be effective at preventing you from catching fire, but it will not nullify damage from direct contact.",
+      "Rus": "Спрей от ожогов может помочь справится с возгоранием, но не спасет от прямого урона."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenaadvisor3.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Templar Inferno and his pets draw strength from fire. Keep them away from traps.",
+      "Rus": "Пылающий Храмовник и его подручные черпают силы из огня. Держи их подальше от огненных ловушек."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenaadvisor3.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Use the platforms to carefully avoid traps and distance yourself from Inferno's blade.",
+      "Rus": "Используй платформы, чтобы избегать ловушек и не попасть под удар Храмовника."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenaadvisor3.npctype": [
+        "/scriptConfig/dialog/converse/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your best chance is to take out Inferno quickly, otherwise more and more of his pets will come join the fray.",
+      "Rus": "Лучше тебе поспешить с устранением Храмовника, иначе он будет призывать все больше и больше своих питомцев!"
+    }
+  }
+]

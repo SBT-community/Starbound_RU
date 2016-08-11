@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ceiling/drop/ceilingmushroom/ceilingmushroom.grass": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ],
+      "plants/grass/ground/decorative/shrooms/shrooms.grass": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ],
+      "plants/grass/ground/drop/mushroom/mushroom.grass": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mushroom.",
+      "Rus": "Гриб."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Грибочек."
+    ],
+    "Files": {
+      "plants/grass/ceiling/drop/ceilingmushroom/ceilingmushroom.grass": [
+        "/floranDescription"
+      ],
+      "plants/grass/ground/decorative/shrooms/shrooms.grass": [
+        "/floranDescription"
+      ],
+      "plants/grass/ground/drop/mushroom/mushroom.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fungusss.",
+      "Rus": "Грибок."
+    }
+  }
+]

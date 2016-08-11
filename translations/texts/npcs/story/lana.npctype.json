@@ -1,0 +1,122 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/lana.npctype": [
+        "/scriptConfig/dialog/lana/end/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "... What is this thing? This glowing thing is very distracting...",
+      "Rus": "...Что это? Эта яркая штука меня отвлекает..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/lana.npctype": [
+        "/scriptConfig/dialog/lana/start/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey! Soldier! Quick, we need you down in the tunnels!",
+      "Rus": "Эй, солдат! Быстрее, нам нужно чтобы ты спустился в туннель."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/lana.npctype": [
+        "/scriptConfig/dialog/lana/teleporter/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll see you on the other side!",
+      "Rus": "Встретимся на другой стороне!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/lana.npctype": [
+        "/scriptConfig/dialog/lana/end/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oh, this is what you're here for? ...Take it.",
+      "Rus": "А, это то, за чем ты пришел?... Забирай."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/lana.npctype": [
+        "/scriptConfig/dialog/lana/start/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oh. Wait. You're not one of mine. If you're here to join us, we could use you! We need a scout underground!",
+      "Rus": "Ой. Подожди. Ты не один из нас. Раз уж ты решил присоединиться, ты нам поможешь! Будешь проводником в подземелье!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/lana.npctype": [
+        "/scriptConfig/dialog/lana/end/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soldier, I'd like to help you, I think you've earned some assistance. I have skills that might be useful to you.",
+      "Rus": "Солдат, я хочу помочь тебе. Мне кажется, ты заслужил некоторую благодарность. У меня есть навыки, которые могут быть тебе полезны."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/lana.npctype": [
+        "/scriptConfig/dialog/lana/start/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "The name's ^orange;Lana Blake^white;, and if you want into this Miniknog stronghold as bad as I do then get down there.",
+      "Rus": "Меня зовут Лана Блейк. Если ты хочешь попасть в крепость Министерства так же неофициально как и я, тогда спускайся вниз."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/lana.npctype": [
+        "/scriptConfig/dialog/lana/start/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Use the tunnel access to lower their defenses for us - I'm trusting you with this.",
+      "Rus": "Используй этот ход чтобы ослабить защиту. Я тебе доверяю."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/lana.npctype": [
+        "/scriptConfig/dialog/lana/end/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Well done, soldier! Thanks to you this was all worth it. Because of you this stronghold has fallen, and...",
+      "Rus": "Молодец, солдат! Это все твоя заслуга. Благодаря тебе эта крепость пала и... "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/lana.npctype": [
+        "/scriptConfig/dialog/lana/mid/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You made it! Good... I'm wounded... I need you to finish what we started, to take out the final defenses.",
+      "Rus": "Ты сделал это! Боже... я ранен... Ты должен завершить то, что мы начали. Отключи оставшуюся защиту."
+    }
+  }
+]

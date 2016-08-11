@@ -1,0 +1,75 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/geometric/geometricbed/geometricbed.object": [
+        "/humanDescription"
+      ],
+      "objects/themed/serene/serenebed/serenebed.object": [
+        "/humanDescription"
+      ],
+      "objects/themed/wave/wavebed/wavebed.object": [
+        "/humanDescription"
+      ],
+      "objects/tiered/tier3bed/tier3bed.object": [
+        "/humanDescription"
+      ],
+      "objects/tiered/tier4bed/tier4bed.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A great bed. Should easily be able to get some rest here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/geometric/geometricbed/geometricbed.object": [
+        "/floranDescription"
+      ],
+      "objects/themed/opulent/opulentbed/opulentbed.object": [
+        "/floranDescription"
+      ],
+      "objects/themed/serene/serenebed/serenebed.object": [
+        "/floranDescription"
+      ],
+      "objects/themed/wave/wavebed/wavebed.object": [
+        "/floranDescription"
+      ],
+      "objects/tiered/tier3bed/tier3bed.object": [
+        "/floranDescription"
+      ],
+      "objects/tiered/tier4bed/tier4bed.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran ressst in great bed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/geometric/geometricbed/geometricbed.object": [
+        "/avianDescription"
+      ],
+      "objects/themed/serene/serenebed/serenebed.object": [
+        "/avianDescription"
+      ],
+      "objects/themed/wave/wavebed/wavebed.object": [
+        "/avianDescription"
+      ],
+      "objects/tiered/tier3bed/tier3bed.object": [
+        "/avianDescription"
+      ],
+      "objects/tiered/tier4bed/tier4bed.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is very comfortable place to rest my feathers.",
+      "Rus": "Очень комфортное место чтобы мои перья отдохнули."
+    }
+  }
+]

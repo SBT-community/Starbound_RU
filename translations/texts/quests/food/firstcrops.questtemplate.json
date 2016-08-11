@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/food/firstcrops.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Finally, farming begins to pay off! I should see what else I can find to grow.",
+      "Rus": "Наконец-то фермерство начинает окупаться! Нужно посмотреть, что еще я могу вырастить."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/food/firstcrops.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now that I've got a hoe and a watering can, I can start farming! I should ^green;till and water some soil for planting^white; and ^orange;harvest 5 wheat and 5 pearlpeas^white;.",
+      "Rus": "Теперь, когда у меня есть мотыга и лейка, я могу начать заниматься фермерством! Я должен ^green;вспахать и полить почву, засеять её^white; и ^orange;собрать урожай из 5 пшеницы и 5 жемчужного гороха^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/food/firstcrops.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;The First Harvest",
+      "Rus": "^orange;Первый урожай"
+    }
+  }
+]

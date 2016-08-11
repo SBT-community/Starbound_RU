@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/evilfortress/evilknight.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have been itching for a fight!",
+      "Rus": "Мои руки уже чешутся подраться!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/evilfortress/evilknight.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/3/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have been waiting for a fight!",
+      "Rus": "Наконец-то сражение!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/evilfortress/evilknight.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/4/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have fought bigger foes than you before, you are no threat!",
+      "Rus": "Я сражался с врагами и пострашнее, ты- ничто для меня!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/evilfortress/evilknight.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/5/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You do not look like much of a threat.",
+      "Rus": "Ты не выглядишь тем, кого стоит опасаться."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/evilfortress/evilknight.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/6/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You have messed with the wrong knight!",
+      "Rus": "Ты связался не с тем рыцарем!"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/timepierce.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This blade can pierce through the fabric of time itself.",
+      "Rus": "Этот клинок может резать саму ткань времени."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/timepierce.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Time Pierce",
+      "Rus": "Протыкающий Время"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/timepierce.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Time Stop",
+      "Rus": "Останавливает Время"
+    }
+  }
+]

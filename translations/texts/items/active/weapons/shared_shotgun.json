@@ -1,0 +1,31 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Стреляет дробью, которая смертельна на близком расстоянии.",
+      "Стреляет дробью, смертельной на небольших дистанциях.",
+      "Стреляет дробью, что смертельна на близком расстоянии.",
+      "Стреляет дробью. Убийственен на ближней дистанции."
+    ],
+    "Files": {
+      "items/active/weapons/novakid/tungstenshotgun.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/npc/npcshotgun.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/shotgun/commonshotgun.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/shotgun/rareshotgun.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/shotgun/uncommonshotgun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fires a spread that's lethal at close range.",
+      "Rus": "Стреляет дробью, поэтому смертелен на ближней дистанции."
+    }
+  }
+]

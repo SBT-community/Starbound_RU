@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ruinsplatform.matitem": [
+        "/description"
+      ],
+      "tiles/platforms/ruinsplatform.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An old dusty wooden platform. Looks like it's falling apart.",
+      "Rus": "Старая пыльная деревянная платформа. Вот-вот развалится."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ruinsplatform.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/platforms/ruinsplatform.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Best watch myself, this ol' platform looks like it's fallin' apart."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ruinsplatform.matitem": [
+        "/florandescription"
+      ],
+      "tiles/platforms/ruinsplatform.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rotting and unsssafe. Floran approvess."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Платформа руин"
+    ],
+    "Files": {
+      "items/materials/ruinsplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/ruinsplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ruins Platform",
+      "Rus": "Ветхая платформа"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ruinsplatform.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/platforms/ruinsplatform.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This old wooden platform is structurally unsound."
+    }
+  }
+]

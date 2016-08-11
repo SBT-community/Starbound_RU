@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Фларан живет путешествиями! Флоран хочет повидать все!"
+    ],
+    "Files": {
+      "npcs/outpost/outpostfloranexplorer.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0",
+        "/scriptConfig/dialog/converse/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran enjoys travel! Floran wants to sssee whole universe!",
+      "Rus": "Флоран любит путешествовать! Флоран хочет посмотреть всю Вселенную!"
+    }
+  }
+]

@@ -1,0 +1,345 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fenerox.species": [
+        "/charGenTextLabels/5"
+      ],
+      "species/shadow.species": [
+        "/charGenTextLabels/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "HAIR COLOR",
+      "Rus": "ЦВЕТ ВОЛОС"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "СТИЛЬ ВОЛОС"
+    ],
+    "Files": {
+      "species/fenerox.species": [
+        "/charGenTextLabels/1"
+      ],
+      "species/shadow.species": [
+        "/charGenTextLabels/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "HAIR STYLE",
+      "Rus": "ПРИЧЁСКА"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Прическа",
+      "Стиль прически"
+    ],
+    "Files": {
+      "species/apex.species": [
+        "/charGenTextLabels/1"
+      ],
+      "species/human.species": [
+        "/charGenTextLabels/1"
+      ],
+      "species/novakid.species": [
+        "/charGenTextLabels/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hair style",
+      "Rus": "Причёска"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "У меня нет идеи, что сюда поставить",
+      "Я понятия не имею, что ставить здесь"
+    ],
+    "Files": {
+      "species/fenerox.species": [
+        "/charCreationTooltip/description"
+      ],
+      "species/shadow.species": [
+        "/charCreationTooltip/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have no idea what to put here"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/apex.species": [
+        "/charGenTextLabels/7"
+      ],
+      "species/avian.species": [
+        "/charGenTextLabels/7"
+      ],
+      "species/floran.species": [
+        "/charGenTextLabels/7"
+      ],
+      "species/glitch.species": [
+        "/charGenTextLabels/7"
+      ],
+      "species/human.species": [
+        "/charGenTextLabels/7"
+      ],
+      "species/hylotl.species": [
+        "/charGenTextLabels/7"
+      ],
+      "species/novakid.species": [
+        "/charGenTextLabels/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Legwear colour",
+      "Rus": "Цвет штанов"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fenerox.species": [
+        "/charCreationTooltip/subTitle"
+      ],
+      "species/shadow.species": [
+        "/charCreationTooltip/subTitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Only these people know..."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "ШТАНЫ"
+    ],
+    "Files": {
+      "species/fenerox.species": [
+        "/charGenTextLabels/3"
+      ],
+      "species/shadow.species": [
+        "/charGenTextLabels/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "PANTS",
+      "Rus": "БРЮКИ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fenerox.species": [
+        "/charGenTextLabels/7"
+      ],
+      "species/shadow.species": [
+        "/charGenTextLabels/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "PANTS COLOR",
+      "Rus": "ЦВЕТ БРЮК"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fenerox.species": [
+        "/charGenTextLabels/9"
+      ],
+      "species/penguin.species": [
+        "/charGenTextLabels/9"
+      ],
+      "species/shadow.species": [
+        "/charGenTextLabels/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "PERSONALITY",
+      "Rus": "ФИГУРА"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/apex.species": [
+        "/charGenTextLabels/9"
+      ],
+      "species/avian.species": [
+        "/charGenTextLabels/9"
+      ],
+      "species/floran.species": [
+        "/charGenTextLabels/9"
+      ],
+      "species/glitch.species": [
+        "/charGenTextLabels/9"
+      ],
+      "species/human.species": [
+        "/charGenTextLabels/9"
+      ],
+      "species/hylotl.species": [
+        "/charGenTextLabels/9"
+      ],
+      "species/novakid.species": [
+        "/charGenTextLabels/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Personality",
+      "Rus": "Фигура"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fenerox.species": [
+        "/charGenTextLabels/2"
+      ],
+      "species/penguin.species": [
+        "/charGenTextLabels/6"
+      ],
+      "species/shadow.species": [
+        "/charGenTextLabels/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "SHIRT",
+      "Rus": "РУБАШКА"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fenerox.species": [
+        "/charGenTextLabels/6"
+      ],
+      "species/penguin.species": [
+        "/charGenTextLabels/7"
+      ],
+      "species/shadow.species": [
+        "/charGenTextLabels/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "SHIRT COLOR",
+      "Rus": "ЦВЕТ РУБАШКИ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fenerox.species": [
+        "/charGenTextLabels/0"
+      ],
+      "species/shadow.species": [
+        "/charGenTextLabels/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "SKIN COLOR",
+      "Rus": "ЦВЕТ КОЖИ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/apex.species": [
+        "/charGenTextLabels/2"
+      ],
+      "species/avian.species": [
+        "/charGenTextLabels/2"
+      ],
+      "species/floran.species": [
+        "/charGenTextLabels/2"
+      ],
+      "species/glitch.species": [
+        "/charGenTextLabels/2"
+      ],
+      "species/human.species": [
+        "/charGenTextLabels/2"
+      ],
+      "species/hylotl.species": [
+        "/charGenTextLabels/2"
+      ],
+      "species/novakid.species": [
+        "/charGenTextLabels/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shirt",
+      "Rus": "Рубашка"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Цвет рубашки "
+    ],
+    "Files": {
+      "species/apex.species": [
+        "/charGenTextLabels/6"
+      ],
+      "species/avian.species": [
+        "/charGenTextLabels/6"
+      ],
+      "species/floran.species": [
+        "/charGenTextLabels/6"
+      ],
+      "species/glitch.species": [
+        "/charGenTextLabels/6"
+      ],
+      "species/human.species": [
+        "/charGenTextLabels/6"
+      ],
+      "species/hylotl.species": [
+        "/charGenTextLabels/6"
+      ],
+      "species/novakid.species": [
+        "/charGenTextLabels/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shirt colour",
+      "Rus": "Цвет рубашки"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/apex.species": [
+        "/charGenTextLabels/4"
+      ],
+      "species/floran.species": [
+        "/charGenTextLabels/0"
+      ],
+      "species/human.species": [
+        "/charGenTextLabels/0"
+      ],
+      "species/hylotl.species": [
+        "/charGenTextLabels/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Skin colour",
+      "Rus": "Цвет кожи"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fenerox.species": [
+        "/charGenTextLabels/4"
+      ],
+      "species/shadow.species": [
+        "/charGenTextLabels/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "UNDY COLOR",
+      "Rus": "ЦВЕТ БЕЛЬЯ"
+    }
+  }
+]

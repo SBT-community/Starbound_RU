@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Заклепанная металлическая стена. ",
+      "Прикованная металлическая стенка."
+    ],
+    "Files": {
+      "items/materials/apexshipdetails.matitem": [
+        "/description"
+      ],
+      "tiles/materials/apexshipdetails.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A riveted metal wall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/apexshipdetails.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/apexshipdetails.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal Railing",
+      "Rus": "Металлические перила"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/apexshipdetails.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/apexshipdetails.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssstrong bolted metal.",
+      "Rus": "Металлическая стена укреплена болтами."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/apexshipdetails.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/apexshipdetails.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strong lookin' wall made from metal.",
+      "Rus": "Мощная стена из металла."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/apexshipdetails.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/apexshipdetails.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This metal wall has been reinforced with strong bolts.",
+      "Rus": "Эта металлическая стена укреплена болтами."
+    }
+  }
+]

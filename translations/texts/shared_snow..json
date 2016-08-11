@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Снежный"
+    ],
+    "Files": {
+      "biomes/surface/snow.biome": [
+        "/friendlyName"
+      ],
+      "items/materials/snow.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/snow.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Snow",
+      "Rus": "Снег"
+    }
+  }
+]

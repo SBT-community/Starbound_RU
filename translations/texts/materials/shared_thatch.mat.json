@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/thatch.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/thatch.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A layered roofing piece made outta straw."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/thatch.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/thatch.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dry sstraw roofing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/thatch.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/thatch.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thatch",
+      "Rus": "Солома"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/thatch.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/thatch.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This thatch reminds me of a more simple time."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/thatch.matitem": [
+        "/description"
+      ],
+      "tiles/materials/thatch.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Traditional thatched roofing.",
+      "Rus": "Традиционная соломенная кровля."
+    }
+  }
+]

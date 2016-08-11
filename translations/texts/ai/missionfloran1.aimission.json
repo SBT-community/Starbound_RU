@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/missionfloran1.aimission": [
+        "/speciesText/default/selectSpeech/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Esther's research concludes that this is the probable location of the Floran Artifact.",
+      "Rus": "Исследования Эстер указывают, что здесь, возможно, есть артефакт Флоран."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/missionfloran1.aimission": [
+        "/speciesText/default/repeatButtonText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Revisit The Ceremonial Hunting Caverns",
+      "Rus": "Посетить Церемониальные Охотничьи Пещеры"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/missionfloran1.aimission": [
+        "/speciesText/default/buttonText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Ceremonial Hunting Caverns",
+      "Rus": "Церемониальные Охотничьи Пещеры"
+    }
+  }
+]

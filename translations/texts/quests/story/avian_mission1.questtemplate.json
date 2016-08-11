@@ -1,0 +1,182 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/kluexstatue2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "An unusual depiction of Kluex, and the accompanying description is strange and full of promise!",
+      "Rus": "Необычное описание Клюэкса, а сопутствующий текст странный и многообещающий!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/avian_mission1.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Find Clues to Locate the Avian Artifact",
+      "Rus": "Найдите подсказки об Артефакте Авиан"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Avian people have a fascinating relationship with their god. These small clues hint towards a bigger truth.",
+      "Rus": "У Авиан удивительное отношение к их Богу. Эта крохотная зацепка намекает на нечто большее."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/complete/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Great Sovereign Temple... It must be! That's all the information we need. ^#71f2f6;Come back to the Ark whenever you're ready^white;, dear.",
+      "Rus": "Великий Храм Государя... Это он! Это вся необходимая нам информация. ^#71f2f6;Возвращайся к Ковчегу, когда  будешь готов^white;, дорогуша."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/5/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The past is full of secrets crying out to be uncovered. Well found, dear!",
+      "Rus": "В прошлом полно секретов, ждущих открытия. Отличная находка, дорогуша!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/kluexmap1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This looks like an ancient depiction of a star map. Perhaps it plots the location of something important?",
+      "Rus": "Похоже на древнее описание звёздной карты. Может здесь указано местоположение чего-то важного?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/kluexmural1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This mural describes a great heavenly treasure... Descriptions of the Avian artifact could easily be couched in such terms.",
+      "Rus": "Эта фреска описывает большое небесное сокровище... Она может описывать артефакт Авиан."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/kluexmural2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This mural is ancient and uncovers mysteries long since lost.",
+      "Rus": "Эта древняя фреска раскрывает давно забытые тайны."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/kluexstatue1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "What a strange statue. And the inscription on the base is even more intriguing than the imagery. The devil is in the detail, dear.",
+      "Rus": "Какая странная статуя. И надпись на основании еще более интригующая, чем фигура. Дьявол кроется в деталях, дорогуша."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/7/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Where would the Avian people of the distant past keep something valuable? Sorry dear, just thinking out loud!",
+      "Rus": "Где Авианы прошлого хранили бы что-то ценное? Прости, дорогуша, это просто мысли вслух!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/avian_mission1.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "With that last clue we've got all we need to find the Avian artifact! Thank you for all that hard work.",
+      "Rus": "С этой последней уликой мы найдем артефакт Авиан! Спасибо за весь этот труд."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/6/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You'd be surprised how much the little things help!",
+      "Rus": "Ты удивишься, как нам помогают маленькие вещи!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/startAlreadyComplete/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're quite the collector of Avian antiquities! It appears you've already located enough clues to to allow me to identify the location of the Artifact!",
+      "Rus": "Да вы неплохой коллекционер реликвий Авианов! Похоже, вы собрали достаточно улик, чтобы позволить мне найти местоположение Артефакта!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/descriptions/findClues"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Scan objects^reset; to find ^orange;Avian clues^reset;",
+      "Rus": "^green;Просканируйте объекты^reset;, чтобы найти ^orange;подсказки Авиан^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/avian_mission1.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Avians^reset; next I think! Probably best to ^green;go to planets where ^orange;jungle^white; terrain is in abundance - Avians like to inhabit such places. You'll find those kinds of planets around ^orange;radioactive stars^white;. See you soon, dear. Be careful, and happy hunting!",
+      "Rus": "Похоже, следующие ^orange;Авианы^reset;! Лучше их искать на планетах с ^orange;джунглями^white; - Авианы их любят. Ты найдешь такие планеты у ^orange;радиоактивных звёзд^white;. Увидимся позже, дорогуша. Будь осторожен, и удачной охоты!"
+    }
+  }
+]

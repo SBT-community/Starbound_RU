@@ -1,0 +1,77 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/log.matitem": [
+        "/description"
+      ],
+      "tiles/materials/log.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wooden log. Good for building simple structures.",
+      "Rus": "Бревно. Подходит для постройки простых сооружений."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/log.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/log.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ain't uncommon to see logs laid like this in cabins.",
+      "Rus": "Сложенные так брёвна - не редкость."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/log.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/log.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likess wooden log wallss.",
+      "Rus": "Флорану нравятся сстены изз деревьев."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/log.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/log.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These logs fit together closely and are effective for building.",
+      "Rus": "Сложенные вместе, эти брёвна идеальны для строительства."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/log.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/log.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wooden Log",
+      "Rus": "Бревно"
+    }
+  }
+]

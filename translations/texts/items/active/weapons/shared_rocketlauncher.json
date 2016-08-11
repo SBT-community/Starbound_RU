@@ -1,0 +1,27 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Мощная штука, чтобы взорвать всё к чертям.",
+      "Сила способная взорвать всё.",
+      "Сила, способная взрывать все вокруг."
+    ],
+    "Files": {
+      "items/active/weapons/npc/npcrocketlauncher.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/rocketlauncher/commonrocketlauncher.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/rocketlauncher/rarerocketlauncher.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/rocketlauncher/uncommonrocketlauncher.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The power to blow stuff up.",
+      "Rus": "Мощь, стирающая всё на своём пути."
+    }
+  }
+]

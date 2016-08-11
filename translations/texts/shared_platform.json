@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Невзрачная деревянная платформа",
+      "Непримечательная деревянная платформа"
+    ],
+    "Files": {
+      "items/materials/platform.matitem": [
+        "/description"
+      ],
+      "items/materials/platform2.matitem": [
+        "/description"
+      ],
+      "tiles/platforms/platform.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A nondescript wood platform.",
+      "Rus": "Непримечательная деревянная платформа."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Платформа из Дерева",
+      "Платформа из дерева"
+    ],
+    "Files": {
+      "items/materials/platform.matitem": [
+        "/shortdescription"
+      ],
+      "items/materials/platform2.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/platform.material": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/platform2.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wood Platform"
+    }
+  }
+]

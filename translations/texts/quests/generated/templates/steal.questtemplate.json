@@ -1,0 +1,278 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/steal.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amazing! Not that Floran didn't expect you to sssucceed. This <objectItem> is necessary for what comes next."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/steal.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't just hand me that <objectItem>! You think <victim> wouldn't put two and two together? hold on to it for now. "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/steal.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't wave that <objectItem> around near me! We don't want <victim> to come looking for it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/steal.questtemplate": [
+        "/scriptConfig/generatedText/text/first/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "First, some petty thievery. I need you to ^green;obtain ^orange;<victim>'s <objectItem>. ^green;Go grab it from <victim.pronoun.possessiveDet> house^white;, but make sure nobody sees you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/steal.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran knew you could do it! Clearly no job isss beneath you. Floran appreciates your attitude."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/steal.questtemplate": [
+        "/scriptConfig/generatedText/text/first/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran's first task for you is a sssneaky one. ^orange;<victim>^white; has a nice ^orange;<objectItem>^white; in <victim.pronoun.possessiveDet> house and Floran wants you to ^green;borrow it^white;, if you know what Floran means..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/steal.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "How do you feel about burglary? I'd like you to ^green;aquire the ^orange;<objectItem>^green; in ^orange;<victim>'s^green; home for me. "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/steal.questtemplate": [
+        "/scriptConfig/generatedText/text/first/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I need you to ^green;obtain ^orange;<victim>'s <objectItem>. ^white;We can make far better use of it, but <victim.pronoun.subject> won't just hand it over... ^green;You'll have to take it..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/steal.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm afraid this next part requires something that does not belong to us. You need to ^green;obtain the ^orange;<objectItem> ^green;located in ^orange;<victim>'s ^green;home. ^white;Just make sure you don't get caught."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/steal.questtemplate": [
+        "/scriptConfig/generatedText/text/first/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm in need of a certain item, and I know that ^orange;<victim>^white; keeps one in <victim.pronoun.possessiveDet> home. I need you to ^green;sneak in and remove <victim.pronoun.possessiveDet> ^orange;<objectItem> ^white;while <victim.pronoun.subject>'s not looking."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/steal.questtemplate": [
+        "/scriptConfig/generatedText/text/first/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm in need of a certain object; specifically, ^orange;<victim>'s <objectItem>. ^white;Would you ^green;visit <victim.pronoun.possessiveDet> home and... Acquire it for me?^white; I wouldn't ask if it wasn't important."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/steal.questtemplate": [
+        "/scriptConfig/generatedText/text/first/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let's get the first ssstep out of the way. Floran needs a particular thing from neighbour ^orange;<victim>'s^white; house. Floran already asked but <victim> said no. Will you ^green;sssneak in and get the shiny ^orange;<objectItem>^white; for Floran? "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/steal.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next job isss a vital part of Floran's plan. Floran needs you to ^green;visit ^orange;<victim>'s ^green;house to borrow the ^orange;<objectItem>^white; that we need. Bessst not let <victim> know..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/steal.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nice work, you made it look easy! Keep hold of that <objectItem> for the time being, and make sure you don't lose it!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/steal.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now I require a certain object... Specifically, the ^orange;<objectItem>^green; in ^orange;<victim>'s^green; home.^white; You're going to have to ^green;acquire it for me. "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/steal.questtemplate": [
+        "/scriptConfig/objectives/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Steal <victim>'s <objectItem>",
+      "Rus": "Укради <objectItem> у <victim>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/steal.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This <objectItem> is just what we needed! This might not be the bessst way of getting things, but the goal justifies the meanss, right?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/steal.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is the <objectItem> I required. I hope nobody saw you take it! Better not hand it to me immediately. Let’s wait for a moment."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/steal.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This looks like <victim>’s <objectItem> alright. It’s not in the best condition, but it’ll have to do for now."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/steal.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This next part requires something that isn't ours to use. We are in need of the ^orange;<objectItem> ^green;located in ^orange;<victim>'s^green; home. You need to go and steal it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/steal.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This step requires sssneaky skills. Floran has to asssk you to ^green;visit ^orange;<victim>'s ^green;house to retrieve one ^orange;<objectItem>. ^white;Floran would not ask for thisss if there was any other way, of courssse."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/steal.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wow, I bet you'd take anything that wasn't nailed down! I don't want to get caught if <victim> comes looking for that <objectItem>, so hold onto it for now."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/steal.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yes, that's the <objectItem> I was looking for! Nobody saw you take it, right?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/steal.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You actually got the <objectItem> from <victim>? I thought maybe you'd get cold feet. Keep hold of it for the time being, and make sure you don't lose it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/steal.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You succeeded! Your sneaking sskills are far better than Floran's negotiating skills. "
+    }
+  }
+]

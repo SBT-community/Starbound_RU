@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/objectcrafting/campfire.config": [
+        "/gui/toggleCrafting/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cook",
+      "Rus": "Готовить"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/objectcrafting/campfire.config": [
+        "/gui/lblText/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;Place one or more ingredients in the left slot.",
+      "Rus": "^#b9b5b2;Поместите один или более ингредиентов в левый слот."
+    }
+  }
+]

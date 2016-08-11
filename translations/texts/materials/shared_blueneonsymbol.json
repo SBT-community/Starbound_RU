@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/blueneonsymbol.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/blueneonsymbolblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A block with some sorta glowin' symbol.",
+      "Rus": "Блок с типа светящимся символом."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Плитка со странным синим глифом, выгравированным в центре."
+    ],
+    "Files": {
+      "items/materials/blueneonsymbol.matitem": [
+        "/description"
+      ],
+      "tiles/materials/blueneonsymbolblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tile with a strange blue glyph engraved in the centre.",
+      "Rus": "Плитка со странным голубым символом, выгравированным в центре."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Синий Неоновый Блок"
+    ],
+    "Files": {
+      "items/materials/blueneonsymbol.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/blueneonsymbolblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blue Neon Block",
+      "Rus": "Голубой неоновый блок"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/blueneonsymbol.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/blueneonsymbolblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran like glowy ssymbolss.",
+      "Rus": "Флорану нравится сссияющий сссимвол."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/blueneonsymbol.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/blueneonsymbolblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The meaning of this symbol is unknown.",
+      "Rus": "Значение этого символа неизвестно."
+    }
+  }
+]

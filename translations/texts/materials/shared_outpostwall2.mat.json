@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/outpostwall2.matitem": [
+        "/description"
+      ],
+      "tiles/materials/outpostwall2.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A thick wall type developed for exposure to extreme elements.",
+      "Rus": "Толстая стена, которая выдержит даже чрезмерные нагрузки."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/outpostwall2.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/outpostwall2.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ain't nothin' gonna move this thick wall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/outpostwall2.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/outpostwall2.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nothing will move this structurally reinforced wall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/outpostwall2.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/outpostwall2.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Outpost Thick Wall",
+      "Rus": "Толстая стена форпоста"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/outpostwall2.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/outpostwall2.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thiss wall is ssso sstrong."
+    }
+  }
+]

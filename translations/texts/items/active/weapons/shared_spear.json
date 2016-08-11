@@ -1,0 +1,41 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/nurusspear/nurusspearmelee.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/protectorate/titaniumspear.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A spear made for keeping enemies at bay.",
+      "Rus": "Копье сделано для удержании врагов на расстоянии."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/spear/commonspear.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/spear/rarespear.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/spear/uncommonspear.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/npc/npcfeneroxspear.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/npc/npcspear.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This spear is perfect for enemies just out of reach.",
+      "Rus": "Это копье идеально подходит для врагов вне досягаемости."
+    }
+  }
+]

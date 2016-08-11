@@ -1,0 +1,27 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outposthumanexcon.npctype": [
+        "/scriptConfig/dialog/converse/human/human/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I haven't been on Earth in years, but I was still devastated by the news. The universe is a messy place...",
+      "Rus": "Я годами не бывал на Земле, но эти новости потрясают. Вселенная - мрачное место..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outposthumanexcon.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0",
+        "/scriptConfig/dialog/converse/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've done some stuff in my past I'm not proud of, but the people here have been good to me. I owe them a lot.",
+      "Rus": "В прошлом я творил такое, о чём стыдно вспоминать, но здешние ко мне хорошо относятся. Это дорогого стоит."
+    }
+  }
+]

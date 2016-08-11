@@ -1,0 +1,290 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster.questtemplate": [
+        "/scriptConfig/generatedText/text/first/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A lone ^orange;<monster> ^white;ambushed me at the ^orange;<spawnPoint>^white;<spawnPoint.direction> and took ^orange;<items>^white;! Can you ^green;hunt the creature and retrieve my possessions for me?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster.questtemplate": [
+        "/scriptConfig/objectives/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bring the <items> to <questGiver>",
+      "Rus": "Принеси <items> к <questGiver> "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster.questtemplate": [
+        "/scriptConfig/generatedText/text/first/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Firsst, we need Floran's ^orange;<items>^white;. Not hard to find. Lone <monster> near ^orange;<spawnPoint>^white;<spawnPoint.direction> ate them. ^green;Hunt the ^orange;<monster> ^green;and bring Floran's thingsss back!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster.questtemplate": [
+        "/scriptConfig/generatedText/text/first/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "First sstep, Floran need you to go on a little hunt. Floran sssaw ^orange;<monster> ^white;nearby swallow ^orange;<items> near ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^white;Greedy <monster>! ^green;Hunt it and bring Floran the stuff from inssside."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran knew you'd do it! <player> the <monster> hunter! Sssounds good, right? And now Floran has what we need."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Good job! Bet <monster> regretss eating Floran's ssstuff now. Okay, let's make usse of the <items>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Great work! That <monster> won't be bothering anyone anymore! And we should have everything we need for phase two."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster.questtemplate": [
+        "/scriptConfig/objectives/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hunt the <monster>",
+      "Rus": "Выследи <monster>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster.questtemplate": [
+        "/scriptConfig/generatedText/text/first/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I had just finished gathering ^orange;<items>^white; when a lone ^orange;<monster> at the <spawnPoint><spawnPoint.direction> swallowed them whole! ^white;Could you go ^green;hunt the beast and retrieve my belongings^white; for me?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I was attacked by a fierce ^orange;<monster> at the <spawnPoint>^white;<spawnPoint.direction>, and it swallowed my possessions in the struggle. It took ^orange;<items>, ^white;could you ^green;hunt it down and retrieve my things^white; for me?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I was recently attacked by a fierce ^orange;<monster>, ^white;which made off with my ^orange;<items>^white. It went towards the ^orange;<spawnPoint>^white<spawnPoint.direction>. Could you ^green;hunt the creature down for me?^white; It couldn't have gotten far."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressive - you're a good hunter. Things <monster> ate are a little sssticky, but still usable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next sstep not tricky. A ^orange;<monster> ^white;near the ^orange;<spawnPoint>^white;<spawnPoint.direction> ate Floran's ^orange;<items>. ^green;Hunt ^orange;<monster> ^white;for Floran and ^green;get stuff back."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next you'll need to hunt down a ^orange;<monster>.^white; I was out walking by the ^orange;<spawnPoint>^white;<spawnPoint.direction> earlier and it ambushed me and took my ^orange;<items>. Would you ^green;locate the creature and return what it's taken?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next, ^green;I'll need you to hunt down the ^orange;<monster>^white; that swallowed my ^orange;<items>^white; and ran off the other day -- I need my stuff back. That ^orange;<monster>^white; should be near the ^orange;<spawnPoint>^white;<spawnPoint.direction>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nice work! Floran wasn't sssure if you'd succeed. Lookss like you didn't ask <monster> nicely, Floran will clean thiss stuff before usssing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Okay, now Floran needss ^orange;<items>. ^white;Floran sssaw ^orange;<monster> ^white;near the ^orange;<spawnPoint>^white;<spawnPoint.direction> swallow the stuff we need! ^green;Hunt the ^orange;<monster> ^white;for Floran and ^green;bring back the thingsss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thank you for retrieving my belongings - They are important to my plans. Hopefully any wandering beasts will learn not to antagonise us in future!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thank you! That <monster> should have thought twice before running off with things that didn't belong to it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "That <monster> is finally gone? Thank you! Now that we've got <items> we can move forward."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster.questtemplate": [
+        "/scriptConfig/generatedText/text/first/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The first step is ^green;finding the ^orange;<monster>^white; that's been giving me trouble. It ran off with ^orange;<items>,^white; towards the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;You don't mind hunting it down do you?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster.questtemplate": [
+        "/scriptConfig/generatedText/text/first/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The first thing we'll need is ^orange;<items>.^white; Unfortunately, an oversized <monster> ate my supplies. It should be lurking around near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Could you ^green;kill that ^orange;<monster>^green; and bring them back?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You managed to defeat that <monster>!? You must be a great warrior! Thank you for your assistance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You retrieved my belongings - even if they do smell of <monster>!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You retrieved my belongings for me! Next time a cowardly <monster> ambushes me, I'll be ready."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yuck, was this in the stomach of that <monster>?  I guess I can't complain, thanks for doing the dirty work."
+    }
+  }
+]

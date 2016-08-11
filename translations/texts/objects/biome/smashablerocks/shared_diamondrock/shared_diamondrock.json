@@ -1,0 +1,107 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/diamondrock/diamondrock.object": [
+        "/description"
+      ],
+      "objects/biome/smashablerocks/diamondrocksmall/diamondrocksmall.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cracked rock full of diamond.",
+      "Rus": "Потрескавшаяся  порода полная бриллиантов."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/diamondrock/diamondrock.object": [
+        "/humanDescription"
+      ],
+      "objects/biome/smashablerocks/diamondrocksmall/diamondrocksmall.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rock full of diamond! Maybe I can break it.",
+      "Rus": "Порода богатая брильянтами! Может удастся её расколоть."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/diamondrock/diamondrock.object": [
+        "/novakidDescription"
+      ],
+      "objects/biome/smashablerocks/diamondrocksmall/diamondrocksmall.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rock rich with diamond. I should break it.",
+      "Rus": "Порода богатая бриллиантами. Надо бы разбить."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/diamondrock/diamondrock.object": [
+        "/hylotlDescription"
+      ],
+      "objects/biome/smashablerocks/diamondrocksmall/diamondrocksmall.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A swift blow to this rock would free the diamond within.",
+      "Rus": "Стремительный удар по этой породе высвободит бриллианты внутри."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/diamondrock/diamondrock.object": [
+        "/avianDescription"
+      ],
+      "objects/biome/smashablerocks/diamondrocksmall/diamondrocksmall.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "If I break this rock I should be able to gather the diamond ore within it.",
+      "Rus": "Если сломать камень я смогу собрать брильянты, которые внутри."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/diamondrock/diamondrock.object": [
+        "/apexDescription"
+      ],
+      "objects/biome/smashablerocks/diamondrocksmall/diamondrocksmall.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There appears to be diamond within this fragile rock.",
+      "Rus": "Похоже, что внутри этой хрупкой породы находятся бриллианты."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/diamondrock/diamondrock.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/biome/smashablerocks/diamondrocksmall/diamondrocksmall.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This rock contains diamond, and is covered in cracks.",
+      "Rus": "Эта порода содержит бриллиант, она вся покрыта трещинами."
+    }
+  }
+]

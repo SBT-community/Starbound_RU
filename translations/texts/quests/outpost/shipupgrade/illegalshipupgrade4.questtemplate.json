@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/shipupgrade/illegalshipupgrade4.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ship license is entirely and completely legal, for sure. ^green;Visit Penguin Pete^reset; with ^orange;8 Upgrade Modules^reset; to upgrade your ship.",
+      "Rus": "Эта лицензия полностью и абсолютно легальна, можно быть уверенным. ^green;Посети пингвина Пита^reset; c ^orange;8 Модулями Улучшения^reset;, чтобы улучшить свой корабль."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/shipupgrade/illegalshipupgrade4.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Illicit Eagle Ship Upgrade",
+      "Rus": "^green;Противозаконное улучшение корабля класса Орёл"
+    }
+  }
+]

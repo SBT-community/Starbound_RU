@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/backervisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hello! Everyone calls me ^orange;<selfname>^white;. I helped pay for this Outpost - I hope you like it!",
+      "Rus": "Привет! Все зовут меня ^orange;<selfname>^white;. Я помогал оплачивать строительство Форпоста - надеюсь тебе здесь нравится!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/backervisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey there. Your name is <entityname>? I'm ^orange;<selfname>^white;! I helped pay for the development of the Outpost!",
+      "Rus": "Привет! Твоё имя <entityname>? Я ^orange;<selfname>^white;! Я помогал оплачивать строительство Форпоста!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/backervisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey! My name is ^orange;<selfname>^white; - don't ask why. I helped pay for the creation of the Outpost!",
+      "Rus": "Хей! Меня зовут ^orange;<selfname>^white; - не спрашивай почему. Я материально помогал в строительстве Форпоста!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/backervisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey, I'm ^orange;<selfname>^white;, patron of the Outpost. I hope you're enjoying it here!",
+      "Rus": "Хей, я ^orange;<selfname>^white;, покровитель Форпоста. Надеюсь тебе здесь по душе!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/backervisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hi there! I'm ^orange;<selfname>^white; - I helped fund the creation of the Outpost!",
+      "Rus": "Эй! Я ^orange;<selfname>^white; - Я финансировал строительство Форпоста!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/backervisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "My friends call me ^orange;<selfname>^white;. I'm a patron of this place - Do you like it?",
+      "Rus": "Мои друзья зовут меня ^orange;<selfname>^white;. Я покровитель этого места. Оно тебе нравится?"
+    }
+  }
+]

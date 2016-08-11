@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Действительно роскошная платформа изготовленная из золота."
+    ],
+    "Files": {
+      "items/materials/goldenplatform.matitem": [
+        "/description"
+      ],
+      "tiles/platforms/goldenplatform.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "For the truly opulent, a platform made from gold.",
+      "Rus": "Для самых богатых, платформа изготовленная из золота."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/goldenplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/goldenplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gold Platform",
+      "Rus": "Золотая платформа"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/goldenplatform.matitem": [
+        "/florandescription"
+      ],
+      "tiles/platforms/goldenplatform.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gold platformsss. Sso fancy.",
+      "Rus": "Золотые платформы. Как прекрасно. "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/goldenplatform.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/platforms/goldenplatform.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gold! It's a platform made of gold!.",
+      "Rus": "Золото! Эта платформа из золота!."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/goldenplatform.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/platforms/goldenplatform.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This platform is made from solid gold.",
+      "Rus": "Эта платформа сделана из чистого золота."
+    }
+  }
+]

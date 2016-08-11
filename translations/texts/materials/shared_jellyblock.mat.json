@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/jellyblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/jellyblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mess 'o slimy lookin' jelly.",
+      "Rus": "Чудо-юдо студень."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Слизистая светящаяся масса геля."
+    ],
+    "Files": {
+      "items/materials/jellyblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/jellyblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A slimy, bright coloured mass of jelly.",
+      "Rus": "Склизское, разноцветное желе."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/jellyblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/jellyblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I dislike the way this jelly jiggles.",
+      "Rus": "Мне не нравится как покачивается это желе."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Капля геля"
+    ],
+    "Files": {
+      "items/materials/jellyblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/jellyblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jelly Blob",
+      "Rus": "Желейная масса"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/jellyblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/jellyblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jiggly wiggly jelly.",
+      "Rus": "Яркое, веселое желе."
+    }
+  }
+]

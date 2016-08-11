@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/museumcurator2.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've been doing some cultural research, and I feel it's very important that Big Ape be included in the Apex section of my museum. ^green;Could you please bring me a ^orange;Big Ape Bust^white;? I hear that they're relatively ubiquitous, so you should be able to find one in an Apex settlement.",
+      "Rus": "Я проводил кое-какие культурные исследования и понял, что в секции Апексов должен быть Большой Эйп. ^green;Можешь принести мне ^orange;Бюст Большого Эйпа^white;? Я слышал, что они не редкость, ты найдешь его в поселении Апексов."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/museumcurator2.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This will be perfect for the museum! Thank you so much.",
+      "Rus": "Это идеально подойдёт для музея! Огромное спасибо."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/museumcurator2.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;The Ruler of the Apex",
+      "Rus": "^green;Правитель Апексов"
+    }
+  }
+]

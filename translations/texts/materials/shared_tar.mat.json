@@ -1,0 +1,59 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tar.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/tar.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A whole mess'a thick lookin' tar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tar.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/tar.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran disslikes ssticky tar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tar.matitem": [
+        "/description"
+      ],
+      "tiles/materials/tar.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thick, rancid tar. Just looking at it feels sticky.",
+      "Rus": "Густая, прогорклая смола. Даже смотреть на неё липко."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tar.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/tar.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This tar is thick and very sticky."
+    }
+  }
+]

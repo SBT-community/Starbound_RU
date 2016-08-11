@@ -1,0 +1,27 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outpostavianmercenary.npctype": [
+        "/scriptConfig/dialog/converse/avian/default/0",
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I once served the Stargazers, until I came to realize that I no longer agreed with their views.",
+      "Rus": "Было время, я служил Звездочётам. Но потом ушёл - разошлись во взглядах."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outpostavianmercenary.npctype": [
+        "/scriptConfig/dialog/converse/avian/avian/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You need not fear the rancor of the Stargazers in this place, my friend.",
+      "Rus": "Не бойся гнева Звездочётов. Тут им тебя не достать."
+    }
+  }
+]

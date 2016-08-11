@@ -1,0 +1,58 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/fallingrocks/fallingrocks.object": [
+        "/novakidDescription"
+      ],
+      "objects/mission/fallingrocksmodern/fallingrocksmodern.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Better watch out for fallin' rocks ahead."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/fallingrocks/fallingrocks.object": [
+        "/humanDescription"
+      ],
+      "objects/mission/fallingrocksmodern/fallingrocksmodern.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Falling rocks. Why can't a cave just be safe for once?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/fallingrocks/fallingrocks.object": [
+        "/hylotlDescription"
+      ],
+      "objects/mission/fallingrocksmodern/fallingrocksmodern.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perhaps the artist was trying to warn others."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/fallingrocks/fallingrocks.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/mission/fallingrocksmodern/fallingrocksmodern.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perhaps this represents that the area is unsafe?"
+    }
+  }
+]

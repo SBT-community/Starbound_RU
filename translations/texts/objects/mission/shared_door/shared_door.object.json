@@ -1,0 +1,86 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/miningverticaldoor/miningverticaldoor.object": [
+        "/avianDescription"
+      ],
+      "objects/mission/penguinbasedoor/penguinbasedoor.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crudely engineered hatch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/miningverticaldoor/miningverticaldoor.object": [
+        "/novakidDescription"
+      ],
+      "objects/mission/penguinbasedoor/penguinbasedoor.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hatchway in the floor. I can climb through it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/miningverticaldoor/miningverticaldoor.object": [
+        "/hylotlDescription"
+      ],
+      "objects/mission/penguinbasedoor/penguinbasedoor.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rusty hatchway, made with function in mind."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/miningverticaldoor/miningverticaldoor.object": [
+        "/description"
+      ],
+      "objects/mission/penguinbasedoor/penguinbasedoor.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vertical hatch doorway."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/miningverticaldoor/miningverticaldoor.object": [
+        "/floranDescription"
+      ],
+      "objects/mission/penguinbasedoor/penguinbasedoor.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hatch opensss... Hatch closesss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/miningverticaldoor/miningverticaldoor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/mission/penguinbasedoor/penguinbasedoor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hatch is for vertical access."
+    }
+  }
+]

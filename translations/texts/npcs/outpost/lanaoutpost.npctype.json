@@ -1,0 +1,87 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/lanaoutpost.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Acquires powerful augments",
+      "Rus": "Получает мощные улучшения"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/lanaoutpost.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Lana Blake",
+      "Rus": "Лана Блейк"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/lanaoutpost.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come back tomorrow, soldier - I'll have a new shipment by then.",
+      "Rus": "Приходи завтра, солдат - у меня будут новы поступления."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/lanaoutpost.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/0",
+        "/scriptConfig/dialog/merchant/welcome/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hello, soldier. I've acquired a shipment of Augments. Are these of any use to you?",
+      "Rus": "Здравствуй, солдат. Я получил партию улучшений. Что-нибудь из этого может тебе пригодиться?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/lanaoutpost.npctype": [
+        "/scriptConfig/dialog/merchant/tout/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I got a shipment of Augments straight from the rebel camps.",
+      "Rus": "Я получила новую партию улучшений прямо из лагеря повстанцев"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/lanaoutpost.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll have a new shipment tomorrow, come back when you need to.",
+      "Rus": "Я получу новые поступления завтра, возвращайся, когда тебе что-то понадобится."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/lanaoutpost.npctype": [
+        "/scriptConfig/dialog/merchant/tout/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soldier - the rebels have shipped me a new batch of Augments.",
+      "Rus": "Солдат, повстанцы прислали мне новую партию улучшений."
+    }
+  }
+]

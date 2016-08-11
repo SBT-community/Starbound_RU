@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Чрезвычайно твердый камень находящийся только за пределами атмосферы."
+    ],
+    "Files": {
+      "items/materials/meteoriterock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/meteoriterock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An extremely hard rock found just outside the atmosphere.",
+      "Rus": "Чрезвычайно прочный камень, который встречается только за пределами атмосферы. "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/meteoriterock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/meteoriterock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran like ssky rockss.",
+      "Rus": "Флорану нравитссся небесссный камень."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/meteoriterock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/meteoriterock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Meteorite Rock",
+      "Rus": "Метеоритный камень"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/meteoriterock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/meteoriterock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These space rocks ain't like the ones on the ground.",
+      "Rus": "Эти космические камни не такие, как на земле."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/meteoriterock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/meteoriterock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This rock is of extraterrestrial origin.",
+      "Rus": "Этот камень имеет внеземное происхождение."
+    }
+  }
+]

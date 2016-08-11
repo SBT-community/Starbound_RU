@@ -1,0 +1,27 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
+        "/nothingThereText/default/1"
+      ],
+      "items/tools/inspectiontool/scanmode.inspectiontool": [
+        "/nothingThereText/default/1"
+      ],
+      "objects/generic/invisiblelight/invisiblelight.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/floranDescription",
+        "/glitchDescription",
+        "/humanDescription",
+        "/hylotlDescription"
+      ],
+      "objects/wreck/wreckscreen/wreckscreen.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nothing to see here."
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/crafting.config": [
+        "/paneLayout/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Basic Crafting",
+      "Rus": "Базовое ремесло"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/crafting.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " ^#b9b5b2;Just you, your ingredients and your hands ^green;[C]",
+      "Rus": "^#b9b5b2;Только Вы, Ваши ингредиенты и руки^green;[C]"
+    }
+  }
+]

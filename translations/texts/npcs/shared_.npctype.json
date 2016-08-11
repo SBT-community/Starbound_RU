@@ -1,0 +1,54 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Я вижу тебя!"
+    ],
+    "Files": {
+      "npcs/mission/floranpredator.npctype": [
+        "/scriptConfig/dialog/attack/floran/default/0"
+      ],
+      "npcs/story/nurufight.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/threats/florancannibal.npctype": [
+        "/scriptConfig/dialog/attack/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I sssee you!",
+      "Rus": "Я тебя вижу!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/floranpredator.npctype": [
+        "/scriptConfig/dialog/attack/floran/default/7"
+      ],
+      "npcs/threats/florancannibal.npctype": [
+        "/scriptConfig/dialog/attack/floran/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Hunt isss on!",
+      "Rus": "Охота началассь!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Ты не сскроешься от меня!"
+    ],
+    "Files": {
+      "npcs/mission/floranpredator.npctype": [
+        "/scriptConfig/dialog/attack/floran/default/6"
+      ],
+      "npcs/threats/florancannibal.npctype": [
+        "/scriptConfig/dialog/attack/floran/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "You can't run from me!",
+      "Rus": "Тебе не ссбежать!"
+    }
+  }
+]

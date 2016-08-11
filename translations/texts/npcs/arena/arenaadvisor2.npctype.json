@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenaadvisor2.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shots from Volo's rifle will severely slow your movement, make sure to avoid getting hit.",
+      "Rus": "Дистанционные атаки Воло могут серьезно тебя замедлить. Избегай её ударов."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenaadvisor2.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Volo will attempt to stay behind her pets to attack from a distance, use the arena to protect yourself from her shots.",
+      "Rus": "Воло будет пытаться держаться за своими питомцами, чтобы атаковать с расстояния, используй арену, чтобы защитить себя от ее выстрелов."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenaadvisor2.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Volo's pets are weak compared to her. I recommend removing them from the fight first.",
+      "Rus": "Питомцы Воло заметно слабее в сравнении с ней. Я рекомендую удалить их из борьбы в первую очередь."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenaadvisor2.npctype": [
+        "/scriptConfig/dialog/converse/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "You can use ledges to lure Volo into closer range. That's the best time to strike!",
+      "Rus": "Вы можете использовать уступы, чтобы выманить Воло на более близкое расстояние. Это самый удобный момент для атаки!"
+    }
+  }
+]

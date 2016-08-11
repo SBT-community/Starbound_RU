@@ -1,0 +1,53 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Этот корень выглядит как рука."
+    ],
+    "Files": {
+      "plants/grass/ceiling/decorative/ceilinghandlike/ceilinghandlike.grass": [
+        "/description",
+        "/shortdescription"
+      ],
+      "plants/grass/ground/decorative/handlike/handlike.grass": [
+        "/description",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A root that looks like a hand.",
+      "Rus": "Корень похожий на руку."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Корень похож на руку."
+    ],
+    "Files": {
+      "plants/grass/ceiling/decorative/ceilinghandlike/ceilinghandlike.grass": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "plants/grass/ground/decorative/handlike/handlike.grass": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A root that resembles a hand.",
+      "Rus": "Корень напоминающий руку."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ceiling/decorative/ceilinghandlike/ceilinghandlike.grass": [
+        "/floranDescription"
+      ],
+      "plants/grass/ground/decorative/handlike/handlike.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grabby root.",
+      "Rus": "Хватающий корень."
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/museumcurator5.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "My museum's almost complete! And I think Nuru might actually be coming round to the idea. I've heard about an interesting object called an \"^orange;Old Television^white;\" that would fit well in the human exhibit. ^green;Could you bring me one^white;? They're common in human camps, but not atypical in other areas too.",
+      "Rus": "Мой музей почти завершен! И Нуру, может быть, поймет его смысл. Я слышал об интересном объекте под названием \"^orange;Старый Телевизор^white;\", который будет хорошо смотреться в выставке Людей. ^green;Можешь принести мне один^white;? Их много в людских лагерях, но и в других местах они не редкость."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/museumcurator5.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wonderful! It's so kind of you to be collecting these things for me. Just one more exhibit left now!",
+      "Rus": "Великолепно! Так мило с твоей стороны собирать все эти вещи для меня. Остался лишь один экспонат!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/museumcurator5.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Fresh Tunes",
+      "Rus": "^green;Свежие тона"
+    }
+  }
+]

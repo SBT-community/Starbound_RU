@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist3.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've been working on a new piece of tech that enables the user to perform a jump in mid-air, allowing them to reach incredible new heights! Unfortunately, I require a few more components before I can finish it. ^green;Could you bring me ^orange;10 Silver Bars^white;?",
+      "Rus": "Я работаю над новой технологией, которая позволит совершить прыжок, находясь в воздухе. К сожалению, мне требуется еще несколько компонентов, прежде чем я смогу завершить её. ^green;Тебя не затруднит принести ^orange; 10 серебряных слитков^white;?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist3.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Marvelous! With these additions the ^orange;Pulse Jump Tech^white; is ready for testing! Come and speak to me again if you'd like to help.",
+      "Rus": "Замечательно! Теперь ^orange;Технология Скачка^white; готова к тестированию! Не уходи далеко, потолкуем об испытаниях."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist3.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Jump-starting Development",
+      "Rus": "^orange;Скачкообразное нарастание"
+    }
+  }
+]

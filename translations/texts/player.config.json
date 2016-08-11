@@ -1,0 +1,37 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "player.config": [
+        "/blueprintAlreadyKnown"
+      ]
+    },
+    "Texts": {
+      "Eng": "I already know how to craft <ItemName>.",
+      "Rus": "Я уже знаю как сделать <ItemName>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "player.config": [
+        "/companionsConfig/recruitDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;> Name: ^white;<name>\n^cyan;> Job:^white; <role>\n^cyan;> Rank:^white; <rank>\n^cyan;> Status:^white; <status>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "player.config": [
+        "/blueprintUnlock"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Learned to craft: <ItemName>.",
+      "Rus": "^green;Рецепт изучен: <ItemName>."
+    }
+  }
+]

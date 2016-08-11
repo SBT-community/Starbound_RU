@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratelobbylounger.npctype": [
+        "/scriptConfig/dialog/converse/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Congratulations on your graduation, my friend. You've earned it.",
+      "Rus": "Поздравляю с выпуском, друг мой. Ты заслужил это."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratelobbylounger.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I love this seat. So comfortable, and with a great view.",
+      "Rus": "Люблю это место. Так удобно, и вид прекрасный. "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratelobbylounger.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Most people are courteous enough to vacate a seat if you ask nicely, but this chair's too comfortable to give up.",
+      "Rus": "Большинство людей достаточно вежливы, чтобы освободить место, если вы их мило попросите, но этот стул слишком удобный, чтобы сдаваться."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratelobbylounger.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Off to a bit of a late start, aren't you <entityname>?",
+      "Rus": "Начало немного позже, чем ты ожидал, не так ли, <entityname>?"
+    }
+  }
+]

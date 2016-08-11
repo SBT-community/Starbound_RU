@@ -1,0 +1,45 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Там могут быть целебные вещества на полках."
+    ],
+    "Files": {
+      "objects/apex/apexstoreshelf/apexstoreshelf.object": [
+        "/avianDescription"
+      ],
+      "objects/biome/scorchedcity/bombsheltershelf1/bombsheltershelf1.object": [
+        "/avianDescription"
+      ],
+      "objects/biome/scorchedcity/scorchedcitystoreshelf/scorchedcitystoreshelf.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There are some healing items on this shelf.",
+      "Rus": "На этой полке несколько лечебных принадлежностей."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "На полках есть полезные вещи.",
+      "На полках могут обнаружиться полезные предметы.",
+      "На этой полке есть кое-что полезное"
+    ],
+    "Files": {
+      "objects/apex/apexstoreshelf/apexstoreshelf.object": [
+        "/glitchDescription/glitchEmotedText",
+        "/hylotlDescription"
+      ],
+      "objects/biome/scorchedcity/bombsheltershelf1/bombsheltershelf1.object": [
+        "/apexDescription"
+      ],
+      "objects/biome/scorchedcity/scorchedcitystoreshelf/scorchedcitystoreshelf.object": [
+        "/glitchDescription/glitchEmotedText",
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There are some useful items on this shelf."
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/ship/shiprepairkit.unlock": [
+        "/unlockMessage"
+      ]
+    },
+    "Texts": {
+      "Eng": "Great! While there's still some work to be done on the FTL drive, you should be able to at least reach another planet in the solar system now.",
+      "Rus": "Отлично! Хотя Сверхсветовой двигатель всё ещё требует ремонта, ты хотя бы сможешь достичь соседних планет внутри солнечной системы."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/ship/shiprepairkit.unlock": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's not much, but this will help you get your ship back into ship-shape.",
+      "Rus": "Не слишком много, но позволит тебе привести свой корабль в подобающую форму."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/ship/shiprepairkit.unlock": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ship Repair Kit",
+      "Rus": "Ремкомплект Звездолёта"
+    }
+  }
+]

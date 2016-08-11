@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/museumcurator1.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I was thinking of opening a museum. Do you think Florans like things like that? I'd really like to get to know Nuru better... Anyway, I need exhibits! Could you please ^green;bring me a ^orange;Grand Avian Sarcophagus^white;? You're most likely to find one in an Avian tomb.",
+      "Rus": "Я думал об открытии музея. Думаешь, Флоранам понравится? Я просто хочу узнать Нуру побольше... В любом случае, мне нужны экспонаты! Можешь ^green;принести мне ^orange;Большой саркофаг Авиан^white;? Ты найдешь такой в их гробнице."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/museumcurator1.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thank you so much! This will make the perfect centerpiece for the Avian exhibit. I'm sure Nuru will very much enjoy such a stunning piece! And everybody else too, of course...",
+      "Rus": "Огромное спасибо! Это станет центром Авианской выставки. Я уверен, Нуру понравится это завораживающее зрелище! Ну и другим тоже, конечно..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/museumcurator1.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Koichi's Request",
+      "Rus": "^green;Просьба Коичи"
+    }
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/cursorTooltip/beamUpText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beam Up",
+      "Rus": "На корабль"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/largeCharPlate/noPlayerText"
+      ]
+    },
+    "Texts": {
+      "Eng": "CREATE CHARACTER",
+      "Rus": "СОЗДАТЬ ПЕРСОНАЖА"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/modeTypeTextAndColor/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Casual",
+      "Rus": "Прогулка"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/escapeDialog/lblcopyright/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chucklefish Games 2016 - Made in London, UK",
+      "Rus": "Chucklefish Games 2016 - Лондон, Англия"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/cursorTooltip/craftingText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crafting",
+      "Rus": "Крафт"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/cursorTooltip/disabledText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disabled",
+      "Rus": "Отключен"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/modeTypeTextAndColor/3/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hardcore",
+      "Rus": "Хардкор"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/modsWarningMessage"
+      ]
+    },
+    "Texts": {
+      "Eng": "Installing and uninstalling mods can corrupt your save files, you may want to back up the 'storage' directory before continuing.",
+      "Rus": "Установка и удаление модов могут повредить ваши сохранения. Советуем скопировать папку \"storage\" перед продолжением."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/cursorTooltip/inventoryText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inventory",
+      "Rus": "Сумка"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/cursorTooltip/mmUpgradeText"
+      ]
+    },
+    "Texts": {
+      "Eng": "M.M. Upgrade",
+      "Rus": "М. М. Улучшение"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/largeCharPlate/modeText"
+      ]
+    },
+    "Texts": {
+      "Eng": "MODE:",
+      "Rus": "РЕЖИМ: "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/escapeDialog/showOptions/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Options",
+      "Rus": "Настройки"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/cursorTooltip/questsText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Quests",
+      "Rus": "Квесты"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/escapeDialog/returnToGame/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return to Game",
+      "Rus": "Назад в игру"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/escapeDialog/saveAndQuit/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Save & Quit",
+      "Rus": "Сохранить и выйти"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/modeTypeTextAndColor/2/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Survival",
+      "Rus": "Выживание"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/overflowMessageText"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;+<count> more^reset;",
+      "Rus": "^green;ещё +<count>^reset;"
+    }
+  }
+]

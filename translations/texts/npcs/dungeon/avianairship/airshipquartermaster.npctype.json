@@ -1,0 +1,233 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
+        "/scriptConfig/dialog/merchant/follow/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "After some supplies? I can help with that! Come with me.",
+      "Rus": "Требуются припасы? Я могу помочь! Пойдем со мной."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
+        "/scriptConfig/dialog/merchant/follow/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ah, so ya need some supplies, eh? Right this way!",
+      "Rus": "Ах, так тебе нужны припасы? Следуй за мной!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Что-то приглянулось?"
+    ],
+    "Files": {
+      "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
+        "/scriptConfig/dialog/merchant/start/avian/default/1",
+        "/scriptConfig/dialog/merchant/start/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Anythin' catch yer eye?",
+      "Rus": "Что-нибудь приглянулось?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Если еще что-нибудь тебе понадобится, приходите ко мне!",
+      "Таки все, шо тебе может пригодиться. Подходи же, не стой там как истукан."
+    ],
+    "Files": {
+      "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
+        "/scriptConfig/dialog/merchant/end/avian/default/1",
+        "/scriptConfig/dialog/merchant/end/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Anythin' else ya need, come see me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Приходи к нам, когда тебе понадобятся припасы!"
+    ],
+    "Files": {
+      "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
+        "/scriptConfig/dialog/merchant/end/avian/default/0",
+        "/scriptConfig/dialog/merchant/end/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come to us whene'er ya need more supplies!",
+      "Rus": "Заглядывай, если что-то понадобится!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here we are then!",
+      "Rus": "Вот мы и пришли!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Короч, я в курсах че те надо.",
+      "Я тока узнал, у нас есть одна фиговина для тебя, братуля"
+    ],
+    "Files": {
+      "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
+        "/scriptConfig/dialog/merchant/start/avian/default/5",
+        "/scriptConfig/dialog/merchant/start/default/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "I jus' know we have somethin' useful fer ya."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
+        "/scriptConfig/dialog/merchant/tout/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "If it's supplies yer lookin' for, I handle the trades around here!",
+      "Rus": "Если ищешь че прикупить, у меня тут магазинчик!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Если у тебя есть бабло, у нас есть товар."
+    ],
+    "Files": {
+      "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
+        "/scriptConfig/dialog/merchant/end/avian/default/2",
+        "/scriptConfig/dialog/merchant/end/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "If ya got the pixels, we got the goods.",
+      "Rus": "Утром деньги - вечером стулья!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Давай торговаться!"
+    ],
+    "Files": {
+      "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
+        "/scriptConfig/dialog/merchant/start/avian/default/2",
+        "/scriptConfig/dialog/merchant/start/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let's trade!",
+      "Rus": "Давай торговать!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
+        "/scriptConfig/dialog/merchant/follow/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lookin' to trade? Follow me.",
+      "Rus": "Хочешь поторговать? Идем за мной."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
+        "/scriptConfig/dialog/merchant/tout/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Need some supplies? I can 'elp with that!",
+      "Rus": "Нужны медикаменты? Я могу подсобить с этим!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Ничего необычного, но товар хороший.",
+      "Третий сорт не брак."
+    ],
+    "Files": {
+      "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
+        "/scriptConfig/dialog/merchant/start/avian/default/4",
+        "/scriptConfig/dialog/merchant/start/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nothin' but the finest."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now then, what were ya lookin' for?",
+      "Rus": "А теперь, что ты ищешь?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Короче че те нужно?"
+    ],
+    "Files": {
+      "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
+        "/scriptConfig/dialog/merchant/start/avian/default/0",
+        "/scriptConfig/dialog/merchant/start/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "So, what do ya need?",
+      "Rus": "Так это... Че пришел то?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Взгляни на это!"
+    ],
+    "Files": {
+      "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
+        "/scriptConfig/dialog/merchant/start/avian/default/3",
+        "/scriptConfig/dialog/merchant/start/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Take a look!",
+      "Rus": "Взгляни!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is it!",
+      "Rus": "Вот и оно!"
+    }
+  }
+]

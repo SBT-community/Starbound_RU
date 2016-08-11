@@ -1,0 +1,206 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Это выглядит так, как будто я вспотел? Это конденсация... Честное слово!"
+    ],
+    "Files": {
+      "npcs/biome/foundryguard.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/1/glitchEmotedText"
+      ],
+      "npcs/biome/maskedguard.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Does it look like I'm sweating? It's actually condensation... Honest!",
+      "Rus": "Это выглядит как пот? Вообще-то это конденсат... честное слово!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Я могу противостоять любой опасности на этой планете!"
+    ],
+    "Files": {
+      "npcs/biome/foundryguard.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/0/glitchEmotedText"
+      ],
+      "npcs/biome/maskedguard.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can withstand any danger on this planet!",
+      "Rus": "Я могу совладать с любой опасностью на этой планете!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Защита от пота в этих доспехах сломана. Можешь объяснить?"
+    ],
+    "Files": {
+      "npcs/biome/foundryguard.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/2"
+      ],
+      "npcs/biome/maskedguard.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have broken a sweat protecting this foundry! Can you tell?",
+      "Rus": "Я защитил эту кузницу даже не вспотев! Каково, а?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Я стал таким сильным, даже с Большим Эйпом на кулачках поборюсь без проблем!"
+    ],
+    "Files": {
+      "npcs/biome/foundryguard.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/0"
+      ],
+      "npcs/biome/maskedguard.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have gotten so strong that not even Big Ape could beat me in an arm wrestle!",
+      "Rus": "Я стал настолько сильным, что даже Большой Эйп не может побороть меня на руках."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "На своей родной планете меня воспитали как воина. Защищать это место - легко!"
+    ],
+    "Files": {
+      "npcs/biome/foundryguard.npctype": [
+        "/scriptConfig/dialog/converse/avian/default/1"
+      ],
+      "npcs/biome/maskedguard.npctype": [
+        "/scriptConfig/dialog/converse/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I was raised as a warrior from birth on my home planet. Protecting this place is easy!",
+      "Rus": "На моей планете я воспитывался как воин с самого рождения. Защитить это место будет проще простого!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Я приглядываю за порядком. Делай что хочешь, но не создавай проблем."
+    ],
+    "Files": {
+      "npcs/biome/foundryguard.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ],
+      "npcs/biome/maskedguard.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm here to keep things peaceful. You're welcome to look around, just don't cause trouble.",
+      "Rus": "Я слежу за порядком здесь. Добро пожаловать, только давай без глупостей."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Я вспотел насквозь через перья!"
+    ],
+    "Files": {
+      "npcs/biome/foundryguard.npctype": [
+        "/scriptConfig/dialog/converse/avian/default/0"
+      ],
+      "npcs/biome/maskedguard.npctype": [
+        "/scriptConfig/dialog/converse/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm sweating through my feathers!",
+      "Rus": "У меня даже перья вспотели!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Я так усердно работал, что с меня семь потов сошло. Было довольно неприятно."
+    ],
+    "Files": {
+      "npcs/biome/foundryguard.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/1"
+      ],
+      "npcs/biome/maskedguard.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've been working myself so hard, I cannot stop sweating. It is quite unpleasant.",
+      "Rus": "Я так усердно работаю над собой, что промок насквозь. Это довольно неприятно."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Так скучно стоять на страже. Может кого-нибудь побить?"
+    ],
+    "Files": {
+      "npcs/biome/foundryguard.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/2/glitchEmotedText"
+      ],
+      "npcs/biome/maskedguard.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's so dull standing guard here. Perhaps I should find someone to fight...",
+      "Rus": "Стоять на страже так скучно. Может, мне найти с кем бы подраться..."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Я поддерживаю порядок вокруг. Не бузи, и мне не придётся знакомить тебя с моим молотом."
+    ],
+    "Files": {
+      "npcs/biome/foundryguard.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ],
+      "npcs/biome/maskedguard.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "My hammer is for keeping the peace around here. Be nice, and you won't see me use it.",
+      "Rus": "Мой молот поддерживает здесь порядок. Будь умницей и тебе не придется увидеть как я его использую."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Держать огромный молоток не так уж сложно."
+    ],
+    "Files": {
+      "npcs/biome/foundryguard.npctype": [
+        "/scriptConfig/dialog/converse/avian/default/2"
+      ],
+      "npcs/biome/maskedguard.npctype": [
+        "/scriptConfig/dialog/converse/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wielding an enormous hammer isn't so hard.",
+      "Rus": "Управляться огромным молотом не так уж тяжело."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Кузнечное ремесло закалило мои мускулы! Никому лучше со мной не связываться.",
+      "Работа в этой кузнице сделала мои руки крепче стали! Я не из ленивых."
+    ],
+    "Files": {
+      "npcs/biome/foundryguard.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ],
+      "npcs/biome/maskedguard.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Working at this foundry has given me arms of steel! I'm not someone to mess with."
+    }
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Многие из нас, повстанцев, потеряли семью и друзей из-за Министерства. Мы не будем отдыхать, пока они не побеждены."
+    ],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/apex/10",
+        "/scriptConfig/dialog/converse/apex/avian/10",
+        "/scriptConfig/dialog/converse/apex/default/10",
+        "/scriptConfig/dialog/converse/apex/floran/10",
+        "/scriptConfig/dialog/converse/apex/glitch/10",
+        "/scriptConfig/dialog/converse/apex/hylotl/10",
+        "/scriptConfig/dialog/converse/apex/novakid/10"
+      ],
+      "npcs/outpost/visitors/rebelvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Many of us rebels have lost family and friends to the Miniknog. We won't rest until they're defeated.",
+      "Rus": "У большинства повстанцев Министерство забрало семью и друзей. Мы не будем знать покоя, пока Министерство не падет."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "В Министерстве нас называют повстанцами, но мы борцы за свободу!",
+      "Министерство зовет нас мятежниками, однако мы- борцы за свободу!"
+    ],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/apex/3",
+        "/scriptConfig/dialog/converse/apex/avian/3",
+        "/scriptConfig/dialog/converse/apex/default/3",
+        "/scriptConfig/dialog/converse/apex/floran/3",
+        "/scriptConfig/dialog/converse/apex/glitch/3",
+        "/scriptConfig/dialog/converse/apex/hylotl/3",
+        "/scriptConfig/dialog/converse/apex/novakid/3"
+      ],
+      "npcs/outpost/visitors/rebelvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Miniknog call us insurgents, but we are freedom fighters!",
+      "Rus": "В Министерстве нас называют мятежниками, но мы борцы за свободу!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Мы застали тяжелейшее время, но нам нельзя терять надежды."
+    ],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/apex/5",
+        "/scriptConfig/dialog/converse/apex/avian/5",
+        "/scriptConfig/dialog/converse/apex/default/5",
+        "/scriptConfig/dialog/converse/apex/floran/5",
+        "/scriptConfig/dialog/converse/apex/glitch/5",
+        "/scriptConfig/dialog/converse/apex/hylotl/5",
+        "/scriptConfig/dialog/converse/apex/novakid/5"
+      ],
+      "npcs/outpost/visitors/rebelvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Times have never been tougher, but we must not lose hope.",
+      "Rus": "Времена еще никогда не были настолько жестоки, но мы не должны терять надежду."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Да, мы скрываемся от Министерства, но знаешь, я никогда не чувствовал себя таким свободным!"
+    ],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/apex/2",
+        "/scriptConfig/dialog/converse/apex/avian/2",
+        "/scriptConfig/dialog/converse/apex/default/2",
+        "/scriptConfig/dialog/converse/apex/floran/2",
+        "/scriptConfig/dialog/converse/apex/glitch/2",
+        "/scriptConfig/dialog/converse/apex/hylotl/2",
+        "/scriptConfig/dialog/converse/apex/novakid/2"
+      ],
+      "npcs/outpost/visitors/rebelvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "We may be on the run from the Miniknog, but I've never felt so free!",
+      "Rus": "Мы, может, и скрываемся от Министерства, но я никогда не чувствовал себя таким свободным!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Ты выглядишь так, будто потерял свой дом, как и мы."
+    ],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/avian/0",
+        "/scriptConfig/dialog/converse/apex/default/0",
+        "/scriptConfig/dialog/converse/apex/floran/0",
+        "/scriptConfig/dialog/converse/apex/glitch/0",
+        "/scriptConfig/dialog/converse/apex/hylotl/0",
+        "/scriptConfig/dialog/converse/apex/novakid/0"
+      ],
+      "npcs/outpost/visitors/rebelvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You look like someone who lost their home, too.",
+      "Rus": "Ты похож на того, кто тоже потерял свой дом."
+    }
+  }
+]

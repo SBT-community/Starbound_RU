@@ -1,0 +1,190 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/inventorstable/inventorstable.object": [
+        "/hylotlDescription",
+        "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
+        "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
+        "/upgradeStages/2/itemSpawnParameters/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chance to create."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/inventorstable/inventorstable.object": [
+        "/avianDescription",
+        "/upgradeStages/0/itemSpawnParameters/avianDescription",
+        "/upgradeStages/1/itemSpawnParameters/avianDescription",
+        "/upgradeStages/2/itemSpawnParameters/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chance to display one's ability to create."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/inventorstable/inventorstable.object": [
+        "/apexDescription",
+        "/upgradeStages/0/itemSpawnParameters/apexDescription",
+        "/upgradeStages/1/itemSpawnParameters/apexDescription",
+        "/upgradeStages/2/itemSpawnParameters/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A table with a bunch of tools for a craftsman.",
+      "Rus": "Стол с кучей инструментов для ремесленника."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/inventorstable/inventorstable.object": [
+        "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Architect's Table",
+      "Rus": "Стол архитектора"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/inventorstable/inventorstable.object": [
+        "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Engineer's Table",
+      "Rus": "Стол инженера"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/inventorstable/inventorstable.object": [
+        "/floranDescription",
+        "/upgradeStages/0/itemSpawnParameters/floranDescription",
+        "/upgradeStages/1/itemSpawnParameters/floranDescription",
+        "/upgradeStages/2/itemSpawnParameters/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran ussse table. Make nice thingss.",
+      "Rus": "Флоран использует стол. И делает красивые вещи."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/inventorstable/inventorstable.object": [
+        "/humanDescription",
+        "/novakidDescription",
+        "/upgradeStages/0/itemSpawnParameters/humanDescription",
+        "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+        "/upgradeStages/1/itemSpawnParameters/humanDescription",
+        "/upgradeStages/1/itemSpawnParameters/novakidDescription",
+        "/upgradeStages/2/itemSpawnParameters/humanDescription",
+        "/upgradeStages/2/itemSpawnParameters/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can use materials I've found here to create new things.",
+      "Rus": "Я могу использовать найденные материалы для создания новых вещей."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/inventorstable/inventorstable.object": [
+        "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Innovation station",
+      "Rus": "Инновационная станция"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/inventorstable/inventorstable.object": [
+        "/upgradeStages/2/itemSpawnParameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The architect's table is used to produce various crafting stations.",
+      "Rus": "Стол архитектора  используется для создания различных верстаков."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/inventorstable/inventorstable.object": [
+        "/upgradeStages/1/itemSpawnParameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The engineer's table is used to produce various crafting stations.",
+      "Rus": "Стол инженера используется для создания различных верстаков."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/inventorstable/inventorstable.object": [
+        "/description",
+        "/upgradeStages/0/itemSpawnParameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The inventor's table is used to produce various crafting stations.",
+      "Rus": "Стол изобретателя используется для создания различных верстаков."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/inventorstable/inventorstable.object": [
+        "/upgradeStages/2/itemSpawnParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Architect's Table^white;",
+      "Rus": "^orange;Стол архитектора^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/inventorstable/inventorstable.object": [
+        "/upgradeStages/1/itemSpawnParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Engineer's Table^white;",
+      "Rus": "^orange;Стол инженера^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/inventorstable/inventorstable.object": [
+        "/shortdescription",
+        "/upgradeStages/0/itemSpawnParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Inventor's Table^white;",
+      "Rus": "^orange;Стол изобретателя^white;"
+    }
+  }
+]

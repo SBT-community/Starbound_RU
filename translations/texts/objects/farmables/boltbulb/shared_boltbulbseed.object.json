@@ -1,0 +1,107 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/boltbulb/boltbulbseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/boltbulb/wildboltbulbseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Boltbulb Seed",
+      "Rus": "Семена болтолуковицы"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/boltbulb/boltbulbseed.object": [
+        "/humanDescription"
+      ],
+      "objects/farmables/boltbulb/wildboltbulbseed.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gross, eating this is like eating bits of a truck.",
+      "Rus": "Гадость какая, всё равно что машину жевать."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/boltbulb/boltbulbseed.object": [
+        "/apexDescription"
+      ],
+      "objects/farmables/boltbulb/wildboltbulbseed.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soft like a banana, but with a horrible metallic taste.",
+      "Rus": "Мягкий как банан, но имеет ужасный металлический вкус."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/boltbulb/boltbulbseed.object": [
+        "/floranDescription"
+      ],
+      "objects/farmables/boltbulb/wildboltbulbseed.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssquishy metal, not like Glitch flesh.",
+      "Rus": "Ссочное железо, не как Глитчи."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/boltbulb/boltbulbseed.object": [
+        "/hylotlDescription"
+      ],
+      "objects/farmables/boltbulb/wildboltbulbseed.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The boltbulb is one of the few genuinely tasty vegetables, for true connoisseurs.",
+      "Rus": "Болтолуковица - это один из тех овощей, которые по вкусу только истинным ценителям."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/boltbulb/boltbulbseed.object": [
+        "/avianDescription"
+      ],
+      "objects/farmables/boltbulb/wildboltbulbseed.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The grounded have become quite fond of this weird, metallic vegetable.",
+      "Rus": "Почему-то эти странные железные овощи очень нравятся Приземлённым."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/boltbulb/boltbulbseed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/farmables/boltbulb/wildboltbulbseed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This vegetable tastes like home.",
+      "Rus": "Этот овощ напоминает о доме."
+    }
+  }
+]

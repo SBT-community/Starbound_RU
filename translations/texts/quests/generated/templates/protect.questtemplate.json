@@ -1,0 +1,554 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "<target> is in danger! It seems there's a gang of ^orange;<threat>^white; on their way from the ^orange;<spawnPoint>^white;<spawnPoint.direction> with hostile intentions. ^green;Make sure they don't harm ^orange;<target>^white;. Do whatever it takes!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "<target> is safe now - As well as being honour-bound to help me in the future. Thank you!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/text/first/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Firstly, we need to deal with the ^orange;<threat>^white; that are on their way here from the ^orange;<spawnPoint>^white;<spawnPoint.direction>. I hear they're after ^orange;<target>! ^green;Do whatever you can to fend them off.^white; <target.pronoun.capitalSubject> needs our protection!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/text/first/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran heard that ^orange;<target> ^green;upssset <threat>, and they're coming here from the ^orange;<spawnPoint>^white;<spawnPoint.direction>! ^white;Floran wantss you to ^green;protect <target.pronoun.object>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran impressed at your combat ssskills. <threat> weren't expecting that!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran impressed. Lucky for <target> the grapevine wass right, bet those <threat> weren't expecting that!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran knows ^orange;<target>^white; got on the wrong ssside of ^orange;<threat>^white;, and they'll be here from the ^orange;<spawnPoint>^white;<spawnPoint.direction> any time now! But if Floran helpss <target> then <target.pronoun.subject>'ll owe Floran a favour, so ^green;please protect <target.pronoun.object> from his enemies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/text/first/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran knowss that ^orange;<threat>^green; near the ^orange;<spawnPoint>^white;<spawnPoint.direction> are looking for ^orange;<target>. ^white;Floran needs <target.pronoun.object> alive for plan to work, so make sssure you ^green;protect <target.pronoun.object>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran might have told ^orange;<threat>^white; that <target> wass hiding here. Floran knows they've been looking for <target.pronoun.object> for a while, around the ^orange;<spawnPoint>^white;<spawnPoint.direction>. For the plan to work you have to ^green;keep ^orange;<target> ^green;safe^white;. Do that, and everyone winsss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Good job, you saved <target>! Nice protection skilsss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hahaha, <threat> are no match for us ... er, I mean you. I think this will have earned us <target>'s trust!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/failureText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I failed to protect <target> from <threat>. Maybe I'm not much of a fighter, after all."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/failureText/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I failed to protect <target>. Maybe <questGiver> should have given me more notice."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/failureText/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I failed to protect <target>. Maybe I shouldn't agree to protect people in future."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/text/first/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have reason to believe ^orange;<threat>^white; at the ^orange;<spawnPoint>^white;<spawnPoint.direction> are coming for ^orange;<target>. ^green;You must help protect <target.pronoun.object>!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/text/next/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have recieved a tip-off that ^orange;<threat>^white; are coming via the ^orange;<spawnPoint>^white;<spawnPoint.direction> to attack <target>! ^green;If you could help me protect <target.pronoun.object>,^white; I would be extremely grateful!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/text/next/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have recieved information that ^orange;<threat>^white; are approaching, via the ^orange;<spawnPoint>^white;<spawnPoint.direction>, and are coming to attack ^orange;<target>. ^green;If you can help me save <target.pronoun.object>,^white; I may win <target.pronoun.possessiveDet> gratitude."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/text/first/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I heard talk of ^orange;<threat>^white; apporaching from the ^orange;<spawnPoint>^white;<spawnPoint.direction> and believe they are coming to get ^orange;<target>. ^green;Can you help protect <target.pronoun.object> from <target.pronoun.possessiveDet> foes?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/failureText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wasn't able to save <target> from <threat>. I should probably feel a little guilty about that."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm impressed! The <threat> never stood a chance. I think we've earned <target>'s friendship as well."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've been informed that ^orange;<threat>^white; are approaching from the ^orange;<spawnPoint>^white;<spawnPoint.direction> - and ^orange;<target>^white; is their target! ^green;Can you help me protect <target.pronoun.possessiveDet> life?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've received word that the ^orange;<threat>^white; at the ^orange;<spawnPoint>^white;<spawnPoint.direction> are coming for ^orange;<target>^white;! ^green;You must help me protect <target.pronoun.object>^white;, before it is too late!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/objectives/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Keep <target> safe",
+      "Rus": "Сохрани <target> в безопасности"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/objectives/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kill the <threat>",
+      "Rus": "Убей <threat>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/text/next/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next ^green;we'll need to defend against incoming ^orange;<threat>^white; from the ^orange;<spawnPoint>^white;<spawnPoint.direction>. I've heard that their target is ^orange;<target>^white;. If we show that we're willing to risk life and limb to ^green;protect <target>, then <target.pronoun.subject>'ll know <target.pronoun.subject> can trust us."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/text/next/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next part iss good timing. Floran heard on grapevine that ^orange;<threat> from the <spawnPoint>^white;<spawnPoint.direction> ^green;are coming to messs with ^orange;<target>. ^white;Floran wants you to ^green;protect ^orange;<target> ^green;from ^orange;<threat>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/text/next/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next part not sso easy. Floran heard that ^orange;<threat> at the <spawnPoint>^white;<spawnPoint.direction> ^green;are coming for ^orange;<target>.^white; Floran needs you to ^green;ssstop them."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/text/next/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next, we need to protect ^orange;<target>^white;. There's a group of ^orange;<threat>^white; on their way here through the ^orange;<spawnPoint>^white;<spawnPoint.direction> to attack <target.pronoun.object>. ^green;Do whatever you can to keep <target.pronoun.object> safe from harm!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/title/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Protect <target> from <threat>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/title/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Save <target> from <threat>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Successs! <target> appreciated the protection. Now <target.pronoun.subject> owes Floran a favour!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Successs! <target> feels indebted to Floran! <target.pronoun.capitalSubject> knows I told you to ssstop <threat>. Floran didn't share any other details..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thanks to you <target> wasn't harmed. I'm sure <target.pronoun.subject> is extremely grateful to us. I know I would be!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thanks to you, <target> is safe. <target.pronoun.capitalSubject> is also honour-bound to assist me if I call upon <target.pronoun.object>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/text/first/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The first task is simple; head over to the ^orange<spawnPoint>^white;<spawnPoint.direction> and make sure those ^orange<threat>^white; don't succeed in their attack against ^orange;<target>! ^green;Protect <target.pronoun.object>^green; at all costs!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Well done! Those <threat> met their match. I bet <target> likes me a lot more now!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Well done, Floran's plan isss working perfectly! <target> doesn't need to know that Floran told <threat> where <target.pronoun.subject> was hiding... "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Word is that ^orange;<threat>^white; are on their way here to capture ^orange;<target>^white; and take <target.pronoun.object> back to the ^orange;<spawnPoint>^white;<spawnPoint.direction>. This can't be allowed to happen! ^green;Please help protect <target.pronoun.object>^white; however you can!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You are indeed a gallant Knight! Thanks to you, <target> is safe, and <target.pronoun.subject> owes me help if I ever call upon <target.pronoun.object>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You defeated the <threat> and saved <target>! You are no doubt a noble warrior! And <target.pronoun.copulative> no doubt indebted to me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You helped protect <target>! <target.pronoun.capitalSubject> owes me a favour for saving <target.pronoun.possessiveDet> life - I am sure this will be useful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You kept <target> safe! <target.pronoun.capitalSubject>'ll never forget that we saved <target.pronoun.possessiveDet> life. It feels like a bond has been created between us."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You made short work of those <threat>! We've also earned the trust of <target>. I'm sure that will prove helpful!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You saved <target>! You may have done most of the work, but <target.pronoun.subject> still owes me a favour for informing you. Thank you for your help!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/goalText/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Eager. I have word that <target> may be in danger - And this might be a chance to win <target.pronoun.possessiveDet> favour."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/goalText/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Floran wants <target> on our sside. Floran have a little plan to make this work."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/goalText/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Floran wantsss <target> to owe Floran a favour."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/goalText/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;I've heard <target> might be in trouble - If I help <target.pronoun.object>, <target.pronoun.subject> might trust me more!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/goalText/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;I've received information that <target> is at risk. If I help <target.pronoun.object>, <target.pronoun.subject> might like me more!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/goalText/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Worried. I wish to win the favour of <target>, and now I hear <target.pronoun.copulative> is in danger. "
+    }
+  }
+]

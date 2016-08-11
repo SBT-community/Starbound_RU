@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Красиво покрашенная кирпичная кладка."
+    ],
+    "Files": {
+      "items/materials/homewalls1.matitem": [
+        "/description"
+      ],
+      "tiles/materials/homewalls1.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nicely painted brickwork.",
+      "Rus": "Красиво раскрашенная кирпичная кладка."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Крашенный кирпич"
+    ],
+    "Files": {
+      "items/materials/homewalls1.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/homewalls1.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Painted Brick",
+      "Rus": "Раскрашенный кирпич"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/homewalls1.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/homewalls1.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pretty painted bricksss.",
+      "Rus": "Рассскрашенные кирпичи."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/homewalls1.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/homewalls1.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some real pretty painted bricks.",
+      "Rus": "Кажись действительно красивые кирпичи."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/homewalls1.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/homewalls1.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These painted bricks are quaint.",
+      "Rus": "Эти раскрашенные кирпичи выглядят привлекательно."
+    }
+  }
+]

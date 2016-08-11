@@ -1,0 +1,388 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/title/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "<questGiver> the Gift Giver"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "<target> appears to have liked the gift! Thank you for your assistance, I greatly appreciate it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "<target> liked my present! Thank you for your help in my quest for friendship."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "<target> liked the gift?  I don't need anything in return, it feels good just to give a friend something they can enjoy!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "<target> really liked the gift! Now <target.pronoun.subject>'ll spend lotsss of time with Floran, and Floran can ssmell <target.pronoun.possessiveDet> pleasant ssmells all day! Thanksss a lot!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Apparently <target> has been wanting a new <gift> for some time! <target.pronoun.capitalSubject> loved it and can't thank me enough. Thanks for your help!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Finally, ^green;can you give the ^orange;<gift>^green; to ^orange;<target>^white;? I hope <target.pronoun.subject> likes it!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran thinks ^orange;<target>^white; will like this lassst part! This ^orange;<gift> ^white;is perfect, it remindss Floran of <target.pronoun.object> so much. Floran isn't shy... But perhaps you ^green;could give it to <target.pronoun.object>?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran very pleased! Turnsss out the <gift> is one of <target>'s favourite things!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Good job! Maybe the <gift> wass a bit ssstrange for a trophy, but I'm glad <target.pronoun.subject> liked it!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/title/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Help <questGiver> deliver a gift"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hooray! Now <target> and I can be best friends! Time to figure out what I should get <target.pronoun.object> next..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/failureText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I failed to help <questGiver> deliver a gift to <target>. Perhaps <questGiver.pronoun.subject> should learn to make friends without giving out presents?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/failureText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I failed to help <questGiver> win the favour of <target>. <questGiver.pronoun.capitalSubject> should probably learn to make friends without my help."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I now have a closer friendship with <target> thanks to your help delivering the gift to <target.pronoun.object>. I will remember how reliable you have been!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/text/next/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I think this ^orange;<gift> is the perfect gift. ^green;Could you deliver it to ^orange;<target>^white;? Make sure <target.pronoun.subject> knows it's from me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "It looks like <target> loved the <gift>. I'm such a good gift giver! Well, with your help of course!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lastly, the final thing to impresss ^orange;<target>^white; - a hunting trophy! Floran doesn't have one right now... So thiss ^orange;<gift>^white; will have to do. Can you ^green;deliver it to <target.pronoun.object>?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/text/next/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next ^green;I need to win ^orange;<target>'s^white; friendship. Can you ^green;deliver this ^orange;<gift>^white; to <target.pronoun.object> as a gift?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/text/next/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next, Floran thinkss ^orange;<target> ^white;might like a present. Thiss ^orange;<gift> ^white;will be perfect! Floran not afraid of anything! But... Perhapss you ^green;give it to <target.pronoun.object>?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/text/next/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next, I need to ^green;win the favour of ^orange;<target>.^white; I know that <target.pronoun.subject> would like this ^orange;<gift>, ^white;could you ^green;deliver it to <target.pronoun.object> ^white;for me?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now we just need to ^green;drop that ^orange;<gift>^green; off to ^orange;<target>.^white; Can I ask you to take it to <target.pronoun.object>? I hope <target.pronoun.subject> doesn't already have one!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/text/next/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Okay, next let'ss ^green;give ^orange;<target> ^green;a hunting trophy!^white; Floran ate Floran's last hunting trophy, so this ^orange;<gift> ^white;will have to do. Floran still thinks <target.pronoun.subject> will be impressed!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thankss! Floran knew <target> would like the hunting trophy, and now Floran hasss a hunting buddy! Floran will sschedule a hunt for tomorrow!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The gift delivery was a success! Thank you for helping with this plan, I greatly appreciate it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The only thing left to do now is ^green;deliver the ^orange;<gift>^white; Could you give it to <target> for me?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "We're almost finished! All you need to do now is ^green;deliver the ^orange;<gift>^green; to ^orange;<target> ^white;and then we'll be done!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/text/next/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Who wouldn't love a new ^orange;<gift>?^white; I hope ^orange;<target>^white; appreciates all the hard work I had you do for this! ^green;Could you deliver it to <target.pronoun.object>?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/goalText/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Floran likess <target>'s scent. Floran wantsss <target.pronoun.object> around more often."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/goalText/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Floran wantss a hunting partner. Floran thinks <target> isss a good choice!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/goalText/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Hopeful. I would like <target> to like me more - Could you help me?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/goalText/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Hopeful. I would like to win the favour of <target>, and I think I know what would work. Could you help me?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/goalText/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;I want to make a good impression. Please help me do something that will knock <target>'s socks off!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/goalText/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;I'm trying to impress my friend. I already have something in mind, but I need your help!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/addToHouseObjective/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "place <gift> in <target>'s home",
+      "Rus": "Поставь <gift> в дом <target>"
+    }
+  }
+]

@@ -1,0 +1,195 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingfurniture/craftingfurniture.object": [
+        "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Industrial Workbench",
+      "Rus": "Индустриальный верстак"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingfurniture/craftingfurniture.object": [
+        "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Wooden Workbench",
+      "Rus": "Деревянный верстак"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingfurniture/craftingfurniture.object": [
+        "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " ^#b9b5b2;Furniture and blocks",
+      "Rus": "^#b9b5b2;Мебель и блоки"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingfurniture/craftingfurniture.object": [
+        "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " ^#b9b5b2;Objects and blocks",
+      "Rus": "^#b9b5b2;Объекты и блоки"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingfurniture/craftingfurniture.object": [
+        "/avianDescription",
+        "/upgradeStages/0/itemSpawnParameters/avianDescription",
+        "/upgradeStages/1/itemSpawnParameters/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chance to showcase one's carpentry abilities.",
+      "Rus": "Возможность продемонстрировать свои способности плотника."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingfurniture/craftingfurniture.object": [
+        "/apexDescription",
+        "/upgradeStages/0/itemSpawnParameters/apexDescription",
+        "/upgradeStages/1/itemSpawnParameters/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A table that's fit for basic carpentry.",
+      "Rus": "Плотницкий стол для базовых столярных работ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingfurniture/craftingfurniture.object": [
+        "/hylotlDescription",
+        "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
+        "/upgradeStages/1/itemSpawnParameters/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "All you need to make a house into a home.",
+      "Rus": "Все что нужно чтоб сделать дом домом"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingfurniture/craftingfurniture.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can be used to produce materials and objects needed to build a settlement.",
+      "Rus": "Может использоваться для производства материалов и объектов, необходимых для создания поселения."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingfurniture/craftingfurniture.object": [
+        "/floranDescription",
+        "/upgradeStages/0/itemSpawnParameters/floranDescription",
+        "/upgradeStages/1/itemSpawnParameters/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran ussse table to make nice housse.",
+      "Rus": "Флароны используют этот стол чтоб повысить уют"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingfurniture/craftingfurniture.object": [
+        "/humanDescription",
+        "/upgradeStages/0/itemSpawnParameters/humanDescription",
+        "/upgradeStages/1/itemSpawnParameters/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I could make a well furnished home with this.",
+      "Rus": "Я обставлю мебелью весь дом."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingfurniture/craftingfurniture.object": [
+        "/novakidDescription",
+        "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+        "/upgradeStages/1/itemSpawnParameters/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I could make some mighty fine furniture with this table.",
+      "Rus": "Я могу сделать крепкую качественную мебель на этом столе"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingfurniture/craftingfurniture.object": [
+        "/upgradeStages/1/itemSpawnParameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The industrial workbench is used to produce materials and objects needed to build a settlement.",
+      "Rus": "Промышленный Верстак используется для производства материалов и предметов, необходимых для развития поселения."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingfurniture/craftingfurniture.object": [
+        "/upgradeStages/0/itemSpawnParameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The wooden workbench is used to produce materials and objects needed to build a settlement.",
+      "Rus": "\r\nДеревянный верстак используется для производства материалов и предметов, необходимых для создания поселения."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingfurniture/craftingfurniture.object": [
+        "/upgradeStages/1/itemSpawnParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Industrial Workbench^white;",
+      "Rus": "^orangeИндустриальный верстак^white; "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingfurniture/craftingfurniture.object": [
+        "/shortdescription",
+        "/upgradeStages/0/itemSpawnParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Wooden Workbench^white;",
+      "Rus": "^orange;Деревянный верстак^white; "
+    }
+  }
+]

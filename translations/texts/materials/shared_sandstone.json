@@ -1,0 +1,59 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sandstone.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/sandstone01.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sandy lookin' rocks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sandstone.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/sandstone01.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssandy ssandstone rockss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sandstone.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/sandstone01.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This sandstone is made from fine particles of rock."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sandstone.matitem": [
+        "/description"
+      ],
+      "tiles/materials/sandstone01.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tough natural sandstone.",
+      "Rus": "Твёрдый естественный песчаник."
+    }
+  }
+]

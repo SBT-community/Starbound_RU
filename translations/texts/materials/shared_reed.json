@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/reedblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/reeds.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A block made from tightly woven reeds.",
+      "Rus": "Блок из переплетённого и спрессованного камыша."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/reedblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/reeds.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likess sstrong reedss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/reedblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/reeds.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reed Block",
+      "Rus": "Камышовый блок"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/reedblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/reeds.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some reeds that're all woven together."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/reedblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/reeds.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These tightly woven reeds make strong blocks."
+    }
+  }
+]

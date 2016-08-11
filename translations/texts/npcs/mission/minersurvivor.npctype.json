@@ -1,0 +1,170 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/minersurvivor.npctype": [
+        "/scriptConfig/dialog/follower/returnFromWait/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you an adventurer?",
+      "Rus": "Ты искатель приключений?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/minersurvivor.npctype": [
+        "/scriptConfig/dialog/follower/wait/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did anyone else in the mine survive this attack?",
+      "Rus": "Хоть кто-нибудь ещё в шахте выжил?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/minersurvivor.npctype": [
+        "/scriptConfig/dialog/follower/wait/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I guess I better start fixing up the mine...",
+      "Rus": "Наверное, стоит начать чинить тут всё..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/minersurvivor.npctype": [
+        "/scriptConfig/dialog/follower/join/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I survived?! You've saved me! Thank you!",
+      "Rus": "Я выжил?! Ты спас меня! Спасибо!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/minersurvivor.npctype": [
+        "/scriptConfig/dialog/follower/attack/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll live, or die trying!",
+      "Rus": "Я выживу или умру, пытаясь!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/minersurvivor.npctype": [
+        "/scriptConfig/dialog/follower/returnFromWait/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll never forget you and your help!",
+      "Rus": "Я никогда не забуду тебя и то, что ты сделал!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/minersurvivor.npctype": [
+        "/scriptConfig/dialog/follower/returnFromWait/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's going to take a big clean up crew to sort this mess out.",
+      "Rus": "Похоже, прибираться тут придётся долго."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/minersurvivor.npctype": [
+        "/scriptConfig/dialog/follower/attack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let's teach these things a lesson!",
+      "Rus": "Покажем этим отродьям где раки зимуют!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/minersurvivor.npctype": [
+        "/scriptConfig/dialog/follower/returnFromCombat/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Phew, you handle yourself pretty well.",
+      "Rus": "Фух, ты держался вполне неплохо."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/minersurvivor.npctype": [
+        "/scriptConfig/dialog/follower/join/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "That thing captured me. I'd be a mutant by now if you didn't destroy it! Thank you!",
+      "Rus": "Эта тварь схватила меня. Я б мутантом стал, если бы не ты. Спасибо!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/minersurvivor.npctype": [
+        "/scriptConfig/dialog/follower/wait/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's a chest up ahead, you should take the things inside it.",
+      "Rus": "Тут ящик, так ты возьми что там, может пригодится."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/minersurvivor.npctype": [
+        "/scriptConfig/dialog/follower/join/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You destroyed the monster! I was trapped inside it, it would have mutated me like the rest...",
+      "Rus": "Ты уничтожил эту тварь! Я был заключён внутри неё, так что наверное тоже бы стал мутантом..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/minersurvivor.npctype": [
+        "/scriptConfig/dialog/follower/wait/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You have the respect of everyone here.",
+      "Rus": "Тут тебе все обязаны."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/minersurvivor.npctype": [
+        "/scriptConfig/dialog/follower/join/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You saved me! I thought I was done for when that thing captured me. You're my hero!",
+      "Rus": "Ты спас меня! Я уж думал, что мне конец, когда оно меня схватило. Ты мой герой!"
+    }
+  }
+]

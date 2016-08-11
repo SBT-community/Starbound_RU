@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/savannah/dustybed/dustybed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/biome/savannah/dustychair/dustychair.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is this furniture meant to look this dishevelled?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/savannah/dustybed/dustybed.object": [
+        "/apexDescription"
+      ],
+      "objects/biome/savannah/dustychair/dustychair.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Old and worn, but probably works efficiently enough."
+    }
+  }
+]

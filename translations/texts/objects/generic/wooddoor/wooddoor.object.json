@@ -1,0 +1,103 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/wooddoor/wooddoor.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cheap wooden door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/wooddoor/wooddoor.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cheaply manufactured door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/wooddoor/wooddoor.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A manufactured paneled door.",
+      "Rus": "Сконструированная панельная дверь."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/wooddoor/wooddoor.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran not like door made in factory."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/wooddoor/wooddoor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Paneled Door",
+      "Rus": "Панельная Дверь"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/wooddoor/wooddoor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door appears to have been manufactured on a production line."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/wooddoor/wooddoor.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door lacks a personal touch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/wooddoor/wooddoor.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door was produced by a machine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/wooddoor/wooddoor.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This wooden door was not made by hand."
+    }
+  }
+]

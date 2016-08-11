@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Дешевые и клейкие обои."
+    ],
+    "Files": {
+      "items/materials/cheapwallpaper.matitem": [
+        "/description"
+      ],
+      "tiles/materials/cheapwallpaper.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cheap, tacky wallpaper.",
+      "Rus": "Дешёвые, безвкусные обои."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cheapwallpaper.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/cheapwallpaper.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran adore pretty wall paperss.",
+      "Rus": "Флоран обожает красивые обои."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Клейкие обои"
+    ],
+    "Files": {
+      "items/materials/cheapwallpaper.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/cheapwallpaper.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tacky Wallpaper",
+      "Rus": "Безвкусные обои"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cheapwallpaper.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/cheapwallpaper.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This wall paper is overwhelmingly gaudy.",
+      "Rus": "Эти обои в подавляющем большинстве случаев безвкусны."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cheapwallpaper.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/cheapwallpaper.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why'd anyone want to cover their walls with paper lookin' like this?",
+      "Rus": "Почему кто-то хочет покрыть свои стены бумагой, чтобы они так выглядели?"
+    }
+  }
+]

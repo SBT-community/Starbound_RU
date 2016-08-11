@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/salve.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A salve for healing minor wounds. Restores 50 health over 10 seconds.",
+      "Rus": "Мазь для лечения царапин. Восстанавливает 50 здоровья за 10 сек."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/salve.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Salve",
+      "Rus": "Мазь"
+    }
+  }
+]

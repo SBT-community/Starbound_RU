@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Сейчас я улучшу твой корабль. Не беспокойся, ещё никто не жаловался."
+    ],
+    "Files": {
+      "quests/outpost/shipupgrade/illegalshipupgrade1.questtemplate": [
+        "/completionText"
+      ],
+      "quests/outpost/shipupgrade/shipupgrade1.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll upgrade yer ship now. I'm sure yer'll be pleased with the level of craftsmanship.",
+      "Rus": "Сейчас я улучшу твой корабль. Уверен, ты будешь удовлетворён уровнем моего мастерства."
+    }
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/mud.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/mud.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likess muddy messsss.",
+      "Rus": "Флорану нравитсся грязное месиво"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/mud.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/mud.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks t'me like a buncha mud.",
+      "Rus": "Выглядит аки грязь"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/mud.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/mud.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mud",
+      "Rus": "Грязь"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/mud.matitem": [
+        "/description"
+      ],
+      "tiles/materials/mud.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thick and sticky mud.",
+      "Rus": "Густая и липкая грязь."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/mud.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/mud.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This mud is thick and sticky.",
+      "Rus": "Эта грязь густая и липкая."
+    }
+  }
+]

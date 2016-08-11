@@ -1,0 +1,55 @@
+[
+  {
+    "DeniedAlternatives": [
+      "^#b9b5b2;Броня и оружие "
+    ],
+    "Files": {
+      "objects/crafting/ironanvil/ironanvil.object": [
+        "/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ],
+      "objects/crafting/upgradeablecraftingobjects/craftinganvil/craftinganvil.object": [
+        "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " ^#b9b5b2;Armour and weapons",
+      "Rus": "^#b9b5b2;Броня и оружие"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/ironanvil/ironanvil.object": [
+        "/novakidDescription"
+      ],
+      "objects/crafting/upgradeablecraftingobjects/craftinganvil/craftinganvil.object": [
+        "/novakidDescription",
+        "/upgradeStages/0/itemSpawnParameters/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An anvil. I'm no stranger to these.",
+      "Rus": "Наковальня. С этой штуковиной я знаком."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Наковальня. Апексы не использовали их для металлообработки в течение долгого времени."
+    ],
+    "Files": {
+      "objects/crafting/ironanvil/ironanvil.object": [
+        "/apexDescription"
+      ],
+      "objects/crafting/upgradeablecraftingobjects/craftinganvil/craftinganvil.object": [
+        "/apexDescription",
+        "/upgradeStages/0/itemSpawnParameters/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An anvil. The Apex haven't used these for metalwork for a long, long time.",
+      "Rus": "Наковальня. Апексы не пользовались ими для металообработки в течении многих, многих лет."
+    }
+  }
+]

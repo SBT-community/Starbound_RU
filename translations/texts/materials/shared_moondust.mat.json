@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/moondust.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/moondust.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran lovess colourful moondusst.",
+      "Rus": "Флоран любит цветную лунную пыль."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/moondust.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/moondust.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks t'me like moondust.",
+      "Rus": "Мне кажется что это лунная пыль."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/moondust.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/moondust.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Moondust",
+      "Rus": "Лунная пыль"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Лунная пыль, из нее сотканы сны."
+    ],
+    "Files": {
+      "items/materials/moondust.matitem": [
+        "/description"
+      ],
+      "tiles/materials/moondust.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Moondust, the thing dreams are made of.",
+      "Rus": "Лунная пыль, то из чего сделаны сны."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/moondust.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/moondust.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This moondust is soft to the touch.",
+      "Rus": "Эта лунная пыль мягкая на ощупь."
+    }
+  }
+]

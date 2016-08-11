@@ -1,0 +1,271 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/farming.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "<cropList> exactly as requested. Nice work! Time to put this produce to good use!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/farming.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ah, beautifully ripe! You have a real talent for this."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/farming.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excellent work, my plan is coming together nicely. "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/farming.questtemplate": [
+        "/scriptConfig/generatedText/text/first/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "First, I need <cropList> but it's out of season. You can garden right?  Here's ^orange;<seedList>^green; for you to plant,^white; when you've ^green;harvested ^orange;<cropList>^green; could you bring them to me?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Сперва тебе нужно  ^green;посеять ^orange;<seedlist>.^white;  Поливай их тщательно, а когда они будут готовы,  ^green;собери ^orange;<croplist>^green; и принеси богатый урожай мне."
+    ],
+    "Files": {
+      "quests/generated/templates/farming.questtemplate": [
+        "/scriptConfig/generatedText/text/first/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Firstly, I need you to ^green;plant ^orange;<seedList>.^white; Water them regularly, then when they're ready, ^green;gather the ^orange;<cropList>^green; and bring your bountiful harvest to me.",
+      "Rus": "Сперва тебе нужно  ^green;посеять ^orange;<seedList>.^white;  Поливай их тщательно, а когда они будут готовы,  ^green;собери ^orange;<cropList>^green; и принеси богатый урожай мне."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/farming.questtemplate": [
+        "/scriptConfig/generatedText/text/first/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "For sstarters, ^green;plant these seeds. ^white;Water them and watch them grow. When crop iss ripe, ^green;bring Floran the ^orange;<cropList>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/farming.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope it's not too much to ask, but  ^green;could you plant ^orange;<seedList>.^white; And maybe, when they're fully grown, ^green;deliver the fresh produce to me^white;?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/farming.questtemplate": [
+        "/scriptConfig/generatedText/text/first/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I purchased these ^orange;seeds^white; from a merchant and have been unable to successfully grow anything from them. ^green;Maybe you can grow ^orange;<cropList>^white; for me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/farming.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I will never know how you were able to grow these seeds so successfully, but it doesn't matter. You have my thanks. "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/farming.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next Floran needs you to ^green;grow ^orange;<cropList> ^green;from these seedsss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/farming.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next, we need some produce. I have ^orange;<seedList>,^white; but no place to grow things. Would you mind ^green;growing them and bringing me ^orange;<cropList>^white;?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/farming.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now Floran needs ^orange;<cropList>. ^green;Plant and water ^orange;<seedList>. ^white;Crop will be ripe and ready to pick when big and sssquishy! ^green;Bring your harvest back to Floran."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/farming.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now I need you to ^green;plant ^orange;<seedList>^white;. Care for them until they're ready, then ^green;harvest the ^orange;<cropList>^green; for me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/farming.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plump and deliciousss! Thank you!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/farming.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thank you. These look a little on the small side, but that's what you get for going organic!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/farming.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thankss! Floran can't understand why anyone would want to eat this ssstuff, but Floran needs is right now.",
+      "Rus": "Спассссибо! Флоран не может понять, почему другие захотят это есть."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/farming.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thankss! Floran finds <cropList> hard to grow here - you did a good job!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/farming.questtemplate": [
+        "/scriptConfig/generatedText/text/first/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The first thing you need to do is ^green;plant these ssseeds. ^white;Once the crop has grown, ^green;bring Floran the ripe ^orange;<cropList>. ^white;Don't forget to water them!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/farming.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The next part of my plan involves ^orange;<cropList>. I'm not the greatest gardener, but I'm sure you could grow some.^green;Take these ^orange;seeds^green; and grow me the crops^white; I need."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/farming.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These crops have turned out better than I could have grown myself, you have a real talent for farming."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/farming.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is a bumper crop! Thank you!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/farming.questtemplate": [
+        "/scriptConfig/generatedText/text/first/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "To begin with, ^green;I am in need of some fresh ^orange;<cropList>^white;. Even a beginner should be able to grow some with these ^orange;seeds^white; and a little patience."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/farming.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wow, you may have a future in farming! <cropList> fresh out of the ground! This will work wonderfully."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/farming.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yesss, just what Floran needs! You are the besst!",
+      "Rus": "Да, именно то что нужно Флорану! Ты лучшшший!"
+    }
+  }
+]

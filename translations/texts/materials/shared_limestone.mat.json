@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/limestone.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/limestone.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dussty limesstone rockss.",
+      "Rus": "Пыльные известковые камни."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/limestone.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/limestone.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Limestone",
+      "Rus": "Известняк"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Грубый неочищенный известняк."
+    ],
+    "Files": {
+      "items/materials/limestone.matitem": [
+        "/description"
+      ],
+      "tiles/materials/limestone.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rough, unrefined limestone.",
+      "Rus": "Грубый, неочищенный известняк."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/limestone.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/limestone.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some chalky lookin' limestone.",
+      "Rus": "Похоже на меловой известняк. "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/limestone.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/limestone.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This limestone has a chalky consistency.",
+      "Rus": "Этот известняк имеет консистенцию мела."
+    }
+  }
+]

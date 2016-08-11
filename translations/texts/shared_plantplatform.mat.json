@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/plantplatform.matitem": [
+        "/florandescription"
+      ],
+      "tiles/platforms/plantplatform.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran sslide along sslimy mosss platform."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Мшистая Платформа"
+    ],
+    "Files": {
+      "items/materials/plantplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/plantplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mossy Platform",
+      "Rus": "Заросшая платформа"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/plantplatform.matitem": [
+        "/description"
+      ],
+      "tiles/platforms/plantplatform.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The platform is slimy with moss and leaves. Better be careful not to slip!",
+      "Rus": "Платформа, покрытая мхом и листьями. Не подскользнуться бы!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/plantplatform.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/platforms/plantplatform.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This moss makes this platform mighty slippery."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/plantplatform.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/platforms/plantplatform.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This mossy platform is slimy and slippery."
+    }
+  }
+]

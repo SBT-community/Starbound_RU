@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/feneroxvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly stranger. Can't chat. Running errands!",
+      "Rus": "Дружелюбный незнакомец. Не могу говорить. Надо бежать."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/feneroxvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just visiting. Need supplies. Can't chat!",
+      "Rus": "Просто пришел. Нужны припасы. Нет времени болтать!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/feneroxvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "New person. Can't stay. Just visiting!",
+      "Rus": "Новичок. Не могу остаться. Просто пришел."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/feneroxvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Outpost cold. Grasslands warm. Just saying!",
+      "Rus": "На Форпосте холодно. В долине тепло. Так к слову."
+    }
+  }
+]

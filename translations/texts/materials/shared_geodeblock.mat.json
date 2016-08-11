@@ -1,0 +1,77 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/geodeblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/geodeblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Geode Crystals",
+      "Rus": "Жеодовый кристалл"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/geodeblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/geodeblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glimmering natural geode crystals.",
+      "Rus": "Мерцающие природные жеодовые кристаллы."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/geodeblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/geodeblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some shiny lookin' rock crystals.",
+      "Rus": "Похоже, это какой-то блестючий каменный кристалл."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/geodeblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/geodeblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssshiny geode crysstalss.",
+      "Rus": "Блестящщщий жеодовый кристалл."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/geodeblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/geodeblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These natural crystals appear to have grown from geodes.",
+      "Rus": "Эти натуральные кристаллы, по всей видимости, сформировались в жеоды."
+    }
+  }
+]

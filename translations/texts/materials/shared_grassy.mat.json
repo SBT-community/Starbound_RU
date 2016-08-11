@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Блок кровельного дерна покрытый растущей травой."
+    ],
+    "Files": {
+      "items/materials/grassy.matitem": [
+        "/description"
+      ],
+      "tiles/materials/grassy.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A block of sod roofing with growing grass.",
+      "Rus": "Блок дерна, покрытый растущей травой."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/grassy.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/grassy.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likess grasssy ssod roofing.",
+      "Rus": "Флорану нравится травяная крышшша."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/grassy.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/grassy.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grassy sod roofing, somethin' nice about the simplicity of it.",
+      "Rus": "Поросший травой кровельный дерн. Простенько и со вкусом."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/grassy.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/grassy.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It seems this sod roofing has live grass.",
+      "Rus": "Кажется, это кровельное покрытие из дерна с живой травой."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/grassy.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/grassy.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sod Block",
+      "Rus": "Блок дерна"
+    }
+  }
+]

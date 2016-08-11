@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/copperlantern/copperlantern.object": [
+        "/floranDescription"
+      ],
+      "objects/generic/oillantern1/oillantern1.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flame eatsss liquid insside."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/copperlantern/copperlantern.object": [
+        "/hylotlDescription"
+      ],
+      "objects/generic/oillantern1/oillantern1.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The fuel in this lantern would not burn under the sea."
+    }
+  }
+]

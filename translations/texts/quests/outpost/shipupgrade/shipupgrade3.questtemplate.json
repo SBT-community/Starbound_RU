@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/shipupgrade/shipupgrade3.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Congratulations - with six crew members you now qualify for the Falcon License! ^green;Visit Penguin Pete^reset; with ^orange;6 Upgrade Modules^reset; to upgrade your ship.",
+      "Rus": "Поздравления - с шестью членами экипажа Вы можете рассчитывать на лицензию для корабля класса Сокол! ^green;Навестите Пингвина Пита^reset;, имея при себе ^orange;6 Модулей Улучшений^reset;, чтобы улучшить свой корабль."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/shipupgrade/shipupgrade3.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Falcon Ship Upgrade",
+      "Rus": "^green;Улучшение Корабля - Класс Сокол"
+    }
+  }
+]

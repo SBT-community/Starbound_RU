@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/drop/puffplant/puffplant.grass": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A puffball.",
+      "Rus": "Дождевик."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/drop/puffplant/puffplant.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran like to sssquish puffball.",
+      "Rus": "Флоран любит хлюпать дождевиком."
+    }
+  }
+]

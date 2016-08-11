@@ -1,0 +1,32 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientprop/ancientprop.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/description",
+        "/floranDescription",
+        "/glitchDescription",
+        "/humanDescription",
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A temporary prop.",
+      "Rus": "Временная опора."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientprop/ancientprop.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "TODO - Ancient Prop",
+      "Rus": "TODO -  Древняя опора"
+    }
+  }
+]

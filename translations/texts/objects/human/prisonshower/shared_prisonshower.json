@@ -1,0 +1,86 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonshower/prisonshower.object": [
+        "/novakidDescription"
+      ],
+      "objects/human/prisonshower/prisonshowerdripping.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ah, a shower."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonshower/prisonshower.object": [
+        "/apexDescription"
+      ],
+      "objects/human/prisonshower/prisonshowerdripping.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I could use a shower about now."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonshower/prisonshower.object": [
+        "/humanDescription"
+      ],
+      "objects/human/prisonshower/prisonshowerdripping.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'd take a shower, but my singing might alert hostiles."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonshower/prisonshower.object": [
+        "/avianDescription"
+      ],
+      "objects/human/prisonshower/prisonshowerdripping.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "If only I had the time for a hot shower."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonshower/prisonshower.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/human/prisonshower/prisonshowerdripping.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Showers and Glitch do not mix."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonshower/prisonshower.object": [
+        "/hylotlDescription"
+      ],
+      "objects/human/prisonshower/prisonshowerdripping.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The touch of water would be a blessing right now."
+    }
+  }
+]

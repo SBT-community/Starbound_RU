@@ -1,0 +1,148 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hoard/mysteriouslight/mysteriouslight.object": [
+        "/hylotlDescription"
+      ],
+      "objects/human/prisonfloodlight/prisonfloodlight.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bright, piercing floodlight."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hoard/mysteriouslight/mysteriouslight.object": [
+        "/avianDescription"
+      ],
+      "objects/human/prisonfloodlight/prisonfloodlight.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An annoying, blinding light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hoard/mysteriouslight/mysteriouslight.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/human/prisonfloodlight/prisonfloodlight.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/tiered/tier1spotlight/tier1spotlight.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "By analysing this floodlight's patterns, it would be easy to sneak around it.",
+      "Rus": "Анализируя путь движения прожекторов, будет довольно легко прокрасться мимо."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hoard/mysteriouslight/mysteriouslight.object": [
+        "/floranDescription"
+      ],
+      "objects/human/prisonfloodlight/prisonfloodlight.object": [
+        "/floranDescription"
+      ],
+      "objects/tiered/tier1spotlight/tier1spotlight.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran feelss like centre of attention.",
+      "Rus": "Флоран чувссствует сссебя в центре внимания."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hoard/mysteriouslight/mysteriouslight.object": [
+        "/humanDescription"
+      ],
+      "objects/human/prisonfloodlight/prisonfloodlight.object": [
+        "/humanDescription"
+      ],
+      "objects/tiered/tier1spotlight/tier1spotlight.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've always wanted to be in the spotlight.",
+      "Rus": "Всегда хотел быть в свете софитов"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/invisiblelight/invisiblelight.object": [
+        "/shortdescription"
+      ],
+      "objects/generic/shiplight/shiplight.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/apexshiplight/apexshiplight.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ship Light"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hoard/mysteriouslight/mysteriouslight.object": [
+        "/apexDescription"
+      ],
+      "objects/human/prisonfloodlight/prisonfloodlight.object": [
+        "/apexDescription"
+      ],
+      "objects/tiered/tier1spotlight/tier1spotlight.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Such spotlights are used by the Miniknog to force people to talk. Spotlights, and worse...",
+      "Rus": "Эти прожектора использовались Миникногом для допросов. Прожектора или хуже."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/redlight/redlight.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/apexshiplight/apexshiplight.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These lights are commonly used on ships."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hoard/mysteriouslight/mysteriouslight.object": [
+        "/novakidDescription"
+      ],
+      "objects/tiered/tier1spotlight/tier1spotlight.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This light is nearly as bright as me!",
+      "Rus": "Этот свет такой же яркий как и я!"
+    }
+  }
+]

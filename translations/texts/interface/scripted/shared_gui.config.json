@@ -1,0 +1,20 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/ancientconsole/ancientconsolegui.config": [
+        "/gui/costLabel/value"
+      ],
+      "interface/scripted/techupgrade/techupgradegui.config": [
+        "/gui/lblChipsCount/value"
+      ],
+      "interface/scripted/vehiclerepair/vehiclerepairgui.config": [
+        "/gui/chipCost/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "0 / --",
+      "Rus": "0 / --"
+    }
+  }
+]

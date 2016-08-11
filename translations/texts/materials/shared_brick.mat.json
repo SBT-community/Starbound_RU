@@ -1,0 +1,102 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/brick.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/brick.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bricks",
+      "Rus": "Кирпичи"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/brick.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/brick.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nice lookin' brickwork.",
+      "Rus": "Хорошо выглядящая кирпичная кладка."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Маленькие, но идеально сформированные кирпичи, сделанные из глины."
+    ],
+    "Files": {
+      "items/materials/brick.matitem": [
+        "/description"
+      ],
+      "tiles/materials/brick.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Small but perfectly formed bricks made from clay.",
+      "Rus": "Маленькие, но отлично сформованные кирпичи из глины."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Добротные старые кирпичи, однако.",
+      "Какой-та громадный резной кирпич."
+    ],
+    "Files": {
+      "items/materials/ancientbrick.matitem": [
+        "/novakiddescription"
+      ],
+      "items/materials/ledgebrick.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/ancientbrick.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/ledgebrick.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some mighty old lookin' bricks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/brick.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/brick.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssimple bricksss.",
+      "Rus": "Обычные кирпичи."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/brick.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/brick.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These bricks have been carefully formed and arranged.",
+      "Rus": "Эти кирпичи аккуратно сформированы и организованы."
+    }
+  }
+]

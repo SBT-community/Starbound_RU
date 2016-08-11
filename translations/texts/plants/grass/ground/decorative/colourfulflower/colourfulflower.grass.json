@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [
+      " Яркий спиральный цветок."
+    ],
+    "Files": {
+      "plants/grass/ground/decorative/colourfulflower/colourfulflower.grass": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A colourful spiral flower.",
+      "Rus": "Яркий спиральный цветок."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/colourfulflower/colourfulflower.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pretty flower.",
+      "Rus": "Хорошенький цветок."
+    }
+  }
+]

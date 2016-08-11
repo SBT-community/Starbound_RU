@@ -1,0 +1,428 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/back.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/base.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/baseaugment.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/codex.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/container.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/door.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/eppaugment.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/food.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/fossil.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/object.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/petcollar.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/seed.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/tool.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/vehicle.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/objectcrafting/fossilstation.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/scripted/cropshipper/cropshippergui.config": [
+        "/gui/lblMoney/value"
+      ],
+      "interface/tooltips/armor.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/back.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/base.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/baseaugment.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/codex.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/container.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/door.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/eppaugment.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/filledcapturepod.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/food.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/fossil.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/object.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/petcollar.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/seed.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/tool.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/vehicle.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/windowconfig/crafting.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/crafting3dprinter.config": [
+        "/paneLayout/lblPlayerMoney/value",
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/craftinganvil.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/craftingcampfire.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/craftingfarming.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/craftingfood.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/craftingfurnace.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/craftingfurniture.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/craftingfurniturestore.config": [
+        "/paneLayout/lblPlayerMoney/value",
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/craftingmedical.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/craftingmerchant.config": [
+        "/paneLayout/lblPlayerMoney/value",
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/craftingnocategories.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/craftingwheel.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/inventorstable.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/merchant.config": [
+        "/paneLayout/buySellTabs/tabs/0/children/scrollArea/children/itemList/schema/listTemplate/priceLabel/value",
+        "/paneLayout/buySellTabs/tabs/1/children/lblSellTotal/value"
+      ],
+      "interface/windowconfig/pixelcompressor.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/playerinventory.config": [
+        "/paneLayout/lblMoney/value"
+      ],
+      "interface/windowconfig/vendingmachine.config": [
+        "/paneLayout/buySellTabs/tabs/0/children/scrollArea/children/itemList/schema/listTemplate/priceLabel/value",
+        "/paneLayout/buySellTabs/tabs/1/children/lblSellTotal/value"
+      ],
+      "interface/windowconfig/wiringstation.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "0"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "40 СЛОТОВ"
+    ],
+    "Files": {
+      "interface/chests/chest40.config": [
+        "/gui/count/value"
+      ],
+      "interface/scripted/cropshipper/cropshippergui.config": [
+        "/gui/count/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "40 SLOTS",
+      "Rus": "40 ЯЧЕЕК"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/vehiclerepair/vehiclerepairgui.config": [
+        "/gui/cancel/caption"
+      ],
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/cancel/caption"
+      ],
+      "interface/windowconfig/confirmation.config": [
+        "/paneLayout/cancel/caption"
+      ],
+      "interface/windowconfig/deletedialog.config": [
+        "/cancel/caption"
+      ],
+      "interface/windowconfig/editbookmark.config": [
+        "/paneLayout/close/caption"
+      ],
+      "interface/windowconfig/portraitconfirmation.config": [
+        "/paneLayout/cancel/caption"
+      ],
+      "interface/windowconfig/teaminvite.config": [
+        "/paneLayout/close/caption"
+      ],
+      "interface/windowconfig/warpout.config": [
+        "/paneLayout/cancel/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cancel",
+      "Rus": "Отмена"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/fistweapon.itemdescription": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/sword.itemdescription": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/tooltips/fistweapon.tooltip": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/tooltips/sword.tooltip": [
+        "/damagePerShotTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Damage Per Swing:",
+      "Rus": "Урон:"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Энергии за выстрел:",
+      "Энергии на выстрел:",
+      "Энергия за выстрел:",
+      "Энергия на выстрел"
+    ],
+    "Files": {
+      "interface/itemdescriptions/bow.itemdescription": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/gun.itemdescription": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/tooltips/bow.tooltip": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/tooltips/gun.tooltip": [
+        "/energyPerShotTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Energy Per Shot:",
+      "Rus": "Энергия на выстрел:"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Скорость стрельбы:",
+      "Скорость удара"
+    ],
+    "Files": {
+      "interface/itemdescriptions/fistweapon.itemdescription": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/itemdescriptions/gun.itemdescription": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/itemdescriptions/sword.itemdescription": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/tooltips/fistweapon.tooltip": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/tooltips/gun.tooltip": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/tooltips/sword.tooltip": [
+        "/speedTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rate of Fire:",
+      "Rus": "Скорость атаки:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/modsmenu/modsmenu.config": [
+        "/paneLayout/mods/children/list/schema/listTemplate/name/value"
+      ],
+      "interface/objectcrafting/fossilstation.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/optionsmenu/optionsmenu.config": [
+        "/paneLayout/musicValueLabel/value",
+        "/paneLayout/resValueLabel/value",
+        "/paneLayout/sfxValueLabel/value",
+        "/paneLayout/zoomValueLabel/value"
+      ],
+      "interface/scripted/techupgrade/techupgradegui.config": [
+        "/gui/techScrollArea/children/techList/schema/listTemplate/techName/value"
+      ],
+      "interface/scripted/vehiclerepair/vehiclerepairgui.config": [
+        "/gui/itemScrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/crafting.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/crafting3dprinter.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/craftinganvil.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/craftingcampfire.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/craftingfarming.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/craftingfood.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/craftingfurnace.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/craftingfurniture.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/craftingfurniturestore.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/craftingmedical.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/craftingmerchant.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/craftingnocategories.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/craftingwheel.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/inventorstable.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/merchant.config": [
+        "/paneLayout/buySellTabs/tabs/0/children/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/pixelcompressor.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/songbook.config": [
+        "/paneLayout/songs/children/list/schema/listTemplate/songName/value"
+      ],
+      "interface/windowconfig/teleportfailsafeui.config": [
+        "/gui/messages/children/list/schema/listTemplate/message/value"
+      ],
+      "interface/windowconfig/vendingmachine.config": [
+        "/paneLayout/buySellTabs/tabs/0/children/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/wiringstation.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Replace Me"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/armor.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/bow.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/fistweapon.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/gun.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/shield.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/staff.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/sword.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/bow.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/fistweapon.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/gun.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/shield.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/staff.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/sword.tooltip": [
+        "/priceLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "tree"
+    }
+  }
+]

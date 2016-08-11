@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shadowblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/shadowblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rock as pitch black as shadow.",
+      "Rus": "Камень, чёрный как ночь."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shadowblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/shadowblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mighty dark lookin' rocks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shadowblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/shadowblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shadow Rock",
+      "Rus": "Теневой камень"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shadowblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/shadowblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shadowy black blockss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shadowblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/shadowblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This dark block seems to absorb light around it."
+    }
+  }
+]

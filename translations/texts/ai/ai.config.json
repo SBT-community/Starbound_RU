@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/ai.config": [
+        "/shipStatus/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "> Zzz... Zzz... Zzz...",
+      "Rus": "> Хрр... Хрр... Хрр..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/ai.config": [
+        "/noCrewSpeech/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#6f6f6f;$ crew\n^cyan;> You are the only registered crew member of this ship.\n> Recruiting additional crew members may allow for increased operational efficiency.",
+      "Rus": "^#6f6f6f;$ экипаж\n^cyan;> Вы единственный член экипажа этого корабля. Набор дополнительных членов экипажа может привести к повышению эффективности работы."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/ai.config": [
+        "/noMissionsSpeech/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#6f6f6f;$ missions\n^cyan;> No mission co-ordinates currently available.",
+      "Rus": "^#6f6f6f;$ миссии\n^cyan;> В настоящее время нет координат миссии."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/ai.config": [
+        "/shipStatus/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#6f6f6f;$ status\n^cyan;> Ship thrusters are currently offline.\n> Ship teleportation system functioning correctly.\n> ^green;Currently only the planet below is accessible.",
+      "Rus": "^#6f6f6f;$ статус\n^cyan;> Корабельные двигатели отключены.\n> Телепортационная система работает исправно. \n> ^green;В данный момент доступна только планета, на орбите которой Вы находитесь. "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/ai.config": [
+        "/shipStatus/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#6f6f6f;$ status\n^cyan;> Ship thrusters are online.\n> Ship teleportation system functioning correctly.\n> ^green;Planets within this star system are accessible.",
+      "Rus": "^#6f6f6f;$ статус\n^cyan;> Корабельные двигатели включены.\n> Телепортационная система работает исправно.\n> В данный момент доступны планеты только в локальной звёздной системе. "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/ai.config": [
+        "/shipStatus/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#6f6f6f;$ status -f\n^cyan;> Ship thrusters are online.\n> FTL drive is online.\n> Ship teleportation system functioning correctly.\n> ^green;The entire universe is accessible.",
+      "Rus": "^#6f6f6f;$ статус -f\n^cyan;> Корабельные двигатели включены.\n>  Сверхсветовые двигатели включены.\n>  Телепортационная система работает исправно.\n> Доступна вся Вселенная."
+    }
+  }
+]

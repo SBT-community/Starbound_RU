@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/teaminvitation.config": [
+        "/paneLayout/titleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "PARTY INVITATION",
+      "Rus": "ПРИГЛАШЕНИЕ В ГРУППУ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/teaminvitation.config": [
+        "/paneLayout/inviterName/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Red Leader",
+      "Rus": "Красный лидер"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/teaminvitation.config": [
+        "/paneLayout/inviteLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Would you like to join their party?",
+      "Rus": "Вы хотите принять приглашение в группу?"
+    }
+  }
+]

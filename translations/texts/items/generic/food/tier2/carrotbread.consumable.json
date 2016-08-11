@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier2/carrotbread.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A loaf of carrot bread. Let's be honest, it's just bread-shaped cake.",
+      "Rus": "Буханка морковного хлеба. Если честно, это просто торт в форме хлеба."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier2/carrotbread.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Carrot Bread",
+      "Rus": "Морковный хлеб"
+    }
+  }
+]

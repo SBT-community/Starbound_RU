@@ -1,0 +1,544 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aviantechstation/aviantechstation.object": [
+        "/dialog/wakeUp/3/0"
+      ],
+      "objects/ship/florantechstation/florantechstation.object": [
+        "/dialog/wakeUp/3/0"
+      ],
+      "objects/ship/glitchtechstation/glitchtechstation.object": [
+        "/dialog/wakeUp/3/0"
+      ],
+      "objects/ship/humantechstation/humantechstation.object": [
+        "/dialog/wakeUp/3/0"
+      ],
+      "objects/ship/hylotltechstation/hylotltechstation.object": [
+        "/dialog/wakeUp/3/0"
+      ],
+      "objects/ship/novakidtechstation/novakidtechstation.object": [
+        "/dialog/wakeUp/3/0"
+      ],
+      "objects/ship/techstation/techstation.object": [
+        "/dialog/wakeUp/3/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Earth was attacked by an unknown force, and was subsequently annihilated.",
+      "Rus": "Земля была атакована неизвестной силой, и, впоследствии, полностью уничтожена."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aviantechstation/aviantechstation.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/florantechstation/florantechstation.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/glitchtechstation/glitchtechstation.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/humantechstation/humantechstation.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/hylotltechstation/hylotltechstation.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/novakidtechstation/novakidtechstation.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/techstation/techstation.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran use thisss magic panel to talk to SAIL!",
+      "Rus": "Флоран иссспользует эту магическую панель, чтобы поговорить с КЭП-ом!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aviantechstation/aviantechstation.object": [
+        "/dialog/wakeUp/1/0"
+      ],
+      "objects/ship/florantechstation/florantechstation.object": [
+        "/dialog/wakeUp/1/0"
+      ],
+      "objects/ship/glitchtechstation/glitchtechstation.object": [
+        "/dialog/wakeUp/1/0"
+      ],
+      "objects/ship/humantechstation/humantechstation.object": [
+        "/dialog/wakeUp/1/0"
+      ],
+      "objects/ship/hylotltechstation/hylotltechstation.object": [
+        "/dialog/wakeUp/1/0"
+      ],
+      "objects/ship/novakidtechstation/novakidtechstation.object": [
+        "/dialog/wakeUp/1/0"
+      ],
+      "objects/ship/techstation/techstation.object": [
+        "/dialog/wakeUp/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am S.A.I.L, your Ship-based Artificial Intelligence Lattice. I manage the maintainance of your ship.",
+      "Rus": "Меня зовут К.Э.П. - Ваш Корабельный Электронный Помощник. Я поддерживаю ваш корабль в рабочем состоянии."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aviantechstation/aviantechstation.object": [
+        "/dialog/wakeUp/2/0"
+      ],
+      "objects/ship/florantechstation/florantechstation.object": [
+        "/dialog/wakeUp/2/0"
+      ],
+      "objects/ship/glitchtechstation/glitchtechstation.object": [
+        "/dialog/wakeUp/2/0"
+      ],
+      "objects/ship/humantechstation/humantechstation.object": [
+        "/dialog/wakeUp/2/0"
+      ],
+      "objects/ship/hylotltechstation/hylotltechstation.object": [
+        "/dialog/wakeUp/2/0"
+      ],
+      "objects/ship/novakidtechstation/novakidtechstation.object": [
+        "/dialog/wakeUp/2/0"
+      ],
+      "objects/ship/techstation/techstation.object": [
+        "/dialog/wakeUp/2/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am also programmed to offer you information and advice.",
+      "Rus": "Также я запрограммирован для помощи Вам советами или какой-либо информацией."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aviantechstation/aviantechstation.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/florantechstation/florantechstation.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/glitchtechstation/glitchtechstation.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/humantechstation/humantechstation.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/hylotltechstation/hylotltechstation.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/novakidtechstation/novakidtechstation.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/techstation/techstation.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can talk to SAIL through this console.",
+      "Rus": "Я могу говорить с КЭП-ом через эту консоль."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aviantechstation/aviantechstation.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/florantechstation/florantechstation.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/glitchtechstation/glitchtechstation.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/humantechstation/humantechstation.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/hylotltechstation/hylotltechstation.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/novakidtechstation/novakidtechstation.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/techstation/techstation.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can use this station to talk to SAIL.",
+      "Rus": "Я могу использовать это устройство, чтобы поговорить с КЭП-ом."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aviantechstation/aviantechstation.object": [
+        "/dialog/wakePlayer/1/0"
+      ],
+      "objects/ship/florantechstation/florantechstation.object": [
+        "/dialog/wakePlayer/1/0"
+      ],
+      "objects/ship/glitchtechstation/glitchtechstation.object": [
+        "/dialog/wakePlayer/1/0"
+      ],
+      "objects/ship/humantechstation/humantechstation.object": [
+        "/dialog/wakePlayer/1/0"
+      ],
+      "objects/ship/hylotltechstation/hylotltechstation.object": [
+        "/dialog/wakePlayer/1/0"
+      ],
+      "objects/ship/novakidtechstation/novakidtechstation.object": [
+        "/dialog/wakePlayer/1/0"
+      ],
+      "objects/ship/techstation/techstation.object": [
+        "/dialog/wakePlayer/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Please reboot the system.",
+      "Rus": "Пожалуйста, перезагрузите систему."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aviantechstation/aviantechstation.object": [
+        "/dialog/wakePlayer/2/0"
+      ],
+      "objects/ship/florantechstation/florantechstation.object": [
+        "/dialog/wakePlayer/2/0"
+      ],
+      "objects/ship/glitchtechstation/glitchtechstation.object": [
+        "/dialog/wakePlayer/2/0"
+      ],
+      "objects/ship/humantechstation/humantechstation.object": [
+        "/dialog/wakePlayer/2/0"
+      ],
+      "objects/ship/hylotltechstation/hylotltechstation.object": [
+        "/dialog/wakePlayer/2/0"
+      ],
+      "objects/ship/novakidtechstation/novakidtechstation.object": [
+        "/dialog/wakePlayer/2/0"
+      ],
+      "objects/ship/techstation/techstation.object": [
+        "/dialog/wakePlayer/2/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reboot process remains uninitiated.",
+      "Rus": "Процесс перезагрузки остается не запущенным."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aviantechstation/aviantechstation.object": [
+        "/dialog/wakePlayer/4/0"
+      ],
+      "objects/ship/florantechstation/florantechstation.object": [
+        "/dialog/wakePlayer/4/0"
+      ],
+      "objects/ship/glitchtechstation/glitchtechstation.object": [
+        "/dialog/wakePlayer/4/0"
+      ],
+      "objects/ship/humantechstation/humantechstation.object": [
+        "/dialog/wakePlayer/4/0"
+      ],
+      "objects/ship/hylotltechstation/hylotltechstation.object": [
+        "/dialog/wakePlayer/4/0"
+      ],
+      "objects/ship/novakidtechstation/novakidtechstation.object": [
+        "/dialog/wakePlayer/4/0"
+      ],
+      "objects/ship/techstation/techstation.object": [
+        "/dialog/wakePlayer/4/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rebooting has shown to improve ship interaction satisfaction levels by 73%.",
+      "Rus": "Перезагрузка показала, что уровень удовлетворения от взаимодействия с кораблём увеличен на 73%."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aviantechstation/aviantechstation.object": [
+        "/dialog/wakePlayer/5/0"
+      ],
+      "objects/ship/florantechstation/florantechstation.object": [
+        "/dialog/wakePlayer/5/0"
+      ],
+      "objects/ship/glitchtechstation/glitchtechstation.object": [
+        "/dialog/wakePlayer/5/0"
+      ],
+      "objects/ship/humantechstation/humantechstation.object": [
+        "/dialog/wakePlayer/5/0"
+      ],
+      "objects/ship/hylotltechstation/hylotltechstation.object": [
+        "/dialog/wakePlayer/5/0"
+      ],
+      "objects/ship/novakidtechstation/novakidtechstation.object": [
+        "/dialog/wakePlayer/5/0"
+      ],
+      "objects/ship/techstation/techstation.object": [
+        "/dialog/wakePlayer/5/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rebooting requires a conscious entity to interact with the S.A.I.L console.",
+      "Rus": "Перезагрузка требует разумного существа для взаимодействия с консолью КЭПа."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aviantechstation/aviantechstation.object": [
+        "/dialog/wakeUp/0/0"
+      ],
+      "objects/ship/florantechstation/florantechstation.object": [
+        "/dialog/wakeUp/0/0"
+      ],
+      "objects/ship/glitchtechstation/glitchtechstation.object": [
+        "/dialog/wakeUp/0/0"
+      ],
+      "objects/ship/humantechstation/humantechstation.object": [
+        "/dialog/wakeUp/0/0"
+      ],
+      "objects/ship/hylotltechstation/hylotltechstation.object": [
+        "/dialog/wakeUp/0/0"
+      ],
+      "objects/ship/novakidtechstation/novakidtechstation.object": [
+        "/dialog/wakeUp/0/0"
+      ],
+      "objects/ship/techstation/techstation.object": [
+        "/dialog/wakeUp/0/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rebooting...",
+      "Rus": "Перезагрузка..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aviantechstation/aviantechstation.object": [
+        "/dialog/wakePlayer/0/0"
+      ],
+      "objects/ship/florantechstation/florantechstation.object": [
+        "/dialog/wakePlayer/0/0"
+      ],
+      "objects/ship/glitchtechstation/glitchtechstation.object": [
+        "/dialog/wakePlayer/0/0"
+      ],
+      "objects/ship/humantechstation/humantechstation.object": [
+        "/dialog/wakePlayer/0/0"
+      ],
+      "objects/ship/hylotltechstation/hylotltechstation.object": [
+        "/dialog/wakePlayer/0/0"
+      ],
+      "objects/ship/novakidtechstation/novakidtechstation.object": [
+        "/dialog/wakePlayer/0/0"
+      ],
+      "objects/ship/techstation/techstation.object": [
+        "/dialog/wakePlayer/0/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "System is down, please reboot.",
+      "Rus": "Система зависла, пожалуйста, перезагрузитесь."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aviantechstation/aviantechstation.object": [
+        "/dialog/wakeUp/4/0"
+      ],
+      "objects/ship/florantechstation/florantechstation.object": [
+        "/dialog/wakeUp/4/0"
+      ],
+      "objects/ship/glitchtechstation/glitchtechstation.object": [
+        "/dialog/wakeUp/4/0"
+      ],
+      "objects/ship/humantechstation/humantechstation.object": [
+        "/dialog/wakeUp/4/0"
+      ],
+      "objects/ship/hylotltechstation/hylotltechstation.object": [
+        "/dialog/wakeUp/4/0"
+      ],
+      "objects/ship/novakidtechstation/novakidtechstation.object": [
+        "/dialog/wakeUp/4/0"
+      ],
+      "objects/ship/techstation/techstation.object": [
+        "/dialog/wakeUp/4/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ship's navigation systems were damaged in our escape. Our location is currently unknown.",
+      "Rus": "Навигационная система корабля была повреждена, пока мы бежали. Наше местоположение неизвестно."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aviantechstation/aviantechstation.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/florantechstation/florantechstation.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/glitchtechstation/glitchtechstation.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/humantechstation/humantechstation.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/hylotltechstation/hylotltechstation.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/novakidtechstation/novakidtechstation.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/techstation/techstation.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This console allows me to communicate with SAIL.",
+      "Rus": "Эта консоль позволит мне поговорить с КЭП-ом."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aviantechstation/aviantechstation.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/florantechstation/florantechstation.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/glitchtechstation/glitchtechstation.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/humantechstation/humantechstation.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/hylotltechstation/hylotltechstation.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/novakidtechstation/novakidtechstation.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/techstation/techstation.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This here station let's me talk with SAIL.",
+      "Rus": "Эта вот штука даст побалаболить с КЭП-ом."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aviantechstation/aviantechstation.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/florantechstation/florantechstation.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/glitchtechstation/glitchtechstation.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/humantechstation/humantechstation.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/hylotltechstation/hylotltechstation.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/novakidtechstation/novakidtechstation.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/techstation/techstation.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This station allows me to communicate with SAIL.",
+      "Rus": "Это устройство позволит мне поговорить с КЭП-ом."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aviantechstation/aviantechstation.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/florantechstation/florantechstation.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/glitchtechstation/glitchtechstation.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/humantechstation/humantechstation.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/hylotltechstation/hylotltechstation.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/novakidtechstation/novakidtechstation.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/techstation/techstation.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This station allows me to talk to SAIL.",
+      "Rus": "Эта станция позволит поговорить с КЭП-ом."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Чтобы использовать КЭП-а, пожалуйста, перезапустите систему"
+    ],
+    "Files": {
+      "objects/ship/aviantechstation/aviantechstation.object": [
+        "/dialog/wakePlayer/3/0"
+      ],
+      "objects/ship/florantechstation/florantechstation.object": [
+        "/dialog/wakePlayer/3/0"
+      ],
+      "objects/ship/glitchtechstation/glitchtechstation.object": [
+        "/dialog/wakePlayer/3/0"
+      ],
+      "objects/ship/humantechstation/humantechstation.object": [
+        "/dialog/wakePlayer/3/0"
+      ],
+      "objects/ship/hylotltechstation/hylotltechstation.object": [
+        "/dialog/wakePlayer/3/0"
+      ],
+      "objects/ship/novakidtechstation/novakidtechstation.object": [
+        "/dialog/wakePlayer/3/0"
+      ],
+      "objects/ship/techstation/techstation.object": [
+        "/dialog/wakePlayer/3/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "To make use of your S.A.I.L please reboot.",
+      "Rus": "Чтобы использовать КЭП-а, пожалуйста, перезапустите систему."
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/outlawbarbarian.npctype": [
+        "/scriptConfig/dialog/attack/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you here to fight Floran? Floran excited!",
+      "Rus": "Ты здесссь, чтобы дратьссся ссс Флораном? Флоран впечатлен!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/outlawbarbarian.npctype": [
+        "/scriptConfig/dialog/attack/floran/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran is most ssskilled of all hunters!",
+      "Rus": "Флоран сссамый лучший охотник!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/outlawbarbarian.npctype": [
+        "/scriptConfig/dialog/attack/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran ready to hunt sssome more!",
+      "Rus": "Флоран готов убить ещщще одну жертву!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/outlawbarbarian.npctype": [
+        "/scriptConfig/dialog/attack/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Prepare to be ssskewered!",
+      "Rus": "Приготовьссся быть пронзенным!"
+    }
+  }
+]

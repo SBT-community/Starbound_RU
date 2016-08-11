@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rockbrick.matitem": [
+        "/description"
+      ],
+      "tiles/materials/rockbrick.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crudely produced set of rock bricks.",
+      "Rus": "Грубо сделанные каменные кирпичи."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rockbrick.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/rockbrick.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rock Bricks",
+      "Rus": "Каменные Кирпичи"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rockbrick.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/rockbrick.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sstacked rockss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rockbrick.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/rockbrick.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These are simply rocks stacked like bricks"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rockbrick.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/rockbrick.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ain't nothin' more'n a pile of rocks."
+    }
+  }
+]

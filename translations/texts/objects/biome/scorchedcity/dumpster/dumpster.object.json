@@ -1,0 +1,91 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/dumpster/dumpster.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A big ol' dumpster.",
+      "Rus": "Эт' cтарая большая мусорка."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Обычный мусорник.",
+      "Это мусорник."
+    ],
+    "Files": {
+      "objects/biome/scorchedcity/dumpster/dumpster.object": [
+        "/avianDescription",
+        "/description",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dumpster.",
+      "Rus": "Мусорник."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/dumpster/dumpster.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dumpster. Filthy but necessary.",
+      "Rus": "Мусорник. Грязный но необходимый."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/dumpster/dumpster.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A standard dumpster.",
+      "Rus": "Стандартная мусорка."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/dumpster/dumpster.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dumpssster.",
+      "Rus": "Мусорник."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/dumpster/dumpster.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dumpster",
+      "Rus": "Мусорник"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/dumpster/dumpster.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is dumpster diving still a thing?",
+      "Rus": "Рытьё в мусоросборниках ещё тема?"
+    }
+  }
+]

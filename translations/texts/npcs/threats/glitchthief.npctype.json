@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/glitchthief.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/4/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let's get this robbery over with.",
+      "Rus": "Давайте покончим с этим делом поскорее."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/glitchthief.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/3/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Look - someone to rob!",
+      "Rus": "Смотри - кого-то можно обчистить!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/glitchthief.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You look like you have lots of pixels to lose!",
+      "Rus": "Выглядишь так, словно у тебя есть пара лишних пикселей!"
+    }
+  }
+]

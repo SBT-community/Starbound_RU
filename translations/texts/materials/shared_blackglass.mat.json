@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Кусок темного, тонированного стекла."
+    ],
+    "Files": {
+      "items/materials/blackglass.matitem": [
+        "/description"
+      ],
+      "tiles/materials/blackglass.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dark-tinted panel of glass.",
+      "Rus": "Тонированные стеклянные панели."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Темное стекло"
+    ],
+    "Files": {
+      "items/materials/blackglass.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/blackglass.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Black Glass",
+      "Rus": "Черное стекло"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/blackglass.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/blackglass.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can hide behind dark glasss.",
+      "Rus": "Флоран может сскрыться за темным сстеклом."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/blackglass.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/blackglass.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glass so dark the sun'll hardly shine through.",
+      "Rus": "Стекло такое темное, что едва просвечивает."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/blackglass.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/blackglass.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This glass has been so darkly tinted it is almost not transparent.",
+      "Rus": "Это стекло так сильно тонировано, что почти не пропускает свет."
+    }
+  }
+]

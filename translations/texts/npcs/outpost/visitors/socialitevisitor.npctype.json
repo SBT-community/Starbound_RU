@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/socialitevisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is my attire not the finest you've ever seen?",
+      "Rus": "Разве мой наряд не лучший из всех что вы когда-либо видели?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/socialitevisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "My priceless coin collection was on Earth when... It happened. Now I'm ruined!",
+      "Rus": "Моя бесценная коллекция монет была на Земле когда... Это случилось."
+    }
+  }
+]

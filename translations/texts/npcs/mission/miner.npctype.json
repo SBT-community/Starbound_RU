@@ -1,0 +1,951 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "A few of us went to help down in the lower levels, but they didn't come back.",
+      "Rus": "Некоторые из наших отважились помочь на нижних уровнях, но они так и не вернулись."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/lostTarget/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are we safe?",
+      "Rus": "Мы в безопасности?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you here to save us?",
+      "Rus": "Ты здесь чтобы спасти нас?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "At this rate I'm wondering if we'll ever get off this moon.",
+      "Rus": "С такими успехами мы вряд ли выберемся с этой луны."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/lostTarget/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did it run away?",
+      "Rus": "Оно убежало?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/lostTarget/default/default/0",
+        "/scriptConfig/dialog/outOfSight/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did you see where it went?",
+      "Rus": "Ты видел куда оно делось?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/outOfSight/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you see it?",
+      "Rus": "Ты это видел?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/attack/default/default/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't let it get close!",
+      "Rus": "Не подпускай их близко!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/attack/default/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't let them near you!",
+      "Rus": "Не позволяй им приближаться!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/33"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't let these fleshy monsters take you too!",
+      "Rus": "Не дай этим гадким монстрам добраться и до тебя!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/attack/default/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fall back!",
+      "Rus": "Отступаем!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Get back you fleshy freak!",
+      "Rus": "Отвали мерзкий урод!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/attack/default/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Get back!",
+      "Rus": "Назад!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/cheerOn/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Have you had training?",
+      "Rus": "Тебя для этого тренировали?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/25"
+      ]
+    },
+    "Texts": {
+      "Eng": "Help had better be on the way!",
+      "Rus": "Хорошо бы помощь была уже в пути!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/reattack/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here they come again!",
+      "Rus": "Они снова напирают!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/31"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey, do you know a way out of this place?",
+      "Rus": "Эй, знаешь где выход?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/30"
+      ]
+    },
+    "Texts": {
+      "Eng": "How'd you get down here? the facility is on lockdown!",
+      "Rus": "Как ты попал сюда? Фабрика в режиме полной изоляции!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/cantReach/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't hit it!",
+      "Rus": "Не могу попасть!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/outOfSight/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't see it!",
+      "Rus": "Я их не вижу!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/cantReach/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't have a clear shot from here!",
+      "Rus": "Не могу попасть отсюда!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/cantReach/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't have a shot!",
+      "Rus": "Патроны кончились!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/24"
+      ]
+    },
+    "Texts": {
+      "Eng": "I feel bad for whoever's in the clean up crew...",
+      "Rus": "Мне жаль тех кто будет здесь всё отмывать..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/32"
+      ]
+    },
+    "Texts": {
+      "Eng": "I had a feeling those crystals weren't safe!",
+      "Rus": "У меня было чувство, что эти кристаллы небезопасны."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/34"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have this eerie sense that something is watching me...",
+      "Rus": "У меня такое зловещее чувство, будто за мной кто-то наблюдает."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/28"
+      ]
+    },
+    "Texts": {
+      "Eng": "I keep hearing noises, like something is deep down below...",
+      "Rus": "Я продолжаю слышать какие-то звуки, словно что-то есть там глубоко внизу..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/lostTarget/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I think it's gone.",
+      "Rus": "Мне кажется оно смылось."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/killedTarget/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I think we're safe, for now.",
+      "Rus": "Думаю пока что мы в безопасности."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/killedTarget/default/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wasn't sure if we'd make it.",
+      "Rus": "Не был уверен что у меня получится."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/23"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wish I'd never taken this job!",
+      "Rus": "Хотел бы я никогда не браться за эту работу!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/29"
+      ]
+    },
+    "Texts": {
+      "Eng": "I won't be able to hold out in this place much longer!",
+      "Rus": "Я не смогу продержаться здесь немного дольше!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm a miner, I'm not trained to deal with a situation like this!",
+      "Rus": "Я шахтёр, меня не учили справляться с такими ситуациями!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/killedTarget/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm not cleaning that up..",
+      "Rus": "Я не буду это отмывать..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/26"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm not sure how many of us are left.",
+      "Rus": "Не уверен сколько наших осталось в живых."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/outOfSight/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've lost track of it!",
+      "Rus": "Мы потеряли след!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "If I keep out of the way, those monsters might ignore me.",
+      "Rus": "Если я буду держаться в стороне, эти монстры, возможно, не заметят меня."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/outOfSight/default/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "It couldn't have vanished..",
+      "Rus": "Он не мог просто исчезнуть.."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/17"
+      ]
+    },
+    "Texts": {
+      "Eng": "It looks like we're on our own down here.",
+      "Rus": "Похоже мы здесь теперь сами по себе."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a good thing we had these weapons down here.",
+      "Rus": "Хорошо что у нас есть пушки!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/cantReach/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's just out of reach!",
+      "Rus": "Я вне зоны досягаемости!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/attack/default/default/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Keep your distance!",
+      "Rus": "Держи дистанцию!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Letheia never prepared us for something like this.",
+      "Rus": "Летэйя не готовила нас к такому."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/18"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks like we've been left to deal with this ourselves.",
+      "Rus": "Похоже нас бросили и придётся разбираться с этим самостоятельно."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/cheerOn/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nice job!",
+      "Rus": "Отличная работа!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/attack/default/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Push it back!",
+      "Rus": "Давите их назад!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/38"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rocks? I can deal with those. Fleshy mutants? Not so much.",
+      "Rus": "Камни? Я разберусь с ними. Мясистые мутанты? Не так чтобы очень."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "So you're our backup? I hope you know what you're doing.",
+      "Rus": "Так это ты наше подкрепление? Надеюсь ты знаешь что делаешь."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/killedTarget/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Something tells me that's not the last of them..",
+      "Rus": "Что-то подсказывает мне что это не последние из них..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/attack/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stay away from me!",
+      "Rus": "Держись от меня подальше!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/cheerOn/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Take it out!",
+      "Rus": "Уничтожь его!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/attack/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Take this!",
+      "Rus": "Получай!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/killedTarget/default/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's one less horror in the world..",
+      "Rus": "Одним кошмаром стало меньше..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Facility's on lockdown. I'm hiding here until those monsters disappear.",
+      "Rus": "Фабрика изолирована. Я буду прятаться пока монстры не уйдут."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/reattack/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's more!",
+      "Rus": "Вон ещё!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/27"
+      ]
+    },
+    "Texts": {
+      "Eng": "These creatures appeared so suddenly...",
+      "Rus": "Эти существа появились внезапно..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/attack/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "They found us!",
+      "Rus": "Они нашли нас!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/reattack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "They won't stop coming!",
+      "Rus": "Они не прекращают идти!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/reattack/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "They're back!",
+      "Rus": "Они вернулись!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/attack/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "They're here!",
+      "Rus": "Они уже тут!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/19"
+      ]
+    },
+    "Texts": {
+      "Eng": "This entire facility was sealed off when we raised the alarm!",
+      "Rus": "Вся фабрика была запечатана когда мы подняли тревогу!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "This gun won't be enough to hold back all of those things!",
+      "Rus": "Этой пушки не хватит чтобы сдержать всех этих созданий!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/20"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is what happens when you dig too deep!",
+      "Rus": "Вот что происходит если копнешь слишком глубоко!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/21"
+      ]
+    },
+    "Texts": {
+      "Eng": "Those fools woke it up, and now we're paying the price.",
+      "Rus": "Это дурачьё проснулось, и теперь мы платим по счетам."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Those pink things, they look almost like people.",
+      "Rus": "Эти розовые штуки, выглядят почти как люди."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/35"
+      ]
+    },
+    "Texts": {
+      "Eng": "Those slimy creatures nearly got me!",
+      "Rus": "Эти склизкие существа почти добрались до меня!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "Those things weren't here before. What created them?",
+      "Rus": "Их не было тут раньше. Что могло создать их?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/killedTarget/default/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ugh! this whole room smells terrible now.",
+      "Rus": "Ух! Комната теперь пахнет просто ужасно."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/22"
+      ]
+    },
+    "Texts": {
+      "Eng": "We found something deep in the bowels of this place. I made sure I didn't stick around.",
+      "Rus": "Мы нашли что-то глубоко в недрах этого места. Я убедился, что не стоило оставаться."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "We had someone send out the distress signal, but it must've put the facility on lockdown.",
+      "Rus": "Кто-то отправил сигнал бедствия, но нам пришлось ввести на Фабрике режим строгой изоляции."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/36"
+      ]
+    },
+    "Texts": {
+      "Eng": "We need to get off this moon!",
+      "Rus": "Нам надо убираться с этой луны!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "We need to get out of here!",
+      "Rus": "Нам надо выбираться отсюда!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/killedTarget/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "What a mess..",
+      "Rus": "Какой бардак..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/37"
+      ]
+    },
+    "Texts": {
+      "Eng": "When I get out, I'm handing in my resignation...",
+      "Rus": "Когда я выберусь, напишу заявление об отставке..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "Where did these creatures come from?",
+      "Rus": "Откуда повылезали эти создания?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/outOfSight/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Where'd it go?",
+      "Rus": "Куда оно делось?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why would you come to this place? You should go before it's too late!",
+      "Rus": "Зачем ты пришёл сюда? Надо было уходить пока не поздно!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/killedTarget/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wow! they practically disintegrated.",
+      "Rus": "Ого! Они просто распались на частицы!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "You heard our distress signal? Our comms died as soon as the facility went on lockdown.",
+      "Rus": "Ты перехватил наш сигнал бедствия? Наши товарищи начали погибать сразу после перехода Фабрики в режим строгой изоляции."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/cheerOn/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're pretty good at this!",
+      "Rus": "А ты хорош!"
+    }
+  }
+]

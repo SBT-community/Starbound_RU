@@ -1,0 +1,158 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Find Clues to Locate the Hylotl Artifact",
+      "Rus": "Найдите подсказки об Артефакте Хилотлов."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't help but respect how much traditional Hylotl culture values knowledge.",
+      "Rus": "Не могу не уважать то, насколько традиционная культура Хилотлов ценит знания."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/complete/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interesting - I'd never heard of the Grand Pagoda Library. I don't need any more information now - ^#71f2f6;come back to the Ark when you're ready^white;, dear.",
+      "Rus": "Интересно - я никогда не слышала о Библиотеке Великой Пагоды. Пока больше информации не нужно. ^#71f2f6; Возвращайся к Ковчегу, когда будешь готов^white;, дорогуша."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "That was the last clue we needed to find the Hylotl artifact. Wonderful work, dear.",
+      "Rus": "Это та самая последняя улика, которая нужна нам, чтобы найти артефакт Хилотлов. Прекрасная работа, дорогуша."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/librarycodex/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Hylotl protect and preserve knowledge like the most precious treasure... Books are their most precious commodity, could their artifact be stored amongst a repository of tomes?",
+      "Rus": "Хилотлы защищали и сохраняли знания, как бесценные сокровища... Книги для них - это величайшая драгоценность, может ли артефакт храниться среди древних томов?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/librarymodel/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Library is modelled in exquisite detail - a palace of knowledge! Perhaps their artifact is housed in a place such as this.",
+      "Rus": "Эта Библиотека создана с невообразимой тщательностью к деталям - дворец знаний! Возможно, их артефакт находится в подобном месте."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/pagodaaquarium/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This aquarium has a model island on top of it! How curious.",
+      "Rus": "В аквариуме размещена модель острова! Как любопытно."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/hylotllibraryposter1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This image is hand made and obviously depicts a building of cultural importance...",
+      "Rus": "Это изображение нарисовано от руки и, очевидно, изображает здание, имеющее культурную значимость..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/9/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is all useful, dear. Keep looking!",
+      "Rus": "Это всё нам пригодится, дорогуша! Продолжай искать!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/hylotlmusicbox/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This music box plays an ancient tune... It's a commemorative object, I will research what its origins are.",
+      "Rus": "Эта музыкальная шкатулка играет древнюю мелодию... это мемориальный объект, я изучу его происхождение."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "We should start work on finding the ^orange;Hylotl artifact^reset; now. Search around ^orange;temperate stars^reset;, ^green;and hunt for ^orange;clues^white; on planets with vast tracts of ^orange;ocean^reset;, where the Hylotl reside both above and below the waves. ^green;Come back here when your search is complete^reset;; and look after yourself.",
+      "Rus": "Стоит начать поиски ^orange;артефакта Хилотлов^reset; прямо сейчас. Ищи вокруг ^orange;умеренных звёзд^reset;, ^green;и охоться за^orange; уликами^white; на планетах, покрытых ^orange;океанами^reset;, где Хилотлы жили и на суше, и под водой. ^green;Возвращайся, когда завершишь поиски^reset;; береги себя."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/startAlreadyComplete/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're quite the collector of Hylotl antiquities! It appears you've already located enough clues to to allow me to identify the location of the Artifact!",
+      "Rus": "Ты - отменный собиратель антиквариата Хилотлов! Похоже, ты уже обнаружил достаточно подсказок, чтобы мы могли установить местонахождение Артефакта!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/descriptions/findClues"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Scan objects^reset; to find ^orange;Hylotl clues^reset;",
+      "Rus": "^green;Просканируйте объекты^reset;, чтобы найти ^orange;подсказки Хилотлов^reset;"
+    }
+  }
+]

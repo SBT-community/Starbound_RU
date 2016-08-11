@@ -1,0 +1,68 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/shieldgenerator/shieldgenerator.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic switch. It can be used to activate the shield generator."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/shieldgenerator/shieldgenerator.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A switch. It activates the shield generator."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/shieldgenerator/shieldgenerator.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can flip this here switch to toggle the shield generator."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/shieldgenerator/shieldgenerator.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "If I flip this switch it will turn the shield generator on and off."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/shieldgenerator/shieldgenerator.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It sure doesn't look like this could generate a shield."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/shieldgenerator/shieldgenerator.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This switch generates the shield."
+    }
+  }
+]

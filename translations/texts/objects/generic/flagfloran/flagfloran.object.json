@@ -1,0 +1,101 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagfloran/flagfloran.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Floran flag. I can use this as a waypoint for teleportation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagfloran/flagfloran.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small locator module attached to this Floran flag allows it to be bookmarked for teleportation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagfloran/flagfloran.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran Flag"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagfloran/flagfloran.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran flag makess good point to teleport back to ussing teleporter!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagfloran/flagfloran.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can bookmark this Floran flag for quick teleportin'."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagfloran/flagfloran.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Floran flag. Use ^green;[E]^white; to bookmark a teleportation location."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagfloran/flagfloran.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Floran flag can act as a way point, enabling me to return to this point using a teleporter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagfloran/flagfloran.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Floran flag can be bookmarked as a destination for my ship teleporter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagfloran/flagfloran.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Floran flag can be saved as a location for my teleporter. Then I can return to it at any time."
+    }
+  }
+]

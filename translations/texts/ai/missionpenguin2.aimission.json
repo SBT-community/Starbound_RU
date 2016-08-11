@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/missionpenguin2.aimission": [
+        "/speciesText/default/selectSpeech/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Biggy the armourer requires your help.",
+      "Rus": "Оружейнику Бигги требуется ваша помощь."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/missionpenguin2.aimission": [
+        "/speciesText/default/repeatButtonText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Revisit Weapon Testing Site",
+      "Rus": "Посетить полигон"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/missionpenguin2.aimission": [
+        "/speciesText/default/buttonText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weapon Testing Site",
+      "Rus": "Полигон"
+    }
+  }
+]

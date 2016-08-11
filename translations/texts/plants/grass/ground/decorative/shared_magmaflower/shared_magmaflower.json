@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/magmaflower/magmaflower.grass": [
+        "/description",
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "plants/grass/ground/decorative/magmaflower2/magmaflower2.grass": [
+        "/description",
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "plants/grass/ground/decorative/magmaflower3/magmaflower3.grass": [
+        "/description",
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "plants/grass/ground/decorative/magmaflower4/magmaflower4.grass": [
+        "/description",
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "plants/grass/ground/decorative/magmaflower5/magmaflower5.grass": [
+        "/description",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A magma flower.",
+      "Rus": "Магмовый цветок."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Горячий и жгучий цветок."
+    ],
+    "Files": {
+      "plants/grass/ground/decorative/magmaflower/magmaflower.grass": [
+        "/floranDescription"
+      ],
+      "plants/grass/ground/decorative/magmaflower2/magmaflower2.grass": [
+        "/floranDescription"
+      ],
+      "plants/grass/ground/decorative/magmaflower3/magmaflower3.grass": [
+        "/floranDescription"
+      ],
+      "plants/grass/ground/decorative/magmaflower4/magmaflower4.grass": [
+        "/floranDescription"
+      ],
+      "plants/grass/ground/decorative/magmaflower5/magmaflower5.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hot burny flower.",
+      "Rus": "Горячий пылающий цветок."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/magmaflower/magmaflower.grass": [
+        "/shortdescription"
+      ],
+      "plants/grass/ground/decorative/magmaflower2/magmaflower2.grass": [
+        "/shortdescription"
+      ],
+      "plants/grass/ground/decorative/magmaflower3/magmaflower3.grass": [
+        "/shortdescription"
+      ],
+      "plants/grass/ground/decorative/magmaflower4/magmaflower4.grass": [
+        "/shortdescription"
+      ],
+      "plants/grass/ground/decorative/magmaflower5/magmaflower5.grass": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Magma flower.",
+      "Rus": "Магмовый цветок."
+    }
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/woodbridge.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/woodbridge.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'd bet this here wood is mighty old.",
+      "Rus": "Ставлю на то, что дерево немолодое."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/woodbridge.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/woodbridge.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Old wood iss strong.",
+      "Rus": "Ссстарая крепкая древесссина"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Древесина очень старая и скрипит на ветру."
+    ],
+    "Files": {
+      "items/materials/woodbridge.matitem": [
+        "/description"
+      ],
+      "tiles/materials/woodbridge.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The wood is very old and creaks in the wind.",
+      "Rus": "Дерево очень старое и поскрипывает на ветру."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/woodbridge.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/woodbridge.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This aged wood creaks with age.",
+      "Rus": "В этом возрасте дерево скрипит с возрастом."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/woodbridge.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/woodbridge.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wooden Bridge Block",
+      "Rus": "Блок деревянного моста"
+    }
+  }
+]

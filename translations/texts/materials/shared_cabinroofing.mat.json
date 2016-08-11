@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cabinroofing.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/cabinroofing.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cabin roof, good for keepin' dry in the rain.",
+      "Rus": "Кровля для хижины, хорошо защищает от дождя."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cabinroofing.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/cabinroofing.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cabin Roofing",
+      "Rus": "Кровля для хижины"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cabinroofing.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/cabinroofing.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran raisse the cabin roof.",
+      "Rus": "Флоран выращивает крышу для построек."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Простая кровля для хижины."
+    ],
+    "Files": {
+      "items/materials/cabinroofing.matitem": [
+        "/description"
+      ],
+      "tiles/materials/cabinroofing.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Simple roofing for a cabin.",
+      "Rus": "Обычная кровля для хижины."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cabinroofing.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/cabinroofing.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This cabin roof has rustic charm.",
+      "Rus": "Это кровля имеет провинциальный шарм. "
+    }
+  }
+]

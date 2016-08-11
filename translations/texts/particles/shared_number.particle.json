@@ -1,0 +1,31 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "particles/burningdamagenumber.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumber.particle": [
+        "/definition/text"
+      ],
+      "particles/electricdamagenumber.particle": [
+        "/definition/text"
+      ],
+      "particles/energynumber.particle": [
+        "/definition/text"
+      ],
+      "particles/frozenburningdamagenumber.particle": [
+        "/definition/text"
+      ],
+      "particles/icedamagenumber.particle": [
+        "/definition/text"
+      ],
+      "particles/poisondamagenumber.particle": [
+        "/definition/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^shadow;$dmg$"
+    }
+  }
+]

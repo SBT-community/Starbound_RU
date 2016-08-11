@@ -1,0 +1,52 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Регенирация"
+    ],
+    "Files": {
+      "stats/effects/regeneration/healingwater.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/regeneration/redstim.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/regeneration/regeneration1.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/regeneration/regeneration2.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/regeneration/regeneration3.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/regeneration/regeneration4.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/regeneration/regenerationfast.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/regeneration/shipregeneration1.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/regeneration/shipregeneration2.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/regeneration/shipregeneration3.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/regeneration/shipregeneration4.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/regeneration/shipregeneration5.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/regeneration/staffregeneration.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Regeneration",
+      "Rus": "Регенерация"
+    }
+  }
+]

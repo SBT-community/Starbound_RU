@@ -1,0 +1,257 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/scanmode.inspectiontool": [
+        "/outOfRangeText/novakid/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can't scan that, it ain't in range."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/scanmode.inspectiontool": [
+        "/outOfRangeText/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can't seem to get a reading; I should get closer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/scanmode.inspectiontool": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Describe things in the world and scan objects for printing. ^green;Quick select with [N] key.",
+      "Rus": "Описывает окружающие вещи и сканирует объекты для печати. ^green;Быстрый выбор клавишей [N]."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/scanmode.inspectiontool": [
+        "/outOfRangeText/novakid/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Guess I'm outta range, the scanner ain't scanning that far."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/scanmode.inspectiontool": [
+        "/outOfRangeText/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I cannot seem to get a reading; perhaps I should get closer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/scanmode.inspectiontool": [
+        "/outOfRangeText/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "It must be out of range, I can't get a reading."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/scanmode.inspectiontool": [
+        "/outOfRangeText/glitch/3/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It must be out of range, I cannot get a reading."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/scanmode.inspectiontool": [
+        "/outOfRangeText/floran/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mussst be out of range, Floran can't get a reading."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/scanmode.inspectiontool": [
+        "/nothingThereText/novakid/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not a darn thing there."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/scanmode.inspectiontool": [
+        "/nothingThereText/glitch/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nothing there to scan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/scanmode.inspectiontool": [
+        "/nothingThereText/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nothing to sscan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/scanmode.inspectiontool": [
+        "/outOfRangeText/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scanner not ssstrong enough! Floran must move in."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/scanmode.inspectiontool": [
+        "/nothingThereText/novakid/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scanner says ain't nothin' there."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/scanmode.inspectiontool": [
+        "/nothingThereText/novakid/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scanner's drawin' a blank."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/scanmode.inspectiontool": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scanning Mode",
+      "Rus": "Режим сканирования"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/scanmode.inspectiontool": [
+        "/outOfRangeText/novakid/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Signal's too faint, better get closer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/scanmode.inspectiontool": [
+        "/outOfRangeText/floran/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssignal's too faint to make out, Floran not close enough."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/scanmode.inspectiontool": [
+        "/outOfRangeText/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's outside my scanner's detection area."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/scanmode.inspectiontool": [
+        "/outOfRangeText/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's outsssside scanner's range."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/scanmode.inspectiontool": [
+        "/outOfRangeText/novakid/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The scanner ain't reachin' - probably oughta get closer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/scanmode.inspectiontool": [
+        "/outOfRangeText/glitch/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The signal is too faint to make out, I believe I'm out of range."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/scanmode.inspectiontool": [
+        "/outOfRangeText/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "The signal's too faint to make out - might be out of range."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/scanmode.inspectiontool": [
+        "/outOfRangeText/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hardware's sensors are insufficient to analyze that position from here."
+    }
+  }
+]

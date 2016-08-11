@@ -1,0 +1,39 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/small/trackfossil.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fossilised animal footprint.",
+      "Rus": "Окаменелый отпечаток следа животного."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/small/trackfossil.item": [
+        "/completeSetDescriptions/shortdescription",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Footprint Fossil",
+      "Rus": "Окаменелый Отпечаток Стопы"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/small/trackfossil.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The label reads, \"The size of this footprint indicates it was probably made by an adult male of the species.\"",
+      "Rus": "Табличка гласит: \"Размер этого отпечатка указывает, что он сделан зрелой особью мужского пола.\""
+    }
+  }
+]

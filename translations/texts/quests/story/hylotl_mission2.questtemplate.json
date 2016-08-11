@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/hylotl_mission2.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fetch the Hylotl Artifact",
+      "Rus": "Принесите Артефакт Хилотлов "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/hylotl_mission2.questtemplate": [
+        "/scriptConfig/descriptions/artifact"
+      ]
+    },
+    "Texts": {
+      "Eng": "Find the ^orange;artifact^reset; in the ^orange;Grand Pagoda Library^reset;",
+      "Rus": "Найдите ^orange;артефакт^reset; в ^orange;Библиотеке Великой Пагоды^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/hylotl_mission2.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "From what you've found, it seems the ^orange;Hylotl artifact^reset; is cloistered deep beneath the ocean in a place called ^orange;The Grand Pagoda Library^reset;. The Library is very ancient, ^green;it should be an interesting place to visit^reset;.",
+      "Rus": "То, что вы нашли, больше всего похоже на ^orange;Артефакт Хилотлов^reset; и оно находится глубоко в океане, в месте под названием ^orange; Библиотека Великой Пагоды^reset;. Эта Библиотека очень древняя,  ^green;и, наверняка, интересна настолько, что её стоит посетить^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/hylotl_mission2.questtemplate": [
+        "/scriptConfig/missionRadioMessage/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have received coordinates for ^orange;The Grand Pagoda Library^reset;. ^green;Use the ship computer^reset; to access the location.",
+      "Rus": "Я получил координаты ^orange; Библиотеки Великой Пагоды^reset;. ^green;Используй корабельный компьютер, чтобы получить местоположение."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/hylotl_mission2.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Well done for saving the artifact, dear. They're powerful objects, and not safe in the wrong hands...",
+      "Rus": "Ты молодец, что спас артефакт, дорогуша. Это очень могущественный объект, и нельзя, чтобы он попал не в те руки... "
+    }
+  }
+]

@@ -1,0 +1,346 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/merchant.config": [
+        "/paneLayout/buySellTabs/tabs/0/children/lblBuyTotal/value"
+      ],
+      "interface/windowconfig/vendingmachine.config": [
+        "/paneLayout/buySellTabs/tabs/0/children/lblBuyTotal/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "999999",
+      "Rus": "999999"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/newquestshort.config": [
+        "/paneLayout/lblMoneyAmount/value"
+      ],
+      "interface/windowconfig/questcomplete.config": [
+        "/paneLayout/lblMoneyAmount/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "9999999"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Купить"
+    ],
+    "Files": {
+      "interface/windowconfig/craftingmerchant.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/merchant.config": [
+        "/paneLayout/buySellTabs/tabs/0/children/btnBuy/caption",
+        "/paneLayout/buySellTabs/tabs/0/tabTitle"
+      ],
+      "interface/windowconfig/vendingmachine.config": [
+        "/paneLayout/buySellTabs/tabs/0/children/btnBuy/caption",
+        "/paneLayout/buySellTabs/tabs/0/tabTitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Buy",
+      "Rus": "Покупка"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/confirmation.config": [
+        "/paneLayout/windowtitle/title"
+      ],
+      "interface/windowconfig/portraitconfirmation.config": [
+        "/paneLayout/windowtitle/title"
+      ],
+      "interface/windowconfig/warpout.config": [
+        "/paneLayout/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confirmation",
+      "Rus": "Подтверждение"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Отменить"
+    ],
+    "Files": {
+      "interface/windowconfig/newquest.config": [
+        "/paneLayout/btnDecline/caption"
+      ],
+      "interface/windowconfig/newquestshort.config": [
+        "/paneLayout/btnDecline/caption"
+      ],
+      "interface/windowconfig/teaminvitation.config": [
+        "/paneLayout/close/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Decline",
+      "Rus": "Отклонить"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/deletedialog.config": [
+        "/delete/caption"
+      ],
+      "interface/windowconfig/editbookmark.config": [
+        "/paneLayout/remove/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delete",
+      "Rus": "Удалить"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Окей"
+    ],
+    "Files": {
+      "interface/windowconfig/confirmation.config": [
+        "/paneLayout/ok/caption"
+      ],
+      "interface/windowconfig/error.config": [
+        "/paneLayout/btnOk/caption"
+      ],
+      "interface/windowconfig/popup.config": [
+        "/paneLayout/ok/caption"
+      ],
+      "interface/windowconfig/portraitconfirmation.config": [
+        "/paneLayout/ok/caption"
+      ],
+      "interface/windowconfig/questcomplete.config": [
+        "/paneLayout/btnAccept/caption"
+      ],
+      "interface/windowconfig/warpout.config": [
+        "/paneLayout/ok/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Okay",
+      "Rus": "Хорошо"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/newquest.config": [
+        "/paneLayout/lblRewards/value"
+      ],
+      "interface/windowconfig/newquestshort.config": [
+        "/paneLayout/lblRewards/value"
+      ],
+      "interface/windowconfig/questlog.config": [
+        "/paneLayout/lblRewards/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "REWARDS:",
+      "Rus": "НАГРАДА:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/merchant.config": [
+        "/paneLayout/buySellTabs/tabs/1/children/lblSellTotalCaption/value"
+      ],
+      "interface/windowconfig/vendingmachine.config": [
+        "/paneLayout/buySellTabs/tabs/1/children/lblSellTotalCaption/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "SELL VALUE",
+      "Rus": "СТОИМОСТЬ"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Очередные заглушки",
+      "Секрет Авианского Пранк Мастера "
+    ],
+    "Files": {
+      "interface/windowconfig/newquest.config": [
+        "/paneLayout/lblQuestTitle/value"
+      ],
+      "interface/windowconfig/newquestshort.config": [
+        "/paneLayout/lblQuestTitle/value"
+      ],
+      "interface/windowconfig/questcomplete.config": [
+        "/paneLayout/lblQuestTitle/value"
+      ],
+      "interface/windowconfig/questfailed.config": [
+        "/paneLayout/lblQuestTitle/value"
+      ],
+      "interface/windowconfig/questlog.config": [
+        "/paneLayout/lblQuestTitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Secret of the Avian Troll Master",
+      "Rus": "Тайна Авианского Тролля-Мастера"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Продать"
+    ],
+    "Files": {
+      "interface/windowconfig/merchant.config": [
+        "/paneLayout/buySellTabs/tabs/1/children/btnSell/caption",
+        "/paneLayout/buySellTabs/tabs/1/tabTitle"
+      ],
+      "interface/windowconfig/vendingmachine.config": [
+        "/paneLayout/buySellTabs/tabs/1/children/btnSell/caption",
+        "/paneLayout/buySellTabs/tabs/1/tabTitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sell",
+      "Rus": "Продажа"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/merchant.config": [
+        "/paneLayout/buySellTabs/tabs/0/children/lblBuyTotalCaption/value"
+      ],
+      "interface/windowconfig/vendingmachine.config": [
+        "/paneLayout/buySellTabs/tabs/0/children/lblBuyTotalCaption/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "TOTAL COST",
+      "Rus": "СУММА"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "^#b9b5b2;ЧЕРТЁЖ",
+      "ЧЕРТЕЖИ"
+    ],
+    "Files": {
+      "interface/windowconfig/crafting.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/crafting3dprinter.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/craftinganvil.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/craftingfarming.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/craftingfurnace.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/craftingfurniture.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/craftingmedical.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/inventorstable.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/pixelcompressor.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/wiringstation.config": [
+        "/paneLayout/lblSchematics/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;BLUEPRINTS",
+      "Rus": "^#b9b5b2;ЧЕРТЕЖИ"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "ПРОДУКТ"
+    ],
+    "Files": {
+      "interface/windowconfig/crafting.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/crafting3dprinter.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/craftinganvil.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/craftingfarming.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/craftingfurnace.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/craftingfurniture.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/craftingmedical.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/craftingmerchant.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/craftingnocategories.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/inventorstable.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/pixelcompressor.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/wiringstation.config": [
+        "/paneLayout/lblProducttitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;PRODUCT",
+      "Rus": "^#b9b5b2;ПРОДУКТ"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Очередные заглушки",
+      "Потрясающие заглушки",
+      "Тайна Авианского Тролля-Мастера"
+    ],
+    "Files": {
+      "interface/windowconfig/newquest.config": [
+        "/paneLayout/lblQuestBody/value"
+      ],
+      "interface/windowconfig/newquestshort.config": [
+        "/paneLayout/lblQuestBody/value"
+      ],
+      "interface/windowconfig/questcomplete.config": [
+        "/paneLayout/lblQuestBody/value"
+      ],
+      "interface/windowconfig/questfailed.config": [
+        "/paneLayout/lblQuestBody/value"
+      ],
+      "interface/windowconfig/questlog.config": [
+        "/paneLayout/lblQuestBody/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "quest body of the Secret of the Avian Troll Master quest bla",
+      "Rus": "Основа квеста Тайны Авианского Тролля-Мастера"
+    }
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/extort.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ah, I see you got the <item> - I expect it was SO difficult to get <target> to hand it over. Keep hold of it for me for the time being, will you?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/extort.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ah, you got <target>'s <item>. I imagine the look on <target.pronoun.possessiveDet> face was priceless!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/extort.questtemplate": [
+        "/scriptConfig/generatedText/text/first/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "First I need you to ^green;find that fool, ^orange;<target> ^green;and ask <target.pronoun.object> to give up <target.pronoun.possessiveDet> ^orange;<item>. ^white;Make sure you mention that ^orange;<questGiver>^white; sent you, <target.pronoun.subject> won't protest... "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/extort.questtemplate": [
+        "/scriptConfig/generatedText/text/first/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "First, we must deal with ^orange;<target>. ^white;I need <target.pronoun.possessiveDet> ^orange;<item>, ^white;but <target.pronoun.subject>'d be petrified if I went in person. It would save us both some trouble if you were to ^green;fetch it^white; instead."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/extort.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Good job collecting our <item>! I knew <target> would be useful to keep around..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/extort.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Great! Floran knew <target> wouldn't put up a fight. Thisss <item> will do nicely."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/extort.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Having a good ^orange;<item> ^white;is necessary for our plan. I'm pretty sure ^orange;<target>^white; has one, so why don't you ^green;go and collect it? ^white;Don't worry, <target.pronoun.subject> wouldn't dare disobey..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/extort.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next step requiress some muscle. Floran knows ^orange;<target>^white; is cowering somewhere. ^green;Go tell <target.pronoun.object> Floran thinks <target.pronoun.subject> should \"volunteer\" <target.pronoun.possessiveDet> ^orange;<item>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/extort.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next, we need one ^orange;<item>^white;. ^orange;<target>^white; will have one. <target.pronoun.capitalSubject> should ^green;give it up without a fight if you tell <target.pronoun.object> I sent you^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/extort.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now we can have a bit of fun! Go find ^orange;<target> ^white;and ^green;pressure <target.pronoun.object> into handing over <target.pronoun.possessiveDet> ^orange;<item>.^white; It shouldn't be too difficult, just mention that ^orange;<questGiver>^white; sent you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/extort.questtemplate": [
+        "/scriptConfig/generatedText/text/first/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Okay, first there is sssomething we need, and Floran knows just the person to get it. ^green;Find ^orange;<target>^green; and tell <target.pronoun.object> to give <target.pronoun.possessiveDet> ^orange;<item>^green; up^white;, or Floran will deal with <target.pronoun.object> persssonally!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/extort.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perfect. I knew <target> wouldn't dare kick up a fuss. "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/extort.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "See? Sometimesss the easiest way to get something done is to apply a little presssure."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/extort.questtemplate": [
+        "/scriptConfig/generatedText/text/first/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Step one, ^green;we need to get ^orange;<item>^white;. Floran knows that ^orange;<target>^white; hasss one. ^green;Make <target.pronoun.object> hand it over^white;, Floran knows <target.pronoun.subject>'sss pitiful and won't protest."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/extort.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This <item> is perfect! You've done well."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/extort.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is the perfect <item>. I suppose <target> wasn't too much trouble?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/extort.questtemplate": [
+        "/scriptConfig/generatedText/text/first/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "To begin with we need to find ourselves a good ^orange;<item>. ^white;I happen to know that ^orange;<target> ^white;has got one, so you could ^green;pick it up directly from <target.pronoun.object>.^white; <target.pronoun.capitalSubject> already knows <target.pronoun.possessiveDet> place, so <target.pronoun.subject> wouldn't dare to disobey me. "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/extort.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "We have to collect one ^orange;<item>^white; from somewhere. I believe ^orange;<target>^white; has one, and <target.pronoun.subject> just so happens to owe me a favour. Will you ^green;pick up the ^orange;<item>^green; from <target.pronoun.object>?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/extort.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "We need one ^orange;<item>^white; next. ^green;Take one from ^orange;<target>^white; - <target.pronoun.subject>'s such a scaredy-cat <target.pronoun.subject>'d do whatever Floran wantss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/extort.questtemplate": [
+        "/scriptConfig/generatedText/text/first/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "We need to get our hands on one ^orange;<item>.^white; Luckily, ^orange;<target>^white; who lives nearby ^green;should have one.^white; Even better, <target.pronoun.subject> already knows who's the boss around here, so I know ^green;<target.pronoun.subject>'ll oblige you^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/extort.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Well done! This <item> will come in handy to us very soon. "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/extort.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You got <target>'s <item>. Ha ha ha... what a coward <target.pronoun.subject> is."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/extort.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You got it! Easy, right? Floran would've liked to sssee <target>'s face! Floran betsss <target.pronoun.subject> was shaking in <target.pronoun.possessiveDet> boots!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/extort.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You got it? How nice of <target> to give <target.pronoun.possessiveDet> <item> to Floran without a fight. <target.pronoun.capitalSubject> knows what's bessst for <target.pronoun.object>."
+    }
+  }
+]

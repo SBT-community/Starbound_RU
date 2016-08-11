@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/glitch_mission2.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fetch the Glitch Artifact",
+      "Rus": "Заполучить Артефакт Глитчей"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/glitch_mission2.questtemplate": [
+        "/scriptConfig/descriptions/artifact"
+      ]
+    },
+    "Texts": {
+      "Eng": "Find the ^orange;artifact^reset; in the ^orange;old Glitch keep^reset;",
+      "Rus": "Отыщи ^orange;артефакт^reset; в ^orange;старом поместье Глитчей^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/glitch_mission2.questtemplate": [
+        "/scriptConfig/missionRadioMessage/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have received coordinates for ^orange;The Baron's Keep^reset;. ^green;Use the ship computer^reset; to access the location.",
+      "Rus": "Я получила координаты^orange;Ставки Барона^reset;. ^green;Используй корабельный компьютер^reset;, чтобы попасть на место."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/glitch_mission2.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm so proud of you! After all you've done, I know that you're equal to the challenge we face. And as for the woman you fought again... ^orange;My old journal^white; might give you some answers.",
+      "Rus": "Я так тобой горжусь! После всего, что ты сделал, я знаю, что ты подходишь для испытания, с которым мы столкнулись. Что же до девушки, с которой ты бился... ^orange; Вот тебе мой старый дневник.^white; Он может ответить на некоторые твои вопросы."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/glitch_mission2.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ^orange;Glitch artifact^reset; is in a castle, under the care of a certain, slightly odd, Glitch. ^green;Would you go to his keep and talk to him^reset;, dear?",
+      "Rus": "^orange;Артефакт Глитчей^reset;под охраной, мягко говоря, немного странного Глитча^green;Мог бы ты поговорить с ним^reset;, дорогуша?"
+    }
+  }
+]

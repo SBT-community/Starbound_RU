@@ -1,0 +1,44 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/waterplant/waterplant.grass": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ],
+      "plants/grass/ground/decorative/waterplant2/waterplant2.grass": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ],
+      "plants/grass/ground/decorative/waterplant3/waterplant3.grass": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An underwater plant.",
+      "Rus": "Подводное растение."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/waterplant/waterplant.grass": [
+        "/floranDescription"
+      ],
+      "plants/grass/ground/decorative/waterplant2/waterplant2.grass": [
+        "/floranDescription"
+      ],
+      "plants/grass/ground/decorative/waterplant3/waterplant3.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssswimmy plant.",
+      "Rus": "Плавающщее растение."
+    }
+  }
+]

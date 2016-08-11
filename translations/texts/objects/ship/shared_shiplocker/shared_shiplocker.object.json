@@ -1,0 +1,98 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/apexshiplocker/apexshiplocker.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/avianshiplocker/avianshiplocker.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/floranshiplocker/floranshiplocker.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/glitchshiplocker/glitchshiplocker.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/humanshiplocker/humanshiplocker.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/hylotlshiplocker/hylotlshiplocker.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A locker, for puttin' things in."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/humanshiplocker/humanshiplocker.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/novakidshiplocker/novakidshiplocker.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A ship's locker."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/humanshiplocker/humanshiplocker.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/novakidshiplocker/novakidshiplocker.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Any items of interest inside I wonder?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/humanshiplocker/humanshiplocker.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/novakidshiplocker/novakidshiplocker.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Could there be anything of value within this locker?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/humanshiplocker/humanshiplocker.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/novakidshiplocker/novakidshiplocker.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder if there are any secrets inside this locker?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/humanshiplocker/humanshiplocker.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/novakidshiplocker/novakidshiplocker.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perhaps something useful is inside this locker."
+    }
+  }
+]

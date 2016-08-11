@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Буээ... мясистый на вид материал."
+    ],
+    "Files": {
+      "items/materials/hellstone.matitem": [
+        "/description"
+      ],
+      "tiles/materials/hellstone.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eww, a fleshy looking material!",
+      "Rus": "Фуу, выглядит как куча плоти!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Куча плоти"
+    ],
+    "Files": {
+      "items/materials/hellstone.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/hellstone.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flesh Pile",
+      "Rus": "Кучка плоти"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/hellstone.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/hellstone.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssquishy, sslimy flesh.",
+      "Rus": "Сстуденистая сслизская плоть."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/hellstone.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/hellstone.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This appears to be pulsating flesh.",
+      "Rus": "Это выглядит как пульсирующая плоть."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/hellstone.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/hellstone.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This flesh is pretty nasty lookin'.",
+      "Rus": "Эти потроха выглядят довольно мерзко."
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/proximitywallsensor/proximitywallsensor.object": [
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription"
+      ],
+      "objects/wired/proximitysensor/proximitysensor.object": [
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A proximity sensor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/proximitywallsensor/proximitywallsensor.object": [
+        "/hylotlDescription"
+      ],
+      "objects/wired/proximitysensor/proximitysensor.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sensor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/proximitywallsensor/proximitywallsensor.object": [
+        "/avianDescription"
+      ],
+      "objects/wired/proximitysensor/proximitysensor.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't get too close!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/proximitywallsensor/proximitywallsensor.object": [
+        "/apexDescription"
+      ],
+      "objects/wired/proximitysensor/proximitysensor.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This will go off if I get too close."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/proximitywallsensor/proximitywallsensor.object": [
+        "/novakidDescription"
+      ],
+      "objects/wired/proximitysensor/proximitysensor.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tread carefully."
+    }
+  }
+]

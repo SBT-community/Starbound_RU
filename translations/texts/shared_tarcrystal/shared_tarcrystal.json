@@ -1,0 +1,33 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Кристаллизованный гудрон"
+    ],
+    "Files": {
+      "objects/biome/tar/tarcrystal1/tarcrystal1.object": [
+        "/novakidDescription"
+      ],
+      "objects/biome/tar/tarcrystal2/tarcrystal2.object": [
+        "/novakidDescription"
+      ],
+      "objects/biome/tar/tarcrystal3/tarcrystal3.object": [
+        "/novakidDescription"
+      ],
+      "objects/biome/tar/tarcrystal4/tarcrystal4.object": [
+        "/novakidDescription"
+      ],
+      "objects/biome/tar/tarcrystal5/tarcrystal5.object": [
+        "/novakidDescription"
+      ],
+      "plants/bushes/ground/tarcrystal/tarcrystal.bush": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crystallised tar.",
+      "Rus": "Кристаллизованный гудрон."
+    }
+  }
+]

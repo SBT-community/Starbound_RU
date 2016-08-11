@@ -1,0 +1,1825 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/novakid/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "A celestial being?!",
+      "Rus": "Неземное существо?!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Дружелюбный незнакомец! Благодарю тебя Клюэкс.",
+      "Дружелюбный незнакомец! Возблагодарим Клюэкса!",
+      "Дружелюбный незнакомец! Слава Клюэксу.",
+      "Дружелюбный незнакомец! Хвала Клюэксу. "
+    ],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/17",
+        "/converse/avian/avian/16",
+        "/converse/avian/floran/16",
+        "/converse/avian/glitch/16",
+        "/converse/avian/human/16",
+        "/converse/avian/hylotl/16",
+        "/converse/avian/novakid/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "A friendly stranger! Thanks be to Kluex."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/novakid/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "A glowing man, sent by Kluex!",
+      "Rus": "Сияющий человек, посланник Клюэкса!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/novakid/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "A warrior forged of light, sent by Kluex!",
+      "Rus": "Воин созданный из самого света, посланник Клюэкса."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Apex are strong fighters, this commands respect.",
+      "Rus": "Апексы сильные бойцы, это достойно уважения."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/floran/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are greenfingers like Stargazers?",
+      "Rus": "Ваши древоусты, как наши Звездочёты?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are the Apex godless?",
+      "Rus": "Апексы безбожники?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/avian/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you a kind of warrior? Well done!",
+      "Rus": "Ты в некотором роде воин? Хорошая работа!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aren't there Apex rebels fighting the Miniknog? Why aren't you taking up the battle?",
+      "Rus": "Разве не повстанцы Апесксы выступают против Министерства? Почему вы не примете этот бой?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/hylotl/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bless you, may you find strength.",
+      "Rus": "Благослови тебя, да обретёшь ты силу."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/floran/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bless you, pretty one.",
+      "Rus": "Благослови тебя, красавчик."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Благослави тебя.",
+      "Благослови тебя."
+    ],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/25",
+        "/converse/avian/avian/24",
+        "/converse/avian/floran/24",
+        "/converse/avian/glitch/24",
+        "/converse/avian/human/24",
+        "/converse/avian/hylotl/24",
+        "/converse/avian/novakid/24"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bless you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/novakid/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "By Kluex's light!",
+      "Rus": "Во имя света Клюэкса."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Во имя крыльев Клюэкса! Посетитель!"
+    ],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/34",
+        "/converse/avian/avian/33",
+        "/converse/avian/floran/33",
+        "/converse/avian/glitch/33",
+        "/converse/avian/human/33",
+        "/converse/avian/hylotl/33",
+        "/converse/avian/novakid/33"
+      ]
+    },
+    "Texts": {
+      "Eng": "By Kluex's wings! A visitor!",
+      "Rus": "Клянусь крыльями Клюэкса! Посетитель!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Добро пожаловать в священные земли Авоса!",
+      "Приветствую тебя в священных землях Авоса!",
+      "Приветствую тебя на священных землях Авоса!"
+    ],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/32",
+        "/converse/avian/avian/31",
+        "/converse/avian/floran/31",
+        "/converse/avian/glitch/31",
+        "/converse/avian/human/31",
+        "/converse/avian/hylotl/31",
+        "/converse/avian/novakid/31"
+      ]
+    },
+    "Texts": {
+      "Eng": "By the sacred lands of Avos, it's good to meet you!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/glitch/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Could a Glitch convert to Kluex worship? I should ask a Stargazer.",
+      "Rus": "Можно ли обратить Глитча в культ Клюэкса? Я должен спросить Звездочёта."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/human/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Could a human Ascend?",
+      "Rus": "Может ли человек Взойти?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/novakid/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did Kluex send you?",
+      "Rus": "Клюэкс послал тебя?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do the Apex ever sacrifice their people?",
+      "Rus": "Апексы когда-либо приносили в жертву своих сограждан?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/glitch/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do the Glitch have any gods?",
+      "Rus": "А у Глитчей есть какие-нибудь боги?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/avian/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you carry a copy of the Avoscript?",
+      "Rus": "У тебя есть копия Авианского Завета?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you have a soul?",
+      "Rus": "У тебя есть душа?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/hylotl/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you know how many verses are in the Avoscript? 'Cause it's a lot.",
+      "Rus": "Знаешь сколько стихов в Авианском Завете? Их очень много."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/avian/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you take the opportunity to spread the light of Kluex when you travel?",
+      "Rus": "Ты будешь распространять свет Клюэкса в своём путешествии?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you worship Kluex, fluffy one?",
+      "Rus": "Ты поклянешься Клюэксу, мой пушистый друг?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you worship Kluex, leafy one?",
+      "Rus": "Ты восхваляешь Клюэкса, лиственный?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/glitch/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you worship Kluex, metal one?",
+      "Rus": "Ты поклоняешься Клюэксу, железный?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/hylotl/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you worship Kluex, watery one?",
+      "Rus": "Ты возносишь хвалу Клюэксу, водяной?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/human/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't fear the Stargazers human; they can be severe, but they have our best interests at heart.",
+      "Rus": "Не страшись Звездочётов; они могут быть суровы, но в душе у них благие намерения."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/human/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't humans have many gods?",
+      "Rus": "У вас, людей, много богов?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Не волнуйся, время жертвоприношения ещё не пришло."
+    ],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/33",
+        "/converse/avian/avian/32",
+        "/converse/avian/floran/32",
+        "/converse/avian/glitch/32",
+        "/converse/avian/human/32",
+        "/converse/avian/hylotl/32",
+        "/converse/avian/novakid/32"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't worry, this isn't a time of sacrifice.",
+      "Rus": "Не беспокойся, ещё не время для жертвоприношения."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/floran/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran are creatures of the ground, but we Avian are of the air.",
+      "Rus": "Флораны - существа земли, а мы, Авиане - дети воздуха."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/floran/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Good day to you, Floran. May Kluex guide your blade.",
+      "Rus": "Хорошего дня, Флоран. Пусть Клюэкс направляет твой клинок."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/human/12",
+        "/converse/avian/hylotl/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Good day, featherless one.",
+      "Rus": "Хорошего дня, беспёрый."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Приятная встреча.",
+      "Приятно встретиться."
+    ],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/23",
+        "/converse/avian/avian/22",
+        "/converse/avian/floran/22",
+        "/converse/avian/glitch/22",
+        "/converse/avian/human/22",
+        "/converse/avian/hylotl/22",
+        "/converse/avian/novakid/22"
+      ]
+    },
+    "Texts": {
+      "Eng": "Good to meet you.",
+      "Rus": "Рад встрече."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Have you ever read any of the Avoscript? I think it would be enlightening, even to an Apex.",
+      "Rus": "Ты когда-нибудь читал Авианский Завет? Это поучительно даже для Апекса."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Ты уже встречался с Звездочётом?",
+      "Уже встречал Звездочёта?"
+    ],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/21",
+        "/converse/avian/avian/20",
+        "/converse/avian/floran/20",
+        "/converse/avian/glitch/20",
+        "/converse/avian/human/20",
+        "/converse/avian/hylotl/20",
+        "/converse/avian/novakid/20"
+      ]
+    },
+    "Texts": {
+      "Eng": "Have you met a Stargazer yet?",
+      "Rus": "Не встречал ещё Звездочёта?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/glitch/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Have you met a Stargazer yet? I'm not sure what they'd make of you.",
+      "Rus": "Ты уже видел Звездочёта? Не уверен, что они с тобой сделают."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/human/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Have you met any of the Grounded, human? Poor lost souls.",
+      "Rus": "Встречал Приземлённых, человек? Бедные потерянные души."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/hylotl/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Have you ventured up the Celestial tower yet?",
+      "Rus": "Ты уже отважился забраться на Астрономическую башню?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hello ape man! Have you climbed the Celestial tower yet?",
+      "Rus": "Здравствуй человек-обезьяна! А ты уже забирался на Астрономическую башню?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Привет, путешественник."
+    ],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/47",
+        "/converse/avian/avian/46",
+        "/converse/avian/floran/46",
+        "/converse/avian/glitch/46",
+        "/converse/avian/human/46",
+        "/converse/avian/hylotl/46",
+        "/converse/avian/novakid/46"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hello, traveller.",
+      "Rus": "Здравствуй, путешественник."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/44",
+        "/converse/avian/avian/43",
+        "/converse/avian/floran/43",
+        "/converse/avian/glitch/43",
+        "/converse/avian/human/43",
+        "/converse/avian/hylotl/43",
+        "/converse/avian/novakid/43"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hi!",
+      "Rus": "Привет!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/avian/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "How long since you witnessed a sacred sacrifice?",
+      "Rus": "Как давно ты был свидетелем священного жертвоприношение?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/hylotl/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hylotl may not approve of combat, but every battle we Avian fight is fought in dedication to Kluex.",
+      "Rus": "Хилотлы может и не одобряют сражений, а вот Авиане каждый свой бой посвящают Клюэксу."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't help but respect Floran strength.",
+      "Rus": "Всегда уважал силу Флоранов."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/floran/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't fear you Floran, not with Kluex by my side.",
+      "Rus": "Я не боюсь тебя, Флоран, только не с Клюэксом на моей стороне."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/hylotl/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't think Hylotl buildings are a patch on our temples and Celestial towers.",
+      "Rus": "Постройки Хилотлов меркнут, по сравнению с нашими храмами и особенно Астрономическими башнями."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/hylotl/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't think Kluex would approve of your race's pacifism.",
+      "Rus": "Не думаю, что Клюэкс одобряет пацифизм твоей расы."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't think our god is as tyrannical as your leader. Big Ape sounds terrible!",
+      "Rus": "Не думаю что наш бог такой же тиранический, как ваш лидер. Большой Эйп звучит ужасно!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Я подозреваю Приземлённые говорят плохие вещи о нас. Я с радостью скажу что-нибудь и о них."
+    ],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/15",
+        "/converse/avian/floran/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I expect the Grounded say bad things about us. Well I'd happily say bad things about them!",
+      "Rus": "Я думаю Приземлённые говорят плохие вещи о нас. Я бы с радостью наговорил плохих вещей о них!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/avian/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope to become the next cycle's Ascendant! But I hope that every cycle...",
+      "Rus": "Я надеюсь стать Восходящим следующего цикла! Хотя я надеюсь на это в каждом цикле..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/avian/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope you still find time to attend to your faith amongst all your adventuring.",
+      "Rus": "Я надеюсь, ты уделяешь время своей вере, помимо поисков приключений."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "I love Kluex, ape man!",
+      "Rus": "Я люблю Клюэкса, обезьяныш!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/hylotl/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "I suppose the Hylotl aren't really into sacrifice...",
+      "Rus": "Я подозреваю, Хилотлы не особо одобряю жертвоприношения..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/human/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I suppose the destruction of Earth was Kluex's will...",
+      "Rus": "Думаю уничтожение Земли было волей Клюэкса..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/human/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "I suspect human warriors don't quite match up to Avian warriors. But then, we have Kluex on our side.",
+      "Rus": "Не думаю, что человеческие воины ровня Авианским. В конце концов Клюэкс на нашей стороне."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "I think science is the Apex religion.",
+      "Rus": "Я думаю, что наука является религией Апексов."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/human/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I was so sorry to hear about your world, human. I will pray to Kluex to give you strength.",
+      "Rus": "Жаль слышать о твоём мире, человек. Я помолюсь Клюэксу, чтобы даровал тебе силы."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Благословенного дня.",
+      "Желаю благословенного дня.",
+      "Желаю доброго дня."
+    ],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/22",
+        "/converse/avian/avian/21",
+        "/converse/avian/floran/21",
+        "/converse/avian/glitch/21",
+        "/converse/avian/human/21",
+        "/converse/avian/hylotl/21",
+        "/converse/avian/novakid/21"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wish you a blessed day.",
+      "Rus": "Желаю тебе благословенного дня."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/glitch/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder if you could convert to Kluex worship?",
+      "Rus": "Интересно, можно ли тебя обратить в культ Клюэкса?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/avian/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "I worry about the Grounded.",
+      "Rus": "Я беспокоюсь о Приземлённых."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/floran/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'd love to hunt with you sometime. I think it's an activity Kluex would approve of.",
+      "Rus": "Хотел бы я поохотится вместе с тобой как-нибудь. Думаю, что такое времяпровождение Клюэкс одобрил бы."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/novakid/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm honoured to meet you.",
+      "Rus": "Для меня честь встретить тебя."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/human/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm not sure how Kluex would feel about the Protectorate.",
+      "Rus": "Не уверен, как Клюэкс должен себя чувствовать по отношению к Протекторату."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/floran/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm not sure if we've ever sacrificed Floran here. Do your kind even bleed?",
+      "Rus": "Не думаю, что мы когда-нибудь приносили в жертву Флорана. Вы вообще кровоточите?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/human/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm sure a human could convert to Kluex worship if they wanted. You should talk to a Stargazer.",
+      "Rus": "Уверен человека можно обратить в веру Клюэкса, если захотеть.Надо поговорить со Звездочётом."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've heard terrible things about the Miniknog, may Kluex smite them.",
+      "Rus": "Я слышал ужасные вещи о Министерстве, надеюсь Клюэкс покарает их."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/hylotl/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've only read one book: the Avoscript. But I've read it A LOT of times.",
+      "Rus": "Я прочёл лишь одну книгу: Авианский Завет. Зато МНОГО раз."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/floran/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "If Kluex could accept any other race but us, I suspect it would be Florans. But he can't.",
+      "Rus": "Если бы Клюэкс признавал какую-нибудь расу, помимо нас, это были бы Флоране. Но он не признаёт."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/glitch/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "If a Glitch jumped off a Celestial tower, it would simply plummet.",
+      "Rus": "Если Глитч спрыгнет с Астрономической башни, это будет просто драматическое падение."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/floran/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you jumped off the Celestial tower, would you just flutter down like a leaf?",
+      "Rus": "Если ты спрыгнешь с Астрономической башни, не будешь ли ты просто планировать вниз, словно листок на ветру?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you're interested in learning about Kluex you should find a Stargazer, they're our leaders.",
+      "Rus": "Если хочешь побольше узнать о Клюэксе, тебе стоит спросить об этом Звездочёта, они наши духовные лидеры."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/16",
+        "/converse/avian/avian/15",
+        "/converse/avian/floran/15",
+        "/converse/avian/glitch/15",
+        "/converse/avian/human/15",
+        "/converse/avian/hylotl/15",
+        "/converse/avian/novakid/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kluex be with you.",
+      "Rus": "Да прибудет с тобой Клюэкс."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/18",
+        "/converse/avian/avian/17",
+        "/converse/avian/floran/17",
+        "/converse/avian/glitch/17",
+        "/converse/avian/human/17",
+        "/converse/avian/hylotl/17",
+        "/converse/avian/novakid/17"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kluex bless you.",
+      "Rus": "Благослови тебя Клюэкс."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Пусть Клюэкс ведёт тебя.",
+      "Пусть Клюэкс направляет тебя."
+    ],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/30",
+        "/converse/avian/avian/29",
+        "/converse/avian/floran/29",
+        "/converse/avian/glitch/29",
+        "/converse/avian/human/29",
+        "/converse/avian/hylotl/29",
+        "/converse/avian/novakid/29"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kluex guide you.",
+      "Rus": "Да направит тебя Клюэкс."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/floran/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kluex is a god of battle, but also of life, death, the seasons and harvest. He is the All God.",
+      "Rus": "Клюэкс - бог битвы, но так же и жизни, смерти, времён года и урожая. Он Бог Всего Сущего."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/floran/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leaves are lovely, but I prefer the feathers Kluex gave me.",
+      "Rus": "Листья весьма хороши, но я предпочитаю перья, что даровал мне Клюэкс."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Пусть Клюэкс ведёт тебя в путешествиях."
+    ],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/40",
+        "/converse/avian/avian/39",
+        "/converse/avian/floran/39",
+        "/converse/avian/glitch/39",
+        "/converse/avian/human/39",
+        "/converse/avian/hylotl/39",
+        "/converse/avian/novakid/39"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let Kluex guide your travels.",
+      "Rus": "Пусть Клюэкс направляет тебя в путешествиях."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/novakid/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Look at your celestial shine!",
+      "Rus": "Погляди на своё неземное свечение!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/floran/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "May Kluex bless your hunts.",
+      "Rus": "Да благословит Клюэкс твои охоты."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Да прибудет с тобой сила, именем Клюэкса.",
+      "Да придаст Клюэкс тебе сил!"
+    ],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/41",
+        "/converse/avian/avian/40",
+        "/converse/avian/floran/40",
+        "/converse/avian/glitch/40",
+        "/converse/avian/human/40",
+        "/converse/avian/hylotl/40",
+        "/converse/avian/novakid/40"
+      ]
+    },
+    "Texts": {
+      "Eng": "May Kluex bring you strength.",
+      "Rus": "Пусть Клюэкс одарит тебя силой."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Да направит Клюэкс твою руку в бою!",
+      "Пусть Клюэкс направляет твою руку в бою. "
+    ],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/37",
+        "/converse/avian/avian/36",
+        "/converse/avian/floran/36",
+        "/converse/avian/glitch/36",
+        "/converse/avian/human/36",
+        "/converse/avian/hylotl/36",
+        "/converse/avian/novakid/36"
+      ]
+    },
+    "Texts": {
+      "Eng": "May Kluex guide your hand in battle.",
+      "Rus": "Пусть Клюэкс направляет твою руку в бою."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/glitch/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "May Kluex light your way, metal man.",
+      "Rus": "Пусть Клюэкс освещает твой путь, металлический человек."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Да прибудет с тобой сила, именем Клюэкса.",
+      "Пусть Клюэкс сделает тебя сильнее."
+    ],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/36",
+        "/converse/avian/avian/35",
+        "/converse/avian/floran/35",
+        "/converse/avian/glitch/35",
+        "/converse/avian/human/35",
+        "/converse/avian/hylotl/35",
+        "/converse/avian/novakid/35"
+      ]
+    },
+    "Texts": {
+      "Eng": "May Kluex make you strong.",
+      "Rus": "Пусть Клюэкс одарит тебя силой."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Пусть возьмёт тебя Клюэкс под крыло."
+    ],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/35",
+        "/converse/avian/avian/34",
+        "/converse/avian/floran/34",
+        "/converse/avian/glitch/34",
+        "/converse/avian/human/34",
+        "/converse/avian/hylotl/34",
+        "/converse/avian/novakid/34"
+      ]
+    },
+    "Texts": {
+      "Eng": "May Kluex take you under his wing.",
+      "Rus": "Да примет Клюэкс тебя под крыло."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "May Kluex's light guide you.",
+      "Rus": "Пусть свет Клюэкса освещает твой путь."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "May the light of Kluex guide you.",
+      "Rus": "Пусть свет Клюэкса направляет тебя."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/38",
+        "/converse/avian/avian/37",
+        "/converse/avian/floran/37",
+        "/converse/avian/glitch/37",
+        "/converse/avian/human/37",
+        "/converse/avian/hylotl/37",
+        "/converse/avian/novakid/37"
+      ]
+    },
+    "Texts": {
+      "Eng": "May the mighty Kluex defend you.",
+      "Rus": "Да защитит тебя могучий Клюэкс."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/42",
+        "/converse/avian/avian/41",
+        "/converse/avian/floran/41",
+        "/converse/avian/glitch/41",
+        "/converse/avian/human/41",
+        "/converse/avian/hylotl/41",
+        "/converse/avian/novakid/41"
+      ]
+    },
+    "Texts": {
+      "Eng": "May you Ascend to Kluex side.",
+      "Rus": "Да Взойдёшь ты на сторону Клюэкса."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/26",
+        "/converse/avian/avian/25",
+        "/converse/avian/floran/25",
+        "/converse/avian/glitch/25",
+        "/converse/avian/human/25",
+        "/converse/avian/hylotl/25",
+        "/converse/avian/novakid/25"
+      ]
+    },
+    "Texts": {
+      "Eng": "May you Ascend.",
+      "Rus": "Да испытаешь ты Восхождение."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Да обретёшь ты свет Клюэкса."
+    ],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/31",
+        "/converse/avian/avian/30",
+        "/converse/avian/floran/30",
+        "/converse/avian/glitch/30",
+        "/converse/avian/human/30",
+        "/converse/avian/hylotl/30",
+        "/converse/avian/novakid/30"
+      ]
+    },
+    "Texts": {
+      "Eng": "May you find Kluex's light.",
+      "Rus": "Желаю тебе обрести свет Клюэкса."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Да осветит Клюэкс твой путь.",
+      "Пусть путь твой освещает Клюэкс."
+    ],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/43",
+        "/converse/avian/avian/42",
+        "/converse/avian/floran/42",
+        "/converse/avian/glitch/42",
+        "/converse/avian/human/42",
+        "/converse/avian/hylotl/42",
+        "/converse/avian/novakid/42"
+      ]
+    },
+    "Texts": {
+      "Eng": "May you walk in the light of Kluex.",
+      "Rus": "Да осветит твой путь свет Клюэкса."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Пусть жизнь твоя будет полна света."
+    ],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/24",
+        "/converse/avian/avian/23",
+        "/converse/avian/floran/23",
+        "/converse/avian/glitch/23",
+        "/converse/avian/human/23",
+        "/converse/avian/hylotl/23",
+        "/converse/avian/novakid/23"
+      ]
+    },
+    "Texts": {
+      "Eng": "May your life be filled with light.",
+      "Rus": "Пусть жизнь твоя наполнится светом."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/glitch/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maybe if you worshipped Kluex he would give you a soul?",
+      "Rus": "Может быть, если ты помолишься Клюэксу, он даст тебе душу?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Приятно встретиться, путешественник."
+    ],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/39",
+        "/converse/avian/avian/38",
+        "/converse/avian/floran/38",
+        "/converse/avian/glitch/38",
+        "/converse/avian/hylotl/38",
+        "/converse/avian/novakid/38"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nice to meet you, traveller",
+      "Rus": "Приятно видеть тебя, путешественник."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/human/38"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nice to meet you, traveller.",
+      "Rus": "Приятно видеть тебя, путешественник."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/human/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "No feathers at all? Kluex have pity on you.",
+      "Rus": "Совсем нет перьев? Жалость Клюэкса падёт на тебя."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oh, um hello.",
+      "Rus": "Ох, эээ привет."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/avian/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oh... Um, so, do you believe in Kluex?",
+      "Rus": "Ох... Эм, ну, ты веришь в Клюэкса?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/avian/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perhaps you should talk to a Stargazer, they might help you get on the right path.",
+      "Rus": "Может быть, тебе стоит поговорить с звездочетом, он может направить тебя на путь истинный."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/human/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sadly, Kluex doesn't welcome those without feathers.",
+      "Rus": "Печально, Клюэкс не приветствует тех кто не носит перьев."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/novakid/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shining like that, you must be born of the heavens!",
+      "Rus": "Сияя так, ты должно быть порождение небес!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/novakid/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thank Kluex, a beautiful celestial being!",
+      "Rus": "Слава Клюэксу, прекрасное неземное создание!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/glitch/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Avoscript doesn't mention robots...",
+      "Rus": "В Авианском завете роботы не не упоминаются..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/hylotl/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Hylotl are creatures of the water, but we Avians are of the air.",
+      "Rus": "Хилотлы существа воды, а Авиане дети воздуха."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/novakid/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Stargazers must hear about you!",
+      "Rus": "Звездочёты должны узнать о тебе!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/hylotl/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Stargazers preach that Avians are the highest race, but you don't seem so lowly.",
+      "Rus": "Звездочёты проповедуют что Авиане высшая раса, но ты похоже не такой приземлённый."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/hylotl/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "This 'pacifism' is an interesting concept.",
+      "Rus": "\"Пацифизм\" - весьма интересная концепция."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/human/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "We sacrificed several humans to Kluex two seasons ago.",
+      "Rus": "Два сезона назад мы принесли в жертву Клюэксу несколько людей. "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/20",
+        "/converse/avian/avian/19",
+        "/converse/avian/floran/19",
+        "/converse/avian/glitch/19",
+        "/converse/avian/human/19",
+        "/converse/avian/hylotl/19",
+        "/converse/avian/novakid/19"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome to our village.",
+      "Rus": "Добро пожаловать в нашу деревню."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/29",
+        "/converse/avian/avian/28",
+        "/converse/avian/floran/28",
+        "/converse/avian/glitch/28",
+        "/converse/avian/human/28",
+        "/converse/avian/hylotl/28",
+        "/converse/avian/novakid/28"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome, visitor.",
+      "Rus": "Добро пожаловать, посетитель."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/human/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Were there any temples to Kluex on Earth?",
+      "Rus": "А на земле были храмы Клюэкса?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/avian/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why not climb the Celestial tower and feel the wind in your feathers?",
+      "Rus": "Почему бы тебе не взобраться на Астрономическую башню и не обратить свои перья к ветру?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "You can never tell another soul, but sometimes I think maybe Kluex isn't so great.",
+      "Rus": "Ты не должен упоминать об этом ни одной живой душе, но иногда я думаю, что Клюэкс не так уж и велик."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/glitch/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "You could probably build some metal wings...",
+      "Rus": "Ты возможно мог бы собрать металлические крылья..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/avian/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "You do worship Kluex, don't you?",
+      "Rus": "Ты ведь поклоняться Клюэксу, не так ли?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/avian/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "You haven't had your head turned by Grounded propaganda, have you?",
+      "Rus": "Тебя же не обратить при помощи пропаганды Приземлённых, не так ли?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/avian/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "You joined the Protectorate? How conducive is that to Kluex worship?",
+      "Rus": "Ты присоединился к Протекторату? Это способствует почитанию Клюэкса?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "You know Kluex created bananas.",
+      "Rus": "Ты знаешь, что Клюэкс создал бананы."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/avian/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "You look strong! Perhaps you could be an Ascendant one day!",
+      "Rus": "Ты силён! Возможно, однажды ты сможешь стать Взошедшим!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/glitch/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "You make me a little uncomfortable - whoever invented you was trying to play god.",
+      "Rus": "Ты заставляешь меня чувствовать себя неуютно - кто бы не изобрёл тебя, пытался играть в бога."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/novakid/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "You must be the work of Kluex!",
+      "Rus": "Ты должно быть проделка Клюэкса."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/avian/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "You seem like a strong warrior, your family must be proud.",
+      "Rus": "Ты похоже сильный воин, твоя семья должно быть очень гордится тобой."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/human/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "You seem strong for a human; Kluex values the strong.",
+      "Rus": "Ты силён для человека; Клюэкс ценит силу."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/novakid/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "You shine like Avolite!",
+      "Rus": "Ты сияешь словно Восходящий Авианин."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/hylotl/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "You should read the Avoscript!",
+      "Rus": "Тебе стоит прочесть Авианский Завет."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/glitch/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You wouldn't be much good as a sacrifice, we'd just get oil all over the altar.",
+      "Rus": "Вряд ли из тебя получится хорошая жертва, мы просто разольём масло по алтарю."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/novakid/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're a Novakid, aren't you?",
+      "Rus": "Ты же Новакид, не так ли?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/novakid/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're so beautiful!",
+      "Rus": "Ты великолепен!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/glitch/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're strong! I suspect you're a good warrior.",
+      "Rus": "Ты силён! Я подозреваю, что ты хороший воин."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/novakid/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're surely the work of Kluex.",
+      "Rus": "Ты определённо работа Клюэкса."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your kind should just respect Big Ape; he's strong, and he's your leader. He is like Kluex.",
+      "Rus": "Ваш род должен уважать Большого Эйпа; он сильный, и он ваш лидер. Он подобен Клюэксу."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/devoutavian.config": [
+        "/converse/avian/hylotl/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your people are described as spiritual, and yet you have no gods... That confuses me.",
+      "Rus": "Ваш вид описывают как высокодуховный, и тем не менее у вас нет богов. Это смущает меня."
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratehallstudent3.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Embarassed. Hopefully nobody notices the coffee stains on my uniform...",
+      "Rus": "Растерян. Надеюсь никто не заметит пятно от кофе на моей униформе..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratehallstudent3.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nervous. Do I look ok? I polished my head this morning.",
+      "Rus": "Нервно. Я нормально выгляжу? Я полировал голову утром."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratehallstudent3.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Regretful. Maybe I should have oiled my joints this morning.",
+      "Rus": "Расстроен. Надо было смазать шарниры сегодня утром."
+    }
+  }
+]

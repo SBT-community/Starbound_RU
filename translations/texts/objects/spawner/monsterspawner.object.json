@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/monsterspawner.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Monster Spawner"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/monsterspawner.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spawns monsters in a variety of configurable ways."
+    }
+  }
+]

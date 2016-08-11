@@ -1,0 +1,124 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodenbed/woodenbed.object": [
+        "/novakidDescription"
+      ],
+      "objects/generic/woodenbed2/woodenbed2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A decent place to get some shut-eye.",
+      "Rus": "Хорошие место, что бы закрыть пару глаз."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodenbed/woodenbed.object": [
+        "/hylotlDescription"
+      ],
+      "objects/generic/woodenbed2/woodenbed2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A good place to close one's eyes.",
+      "Rus": "Хорошие место что бы закрыть глаза."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodenbed/woodenbed.object": [
+        "/apexDescription"
+      ],
+      "objects/generic/woodenbed2/woodenbed2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple wooden bed, nice and comfortable.",
+      "Rus": "Простая деревянная кровать, хорошая и комфортная."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodenbed/woodenbed.object": [
+        "/avianDescription"
+      ],
+      "objects/generic/woodenbed2/woodenbed2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wooden frame and a comfortable mattress. What more could you need?",
+      "Rus": "Деревянный каркас и удобный матрас. Что еще нужно тебе?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodenbed/woodenbed.object": [
+        "/floranDescription"
+      ],
+      "objects/generic/woodenbed2/woodenbed2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran rarely ssleep in ssuch nice bed.",
+      "Rus": "Флориане редко спят в хороших кроватях."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodenbed/woodenbed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/generic/woodenbed2/woodenbed2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "My power levels are low. This bed looks inviting.",
+      "Rus": "Моя энергия на низком уровне. Эта кровать смотрится привлекательной."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Деревянная Кровать"
+    ],
+    "Files": {
+      "objects/generic/woodenbed/woodenbed.object": [
+        "/shortdescription"
+      ],
+      "objects/generic/woodenbed2/woodenbed2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wooden Bed",
+      "Rus": "Деревянная кровать"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodenbed/woodenbed.object": [
+        "/humanDescription"
+      ],
+      "objects/generic/woodenbed2/woodenbed2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your basic, comfy bed.",
+      "Rus": "Твоя главная, удобная кровать."
+    }
+  }
+]

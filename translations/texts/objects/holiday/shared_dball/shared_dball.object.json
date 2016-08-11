@@ -1,0 +1,64 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Радостно. Восхитительное украшение."
+    ],
+    "Files": {
+      "objects/holiday/goldball/goldball.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/holiday/redball/redball.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A lovely decoration.",
+      "Rus": "Восхитительное украшение."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/goldball/goldball.object": [
+        "/floranDescription"
+      ],
+      "objects/holiday/redball/redball.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran kick shiny ball!",
+      "Rus": "Флоран пнет блестящщий шшарик."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/goldball/goldball.object": [
+        "/humanDescription"
+      ],
+      "objects/holiday/redball/redball.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gotta be careful not to smash this bauble.",
+      "Rus": "Нужно быть осторожным, чтобы не разбить эту побрякушку."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/goldball/goldball.object": [
+        "/hylotlDescription"
+      ],
+      "objects/holiday/redball/redball.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's something hypnotising about this shiny ball.",
+      "Rus": "В этом золотом шарике есть что-то чарующее."
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/small/sabertoothfossil.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fossilised sabertooth skull.",
+      "Rus": "Ископаемый череп саблезубого животного."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/small/sabertoothfossil.item": [
+        "/completeSetDescriptions/shortdescription",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sabertooth Skull",
+      "Rus": "Саблезубый череп"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/small/sabertoothfossil.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The label reads, \"Sabertooth are widely recognised fossils, easily identifiable by their elongated canine teeth.\"",
+      "Rus": "Табличка гласит \"Останки саблезубых животных можно легко распознать по характерным удлинённым клыкам.\""
+    }
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Питание новорожденного Флуффало определяет тип, в который он превращается."
+    ],
+    "Files": {
+      "monsters/farming/fluffalobaby/electricfluffalobaby.monstertype": [
+        "/description"
+      ],
+      "monsters/farming/fluffalobaby/firefluffalobaby.monstertype": [
+        "/description"
+      ],
+      "monsters/farming/fluffalobaby/fluffalobaby.monstertype": [
+        "/description"
+      ],
+      "monsters/farming/fluffalobaby/icefluffalobaby.monstertype": [
+        "/description"
+      ],
+      "monsters/farming/fluffalobaby/poisonfluffalobaby.monstertype": [
+        "/description"
+      ],
+      "monsters/farming/mooshibaby/mooshibaby.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A newborn fluffalo's diet determines the type it grows into.",
+      "Rus": "Диета новорожденного Флуффало определяет тип, в который он превратиться."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Теленок Флуффало"
+    ],
+    "Files": {
+      "monsters/farming/fluffalobaby/electricfluffalobaby.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/farming/fluffalobaby/firefluffalobaby.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/farming/fluffalobaby/fluffalobaby.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/farming/fluffalobaby/icefluffalobaby.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/farming/fluffalobaby/poisonfluffalobaby.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/farming/mooshibaby/mooshibaby.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fluffalo Calf",
+      "Rus": "Телёнок Флуффало"
+    }
+  }
+]

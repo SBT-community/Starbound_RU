@@ -1,0 +1,59 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rock14.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/rock14.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likessss pretty granite."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rock14.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/rock14.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks t'me like some basic granite."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rock14.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/rock14.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mining this granite will only produce cobblestone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rock14.matitem": [
+        "/description"
+      ],
+      "tiles/materials/rock14.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stacked natural granite bricks.",
+      "Rus": "Природный гранитный кирпич."
+    }
+  }
+]

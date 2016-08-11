@@ -1,0 +1,386 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/nuru.npctype": [
+        "/scriptConfig/dialog/floranmissionswitch/stuck/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Buuut now you're stuck. The phrase 'slow clap' ssprings to mind. Here; I can open that.",
+      "Rus": "Ну вот ты и застрял. Думал сам справишься? Ладно, я могу открыть её."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/nuru.npctype": [
+        "/scriptConfig/dialog/converse/default/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Florans are often mindlessly savage.",
+      "Rus": "Иногда Флоране бессмысленно жестоки."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/nuru.npctype": [
+        "/scriptConfig/dialog/floranmissionstart/introduction/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here, the Floran spend years honing their prowess, like sskilled craftsman grinding a spearhead...",
+      "Rus": "Ну вот, Флоран годами полирует свою отвагу, как искусный ремесленник, вытачивающий наконечник копья."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/nuru.npctype": [
+        "/scriptConfig/dialog/floranmissionswitch/hello/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey! Over here! I can't believe you made it this far. Nice work.",
+      "Rus": "Эй! Ссюда! Не могу поверить что ты добрался. Отличная работа."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/nuru.npctype": [
+        "/scriptConfig/dialog/boss/fleshy/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hit it! Hit it while it's fleshy!",
+      "Rus": "Бей! Бей пока панцирь не затвердел!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/nuru.npctype": [
+        "/scriptConfig/dialog/converse/default/default/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am seventeen ssummers old.",
+      "Rus": "Я прожила лето уже ссемнадцать раз."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/nuru.npctype": [
+        "/scriptConfig/dialog/converse/default/default/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "I enjoy hunting, but sssometimes it's not enough.",
+      "Rus": "Мне нравится охотится, но иногда этого не достаточно."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/nuru.npctype": [
+        "/scriptConfig/dialog/converse/default/default/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "I participate in The Hunt to show Florans the best way to win is not to fight amongst ourselves.",
+      "Rus": "Я участвую в Охоте чтобы показать Флоранам, что лучший сспособ победить это не драться между ссобой."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/nuru.npctype": [
+        "/scriptConfig/dialog/floranmissionswitch/goodbye/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I think we're close now - I hope you've worked up an appetite!",
+      "Rus": "Думаю что мы уже близко - надеюсь твой аппетит разыгрался!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/nuru.npctype": [
+        "/scriptConfig/dialog/converse/default/default/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "I try not to sspeak with a hisss, but sssometimes I can't help it.",
+      "Rus": "Я сстараюсь не шшипеть, но иногда это ссильнее меня."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/nuru.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm having a snack here whilst the others rush ahead. They can fight it out amongst themselves.",
+      "Rus": "Я тут перекусываю пока остальные ломанулись вперёд. Пусть они там пока передерутся между собой."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/nuru.npctype": [
+        "/scriptConfig/dialog/converse/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've always wanted to see the universe, where are you from?",
+      "Rus": "Всегда мечтала увидеть всселенную, а откуда ты родом?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/nuru.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've been hunting since I was a ssprout and winning since I was a bud.",
+      "Rus": "Я охочусь с тех пор как была ещё ростком и побеждаю с тех пор как стала бутоном."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/nuru.npctype": [
+        "/scriptConfig/dialog/floranmissionstart/introduction/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've gotta ssay, this is pretty impressive! Or at least it will be if you don't get ripped to shreds.",
+      "Rus": "Должна ссказать, это впечатляет! Ну или по крайней мере впечатлит, если тебя не разорвут на кусочки."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/nuru.npctype": [
+        "/scriptConfig/dialog/converse/default/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've heard rumour of beasts far beyond any the Floran have hunted.",
+      "Rus": "До меня доходили слухи о тварях, охотиться на которых не смог бы ни один Флоран."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/nuru.npctype": [
+        "/scriptConfig/dialog/endscene/end/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "In fact... Congratulations! I've just decided your trophy comess with one free Nuru!",
+      "Rus": "А вообще... Поздравляю! Я только что решила, что к твоему призу прилагается одна Нуру, абсолютно бесплатно!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/nuru.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jusst a warning - other hunters will try to stop you winning The Hunt.",
+      "Rus": "Проссто предупреждаю - другие охотники попытаются осстановить тебя."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/nuru.npctype": [
+        "/scriptConfig/dialog/endscene/follow/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now that was ssatisfying! Come on.",
+      "Rus": "Это было здорово! Пошшли."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/nuru.npctype": [
+        "/scriptConfig/dialog/floranmissionstart/introduction/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oh me? I'm ^orange;Nuru^white; - youngest champion in the hisstory of The Hunt.",
+      "Rus": "Кто я? Я ^orange;Нуру^white; - ссамая юная победительница в истории Охоты."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/nuru.npctype": [
+        "/scriptConfig/dialog/converse/default/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "People have a lot of expectations of you when you're a top hunter...",
+      "Rus": "Народ ожидает от тебя многого, когда ты лучший охотник..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/nuru.npctype": [
+        "/scriptConfig/dialog/converse/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some day I'll find a way out of here.",
+      "Rus": "Когда нибудь я выберусь отсюда."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/nuru.npctype": [
+        "/scriptConfig/dialog/endscene/end/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "That was the most fun I've had in ages. It felt good to have ssomeone around who can hold their own.",
+      "Rus": "Это ссамое весёлое, что мне приходилось делать за последние годы. Хорошо что рядом ессть кто-то сспособный постоять за ссебя."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/nuru.npctype": [
+        "/scriptConfig/dialog/converse/default/default/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Floran are not evil. Our tribe's greenfinger taught me to respect life. A lesson many never learn.",
+      "Rus": "Флоране не злые. Ссадовод нашего племени научил меня ценить жизнь. Урок, который даётся не всем."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/nuru.npctype": [
+        "/scriptConfig/dialog/boss/shellbroken/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The shell is broken! Now is the chance to strike!",
+      "Rus": "Панцирь пробит! Атакуй, это нашш шшанс! "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/nuru.npctype": [
+        "/scriptConfig/dialog/floranmissionstart/introduction/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Then they mostly die... Anyhow, good luck!",
+      "Rus": "Потом большинство умирает... Тем не менее, удачи!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/nuru.npctype": [
+        "/scriptConfig/dialog/converse/default/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "There must be more out there than hunting.",
+      "Rus": "Охота это гораздо больше чем кажется."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/nuru.npctype": [
+        "/scriptConfig/dialog/startboss/start/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is going to be fun.",
+      "Rus": "Это будет весело."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/nuru.npctype": [
+        "/scriptConfig/dialog/startboss/intro/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This iss much bigger than last year's prey. Finally! A proper challenge!",
+      "Rus": "Эта шштука больше чем в прошлом году. Наконец-то! Настоящий вызов!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/nuru.npctype": [
+        "/scriptConfig/dialog/floranmissionstart/end/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Watch out for the other hunters!",
+      "Rus": "Берегиссь других охотников!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/nuru.npctype": [
+        "/scriptConfig/dialog/boss/finish/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "We've nearly defeated it. Finish it off!",
+      "Rus": "Мы почти добили её. Расправься с ней!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/nuru.npctype": [
+        "/scriptConfig/dialog/floranmissionstart/introduction/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Woah! An outssider! Are you seriously here for The Hunt? Got to respect that ssort of misguided bravery.",
+      "Rus": "Ого! Посторонний! Ты ссерьёзно пришёл на Охоту? Надо отдать должное твоей ложной ссмелости."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/nuru.npctype": [
+        "/scriptConfig/dialog/endscene/smalltalk/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You know, that really was pretty impresssive.",
+      "Rus": "Знаешшь, это было довольно впечатляющще."
+    }
+  }
+]

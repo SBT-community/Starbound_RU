@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/nurufight.npctype": [
+        "/scriptConfig/dialog/leave/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm off, see ya later!",
+      "Rus": "Мне пора, увидимсся!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/nurufight.npctype": [
+        "/scriptConfig/dialog/attack/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Taste my ssspear!",
+      "Rus": "Познакомьсся с моим копьём!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/nurufight.npctype": [
+        "/scriptConfig/dialog/start/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "These robed huntersss want a fight. Let's show them a bad time!",
+      "Rus": "Эти охотники в капюшонах хотят битьсся. Пусть пожалеют об этом!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/nurufight.npctype": [
+        "/scriptConfig/dialog/attack/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thiss is my kind of party!",
+      "Rus": "Повеселимсся!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/nurufight.npctype": [
+        "/scriptConfig/dialog/attack/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You can't hope to beat a hunter like me!",
+      "Rus": "Даже не надейсся побить такого охотника, как я!"
+    }
+  }
+]

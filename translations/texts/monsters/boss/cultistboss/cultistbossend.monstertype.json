@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/cultistboss/cultistbossend.monstertype": [
+        "/baseParameters/dialog/intro/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hhnn... You're ridiculously stubborn, aren't you? Esther's really tuned your head... I think I'll cut it off.",
+      "Rus": "Хмм... Ты до смешного упрямый, не так ли? Эстер действительно повернула твою голову... Я думаю отрезать её. "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/cultistboss/cultistbossend.monstertype": [
+        "/baseParameters/dialog/death/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Ruin will still awaken, and soon cleanse this universe of ALL BUT HUMANS!",
+      "Rus": "Разрушитель все равно пробудится, и очистит Вселенную от всех, КРОМЕ ЛЮДЕЙ!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/cultistboss/cultistbossend.monstertype": [
+        "/baseParameters/dialog/death/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You don't understand do you? You still haven't won!",
+      "Rus": "Ты что, не понимаешь? Тебе не победить!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/cultistboss/cultistbossend.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "cultistbossend",
+      "Rus": "последний босс культистов"
+    }
+  }
+]

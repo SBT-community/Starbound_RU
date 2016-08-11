@@ -1,0 +1,58 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/floodlightsmall/floodlightsmall.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/hylotl/underwaterlight/underwaterlight.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A waterproof light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/floodlightsmall/floodlightsmall.object": [
+        "/humanDescription"
+      ],
+      "objects/hylotl/underwaterlight/underwaterlight.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a light designed to function when exposed to water."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/floodlightsmall/floodlightsmall.object": [
+        "/floranDescription"
+      ],
+      "objects/hylotl/underwaterlight/underwaterlight.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lightbulb."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/floodlightsmall/floodlightsmall.object": [
+        "/avianDescription"
+      ],
+      "objects/hylotl/underwaterlight/underwaterlight.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This light appears to be waterproof so it can work in open water."
+    }
+  }
+]

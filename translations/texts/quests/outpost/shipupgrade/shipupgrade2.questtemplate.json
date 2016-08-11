@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/shipupgrade/shipupgrade2.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You have four crew members! With a crew this size, you now qualify for the Kestrel License. Congratulations! ^green;Visit Penguin Pete^reset; with ^orange;4 Upgrade Modules^reset; to upgrade your ship.",
+      "Rus": "У Вас теперь четыре члена экипажа! С такой командой Вы можете управлять кораблём класса Пустельга. Поздравляем! ^green;Навестите пингвина Пита^reset;, имея при себе ^orange;4 Модуля Улучшений^reset;, чтобы улучшить свой корабль."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/shipupgrade/shipupgrade2.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Kestrel Ship Upgrade",
+      "Rus": "^green;Улучшение Корабля - Класс Пустельга"
+    }
+  }
+]

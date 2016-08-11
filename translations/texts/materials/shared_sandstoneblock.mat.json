@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sandstoneblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/sandstoneblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bricks made from smoothed sandstone.",
+      "Rus": "Кирпичи, сделанные из шлифованного песчаника."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sandstoneblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/sandstoneblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sandstone Bricks",
+      "Rus": "Кирпич из песчаника"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sandstoneblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/sandstoneblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some bricks made outta sandstone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sandstoneblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/sandstoneblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssturdy ssandstone brickss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sandstoneblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/sandstoneblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These bricks are made from a strong sandstone."
+    }
+  }
+]

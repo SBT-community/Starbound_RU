@@ -1,0 +1,338 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/giveRelic/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "... I see what you were up to! The whole time!!",
+      "Rus": "...Я знал, что ты затеваешь! Всё это время!!!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/end/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "A teleporter! Thank Kluex! Oh, he's so wonderful.",
+      "Rus": "Телепортер! Хвала Клюэксу! Ох, он удивителен."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/doorGreeting/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Actually, I shouldn't be here either - I've not been this deep into the temple before...",
+      "Rus": "Вообще, мне тут тоже нельзя быть - никогда не заходил так глубоко в храм..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/start/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you here to learn about our wondrous god Kluex? I'd be very pleased to help! I'll show you around.",
+      "Rus": "Ты здесь, чтобы узнать больше о нашем чудесном боге, Клюэксе? В этом я всегда рад помочь. Пойдём."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/altarDescription/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gosh! He is mighty and wondrous, isn't he?",
+      "Rus": "Он всемогуч и чудесен, не правда ли?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/statueDescription/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "He doesn't use them anymore, because, um, he's dead.",
+      "Rus": "Но они ему уже не нужны, потому что он, эм, мёртв."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/start/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I know you'd never dream of taking anything, but not all people are as trustworthy. It's quite upsetting...",
+      "Rus": "Я знаю, что у тебя и в мыслях ничего такого не было, но, к сожалению, не всем можно доверять..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/giveRelic/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a sign that this artifact is here for you: these Avolite crystals hold fragments of Kluex's will!",
+      "Rus": "Это значит, что этот артефакт твой по праву: в кристаллах Аволита скрыты частички силы Клюэкса!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/feelingTired/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mm, so nice to make a new friend. But these tours are... A bit... Tiring...",
+      "Rus": "Мм, так приятно заводить друзей. Но эти экскурсии, они... Слегка... Утомляют..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/start/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oh!... A visitor!",
+      "Rus": "О!... Посетитель!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/doorGreeting/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oh, there you are! I'm so relieved you're safe! I suppose you got lost...You really shouldn't be here...",
+      "Rus": "О, вот ты где! Хорошо, что с тобой ничего не случилось! Я думал, ты потерялся... Ведь тебе тут нельзя быть..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/start/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "One thing though, please don't touch anything. You see, we've had problems with theft in the past.",
+      "Rus": "Только, пожалуйста, ничего не трогай. У нас были некоторые инциденты с ворами в прошлом."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/feelingTired/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "PLEASE don't try and go further in, it's just too dangerous...",
+      "Rus": "ПРОШУ, не ходи дальше вглубь храма, это слишком опасно..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/continue/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Please do come in! Mind your head, and your feet, and your... self. It can be a bit dangerous in here.",
+      "Rus": "Пожалуйста, заходи! Присматривай за своей головой, за ногами...и вообще за собой. Тут иногда чуть опасно."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/giveRelic/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Please, let me join you? I'm a dedicated and enthusiastic servant of Kluex - I promise I'm worthy!",
+      "Rus": "Прошу, можно мне пойти с тобой? Я преданный и истовый слуга Клюэкса - обещаю, что не подведу!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/endTour/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sadly this is the last door that's open to our visitors. Only caretakers and almighty deities beyond this point.",
+      "Rus": "Жаль, но, эта последняя дверь закрыта для посетителей. Только хранители и жрецы могут войти."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/endTour/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's lovely items in the chambers above, then you leave by coming back this way. Let me get the door.",
+      "Rus": "Впрочем, наверху тоже есть что посмотреть. Пойдём, сейчас я открою нам."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/maskDescription/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "These ceremonial masks are very ancient, and imbued with the cosmic power of Kluex. We think.",
+      "Rus": "Эти церемониальные маски очень древние и наполнены мощью Клюэкса. Ну, мы так думаем."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/maskDescription/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "They're so ancient we've sort of lost track... But we know for sure that Kluex is a big fan of ceremonial masks!",
+      "Rus": "Они такие древние; не похоже, что мы на верном пути. Но мы точно знаем, что Клюэкс обожал маски!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/doorOpened/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door is a little too small for me. I'm sure you'll fit though.",
+      "Rus": "Эта дверь слишком узкая для меня. А вот ты, я уверен, протиснешься."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/statueDescription/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is a statue of an old Avian warrior! These are his spears...",
+      "Rus": "Это статуя старого авианского воина! Вот тут копья..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/altarDescription/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is our sacrificial altar. It's a very fine example. These grooves channel the blood along its full length.",
+      "Rus": "Это наш священный алтарь. Вот смотри - повсюду канавки для стока крови."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/altarDescription/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This temple was one of those built by Kluex himself.",
+      "Rus": "А храм - один из тех, что построил сам Клюэкс."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/doorGreeting/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Truthfully, um, I'm lost too... But between us I'm sure we can find a way back!",
+      "Rus": "Если честно, похоже, что я и сам потерялся... Но, между нами, я уверен, что мы сможем выбраться!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/start/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome to the temple! It's lovely to have you here. I'm ^orange;Tonauac^white;, the temple caretaker.",
+      "Rus": "Добро пожаловать в храм! Приятно видеть тебя здесь. Я - ^orange;Тонуаук^white;, хранитель храма."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/endTour/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Well, I hope you enjoyed the tour! Please feel free to have a wander round. ",
+      "Rus": "Что ж, я надеюсь, тебе было интересно! Можешь ещё немного побродить тут."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/doorOpened/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You have a check around through there, and I'll hunt about for an exit on this side.",
+      "Rus": "Посмотри пока что там, а я поищу выход с этой стороны."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/giveRelic/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're here to serve Kluex! I mean, you simply couldn't have gotten this far without his favour and guidance.",
+      "Rus": "Ты здесь, чтобы служить Клюэксу! В смысле, ты же не мог зайти так далеко без его помощи."
+    }
+  }
+]

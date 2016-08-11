@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/savannahbush/savannahbush.bush": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A brittle, dead bush.",
+      "Rus": "Хрупкий, засохший кустарник."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/savannahbush/savannahbush.bush": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dead bush.",
+      "Rus": "Завядшшший кустарник."
+    }
+  }
+]

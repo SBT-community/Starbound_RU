@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [
+      " Висячие осколки льда."
+    ],
+    "Files": {
+      "plants/bushes/ceiling/ceilingicepolys/ceilingicepolys.bush": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hanging ice shards.",
+      "Rus": "Висячие осколки льда."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ceiling/ceilingicepolys/ceilingicepolys.bush": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Icy ssshards.",
+      "Rus": "Ледяные оссколки."
+    }
+  }
+]

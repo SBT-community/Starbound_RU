@@ -1,0 +1,39 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/strange/strange.grass": [
+        "/description",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bizarre plant.",
+      "Rus": "Причудливое растение."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/strange/strange.grass": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ugly plant.",
+      "Rus": "Уродливое растение."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/strange/strange.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weird plant. Floran relate to it.",
+      "Rus": "Странное растение. Флораны связаны с ними."
+    }
+  }
+]

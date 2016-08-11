@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/museum/museumfloranvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran thinkss there should be more Floran things.",
+      "Rus": "Флоран думает тут должно быть больше Флоранских вещей."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/museum/museumfloranvisitor.npctype": [
+        "/scriptConfig/dialog/converse/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Museum should have more Floran thingsss, don't you agree?",
+      "Rus": "В музее должно быть больше вещей Флоран, вы сссогласны?"
+    }
+  }
+]

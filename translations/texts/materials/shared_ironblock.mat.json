@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Прочный железный блок."
+    ],
+    "Files": {
+      "items/materials/ironblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/ironblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A solid iron block.",
+      "Rus": "Цельной железный блок."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ironblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/ironblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cold iron metal blockss.",
+      "Rus": "Холодные железные металлические блоки."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Блок железа"
+    ],
+    "Files": {
+      "items/materials/ironblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/ironblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Iron Block",
+      "Rus": "Железный блок"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ironblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/ironblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's nice to see iron used in construction.",
+      "Rus": "Приятно видеть использование железа в строительстве. "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ironblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/ironblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These blocks are crafted outta iron.",
+      "Rus": "Эти блоки смастерены из железа."
+    }
+  }
+]

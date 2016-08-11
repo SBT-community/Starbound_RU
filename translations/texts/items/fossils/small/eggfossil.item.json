@@ -1,0 +1,39 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/small/eggfossil.item": [
+        "/completeSetDescriptions/shortdescription",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Egg Fossil",
+      "Rus": "Ископаемое яйцо"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/small/eggfossil.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fossilised egg.",
+      "Rus": "Окаменевшее яйцо"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/small/eggfossil.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The label reads, \"The egg of an ancient creature, frozen in time before it ever truly lived.\"",
+      "Rus": "Надпись гласит: \"Это яйцо ископаемого существа, замершего во времени, которое так и не стало действительно живым\""
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/podchest/podchest.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/generic/weaponchest/weaponchest.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "No time to waste, open it up!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/podchest/podchest.object": [
+        "/hylotlDescription"
+      ],
+      "objects/generic/weaponchest/weaponchest.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Presents are most exciting when they're still wrapped."
+    }
+  }
+]

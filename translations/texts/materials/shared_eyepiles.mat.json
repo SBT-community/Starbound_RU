@@ -1,0 +1,77 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/eyepiles.matitem": [
+        "/description"
+      ],
+      "tiles/materials/eyepiles.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tumbling heap of squishy eyeballs.",
+      "Rus": "Куча глазных яблок."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/eyepiles.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/eyepiles.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Other than those on top of the pile, most of these eyes will only ever know darkness.",
+      "Rus": "Большинство из этих глаз, в глубине кучи, никогда не увидят свет."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/eyepiles.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/eyepiles.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pile of Eyes",
+      "Rus": "Куча глаз"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/eyepiles.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/eyepiles.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some of these eyes are lookin' right at me.",
+      "Rus": "Некоторые из этих глаз смотрят на меня."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/eyepiles.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/eyepiles.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssquisshy eyess!",
+      "Rus": "Ссскользкие глаза!"
+    }
+  }
+]

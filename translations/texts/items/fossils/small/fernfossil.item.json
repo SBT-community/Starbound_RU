@@ -1,0 +1,39 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/small/fernfossil.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fossilised fern.",
+      "Rus": "окаменевший папоротник"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/small/fernfossil.item": [
+        "/completeSetDescriptions/shortdescription",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fern Fossil",
+      "Rus": "Ископаемый Папоротник"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/small/fernfossil.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The label reads, \"Fossilised fern leaves are evidence of organic life from millenia ago.\"",
+      "Rus": "На этикетке написано: \"Окаменелые листья папоротника свидетельствуют о органической жизни из тысячелетий назад\"."
+    }
+  }
+]

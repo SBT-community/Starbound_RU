@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/protectorate.questtemplate": [
+        "/scriptConfig/descriptions/graduate"
+      ]
+    },
+    "Texts": {
+      "Eng": "Attend your graduation ceremony",
+      "Rus": "Прибудьте на Вашу выпускную церемонию."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/protectorate.questtemplate": [
+        "/scriptConfig/descriptions/escape"
+      ]
+    },
+    "Texts": {
+      "Eng": "Escape the destruction",
+      "Rus": "Бегите отсюда!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/protectorate.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Survive graduation day.",
+      "Rus": "Останьтесь в живых в свой выпускной день."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/protectorate.questtemplate": [
+        "/scriptConfig/descriptions/matterManipulator"
+      ]
+    },
+    "Texts": {
+      "Eng": "Take the matter manipulator",
+      "Rus": "Возьмите Манипулятор Материи"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/protectorate.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Protectorate",
+      "Rus": "Протекторат"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/protectorate.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The years of training paid off - you survived graduation day!",
+      "Rus": "Годы обучения окупились - Вы выжили в выпускной день!"
+    }
+  }
+]

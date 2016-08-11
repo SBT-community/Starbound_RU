@@ -1,0 +1,72 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/techlab/techlabconsole2.object": [
+        "/humanDescription"
+      ],
+      "objects/upgrade/techconsole/techconsole.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can equip techs here! What a handy machine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/techlab/techlabconsole2.object": [
+        "/apexDescription"
+      ],
+      "objects/upgrade/techconsole/techconsole.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This complex machine allows me to equip techs."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/techlab/techlabconsole2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/upgrade/techconsole/techconsole.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This console allows me to equip and remove techs."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/techlab/techlabconsole2.object": [
+        "/floranDescription"
+      ],
+      "objects/upgrade/techconsole/techconsole.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This consssole lets Floran equip techs! New techsss always very exciting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/techlab/techlabconsole2.object": [
+        "/novakidDescription"
+      ],
+      "objects/upgrade/techconsole/techconsole.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "With a little know-how, I can use this machine to equip techs."
+    }
+  }
+]

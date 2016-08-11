@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/craftingfood.config": [
+        "/paneLayout/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Kitchen Counter",
+      "Rus": "Кухонный стол"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/craftingfood.config": [
+        "/paneLayout/lblProduct/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "INGREDIENTS AVAILABLE",
+      "Rus": "ДОСТУПНЫЕ ИНГРИДИЕНТЫ"
+    }
+  }
+]

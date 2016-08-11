@@ -1,0 +1,41 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/logic/xor.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An /'XOR'/ sswitch. Requiresss one input to be on, and one off.",
+      "Rus": "Логическая операция XOR. Нужно, чтобы один вход был включен, а второй - нет."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Логическая операция /'исключающего или'/. Нужно, чтобы один вход был включен, а другие - выключены."
+    ],
+    "Files": {
+      "objects/wired/logic/xor.object": [
+        "/description",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "An /'XOR'/ switch. Requires one input to be on, and one off.",
+      "Rus": "Логическая операция XOR. Нужно, чтобы один вход был включен, а второй - нет."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/logic/xor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "XOR Switch",
+      "Rus": "Логическая операция XOR"
+    }
+  }
+]

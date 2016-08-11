@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Утончённо оформленная изысканная черепица."
+    ],
+    "Files": {
+      "items/materials/ornatetiles.matitem": [
+        "/description"
+      ],
+      "tiles/materials/ornatetiles.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Exquisite ornate roof tiles.",
+      "Rus": "Изящная черепица."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornatetiles.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/ornatetiles.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran appreciatess nice ornate tiling.",
+      "Rus": "Флоран оценил изысканную черепицу."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornatetiles.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/ornatetiles.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ornate Tiles",
+      "Rus": "Изысканная черепица"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornatetiles.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/ornatetiles.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Similar tiles can often be found in traditional roof design.",
+      "Rus": "Похожие плитки используются в традиционном дизайне крыш."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornatetiles.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/ornatetiles.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ornate tiling really classes the place up.",
+      "Rus": "Эта классная черепица может украсить любую крышу."
+    }
+  }
+]

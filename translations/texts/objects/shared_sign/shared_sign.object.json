@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/pumpsign/pumpsign.object": [
+        "/hylotlDescription"
+      ],
+      "objects/mission/miningpowersign/miningpowersign.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A soft glowing sign."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/pumpsign/pumpsign.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/mission/miningpowersign/miningpowersign.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This low power sign has two states."
+    }
+  }
+]

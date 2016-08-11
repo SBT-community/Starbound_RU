@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/voxel1k.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "1000 pixels compressed into a voxel. Decompress it to get those pixels back.",
+      "Rus": "1000 пикселей прессуются в воксель. Распакуйте его, чтобы получить пиксели обратно."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/voxel1k.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "1k Voxel",
+      "Rus": "1к Воксель"
+    }
+  }
+]

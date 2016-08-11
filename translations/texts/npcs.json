@@ -1,0 +1,750 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Под этим жёлтым костюмом моё сердце бьётся за любовь к открытию!"
+    ],
+    "Files": {
+      "npcs/biome/hazmatscientist.npctype": [
+        "/scriptConfig/dialog/converse/default/default/14"
+      ],
+      "npcs/outpost/visitors/hazmatvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beneath this yellow suit, my heart beats for the love of discovery!",
+      "Rus": "Под этим желтым костюмом бьётся сердце из-за любви к открытиям!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Ты только что смехотворно взглянул на меня?",
+      "Я что, по-твоему смешной?"
+    ],
+    "Files": {
+      "npcs/dungeon/evilfortress/evilknight.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/2/glitchEmotedText"
+      ],
+      "npcs/dungeon/evilfortress/executioner.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/1/glitchEmotedText"
+      ],
+      "npcs/threats/glitchthief.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did you just look at me funny?",
+      "Rus": "Ты нашел что-то смешное во мне?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Земля уничтожена, как и большинство произведений искусства!"
+    ],
+    "Files": {
+      "npcs/outpost/visitors/socialitevisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ],
+      "npcs/tenants/socialite.npctype": [
+        "/scriptConfig/dialog/converse/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Earth is lost, and some much fine art with it!",
+      "Rus": "Земля потеряна, как и произведения что там были!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Свежий воздух и свобода! Вот эта жизнь по мне!",
+      "Свежий воздух и свобода, эта жизнь для меня!"
+    ],
+    "Files": {
+      "npcs/outpost/visitors/piratevisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ],
+      "npcs/tenants/avianairship.npctype": [
+        "/scriptConfig/dialog/converse/avian/avian/3",
+        "/scriptConfig/dialog/converse/avian/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fresh air and freedom, that's the life for me!",
+      "Rus": "Свежий воздух и свобода, вот такая жизнь по мне!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Привет странник, не против если я присоединюсь к тебе?"
+    ],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/default/default/0"
+      ],
+      "npcs/follower.npctype": [
+        "/scriptConfig/dialog/follower/join/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hello adventurer, mind if I join you?",
+      "Rus": "Привет путешественник, не против если я присоединюсь к тебе?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Я самый прекрасно одетый гость, куда бы я не отправился!"
+    ],
+    "Files": {
+      "npcs/outpost/visitors/socialitevisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ],
+      "npcs/tenants/socialite.npctype": [
+        "/scriptConfig/dialog/converse/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am the finest dressed individual at any establishment I visit!",
+      "Rus": "Моя особа имеет лучшее платье на любом из приёмов!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Я присоединился к команде воздушного корабля когда перестал верить в Клюэкса. Счастливые дни воздушных путешествий."
+    ],
+    "Files": {
+      "npcs/outpost/visitors/piratevisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ],
+      "npcs/tenants/avianairship.npctype": [
+        "/scriptConfig/dialog/converse/avian/avian/2",
+        "/scriptConfig/dialog/converse/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I joined an airship crew when I stopped believing in Kluex. Happy days riding the wind.",
+      "Rus": "Я присоединился к экипажу корабля когда утратил веру в Клюэкса. Счастливые дни покорения ветра."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Я предпочитаю считать себя космическим пионером. Не то чтобы я много пионерил..."
+    ],
+    "Files": {
+      "npcs/furniture/retroscifi.npctype": [
+        "/scriptConfig/dialog/converse/default/default/8"
+      ],
+      "npcs/outpost/visitors/spacepioneer.npctype": [
+        "/scriptConfig/dialog/converse/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I like to think of myself as a space pioneer. Not that I do much pioneering...",
+      "Rus": "Я предпочитаю думать о себе, как о пионере космоса. Не то чтобы я много пионерствовал, но..."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Я просто подожду здесь."
+    ],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/default/default/0"
+      ],
+      "npcs/follower.npctype": [
+        "/scriptConfig/dialog/follower/wait/default/default/0"
+      ],
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/wait/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll just wait here.",
+      "Rus": "Я подожду тут."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Я - пионер, космический исследователь. Я открываю новые, потрясающие миры.",
+      "Я пионер, исследователь космоса. Я открываю новые, захватывающие миры."
+    ],
+    "Files": {
+      "npcs/furniture/retroscifi.npctype": [
+        "/scriptConfig/dialog/converse/default/default/6"
+      ],
+      "npcs/outpost/visitors/spacepioneer.npctype": [
+        "/scriptConfig/dialog/converse/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm a pioneer, of the space travel kind. I'm exploring new, exciting worlds."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Я ищу подходящую планету на замену Земле. Еще не нашел ничего идеального. Но это только пока!"
+    ],
+    "Files": {
+      "npcs/furniture/retroscifi.npctype": [
+        "/scriptConfig/dialog/converse/default/default/5"
+      ],
+      "npcs/outpost/visitors/spacepioneer.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm searching for a suitable replacement for Earth. I haven't found anywhere ideal, yet!",
+      "Rus": "Я ищу подходящую замену Земле. Пока еще не было ни одной идеальной. Но это пока!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Нарушитель!",
+      "Чужак!"
+    ],
+    "Files": {
+      "npcs/dungeon/humanprison/prisonberserker.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/dungeon/humanprison/prisonbruiser.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/mission/florangladiator.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/mission/floranpredator.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/threats/florancannibal.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intruder!",
+      "Rus": "Посторонний!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Человек-личинка говорит:  Лучше синица в руке, чем утка под кроватью."
+    ],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: A bush in each hand is worth two birds.",
+      "Rus": "Человек-личинка говорит: Лучше синица в руках, чем лебедь, рак и щука."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Человек-личинка говорит:  Кровь как густая вода."
+    ],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/13"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: Blood is like thick water.",
+      "Rus": "Человек-личинка говорит: Муж и жена - одна сатана, обутый в два сапога."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Человек-личинка говорит: Мертвец может заговорить тебя до смерти."
+    ],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/16"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: Dead men have no tails.",
+      "Rus": "Человек-личинка говорит: С глаз долой, вниз головой."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Человек-личинка говорит: У меня припрятано семь пятниц в рукаве."
+    ],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/15"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: Dogs every day.",
+      "Rus": "Человек-личинка говорит: Будет и на моей улице грязно."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Человек-личинка говорит:  Дарёному коню под хвост не заглядывают."
+    ],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/11"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: Don't put a gift in a horse's mouth.",
+      "Rus": "Человек-личинка говорит: Дарёный конь борозды не испортит."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Человек-личинка говорит:  Не пытайся делать дело, не погуляв смело."
+    ],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/18"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/18"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: Don't try to walk and talk if you can't.",
+      "Rus": "Человек-личинка говорит: Под лежачий камень попало дитя без глазу."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Человек-личинка говорит: Корми руки, которые тебя кусают."
+    ],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/9"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: Feed hands to those who bite you.",
+      "Rus": "Человек-личинка говорит: Не корми руку, что кусает тебя."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Человек-личинка говорит: Лучше сто раз услышать, чем один раз увидеть."
+    ],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/21"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/21"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: I have a thousand pictures of words.",
+      "Rus": "Человек-личинка говорит: Ни в сказке сказать, ни пером пощекотать."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Человек-личинка говорит:  Жаль, что тебе пришлось почуять это."
+    ],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/14"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: I haven't seen or heard any children.",
+      "Rus": "Человек-личинка говорит: Каждый сверчок знает свои слабые стороны."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Человек-личинка говорит: Разбитые яйца не плачут."
+    ],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/3"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: It's really hard to cry spilt milk.",
+      "Rus": "Человек-личинка говорит: Не разбив яиц, популяцию кур не уничтожишь."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Человек-личинка говорит: Что упало - то испачкалось."
+    ],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/24"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/24"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: Keep finding weeping losers.",
+      "Rus": "Человек-личинка говорит: Кто-то теряет, кто-то уходит."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Человек-личинка говорит: Люблю жечь глаголом сердца людей по утрам."
+    ],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/4"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: Mighty swords are not good pens.",
+      "Rus": "Человек-личинка говорит: Что вырублено топором - не перепишешь пером."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Человек-личинка говорит:  Хотел бы я знать, что у меня на уме."
+    ],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/25"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/25"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: My thoughts are all pennies.",
+      "Rus": "Человек-личинка говорит: Слово не воробей - а ничего не видит."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Человек-личинка говорит: Никогда не облагай суд книгами."
+    ],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/10"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: Never cover a Judge with books.",
+      "Rus": "Человек-личинка говорит:  Не суди обложку по содержимому."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Человек-личинка говорит: Есть время бросать камни и время быть побитым камнями."
+    ],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/7"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: Never watch boiling pots.",
+      "Rus": "Человек-личинка говорит:  Когда чего-то ждёшь - время тянется незаметно."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Человек-личинка говорит: Можно сжечь одну веточку, а пучок веточек горит ещё лучше."
+    ],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/5"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: Norman is an island.",
+      "Rus": "Человек-личинка говорит: Один в поле не болен."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Человек-личинка говорит:  Чья бы корова мычала, а твоя споёт."
+    ],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/6"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: People who have stones should not throw glass houses.",
+      "Rus": "Человек-личинка говорит: В чужом глазу соринку вижу, а в мой глаз смотрит бездна."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Человек-личинка говорит:  Подавай свои блюда холодными, так же как и месть."
+    ],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/19"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/19"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: Serve all your dishes cold, as revenge.",
+      "Rus": "Человек-личинка говорит: Месть - это блюдо, которое раздают голодным."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Человек-личинка говорит: От греха пораньше."
+    ],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/22"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/22"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: Sleeping dogs are liars.",
+      "Rus": "Человек-личинка говорит: Не буди лихо, пока будильник не прозвонит."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Человек-личинка говорит: Научи рыбу есть людей, и она будет ловить их всю жизнь."
+    ],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: Teach a fish to eat, and he'll man for a lifetime.",
+      "Rus": "Человек-личинка говорит: Научи человека рыбачить - и он найдёт тихий омут."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Человек-личинка говорит:  Не разлей компот."
+    ],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/12"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: Thieves are thick.",
+      "Rus": "Человек-личинка говорит: Если встретил женщину с пустым ведром - значит ты не разлей вода."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Человек-личинка говорит:  Сегодня мои часы дважды показывали неверное время."
+    ],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/17"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/17"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: Today my clock broke twice.",
+      "Rus": "Человек-личинка говорит: Даже сломанные часы два раза в год стреляют."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Человек-личинка говорит: Если все пойдут с моста прыгать, то мне достанется апельсин целиком.",
+      "Человек-личинка говорит: Плюс на плюс почти получается минус."
+    ],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: Two wrongs almost make a left."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Человек-личинка говорит: С волками жить - по собачьи лаять?"
+    ],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/26"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/26"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: When is Rome?",
+      "Rus": "Человек-личинка говорит: С волками жить - по волкам бить?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Человек-личинка говорит: Ты то, что ты видишь."
+    ],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/23"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/23"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: You are what you see when you get.",
+      "Rus": "Человек-личинка говорит: Ты - то, что ты есть."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Человек-личинка говорит: А вы друзья, как ни садитесь, стульев на всех всё равно не хватит."
+    ],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/8"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: You can make two broths with many cooks.",
+      "Rus": "Человек-личинка говорит: У семи нянек глазастое дитя."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Человек-личинка говорит: С одного вола и семь шкур сдерешь."
+    ],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/20"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/20"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: Your cat has more than one skin.",
+      "Rus": "Человек-личинка говорит: Если гора не идёт, то это нормальный порядок вещей."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/furniture/retroscifi.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ],
+      "npcs/outpost/visitors/spacepioneer.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Space travel is meant to be about optimism! Remember that.",
+      "Rus": "Космические путешествия - это оптимизм! Запомни это."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/furniture/retroscifi.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ],
+      "npcs/outpost/visitors/spacepioneer.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "To explore the unknowns of space is pretty important to a pioneer like me.",
+      "Rus": "Исследование неизвестных частей космоса очень важно для пионеров, вроде меня."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Йо-хо-хо, эта Приземлённая жизнь для меня!"
+    ],
+    "Files": {
+      "npcs/outpost/visitors/piratevisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ],
+      "npcs/tenants/avianairship.npctype": [
+        "/scriptConfig/dialog/converse/avian/avian/1",
+        "/scriptConfig/dialog/converse/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yo-ho-ho, it's the Grounded life for me!",
+      "Rus": "Йо-хо-хо, вот тебе и жизнь Приземлённого!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Зря ты с нами связался!"
+    ],
+    "Files": {
+      "npcs/dungeon/evilfortress/evilknight.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/0/glitchEmotedText"
+      ],
+      "npcs/threats/glitchthief.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You do not want to mess with us!",
+      "Rus": "Не стоит тебе связываться с нами!"
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shroomblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/shroomblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A block made of soft fungus.",
+      "Rus": "Блок, целиком состоящий из мицелия."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shroomblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/shroomblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ain't that somethin'. Seems this block is made from mushrooms."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shroomblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/shroomblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Although assembled as a block, this mushroom is alive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shroomblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/shroomblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lovely mushroomss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shroomblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/shroomblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mushroom Block",
+      "Rus": "Грибной блок"
+    }
+  }
+]

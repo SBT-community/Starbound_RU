@@ -1,0 +1,77 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tentaclepipe.matitem": [
+        "/description"
+      ],
+      "tiles/materials/tentaclepipe.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large tentacle",
+      "Rus": "Это большие щупальца."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tentaclepipe.matitem": [
+        "/floranDescription"
+      ],
+      "tiles/materials/tentaclepipe.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Big sstrong tentacless.",
+      "Rus": "Большие ссильные щупальца."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tentaclepipe.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/tentaclepipe.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Large Tentacle",
+      "Rus": "Большие щупальца"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tentaclepipe.matitem": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/tentaclepipe.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks t'me like some kinda tentacle.",
+      "Rus": "Как по мне - щупальце какое-то."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tentaclepipe.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/tentaclepipe.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This tentacle is certainly from something quite large.",
+      "Rus": "Это щупальце, конечно, очень большое."
+    }
+  }
+]

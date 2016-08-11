@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenaadvisor1.npctype": [
+        "/scriptConfig/dialog/converse/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Berserker's electric blade will slow your movement leaving you vulnerable to Bruiser's attacks. Keep your distance.",
+      "Rus": "Электрическое лезвие берсеркера  будет замедлять тебя, делая уязвимым для атак Бузана. Держите дистанцию."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenaadvisor1.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bruiser is the largest, and strongest of the gladiators, but size makes him slow and easy to outrun.",
+      "Rus": "Бузан является самым крупным и сильным из гладиаторов, но размер делает его медленным и его легко обогнать."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenaadvisor1.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "The shooter will keep at range from you. If you manage to get close, she'll be the easiest to take out.",
+      "Rus": "Стрелок будет держать тебя на расстоянии. Если сможешь подобраться поближе - сможешь его достать"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenaadvisor1.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "There are three gladiators, and each fights differently.",
+      "Rus": "Существует три гладиатора, и каждый борется по-своему."
+    }
+  }
+]

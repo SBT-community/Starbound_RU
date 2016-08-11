@@ -1,0 +1,963 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/otherDeed/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Another deed. Rather rude. Quite unhappy.",
+      "Rus": "Другой колонизатор. Очень грубо. Весьма несчастлив."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/helpthem/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Attack happening. Not armed. Someone help!",
+      "Rus": "Нападение случилось. Без оружия. Кто-нибудь помоги!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/attack/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Attack occuring. Spear ready. Combat happening!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/reattack/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Attack reoccuring. Spear ready. Combat happening!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/reattack/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Attacker returns. Feeling eager. Let's fight!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/attack/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Attacker seen. Feeling eager. Let's fight!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/severe/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bad conditions. Feeling ignored. Considering leaving.",
+      "Rus": "Плохие условия. Чувствую невнимание. Решаю уйти."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/attack/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Battle beginning. Not afraid. Fenerox brave!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/reattack/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Battle returns. Not afraid. Fenerox brave!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/killedTarget/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Battle successful. Not dead. Fenerox victorious!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/beacon/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Being summoned. Feeling friendly. Let's talk!",
+      "Rus": "Был вызван. Чувствую дружелюбие. Давай поговорим!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/cantReach/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can't reach. Quite surprised. Enemy far!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/safe/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Danger gone. Feeling exhausting. Scary experience!",
+      "Rus": "Опасности нет. Чувствую утомление. Пережил ужас!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/safe/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Danger passed. Not dead. Good outcome!",
+      "Rus": "Опасность прошла. Не умер. Хороший исход!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/cheerOn/default/default/1",
+        "/encourage/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eager helper. Providing advice. Win fight!",
+      "Rus": "Желаю помочь. Начинаю помогать. Выиграть бой!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/killedTarget/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enemy defeated. Fenerox strong. Victory time!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/lostTarget/default/default/0",
+        "/outOfSight/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enemy disppeared. Cannot see. Enemy scared?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/lostTarget/default/default/2",
+        "/outOfSight/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enemy gone. Probably fled. Fenerox succesful...?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/rent/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling appreciative. Have gift. Hopefully liked!",
+      "Rus": "Чувствую признательность. Есть подарок. Надеюсь понравится!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/cheerOn/default/default/2",
+        "/encourage/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling eager. Contributing support. Win fight!",
+      "Rus": "Чувствую нетерпение. Представляю помощь. Выиграть бой!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/rent/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling satisfied. Bringing gift. Take gift!",
+      "Rus": "Чувствую удовлетворение. Несу подарок. Держи подарок!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/cheerOn/default/default/0",
+        "/encourage/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fenerox supportive. Providing support. Win battle!",
+      "Rus": "Фенерокс поможет. Начинаю помогать. Выиграть битву!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/reattack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fight resuming. Have spear. battle time!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/attack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fight started. Have spear. battle time!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/killedTarget/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Foe defeated. Spear strong. Now safe?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/lostTarget/default/default/1",
+        "/outOfSight/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Foe disappeared. Maybe fled. Maybe hiding?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/cantReach/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Foe far. Cannot reach. Spear short!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/apex/5",
+        "/converse/default/avian/5",
+        "/converse/default/default/5",
+        "/converse/default/floran/5",
+        "/converse/default/glitch/5",
+        "/converse/default/hylotl/5",
+        "/converse/default/novakid/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly stranger. Feeling awkward. Cautiously optimistic!",
+      "Rus": "Дружелюбный незнакомец. Чувствую неловкость. Сдержанно радуюсь!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/tagCriteria/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Home changed. Quite disappointing. Not happy.",
+      "Rus": "Дом изменился. Весьма разочаровывает. Не счастлив."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/enclosedArea/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Home damaged. Needs repairs. Feeling upset!",
+      "Rus": "Дом повреждён. Нужен ремонт. Очень расстроен!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/enclosedArea/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Home damaged. Walls broken. Needs fixing!",
+      "Rus": "Дом повреждён. Стены сломаны. Нужна починка!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hopefully nice. Feeling cautious!",
+      "Rus": "Надеюсь хорошая. Чувствую настороженность!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/killedTarget/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I survived. Battle won. Exhausting experience!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/beacon/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm needed. Conversing now. Let's chat!",
+      "Rus": "Очень нужно. Поговорить сейчас. Давай начнём!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/helpme/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "In danger. Being hurt. Must run!",
+      "Rus": "В опасности. Был ранен. Надо бежать!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/final/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leaving now. Being ignored. Poor home! ",
+      "Rus": "Ухожу сейчас. Не слушают. Бедный дом!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks metal. Quite exciting!",
+      "Rus": "Выглядит железным. Весьма волнительно!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/apex/3",
+        "/converse/default/avian/3",
+        "/converse/default/default/3",
+        "/converse/default/floran/3",
+        "/converse/default/glitch/3",
+        "/converse/default/hylotl/3",
+        "/converse/default/novakid/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Meeting stranger. Being friendly. New experience!",
+      "Rus": "Встретил незнакомца. Был дружелюбен. Новый опыт!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/avian/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "New person. Bird face. Quite exciting!",
+      "Rus": "Новая личность. Лицо птицы. Весьма впечатляет!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "New person. Flowery smell. Quite exciting!",
+      "Rus": "Новая личность. Пахнет цветами. Весьма волнительно!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/novakid/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "New person. Glowing brightly. Quite exciting!",
+      "Rus": "Новая личность. Ярко сияет. Весьма волнительно!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/hylotl/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "New person. Smells fishy. Quite exciting!",
+      "Rus": "Новая личность. Пахнет рыбой. Весьма волнительно!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Новая личность. Странно пахнет. Весьма волнуюсь!"
+    ],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/apex/0",
+        "/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "New person. Smells strange. Quite exciting!",
+      "Rus": "Новая личность. Пахнет странно. Весьма волнительно!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/apex/6",
+        "/converse/default/avian/6",
+        "/converse/default/default/6",
+        "/converse/default/floran/6",
+        "/converse/default/hylotl/6",
+        "/converse/default/novakid/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "New stranger. Not confident. Saying hello!",
+      "Rus": "Новый незнакомец. Не уверен. Говорю привет!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/attack/default/default/4",
+        "/reattack/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "No fear. Only brave. Spears forward!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/helpme/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "No weapons. Quite defenseless. Under attack!",
+      "Rus": "Без оружия. Весьма беззащитен. Был атакован!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/helpme/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not armed. Being attacked. Need help!",
+      "Rus": "Без оружия. Был атакован. Нужна помощь!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/glitch/6/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not confident. Saying hello!",
+      "Rus": "Не уверен. Говорю привет!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/safe/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not dead. Danger over. Need rest!",
+      "Rus": "Не умер. Опасность прошла. Надо отдохнуть!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/apex/1",
+        "/converse/default/avian/1",
+        "/converse/default/default/1",
+        "/converse/default/floran/1",
+        "/converse/default/hylotl/1",
+        "/converse/default/novakid/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Odd person. Hopefully nice. Feeling cautious!",
+      "Rus": "Странная личность. Надеюсь хорошая. Чувствую настороженность!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/apex/4",
+        "/converse/default/avian/4",
+        "/converse/default/default/4",
+        "/converse/default/floran/4",
+        "/converse/default/hylotl/4",
+        "/converse/default/novakid/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Odd person. Saying hello. Not Fenerox?",
+      "Rus": "Странная личность. Говорю привет. Не Фенерокс?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/safe/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Peril over. Survived encounter. Still shaken!",
+      "Rus": "Риск миновал. Пережил бой. Сильная дрожь!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/helpme/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Quite vulnerable. Under threat. Must flee!",
+      "Rus": "Весьма уязвим. Под угрозой. Должен бежать!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/severe/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Really upset. Feeling ignored. Might leave.",
+      "Rus": "Очень расстроен. Чувствую невнимание. Должен уйти."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/glitch/4/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Saying hello. Not Fenerox?",
+      "Rus": "Говорю привет. Не Фенерокс?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/otherDeed/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Second deed. My home. Not happy.",
+      "Rus": "Второй колонизатор. Мой дом. Не счастлив."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/accuse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shocking development. Thievery afoot. Very appalled!",
+      "Rus": "Шокирующее событие. Воровство начинается . Очень потрясён!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/tagCriteria/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Something missing. Home changed. Quite upsetting.",
+      "Rus": "Что-то пропало. Дом изменился. Весьма расстраивает."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/alert/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stealing awful. Need help. Finding guards!",
+      "Rus": "Красть ужасно. Нужна помощь. Ищу стражу!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/alert/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stealing wrong. Calling backup. Locating guards!",
+      "Rus": "Красть плохо. Зову помощь. Ищу стражу!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/accuse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stranger stealing. Not okay. Very worried!",
+      "Rus": "Чужак ворует. Не хорошо. Очень беспокойно!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/accuse/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thief stealing. Not polite. Rather upsetting.",
+      "Rus": "Вор крадёт. Не вежливо. Скорее расстраивает."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/tagCriteria/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Things missing. Home different. Feels wrong.",
+      "Rus": "Вещи пропали. Дом другой. Что-то иначе."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/alert/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thivery terrible. Must stop. Alerting guards!",
+      "Rus": "Красть неправильно. Должен прекратить. Зову стражу!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/severe/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unacceptable conditions. Feeling ignored. Complaining loudly!",
+      "Rus": "Неприемлемые условия. Чувствую невнимание. Громко жалуюсь!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/avian/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unknown person. Feathery body. Quite strange.",
+      "Rus": "Неизвестная личность. С перьями. Весьма странно."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/novakid/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unknown person. Fiery person. No face?",
+      "Rus": "Неизвестная личность. Огненная личность. Нет лица?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/floran/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unknown person. Leafy body. Creepy smile...",
+      "Rus": "Неизвестная личность. Покрыт листьями. Страшная улыбка..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unknown person. Not hairy. Looking weird.",
+      "Rus": "Неизвестная личность. Не волосатый. Выглядит странно."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/glitch/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unknown person. glowing eyes. Metal skin?",
+      "Rus": "Неизвестная личность. Глаза сияют. Железная кожа?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/apex/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unknown person. quite hair. Nice beard!",
+      "Rus": "Кто-то неизвестный. Весьма волосат. Хорошая борода!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/hylotl/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unknown person. rubbery skin. Looks weird.",
+      "Rus": "Неизвестная личность. Эластичная кожа. Выглядит странно."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/rent/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Very pleased. Nice home. Take gift!",
+      "Rus": "Очень доволен. Хороший дом. Держи подарок!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/final/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Very upset. Leaving now. Disappointing experience!",
+      "Rus": "Очень расстроен. Ухожу сейчас. Какое разочарование!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/enclosedArea/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Walls broken. Needs repairs. Quite concerning.",
+      "Rus": "Стены сломаны. Нужен ремонт. Весьма беспокойно."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/apex/2",
+        "/converse/default/avian/2",
+        "/converse/default/default/2",
+        "/converse/default/floran/2",
+        "/converse/default/glitch/2",
+        "/converse/default/hylotl/2",
+        "/converse/default/novakid/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weird person. Not Fenerox. Being polite!",
+      "Rus": "Странная личность. Не Фенерокс. Был вежлив!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/helpthem/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Witnessing attack. Can't help. Need assistance!",
+      "Rus": "Вижу нападение. Не помочь. Нужна помощь!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/accuse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Witnessing robbery. Very concerned. Awful behaviour!",
+      "Rus": "Вижу грабёж. Очень беспокойно. Ужасное поведение!"
+    }
+  }
+]

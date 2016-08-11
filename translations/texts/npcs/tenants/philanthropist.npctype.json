@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/philanthropist.npctype": [
+        "/scriptConfig/dialog/converse/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm feeling a little sluggish. You know why? Because I'm weighed down by all my money!",
+      "Rus": "Я чувствую себя медлительным. Знаешь почему? Потому что меня тянет вниз вес всех моих денег!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/philanthropist.npctype": [
+        "/scriptConfig/dialog/converse/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm lucky to have escaped Earth with my vast, vast fortune intact!",
+      "Rus": "Я рад, что мне удалось невредимым сбежать с Земли, вместе с моим баснословным состоянием!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/philanthropist.npctype": [
+        "/scriptConfig/dialog/converse/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you're truly wealthy, you need everyone to know. You wouldn't understand.",
+      "Rus": "Если ты действительно богат, нужно сделать так чтобы все об этом знали. Тебе не понять."
+    }
+  }
+]

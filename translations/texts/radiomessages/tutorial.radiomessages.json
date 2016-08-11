@@ -1,0 +1,278 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/tutorial.radiomessages": [
+        "/pickupinventorstable/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did you just craft an inventor's table? I estimate your chances of survival have improved by 7.2%.",
+      "Rus": "Вы только что создал инженерный стол? По моим подсчетам ваши шансы на выживание повысились на 7.2%."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/tutorial.radiomessages": [
+        "/fuel/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Erchius fuel for your FTL drive can be mined from moons. It should be noted that since Earth's destruction, all moons scanned have delivered strange, unpleasant and indecipherable readings.",
+      "Rus": "Эркиус - это топливо для сверсветового двигателя, его можно добывать из лун. Отмечу, что с момента уничтожения Земли, все известные луны посылают странные и неприятные показания."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/tutorial.radiomessages": [
+        "/pickupflag/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am able to reconfigure the ship's teleporter to teleport directly to the location marked by this flag. Place and interact with the flag to establish a name.",
+      "Rus": "Я могу перенастроить телепорт корабля для телепортации прямо к этому флагу. Установите флаг и назначьте ему имя."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/tutorial.radiomessages": [
+        "/naturalcave1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am detecting a variety of life signs in this mine. If you are intending to search it for core fragments, I may advise adequately arming yourself first.",
+      "Rus": "Я фиксирую различные признаки жизни в этой шахте. Я советую надлежащим образом вооружиться, если собираетесь искать фрагменты ядра."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/tutorial.radiomessages": [
+        "/full/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I see that you are eating sufficiently! With a full stomach, your body will slowly regenerate and heal.",
+      "Rus": "Я вижу, вы успешно поели! С полным желудком ваше тело будет немного регенерировать."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/tutorial.radiomessages": [
+        "/pickupseed/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I see that you've discovered some seeds. I suggest planting them in some tilled soil, and watering them until they grow. The tools you need can be built at a foraging table.",
+      "Rus": "Я заметил, что вы обнаружили несколько семян. Я предлагаю посадить их во вспаханною почву и поливать, пока они не вырастут. Необходимые инструменты можно сделать за фермерским столом."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/tutorial.radiomessages": [
+        "/naturalcave2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you are not sufficiently confident in your personal combat capabilities, an alternative solution would be to dig closer to the planet's center to find the core fragments.",
+      "Rus": "Если вы недостаточно уверены в своих боевых возможностях, альтернативным решением может быть копание глубже к центру планеты в поисках фрагментов ядра."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/tutorial.radiomessages": [
+        "/pickupcampfire/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "It seems you have discovered fire. My databanks tell me you're the 714 billionth person to do so. Well done! You can use the fire to cook food!",
+      "Rus": "Похоже, вы добыли огонь. Моя база данных говорит, что вы 714-миллиардный человек, сделавший это. Отлично! Вы можете использовать огонь для приготовления еды!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/tutorial.radiomessages": [
+        "/hungry/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The weakness you are feeling is likely due to hunger. You should find something to eat in order to maintain your body's functionality.",
+      "Rus": "Слабость, которую вы чувствуете, скорее всего, вызвана голодом. Вам следует найти немного еды для поддержания функциональности вашего организма."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/tutorial.radiomessages": [
+        "/challengedoor/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door will transport you to a challenging room that you may attempt to traverse. I applaud your intrepid disposition.",
+      "Rus": "Эта дверь перенесет вас в комнату испытаний. Я аплодирую вашему бесстрашному нраву."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/tutorial.radiomessages": [
+        "/starving/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You are starving! It is imperative that you obtain and consume some food immediately.",
+      "Rus": "Вы голодны! Нужно как можно скорее поесть."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/tutorial.radiomessages": [
+        "/pickupcollar/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You discovered a collar. When worn by a tamed monster, these collars can provide a wide range of benefits. You can add them to a filled capture pod with a right-click.",
+      "Rus": "Вы нашли ошейник. Ошейники предоставляют широкий спектр возможностей для некоторых существ. Вы можете ловить существ с помощью специальных капсул, используя их по ПКМ."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/tutorial.radiomessages": [
+        "/pickupcorefrag/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You discovered a core fragment! These are useful objects. I estimate that you will require at least 20 of them.",
+      "Rus": "Вы нашли фрагмент ядра! Это полезный объект. Я подсчитал, что нам нужно 20 таких."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/tutorial.radiomessages": [
+        "/pickupcoal/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You discovered coal! You can turn coal into torches to light your way. The chance of fatal incidents is dramatically increased in the dark. Explore the crafting menu.",
+      "Rus": "Вы нашли уголь! Вы можете создавать из него факела, чтобы освещать свой путь (см. меню крафта.). Шанс смертельных инцидентов увеличивается в темноте."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/tutorial.radiomessages": [
+        "/pickupdye/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You discovered dye. With these you can colour your attire to your liking. You can apply one to any piece of armour or clothing with a right-click.",
+      "Rus": "Вы нашли краситель. Его можно использовать для смены цвета любой части брони или одежды по нажатию ПКМ."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/tutorial.radiomessages": [
+        "/pickupore/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You discovered some ore. Ore can be turned into bars using a furnace, bars are useful for crafting a wide range of equipment that may increase your life expectancy.",
+      "Rus": "Вы нашли немного руды.  Руда может быть переплавлена в слитки с помощью печи. Слитки используются для создания разных видов снаряжения, увеличивающее вашу ожидаемую продолжительность жизни."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/tutorial.radiomessages": [
+        "/pickupplantfibre/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You discovered some plant fibre. This can be woven into useful fabrics at a spinning wheel.",
+      "Rus": "Вы нашли растительное волокно. Его можно переработать в ткань на ткацком станке."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/tutorial.radiomessages": [
+        "/pickuplogblock/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You have found some wood. My databanks tell me wood is a material with a great many uses. I suggest you kill additional trees and explore your crafting menu.",
+      "Rus": "Вы нашли немного древесины. Мой банк данных говорит, что древесина - это материал с большим количеством применений. Я предлагаю вам срубить еще несколько деревьев и изучить меню крафта."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/tutorial.radiomessages": [
+        "/pickupbow/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You obtained a bow. Overcoming a monster with one of these significantly increases your chances of getting meat and rare crafting ingredients.",
+      "Rus": "Вы получили лук. Убийство монстра из лука значительно увеличивает ваши шансы на получение мяса и редкие ингредиенты крафта."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/tutorial.radiomessages": [
+        "/pickupcapturepod/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You obtained a capture pod. A monster can be captured in this if their health is low enough. Throw it at a monster to capture it. Captured monsters become tame.",
+      "Rus": "Вы получили капсулу захвата. При достаточно низком уровне здоровья монстра, его можно схватить, бросив в него капсулу. Захваченные монстры становятся ручными."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/tutorial.radiomessages": [
+        "/pickupepp/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You obtained an Enviro Protection Pack (EPP). These specialised devices enable the user to survive in otherwise inhospitable environments. You can also enhance EPPs with augments.",
+      "Rus": "Вы получили НЭЗ(Набор Экологической Защиты). Эти специализированные устройства помогают выжить в негостеприимных условиях. НЭЗ можно улучшать."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/tutorial.radiomessages": [
+        "/pickupaugment/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You obtained an augment. These modules can provide a wide range of benefits. Install them to an Enviro Protection Pack (EPP) with a right-click.",
+      "Rus": "Вы получили модуль улучшения. Эти модули дают ряд преимуществ. Установите их на НЭЗ (Набор Экологической Защиты) с помощью ПКМ."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/tutorial.radiomessages": [
+        "/pickupmanipulatormodule/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You've obtained a manipulator module. With enough of these you can upgrade your Matter Manipulator from the access panel on the right-hand toolbar.",
+      "Rus": "Вы получили модуль манипулятора. С их помощью можно улучшать Манипулятор Материи. Используйте иконку манипулятора сверху справа."
+    }
+  }
+]

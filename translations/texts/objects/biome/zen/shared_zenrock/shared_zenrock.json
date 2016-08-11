@@ -1,0 +1,244 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Мирный камень. Глядя на него,  это заставляет меня чувствовать себя спокойно.",
+      "Мирный камень. Смотришь на него и становится спокойно на душе.",
+      "Умиротворяющий камень...  Любование им меня успокаивает.",
+      "Умиротворяющий камень... Смотря на него я познаю дзэн."
+    ],
+    "Files": {
+      "objects/biome/zen/zenrock1/zenrock1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/biome/zen/zenrock2/zenrock2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/biome/zen/zenrock3/zenrock3.object": [
+        "/hylotlDescription"
+      ],
+      "objects/biome/zen/zenrock4/zenrock4.object": [
+        "/hylotlDescription"
+      ],
+      "objects/biome/zen/zenrock5/zenrock5.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A peaceful stone. Looking at it makes me feel calm.",
+      "Rus": "Умиротворяющий камень. На душе спокойно когда смотришь на него."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Довольно приятная кучка камней.",
+      "Довольно приятная насыпь из камня."
+    ],
+    "Files": {
+      "objects/biome/zen/zenrock1/zenrock1.object": [
+        "/humanDescription"
+      ],
+      "objects/biome/zen/zenrock2/zenrock2.object": [
+        "/humanDescription"
+      ],
+      "objects/biome/zen/zenrock3/zenrock3.object": [
+        "/humanDescription"
+      ],
+      "objects/biome/zen/zenrock4/zenrock4.object": [
+        "/humanDescription"
+      ],
+      "objects/biome/zen/zenrock5/zenrock5.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pretty nice mound of stone.",
+      "Rus": "Красивая насыпь из камня."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Структура камня идеально подходит для инопланетных дзэн садов."
+    ],
+    "Files": {
+      "objects/biome/zen/zenrock1/zenrock1.object": [
+        "/description"
+      ],
+      "objects/biome/zen/zenrock4/zenrock4.object": [
+        "/description"
+      ],
+      "objects/biome/zen/zenrock5/zenrock5.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A stone perfect for alien zen gardens.",
+      "Rus": "Камень идеально подходит для инопланетных дзэн садов."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Каменная структура идеально подходит для чужеродных дзэн садов.",
+      "Структура камня идеально подходит для инопланетных дзэн садов."
+    ],
+    "Files": {
+      "objects/biome/zen/zenrock2/zenrock2.object": [
+        "/description"
+      ],
+      "objects/biome/zen/zenrock3/zenrock3.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A stone structure perfect for alien zen gardens."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Изысканный камень.",
+      "Элегантный вид камня."
+    ],
+    "Files": {
+      "objects/biome/zen/zenrock1/zenrock1.object": [
+        "/avianDescription"
+      ],
+      "objects/biome/zen/zenrock2/zenrock2.object": [
+        "/avianDescription"
+      ],
+      "objects/biome/zen/zenrock3/zenrock3.object": [
+        "/avianDescription"
+      ],
+      "objects/biome/zen/zenrock4/zenrock4.object": [
+        "/avianDescription"
+      ],
+      "objects/biome/zen/zenrock5/zenrock5.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An elegant looking rock.",
+      "Rus": "Изящно выглядящий камень."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/zen/zenrock1/zenrock1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/biome/zen/zenrock2/zenrock2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/biome/zen/zenrock3/zenrock3.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/biome/zen/zenrock4/zenrock4.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/biome/zen/zenrock5/zenrock5.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a clean looking stone.",
+      "Rus": "Это чистый вид камня."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/zen/zenrock1/zenrock1.object": [
+        "/apexDescription"
+      ],
+      "objects/biome/zen/zenrock2/zenrock2.object": [
+        "/apexDescription"
+      ],
+      "objects/biome/zen/zenrock3/zenrock3.object": [
+        "/apexDescription"
+      ],
+      "objects/biome/zen/zenrock4/zenrock4.object": [
+        "/apexDescription"
+      ],
+      "objects/biome/zen/zenrock5/zenrock5.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Simply a rock.",
+      "Rus": "Просто камень."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/zen/zenrock1/zenrock1.object": [
+        "/floranDescription"
+      ],
+      "objects/biome/zen/zenrock2/zenrock2.object": [
+        "/floranDescription"
+      ],
+      "objects/biome/zen/zenrock3/zenrock3.object": [
+        "/floranDescription"
+      ],
+      "objects/biome/zen/zenrock4/zenrock4.object": [
+        "/floranDescription"
+      ],
+      "objects/biome/zen/zenrock5/zenrock5.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssstone.",
+      "Rus": "Камень."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Этому камню хорошо."
+    ],
+    "Files": {
+      "objects/biome/zen/zenrock1/zenrock1.object": [
+        "/novakidDescription"
+      ],
+      "objects/biome/zen/zenrock2/zenrock2.object": [
+        "/novakidDescription"
+      ],
+      "objects/biome/zen/zenrock3/zenrock3.object": [
+        "/novakidDescription"
+      ],
+      "objects/biome/zen/zenrock4/zenrock4.object": [
+        "/novakidDescription"
+      ],
+      "objects/biome/zen/zenrock5/zenrock5.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's a stone alright.",
+      "Rus": "Вполне себе камень."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/zen/zenrock1/zenrock1.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/zen/zenrock2/zenrock2.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/zen/zenrock3/zenrock3.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/zen/zenrock4/zenrock4.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/zen/zenrock5/zenrock5.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Zen Rock",
+      "Rus": "Камень дзэн"
+    }
+  }
+]

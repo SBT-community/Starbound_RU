@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratelobbystudent1.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "A nice cold can of Oculemonade, just beyond my reach...",
+      "Rus": "Баночка клевого, холодного Окулемонада, только мне ее не получить..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratelobbystudent1.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The vending machine swallowed my pixels. Could this day get any worse?",
+      "Rus": "Этот торговый автомат проглотил мои пиксели. Может ли этот день стать еще хуже?"
+    }
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotlpainting1/hylotlpainting1.object": [
+        "/humanDescription"
+      ],
+      "objects/hylotl/hylotlpainting2/hylotlpainting2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm pretty sure we had this exact same painting on Earth."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotlpainting1/hylotlpainting1.object": [
+        "/avianDescription"
+      ],
+      "objects/hylotl/hylotlpainting2/hylotlpainting2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not bad! Brushwork's a bit sloppy, though."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotlpainting1/hylotlpainting1.object": [
+        "/apexDescription"
+      ],
+      "objects/hylotl/hylotlpainting2/hylotlpainting2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This painting is quite nice."
+    }
+  }
+]

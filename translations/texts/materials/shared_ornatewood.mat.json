@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Экспертно обработанное изысканное дерево."
+    ],
+    "Files": {
+      "items/materials/ornatewood.matitem": [
+        "/description"
+      ],
+      "tiles/materials/ornatewood.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Expertly treated ornate wood.",
+      "Rus": "Изящно обработанное изысканное дерево."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornatewood.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/ornatewood.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likess sspecial treated wood.",
+      "Rus": "Флоран любит сспециально обработанную древесину."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornatewood.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/ornatewood.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ornate Wood",
+      "Rus": "Изысканное дерево"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornatewood.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/ornatewood.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This wood looks like it's been treated with somethin'.",
+      "Rus": "Походу этот древяха была чем-то обработана."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornatewood.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/ornatewood.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This wood was specially treated by a master craftsman.",
+      "Rus": "Эта древесина определенно была обработана мастером ремесленного дела."
+    }
+  }
+]

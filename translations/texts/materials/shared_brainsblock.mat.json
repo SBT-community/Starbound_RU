@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/brainsblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/brainsblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Brains",
+      "Rus": "Мозги"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/brainsblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/brainsblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran want to ssstab sssquishy brain.",
+      "Rus": "Флоран хочет заколоть сстуденистый мозг."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/brainsblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/brainsblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is there brain activity within this material?",
+      "Rus": "Есть ли мозговая активность в этом материале?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Пульсирующее мозговое вещество... Сомневаюсь, что оно мыслит.",
+      "Пульсирующий мозг...  Интересно думает ли он?"
+    ],
+    "Files": {
+      "items/materials/brainsblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/brainsblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pulsating brain matter.. I wonder if it's thinking."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/brainsblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/brainsblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some fleshy brainstuff.",
+      "Rus": "Довольно мясистые мозги."
+    }
+  }
+]

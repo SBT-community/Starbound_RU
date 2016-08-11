@@ -1,0 +1,1143 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/vendingmachine.config": [
+        "/paneLayout/windowtitle/title"
+      ],
+      "objects/human/vendingmachine/vendingmachine.object": [
+        "/interactData/paneLayoutOverride/windowtitle/title"
+      ],
+      "objects/hylotl/hylotldrinks/hylotldrinks.object": [
+        "/interactData/paneLayoutOverride/windowtitle/title"
+      ],
+      "objects/protectorate/objects/protectoratelobbyvending/protectoratelobbyvending.object": [
+        "/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Vending Machine",
+      "Rus": "Торговый автомат"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/stats/stats.config": [
+        "/energyRegen/description",
+        "/healthRegen/description",
+        "/maxEnergy/description",
+        "/maxHealth/description",
+        "/powerMultiplier/description",
+        "/protection/description"
+      ],
+      "monsters/flyers/tentaclegnat/tentaclegnat.monstertype": [
+        "/description"
+      ],
+      "monsters/flyers/tentaclespawner/tentaclespawner.monstertype": [
+        "/description"
+      ],
+      "objects/biome/bug/buglike1/buglike1.object": [
+        "/description"
+      ],
+      "objects/biome/bug/buglike10/buglike10.object": [
+        "/description"
+      ],
+      "objects/biome/bug/buglike2/buglike2.object": [
+        "/description"
+      ],
+      "objects/biome/bug/buglike3/buglike3.object": [
+        "/description"
+      ],
+      "objects/biome/bug/buglike4/buglike4.object": [
+        "/description"
+      ],
+      "objects/biome/bug/buglike5/buglike5.object": [
+        "/description"
+      ],
+      "objects/biome/bug/buglike6/buglike6.object": [
+        "/description"
+      ],
+      "objects/biome/bug/buglike7/buglike7.object": [
+        "/description"
+      ],
+      "objects/biome/bug/buglike8/buglike8.object": [
+        "/description"
+      ],
+      "objects/biome/bug/buglike9/buglike9.object": [
+        "/description"
+      ],
+      "objects/generic/fossilpod/fossilpod.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/floranDescription",
+        "/glitchDescription",
+        "/humanDescription",
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "-todo-"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/frog.config": [
+        "/beacon/default/default/0",
+        "/converse/default/default/0",
+        "/encourage/default/default/0",
+        "/end/default/default/0",
+        "/follow/default/default/0",
+        "/hail/default/default/0",
+        "/rent/default/default/0",
+        "/safe/default/default/0",
+        "/start/default/default/0",
+        "/tout/default/default/0",
+        "/welcome/default/default/0"
+      ],
+      "items/materials/black.matitem": [
+        "/description",
+        "/florandescription",
+        "/glitchdescription",
+        "/shortdescription"
+      ],
+      "npcs/outpost/outpostglitchsilenttype.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ],
+      "objects/generic/helpme/helpme.object": [
+        "/description"
+      ],
+      "objects/generic/pleaseget/pleaseget.object": [
+        "/description"
+      ],
+      "objects/wired/invisiblesound/invisiblesound.object": [
+        "/description"
+      ],
+      "objects/wired/proximitysensor/invisibleproximitysensor.object": [
+        "/description"
+      ],
+      "tiles/materials/black.material": [
+        "/description",
+        "/floranDescription",
+        "/glitchDescription",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "...",
+      "Rus": "..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/modeTypeTextAndColor/0/0"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/guiConfig/planetTypeDescription/value"
+      ],
+      "interface/warping/gatewarp.config": [
+        "/destinations/0/name",
+        "/destinations/0/planetName"
+      ],
+      "radiomessages/quests.radiomessages": [
+        "/gaterepair-gateFound1b/senderName",
+        "/gaterepair-gateOpened2/senderName"
+      ]
+    },
+    "Texts": {
+      "Eng": "???",
+      "Rus": "???"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Внимательно. Внимательно. Внимательно. Внимательно. Лиственное растение."
+    ],
+    "Files": {
+      "objects/biome/jungle/junglebush13/junglebush13.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription"
+      ],
+      "objects/biome/jungle/junglebush14/junglebush14.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription"
+      ],
+      "objects/biome/jungle/junglebush15/junglebush15.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription"
+      ],
+      "objects/biome/jungle/junglebush16/junglebush16.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription"
+      ],
+      "plants/grass/ground/decorative/leafsy/leafsy.grass": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leafy plant.",
+      "Rus": "Лиственное растение."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/alpine/mistprimer/mistprimer.object": [
+        "/description"
+      ],
+      "plants/bushes/ground/alpinestone/alpinestone.bush": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pile of mossy stones.",
+      "Rus": "Куча замшелых камней."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/swamp/gasprimer/gasprimer.object": [
+        "/hylotlDescription"
+      ],
+      "objects/biome/swamp/rootbush1/rootbush1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/biome/swamp/rootbush2/rootbush2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/biome/swamp/rootbush3/rootbush3.object": [
+        "/hylotlDescription"
+      ],
+      "objects/biome/swamp/rootbush4/rootbush4.object": [
+        "/hylotlDescription"
+      ],
+      "objects/biome/swamp/rootbush5/rootbush5.object": [
+        "/hylotlDescription"
+      ],
+      "objects/biome/swamp/swamproot1/swamproot1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/biome/swamp/swamproot2/swamproot2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/biome/swamp/swamproot3/swamproot3.object": [
+        "/hylotlDescription"
+      ],
+      "objects/biome/swamp/swamproot4/swamproot4.object": [
+        "/hylotlDescription"
+      ],
+      "objects/biome/swamp/swamproot5/swamproot5.object": [
+        "/hylotlDescription"
+      ],
+      "objects/generic/toxicgasprimer/toxicgasprimer.object": [
+        "/hylotlDescription"
+      ],
+      "plants/grass/ceiling/decorative/ceilingroots/ceilingroots.grass": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ],
+      "plants/grass/ground/drop/root/root.grass": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A root.",
+      "Rus": "Корень."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/pools/guardthemes.config": [
+        "/0/1/2/name"
+      ],
+      "species/apex.species": [
+        "/charCreationTooltip/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Apex",
+      "Rus": "Апекс"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Астероидное поле",
+      "Пояс астероидов "
+    ],
+    "Files": {
+      "biomes/surface/asteroidfield.biome": [
+        "/friendlyName"
+      ],
+      "celestial.config": [
+        "/planetaryTypes/AsteroidField/baseParameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Asteroid Field"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Атакуйте!",
+      "Атакую!",
+      "В атаку!",
+      "Сражайся!"
+    ],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/default/default/0"
+      ],
+      "npcs/bandit.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/dungeon/evilfortress/evilknight.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/dungeon/evilfortress/evilknightlord.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/dungeon/evilfortress/executioner.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/mission/floranpredator.npctype": [
+        "/scriptConfig/dialog/attack/floran/default/1"
+      ],
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/attack/default/default/3"
+      ],
+      "npcs/threats/avianraider.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/threats/divingscavenger.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/threats/glitchthief.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/threats/outlawbandit.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/threats/outlawbarbarian.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/threats/outlawknight.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/threats/outlawsamurai.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/threats/outlawsoldier.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/threats/roguesamurai.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Attack!",
+      "Rus": "В бой!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Защити меня!"
+    ],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/encourage/default/default/1"
+      ],
+      "dialog/oremerchant.config": [
+        "/encourage/default/default/1"
+      ],
+      "dialog/outpost.config": [
+        "/flee/encourage/default/default/1",
+        "/flee/encourage/glitch/default/1/glitchEmotedText"
+      ],
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/flee/encourage/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avenge me!",
+      "Rus": "Отомсти за меня!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/pools/guardthemes.config": [
+        "/0/1/4/name"
+      ],
+      "species/avian.species": [
+        "/charCreationTooltip/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avian",
+      "Rus": "Авиан"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Кости!"
+    ],
+    "Files": {
+      "items/materials/bonematerial.matitem": [
+        "/florandescription"
+      ],
+      "plants/grass/ceiling/decorative/ceilingfleshbone/ceilingfleshbone.grass": [
+        "/floranDescription"
+      ],
+      "tiles/materials/bonematerial.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bonesss!",
+      "Rus": "Косссти!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/cursorTooltip/codexText"
+      ],
+      "items/categories.config": [
+        "/labels/codex"
+      ]
+    },
+    "Texts": {
+      "Eng": "Codex",
+      "Rus": "Кодекс"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Не дай ему уйти!",
+      "Не дай им уйти!"
+    ],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/encourage/default/default/3"
+      ],
+      "dialog/oremerchant.config": [
+        "/encourage/default/default/3"
+      ],
+      "dialog/outpost.config": [
+        "/flee/encourage/default/default/3",
+        "/flee/encourage/glitch/default/3/glitchEmotedText"
+      ],
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/flee/encourage/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't let 'em get away!",
+      "Rus": "Не дайте им сбежать!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/door.itemdescription": [
+        "/toolLabel/value"
+      ],
+      "items/categories.config": [
+        "/labels/door"
+      ]
+    },
+    "Texts": {
+      "Eng": "Door",
+      "Rus": "Дверь"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/missionpenguin1.aimission": [
+        "/speciesText/default/buttonText"
+      ],
+      "monsters/boss/penguinUfo/penguinUfo.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dreadwing",
+      "Rus": "Ужаснокрыл"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/pools/guardthemes.config": [
+        "/0/1/1/name"
+      ],
+      "species/floran.species": [
+        "/charCreationTooltip/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran",
+      "Rus": "Флоран"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Дружелюбно. Я, может быть, и Радужный Разбойник, но это не означает, что мы не можем общаться!"
+    ],
+    "Files": {
+      "dialog/colourful.config": [
+        "/converse/default/default/2"
+      ],
+      "npcs/outpost/visitors/colourfulvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly. I may be a Rainbow Rogue, but it doesn't mean we cannot converse!",
+      "Rus": "Дружелюбно. Я хоть и Радужный Плут, но это не значит, что мы не можем поговорить!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Жеод"
+    ],
+    "Files": {
+      "biomes/surface_detached/geode.biome": [
+        "/friendlyName"
+      ],
+      "items/active/unsorted/geode/geode.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Geode",
+      "Rus": "Жеода"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Держи их!",
+      "Хватай их!"
+    ],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/encourage/default/default/0"
+      ],
+      "dialog/oremerchant.config": [
+        "/encourage/default/default/0"
+      ],
+      "dialog/outpost.config": [
+        "/flee/encourage/default/default/0"
+      ],
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/flee/encourage/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Get 'em!",
+      "Rus": "Взять их!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/cheerOn/default/default/1",
+        "/cheerOn/glitch/default/1/glitchEmotedText"
+      ],
+      "dialog/rebel.config": [
+        "/attack/apex/default/2"
+      ],
+      "npcs/arena/arenahunter.npctype": [
+        "/scriptConfig/dialog/cheerOn/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Get them!",
+      "Rus": "Взять их!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/pools/guardthemes.config": [
+        "/0/1/3/name"
+      ],
+      "species/glitch.species": [
+        "/charCreationTooltip/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glitch",
+      "Rus": "Глитч"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/labelPortrait/value"
+      ],
+      "species/fenerox.species": [
+        "/charGenTextLabels/8"
+      ],
+      "species/human.species": [
+        "/charGenTextLabels/8"
+      ],
+      "species/shadow.species": [
+        "/charGenTextLabels/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "HUMAN",
+      "Rus": "ЧЕЛОВЕК"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Для добычи мяса и шкур монстров.",
+      "Для получения мяса и шкур монстров.",
+      "Композитный лук для охоты, с монстров, убитых с помощью этого лука, выпадает вкусное мясо.",
+      "Позволяет добывать мясо и шкуры с монстров.",
+      "С монстров, убитых с помощью этого лука, выпадает вкусное мясо.",
+      "Хорошо подходит для охоты и добычи мяса.",
+      "Хорошо подходит для охоты."
+    ],
+    "Files": {
+      "interface/itemdescriptions/bow.itemdescription": [
+        "/descriptionLabel/value"
+      ],
+      "interface/tooltips/bow.tooltip": [
+        "/descriptionLabel/value"
+      ],
+      "items/active/weapons/bow/bow/bow.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/bow/compoundbow/compoundbow.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/bow/tungstenbow/tungstenbow.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/npc/npcbow.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/npc/npcfirebow.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/npc/npctungstenbow.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Harvests meat and other goods from monsters."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Вот тебе награда за твою помощь!"
+    ],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/default/default/0"
+      ],
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/tenant/arrivedHome/rent/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here's a gift for all your help!",
+      "Rus": "Вот подарок, за всю твою помощь!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/pools/guardthemes.config": [
+        "/0/1/0/name"
+      ],
+      "species/human.species": [
+        "/charCreationTooltip/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Human",
+      "Rus": "Человек"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Мне нечего тебе ссказать."
+    ],
+    "Files": {
+      "dialog/outpost.config": [
+        "/converse/default/default/0"
+      ],
+      "npcs/biome/forestvillager.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have nothing to say to you",
+      "Rus": "Мне нечего тебе сказать."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/default/default/0"
+      ],
+      "dialog/merchant.config": [
+        "/beacon/default/default/0"
+      ],
+      "dialog/oremerchant.config": [
+        "/beacon/default/default/0"
+      ],
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/tenant/arrivedHome/beacon/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm home!",
+      "Rus": "Я дома!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Хватит с меня!"
+    ],
+    "Files": {
+      "dialog/grumble.config": [
+        "/final/default/default/0",
+        "/final/human/default/0"
+      ],
+      "dialog/merchant.config": [
+        "/final/default/default/0",
+        "/final/human/default/0"
+      ],
+      "dialog/oremerchant.config": [
+        "/final/default/default/0",
+        "/final/human/default/0"
+      ],
+      "npcs/subbiometenants/tar.npctype": [
+        "/scriptConfig/dialog/tenant/grumbles/final/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've had enough of this!",
+      "Rus": "С меня хватит!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Манипулятор Материи"
+    ],
+    "Files": {
+      "interface/windowconfig/keybindingsmenu.config": [
+        "/keyActions/toolbar/8/label"
+      ],
+      "items/tools/miningtools/beamaxe.beamaxe": [
+        "/shortdescription"
+      ],
+      "items/tools/miningtools/beamaxeX.beamaxe": [
+        "/shortdescription"
+      ],
+      "objects/protectorate/objects/protectoratebeamaxe/protectoratebeamaxe.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Matter Manipulator",
+      "Rus": "Манипулятор материи"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/keybindingsmenu.config": [
+        "/keyActions/toolbar/10/label"
+      ],
+      "items/tools/painttool.painttool": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Paint Mode",
+      "Rus": "Режим рисования"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/costumes/rock/rock.chest": [
+        "/shortdescription"
+      ],
+      "objects/biome/stonecave/cavechest/cavechest.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rock Chest",
+      "Rus": "Каменный нагрудник"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface_detached/old/sandstone/sandstone.biome": [
+        "/friendlyName"
+      ],
+      "items/materials/sandstone.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/sandstone01.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sandstone",
+      "Rus": "Песчаник"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/sapling"
+      ],
+      "objects/generic/sapling/sapling.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sapling",
+      "Rus": "Саженец"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/underground_detached/old/shadowrealm/shadow.biome": [
+        "/friendlyName"
+      ],
+      "species/shadow.species": [
+        "/charCreationTooltip/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shadow",
+      "Rus": "Тень"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/shippingContainer"
+      ],
+      "objects/hylotl/shippingcontainer/shippingcontainer.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shipping Container",
+      "Rus": "Транспортный контейнер"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/underground_detached/old/slime/slime.biome": [
+        "/friendlyName"
+      ],
+      "items/liquids/slime.liqitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slime",
+      "Rus": "Слизь"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/alpine/mistprimer/mistprimer.object": [
+        "/floranDescription"
+      ],
+      "plants/bushes/ground/alpinestone/alpinestone.bush": [
+        "/floranDescription"
+      ],
+      "plants/bushes/ground/midnightstone/midnightstone.bush": [
+        "/floranDescription"
+      ],
+      "plants/bushes/ground/stonestack/stonestack.bush": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssstones.",
+      "Rus": "Камни."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/floran/default/0"
+      ],
+      "dialog/outpost.config": [
+        "/converse/floran/default/0"
+      ],
+      "npcs/biome/forestvillager.npctype": [
+        "/scriptConfig/dialog/converse/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssstrange thing.",
+      "Rus": "Сстранная вещь."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Зарежь их!",
+      "Пырни из за меня пару раз!",
+      "Пырни их разок от моего имени!"
+    ],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/encourage/default/default/2"
+      ],
+      "dialog/oremerchant.config": [
+        "/encourage/default/default/2"
+      ],
+      "dialog/outpost.config": [
+        "/flee/encourage/default/default/2"
+      ],
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/flee/encourage/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stick 'em once for me!",
+      "Rus": "Ткни их разок за меня!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/teleportdialog.config": [
+        "/paneLayout/windowtitle/title"
+      ],
+      "items/categories.config": [
+        "/labels/teleporter"
+      ],
+      "objects/ship/avianteleporter/avianteleporter.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/avianteleporterTier0/avianteleporterTier0.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/floranteleporter/floranteleporter.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/floranteleporterTier0/floranteleporterTier0.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/glitchteleporter/glitchteleporter.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/glitchteleporterTier0/glitchteleporterTier0.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/humanteleporter/humanteleporter.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/humanteleporterTier0/humanteleporterTier0.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/hylotlteleporter/hylotlteleporter.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/hylotlteleporterTier0/hylotlteleporterTier0.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/novakidteleporter/novakidteleporter.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/novakidteleporterTier0/novakidteleporterTier0.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/teleporter/teleporter.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/teleporterTier0/teleporterTier0.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Teleporter",
+      "Rus": "Телепорт"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Вот, больше не могу. Время уходить."
+    ],
+    "Files": {
+      "dialog/grumble.config": [
+        "/final/human/default/1"
+      ],
+      "npcs/subbiometenants/tar.npctype": [
+        "/scriptConfig/dialog/tenant/grumbles/final/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's it, I give up. Time to leave!",
+      "Rus": "Всё, это выше моих сил! Я ухожу!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/mm.itemdescription": [
+        "/toolLabel/value"
+      ],
+      "interface/itemdescriptions/seed.itemdescription": [
+        "/toolLabel/value"
+      ],
+      "interface/itemdescriptions/tool.itemdescription": [
+        "/toolLabel/value"
+      ],
+      "interface/itemdescriptions/vehicle.itemdescription": [
+        "/toolLabel/value"
+      ],
+      "items/categories.config": [
+        "/labels/tool"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tool",
+      "Rus": "Инструмент"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Что ты наделал!?",
+      "Что ты наделал?!"
+    ],
+    "Files": {
+      "dialog/outpost.config": [
+        "/flee/helpthem/default/default/0"
+      ],
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/flee/helpthem/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "What have you done!?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/keybindingsmenu.config": [
+        "/keyActions/toolbar/9/label"
+      ],
+      "items/tools/wiretool.wiretool": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wire Mode",
+      "Rus": "Режим проводки"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/anxious/1"
+      ],
+      "quests/generated/templates/escort.questtemplate": [
+        "/scriptConfig/generatedText/fluff/6/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Worried"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Звал меня?",
+      "Ты звал?"
+    ],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/human/default/0"
+      ],
+      "dialog/merchant.config": [
+        "/beacon/human/default/0"
+      ],
+      "dialog/oremerchant.config": [
+        "/beacon/human/default/0"
+      ],
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/tenant/arrivedHome/beacon/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You called?",
+      "Rus": "Звали меня?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/cultist.config": [
+        "/attack/human/apex/6",
+        "/attack/human/avian/6",
+        "/attack/human/default/6",
+        "/attack/human/floran/6",
+        "/attack/human/glitch/6",
+        "/attack/human/human/6",
+        "/attack/human/hylotl/6",
+        "/attack/human/novakid/6"
+      ],
+      "npcs/dungeon/humanprison/prisonberserker.npctype": [
+        "/scriptConfig/dialog/attack/human/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "You shouldn't have come here!",
+      "Rus": "Тебе не стоило тут появляться!"
+    }
+  }
+]

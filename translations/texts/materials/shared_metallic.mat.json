@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/metallic.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/metallic.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Futurisstic computer blockss.",
+      "Rus": "Фантастические компьютерные блоки."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Хай-тэк Блок"
+    ],
+    "Files": {
+      "items/materials/metallic.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/metallic.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hi-tech Block",
+      "Rus": "Высокотехнологичный блок"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/metallic.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/metallic.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some flashy lookin' hi-tech blocks.",
+      "Rus": "Какие-то посверкивающие высокотехнологичные блоки."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/metallic.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/metallic.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The technology within these blocks is unknown to me.",
+      "Rus": "Мне незнакома технология содержащаяся в этих блоках."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Выглядит высокотехнологично.",
+      "Это выглядим высокотехнологично!"
+    ],
+    "Files": {
+      "items/materials/metallic.matitem": [
+        "/description"
+      ],
+      "tiles/materials/metallic.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This looks hi-tech!"
+    }
+  }
+]

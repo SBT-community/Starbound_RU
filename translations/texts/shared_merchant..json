@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantStart/default/default/1"
+      ],
+      "npcs/wizardmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "See anything you like?",
+      "Rus": "Вам что-нибудь приглянулось?"
+    }
+  }
+]

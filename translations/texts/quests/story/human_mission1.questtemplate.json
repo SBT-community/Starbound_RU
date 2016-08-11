@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/human_mission1.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can repair that ship, but it's gonna take 20 ^orange;Erchius Crystals^reset;... You'd better ^green;get yerself over to the Erchius Mining Facility^reset;. I've sent the location coordinates to ^green;yer ship's SAIL^reset;.",
+      "Rus": "Я смогу починить корабль, но потребуется 20 ^orange;эркиевых кристаллов^reset;... Лучше ^green;отправляйся в Шахту добычи эркиевых кристаллов^reset;. Я переслал координаты ^green;твоему К.Э.П.^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/human_mission1.questtemplate": [
+        "/scriptConfig/missionRadioMessage/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have received the coordinates for the ^orange;Erchius Mining Facility^reset;. If you ^green;return to the ship^reset; you can teleport there using my mission interface.",
+      "Rus": "Я получил координаты ^orange;Шахты добычи эркиевых кристаллов^reset;. Если ты ^green;вернёшься на корабль^reset;, ты сможешь телепортироватся туда с помощью моего интерфейса миссий."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/human_mission1.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perfect! These'll do the job. I'll go ahead and fix up yer ship right now.",
+      "Rus": "Идеально! Это мне пригодится. Сейчас починю твой корабль."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/human_mission1.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Erchius Mining Facility",
+      "Rus": "Шахта добычи эркиевых кристаллов"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/human_mission1.questtemplate": [
+        "/scriptConfig/descriptions/findCrystals"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Fetch ^orange;Erchius Crystals^white; from the ^orange;Erchius Mining Facility^white;",
+      "Rus": "^green;Принесите ^orange;Эркиевы Кристаллы^white; из ^orange;Шахты Добычи Эркиевых Кристаллов^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/human_mission1.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Return^white; to ^orange;the shipyard captain^white; at the ^orange;outpost^white;",
+      "Rus": "^green;Вернитесь^white; к ^orange;капитану верфи^white; на ^orange;Форпосте^white;"
+    }
+  }
+]

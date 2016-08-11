@@ -1,0 +1,1361 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/objectives/1/text"
+      ],
+      "quests/generated/templates/recruit_guard.questtemplate": [
+        "/scriptConfig/objectives/1/text"
+      ],
+      "quests/generated/templates/themed_build.questtemplate": [
+        "/scriptConfig/objectives/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "1 Colony Deed",
+      "Rus": "1 Колонизатор"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/0",
+        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+      ],
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/0",
+        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+      ],
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/0",
+        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "<appreciation1> <appreciation2>",
+      "Rus": "<appreciation1> <appreciation2>"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Получи <item> от <target>"
+    ],
+    "Files": {
+      "quests/generated/templates/borrow.questtemplate": [
+        "/scriptConfig/objectives/0/text"
+      ],
+      "quests/generated/templates/collect_fine.questtemplate": [
+        "/scriptConfig/objectives/0/text"
+      ],
+      "quests/generated/templates/collect_gift.questtemplate": [
+        "/scriptConfig/objectives/0/text"
+      ],
+      "quests/generated/templates/extort.questtemplate": [
+        "/scriptConfig/objectives/0/text"
+      ],
+      "quests/generated/templates/request_craft.questtemplate": [
+        "/scriptConfig/objectives/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Acquire <item> from <target>",
+      "Rus": "Получите <item> от <target>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/share_secret.questtemplate": [
+        "/scriptConfig/objectives/1/text"
+      ],
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/objectives/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bring reply to <questGiver>",
+      "Rus": "Принеси ответ <questGiver>"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Построй дом с:"
+    ],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/objectives/0/text"
+      ],
+      "quests/generated/templates/themed_build.questtemplate": [
+        "/scriptConfig/objectives/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Build a home with:",
+      "Rus": "Постройте дом, используя:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/share_secret.questtemplate": [
+        "/scriptConfig/objectives/0/text"
+      ],
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/objectives/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Deliver message to <target>",
+      "Rus": "Передай сообщение <target>"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Дай <gift> <target> "
+    ],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/objectives/0/text"
+      ],
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/objectives/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Give <gift> to <target>",
+      "Rus": "Отдайте <gift> <target>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/new_stock1.questtemplate": [
+        "/scriptConfig/objectives/0/text"
+      ],
+      "quests/generated/templates/new_stock2.questtemplate": [
+        "/scriptConfig/objectives/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Give <tradedItems> to <target>",
+      "Rus": "Отдай <tradedItems> <target>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort.questtemplate": [
+        "/scriptConfig/generatedText/fluff/7/1/3"
+      ],
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/14/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't know what I would have done without you!",
+      "Rus": "Незнаю, что бы я делал без тебя!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/18/1/4"
+      ],
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/12/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll sleep better knowing you've made it a little safer around here!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Убей <enemy>",
+      "Убей <enemy> "
+    ],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/objectives/1/text"
+      ],
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/objectives/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kill the <enemy>"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Убей <monster>",
+      "Убей <monster> "
+    ],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/objectives/1/text"
+      ],
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/objectives/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kill the <monster>"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Найди <spawnPoint>",
+      "Найди <spawnPoint> ",
+      "Найди <spawnpoint>",
+      "Найдите <spawnPoint> "
+    ],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/objectives/0/text"
+      ],
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/objectives/0/text"
+      ],
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/objectives/0/text"
+      ],
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/objectives/0/text"
+      ],
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/objectives/0/text"
+      ],
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/objectives/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Locate the <spawnPoint>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/failureText/default/0"
+      ],
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/failureText/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oops, I wasn't able to help <questGiver>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/3"
+      ],
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/5/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Poptops"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Верни свёрток <questGiver>"
+    ],
+    "Files": {
+      "quests/generated/templates/hat.questtemplate": [
+        "/scriptConfig/objectives/1/text"
+      ],
+      "quests/generated/templates/helmet.questtemplate": [
+        "/scriptConfig/objectives/1/text"
+      ],
+      "quests/generated/templates/new_stock1.questtemplate": [
+        "/scriptConfig/objectives/1/text"
+      ],
+      "quests/generated/templates/new_stock2.questtemplate": [
+        "/scriptConfig/objectives/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return parcel to <questGiver>",
+      "Rus": "Верните свёрток <questGiver>"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "<questGiver> ждет Вас",
+      "Вернись к <questGiver>",
+      "Вернись к <questGiver> ",
+      "Вернись к <questgiver>"
+    ],
+    "Files": {
+      "quests/generated/templates/borrow.questtemplate": [
+        "/scriptConfig/objectives/1/text"
+      ],
+      "quests/generated/templates/collect_fine.questtemplate": [
+        "/scriptConfig/objectives/1/text"
+      ],
+      "quests/generated/templates/collect_gift.questtemplate": [
+        "/scriptConfig/objectives/1/text"
+      ],
+      "quests/generated/templates/escort_trade.questtemplate": [
+        "/scriptConfig/objectives/1/text"
+      ],
+      "quests/generated/templates/extort.questtemplate": [
+        "/scriptConfig/objectives/1/text"
+      ],
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/objectives/2/text"
+      ],
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/objectives/2/text"
+      ],
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/objectives/2/text"
+      ],
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/objectives/2/text"
+      ],
+      "quests/generated/templates/request_craft.questtemplate": [
+        "/scriptConfig/objectives/1/text"
+      ],
+      "quests/generated/templates/steal.questtemplate": [
+        "/scriptConfig/objectives/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return to <questGiver>",
+      "Rus": "<questGiver> ждёт Вас"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/18/1/3"
+      ],
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/12/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thanks! I appreciate the help!",
+      "Rus": "Спасибо! Я ценю твою помощь!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/18/1/5"
+      ],
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/12/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thanks! You've made it so much safer to live around here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/17/1/1"
+      ],
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/11/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You got rid of the <monster>?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/goalText/default/0"
+      ],
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/goalText/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;I need some help with a monster of a problem."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/0"
+      ],
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "activity"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/0"
+      ],
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "activity1"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/0"
+      ],
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/4/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "activity2"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort.questtemplate": [
+        "/scriptConfig/generatedText/fluff/4/0"
+      ],
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/9/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "activityfloran"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/0"
+      ],
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "adjective"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/share_secret.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/0"
+      ],
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "admires"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/share_secret.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/1"
+      ],
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "adores"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort.questtemplate": [
+        "/scriptConfig/generatedText/fluff/7/0"
+      ],
+      "quests/generated/templates/escort_trade.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/0"
+      ],
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/14/0"
+      ],
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/7/0"
+      ],
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/10/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "appreciation"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/6/0"
+      ],
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/17/0"
+      ],
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/11/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "appreciation1",
+      "Rus": "appreciation1"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/7/0"
+      ],
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/18/0"
+      ],
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/12/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "appreciation2",
+      "Rus": "appreciation2"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort_trade.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/0"
+      ],
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/10/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "appreciationfloran"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/5/1/3"
+      ],
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "camping"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/3"
+      ],
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "co-worker"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/1"
+      ],
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "colleague"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/share_secret.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/8",
+        "/scriptConfig/generatedText/fluff/3/1/7"
+      ],
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "computers"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort.questtemplate": [
+        "/scriptConfig/generatedText/fluff/4/1/2"
+      ],
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/9/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "cossstume making"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/2"
+      ],
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "cousin"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/share_secret.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/9",
+        "/scriptConfig/generatedText/fluff/3/1/8"
+      ],
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "crasberries"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/collect_fine.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/0"
+      ],
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "crime"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/5"
+      ],
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "date"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/share_secret.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/8"
+      ],
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "daydreams about"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/share_secret.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/5"
+      ],
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "draws pictures of"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/share_secret.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/3"
+      ],
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "dreams about"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/0",
+        "/scriptConfig/generatedText/fluff/1/1/0"
+      ],
+      "quests/generated/templates/escort.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/0",
+        "/scriptConfig/generatedText/fluff/1/1/0"
+      ],
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/0",
+        "/scriptConfig/generatedText/fluff/2/1/0"
+      ],
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/9/0",
+        "/scriptConfig/generatedText/fluff/9/1/0"
+      ],
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/4/0",
+        "/scriptConfig/generatedText/fluff/4/1/0"
+      ],
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/0",
+        "/scriptConfig/generatedText/fluff/2/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "earlier"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/2"
+      ],
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/4/1/2"
+      ],
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "earlier in the week"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/2"
+      ],
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/2"
+      ],
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/9/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "earlier today"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/5/0",
+        "/scriptConfig/generatedText/fluff/5/1/0"
+      ],
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/0",
+        "/scriptConfig/generatedText/fluff/3/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "exploring"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/5"
+      ],
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "ferocious"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/0"
+      ],
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/13/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "floranappreciation"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/0",
+        "/scriptConfig/generatedText/fluff/0/1/0"
+      ],
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/0",
+        "/scriptConfig/generatedText/fluff/0/1/0",
+        "/scriptConfig/generatedText/fluff/1/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "friend"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/0"
+      ],
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "genericPluralizedMonsterTerm"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/11/1/1"
+      ],
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/9/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "get rid of them"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/share_secret.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/5",
+        "/scriptConfig/generatedText/fluff/3/1/4"
+      ],
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "gleaps"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/0"
+      ],
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/5/1/2"
+      ],
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "jogging"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/3"
+      ],
+      "quests/generated/templates/escort.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/3"
+      ],
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/3"
+      ],
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/9/1/3"
+      ],
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/4/1/3"
+      ],
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "last night"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/share_secret.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/6"
+      ],
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "likes poking"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/10/1/3"
+      ],
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/9/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "make them pay"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/0"
+      ],
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "monsters"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/1"
+      ],
+      "quests/generated/templates/escort.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/1"
+      ],
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/1"
+      ],
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/9/1/1"
+      ],
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/4/1/1"
+      ],
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "not too long ago"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/4"
+      ],
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "old friend"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/share_secret.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/6",
+        "/scriptConfig/generatedText/fluff/3/1/5"
+      ],
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "pearlpeas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/share_secret.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/3",
+        "/scriptConfig/generatedText/fluff/3/1/2"
+      ],
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "poptops"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort.questtemplate": [
+        "/scriptConfig/generatedText/fluff/4/1/4"
+      ],
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/9/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "private reasonsss"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/0"
+      ],
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/9/0"
+      ],
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/5/0"
+      ],
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/9/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "request"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/13/0"
+      ],
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/7/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "rumours"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/share_secret.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/9"
+      ],
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "sings to"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/share_secret.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/7"
+      ],
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "smells"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/share_secret.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/4",
+        "/scriptConfig/generatedText/fluff/3/1/3"
+      ],
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "snails"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/11/1/0"
+      ],
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/9/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "sort them out"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort.questtemplate": [
+        "/scriptConfig/generatedText/fluff/4/1/0"
+      ],
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/9/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "sssome combat practice"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort.questtemplate": [
+        "/scriptConfig/generatedText/fluff/4/1/1"
+      ],
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/9/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "sssome hunting practice"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/12/1/2"
+      ],
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/9/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "ssstab them"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/share_secret.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/2"
+      ],
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "stares at"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/share_secret.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/0"
+      ],
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "their own face"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/share_secret.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/9"
+      ],
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "their toes"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/share_secret.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/1"
+      ],
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "themselves"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/5/1/4"
+      ],
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "trekking"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/share_secret.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/7",
+        "/scriptConfig/generatedText/fluff/3/1/6"
+      ],
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "vegetables"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/share_secret.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/0"
+      ],
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "verb2"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/5/1/1"
+      ],
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "walking"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/share_secret.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/4"
+      ],
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "wants to draw"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/4"
+      ],
+      "quests/generated/templates/escort.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/4"
+      ],
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/4"
+      ],
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/9/1/4"
+      ],
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/4/1/4"
+      ],
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "yesterday"
+    }
+  }
+]

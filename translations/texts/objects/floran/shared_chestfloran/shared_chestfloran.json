@@ -1,0 +1,100 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/chestfloran1/chestfloran1.object": [
+        "/humanDescription"
+      ],
+      "objects/floran/chestfloran2/chestfloran2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A neatly crafted chest made from twigs and some kind of dried vines."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/chestfloran1/chestfloran1.object": [
+        "/floranDescription"
+      ],
+      "objects/floran/chestfloran2/chestfloran2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran ssstore many exciting thingss in chesst."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/chestfloran1/chestfloran1.object": [
+        "/novakidDescription"
+      ],
+      "objects/floran/chestfloran2/chestfloran2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It doesn't even have a real lock mechanism. That ain't secure at all."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/chestfloran1/chestfloran1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/floran/chestfloran2/chestfloran2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It may be quicker to pull this chest apart than to open it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/chestfloran1/chestfloran1.object": [
+        "/apexDescription"
+      ],
+      "objects/floran/chestfloran2/chestfloran2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This chest appears to be made from bound sticks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/chestfloran1/chestfloran1.object": [
+        "/avianDescription"
+      ],
+      "objects/floran/chestfloran2/chestfloran2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This chest appears to be more for storage than security. I could practically pull it apart."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/chestfloran1/chestfloran1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/floran/chestfloran2/chestfloran2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This chest may rot over time, exposing its contents."
+    }
+  }
+]

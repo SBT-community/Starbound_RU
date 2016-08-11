@@ -1,0 +1,63 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/ursaminer1.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questFailed/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bernard",
+      "Rus": "Бернард"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/ursaminer1.questtemplate": [
+        "/scriptConfig/failConditions/0/failureText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Little Dipper already got his teddy from someone else!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/ursaminer1.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Little Dipper is happy now! Thank you, now I can finish opening up the shop.",
+      "Rus": "Маленький Диппа счастлив! Спасибо, теперь я могу открыть магазин."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/ursaminer1.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "My Little Dipper lost his dear ^orange;teddy bear^white;. I just can't finish setting up shop with him like this - can you help me ^green;get a new teddy bear^white; for him, please?",
+      "Rus": "Мой маленький Диппа потерял любимого ^orange; плюшевого мишку^white;. Я просто не могу открыть магазин, пока он расстроен - поможешь мне ^green;найти нового плюшевого мишку^white; для него?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/ursaminer1.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;The Lost Teddy",
+      "Rus": "^green;Потерянный мишка"
+    }
+  }
+]

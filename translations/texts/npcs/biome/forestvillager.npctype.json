@@ -1,0 +1,91 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/forestvillager.npctype": [
+        "/scriptConfig/dialog/converse/floran/apex/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran help monkey man take down mini log.",
+      "Rus": "Флоран помогает обезьяноподобному человеку выкорчевать пень.\"?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/forestvillager.npctype": [
+        "/scriptConfig/dialog/converse/floran/apex/0",
+        "/scriptConfig/dialog/converse/floran/avian/0",
+        "/scriptConfig/dialog/converse/floran/floran/0",
+        "/scriptConfig/dialog/converse/floran/glitch/0",
+        "/scriptConfig/dialog/converse/floran/human/0",
+        "/scriptConfig/dialog/converse/floran/hylotl/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran like living in the foresst - knows all the plants and all the trails.",
+      "Rus": "Флоран любит жить в лессу - знает все травы и тропы."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/forestvillager.npctype": [
+        "/scriptConfig/dialog/converse/floran/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran's a big shot in thiss village.",
+      "Rus": "Флоран - большая шишка в этой деревне."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/forestvillager.npctype": [
+        "/scriptConfig/dialog/converse/floran/avian/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flyyyyyyyy!",
+      "Rus": "Летиииииииии!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/forestvillager.npctype": [
+        "/scriptConfig/dialog/converse/floran/hylotl/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let'ss be friends!",
+      "Rus": "Давай будем друзьями!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/forestvillager.npctype": [
+        "/scriptConfig/dialog/converse/floran/human/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Living one with nature iss the life for me!",
+      "Rus": "Жить в единсстве с природой - это по мне!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/forestvillager.npctype": [
+        "/scriptConfig/dialog/converse/floran/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You need Floran to stab anything?",
+      "Rus": "Нужно кого-то порезать?"
+    }
+  }
+]

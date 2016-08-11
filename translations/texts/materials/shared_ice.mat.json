@@ -1,0 +1,64 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ice.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/ice.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Buncha ice.",
+      "Rus": "Ледяная гроздь."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ice.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/ice.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frossty ssolid ice.",
+      "Rus": "Морозный цельной лед."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ice.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/ice.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It appears this ice is naturally frozen.",
+      "Rus": "Кажется, этот лед естественного происхождения."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Твердый лед, колкий на ощупь."
+    ],
+    "Files": {
+      "items/materials/ice.matitem": [
+        "/description"
+      ],
+      "tiles/materials/ice.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Solid ice, tingly to the touch.",
+      "Rus": "Твердый лёд, холодный на ощупь."
+    }
+  }
+]

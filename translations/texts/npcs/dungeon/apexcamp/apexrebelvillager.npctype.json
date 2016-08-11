@@ -1,0 +1,334 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/apex/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you a fellow rebel?",
+      "Rus": "Ты принадлежишь к повстанцам?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/apex/1",
+        "/scriptConfig/dialog/converse/apex/avian/1",
+        "/scriptConfig/dialog/converse/apex/default/1",
+        "/scriptConfig/dialog/converse/apex/floran/1",
+        "/scriptConfig/dialog/converse/apex/glitch/1",
+        "/scriptConfig/dialog/converse/apex/hylotl/1",
+        "/scriptConfig/dialog/converse/apex/novakid/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you here to support our never-ending struggle against the Miniknog?",
+      "Rus": "Ты здесь чтобы помочь нам в бесконечной борьбе против Министерства?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/apex/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you on the run from the Miniknog? Good luck, friend.",
+      "Rus": "Ты скрываешься от Министерства? Удачи, друг."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/apex/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did you lose your family to the Miniknog too?",
+      "Rus": "Ты тоже потерял семью из-за Министерства?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/avian/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you know much about the plight of the Apex, Avian?",
+      "Rus": "Много ли ты знаешь о том, как живется Апексам, Авиан?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/floran/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you know much about the plight of the Apex, Floran?",
+      "Rus": "Много ли ты знаешь о том, как живется Апексам, Флоран?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/glitch/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you know much about the plight of the Apex, Glitch?",
+      "Rus": "Много ли ты знаешь о том, как живется Апексам, Глитч?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/hylotl/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you know much about the plight of the Apex, Hylotl?",
+      "Rus": "Много ли ты знаешь о том, как живется Апексам, Хилотл?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you know much about the plight of the Apex, human?",
+      "Rus": "Много ли ты знаешь о том, как живется Апексам, человек?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/novakid/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you know much about the plight of the Apex? ...What kind of creature are you, anyway?",
+      "Rus": "Много ли ты знаешь о том, как живется Апексам?.. Ладно, забудь... Кто же ты такой?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/avian/13",
+        "/scriptConfig/dialog/converse/apex/default/13",
+        "/scriptConfig/dialog/converse/apex/floran/13",
+        "/scriptConfig/dialog/converse/apex/glitch/13",
+        "/scriptConfig/dialog/converse/apex/hylotl/13",
+        "/scriptConfig/dialog/converse/apex/novakid/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Does your kind have a callous dictator too?",
+      "Rus": "У вашей расы тоже есть бессердечный диктатор?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Не перебивай меня, я занят, пытаюсь свергнуть злой режим."
+    ],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/apex/11",
+        "/scriptConfig/dialog/converse/apex/avian/11",
+        "/scriptConfig/dialog/converse/apex/default/11",
+        "/scriptConfig/dialog/converse/apex/floran/11",
+        "/scriptConfig/dialog/converse/apex/glitch/11",
+        "/scriptConfig/dialog/converse/apex/hylotl/11",
+        "/scriptConfig/dialog/converse/apex/novakid/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't interrupt me, I am busy trying to overthrow an evil regime.",
+      "Rus": "Не отвлекай меня, я занят, пытаюсь свергнуть злой режим."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Как много ты знаешь о Министерстве? Они управляют Апексами и делают это жестоко."
+    ],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/avian/9",
+        "/scriptConfig/dialog/converse/apex/default/9",
+        "/scriptConfig/dialog/converse/apex/floran/9",
+        "/scriptConfig/dialog/converse/apex/glitch/9",
+        "/scriptConfig/dialog/converse/apex/hylotl/9",
+        "/scriptConfig/dialog/converse/apex/novakid/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "How much do you know about the Miniknog? They rule the Apex people, but they are cruel and brutal.",
+      "Rus": "Как много ты знаешь о Министерстве? Они управляют апексами и делают это жестоко."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/apex/7",
+        "/scriptConfig/dialog/converse/apex/avian/7",
+        "/scriptConfig/dialog/converse/apex/default/7",
+        "/scriptConfig/dialog/converse/apex/floran/7",
+        "/scriptConfig/dialog/converse/apex/glitch/7",
+        "/scriptConfig/dialog/converse/apex/hylotl/7",
+        "/scriptConfig/dialog/converse/apex/novakid/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "I bet Big Ape isn't even that big.",
+      "Rus": "Я думал что Большой Эйп не такой большой."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/apex/6",
+        "/scriptConfig/dialog/converse/apex/avian/6",
+        "/scriptConfig/dialog/converse/apex/default/6",
+        "/scriptConfig/dialog/converse/apex/floran/6",
+        "/scriptConfig/dialog/converse/apex/glitch/6",
+        "/scriptConfig/dialog/converse/apex/hylotl/6",
+        "/scriptConfig/dialog/converse/apex/novakid/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder what Big Ape looks like in person.",
+      "Rus": "Интересно, как выглядит Большой Эйп?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/apex/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "If we fight hard enough, our kind will one day be free of oppression.",
+      "Rus": "Если мы будем упорно сражаться, однажды наш вид будет освобождён от притеснений."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/apex/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Miniknog will pay for what they have done to our kind!",
+      "Rus": "Министерство заплатит за то, что сделало с нашим родом!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/apex/12",
+        "/scriptConfig/dialog/converse/apex/avian/12",
+        "/scriptConfig/dialog/converse/apex/default/12",
+        "/scriptConfig/dialog/converse/apex/floran/12",
+        "/scriptConfig/dialog/converse/apex/glitch/12",
+        "/scriptConfig/dialog/converse/apex/hylotl/12",
+        "/scriptConfig/dialog/converse/apex/novakid/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Try not to cause too much of a disturbance around here, okay?",
+      "Rus": "Постарайтесь не создавать слишком много волнений здесь, хорошо?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/avian/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "We fight for the freedom of our people. What do you fight for, Avian?",
+      "Rus": "Мы боремся за свободу нашего народа. За что сражаешься ты, Авиан?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/floran/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "We fight for the freedom of our people. What do you fight for, Floran?",
+      "Rus": "Мы боремся за свободу нашего народа. За что сражаешься ты, Флоран?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/glitch/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "We fight for the freedom of our people. What do you fight for, Glitch?",
+      "Rus": "Мы боремся за свободу нашего народа. За что сражаешься ты, Глитч?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/hylotl/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "We fight for the freedom of our people. What do you fight for, Hylotl?",
+      "Rus": "Мы сражаемся за свободу нашего народа. А за что сражаешься ты, Хилотл?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "We fight for the freedom of our people. What do you fight for, human?",
+      "Rus": "Мы боремся за свободу нашего народа. За что сражаешься ты, человек?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/novakid/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "We fight for the freedom of our people. What do you fight for, my strange glowing friend?",
+      "Rus": "Мы боремся за свободу нашего народа. За что сражаешься ты, мой странный светящийся друг?"
+    }
+  }
+]

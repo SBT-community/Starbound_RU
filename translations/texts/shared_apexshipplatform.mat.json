@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Достаточно прочный, чтобы противостоять требованиям космических путешествий."
+    ],
+    "Files": {
+      "items/materials/apexshipplatform.matitem": [
+        "/description"
+      ],
+      "tiles/platforms/apexshipplatform.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Durable enough to withstand the demands of space travel.",
+      "Rus": "Достаточно прочная чтобы выдержать нагрузки космических путешествий."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/apexshipplatform.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/platforms/apexshipplatform.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Platforms like this are used in space ship construction.",
+      "Rus": "Платформы такого типа используются при строительстве космических кораблей."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Платформа корабля"
+    ],
+    "Files": {
+      "items/materials/apexshipplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/apexshipplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ship Platform",
+      "Rus": "Корабельная платформа"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/apexshipplatform.matitem": [
+        "/florandescription"
+      ],
+      "tiles/platforms/apexshipplatform.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sstrong sship platform.",
+      "Rus": "Прочная корабельная платформа."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/apexshipplatform.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/platforms/apexshipplatform.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This platform's strong enough t'keep from gettin' boot scuffed.",
+      "Rus": "Эти платформы достаточны сильны, чтобы выдержать большие нагрузки."
+    }
+  }
+]

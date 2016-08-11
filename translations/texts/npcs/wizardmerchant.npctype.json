@@ -1,0 +1,283 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/wizardmerchant.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Sells powerful magicks",
+      "Rus": "Продаёт мощную магию"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/wizardmerchant.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Wizard",
+      "Rus": "Волшебник"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/wizardmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cogs and gears only go so far, young one.",
+      "Rus": "Только зубья и шестерёнки могли зайти так далеко, юнец."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/wizardmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come and browse my wondrous items.",
+      "Rus": "Подойди и посмотри мои чудесные товары."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Да прибудет с вами мужество!"
+    ],
+    "Files": {
+      "npcs/wizardmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/2",
+        "/scriptConfig/dialog/merchant/end/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Courage to you!",
+      "Rus": "Да прибудет с тобой мужество!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/wizardmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/0",
+        "/scriptConfig/dialog/merchant/end/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Farewell, traveller.",
+      "Rus": "Прощай, путешественник."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/wizardmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran ssells wondrous things!",
+      "Rus": "Флоран продаёт чудессса!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/wizardmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran stocks best sstuff around.",
+      "Rus": "Флоран припассс лучший материал с округи."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/wizardmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran's wares are pretty impresssive!",
+      "Rus": "Флоран ругается довольно внушительно!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/wizardmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Got more than just bananas here...",
+      "Rus": "Здесь есть больше, чем просто бананы..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/wizardmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/apex/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "How about something wondrous, eh?",
+      "Rus": "Как о чём-то удивительном, а?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/wizardmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have items for sale that even the Stargazers envy.",
+      "Rus": "У меня есть такие товары на продажу, что даже Звездочёт позавидует."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/wizardmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/1",
+        "/scriptConfig/dialog/merchant/end/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope to see you more in future.",
+      "Rus": "Я надеюсь увидеть вас ещё раз в будущем."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/wizardmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I think you'll agree my wares are quite impressive.",
+      "Rus": "Я думаю, вы согласитесь, что мои изделия являются весьма впечатляющими."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/wizardmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've got things the Miniknog would kill for.",
+      "Rus": "У меня есть вещи, за которые Министерство убило бы. "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/wizardmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kluex has blessed my stock... Probably.",
+      "Rus": "Клюэкс благословил мой запас... Кажется."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/wizardmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "My wares are wondrous and strange.",
+      "Rus": "Мои изделия дивные и странные."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/wizardmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Traveller, come hither, and browse my wares.",
+      "Rus": "Путешественник, подойди сюда и посмотри мои товары."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/wizardmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome to my shop of wonders.",
+      "Rus": "Добро пожаловать в мой магазин чудес."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/wizardmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome, please browse my wares.",
+      "Rus": "Добро пожаловать, пожалуйста, просмотрите мои товары."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/wizardmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "What can I do ya for?",
+      "Rus": "Что я могу сделать для тебя?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/wizardmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "What can I interest you in? I have many wondrous goods.",
+      "Rus": "Чем я могу заинтересовать вас? У меня есть много чудесных товаров."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/wizardmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're not Miniknog are you? Goooooood.",
+      "Rus": "Ты не из Министерства, не так ли? Слава Богу!"
+    }
+  }
+]

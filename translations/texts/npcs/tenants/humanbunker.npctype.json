@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/humanbunker.npctype": [
+        "/scriptConfig/dialog/converse/human/default/2",
+        "/scriptConfig/dialog/converse/human/human/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am here to make sure this location is up to scratch. Don't mind me!",
+      "Rus": "Я здесь, чтобы убедиться, что всё в порядке. Не обращай внимания!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/humanbunker.npctype": [
+        "/scriptConfig/dialog/converse/human/default/3",
+        "/scriptConfig/dialog/converse/human/human/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I used to work in the military, now I'm a property supervisor. Don't think I've gone soft!",
+      "Rus": "Я был военным, а теперь инспектор недвижимости. Но не думай, что я стал мягче!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/humanbunker.npctype": [
+        "/scriptConfig/dialog/converse/human/default/0",
+        "/scriptConfig/dialog/converse/human/human/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm here to inspect this location. Stand up straight!",
+      "Rus": "Я здесь с проверкой. Стой смирно!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/humanbunker.npctype": [
+        "/scriptConfig/dialog/converse/human/human/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm here to verify the safety of this location. After what happened to Earth, you can't be too careful.",
+      "Rus": "Я здесь, чтобы убедиться, что тут всё безопасно. После того, что случилось с Землёй, тебе тоже стоит это почаще проверять."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/humanbunker.npctype": [
+        "/scriptConfig/dialog/converse/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm here to verify the security of this location.",
+      "Rus": "Я здесь, чтобы убедиться, что тут безопасно."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/humanbunker.npctype": [
+        "/scriptConfig/dialog/converse/human/default/4",
+        "/scriptConfig/dialog/converse/human/human/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm running a constant inspection, so you'd better not let standards slip around here!",
+      "Rus": "Я постоянно делаю повторные осмотры, так что смотри тут у меня!"
+    }
+  }
+]

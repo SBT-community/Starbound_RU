@@ -1,0 +1,98 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/gaterepair.questtemplate": [
+        "/scriptConfig/descriptions/collectRepairItem"
+      ]
+    },
+    "Texts": {
+      "Eng": "Collect ^orange;Core Fragments^reset;",
+      "Rus": "Соберите ^orange;Фрагменты Ядра^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/gaterepair.questtemplate": [
+        "/scriptConfig/descriptions/explore"
+      ]
+    },
+    "Texts": {
+      "Eng": "Explore the ^orange;orbited planet^reset;",
+      "Rus": "Исследуйте ^orange;планету^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/gaterepair.questtemplate": [
+        "/scriptConfig/descriptions/findGate"
+      ]
+    },
+    "Texts": {
+      "Eng": "Find the ^orange;archaic energy source^reset;",
+      "Rus": "Найдите^orange;древний источник питания^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/gaterepair.questtemplate": [
+        "/scriptConfig/descriptions/findEsther"
+      ]
+    },
+    "Texts": {
+      "Eng": "Find the source of the ^orange;mysterious messages^reset;",
+      "Rus": "Найдите источник ^orange;загадочных сообщений^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/gaterepair.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Getting Started",
+      "Rus": "Начнем"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/gaterepair.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thank you for joining me dear. With your help I know we can triumph.",
+      "Rus": "Спасибо, что присоединился ко мне, дорогуша. С твоей помощью мы победим."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/gaterepair.questtemplate": [
+        "/scriptConfig/descriptions/repairGate"
+      ]
+    },
+    "Texts": {
+      "Eng": "Use the ^orange;Core Fragments^reset; to activate the Gate",
+      "Rus": "Используйте ^orange;Фрагменты Ядра^reset; для активации Врат"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/gaterepair.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "We are currently in orbit around an unknown world. The ship is heavily damaged and we are unable to leave orbit. I suggest you ^green;beam down to the planet's surface using the ^orange;teleporter^white;, and search for supplies and perhaps a means of fixing the ship.",
+      "Rus": "Сейчас мы на орбите неопознанной планеты. Корабль сильно поврежден и мы не можем покинуть орбиту. Я советую ^green;отправиться на поверхность планеты, используя ^orange;телепорт^white;, и найти припасы, а также материалы для починки корабля."
+    }
+  }
+]

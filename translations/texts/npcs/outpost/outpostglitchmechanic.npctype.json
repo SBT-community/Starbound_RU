@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outpostglitchmechanic.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Boastful. We Glitch are used to fixing machinery far more complex than the stuff you see here.",
+      "Rus": "Хвастливо. Мы, Гличи, чинили механизмы гораздо более сложные, чем ты видишь здесь."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outpostglitchmechanic.npctype": [
+        "/scriptConfig/dialog/converse/glitch/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "How are you at fixing things up?",
+      "Rus": "Разбираешься в починке разных вещей?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outpostglitchmechanic.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "We Glitch are used to fixing machinery far more complex than the stuff you see here.",
+      "Rus": "Мы, Гличи, чинили механизмы гораздо более сложные, чем ты видишь здесь."
+    }
+  }
+]

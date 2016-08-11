@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/wizardvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. I'm researching the different kinds of staves and wands. Have you seen any lately?",
+      "Rus": "Восторженный. Я исследую разные типы посохов и палочек. Вы их не видели?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/wizardvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. Have you found any staves or wands recently? They are powerful weapons in the right hands!",
+      "Rus": "Заинтригованный. Вы случаем не находили посохи или палочки? Это мощное оружие для правой руки!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/wizardvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nervous. These robes are elegant, but they are indeed difficult to walk in.",
+      "Rus": "Нервный. Эта одежда элегантна, но в ней  очень трудно ходить."
+    }
+  }
+]

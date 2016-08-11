@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Прочный забор из меди."
+    ],
+    "Files": {
+      "items/materials/copperfence.matitem": [
+        "/description"
+      ],
+      "tiles/materials/copperfence.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy copper fence.",
+      "Rus": "Крепкий медный забор."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperfence.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/copperfence.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Copper Fence",
+      "Rus": "Медный забор"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperfence.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/copperfence.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssturdy copper fence.",
+      "Rus": "Крепкий медный зззабор."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperfence.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/copperfence.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This copper fence is much stronger than wood.",
+      "Rus": "Этот медный забор гораздо прочнее деревянного."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperfence.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/copperfence.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This here fence is made outta copper.",
+      "Rus": "Этот забор сделан из меди."
+    }
+  }
+]

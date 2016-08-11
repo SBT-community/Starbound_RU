@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratejanitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frustrated. They have me sweeping the bridge every hour like I'm a machine or something.",
+      "Rus": "Негодование. Они заставляют подметать мост каждый час. Я им что какая-то машина?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratejanitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impatient. Just one day away from retirement...",
+      "Rus": "С нетерпением. Всего один день до пенсии."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratejanitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleasant. At least it's a nice day to be working outside.",
+      "Rus": "С наслаждением. Хотя бы, это чудный денек для работы снаружи."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratejanitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Resigned. I suppose this tree's beauty provides some justification for its upkeep.",
+      "Rus": "Смиренно.  Может в красоте этого дерева и есть смысл."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratejanitor.npctype": [
+        "/scriptConfig/dialog/complain/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weary. Every day, more petals to sweep.",
+      "Rus": "Скучно. Каждый день подметаю все больше лепестков."
+    }
+  }
+]

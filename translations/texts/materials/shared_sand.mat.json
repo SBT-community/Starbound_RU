@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sand.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/sand.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Big ol' pile of dusty silt."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sand.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/sand.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It is difficult to keep silt from seeping into my components."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sand.matitem": [
+        "/description"
+      ],
+      "tiles/materials/sand.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's Silt. It's very silty.",
+      "Rus": "Песок. Очень песочный."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sand.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/sand.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Loose Silt",
+      "Rus": "Сыпучий песок"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sand.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/sand.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Silt. It's so dussty."
+    }
+  }
+]

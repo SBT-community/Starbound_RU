@@ -1,0 +1,37 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Очень комфортное кресло. Я счастлив."
+    ],
+    "Files": {
+      "objects/themed/geometric/geometricchair/geometricchair.object": [
+        "/apexDescription"
+      ],
+      "objects/themed/serene/serenechair/serenechair.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A very comfortable chair. I'm happy with it.",
+      "Rus": "Очень удобное кресло. Мне нравится."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/geometric/geometricchair/geometricchair.object": [
+        "/hylotlDescription"
+      ],
+      "objects/themed/serene/serenechair/serenechair.object": [
+        "/hylotlDescription"
+      ],
+      "objects/themed/wave/wavechair/wavechair.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Almost the luxury Hylotl are used to. There's plenty of satisfaction to be gained here.",
+      "Rus": "Почти роскошь для Хилотл. Получаешь удовлетворение от сидения."
+    }
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alienrock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/alienrock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien Rock",
+      "Rus": "Инопланетный камень"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alienrock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/alienrock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran like sstrange rocks.",
+      "Rus": "Флорану нравится ссстранный камень."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alienrock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/alienrock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some kinda alien lookin' rock.",
+      "Rus": "Эти камни, значтца, внеземной породы."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alienrock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/alienrock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This rock is of an alien origin.",
+      "Rus": "Эта порода инопланетного происхождения."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Этот камень пришёл из чужого мира."
+    ],
+    "Files": {
+      "items/materials/alienrock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/alienrock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This strange rock comes from an alien world.",
+      "Rus": "Это странный камень из другого мира."
+    }
+  }
+]

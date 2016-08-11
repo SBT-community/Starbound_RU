@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/hoe.tillingtool": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hoe lets you till soil. The tilled soil can then be used to grow all sorts of crops!",
+      "Rus": "Эта мотыга позволит вам вспахивать почву. На вспаханной почве можно выращивать все виды растительных культур!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/hoe.tillingtool": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Hoe^white;",
+      "Rus": "^orange;Мотыга^white; "
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outpostfloranfan.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0",
+        "/scriptConfig/dialog/converse/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Doess Floran look good in human clothes?",
+      "Rus": "Флорану идёт человечесская одежда?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outpostfloranfan.npctype": [
+        "/scriptConfig/dialog/converse/floran/hylotl/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fish man should not worry about Floran. Floran try to be like a human now. No ssstab.",
+      "Rus": "Ходячая рыба не должна боятьсся Флорана. Флоран теперь как человек. Не режет."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outpostfloranfan.npctype": [
+        "/scriptConfig/dialog/converse/floran/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran wonders why new Floran came. Does new Floran like humans too?",
+      "Rus": "Флоран хочет знать почему пришёл другой Флоран. Другому Флорану тоже нравятся люди?"
+    }
+  }
+]

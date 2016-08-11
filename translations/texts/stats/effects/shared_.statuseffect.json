@@ -1,0 +1,32 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/frostslow/frostslow.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/frostslow/frostsnare.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/mudslow/mudslow.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/slimeslow/slimeslow.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/staffslow/staffslow.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/stun/stun.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/tarslow/tarslow.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slow",
+      "Rus": "Замедление"
+    }
+  }
+]

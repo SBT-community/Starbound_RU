@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bamboo.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/bamboo.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bamboo",
+      "Rus": "Бамбук"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Свежескошенные стебли бамбука.",
+      "Свежесрубленные  стебли бамбука."
+    ],
+    "Files": {
+      "items/materials/bamboo.matitem": [
+        "/description"
+      ],
+      "tiles/materials/bamboo.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Freshly cut stalks of bamboo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bamboo.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/bamboo.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fresssh bamboo stalkss.",
+      "Rus": "Сссвежие ссстебли бамбука."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bamboo.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/bamboo.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some chopped bamboo.",
+      "Rus": "Обрубки бамбука."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bamboo.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/bamboo.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The bamboo colour indicates it was cut recently.",
+      "Rus": "Цвет бамбука указывает, на то, что он недавно был срезан."
+    }
+  }
+]

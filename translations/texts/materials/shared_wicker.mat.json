@@ -1,0 +1,59 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/wicker.matitem": [
+        "/description"
+      ],
+      "tiles/materials/wicker.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A roughly woven wicker material.",
+      "Rus": "Примерное такой плетёный материал."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/wicker.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/wicker.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks t'me like some wicker."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/wicker.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/wicker.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sstrong wicker makess wall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/wicker.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/wicker.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This wicker is tightly woven and strong."
+    }
+  }
+]

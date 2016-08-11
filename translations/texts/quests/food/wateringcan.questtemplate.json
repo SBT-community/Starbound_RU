@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/food/wateringcan.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Great! With this watering can and a hoe I should be set to start farming!",
+      "Rus": "Великолепно! С этой лейкой и мотыгой я могу заняться фермерством!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/food/wateringcan.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "To grow crops I'll need to keep the soil moist. I should ^orange;craft a wooden watering can^white;.",
+      "Rus": "Для того, чтобы вырастить урожай, мне нужно держать почву во влажном состоянии. Я должен ^orange;сделать деревянную лейку^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/food/wateringcan.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Yes I Can!",
+      "Rus": "^green;Да, я могу!"
+    }
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "DeniedAlternatives": [
+      "<target> ждёт, когда Вы отдадите ему <givenitems>"
+    ],
+    "Files": {
+      "quests/generated/templates/barter.questtemplate": [
+        "/scriptConfig/objectives/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Give <givenItems> to <target>",
+      "Rus": "<target> ждёт, когда Вы отдадите ему <givenItems>"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Флорану нужно торговать со сстранствующим торговцем ^orange;<target>^white; - Флоран даст ему ^orange;<givenitems>^white;  в обмен на ^orange;<receiveditems>^white;. Торговец прибыл в^orange;<spawnpoint>^white;<spawnpoint.direction>  ссовсем недавно. Можешь сделать это для Флорана^white;?"
+    ],
+    "Files": {
+      "quests/generated/templates/barter.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next, Floran needsss to make a trade with travelling merchant ^orange;<target>^white; - Floran going to give them ^orange;<givenItems>^white; to get ^orange;<receivedItems>^white;. The merchant arrived near the ^orange;<spawnPoint>^white;<spawnPoint.direction> sssome time ago. ^green;Could you go make the trade for Floran^white;?",
+      "Rus": "Флорану нужно торговать со сстранствующим торговцем ^orange;<target>^white; - Флоран даст ему ^orange;<givenItems>^white;  в обмен на ^orange;<receivedItems>^white;. Торговец прибыл в^orange;<spawnPoint>^white;<spawnPoint.direction>  ссовсем недавно. Можешь сделать это для Флорана^white;?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Следующий странствующий торговец <target> прибыл в  ^orange;<spawnpoint>^white;<spawnpoint.direction> совсем недавно. <target.pronoun.capitalsubject> согласился обеспечивать нас ^orange;<receiveditems>^white; которые он готов обменять на ^orange;<givenitems>^white;. Не могли бы вы ^green;отнести товары ^orange;<target>^white;? "
+    ],
+    "Files": {
+      "quests/generated/templates/barter.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next, travelling merchant <target> arrived at the ^orange;<spawnPoint>^white;<spawnPoint.direction> a short time ago. <target.pronoun.capitalSubject> has agreed to provide us with the ^orange;<receivedItems>^white; we require in exchange for the ^orange;<givenItems>^white;. Could you ^green;take the goods to ^orange;<target>^white;?",
+      "Rus": "Следующий странствующий торговец <target> прибыл в  ^orange;<spawnPoint>^white;<spawnPoint.direction> совсем недавно. <target.pronoun.capitalSubject> согласился обеспечивать нас ^orange;<receivedItems>^white; которые он готов обменять на ^orange;<givenItems>^white;. Не могли бы вы ^green;отнести товары ^orange;<target>^white;? "
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Странствующий торговец ^orange;<target>^white; прибыл в ^orange;<spawnpoint>^white;<spawnpoint.direction> недавно. <target.pronoun.capitalsubject> согласился обеспечивать нас <receiveditems> которые нужны нам в обмен на ^orange;<givenitems>^white;. Не мог бы ты отнести товары <target>^white;?"
+    ],
+    "Files": {
+      "quests/generated/templates/barter.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next, travelling merchant ^orange;<target>^white; arrived at the ^orange;<spawnPoint>^white;<spawnPoint.direction> a short time ago. <target.pronoun.capitalSubject> has agreed to provide us with the <receivedItems> we require in exchange for the ^orange;<givenItems>^white;. ^green;Could you take the goods to <target>^white;?",
+      "Rus": "Странствующий торговец ^orange;<target>^white; прибыл в ^orange;<spawnPoint>^white;<spawnPoint.direction> недавно. <target.pronoun.capitalSubject> согласился обеспечивать нас <receivedItems> которые нужны нам в обмен на ^orange;<givenItems>^white;. Не мог бы ты отнести товары <target>^white;?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/barter.questtemplate": [
+        "/scriptConfig/objectives/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return <receivedItems> to <questGiver>",
+      "Rus": "<questGiver> ждёт, когда Вы вернёте <receivedItems>"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Благодарю! <receivedItems> будут полезны в следующей части моего плана...",
+      "Благодарю! <receiveditems> будут полезны в следующей части моего плана...",
+      "Спасибо! <receiveditems> пригодятся в следующей части моего плана..."
+    ],
+    "Files": {
+      "quests/generated/templates/barter.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/0",
+        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thank you! The <receivedItems> will be useful for the next part of my plan..."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Сспасибо! <receiveditems> пригодятся в сследующей части моего плана..."
+    ],
+    "Files": {
+      "quests/generated/templates/barter.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thank you! The <receivedItems> will be ussseful for the next part of my plan...",
+      "Rus": "Сспасибо! <receivedItems> пригодятся в сследующей части моего плана..."
+    }
+  }
+]

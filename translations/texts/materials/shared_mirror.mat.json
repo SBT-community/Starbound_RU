@@ -1,0 +1,68 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Ничего не отражающее зеркало."
+    ],
+    "Files": {
+      "items/materials/mirror.matitem": [
+        "/description"
+      ],
+      "tiles/materials/mirror.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A non-reflective mirror.",
+      "Rus": "Неотражающее зеркало."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/mirror.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/mirror.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mirror Block",
+      "Rus": "Зеркальный блок"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Что-то не так с этим зеркалом, не отражается ни шиша.",
+      "Это какое-то неправильное зеркало. Я не вижу в нем отражения."
+    ],
+    "Files": {
+      "items/materials/mirror.matitem": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/mirror.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Somethin' wrong with this mirror. I ain't seein' nothin' reflected."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Вопреки внешнему виду, это зеркало ничего не отражает.",
+      "Кажется что это зеркало, хотя оно ничего не отражает."
+    ],
+    "Files": {
+      "items/materials/mirror.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/mirror.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Though it appears to be a mirror there is no reflection."
+    }
+  }
+]

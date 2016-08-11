@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornateflooring.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/ornateflooring.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A beautiful ornate wooden floor.",
+      "Rus": "Великолепный изысканный деревянный настил."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Восхитительно изысканный настил."
+    ],
+    "Files": {
+      "items/materials/ornateflooring.matitem": [
+        "/description"
+      ],
+      "tiles/materials/ornateflooring.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delightful ornate flooring.",
+      "Rus": "Очаровательный изысканный настил."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornateflooring.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/ornateflooring.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran feelss fancy walking on ornate floor.",
+      "Rus": "Флоран чувствует ссебя необычно на изысканном полу."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornateflooring.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/ornateflooring.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ornate Flooring",
+      "Rus": "Изысканный настил"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornateflooring.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/ornateflooring.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some fancy lookin' ornate floorin'.",
+      "Rus": "На вид знатный настил."
+    }
+  }
+]

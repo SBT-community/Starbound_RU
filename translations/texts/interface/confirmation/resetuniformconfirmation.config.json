@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/resetuniformconfirmation.config": [
+        "/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "\n\nReady to switch your crew back to the protectorate uniform now?",
+      "Rus": "\n\nСменить униформу Вашего экипажа на униформу Защитника?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "\n\nСменить униформу Вашего экипажа на униформу Защитника?"
+    ],
+    "Files": {
+      "interface/confirmation/resetuniformconfirmation.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reset your crew's uniform?",
+      "Rus": "Сбросить униформу Вашего экипажа?"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/samuraivisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Hylotl warrior always needs to be well fed! I am simply here to purchase food.",
+      "Rus": "Воины-Хилотл всегда должны быть сытыми! Так я как раз пришёл купить чего-нибудь."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/samuraivisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "If I am to protect my people, I must be as strong as I can be. This means being well fed... I am just here for a snack.",
+      "Rus": "Если я должен защищать мой народ, я должен быть силён. А значит должен быть сыт... Так вот, я тут чтобы перекусить."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/samuraivisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Isn't this place wondrous? It makes me want to write a poem, or sing a ballad.",
+      "Rus": "Разве это место не прекрасно? Мне хочется написать поэтому или спеть балладу об этом."
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/avianairship.npctype": [
+        "/scriptConfig/dialog/converse/avian/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't judge me by my appearance! I'm ever so refined.",
+      "Rus": "Не судите меня по моей внешности! Я всегда так прелестна."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/avianairship.npctype": [
+        "/scriptConfig/dialog/converse/avian/avian/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Forget what you've been told, being Grounded is actually freeing.",
+      "Rus": "Забудь все что тебе говорили, быть Приземлённым - вот настоящая свобода."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/avianairship.npctype": [
+        "/scriptConfig/dialog/converse/avian/avian/0",
+        "/scriptConfig/dialog/converse/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I used to be part of a big crew! It's quieter here.",
+      "Rus": "Я привык быть частью большой команды! Мне здесь спокойно."
+    }
+  }
+]

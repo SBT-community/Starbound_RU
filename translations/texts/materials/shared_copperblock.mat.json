@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Блок Медной Шестерни"
+    ],
+    "Files": {
+      "items/materials/copperblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/copperblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Copper Gear Block",
+      "Rus": "Медный блок с резьбой"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/copperblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Copper blocks, they look sorta like gears.",
+      "Rus": "Медные блоки, выглядят как хорошие шестерни."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/copperblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Copper blockss like machine gearss.",
+      "Rus": "Медные блоки как механизмы машин."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/copperblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I find the gear shape of these blocks pleasing.",
+      "Rus": "Я нашел очертание шестерни на этих блоках необычными."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Этот медный блок имеет отчетливое очертание в виде шестерни."
+    ],
+    "Files": {
+      "items/materials/copperblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/copperblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This copper block has a distinct gear-like imprint.",
+      "Rus": "Медный блок, на котором вытравлен узор, похожий на шестерни."
+    }
+  }
+]

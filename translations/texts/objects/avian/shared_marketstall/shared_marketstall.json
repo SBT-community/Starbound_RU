@@ -1,0 +1,100 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/marketstall4/marketstall4.object": [
+        "/apexDescription"
+      ],
+      "objects/avian/marketstall5/marketstall5.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An empty stall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/marketstall4/marketstall4.object": [
+        "/novakidDescription"
+      ],
+      "objects/avian/marketstall5/marketstall5.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An empty stall. Nothin' to buy here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/marketstall4/marketstall4.object": [
+        "/floranDescription"
+      ],
+      "objects/avian/marketstall5/marketstall5.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Empty sstall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/marketstall4/marketstall4.object": [
+        "/humanDescription"
+      ],
+      "objects/avian/marketstall5/marketstall5.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Empty stalls are always kind of sad."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/marketstall4/marketstall4.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avian/marketstall5/marketstall5.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This stall is empty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/marketstall4/marketstall4.object": [
+        "/avianDescription"
+      ],
+      "objects/avian/marketstall5/marketstall5.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This stall is empty. The grounded can find wares difficult to source."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/marketstall4/marketstall4.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avian/marketstall5/marketstall5.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This stall needs stock."
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sewage.matitem": [
+        "/description"
+      ],
+      "tiles/materials/sewage.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A disgusting pile of sewage. Lovely.",
+      "Rus": "Омерзительная куча оплывающих отходов. Какая прелесть."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sewage.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/sewage.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran disgussted by stinky ssewage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sewage.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/sewage.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks t'me like some sorta sewage. Smells like an outhouse in the sun."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sewage.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/sewage.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Raw Sewage",
+      "Rus": "Сырые отходы"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sewage.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/sewage.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The stench from this sewage is overwhelming."
+    }
+  }
+]

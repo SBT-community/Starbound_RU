@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/fridge/fridge.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fridge. Hopefully it contains banana milkshake."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/fridge/fridge.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fridge. Ideally filled with drinks and snacks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/fridge/fridge.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A plain ol' fridge."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/fridge/fridge.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Full-Size Fridge"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/fridge/fridge.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This fridge is operating at the optimal temperature."
+    }
+  }
+]

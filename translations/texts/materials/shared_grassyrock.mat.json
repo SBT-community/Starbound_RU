@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/grassyrock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/grassyrock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grass is growing in the crevices of this rock.",
+      "Rus": "Трава растет в трещинах этого камня."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/grassyrock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/grassyrock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grassssy rocksss.",
+      "Rus": "Травянисстые камни."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Травянистый камень"
+    ],
+    "Files": {
+      "items/materials/grassyrock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/grassyrock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grassy Rock",
+      "Rus": "Мшистый камень"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Грубый, травянистый камень"
+    ],
+    "Files": {
+      "items/materials/grassyrock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/grassyrock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rough, grassy stone.",
+      "Rus": "Грубый мшистый камень."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/grassyrock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/grassyrock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some rocks with growin' grass.",
+      "Rus": "Несколько камней як травкой покрыты."
+    }
+  }
+]

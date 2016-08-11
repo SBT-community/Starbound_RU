@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/lunarbase.npctype": [
+        "/scriptConfig/dialog/converse/human/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I may not be a great fighter in close combat, but my mining days have given me a keen eye.",
+      "Rus": "Может я и не боец, но у меня намётанный взгляд благодаря работе шахтёра."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/lunarbase.npctype": [
+        "/scriptConfig/dialog/converse/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I used to be stationed in a lunar mining facility. I'm glad I'm retired now, though.",
+      "Rus": "Я мог бы сейчас быть в лунной шахте. Хорошо что я ушёл на пенсию."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/lunarbase.npctype": [
+        "/scriptConfig/dialog/converse/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm so sick of the smell of liquid Erchius. It is like... Syrup.",
+      "Rus": "Мне противен запах жидкого эрикия. Он напоминает.... Сироп."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/lunarbase.npctype": [
+        "/scriptConfig/dialog/converse/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "We all had to be armed back in my mining facility days. In case of space pirates, mostly.",
+      "Rus": "В былые деньки все в шахте были вооружены. На случай нападения пиратов, в основном."
+    }
+  }
+]

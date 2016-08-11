@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist1.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've been developing technology that will enable the user to swiftly dash from one point to another, but I'm lacking a few crucial components for my ^orange;prototype^white;. Could you help me by ^green;bringing me ^orange;10 Copper Bars^white;?",
+      "Rus": "Я разрабатываю технологию, которая позволяет быстро перемещаться от одной точки к другой, но мне не хватает нескольких важных компонентов для моего ^orange;прототипа^white;. Не мог бы ты помочь мне, ^green;принеся ^orange; 10 медных слитков^white;?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist1.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You brought me the parts! Wonderful! With these the ^orange;Dash Tech^white; should be ready for action, but there's only one way to be sure...",
+      "Rus": "Ты принёс слитки! Замечательно! Теперь ^orange;Технология Рывков^white;, вроде как, должна заработать, но есть только один способ узнать точно..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist1.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Let's Get Technical",
+      "Rus": "^orange;Инженерный подход"
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tombbrick.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/tombbrick.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Closer inspection suggests these bricks are quite old."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tombbrick.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/tombbrick.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dusssty old bricks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tombbrick.matitem": [
+        "/description"
+      ],
+      "tiles/materials/tombbrick.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dusty and ancient bricks.",
+      "Rus": "Пыльные и древние кирпичи."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tombbrick.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/tombbrick.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just some ol' dusty bricks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tombbrick.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/tombbrick.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tomb Brick",
+      "Rus": "Кирпичи из Гробницы"
+    }
+  }
+]

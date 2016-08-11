@@ -1,0 +1,107 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wreckpanel1/wreckpanel1.object": [
+        "/humanDescription"
+      ],
+      "objects/wreck/wreckpanel2/wreckpanel2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A broken and dirty input panel. I don't think this is going to work.",
+      "Rus": "Сломанная и грязная панель ввода. Я не думаю, что она будет работать."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wreckpanel1/wreckpanel1.object": [
+        "/avianDescription"
+      ],
+      "objects/wreck/wreckpanel2/wreckpanel2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's an input panel, but it's completely dead.",
+      "Rus": "Это панель ввода, но она выведена из строя."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wreckpanel1/wreckpanel1.object": [
+        "/apexDescription"
+      ],
+      "objects/wreck/wreckpanel2/wreckpanel2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This input panel doesn't work.",
+      "Rus": "Эта панель ввода не работает."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wreckpanel1/wreckpanel1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/wreck/wreckpanel2/wreckpanel2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This input panel is completely dead.",
+      "Rus": "Эта панель ввода полностью сломана."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wreckpanel1/wreckpanel1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/wreck/wreckpanel2/wreckpanel2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This input panel is past saving.",
+      "Rus": "Эта панель ввода былых времен."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wreckpanel1/wreckpanel1.object": [
+        "/novakidDescription"
+      ],
+      "objects/wreck/wreckpanel2/wreckpanel2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ol' thing is beyond useless now.",
+      "Rus": "Эта штука бесполезна."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wreckpanel1/wreckpanel1.object": [
+        "/floranDescription"
+      ],
+      "objects/wreck/wreckpanel2/wreckpanel2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This panel isss very broken.",
+      "Rus": "Эта панель сссильно повреждена."
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/wickersupport.matitem": [
+        "/description"
+      ],
+      "tiles/materials/wickersupport.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tightly woven wicker material.",
+      "Rus": "Плотный тканый плетёный материал."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/wickersupport.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/wickersupport.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likess strong wicker blockss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/wickersupport.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/wickersupport.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks like these blocks are just some tough material all woven together."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/wickersupport.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/wickersupport.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This wicker material is sturdy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/wickersupport.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/wickersupport.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wicker Support Block",
+      "Rus": "Поддерживающий плетёный блок"
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/techhull1.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/techhull1.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fancy lookin' panel with a bunch of wires underneath."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/techhull1.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/techhull1.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran rip plating off, sslash wires."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/techhull1.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/techhull1.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reinforced Tech Block",
+      "Rus": "Усиленный Хай-тек Блок"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/techhull1.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/techhull1.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This plating covers the wires underneath extremely well."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/techhull1.matitem": [
+        "/description"
+      ],
+      "tiles/materials/techhull1.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wiring hides beneath this reinforced hi-tech plated material.",
+      "Rus": "Провода спрятаны под усиленной хай-тек пластиной."
+    }
+  }
+]

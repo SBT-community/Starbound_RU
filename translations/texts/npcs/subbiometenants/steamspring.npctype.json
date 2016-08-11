@@ -1,0 +1,170 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/steamspring.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Inventor",
+      "Rus": "Изобретатель"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/steamspring.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Sells hand-crafted curiosities",
+      "Rus": "Продаёт самодельные интересности"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/steamspring.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Anxious. Please come back if you need anything else.",
+      "Rus": "Озабоченно. Прошу, заходи ещё, если тебе будет что-то нужно."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/steamspring.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Desperate. I really need someone to buy my inventions...",
+      "Rus": "Отчаянно. Мне очень нужно, чтобы кто-то купил у меня мои разработки..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/steamspring.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eager. Come again!",
+      "Rus": "Нетерпеливо. Заходи снова!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/steamspring.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eager. Do you want to have a look at my inventions?",
+      "Rus": "Нетерпеливо. Ты хочешь взглянуть на изобретения?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/steamspring.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eager. Now you can have a look at the inventions I need to sell!",
+      "Rus": "Нетерпеливо. Теперь ты можешь взглянуть на изобретения, которые мне нужно продать!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/steamspring.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. Finally, a customer who might buy my inventions!",
+      "Rus": "Возбуждённо. Наконец-то, покупатель, который может вложиться в мои изобретения!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/steamspring.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hopeful. Would you like to buy some of my inventions? Please?",
+      "Rus": "Оптимистично. Ты хочешь купить что-то из моих изобретений?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/steamspring.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Panicking. Please don't forget to come and visit again!",
+      "Rus": "Панически. Прошу, не забудь потом зайти снова!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/steamspring.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. Now you can have a look at my inventions!",
+      "Rus": "Польщённо. Теперь ты можешь взглянуть на мои изобретения!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/steamspring.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tense. I hope you like my wares. I hope you come back!",
+      "Rus": "Напряжённо. Надеюсь, что тебе понравятся мои товары и ты заглянешь ещё!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/steamspring.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcoming. You should see what inventions I have to offer!",
+      "Rus": "Приветливо. Ты должен взглянуть, какие я могу предложить изобретения."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/steamspring.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Worried. Don't forget to come back.",
+      "Rus": "Обеспокоенно. Не забудь заглянуть ещё."
+    }
+  }
+]

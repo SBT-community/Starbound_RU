@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/stoneplatform.matitem": [
+        "/description"
+      ],
+      "tiles/platforms/stoneplatform.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A platform carved from stone.",
+      "Rus": "Платформа вырезана из камня."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/stoneplatform.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/platforms/stoneplatform.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Must've taken forever to carve these stone platforms."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/stoneplatform.matitem": [
+        "/florandescription"
+      ],
+      "tiles/platforms/stoneplatform.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sstone carved into platformss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/stoneplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/stoneplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stone Platform",
+      "Rus": "Каменная платформа"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/stoneplatform.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/platforms/stoneplatform.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This platform has been carved from solid stone."
+    }
+  }
+]

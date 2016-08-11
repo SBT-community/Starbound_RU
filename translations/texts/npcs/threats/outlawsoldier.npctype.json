@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/outlawsoldier.npctype": [
+        "/scriptConfig/dialog/attack/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Get out of my way or you'll be sorry!",
+      "Rus": "Убирайся или пожалеешь!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/outlawsoldier.npctype": [
+        "/scriptConfig/dialog/attack/human/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have skills beyond your capabilities! You're outta luck!",
+      "Rus": "Тебе не повезло, я профессионал!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/outlawsoldier.npctype": [
+        "/scriptConfig/dialog/attack/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've been doing this for years, you've got no chance!",
+      "Rus": "Я в этом деле уже много лет, у тебя нет шансов!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/outlawsoldier.npctype": [
+        "/scriptConfig/dialog/attack/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "My skills far excel yours!",
+      "Rus": "Мои навыки лучше твоих!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/outlawsoldier.npctype": [
+        "/scriptConfig/dialog/attack/human/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "You want a shootout with me? So be it!",
+      "Rus": "Пвп или зассал?!"
+    }
+  }
+]

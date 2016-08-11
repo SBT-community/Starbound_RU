@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Тяжелая железная решётка "
+    ],
+    "Files": {
+      "items/materials/heavyironbars.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/heavyironbars.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Heavy Iron Bars",
+      "Rus": "Тяжелая железная решётка"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/heavyironbars.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/heavyironbars.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Russsty old barss.",
+      "Rus": "Ссстарая и ржавая решётка"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/heavyironbars.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/heavyironbars.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Seeing metal rusting in this manner is unsettling.",
+      "Rus": "Становится тревожно когда видишь как ржавчина пожирает металл."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/heavyironbars.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/heavyironbars.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These rusty ol' bars have seen better days.",
+      "Rus": "Эти ржавые прутья видали лучшие дни."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Толстая железная решётка. Тем не менее сильно заржавела."
+    ],
+    "Files": {
+      "items/materials/heavyironbars.matitem": [
+        "/description"
+      ],
+      "tiles/materials/heavyironbars.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thick iron bars. Still strong, though decaying with rust.",
+      "Rus": "Толстые железные прутья. Еще прочные, хоть и немного ржавые."
+    }
+  }
+]

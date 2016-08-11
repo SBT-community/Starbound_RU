@@ -1,0 +1,64 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/blaststone.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/blaststone.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intense heat have fused minerals into this blaststone.",
+      "Rus": "Сильный жар вплавил минералы в этот бластит."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Острые камни, образовавшиеся в результате взрыва чудовищной температуры.",
+      "Острые камни, производимые взрывами чудовищного жара."
+    ],
+    "Files": {
+      "items/materials/blaststone.matitem": [
+        "/description"
+      ],
+      "tiles/materials/blaststone.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sharp rocks produced by blasts of enormous heat."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/blaststone.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/blaststone.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssharp rockss are sstrong.",
+      "Rus": "Острые, крепкие камни."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/blaststone.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/blaststone.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These tough rocks are mighty sharp.",
+      "Rus": "Об эти камни легко порезаться."
+    }
+  }
+]

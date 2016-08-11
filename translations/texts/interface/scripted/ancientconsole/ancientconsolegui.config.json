@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/ancientconsole/ancientconsolegui.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Activated with Core Fragments",
+      "Rus": "Активируется фрагментами ядра"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/ancientconsole/ancientconsolegui.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient Gate Console",
+      "Rus": "Консоль Древних Врат"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/ancientconsole/ancientconsolegui.config": [
+        "/gui/costDescription/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "REQUIRED FRAGMENTS",
+      "Rus": "НЕОБХОДИМО ФРАГМЕНТОВ"
+    }
+  }
+]

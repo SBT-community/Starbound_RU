@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission2.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excellent, you did wonderfully! We're one sixth of the way there, dear. Nothing to sniff at. And now we have ^orange;Nuru^reset; to help us, too.",
+      "Rus": "Превосходно, ты все сделал как надо! Шестая часть пути пройдена, дорогуша. Не надо так сопеть. Теперь с нами ^orange;Нуру^reset; и она хочет нам помочь."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission2.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fetch the Floran Artifact",
+      "Rus": "Принеси Артефакт Флоран"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission2.questtemplate": [
+        "/scriptConfig/descriptions/artifact"
+      ]
+    },
+    "Texts": {
+      "Eng": "Find the ^orange;artifact^reset; in ^green;the Hunting Grounds^reset;",
+      "Rus": "Найдите ^orange;артефакт^reset; в ^orange;Охотничьих Угодьях^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission2.questtemplate": [
+        "/scriptConfig/missionRadioMessage/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have received coordinates for the ^orange;The Ceremonial Hunting Caverns^reset;. ^green;Use the mission interface^reset; to access the location.",
+      "Rus": "У меня есть координаты ^orange;Церемониальных Охотничьих Пещер^reset;. ^green;Используй интерфейс миссий^reset;, чтобы попасть в эту локацию."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission2.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return to ^orange;Esther^reset; at ^green;the Ark^reset;",
+      "Rus": "Вернитесь к ^orange;Эстер^reset; у ^orange;Ковчега^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission2.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The clues you collected reveal that the ^orange;Floran artifact^reset; is enshrined in ^orange;The Ceremonial Hunting Caverns^reset;. Judging from what I've found out, you'll need to ^green;compete in a ritual hunt to get it^reset;. I've given SAIL the co-ordinates you need. Be careful dear.",
+      "Rus": "Улики, которые ты собрал, указывают, что ^orange;Артефакт Флоран^reset; храниться в ^orange;Церемониальных Охотничьих Пещерах^reset;. Судя по тому, что мне известно, тебе нужно пройти ^green;соревнования по ритуальной охоте, чтобы заполучить его^reset;. Я передала твоему K.Э.П. требуемые координаты. Береги себя, дорогуша."
+    }
+  }
+]

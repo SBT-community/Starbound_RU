@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/talljar1/talljar1.object": [
+        "/avianDescription"
+      ],
+      "objects/avian/talljar2/talljar2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tall pot, nothing special."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/talljar1/talljar1.object": [
+        "/apexDescription"
+      ],
+      "objects/avian/talljar2/talljar2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tall pot. Might contain supplies."
+    }
+  }
+]

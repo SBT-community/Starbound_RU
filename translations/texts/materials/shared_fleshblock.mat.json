@@ -1,0 +1,77 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fleshblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/fleshblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flesh Chunk",
+      "Rus": "Блок плоти"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fleshblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/fleshblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some hideous, foul-smelling kind of flesh.",
+      "Rus": "Отвратительный, зловонный блок слепленный из какой-то плоти."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fleshblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/fleshblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssquishy meat.",
+      "Rus": "Размягченное мясссо."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fleshblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/fleshblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is made of squishy flesh.",
+      "Rus": "Это сделано из размягченной плоти."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fleshblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/fleshblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is some sorta flesh.",
+      "Rus": "Это, кажеццо, в некотором смысле, плоть."
+    }
+  }
+]

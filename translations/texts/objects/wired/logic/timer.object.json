@@ -1,0 +1,36 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/logic/timer.object": [
+        "/description",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The timer output alternates between on and off every 0.5 seconds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/logic/timer.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Timer (0.5 Sec)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/logic/timer.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Timer output alternatesss between on and off every 0.5 secondsss."
+    }
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Кажись прочная металлическая балка."
+    ],
+    "Files": {
+      "items/materials/girder.matitem": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/girder.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strong lookin' metal girder.",
+      "Rus": "Вроде как, дюжая железная балка."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Крепкая металлическая балка"
+    ],
+    "Files": {
+      "items/materials/girder.matitem": [
+        "/description"
+      ],
+      "tiles/materials/girder.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strong looking metal girder.",
+      "Rus": "Прочная металлическая балка."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Холодная металлическая балка."
+    ],
+    "Files": {
+      "items/materials/girder.matitem": [
+        "/floranDescription"
+      ],
+      "tiles/materials/girder.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cold metal girderss.",
+      "Rus": "Холодные сстальные балки."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/girder.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/girder.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Girder",
+      "Rus": "Балка"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Укрепленная металлическая балка, прочная."
+    ],
+    "Files": {
+      "items/materials/girder.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/girder.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This reinforced metal girder is very strong.",
+      "Rus": "Эта усиленная металлическая балка невероятно прочная."
+    }
+  }
+]

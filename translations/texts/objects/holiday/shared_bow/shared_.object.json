@@ -1,0 +1,64 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/giantbow1/giantbow1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/holiday/giantbow2/giantbow2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/holiday/smallbow/smallbow.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A decorative ribbon evokes thoughts of giving."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/giantbow2/giantbow2.object": [
+        "/avianDescription"
+      ],
+      "objects/holiday/smallbow/smallbow.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A decorative shiny ribbon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/giantbow2/giantbow2.object": [
+        "/apexDescription"
+      ],
+      "objects/holiday/smallbow/smallbow.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a decorative bow."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/giantbow1/giantbow1.object": [
+        "/floranDescription"
+      ],
+      "objects/holiday/giantbow2/giantbow2.object": [
+        "/floranDescription"
+      ],
+      "objects/holiday/smallbow/smallbow.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Red like meat. Holiday colorsss make Floran hungry."
+    }
+  }
+]

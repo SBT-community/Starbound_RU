@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/medievalladder.matitem": [
+        "/florandescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran climb dangerous ladder."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/medievalladder.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ladder looks ready to give out."
+    }
+  }
+]

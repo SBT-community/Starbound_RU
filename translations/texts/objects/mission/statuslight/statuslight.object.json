@@ -1,0 +1,101 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/statuslight/statuslight.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A blue light indicates an active switch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/statuslight/statuslight.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A light to indicate the status of a switch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/statuslight/statuslight.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A light which indicates the status of a switch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/statuslight/statuslight.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blue light means ssswitch is on."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/statuslight/statuslight.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Status Light"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/statuslight/statuslight.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The light goes blue when the switch is hit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/statuslight/statuslight.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The light indicates the status of the switch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/statuslight/statuslight.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The switch is active when the light is blue."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/statuslight/statuslight.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "When the light is blue, the switch is on."
+    }
+  }
+]

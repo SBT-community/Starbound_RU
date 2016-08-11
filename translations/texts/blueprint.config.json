@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "blueprint.config": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "<item>",
+      "Rus": "<item>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "blueprint.config": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unlocks the <item> crafting schematic.",
+      "Rus": "Открывает схему для крафта <item>."
+    }
+  }
+]

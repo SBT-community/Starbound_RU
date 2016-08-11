@@ -1,0 +1,400 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/title/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "<questGiver> attempts a bribe"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/title/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "<questGiver>'s Agenda"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "<target> took the <gift>? That's perfect! If I ever need a favour I know I have someone indebted to me now. I can't believe you thought this was some sort of bribe!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "<target> took the bribe? Great! This will be useful for my plans."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "All that is left to do is to ^green;bribe ^orange;<target>^green; with that ^orange;<gift>^white; that I know <target.pronoun.subject> wants. It is completely ethical - Honest!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/title/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bribe <target>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Finally, my plan comes together! ^green;Take that ^orange;<gift>^green; and generously give it to ^orange;<target>^green; on my behalf^white;. <target.pronoun.capitalSubject> will be indebted to me for my kind act of bribery!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran hass done research and found out that ^orange;<target>^white; needs one <gift> for <target.pronoun.possessiveDet> persssonal use. Floran thinks that if we ^green;give <target.pronoun.object> our ^orange;<gift>^white;, <target.pronoun.subject>'ll help uss in return."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/text/next/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran heard from a friend of a friend that ^orange;<target>'s^white; biggessst wish is to have a nice <gift>. Let's use this to our advantage. ^green;Give them our preciousss ^orange;<gift>^white; and <target.pronoun.subject> will surely feel indebted to usss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/text/next/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran heard that ^orange;<target>^white; hasss been looking for a nice <gift> for a long time now. Lucky for <target.pronoun.object> we have one! If we give <target.pronoun.object> this precious ^orange;<gift>^white; Floran is sssure <target.pronoun.subject> will feel inclined to help us."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/text/next/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "How do you feel about bribery? I figure that if you were to ^green;gift that ^orange;<gift>^green; to ^orange;<target>^white; on my behalf, <target.pronoun.subject> would owe me a favour! Can you go and ^green;give it to <target.pronoun.object> for me?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/failureText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I failed to deliver the bribe to <target>. Maybe <questGiver> should deal with <questGiver.pronoun.possessiveDet> dirty business <questGiver.pronoun.reflexive> anyway?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'd like to make clear that this is very much not a bribe of any sort. I don't even know the meaning of the word. All I need you to do is ^green;give ^orange;<target> ^green;the ^orange;<gift> ^white;to persuade <target.pronoun.object> to act in my favour..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It all comes down to this. ^green;Present ^orange;<target> ^green;with the ^orange;<gift>. ^white;In case <target.pronoun.subject> asks, it's definitely not a bribe..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "My plan worked! Bribery sure is easy. Now I can call upon <target> to help me whenever I need <target.pronoun.object>. Thanks for your help!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/text/next/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next I need the favour of ^orange;<target>^green; - Could you try bribing <target.pronoun.object> with the ^orange;<gift>^white;? That should hopefully work..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/text/next/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next ^green;I need to win over ^orange;<target>^white;, and it just so happens that ^green;<target.pronoun.subject> would love your ^orange;<gift>^white;! Is that bribery? Sure, but I don't think <target.pronoun.subject>'ll mind..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now <target> owes me a favour! That was easier than I thought. Thank you for helping me with my genius plan!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now we can finally get to the important part of the plan. Floran knows that ^orange;<target>^white; hass been searching for a nice ^orange;<gift>^white; for a long time. ^green;If you bribe <target.pronoun.object> with ourss,^white; <target.pronoun.subject>'ll owe Floran."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/failureText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oh no! I failed to deliver the bribe to <target>. Maybe I'm not cut out for shady business."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perfect! Now <target> will feel indebted to uss. And rightfully so! Floran is pleassed with the outcome."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/addToHouseObjective/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Place <gift> in <target>'s home",
+      "Rus": "Поставьте <gift> в дом <target>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "So <target.pronoun.subject> just took the <gift>? No questions asked? Here I was thinking it'd be hard to get <target> on my side."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "So <target> accepted the <gift>? This plan is working out better than I anticipated. ",
+      "Rus": "Так <target> принял <gift>? Этот план работает даже лучше, чем я ожидал."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "So you're saying that <target> took the bribe? Ok, it's Ok, I think we've done the right thing..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Successs! <target> owes Floran a favour for being sssuch a friendly neighbour. Floran will make sure to use this favour well."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/text/next/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The next thing I’d like you to do is give ^orange;<target> ^white;a very special something. ^green;I need <target.pronoun.object> to receive the ^orange;<gift>^white; in order for the plan to work."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wow, bribery is easy! <target> owing me a favour is useful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yesss, Floran is glad that <target> accepted the present. Now to figure out how to use this sssituation to our advantage..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You did it! <target> owes usss big time now!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/goalText/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Conspiratorial. I've been looking for a reliable way to indebt <target> to myself."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/goalText/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Floran wants <target> to owe us sssomething. Floran has a geniuss plan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/goalText/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;I want <target> to owe me a favour... I have a plan..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/goalText/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;I want to win <target>'s favour, and I have a way to make it happen..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/goalText/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;If we give <target> a present, Floran is sssure <target.pronoun.subject>'ll feel indebted to us."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/goalText/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Manipulative. I'd like <target> to act in my favour. Help me sweeten <target.pronoun.object> up."
+    }
+  }
+]

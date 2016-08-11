@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Готовить",
+      "Распечатать"
+    ],
+    "Files": {
+      "interface/windowconfig/crafting3dprinter.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/craftingcampfire.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/craftingfood.config": [
+        "/paneLayout/btnCraft/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Prepare",
+      "Rus": "Приготовить"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "БЛЮДО"
+    ],
+    "Files": {
+      "interface/windowconfig/craftingcampfire.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/craftingfood.config": [
+        "/paneLayout/lblProducttitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;DISH",
+      "Rus": "^#b9b5b2;БЛЮДО"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "РЕЦЕПТ"
+    ],
+    "Files": {
+      "interface/windowconfig/craftingcampfire.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/craftingfood.config": [
+        "/paneLayout/lblSchematics/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;RECIPE",
+      "Rus": "^#b9b5b2;РЕЦЕПТ"
+    }
+  }
+]

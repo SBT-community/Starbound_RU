@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratehallstudent4.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did you sleep through your SAIL alarms? That is so you.",
+      "Rus": "Ты не проснулся от будильника КСИИ? В этом весь ты."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratehallstudent4.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey <entityname>! I was wondering if you were going to show up or not.",
+      "Rus": "Эй <entityname>! А я все думаю, покажешься ли ты сегодня?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratehallstudent4.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You don't look half bad, for having just woken up!",
+      "Rus": "А ты неплохо выглядишь, для того, кто только что проснулся!"
+    }
+  }
+]

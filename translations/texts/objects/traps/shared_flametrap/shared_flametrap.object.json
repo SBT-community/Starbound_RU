@@ -1,0 +1,86 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/ancientflametrap/ancientflametrap.object": [
+        "/apexDescription"
+      ],
+      "objects/traps/flametrap/flametrap.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A flame trap, definitely one to avoid."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/ancientflametrap/ancientflametrap.object": [
+        "/humanDescription"
+      ],
+      "objects/traps/flametrap/flametrap.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A trusty, reliable flame trap."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/ancientflametrap/ancientflametrap.object": [
+        "/floranDescription"
+      ],
+      "objects/traps/flametrap/flametrap.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fire trap is Floran's worssst enemy!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/ancientflametrap/ancientflametrap.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/traps/flametrap/flametrap.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's just a little flame trap, nothing that can't be overcome."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/ancientflametrap/ancientflametrap.object": [
+        "/avianDescription"
+      ],
+      "objects/traps/flametrap/flametrap.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ouch! Flames and feathers don't mix!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/ancientflametrap/ancientflametrap.object": [
+        "/hylotlDescription"
+      ],
+      "objects/traps/flametrap/flametrap.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The swift warrior fears not the flame."
+    }
+  }
+]

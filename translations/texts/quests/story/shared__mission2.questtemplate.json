@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Возвращайся к ^orange;Эстер^reset; у ^orange;Ковчега^reset;"
+    ],
+    "Files": {
+      "quests/story/apex_mission2.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ],
+      "quests/story/avian_mission2.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ],
+      "quests/story/glitch_mission2.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ],
+      "quests/story/hylotl_mission2.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return to ^orange;Esther^reset; at ^orange;the Ark^reset;",
+      "Rus": "Вернитесь к ^orange;Эстер^reset; у ^orange;Ковчега^reset;"
+    }
+  }
+]

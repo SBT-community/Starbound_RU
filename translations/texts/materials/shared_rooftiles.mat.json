@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rooftiles.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/rooftiles.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Roof Tiles",
+      "Rus": "Черепица"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rooftiles.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/rooftiles.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Roofing tiless."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rooftiles.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/rooftiles.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These roof tiles are sloped to allow for easy rain run off."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rooftiles.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/rooftiles.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These tiles look perfect for makin' a roof."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rooftiles.matitem": [
+        "/description"
+      ],
+      "tiles/materials/rooftiles.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weathered roof tiles. Their shape makes me feel uneasy.",
+      "Rus": "Черепица с водостоком."
+    }
+  }
+]

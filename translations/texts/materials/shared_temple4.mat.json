@@ -1,0 +1,77 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/temple4.matitem": [
+        "/description"
+      ],
+      "tiles/materials/temple4.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Old and poorly crafted blocks, crude drawings are scratched into the stone.",
+      "Rus": "Старый и плохо вытесанный блок, исцарапанный грубыми рисунками."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/temple4.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/temple4.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Old carvingss in stone brickss.",
+      "Rus": "Старая резьба в сстаром камне."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/temple4.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/temple4.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Simple Temple Blocks",
+      "Rus": "Простой храмовый блок"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/temple4.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/temple4.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Someone's gone and carved a buncha pictures into these bricks.",
+      "Rus": "Кто-то расцарапал все камни картинками."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/temple4.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/temple4.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These carvings are rather crudely done.",
+      "Rus": "Вырезанные рисунки показывают низкий уровень умения резчика."
+    }
+  }
+]

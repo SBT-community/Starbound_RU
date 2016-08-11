@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Блок сделан из плотной растительной материи."
+    ],
+    "Files": {
+      "items/materials/plantmatter.matitem": [
+        "/description"
+      ],
+      "tiles/materials/plantmatter.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A block made of packed plant matter.",
+      "Rus": "Блок из туго спрессованных растений."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/plantmatter.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/plantmatter.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Buncha plants and leaves all mashed together.",
+      "Rus": "Перемешанные листья и куски растений."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/plantmatter.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/plantmatter.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likess plantss.",
+      "Rus": "Флорану нравятсся расстения."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/plantmatter.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/plantmatter.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plant Matter",
+      "Rus": "Растения"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/plantmatter.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/plantmatter.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plant matter has somehow been compressed into this block.",
+      "Rus": "Растения были каким-то образом сжаты в этот блок."
+    }
+  }
+]

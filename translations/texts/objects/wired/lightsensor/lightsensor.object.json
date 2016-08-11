@@ -1,0 +1,36 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/lightsensor/lightsensor.object": [
+        "/description",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Activates the bottom node in dim light and the top node in bright light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/lightsensor/lightsensor.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Activatesss the bottom node in dim light and the top node in bright light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/lightsensor/lightsensor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light Sensor"
+    }
+  }
+]

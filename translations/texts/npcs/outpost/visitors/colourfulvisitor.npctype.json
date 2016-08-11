@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/colourfulvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Boastful. I am on an errand on behalf of my kin, the Rainbow Rogues!",
+      "Rus": "Хвастливо. Я на поручении от имени Радужных Разбойников."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/colourfulvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly. Well met, friend!",
+      "Rus": "Дружелюбно. Какая встреча, дружище!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/colourfulvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impatient. I am here to gather some vital supplies, and nothing more!",
+      "Rus": "Нетерпеливо. Я пришел добыть некоторые важные ингредиенты, и на этом все!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/colourfulvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Valiant. The Guild of the Rainbow Rogues protect the innocent from harm! We are a serious institution!",
+      "Rus": "Доблестно. Гильдия Радужных Разбойников защищает невинных! Мы абсолютно серьезная организация!"
+    }
+  }
+]

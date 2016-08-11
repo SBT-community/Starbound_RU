@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/songbook.config": [
+        "/paneLayout/group/hint"
+      ]
+    },
+    "Texts": {
+      "Eng": "Band name",
+      "Rus": "Название группы"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/songbook.config": [
+        "/paneLayout/lblSong/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Choose a song",
+      "Rus": "Выберите песню"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/songbook.config": [
+        "/paneLayout/lblBand/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enter the same band name as other\n players to play music in unison",
+      "Rus": "Введите то же название группы, что и другие\n игроки, чтобы играть музыку в унисон"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/songbook.config": [
+        "/paneLayout/btnPlay/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Play",
+      "Rus": "Играть"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/songbook.config": [
+        "/paneLayout/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Songbook Library",
+      "Rus": "Песенник"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/songbook.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;All your music in one space",
+      "Rus": "^#b9b5b2;Вся Ваша музыка в одном месте"
+    }
+  }
+]

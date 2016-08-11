@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "universe_server.config": [
+        "/clientAssetsMismatchMessage"
+      ]
+    },
+    "Texts": {
+      "Eng": "Assets mismatch between client and server, and the override option is not set"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "universe_server.config": [
+        "/serverAssetsMismatchMessage"
+      ]
+    },
+    "Texts": {
+      "Eng": "This server disallows connections from clients with mismatched assets"
+    }
+  }
+]

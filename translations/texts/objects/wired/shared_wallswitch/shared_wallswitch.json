@@ -1,0 +1,70 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/smallwallswitch/smallwallswitch.object": [
+        "/hylotlDescription"
+      ],
+      "objects/wired/smallwallswitch/smallwallswitchlit.object": [
+        "/hylotlDescription"
+      ],
+      "objects/wired/tinywallswitch/tinywallswitch.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic switch. It can be used to activate something."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/smallwallswitch/smallwallswitch.object": [
+        "/apexDescription"
+      ],
+      "objects/wired/smallwallswitch/smallwallswitchlit.object": [
+        "/apexDescription"
+      ],
+      "objects/wired/tinywallswitch/tinywallswitch.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A switch. It activates something."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/smallwallswitch/smallwallswitch.object": [
+        "/humanDescription"
+      ],
+      "objects/wired/smallwallswitch/smallwallswitchlit.object": [
+        "/humanDescription"
+      ],
+      "objects/wired/tinywallswitch/tinywallswitch.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "How many times can I flip this switch on and off I wonder."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/smallwallswitch/smallwallswitch.object": [
+        "/novakidDescription"
+      ],
+      "objects/wired/smallwallswitch/smallwallswitchlit.object": [
+        "/novakidDescription"
+      ],
+      "objects/wired/tinywallswitch/tinywallswitch.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can flip this here switch!"
+    }
+  }
+]

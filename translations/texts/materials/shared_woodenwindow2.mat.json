@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/woodenwindow2.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/woodenwindow2.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can peak through large sslats of wood."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/woodenwindow2.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/woodenwindow2.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can see right through the spaces in this wood, clear to the other side."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/woodenwindow2.matitem": [
+        "/description"
+      ],
+      "tiles/materials/woodenwindow2.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Old wooden slats that don't let much light through.",
+      "Rus": "Старые деревянные планки, которые не пропускают много света."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/woodenwindow2.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/woodenwindow2.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This wood filters light and acts as a barrier."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/woodenwindow2.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/woodenwindow2.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wooden Blinds",
+      "Rus": "Деревянные жалюзи"
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pressuriseddurasteel.matitem": [
+        "/description"
+      ],
+      "tiles/materials/pressuriseddurasteel.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A durasteel panel, specially designed to contain pressurised environments.",
+      "Rus": "Дюрасталевая панель, спроектированная для помещение, подверженных перепадам давления."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pressuriseddurasteel.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/pressuriseddurasteel.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shiny lookin' durasteel panel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pressuriseddurasteel.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/pressuriseddurasteel.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pressurised Durasteel",
+      "Rus": "Герметичная дюрасталь"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pressuriseddurasteel.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/pressuriseddurasteel.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssstrong durassteel panelling."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pressuriseddurasteel.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/pressuriseddurasteel.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This durasteel panel is designed to accommodate changes in pressurisation."
+    }
+  }
+]

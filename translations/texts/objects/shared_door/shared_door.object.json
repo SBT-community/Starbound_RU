@@ -1,0 +1,51 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodendoor/woodendoor.object": [
+        "/apexDescription"
+      ],
+      "objects/glitch/villagedoor/villagedoor.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic wooden door.",
+      "Rus": "Обычная деревянная дверь."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientverticaldoor/ancientverticaldoor.object": [
+        "/humanDescription"
+      ],
+      "objects/generic/woodverticaldoor/woodenverticaldoor.object": [
+        "/humanDescription"
+      ],
+      "objects/mission/miningverticaldoor/miningverticaldoor.object": [
+        "/humanDescription"
+      ],
+      "objects/mission/penguinbasedoor/penguinbasedoor.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hatch for when going horizontal just isn't enough."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodendoor/woodendoor.object": [
+        "/hylotlDescription"
+      ],
+      "objects/glitch/villagedoor/villagedoor.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A humble wooden door."
+    }
+  }
+]

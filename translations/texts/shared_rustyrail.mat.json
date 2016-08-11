@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rustyrail.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/rails/rustyrail.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rusty Rail",
+      "Rus": "Ржавые рельсы"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rustyrail.matitem": [
+        "/florandescription"
+      ],
+      "tiles/rails/rustyrail.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rusty metal rails."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rustyrail.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/rails/rustyrail.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some rusty lookin' rails, gettin' the itch to ride 'em."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rustyrail.matitem": [
+        "/description"
+      ],
+      "tiles/rails/rustyrail.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "These rails are a bit rough, but functional.",
+      "Rus": "Рельсы слегка проржавели, но всё ещё работают."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rustyrail.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/rails/rustyrail.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These rails look worn and rusted."
+    }
+  }
+]

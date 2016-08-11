@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/shipupgrade/shipupgrade1.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Congratulations! Now you have two crew members you qualify for the Sparrow License. You can upgrade your ship! ^green;Visit Penguin Pete on the outpost^reset; with ^orange;2 Upgrade Modules^reset;.",
+      "Rus": "Поздравляем! Теперь у Вас два члена экипажа и Вы получили лицензию на управление кораблём класса Воробей. Вы можете улучшить свой корабль! ^green;Навестите пингвина Пита на Форпосте^reset;, имея при себе ^orange;2 Модуля Улучшений^reset;. "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/shipupgrade/shipupgrade1.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Sparrow Ship Upgrade",
+      "Rus": "^green;Улучшение Корабля - Класс Воробей"
+    }
+  }
+]

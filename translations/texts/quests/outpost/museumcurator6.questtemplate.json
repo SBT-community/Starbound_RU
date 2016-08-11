@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/museumcurator6.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thank you so much for all this - my collection is finally complete, and my museum ready to open!  I hope everyone likes it. I hope Nuru likes it.. ^green; You can visit the Museum by using the ^orange;teleporter^green; next to the ^orange;2 Stop Teleshop^white;.",
+      "Rus": "Спасибо тебе огромное за все это - моя коллекция наконец-то завершена и музей готов к открытию! Я надеюсь, всем понравится. Особенно Нуру... ^green; Можешь посетить музей, использовав ^orange;телепорт^green; рядом с ^orange;\"2 Stop Teleshop\"^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/museumcurator6.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The museum is almost ready, but I need one last item to complete the Hylotl exhibit. Please can you ^green;bring me a ^orange;Traditional Gong^white;? They're quite common in Hylotl settlements, in both villages and cities.",
+      "Rus": "Музей почти готов, но мне нужна последняя вещь для завершения выставки Хилотлов. Пожалуйста, можешь ^green;принести ^orange;Традиционный Гонг^white;? Их можно найти в поселениях Хилотлов: и в городах, и в деревнях."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/museumcurator6.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;The Final Acquisition",
+      "Rus": "^green;Последние Сборы"
+    }
+  }
+]

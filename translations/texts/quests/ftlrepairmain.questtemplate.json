@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/ftlrepairmain.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's working! I can finally visit other star systems!",
+      "Rus": "Заработало! Наконец-то я смогу посетить другие звездные системы!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/ftlrepairmain.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now that I can visit the planets within this solar system ^green;I need to start looking at how to repair my FTL drive, ^orange;SAIL will probably know more.",
+      "Rus": "Теперь, когда я могу перемещаться в пределах этой солнечной системы, мне нужно выяснить, как починить мой сверхсветовой двигатель. Возможно, К.Э.П. знает больше."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/ftlrepairmain.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Free as a Bird",
+      "Rus": "^orange;Свободен как птица"
+    }
+  }
+]

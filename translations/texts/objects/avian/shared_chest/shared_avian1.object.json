@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/chestavian/chestavian1.object": [
+        "/description"
+      ],
+      "objects/avian/chestmedavian/chestmedavian1.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chest adorned with ancient Avian art."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/chestavian/chestavian1.object": [
+        "/humanDescription"
+      ],
+      "objects/avian/chestmedavian/chestmedavian1.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chest! I should take a look inside."
+    }
+  }
+]

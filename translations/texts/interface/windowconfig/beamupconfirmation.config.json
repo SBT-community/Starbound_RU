@@ -1,0 +1,40 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Покидая это задание, Вы сбросите свой прогресс в этой области. Вы уверены, что хотите телепортироваться?"
+    ],
+    "Files": {
+      "interface/windowconfig/beamupconfirmation.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Exit Mission",
+      "Rus": "Покинуть задание"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/beamupconfirmation.config": [
+        "/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leaving this mission will reset your progress for this area. Are you sure you want to teleport?",
+      "Rus": "Покидая это задание, Вы сбросите свой прогресс в этой области. Вы уверены, что хотите телепортироваться?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/beamupconfirmation.config": [
+        "/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Teleport back to your ship",
+      "Rus": "Вернуться на корабль"
+    }
+  }
+]

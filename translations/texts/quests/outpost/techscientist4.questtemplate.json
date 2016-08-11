@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist4.questtemplate": [
+        "/scriptConfig/descriptions/findGoal"
+      ]
+    },
+    "Texts": {
+      "Eng": "Complete the ^orange;Pulse Jump Tech obstacle course^reset;",
+      "Rus": "Завершите ^orange;полосу препятствий Технологии Скачка^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist4.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "My ^orange;Pulse Jump Tech^white; needs thorough testing before I can begin distributing it. My new ^orange;obstacle course^white; is ready and waiting! ^green;Talk to me again when you decide you're ready to try it out^white;.",
+      "Rus": "Моя ^orange;Технология Скачка^white; требует тщательного тестирования, прежде чем я смогу выпустить её на рынок. Очередная ^orange;полоса препятствий^white; готова и ждет! ^green;Сообщи, когда соберёшься с духом и приступим^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist4.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ^orange;Pulse Jump Tech^white; appears to be operating wonderfully! Keep that one, you've earned it. ^green;Come see me again when you're ready for more work^white;.",
+      "Rus": "^orange;Технология Скачка^white;, по-видимому, работает чудесно! Держи одну, как подарок от производителя. ^green;У меня есть ещё пара идей, так что заходи на днях^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist4.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Jumping To The Right Conclusion",
+      "Rus": "^orange;Скачок в развитии"
+    }
+  }
+]

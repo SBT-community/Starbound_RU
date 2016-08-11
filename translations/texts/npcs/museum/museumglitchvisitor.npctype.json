@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/museum/museumglitchvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. How long do you suppose this collection took to put together?",
+      "Rus": "Любопытствуя. Как думаете, как долго собиралась эта коллекция?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/museum/museumglitchvisitor.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "How long do you suppose this collection took to put together?",
+      "Rus": "Как думаете, как долго собиралась эта коллекция?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/museum/museumglitchvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surprised. The cultural differences between our races are quite striking.",
+      "Rus": "Удивленно. Культурные различия наших рас просто поразительны."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/museum/museumglitchvisitor.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The cultural differences between our races are quite striking.",
+      "Rus": "Культурные различия наших рас просто поразительны."
+    }
+  }
+]

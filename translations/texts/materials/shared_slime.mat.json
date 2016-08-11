@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/slime.matitem": [
+        "/description"
+      ],
+      "tiles/materials/slime.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A thick mucus. It jiggles when poked.",
+      "Rus": "Упругая желеобразная масса. Если ткнуть - вибрирует."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/slime.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/slime.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran lovess sslime!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/slime.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/slime.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slime Glob",
+      "Rus": "Шар из слизи"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/slime.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/slime.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This slime is some nasty lookin' stuff."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/slime.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/slime.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This slime looks sticky."
+    }
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/frozenwater.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/frozenwater.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Smooth Ice",
+      "Rus": "Гладкий лед"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/frozenwater.matitem": [
+        "/description"
+      ],
+      "tiles/materials/frozenwater.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some naturally smooth ice.",
+      "Rus": "Обычный, гладкий лед."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/frozenwater.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/frozenwater.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssslippy frozen water.",
+      "Rus": "Ссскользкий лед."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/frozenwater.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/frozenwater.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The way this ice froze has made it unusually smooth.",
+      "Rus": "Быстрое замерзание сделало этот лед гладким."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/frozenwater.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/frozenwater.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ice is mighty slick.",
+      "Rus": "Шибко скользкий лед."
+    }
+  }
+]

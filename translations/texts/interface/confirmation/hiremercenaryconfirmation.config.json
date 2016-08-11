@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/hiremercenaryconfirmation.config": [
+        "/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hire <name> to join your crew for ^yellow;1 Dubloon^white;?^gray;\n\n^white;Job:^gray; <role>\n^white;Rank:^gray; <rank>\n^white;Status:^gray; <status>",
+      "Rus": "Нанять <name>, чтобы он присоединился к Вашей команде за ^yellow;1 Дублон^white;?^gray;\n\n^white;Должность:^gray; <role>\n^white;Класс:^gray; <rank>\n^white;Статус:^gray; <status>"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Нанять <name>, чтобы он присоединился к Вашей команде за ^yellow;1 Дублон^white;?^gray;\n\n^white;Должность:^gray; <role>\n^white;Класс:^gray; <rank>\n^white;Статус:^gray; <status>"
+    ],
+    "Files": {
+      "interface/confirmation/hiremercenaryconfirmation.config": [
+        "/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Support penguin piracy!",
+      "Rus": "Поддержи пингвинье пиратство!"
+    }
+  }
+]

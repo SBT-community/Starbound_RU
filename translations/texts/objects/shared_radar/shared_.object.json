@@ -1,0 +1,44 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/escaperadar/escaperadar.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/outpost/outpostradardish/outpostradardish.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A radar dish."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/escaperadar/escaperadar.object": [
+        "/description"
+      ],
+      "objects/outpost/outpostradardish/outpostradardish.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A radar dish. Not to be confused with a salad dish."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/escaperadar/escaperadar.object": [
+        "/avianDescription"
+      ],
+      "objects/outpost/outpostradardish/outpostradardish.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nice dish."
+    }
+  }
+]

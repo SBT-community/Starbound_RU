@@ -1,0 +1,675 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/completionText/last/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "<player> and <questGiver>, purveyors of vigilante justice! Sounds good, right?  You were like a ghost in there. <thief> won't know what to think! "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/title/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "<questGiver> the vigilante"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/text/first/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "<victim> could trust me more, and I know how to get that to happen. <thief> stole one ^orange;<item>^white; from <victim.pronoun.object> the other day. ^green;Will you retrieve it from ^orange;<thief>'s^green; home^white; and ^green;put it back in ^orange;<victim>'s^green; house?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/text/next/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "A little breaking and entering never hurt anyone... Sort of. Go  ^green;steal back the ^orange;<item> ^green; in ^orange;<thief>'s ^green; home. Then put it back in ^orange;<victim>’s ^green; home."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/text/first/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A thief who goes by the name of ^orange;<thief>^white; has stolen <victim>’s prized ^orange;<item>! Will you^green; retrieve it and put it back in ^orange;<victim>’s^green; house?^white; I'm sure <victim.pronoun.subject> would appreciate it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/text/first/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alright, I know for a fact that ^orange;<thief>^white; has stolen ^orange;<victim>’s <item>^white;. I’ll keep watch while you ^green;take it back.^white; Once you’ve got it, ^green;place it back in ^orange;<victim>’s^green; house."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alright, I'll keep a lookout while you ^green;take the stolen ^orange;<item>^green; from ^orange;<thief>'s^green; home.^white; Once you're done, ^green;place it back in ^orange;<victim>'s^green; house. "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/completionText/last/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crisis averted- <victim> has <victim.pronoun.possessiveDet> <item> back! Thank you for being so helpful, <player>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/text/last/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Everything else is in place! It’s time for some vigilante style burglary. I’ll be your lookout while you^green; grab the stolen ^orange;<item>^green; from ^orange;<thief>’s^green;place. Then sneak it back into ^orange;<victim>’s^green; home."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excellent! <victim> has <victim.pronoun.possessiveDet> <item> and all is right with the universe... Almost."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/text/last/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Finally, I know that ^orange;<thief>^white; recently stole <victim>'s ^orange;<item>.^white; I bet if you ^green;retrieved it and put it back in ^orange;<victim>'s^green; house,^white; <victim.pronoun.subject> would be very grateful, and favour me in future."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/text/last/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Finally, time for some vigilante justice! ^green;Remove the stolen ^orange;<item>^green; from ^orange;<thief>'s^green; home, and ^green;place it back in ^orange;<victim>'s^green; house.^white; I'll be the lookout."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/text/first/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran has a problem, needs help from you. That ssneakthief ^orange;<thief>^white; has stolen a fine ^orange;<item>^white; from sstand-up citizen <victim>! ^green;Please take it back and put it in ^orange;<victim>'ss^green; house."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/text/next/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran is upssset about something that happened - ^orange;<thief> ^white;shamelesssly stole from <victim>! If you could ^green;return the stolen ^orange;<item>^green; to ^orange;<victim>,^white; I'm sssure <victim.pronoun.subject>'d be grateful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/completionText/last/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran thanksss you deeply for returning the <item> to <victim>. Floran knew you could be counted on!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Good job! <victim> will be pleased with me, once <victim.pronoun.subject> sees <victim.pronoun.possessiveDet> <item> back in its rightful place."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/title/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Help out <victim>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/failureText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I couldn't bring justice to <victim>. Maybe it's better that I didn't get involved."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/failureText/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I didn't manage to return the stolen item to <victim>. Let's hope that <victim.pronoun.subject> doesn't mind too much."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/failureText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I failed to retrieve <victim>'s <item>. <questGiver> should have just done it <questGiver.pronoun.reflexive>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/completionText/last/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm so glad you retrieved the <item> for <victim>! Once I take all the credit for helping <victim.pronoun.object> out, <victim.pronoun.subject>'ll definitely trust me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "In a moment of desperation, ^orange;<thief>^white; robbed <victim> of <victim.pronoun.possessiveDet> ^orange;<item>^white;! If you ^green;retrieve it and put it back in ^orange;<victim>’s^green; house,^white; <victim.pronoun.subject> may never even realise it was gone. I would be grateful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Many thanks! <victim> has <victim.pronoun.possessiveDet> <item> and <thief> knows better than to steal from <victim.pronoun.object> again!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mission accomplished! <victim> will be so happy to have the <item> back. Thiss makes Floran happy too."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/text/next/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next, I bet it would make ^orange;<victim>^white; happy if you ^green;retrieved the ^orange;<item>^white; that ^orange;<thief>^white; stole from <victim.pronoun.object>, and ^green;put it back in <victim.pronoun.possessiveDet> house.^white; That aught to get me into <victim.pronoun.possessiveDet> good books."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nice work returning the <item> to <victim>'s house on my behalf! You don't mind me taking all the credit, do you? Of course you don't."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nice work! <victim> will be pretty thankful to see that I helped get <victim.pronoun.possessiveDet> <item> back. We're a daring vigilante duo now!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now we can rest easssy, knowing that <victim> has been reunited with <victim.pronoun.possessiveDet> <item>. "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/text/last/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oh no! Floran heard ^orange;<victim>^white; was robbed by ^orange;<thief>^white;. No one was there to ssstop the crime! Please, will you ^green;retrieve the stolen ^orange;<item>^green; from the thief?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/text/next/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Okay, now we get to do some housebreaking. ^green;Go grab the stolen ^orange;<item>^green; from ^orange;<thief>'s^green; home, and ^green;place it back in ^orange;<victim>'s^green; house.^white; I'll keep an eye out and make sure nobody's watching."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/objectives/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return the <item> to <victim>'s house",
+      "Rus": "Верни <item> в дом <victim>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/completionText/last/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssuccess! <victim> will be so happy to have the <item> back. Thiss makes Floran happy too."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/text/last/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssuper! Floran needs one more favour. ^orange;<thief>^white; has stolen one ^orange;<item>^white; from poor <victim> - how tricksy! ^green;Take it back and put it in ^orange;<victim>'s^green; house. ^white;Then Floran leaves you alone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssuperb! <victim> will be so grateful to have the <item> back. Now Floran needss more help."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stupendouss! <victim> will be so pleased to have the <item> back! But Floran needss more help."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/objectives/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Take <victim>'s <item> from <thief>'s house",
+      "Rus": "Забери <item>, которым владел <victim>, из дома <thief>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thank you for retrieving the <item> for <victim>! I hope you don't mind me taking all the credit. I'll certainly have earned <victim>'s trust then!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/text/next/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "That swindler, <thief> has had the nerve to steal poor <victim>'s favourite ^orange;<item>.^white; We must do something about it! Would you be so kind as to ^green;retrieve it from ^orange;<thief>'s^green; home^white; and ^green;return it to ^orange;<victim>'s^green; house?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "That was really impressive! I also like the way you didn't leave any fingerprints, that's smart thinking. Just wait until <victim> hears about this! "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "That wasn't as hard as I thought. You're pretty good at this stuff, aren't you? <victim> will be happy to see <victim.pronoun.possessiveDet> stuff back where it belongs."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ^orange;<item>^white; I've been looking for was stolen by ^orange;<thief>.^white; Right now it's sitting in <thief.pronoun.possessiveDet> home. ^green;Go steal it back,^white; then ^green;place it back in ^orange;<victim>'s^green; house^white; where it belongs. I'll be watching for trouble."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/text/first/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The first thing we’ve got to do involves a little bit of thievery. Well, it's a good kind of thievery. The ^orange;<item>^white; we need to steal back is located in ^orange;<thief>’s home. ^green;Go get it, then place it back in ^orange;<victim>’s^green; home."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "These are dark timesss... Floran heard rumours of ^orange;<thief>^white; stealing ^orange;<victim>'s^white; <item>. ^white;Nowhere is safe these days! Please can you ^green;return the^orange; <item> ^green;to itsss rightful owner?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/text/last/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "We have one last problem - that pesky ^orange;<thief>^white; has stolen <victim>'s favourite ^orange;<item>^white;! ^orange;<victim> ^white;will be devastated unless we - I mean... You, ^green;retrieve it and put it back in <victim.pronoun.possessiveDet> house."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Well done! <victim> will be so pleased to have the <item> back. Would you be willing to do something else for me?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wow, you made that look easy! <victim> will be pleased to see we got <victim.pronoun.possessiveDet> <item> back. Have you done this before? There's no danger of leaving fingerprints with a specialised tool like that.."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/text/next/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yess nice work! Floran needs another favour from you... ^orange;<thief>^white; has stolen a precious ^orange;<item>^white; from friendly neighbour <victim> - sso rude! ^green;Please take it back and put it in ^orange;<victim>'s^green; house."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You did it! Hopefully <thief> regretsss <thief.pronoun.possessiveDet> crime. Floran will keep an eye out to make sssure it doesn't happen again! "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You did such a good job! I can't wait to see <thief>'s face when <thief.pronoun.subject> sees <thief.pronoun.subject> got a taste of <thief.pronoun.possessiveDet> own medicine. "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/completionText/last/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You have a real talent for this kind of thing, I see you even brought your own tool for the job. <victim> will be pleased to see <victim.pronoun.possessiveDet> stuff has been returned."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You managed to put the <item> back in <victim>'s house - thank you! If I can convince <victim.pronoun.object> that I was responsible, I'll definitely have earned <victim.pronoun.possessiveDet> trust!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You returned the <item>! I'm sure that <victim> feels sssafer knowing you're here to help out!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/text/first/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You won't believe what's happened! ^orange;<victim>^white; was robbed by none other than ^orange;<thief>.^white; Floran wishes there was sssomething we could do to help. Maybe you can ^green;return the stolen ^orange;<item> ^green;to <victim>’s houssse?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You! Floran needss you. ^orange;<thief>^white; has stolen a fine ^orange;<item>^white; from dear friend <victim> - how ssneaky! ^green;Take it back and put it in ^orange;<victim>'s ^green;house, ^white;ok?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/goalText/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;<victim> was asking if I knew anyone that could help find <victim.pronoun.possessiveDet> <item>. I know where it is, but I need your help."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/goalText/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Floran has found out about shocking crime! Let's fix thisss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/goalText/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;I saw that <victim> was looking for <victim.pronoun.possessiveDet> stolen <item>, and I happen to know where it is. <victim.pronoun.capitalSubject>'d be pretty thankful if we were to help return it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/goalText/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Opportunistic. I have discovered that <thief> has been stealing. Help me bring <thief.pronoun.object> to justice."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/goalText/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Ssomeone's <item> was stolen. Help ressstore justice!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/goalText/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Troubled. <victim> has been the victim of petty thievery! Let's help <victim.pronoun.object>!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;<thief>^white; recently stole <victim>'s favourite <item>. I bet ^orange;<victim>^white; would be very grateful to whomever ^green;retrieved the ^orange;<item> ^green;and put it back in <victim.pronoun.possessiveDet> house.^white; Will you do this for me?"
+    }
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/waste.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/waste.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Buncha glowin' toxic chemical waste."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Отвратительно, слабо светящийся токсичных отходов."
+    ],
+    "Files": {
+      "items/materials/waste.matitem": [
+        "/description"
+      ],
+      "tiles/materials/waste.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disgusting, faintly glowing toxic waste.",
+      "Rus": "Противные, слабо светящиеся отходы."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/waste.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/waste.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssstinky toxic messs. Vile poisson.",
+      "Rus": "Вонючее токсссичное месиво. Гнусный яд."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/waste.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/waste.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The chemicals in this waste are so toxic it is glowing.",
+      "Rus": "Химия в этих отходах очень токсична, она светится."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Отходы."
+    ],
+    "Files": {
+      "items/materials/waste.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/waste.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Waste",
+      "Rus": "Отходы"
+    }
+  }
+]

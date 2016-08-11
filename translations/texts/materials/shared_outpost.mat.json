@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/outpost.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/outpost.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hard metal outposst wall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/outpost.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/outpost.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have seen this material used in space outposts before."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/outpost.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/outpost.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Outpost Wall",
+      "Rus": "Стена форпоста"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/outpost.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/outpost.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some kinda outpost wall."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Материал стены обычно используется на космических форпостах.",
+      "Стена, обычно используемая в конструкции космических форпостов."
+    ],
+    "Files": {
+      "items/materials/outpost.matitem": [
+        "/description"
+      ],
+      "tiles/materials/outpost.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wall material commonly used in space outposts."
+    }
+  }
+]

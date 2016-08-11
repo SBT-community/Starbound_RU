@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Ужасный Камень."
+    ],
+    "Files": {
+      "items/materials/direstone.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/direstone.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dire Stone",
+      "Rus": "Ужасный камень"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Какие-то маленькие червяки ползают по поверхности этого гладкого камня.",
+      "Маленький червь, извивающийся под поверхностью этого стеклообразного камня."
+    ],
+    "Files": {
+      "items/materials/direstone.matitem": [
+        "/description"
+      ],
+      "tiles/materials/direstone.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Little wormlike forms wriggle beneath the surface of this glassy stone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/direstone.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/direstone.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The worms in this stone appear to help maintain its rigidity.",
+      "Rus": "Черви в этом камне живут для того, чтобы поддерживать его жесткость."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/direstone.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/direstone.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's little wigglin' worms inside this stone.",
+      "Rus": "Внутри этого камня извиваются маленькие черви."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/direstone.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/direstone.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wiggly wormssstone!",
+      "Rus": "Волнистые каменные черви!"
+    }
+  }
+]

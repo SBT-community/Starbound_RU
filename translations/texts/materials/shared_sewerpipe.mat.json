@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sewerpipe.matitem": [
+        "/description"
+      ],
+      "tiles/materials/sewerpipe.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sewer pipe used for transporting waste.",
+      "Rus": "Канализационная труба, используемая для транспортировки отходов."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sewerpipe.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/sewerpipe.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Filthy, dirty lookin' sewer pipes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sewerpipe.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/sewerpipe.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sewer Pipe",
+      "Rus": "Канализационная труба"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sewerpipe.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/sewerpipe.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssmelly ssewer pipess."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sewerpipe.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/sewerpipe.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This pipe is filthy, I would hate to see what is inside it."
+    }
+  }
+]

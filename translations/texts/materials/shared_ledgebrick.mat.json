@@ -1,0 +1,66 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ledgebrick.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/ledgebrick.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Carved stone brickss.",
+      "Rus": "Резные каменные кирпичи."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Кирпичный выступ"
+    ],
+    "Files": {
+      "items/materials/ledgebrick.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/ledgebrick.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ledge Brick",
+      "Rus": "Кирпичи с выступом"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Кладка из каменных кирпичей с небольшим выступом."
+    ],
+    "Files": {
+      "items/materials/ledgebrick.matitem": [
+        "/description"
+      ],
+      "tiles/materials/ledgebrick.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stone stepped bricks with a small ledge.",
+      "Rus": "Каменные кирпичи с небольшим выступом."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ledgebrick.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/ledgebrick.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This stone has a small carved ledge.",
+      "Rus": "Этот камень имеет небольшой вырезанный уступ."
+    }
+  }
+]

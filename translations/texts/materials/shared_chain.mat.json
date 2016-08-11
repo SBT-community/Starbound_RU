@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/chain.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/chain.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran use chains to catch prey.",
+      "Rus": "Флоран исспользует цепи чтобы поймать добычу."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/chain.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/chain.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some chains made outta tungsten.",
+      "Rus": "Некоторые цепи сделаны из вольфрама."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/chain.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/chain.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These chains are remarkably strong.",
+      "Rus": "Эти цепи необычайно прочные."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Вольфрамовая цепь."
+    ],
+    "Files": {
+      "items/materials/chain.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/chain.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tungsten Chain",
+      "Rus": "Вольфрамовая цепь"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Вольфрамовые цепи детям не игрушка."
+    ],
+    "Files": {
+      "items/materials/chain.matitem": [
+        "/description"
+      ],
+      "tiles/materials/chain.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tungsten chains, and not the fun kind.",
+      "Rus": "Цепь из вольфрама, это не реклама."
+    }
+  }
+]

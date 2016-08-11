@@ -1,0 +1,110 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/scientist.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't worry, my research is private - Not for the Miniknog.",
+      "Rus": "Не беспокойся, я занимаюсь частным исследованием - не для Министерства."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/scientist.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am conducting some field tests, and this location represents the ideal environment.",
+      "Rus": "Я провожу полевые испытания, и это место предоставляет идеальные условия."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/scientist.npctype": [
+        "/scriptConfig/dialog/converse/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am recording all of our social interactions for data. I hope you don't mind.",
+      "Rus": "Я записываю все наше общение для дальнейшей обработки. Надеюсь ты не против."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/scientist.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am running some experiments, and this place will do nicely.",
+      "Rus": "Я провожу кое-какие эксперименты, и  это место идеально для них подходит."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/scientist.npctype": [
+        "/scriptConfig/dialog/converse/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I feel silly doing research without properly fitting glasses. Such is life as a Hylotl.",
+      "Rus": "Я чувствую себя глупо, проводя исследование без подходящих очков. Такова жизнь Хилотлов."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/scientist.npctype": [
+        "/scriptConfig/dialog/converse/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wish these glasses fit me properly.",
+      "Rus": "Хотелось бы, чтобы эти очки мне подходили."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/scientist.npctype": [
+        "/scriptConfig/dialog/converse/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm writing a research paper on biodiversity. It will be extremely important.",
+      "Rus": "Я пишу научную статью о биоразнообразии. Это чрезвычайно важно."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/scientist.npctype": [
+        "/scriptConfig/dialog/converse/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "It is so hard to find a good pair of glasses for Hylotl these days.",
+      "Rus": "Сложно найти хорошую пару очков для Хилотла в наши дни."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/scientist.npctype": [
+        "/scriptConfig/dialog/converse/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's so much data for me to record around here. It's fascinating.",
+      "Rus": "Так много данных вокруг мне предстоит записать. Это восхитительно."
+    }
+  }
+]

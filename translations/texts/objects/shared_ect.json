@@ -1,0 +1,154 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/vendingmachine/vendingmachine.object": [
+        "/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ],
+      "objects/hylotl/hylotldrinks/hylotldrinks.object": [
+        "/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ],
+      "objects/protectorate/objects/protectoratelobbyvending/protectoratelobbyvending.object": [
+        "/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " Tasty Snacks",
+      "Rus": "Вкусные батончики"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/barvent/barvent.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/generic/vent/vent.object": [
+        "/avianDescription",
+        "/novakidDescription"
+      ],
+      "objects/human/bunkervent/bunkervent.object": [
+        "/apexDescription"
+      ],
+      "objects/outpost/roofvent/roofvent.object": [
+        "/description"
+      ],
+      "objects/protectorate/objects/protectorateroofdetail01/protectorateroofdetail01.object": [
+        "/hylotlDescription"
+      ],
+      "objects/protectorate/objects/protectorateroofdetail02/protectorateroofdetail02.object": [
+        "/hylotlDescription"
+      ],
+      "objects/protectorate/objects/protectorateroofdetail03/protectorateroofdetail03.object": [
+        "/hylotlDescription"
+      ],
+      "objects/protectorate/objects/protectorateroofdetail04/protectorateroofdetail04.object": [
+        "/hylotlDescription"
+      ],
+      "objects/protectorate/objects/protectorateroofdetail05/protectorateroofdetail05.object": [
+        "/hylotlDescription"
+      ],
+      "objects/protectorate/objects/protectoraterooftopprop1/protectoraterooftopprop1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/protectorate/objects/protectoraterooftopprop2/protectoraterooftopprop2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/protectorate/objects/protectoraterooftopprop3/protectoraterooftopprop3.object": [
+        "/hylotlDescription"
+      ],
+      "objects/protectorate/objects/protectoraterooftopprop4/protectoraterooftopprop4.object": [
+        "/hylotlDescription"
+      ],
+      "objects/wreck/wreckvent/wreckvent.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vent."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostairlock/outpostairlock.object": [
+        "/apexDescription",
+        "/avianDescription"
+      ],
+      "objects/outpost/outpostairlocklarge/outpostairlocklarge.object": [
+        "/apexDescription",
+        "/avianDescription"
+      ],
+      "objects/protectorate/objects/protectoratedoor/protectoratedoor.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An airlock."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/lavalamp1/lavalamp1.object": [
+        "/description"
+      ],
+      "objects/outpost/penguinbarsign/penguinbarsign.object": [
+        "/description"
+      ],
+      "objects/protectorate/objects/protectoratehologlobe/protectoratehologlobe.object": [
+        "/description"
+      ],
+      "objects/protectorate/objects/protectoratelavalamp/protectoratelavalamp.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's entrancing. I can't look away.",
+      "Rus": "Чарующе. Невозможно отвести взгляд."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/barvent/barvent.object": [
+        "/humanDescription"
+      ],
+      "objects/protectorate/objects/protectorateroofdetail01/protectorateroofdetail01.object": [
+        "/novakidDescription"
+      ],
+      "objects/protectorate/objects/protectorateroofdetail02/protectorateroofdetail02.object": [
+        "/novakidDescription"
+      ],
+      "objects/protectorate/objects/protectorateroofdetail03/protectorateroofdetail03.object": [
+        "/novakidDescription"
+      ],
+      "objects/protectorate/objects/protectorateroofdetail04/protectorateroofdetail04.object": [
+        "/novakidDescription"
+      ],
+      "objects/protectorate/objects/protectorateroofdetail05/protectorateroofdetail05.object": [
+        "/novakidDescription"
+      ],
+      "objects/protectorate/objects/protectoraterooftopprop1/protectoraterooftopprop1.object": [
+        "/novakidDescription"
+      ],
+      "objects/protectorate/objects/protectoraterooftopprop2/protectoraterooftopprop2.object": [
+        "/novakidDescription"
+      ],
+      "objects/protectorate/objects/protectoraterooftopprop3/protectoraterooftopprop3.object": [
+        "/novakidDescription"
+      ],
+      "objects/protectorate/objects/protectoraterooftopprop4/protectoraterooftopprop4.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks like a vent."
+    }
+  }
+]

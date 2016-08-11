@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Этот цветной краситель может быть нанесен на часть брони или одежду правым кликом."
+    ],
+    "Files": {
+      "items/generic/dyes/blackdye.augment": [
+        "/description"
+      ],
+      "items/generic/dyes/bluedye.augment": [
+        "/description"
+      ],
+      "items/generic/dyes/browndye.augment": [
+        "/description"
+      ],
+      "items/generic/dyes/greendye.augment": [
+        "/description"
+      ],
+      "items/generic/dyes/greydye.augment": [
+        "/description"
+      ],
+      "items/generic/dyes/orangedye.augment": [
+        "/description"
+      ],
+      "items/generic/dyes/pinkdye.augment": [
+        "/description"
+      ],
+      "items/generic/dyes/purpledye.augment": [
+        "/description"
+      ],
+      "items/generic/dyes/reddye.augment": [
+        "/description"
+      ],
+      "items/generic/dyes/whitedye.augment": [
+        "/description"
+      ],
+      "items/generic/dyes/yellowdye.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+      "Rus": "Этот цветной краситель может быть нанесен на часть брони или одежды правым кликом."
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/missionapex1.aimission": [
+        "/speciesText/default/selectSpeech/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Esther has concluded that this Mansion base is the location of the Apex Artifact.",
+      "Rus": "Эстер пришла к выводу, что на этой базе расположен артефакт Апексов."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/missionapex1.aimission": [
+        "/speciesText/default/repeatButtonText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Revisit the Miniknog Stronghold",
+      "Rus": "Посетить Цитадель Министерства"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/missionapex1.aimission": [
+        "/speciesText/default/buttonText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Miniknog Stronghold",
+      "Rus": "Цитадель Министерства"
+    }
+  }
+]

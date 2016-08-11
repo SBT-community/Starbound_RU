@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/foragervisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran isn't meat eater like other Floransss! Floran making farm inssstead.",
+      "Rus": "Флоран не мясоед, он не такой как другие Флоране! Взамен Флоран занимается садоводством!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/foragervisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran isss making farm! Floran just here for sssome ssseeds.",
+      "Rus": "Флоран занимается сссадоводством. Флорану нужны лишь семена."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/foragervisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran just here to buy ssseeds for Floran's farm.",
+      "Rus": "Флоран здесь лишь чтобы купить семян для фермы Флорана."
+    }
+  }
+]

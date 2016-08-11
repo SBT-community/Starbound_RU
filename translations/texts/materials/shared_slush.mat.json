@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/slush.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/slush.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A whole mess of freezin' slush."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/slush.matitem": [
+        "/description"
+      ],
+      "tiles/materials/slush.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Melting ice makes a thick slush.",
+      "Rus": "Расплавление льда делает из него густую слякоть."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/slush.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/slush.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slush",
+      "Rus": "Слякоть"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/slush.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/slush.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slush like this is made from melted ice."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/slush.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/slush.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sslushy cold wet sslush."
+    }
+  }
+]

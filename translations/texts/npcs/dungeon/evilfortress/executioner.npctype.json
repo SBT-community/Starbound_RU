@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/evilfortress/executioner.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have been waiting to try out my new axe!",
+      "Rus": "Наконец-то возможность испытать мой новый топор!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/evilfortress/executioner.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm gonna chop you to pieces!",
+      "Rus": "Я порежу тебя на кусочки!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/evilfortress/executioner.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/3/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've cut down many like you before!",
+      "Rus": "Я казнил многих, как ты!"
+    }
+  }
+]

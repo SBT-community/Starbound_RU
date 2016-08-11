@@ -1,0 +1,64 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/hive.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/hive.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hive made from crusshed animalss.",
+      "Rus": "Улей сссделан из измельченных животных."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/hive.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/hive.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sorta hive made from crushed critters.",
+      "Rus": "Улей сделай как будто из покрошенных тварей."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Липкие пчелиные соты созданные из останков павших существ."
+    ],
+    "Files": {
+      "items/materials/hive.matitem": [
+        "/description"
+      ],
+      "tiles/materials/hive.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sticky hive combs made from the remains of fallen creatures.",
+      "Rus": "Липкие ячейки улья сделаны из останков погибших существ."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/hive.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/hive.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hive material is made up of crushed creatures.",
+      "Rus": "Этот улей состоит из измельченных существ."
+    }
+  }
+]

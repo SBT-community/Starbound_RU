@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/hazmat.npctype": [
+        "/scriptConfig/dialog/converse/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Back on Earth, we'd cured most diseases. I hope that data wasn't lost...",
+      "Rus": "Вернувшись на Землю, мы бы вылечили большинство заболеваний. Я надеюсь данные не были утеряны..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/hazmat.npctype": [
+        "/scriptConfig/dialog/converse/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bacteria is everywhere! I'm concerned about infection.",
+      "Rus": "Бактерии везде! Инфекция меня беспокоит."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/hazmat.npctype": [
+        "/scriptConfig/dialog/converse/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm doing research into alien bacteria. I used to be stationed elsewhere.",
+      "Rus": "Я провожу исследования чужеродных бактерий. Я привык быть в других местах."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/hazmat.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've seen the kind of diseases that the MiniKnog researches. Nasty stuff.",
+      "Rus": "Я видел тип болезней, что исследует МиниКног. Мерзкая вещь."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/hazmat.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "The universe is full of deadly bacteria! I'm safer in this suit.",
+      "Rus": "Вселенная полна смертельных бактерий! Мне безопаснее в этом костюме."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/hazmat.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This suit is to protect me from local contamination. You probably shouldn't touch me.",
+      "Rus": "Этот костюм защищает меня от местного загрязнения. Вам, возможно, не следует меня касаться."
+    }
+  }
+]

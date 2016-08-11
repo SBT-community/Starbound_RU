@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotlliquidsensor/hylotlliquidsensor.object": [
+        "/description"
+      ],
+      "objects/wired/liquidsensor/liquidsensor.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't use your finger! This trusty sensor indicates the presence of liquids."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotlliquidsensor/hylotlliquidsensor.object": [
+        "/shortdescription"
+      ],
+      "objects/wired/liquidsensor/liquidsensor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Liquid Sensor"
+    }
+  }
+]

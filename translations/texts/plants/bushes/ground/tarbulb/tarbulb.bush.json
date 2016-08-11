@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/tarbulb/tarbulb.bush": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A glob of tar.",
+      "Rus": "Комок гудрона."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/tarbulb/tarbulb.bush": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssticky tar.",
+      "Rus": "Липкий гудрон.."
+    }
+  }
+]

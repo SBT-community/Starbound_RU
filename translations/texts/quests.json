@@ -1,0 +1,45 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/shipupgrade/illegalshipupgrade1.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title"
+      ],
+      "quests/outpost/shipupgrade/illegalshipupgrade2.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title"
+      ],
+      "quests/outpost/shipupgrade/illegalshipupgrade3.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title"
+      ],
+      "quests/outpost/shipupgrade/illegalshipupgrade4.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title"
+      ],
+      "quests/outpost/shipupgrade/illegalshipupgrade5.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title"
+      ],
+      "quests/outpost/shipupgrade/shipupgrade1.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title"
+      ],
+      "quests/outpost/shipupgrade/shipupgrade2.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title"
+      ],
+      "quests/outpost/shipupgrade/shipupgrade3.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title"
+      ],
+      "quests/outpost/shipupgrade/shipupgrade4.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title"
+      ],
+      "quests/outpost/shipupgrade/shipupgrade5.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title"
+      ],
+      "quests/story/human_mission1.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Penguin Pete",
+      "Rus": "Пингвин Пит"
+    }
+  }
+]

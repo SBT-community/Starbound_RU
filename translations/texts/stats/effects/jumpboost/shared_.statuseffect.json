@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Усиление прыжка",
+      "Усилитель прыжка"
+    ],
+    "Files": {
+      "stats/effects/jumpboost/jumpboost.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/jumpboost/jumpboost20.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/jumpboost/jumpboostfood.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/jumpboost/shipjumpboost.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jump Boost",
+      "Rus": "Увеличение высоты прыжка"
+    }
+  }
+]

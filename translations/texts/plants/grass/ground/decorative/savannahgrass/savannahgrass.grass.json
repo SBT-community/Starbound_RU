@@ -1,0 +1,39 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/savannahgrass/savannahgrass.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dead grass.",
+      "Rus": "Засохшая трава."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/savannahgrass/savannahgrass.grass": [
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dry grass.",
+      "Rus": "Сухая трава."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/savannahgrass/savannahgrass.grass": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dry, brittle grass.",
+      "Rus": "Сухая ломкая трава."
+    }
+  }
+]

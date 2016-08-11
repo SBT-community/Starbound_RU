@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier3/automatostew.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A surprisingly tasty stew, if you watch out for the bits of metal.",
+      "Rus": "Если остерегаться кусков металла, то это рагу может оказаться невероятно вкусным!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier3/automatostew.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Automato Stew",
+      "Rus": "Рагу из автомато"
+    }
+  }
+]

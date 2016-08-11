@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/wetdirt.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/wetdirt.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It is simply dirt saturated with some water.",
+      "Rus": "Обычная земля, смешанная с водой."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/wetdirt.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/wetdirt.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jus' some wet lookin' dirt.",
+      "Rus": "Прост влажная земля."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Не совсем грязь, не совсем грязь... это влажная грязь.",
+      "Это не грязь, и не земля... это влажная земля.    "
+    ],
+    "Files": {
+      "items/materials/wetdirt.matitem": [
+        "/description"
+      ],
+      "tiles/materials/wetdirt.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not quite mud, not quite dirt...it's wet dirt."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Влажная грязь"
+    ],
+    "Files": {
+      "items/materials/wetdirt.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/wetdirt.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wet Dirt",
+      "Rus": "Влажная земля"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/wetdirt.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/wetdirt.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wet dirt iss good for plantss.",
+      "Rus": "Влажная ззземля хороша для рассстений"
+    }
+  }
+]

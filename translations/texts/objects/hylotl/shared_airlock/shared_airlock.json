@@ -1,0 +1,32 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/airlockdoor/airlockdoor.object": [
+        "/humanDescription"
+      ],
+      "objects/hylotl/airlockhatch/airlockhatch.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is a departure from the Hylotl's traditional aesthetic.",
+      "Rus": "Это отправная точка от традиционной эстетики Хилотлов."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/airlockdoor/airlockdoor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/hylotl/airlockhatch/airlockhatch.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Where is the doorknob?",
+      "Rus": "Где тут дверная ручка?"
+    }
+  }
+]

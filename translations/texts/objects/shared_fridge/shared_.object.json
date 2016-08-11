@@ -1,0 +1,61 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/ceilingfridge1/largecooler1.object": [
+        "/floranDescription"
+      ],
+      "objects/human/fridge/fridge.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can sssmell meat inside."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/ceilingfridge1/largecooler1.object": [
+        "/humanDescription"
+      ],
+      "objects/human/fridge/fridge.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm practically vibrating with excitement thinking about the possible contents."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/ceilingfridge1/largecooler1.object": [
+        "/description"
+      ],
+      "objects/human/fridge/fridge.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perfect for storing a lot of food and keeping it fresh."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/ceilingfridge1/largecooler1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/generic/minifridge/minifridge.object": [
+        "/hylotlDescription"
+      ],
+      "objects/human/fridge/fridge.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Underwater, refrigeration is easier. These devices are a clever substitute."
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/follower.npctype": [
+        "/scriptConfig/dialog/follower/attack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't worry, I'll take care of this.",
+      "Rus": "Не беспокойся, я разберусь с этим"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/follower.npctype": [
+        "/scriptConfig/dialog/follower/returnFromCombat/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now that was a fight!",
+      "Rus": "Вот это была драка!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/follower.npctype": [
+        "/scriptConfig/dialog/follower/returnFromCombat/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Phew! You handle yourself well...",
+      "Rus": "Фьюх! Ты и сам неплохо справился."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/follower.npctype": [
+        "/scriptConfig/dialog/follower/attack/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "What kind of monster is this!?",
+      "Rus": "Что это за чудовище?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/follower.npctype": [
+        "/scriptConfig/dialog/follower/returnFromWait/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You came back!",
+      "Rus": "Ты вернулся!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/follower.npctype": [
+        "/scriptConfig/dialog/follower/join/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You look strong. We're friends now.",
+      "Rus": "Ты выглядишь сильным. Теперь мы друзья."
+    }
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Холодный, твердый, бетон.",
+      "Холодный, тяжелый, бетон."
+    ],
+    "Files": {
+      "items/materials/concrete.matitem": [
+        "/description"
+      ],
+      "tiles/materials/concrete.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cold, hard, concrete."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Блок бетона"
+    ],
+    "Files": {
+      "items/materials/concrete.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/concrete.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concrete Block",
+      "Rus": "Бетонный блок"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/concrete.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/concrete.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concrete is a commonly used construction material.",
+      "Rus": "Бетон - широко используемый отделочный материал."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/concrete.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/concrete.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concrete makes a mighty sturdy block.",
+      "Rus": "Бетон делает блок очень крепким."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/concrete.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/concrete.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran disslike cold concrete.",
+      "Rus": "Флоран не любит холодный бетон."
+    }
+  }
+]

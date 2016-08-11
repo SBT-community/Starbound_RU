@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/moonrock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/moonrock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran disslike dry moonrockss.",
+      "Rus": "Флоран не любит сссухую лунную породу."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Лунный булыжник"
+    ],
+    "Files": {
+      "items/materials/moonrock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/moonrock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Moonrock",
+      "Rus": "Лунная порода"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/moonrock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/moonrock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some dry n' dusty lookin' moonrock.",
+      "Rus": "Ну это типа сухая и пыльная лунная порода."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/moonrock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/moonrock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This rock is lunar in nature.",
+      "Rus": "Эта порода действительно лунного происхождения."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Жесткий, шероховатый лунный булыжник."
+    ],
+    "Files": {
+      "items/materials/moonrock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/moonrock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tough, gritty moon rock.",
+      "Rus": "Жесткая и шероховатая лунная порода."
+    }
+  }
+]

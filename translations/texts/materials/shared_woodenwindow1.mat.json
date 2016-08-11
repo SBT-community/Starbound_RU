@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/woodenwindow1.matitem": [
+        "/description"
+      ],
+      "tiles/materials/woodenwindow1.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A window with wooden panes.",
+      "Rus": "Окно с деревянными панелями."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/woodenwindow1.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/woodenwindow1.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nice lookin' window with wooden panes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/woodenwindow1.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/woodenwindow1.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nice windowss, Floran can see outside."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/woodenwindow1.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/woodenwindow1.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This window helps brighten the room."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/woodenwindow1.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/woodenwindow1.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wooden Window",
+      "Rus": "Деревянные окно"
+    }
+  }
+]

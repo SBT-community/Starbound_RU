@@ -1,0 +1,91 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/apexresearchlab.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't believe the rebel lies - The Miniknog are here to help the universe.",
+      "Rus": "Не верьте, мятежники лгут - Министерство здесь чтобы спасти вселенную."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/apexresearchlab.npctype": [
+        "/scriptConfig/dialog/converse/apex/apex/0",
+        "/scriptConfig/dialog/converse/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am here doing ground research for the Miniknog. Don't worry, I'll be nice.",
+      "Rus": "Я тут провожу исследования для Министерства. Не переживай, я буду в порядке."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/apexresearchlab.npctype": [
+        "/scriptConfig/dialog/converse/apex/apex/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope you are a supporter of the Miniknog. We both know what happens to rebels...",
+      "Rus": "Я надеюсь, ты сторонник Министерства. Мы оба знаем что происходит с мятежниками..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/apexresearchlab.npctype": [
+        "/scriptConfig/dialog/converse/apex/apex/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope you aren not a defector. Either you are with the Miniknog, or against us.",
+      "Rus": "Я надеюсь что ты не вредитель. Ты или с Министерством, или против нас."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Я здесь провожу исследования от имени Министерства. Постарайся не тревожить меня."
+    ],
+    "Files": {
+      "npcs/tenants/apexresearchlab.npctype": [
+        "/scriptConfig/dialog/converse/apex/apex/3",
+        "/scriptConfig/dialog/converse/apex/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm here doing research on behalf of the Miniknog. Try not to interrupt me.",
+      "Rus": "Я здесь провожу исследование от имени Министерства. Постарайся не прерывать меня."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/apexresearchlab.npctype": [
+        "/scriptConfig/dialog/converse/apex/apex/2",
+        "/scriptConfig/dialog/converse/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Miniknog have ordered me to do field research. I wish I wasn't stationed here...",
+      "Rus": "Министерство приказало, мне провести полевое исследование. Я не хочу оставаться здесь..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/apexresearchlab.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Miniknog stationed me out here for field research. It wasn't my idea, trust me.",
+      "Rus": "Министерство послало меня сюда для полевых исследований. Это была не моя идея, поверь."
+    }
+  }
+]

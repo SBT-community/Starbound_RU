@@ -1,0 +1,77 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/hazard.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/hazard.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hazard Block",
+      "Rus": "Предупреждающий блок"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/hazard.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/hazard.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These strips're somethin' I should pay attention to.",
+      "Rus": "Вроде как я должен обратить внимание на эти полоски."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/hazard.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/hazard.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thesse sstripes mean caution.",
+      "Rus": "Эти полоски подразумевают оссторожность."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/hazard.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/hazard.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This pattern indicates I should watch my step.",
+      "Rus": "Этот узор предписывает внимательно смотреть себе под ноги."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/hazard.matitem": [
+        "/description"
+      ],
+      "tiles/materials/hazard.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This pattern suggests caution.",
+      "Rus": "Этот рисунок предписывает осторожность."
+    }
+  }
+]

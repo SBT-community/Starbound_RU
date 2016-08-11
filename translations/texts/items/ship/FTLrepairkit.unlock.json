@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/ship/FTLrepairkit.unlock": [
+        "/unlockMessage"
+      ]
+    },
+    "Texts": {
+      "Eng": "Brilliant! The FTL drive is able to function at full capacity again. We can finally leave this solar system!",
+      "Rus": "Великолепно! Сверхсветовой двигатель теперь снова работает на полную мощность. Наконец то мы можем покинуть эту систему!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/ship/FTLrepairkit.unlock": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "FTL Repair Kit",
+      "Rus": "Ремкомплект Сверхсветового Двигателя"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/ship/FTLrepairkit.unlock": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "You can completely repair your ship's FTL drive with this!",
+      "Rus": "С его помощью можно полностью починить Сверхсветовой двигатель!"
+    }
+  }
+]

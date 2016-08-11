@@ -1,0 +1,64 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Останки какого-то неизвестного существа."
+    ],
+    "Files": {
+      "plants/grass/ground/decorative/fleshbone/fleshbone.grass": [
+        "/description"
+      ],
+      "plants/grass/ground/decorative/freebone/freebone.grass": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bone of some unknown creature.",
+      "Rus": "Останки какого-то неизвестного создания."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/fleshbone/fleshbone.grass": [
+        "/shortdescription"
+      ],
+      "plants/grass/ground/decorative/freebone/freebone.grass": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bone.",
+      "Rus": "Останки."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/fleshbone/fleshbone.grass": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "plants/grass/ground/decorative/freebone/freebone.grass": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A long-dead bone.",
+      "Rus": "Древние останки."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/fleshbone/fleshbone.grass": [
+        "/floranDescription"
+      ],
+      "plants/grass/ground/decorative/freebone/freebone.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likely kill this.",
+      "Rus": "Быть может Флоран убил его?"
+    }
+  }
+]

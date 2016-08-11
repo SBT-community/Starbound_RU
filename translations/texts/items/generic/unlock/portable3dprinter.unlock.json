@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/unlock/portable3dprinter.unlock": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unlocks the ability to craft small hi-tech items on the fly.",
+      "Rus": "Открывает способность создавать малые высокотехнологичные предметы на ходу."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/unlock/portable3dprinter.unlock": [
+        "/unlockMessage"
+      ]
+    },
+    "Texts": {
+      "Eng": "You can now print small hi-tech items without a crafting table.",
+      "Rus": "Теперь ты сможешь печатать маленькие высокотехнологичные предметы, без использования ремесленного стола."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/unlock/portable3dprinter.unlock": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Portable Pixel Printer^white;",
+      "Rus": "^orange;Портативный Пиксельный Принтер^white; "
+    }
+  }
+]

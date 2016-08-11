@@ -1,0 +1,39 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/small/amberfossil.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fossilised piece of amber.",
+      "Rus": "Окаменелый кусок янтаря."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/small/amberfossil.item": [
+        "/completeSetDescriptions/shortdescription",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amber",
+      "Rus": "Янтарь"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/small/amberfossil.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The label reads, \"Amber has more catalogued variations than any other ancient artifact.\"",
+      "Rus": "На этикетке написано, \"Янтарь имеет более обширный каталог видов чем любой другой артефакт.\""
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/small/ammonitefossil.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fossilised ammonite.",
+      "Rus": "Окаменелый аммонит."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/small/ammonitefossil.item": [
+        "/completeSetDescriptions/shortdescription",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ammonite",
+      "Rus": "Аммонит"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/small/ammonitefossil.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The label reads, \"Ammonites are widely recognised fossils, with variations appearing on most life-sustaining planets.\"",
+      "Rus": "На этикетке написано: \"Аммониты широко признаны окаменелостями, с вариациями, появляющимися на большинстве обитаемых планет.\""
+    }
+  }
+]

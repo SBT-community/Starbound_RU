@@ -1,0 +1,71 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/floor/floor.object": [
+        "/avianDescription",
+        "/humanDescription",
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A floor sign."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/floor/floor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/floor/floor.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floor marker."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/floor/floor.object": [
+        "/apexDescription",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floor sign."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/floor/floor.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floor sssign."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/floor/floor.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a floor sign! Whoopie!"
+    }
+  }
+]

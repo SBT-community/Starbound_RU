@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornateroofing.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/ornateroofing.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ain't what I'm used to, but nice lookin' roofing all the same.",
+      "Rus": "Не то к чему я привык, но хорошая кровля есть хорошая кровля."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornateroofing.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/ornateroofing.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ornate Roofing",
+      "Rus": "Изысканная кровля"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornateroofing.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/ornateroofing.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ornate roofing iss pretty.",
+      "Rus": "Изысканная кровля хороша."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornateroofing.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/ornateroofing.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ornate roofing is structurally sound.",
+      "Rus": "Структурно устойчивая изысканная кровля."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Кровля для изящно выглядящей крыши."
+    ],
+    "Files": {
+      "items/materials/ornateroofing.matitem": [
+        "/description"
+      ],
+      "tiles/materials/ornateroofing.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Traditional looking ornate roofing.",
+      "Rus": "Традиционная изысканная кровля."
+    }
+  }
+]

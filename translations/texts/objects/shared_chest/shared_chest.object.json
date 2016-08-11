@@ -1,0 +1,34 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hoard/treasurechest/treasurechest.object": [
+        "/floranDescription"
+      ],
+      "objects/mission/trapchest/trapchest.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chessst to keep trinketsss or treasures in."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/stonechest/ironchest.object": [
+        "/avianDescription"
+      ],
+      "objects/generic/woodenchest/woodenchest.object": [
+        "/avianDescription"
+      ],
+      "objects/mission/miningchest/miningchest.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Often these chests stored valuables. I'm excited!",
+      "Rus": "В таких сундуках часто можно найти ценные вещи. Я в восторге!"
+    }
+  }
+]

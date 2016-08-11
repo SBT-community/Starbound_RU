@@ -1,0 +1,36 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/persistentswitch/persistentswitch.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Once triggered this sswitch will remain in its sswitched ssstate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/persistentswitch/persistentswitch.object": [
+        "/description",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Once triggered this switch will remain in its switched state."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/persistentswitch/persistentswitch.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Persistent Switch"
+    }
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerslidingdoor/bunkerslidingdoor.object": [
+        "/hylotlDescription"
+      ],
+      "objects/outpost/outpostslidingdoor/outpostslidingdoor.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sleek sliding door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerslidingdoor/bunkerslidingdoor.object": [
+        "/apexDescription"
+      ],
+      "objects/outpost/outpostslidingdoor/outpostslidingdoor.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sliding door. Exciting.",
+      "Rus": "Раздвижная дверь. Захватывающе."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerslidingdoor/bunkerslidingdoor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/outpost/outpostslidingdoor/outpostslidingdoor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "There is something fascinating about the movement of these doors."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerslidingdoor/bunkerslidingdoor.object": [
+        "/description"
+      ],
+      "objects/outpost/outpostslidingdoor/outpostslidingdoor.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This sliding door makes me feel like I'm in a sci-fi game...",
+      "Rus": "Эта раздвижная дверь заставляет меня чувствовать, что я нахожусь в научно-фантастической игре..."
+    }
+  }
+]

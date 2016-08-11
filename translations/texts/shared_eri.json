@@ -1,0 +1,44 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Блок материи. Блок, который имеет значение.",
+      "Материальный блок. Блок, который имеет значение."
+    ],
+    "Files": {
+      "items/generic/crafting/matteritem.item": [
+        "/description"
+      ],
+      "items/materials/matterblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/matterblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A matter block. A block that matters.",
+      "Rus": "Блок материи. Материальный блок."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Блок материи.",
+      "Материальный блок"
+    ],
+    "Files": {
+      "items/generic/crafting/matteritem.item": [
+        "/shortdescription"
+      ],
+      "items/materials/matterblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/matterblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Matter Block",
+      "Rus": "Блок материи"
+    }
+  }
+]

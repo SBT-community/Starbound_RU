@@ -1,0 +1,59 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sand2.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/sand2.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dussty sand."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sand2.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/sand2.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sand",
+      "Rus": "Песок"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sand2.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/sand2.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some mighty soft lookin' sand."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sand2.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/sand2.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This sand is so fine it seems smooth to touch."
+    }
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/stomachblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/stomachblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sorta slimy lookin' meat.",
+      "Rus": "Какое-то липкое мясо."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/stomachblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/stomachblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sslimy meat.",
+      "Rus": "Сслизистое мясо."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/stomachblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/stomachblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stomach Lining",
+      "Rus": "Желудочная ткань"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/stomachblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/stomachblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This fleshy mass looks like it was part of some creature's stomach.",
+      "Rus": "Эта мясная масса выглядит как часть желудка какого-то существа."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/stomachblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/stomachblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This slimy mass looks and smells terrible.",
+      "Rus": "Эта слизистая масса выглядит и пахнет отвратительно."
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/avian_mission2.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Another artifact in place. We're getting there steadily, dear. Well done!",
+      "Rus": "Еще один артефакт на месте. Стабильность, с которой мы их получаем, радует, дорогуша. Хорошая работа!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/avian_mission2.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fetch the Avian Artifact",
+      "Rus": "Принесите Авианский Артефакт"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/avian_mission2.questtemplate": [
+        "/scriptConfig/descriptions/artifact"
+      ]
+    },
+    "Texts": {
+      "Eng": "Find the ^orange;artifact^reset; in the ^orange;Great Sovereign Temple^reset;",
+      "Rus": "Найдите ^orange;артефакт^reset; в ^orange;Храме Великого Государя^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/avian_mission2.questtemplate": [
+        "/scriptConfig/missionRadioMessage/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have received coordinates for ^orange;The Great Sovereign Temple^reset;. ^green;Use the ship computer^reset; to access the location.",
+      "Rus": "Я получил координаты ^orange;Храма Великого Государя^reset;. ^green;Используй корабельный компьютер, чтобы получить доступ к этой локации."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/avian_mission2.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;The ^orange;Avian artifact^green; is in ^orange;The Great Sovereign Temple^white;; one of the largest structures devoted to Kluex that the Avians have ever built. These temples tend to be guarded, so take care inside dear.",
+      "Rus": "^green;Этот ^orange;Авианский артефакт^green; находится в ^orange;Храме Великого Государя^white;, одном из грандиозных сооружений, посвященных Клюэксу, когда-либо построенных Авианами. Эти храмы, как правило, усилено охраняются, так что будь осторожнее внутри, дорогуша."
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/vine.matitem": [
+        "/description"
+      ],
+      "tiles/materials/vine.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A thick coil of vines. They look strong.",
+      "Rus": "Туго связанная лоза. Выглядит прочно."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/vine.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/vine.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It appears these strong vines were woven together as they were grown."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/vine.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/vine.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These vines are massive lookin'."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/vine.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/vine.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vine",
+      "Rus": "Лоза"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/vine.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/vine.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Viness grow sstrong just like Floran."
+    }
+  }
+]

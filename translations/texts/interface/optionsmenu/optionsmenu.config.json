@@ -1,0 +1,158 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/optionsmenu/optionsmenu.config": [
+        "/paneLayout/allowAssetsMismatchLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "ALLOW ASSETS MISMATCH",
+      "Rus": "ИГНОР. НЕСООТВЕТСТВИЯ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/optionsmenu/optionsmenu.config": [
+        "/paneLayout/clientIPJoinableLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "CONNECT VIA IP",
+      "Rus": "ПОДКЛЮЧ. ПО IP"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/optionsmenu/optionsmenu.config": [
+        "/paneLayout/showKeybindings/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Controls",
+      "Rus": "Управление"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/optionsmenu/optionsmenu.config": [
+        "/paneLayout/fullscreenLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "FULLSCREEN",
+      "Rus": "ВО ВЕСЬ ЭКРАН"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/optionsmenu/optionsmenu.config": [
+        "/paneLayout/resLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "FULLSCREEN RESOLUTION",
+      "Rus": "РАЗРЕШЕНИЕ ЭКРАНА"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/optionsmenu/optionsmenu.config": [
+        "/paneLayout/clientP2PJoinableLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "MULTIPLAYER VIA STEAM FRIENDS",
+      "Rus": "ПОДКЛЮЧ. ЧЕРЕЗ STEAM"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/optionsmenu/optionsmenu.config": [
+        "/paneLayout/musicLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Music",
+      "Rus": "Музыка"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/optionsmenu/optionsmenu.config": [
+        "/paneLayout/sfxLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "SFX",
+      "Rus": "Звуки"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/optionsmenu/optionsmenu.config": [
+        "/paneLayout/speechBubbleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "SPEECH BUBBLES",
+      "Rus": "ПУЗЫРИ ДИАЛОГОВ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/optionsmenu/optionsmenu.config": [
+        "/paneLayout/interactiveHighlightLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "TARGET HIGHLIGHT",
+      "Rus": "ВЫДЕЛЕНИЕ ЦЕЛЕЙ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/optionsmenu/optionsmenu.config": [
+        "/paneLayout/tutorialMessagesLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "TUTORIAL MESSAGES",
+      "Rus": "ОБУЧЕНИЕ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/optionsmenu/optionsmenu.config": [
+        "/paneLayout/volumeLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "VOLUME",
+      "Rus": "ГРОМКОСТЬ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/optionsmenu/optionsmenu.config": [
+        "/paneLayout/zoomLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "ZOOM LEVEL",
+      "Rus": "МАСШТАБ"
+    }
+  }
+]

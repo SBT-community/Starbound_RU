@@ -1,0 +1,72 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerheater1/bunkerheater1.object": [
+        "/novakidDescription"
+      ],
+      "objects/human/prisonradiator/prisonradiator.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A radiator. I never felt the need for one."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerheater1/bunkerheater1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/human/prisonradiator/prisonradiator.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small heater."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerheater1/bunkerheater1.object": [
+        "/humanDescription"
+      ],
+      "objects/human/prisonradiator/prisonradiator.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A space heater. The name makes it sound futuristic and cool."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerheater1/bunkerheater1.object": [
+        "/apexDescription"
+      ],
+      "objects/human/prisonradiator/prisonradiator.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A warm, cosy portable heater."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerheater1/bunkerheater1.object": [
+        "/avianDescription"
+      ],
+      "objects/human/prisonradiator/prisonradiator.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perfect for warming the feathers."
+    }
+  }
+]

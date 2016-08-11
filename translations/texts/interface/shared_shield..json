@@ -1,0 +1,32 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/shield.itemdescription": [
+        "/cooldownTitleLabel/value"
+      ],
+      "interface/tooltips/shield.tooltip": [
+        "/cooldownTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cooldown Time:",
+      "Rus": "Время отката:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/shield.itemdescription": [
+        "/healthTitleLabel/value"
+      ],
+      "interface/tooltips/shield.tooltip": [
+        "/healthTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shield Health:",
+      "Rus": "Прочность щита:"
+    }
+  }
+]

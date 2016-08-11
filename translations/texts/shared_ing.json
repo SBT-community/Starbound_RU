@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/craftingfood.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ],
+      "objects/outpost/outpostcookingtable/outpostcookingtable.object": [
+        "/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " ^#b9b5b2;Prepare and cook food",
+      "Rus": "^#b9b5b2;Подготовить и готовить пищу"
+    }
+  }
+]

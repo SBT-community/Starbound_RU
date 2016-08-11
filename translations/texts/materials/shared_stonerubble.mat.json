@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/stonerubble.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/stonerubble.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Buncha crushed up rocks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/stonerubble.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/stonerubble.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It appears the pieces in this rubble were part of a structure at one time."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/stonerubble.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/stonerubble.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssstone rubble made from old buildingss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/stonerubble.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/stonerubble.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stone Rubble",
+      "Rus": "Каменный Щебень"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/stonerubble.matitem": [
+        "/description"
+      ],
+      "tiles/materials/stonerubble.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stone rubble which appears to be debris from an old structure.",
+      "Rus": "Каменный Щебень. Похоже, это останки древних строений."
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/lanafight.npctype": [
+        "/scriptConfig/dialog/leave/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Good work, soldier. I will see you back at the Ark.",
+      "Rus": "Отлично справился, боец. Вижу, ты прибыл целым."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/lanafight.npctype": [
+        "/scriptConfig/dialog/start/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hello, soldier. Let's take care of this situation, shall we?",
+      "Rus": "Здравствуй, боец. Приступим к выполнению задания?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/lanafight.npctype": [
+        "/scriptConfig/dialog/attack/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm engaging the enemy!",
+      "Rus": "В бой!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/lanafight.npctype": [
+        "/scriptConfig/dialog/attack/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Target sighted!",
+      "Rus": "Цель обнаружена!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/lanafight.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The target is in my sights!",
+      "Rus": "Вижу цель!"
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedlandmine/scorchedlandmine.object": [
+        "/apexDescription"
+      ],
+      "objects/wired/landmine/landmine.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A land mine, it could still be active.",
+      "Rus": "Наземная мина, может быть всё ещё взведённой."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedlandmine/scorchedlandmine.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/wired/landmine/landmine.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "An active land mine, I had better be careful.",
+      "Rus": "Взведенная наземная мина, мне стоит быть осторожным."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedlandmine/scorchedlandmine.object": [
+        "/humanDescription"
+      ],
+      "objects/wired/landmine/landmine.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't want to risk it, this thing could still go off.",
+      "Rus": "Не буду рисковать, эта штука может еще взорваться."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedlandmine/scorchedlandmine.object": [
+        "/hylotlDescription"
+      ],
+      "objects/wired/landmine/landmine.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Land mines, smaller than sea mines but still lethal.",
+      "Rus": "Наземные мины меньше морских, но все так же смертельны."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedlandmine/scorchedlandmine.object": [
+        "/novakidDescription"
+      ],
+      "objects/wired/landmine/landmine.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This thing could still blow!",
+      "Rus": "Эта штука поди ка-ак бахнет!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedlandmine/scorchedlandmine.object": [
+        "/avianDescription"
+      ],
+      "objects/wired/landmine/landmine.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uh oh! I do not want to step on this.",
+      "Rus": "Ой-ёй! Что-то не хочется вставать на неё."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedlandmine/scorchedlandmine.object": [
+        "/floranDescription"
+      ],
+      "objects/wired/landmine/landmine.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Watch your ssstep!",
+      "Rus": "Ссступай осторожно!"
+    }
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Блок стекла"
+    ],
+    "Files": {
+      "items/materials/glass.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/glass.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/lightblocker.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glass Block",
+      "Rus": "Стеклянный блок"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fadedblocks.matitem": [
+        "/novakiddescription"
+      ],
+      "items/materials/tombbrick2.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/fadedblocks.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/tombbrick2.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some smooth lookin' bricks.",
+      "Rus": "Бледные кирпичи. Краше в гроб кладут."
+    }
+  }
+]

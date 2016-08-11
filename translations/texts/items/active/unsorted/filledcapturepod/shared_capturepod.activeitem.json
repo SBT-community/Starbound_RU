@@ -1,0 +1,32 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/unsorted/filledcapturepod/filledcapturepod.activeitem": [
+        "/shortdescription"
+      ],
+      "items/active/unsorted/filledcapturepod/npcpetcapturepod.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Filled Capture Pod",
+      "Rus": "Заполненная капсула захвата"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/unsorted/filledcapturepod/filledcapturepod.activeitem": [
+        "/description"
+      ],
+      "items/active/unsorted/filledcapturepod/npcpetcapturepod.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Throw it down to release the creature captured inside!",
+      "Rus": "Швырните, чтобы выпустить пойманное в неё существо!"
+    }
+  }
+]

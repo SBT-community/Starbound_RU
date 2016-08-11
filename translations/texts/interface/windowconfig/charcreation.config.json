@@ -1,0 +1,194 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/labelCasualMode/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "CASUAL",
+      "Rus": "ПРОГУЛКА"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/saveChar/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Done",
+      "Rus": "Готово"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/mode/buttons/1/data/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eat to survive, drop items on death.",
+      "Rus": "Необходимо есть. При смерти теряются вещи."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/labelHardcoreMode/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "HARDCORE",
+      "Rus": "ХАРДКОР"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/name/hint"
+      ]
+    },
+    "Texts": {
+      "Eng": "Name",
+      "Rus": "Имя"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/mode/buttons/0/data/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "No need to eat and no death penalties.",
+      "Rus": "Не нужно есть. Нет штрафов при смерти."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/labelRandomise/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "RANDOMISE:",
+      "Rus": "СЛУЧАЙНО:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/labelSurvivalMode/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "SURVIVAL",
+      "Rus": "ВЫЖИВАНИЕ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/labelToggleClothing/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Show clothing",
+      "Rus": "Показ. одежду"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/lblSkipIntro/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Skip intro mission",
+      "Rus": "Пропуск начальной миссии"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/mode/buttons/2/data/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "When you die your character stays dead!",
+      "Rus": "Необходимо есть. Смерть удаляет персонажа."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/labelCustomise/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#8d8d8d;CUSTOMISE",
+      "Rus": "НАСТРОИТЬ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/labelDifficulty/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#8d8d8d;DIFFICULTY",
+      "Rus": "СЛОЖНОСТЬ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/labelGender/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#8d8d8d;GENDER",
+      "Rus": "ПОЛ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/labelName/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#8d8d8d;NAME",
+      "Rus": "ИМЯ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/labelSpeciesRadio/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#8d8d8d;SPECIES",
+      "Rus": "ВИД"
+    }
+  }
+]

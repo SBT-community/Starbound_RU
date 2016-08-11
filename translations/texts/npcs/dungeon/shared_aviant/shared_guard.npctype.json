@@ -1,0 +1,121 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/aviantemple/templeguard.npctype": [
+        "/scriptConfig/dialog/attack/avian/default/0",
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/dungeon/aviantomb/tombguard.npctype": [
+        "/scriptConfig/dialog/attack/avian/default/0",
+        "/scriptConfig/dialog/attack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intruder! Leave this hallowed ground!",
+      "Rus": "Прочь со священной земли!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/aviantemple/templeguard.npctype": [
+        "/scriptConfig/dialog/attack/avian/default/1",
+        "/scriptConfig/dialog/attack/default/default/1"
+      ],
+      "npcs/dungeon/aviantomb/tombguard.npctype": [
+        "/scriptConfig/dialog/attack/avian/default/1",
+        "/scriptConfig/dialog/attack/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stop right where you are!",
+      "Rus": "Стой, где стоишь!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/aviantemple/templeguard.npctype": [
+        "/scriptConfig/dialog/attack/avian/default/6",
+        "/scriptConfig/dialog/attack/default/default/6"
+      ],
+      "npcs/dungeon/aviantomb/tombguard.npctype": [
+        "/scriptConfig/dialog/attack/avian/default/6",
+        "/scriptConfig/dialog/attack/default/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "The power of Kluex compels me to slay you!",
+      "Rus": "Сила Клюэкса направляет мою руку!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/aviantemple/templeguard.npctype": [
+        "/scriptConfig/dialog/attack/avian/default/5",
+        "/scriptConfig/dialog/attack/default/default/5"
+      ],
+      "npcs/dungeon/aviantomb/tombguard.npctype": [
+        "/scriptConfig/dialog/attack/avian/default/5",
+        "/scriptConfig/dialog/attack/default/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "The wrath of Kluex will fall upon you!",
+      "Rus": "Да падёт на тебя гнев Клюэкса!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/aviantemple/templeguard.npctype": [
+        "/scriptConfig/dialog/attack/avian/default/4",
+        "/scriptConfig/dialog/attack/default/default/4"
+      ],
+      "npcs/dungeon/aviantomb/tombguard.npctype": [
+        "/scriptConfig/dialog/attack/avian/default/4",
+        "/scriptConfig/dialog/attack/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Today, Kluex claims another soul!",
+      "Rus": "Сегодня Клюэксу достанется ещё одна душа!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/aviantemple/templeguard.npctype": [
+        "/scriptConfig/dialog/attack/avian/default/3",
+        "/scriptConfig/dialog/attack/default/default/3"
+      ],
+      "npcs/dungeon/aviantomb/tombguard.npctype": [
+        "/scriptConfig/dialog/attack/avian/default/3",
+        "/scriptConfig/dialog/attack/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "You are unwelcome, stranger!",
+      "Rus": "Тебе следует уйти, чужеземец!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/aviantemple/templeguard.npctype": [
+        "/scriptConfig/dialog/attack/avian/default/2",
+        "/scriptConfig/dialog/attack/default/default/2"
+      ],
+      "npcs/dungeon/aviantomb/tombguard.npctype": [
+        "/scriptConfig/dialog/attack/avian/default/2",
+        "/scriptConfig/dialog/attack/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You dishonour Kluex!",
+      "Rus": "Ты оскорбил Клюэкса!"
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/upgrade/techconsole/techconsole.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Equip and enhance your techs at this station. \n^red;Destroyed when broken."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/upgrade/techconsole/techconsole.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tech Console"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/upgrade/techconsole/techconsole.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Techs are a fascinating advancement in bioengineering."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/upgrade/techconsole/techconsole.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This console lets me equip techs! Useful gadgets, once you get over the weirdness."
+    }
+  }
+]

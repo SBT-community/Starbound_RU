@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/composite01.matitem": [
+        "/description"
+      ],
+      "tiles/materials/composite01.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A smooth panel made of titanium.",
+      "Rus": "Гладкая панель из титана."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/composite01.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/composite01.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some shiny n' smooth titanium panels.",
+      "Rus": "Довольно блестящие и гладкие панели."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/composite01.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/composite01.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssmooth shiny titanium panelss.",
+      "Rus": "Сссверкающие и гладкие титановые панели."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/composite01.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/composite01.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This titanium panel is almost flawlessly smooth.",
+      "Rus": "Эти титановые панели почти безупречно гладкие."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Титановые панели"
+    ],
+    "Files": {
+      "items/materials/composite01.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/composite01.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Titanium Panel",
+      "Rus": "Титановая панель"
+    }
+  }
+]

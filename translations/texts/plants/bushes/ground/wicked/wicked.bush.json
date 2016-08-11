@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [
+      " Завядший кустарник."
+    ],
+    "Files": {
+      "plants/bushes/ground/wicked/wicked.bush": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dead shrub.",
+      "Rus": "Завядший кустарник."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/wicked/wicked.bush": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dead ssshrub.",
+      "Rus": "Завядшшший кустарник."
+    }
+  }
+]

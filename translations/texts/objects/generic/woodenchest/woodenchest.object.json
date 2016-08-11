@@ -1,0 +1,37 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodenchest/woodenchest.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic wooden chest.",
+      "Rus": "Простой деревянный сундук"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodenchest/woodenchest.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's always a thrill to find an unopened chest."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodenchest/woodenchest.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wooden Chest",
+      "Rus": "Деревянный сундук"
+    }
+  }
+]

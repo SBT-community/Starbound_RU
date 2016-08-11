@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/food/hoe.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This should do the job! With this and a watering can I can get to work growing crops.",
+      "Rus": "Отлично! С этим и лейкой я смогу выращивать семена."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/food/hoe.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "To start farming, I'll need a way to till the soil. I should ^orange;craft a hoe ^green;using some wood and copper bars^white;.",
+      "Rus": "Чтобы заняться фермерством, мне нужно вскопать почву. Надо ^orange;создать мотыгу ^green;из дерева и куска меди^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/food/hoe.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;It's time for a Hoe Down",
+      "Rus": "^green;Время вскапывать"
+    }
+  }
+]

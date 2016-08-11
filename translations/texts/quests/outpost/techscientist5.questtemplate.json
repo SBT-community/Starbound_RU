@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist5.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Most excellent! Now all that remains is to test the ^orange;Distortion Sphere Tech^white; and I've got just the course for it.",
+      "Rus": "Грандиозно! Теперь ^orange;Технологию Свёртывания^white; осталось лишь протестировать. Предоставляю эту честь тебе."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist5.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ^orange;tech^white; I'm working on now is truly fantastic! It enables the user to compress into a small, spherical form ideal for moving around in tight spaces. I need some final components to finish it. ^green;Could you bring me ^orange;10 Gold Bars^white;?",
+      "Rus": "^orange;Технология^white;, над которой я сейчас работаю, это настоящее чудо! Она позволяет пользователю сжаться в небольшую сферу, идеально подходящую для перемещения в ограниченном пространстве. Осталось только доделать её, а для этого мне нужно ^orange;10 золотых слитков^white;. ^green;Ты меня всегда выручал, так не мог бы ты и сейчас мне помочь?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist5.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Rounding Up The Components",
+      "Rus": "^orange;Расширение сферы деятельности"
+    }
+  }
+]

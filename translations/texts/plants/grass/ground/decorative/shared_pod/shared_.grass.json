@@ -1,0 +1,49 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/minipod/minipod.grass": [
+        "/description"
+      ],
+      "plants/grass/ground/decorative/pods/pods.grass": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small pod.",
+      "Rus": "Маленький стручок."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/minipod/minipod.grass": [
+        "/shortdescription"
+      ],
+      "plants/grass/ground/decorative/pods/pods.grass": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Small pod.",
+      "Rus": "Маленький стручок."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      " Маленький ссстручок."
+    ],
+    "Files": {
+      "plants/grass/ground/decorative/minipod/minipod.grass": [
+        "/floranDescription"
+      ],
+      "plants/grass/ground/decorative/pods/pods.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssmall pod.",
+      "Rus": "Маленький ссстручок."
+    }
+  }
+]

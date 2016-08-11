@@ -1,0 +1,1035 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Контрольный пульт."
+    ],
+    "Files": {
+      "objects/outpost/outpostconsole/outpostconsole.object": [
+        "/avianDescription",
+        "/description"
+      ],
+      "objects/themed/doom/doomswitch/doomswitch.object": [
+        "/hylotlDescription"
+      ],
+      "objects/themed/geometric/geometricswitch/geometricswitch.object": [
+        "/hylotlDescription"
+      ],
+      "objects/themed/opulent/opulentswitch/opulentswitch.object": [
+        "/hylotlDescription"
+      ],
+      "objects/themed/serene/sereneswitch/sereneswitch.object": [
+        "/hylotlDescription"
+      ],
+      "objects/themed/wave/waveswitch/waveswitch.object": [
+        "/hylotlDescription"
+      ],
+      "objects/tiered/tier3switch/tier3switch.object": [
+        "/hylotlDescription"
+      ],
+      "objects/tiered/tier4switch/tier4switch.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A control console.",
+      "Rus": "Консоль управления."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/clues/glitch/glitchscribe/glitchscribe.object": [
+        "/avianDescription"
+      ],
+      "objects/glitch/medievaldesk/medievaldesk.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A desk built for an academic."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/clues/glitch/glitchscribe/glitchscribe.object": [
+        "/apexDescription"
+      ],
+      "objects/glitch/medievaldesk/medievaldesk.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A desk for paperwork. It's covered in ink stains."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hoard/goldenpedestal/goldenpedestal.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/themed/gothic/gothiclight/gothiclight.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A remarkable pedestal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/clues/glitch/glitchscribe/glitchscribe.object": [
+        "/humanDescription"
+      ],
+      "objects/glitch/medievaldesk/medievaldesk.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A writing desk. The surface is covered in splattered ink."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/clues/glitch/glitchscribe/glitchscribe.object": [
+        "/novakidDescription"
+      ],
+      "objects/glitch/medievaldesk/medievaldesk.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An old writin' desk."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/swamp/gasprimer/gasprimer.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/biome/swamp/rootbush1/rootbush1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/biome/swamp/rootbush2/rootbush2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/biome/swamp/rootbush3/rootbush3.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/biome/swamp/rootbush4/rootbush4.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/biome/swamp/rootbush5/rootbush5.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/biome/swamp/swamproot1/swamproot1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/biome/swamp/swamproot2/swamproot2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/biome/swamp/swamproot3/swamproot3.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/biome/swamp/swamproot4/swamproot4.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/biome/swamp/swamproot5/swamproot5.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/generic/toxicgasprimer/toxicgasprimer.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "An unremarkable root."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Флориан жать кнопки. Вссякое происсходит!"
+    ],
+    "Files": {
+      "objects/ancient/ancientsmallconsole/ancientsmallconsole.object": [
+        "/floranDescription"
+      ],
+      "objects/biome/tar/tarconsole/tarconsole.object": [
+        "/floranDescription"
+      ],
+      "objects/themed/doom/doomswitch/doomswitch.object": [
+        "/floranDescription"
+      ],
+      "objects/themed/executive/executiveswitch/executiveswitch.object": [
+        "/floranDescription"
+      ],
+      "objects/themed/geometric/geometricswitch/geometricswitch.object": [
+        "/floranDescription"
+      ],
+      "objects/themed/opulent/opulentswitch/opulentswitch.object": [
+        "/floranDescription"
+      ],
+      "objects/themed/serene/sereneswitch/sereneswitch.object": [
+        "/floranDescription"
+      ],
+      "objects/themed/wave/waveswitch/waveswitch.object": [
+        "/floranDescription"
+      ],
+      "objects/tiered/tier3switch/tier3switch.object": [
+        "/floranDescription"
+      ],
+      "objects/tiered/tier4switch/tier4switch.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran push buttons. Make thingsss happen!",
+      "Rus": "Флоран нажимает кнопки. Получает результат!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/flesh/fleshchair/fleshchair.object": [
+        "/apexDescription"
+      ],
+      "objects/human/prisontoilet/prisontoilet.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have no words."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/tentacle/tentaclepopbig/tentaclepopbig.object": [
+        "/humanDescription"
+      ],
+      "objects/biome/tentacle/tentaclepopmed/tentaclepopmed.object": [
+        "/humanDescription"
+      ],
+      "objects/biome/tentacle/tentaclepopsmall/tentaclepopsmall.object": [
+        "/humanDescription"
+      ],
+      "objects/generic/capsulebig/capsulebig.object": [
+        "/humanDescription"
+      ],
+      "objects/generic/capsulemed/capsulemed.object": [
+        "/humanDescription"
+      ],
+      "objects/generic/capsulesmall/capsulesmall.object": [
+        "/humanDescription"
+      ],
+      "objects/generic/claypot1/claypot1.object": [
+        "/humanDescription"
+      ],
+      "objects/generic/claypot2/claypot2.object": [
+        "/humanDescription"
+      ],
+      "objects/generic/claypot3/claypot3.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I think there's something in there. I can probably break it open."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/tentacle/tentaclespike/tentaclespike.object": [
+        "/hylotlDescription"
+      ],
+      "objects/mission/bonespike/bonespike.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/arid/ceilingspike1/ceilingspike1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/arid/ceilingspike2/ceilingspike2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/arid/ceilingspike3/ceilingspike3.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/arid/ceilingspike4/ceilingspike4.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/arid/groundspike1/groundspike1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/arid/groundspike2/groundspike2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/arid/groundspike3/groundspike3.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/arid/groundspike4/groundspike4.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/desert/desertceilingspike1/desertceilingspike1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/desert/desertceilingspike2/desertceilingspike2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/desert/desertceilingspike3/desertceilingspike3.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/desert/desertceilingspike4/desertceilingspike4.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/desert/desertgroundspike1/desertgroundspike1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/desert/desertgroundspike2/desertgroundspike2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/desert/desertgroundspike3/desertgroundspike3.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/desert/desertgroundspike4/desertgroundspike4.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/green/greenceilingspike1/greenceilingspike1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/green/greenceilingspike2/greenceilingspike2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/green/greenceilingspike3/greenceilingspike3.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/green/greenceilingspike4/greenceilingspike4.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/green/greengroundspike1/greengroundspike1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/green/greengroundspike2/greengroundspike2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/green/greengroundspike3/greengroundspike3.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/green/greengroundspike4/greengroundspike4.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/ice/icespike/icespike.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/ice/icestalactite1/icestalactite1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/ice/icestalactite2/icestalactite2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/ice/icestalactite3/icestalactite3.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/ice/icestalactite4/icestalactite4.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/ice/icestalagmite1/icestalagmite1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/ice/icestalagmite2/icestalagmite2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/ice/icestalagmite3/icestalagmite3.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/ice/icestalagmite4/icestalagmite4.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/magma/magmaceilingspike1/magmaceilingspike1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/magma/magmaceilingspike2/magmaceilingspike2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/magma/magmaceilingspike3/magmaceilingspike3.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/magma/magmagroundspike1/magmagroundspike1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/magma/magmagroundspike2/magmagroundspike2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/magma/magmagroundspike3/magmagroundspike3.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/savannah/savannahceilingspike1/savannahceilingspike1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/savannah/savannahceilingspike2/savannahceilingspike2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/savannah/savannahceilingspike3/savannahceilingspike3.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/savannah/savannahceilingspike4/savannahceilingspike4.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/savannah/savannahgroundspike1/savannahgroundspike1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/savannah/savannahgroundspike2/savannahgroundspike2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/savannah/savannahgroundspike3/savannahgroundspike3.object": [
+        "/hylotlDescription"
+      ],
+      "objects/obstacles/savannah/savannahgroundspike4/savannahgroundspike4.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I will gracefully avoid these.",
+      "Rus": "Я изящно уклонюсь от него."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Лучше к этому не прикасатся.",
+      "Лучше к этому не прикасаться."
+    ],
+    "Files": {
+      "objects/biome/tentacle/tentaclespike/tentaclespike.object": [
+        "/humanDescription"
+      ],
+      "objects/mission/bonespike/bonespike.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/arid/ceilingspike1/ceilingspike1.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/arid/ceilingspike2/ceilingspike2.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/arid/ceilingspike3/ceilingspike3.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/arid/ceilingspike4/ceilingspike4.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/arid/groundspike1/groundspike1.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/arid/groundspike2/groundspike2.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/arid/groundspike3/groundspike3.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/arid/groundspike4/groundspike4.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/desert/desertceilingspike1/desertceilingspike1.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/desert/desertceilingspike2/desertceilingspike2.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/desert/desertceilingspike3/desertceilingspike3.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/desert/desertceilingspike4/desertceilingspike4.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/desert/desertgroundspike1/desertgroundspike1.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/desert/desertgroundspike2/desertgroundspike2.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/desert/desertgroundspike3/desertgroundspike3.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/desert/desertgroundspike4/desertgroundspike4.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/green/greenceilingspike1/greenceilingspike1.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/green/greenceilingspike2/greenceilingspike2.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/green/greenceilingspike3/greenceilingspike3.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/green/greenceilingspike4/greenceilingspike4.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/green/greengroundspike1/greengroundspike1.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/green/greengroundspike2/greengroundspike2.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/green/greengroundspike3/greengroundspike3.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/green/greengroundspike4/greengroundspike4.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/ice/icespike/icespike.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/ice/icestalactite1/icestalactite1.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/ice/icestalactite2/icestalactite2.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/ice/icestalactite3/icestalactite3.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/ice/icestalactite4/icestalactite4.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/ice/icestalagmite1/icestalagmite1.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/ice/icestalagmite2/icestalagmite2.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/ice/icestalagmite3/icestalagmite3.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/ice/icestalagmite4/icestalagmite4.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/magma/magmaceilingspike1/magmaceilingspike1.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/magma/magmaceilingspike2/magmaceilingspike2.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/magma/magmaceilingspike3/magmaceilingspike3.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/magma/magmagroundspike1/magmagroundspike1.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/magma/magmagroundspike2/magmagroundspike2.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/magma/magmagroundspike3/magmagroundspike3.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/savannah/savannahceilingspike1/savannahceilingspike1.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/savannah/savannahceilingspike2/savannahceilingspike2.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/savannah/savannahceilingspike3/savannahceilingspike3.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/savannah/savannahceilingspike4/savannahceilingspike4.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/savannah/savannahgroundspike1/savannahgroundspike1.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/savannah/savannahgroundspike2/savannahgroundspike2.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/savannah/savannahgroundspike3/savannahgroundspike3.object": [
+        "/humanDescription"
+      ],
+      "objects/obstacles/savannah/savannahgroundspike4/savannahgroundspike4.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'd better not touch these.",
+      "Rus": "Я лучше не буду его трогать."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/swamp/gasprimer/gasprimer.object": [
+        "/avianDescription",
+        "/description"
+      ],
+      "objects/biome/swamp/rootbush1/rootbush1.object": [
+        "/avianDescription",
+        "/description"
+      ],
+      "objects/biome/swamp/rootbush2/rootbush2.object": [
+        "/avianDescription",
+        "/description"
+      ],
+      "objects/biome/swamp/rootbush3/rootbush3.object": [
+        "/avianDescription",
+        "/description"
+      ],
+      "objects/biome/swamp/rootbush4/rootbush4.object": [
+        "/avianDescription",
+        "/description"
+      ],
+      "objects/biome/swamp/rootbush5/rootbush5.object": [
+        "/avianDescription",
+        "/description"
+      ],
+      "objects/biome/swamp/swamproot1/swamproot1.object": [
+        "/avianDescription",
+        "/description"
+      ],
+      "objects/biome/swamp/swamproot2/swamproot2.object": [
+        "/avianDescription",
+        "/description"
+      ],
+      "objects/biome/swamp/swamproot3/swamproot3.object": [
+        "/avianDescription",
+        "/description"
+      ],
+      "objects/biome/swamp/swamproot4/swamproot4.object": [
+        "/avianDescription",
+        "/description"
+      ],
+      "objects/biome/swamp/swamproot5/swamproot5.object": [
+        "/avianDescription",
+        "/description"
+      ],
+      "objects/generic/toxicgasprimer/toxicgasprimer.object": [
+        "/avianDescription",
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a root."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/swamp/gasprimer/gasprimer.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/swamp/rootbush1/rootbush1.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/swamp/rootbush2/rootbush2.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/swamp/rootbush3/rootbush3.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/swamp/rootbush4/rootbush4.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/swamp/rootbush5/rootbush5.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/swamp/swamproot1/swamproot1.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/swamp/swamproot2/swamproot2.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/swamp/swamproot3/swamproot3.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/swamp/swamproot4/swamproot4.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/swamp/swamproot5/swamproot5.object": [
+        "/shortdescription"
+      ],
+      "objects/generic/toxicgasprimer/toxicgasprimer.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Root"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/swamp/gasprimer/gasprimer.object": [
+        "/floranDescription"
+      ],
+      "objects/biome/swamp/rootbush1/rootbush1.object": [
+        "/floranDescription"
+      ],
+      "objects/biome/swamp/rootbush2/rootbush2.object": [
+        "/floranDescription"
+      ],
+      "objects/biome/swamp/rootbush3/rootbush3.object": [
+        "/floranDescription"
+      ],
+      "objects/biome/swamp/rootbush4/rootbush4.object": [
+        "/floranDescription"
+      ],
+      "objects/biome/swamp/rootbush5/rootbush5.object": [
+        "/floranDescription"
+      ],
+      "objects/biome/swamp/swamproot1/swamproot1.object": [
+        "/floranDescription"
+      ],
+      "objects/biome/swamp/swamproot2/swamproot2.object": [
+        "/floranDescription"
+      ],
+      "objects/biome/swamp/swamproot3/swamproot3.object": [
+        "/floranDescription"
+      ],
+      "objects/biome/swamp/swamproot4/swamproot4.object": [
+        "/floranDescription"
+      ],
+      "objects/biome/swamp/swamproot5/swamproot5.object": [
+        "/floranDescription"
+      ],
+      "objects/generic/toxicgasprimer/toxicgasprimer.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rootsss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/clues/glitch/glitchscribe/glitchscribe.object": [
+        "/floranDescription"
+      ],
+      "objects/glitch/medievaldesk/medievaldesk.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scholarss put ink on paper here."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Заточенный и оссстрый."
+    ],
+    "Files": {
+      "objects/biome/tentacle/tentaclespike/tentaclespike.object": [
+        "/floranDescription"
+      ],
+      "objects/mission/bonespike/bonespike.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/arid/ceilingspike1/ceilingspike1.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/arid/ceilingspike2/ceilingspike2.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/arid/ceilingspike3/ceilingspike3.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/arid/ceilingspike4/ceilingspike4.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/arid/groundspike1/groundspike1.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/arid/groundspike2/groundspike2.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/arid/groundspike3/groundspike3.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/arid/groundspike4/groundspike4.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/desert/desertceilingspike1/desertceilingspike1.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/desert/desertceilingspike2/desertceilingspike2.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/desert/desertceilingspike3/desertceilingspike3.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/desert/desertceilingspike4/desertceilingspike4.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/desert/desertgroundspike1/desertgroundspike1.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/desert/desertgroundspike2/desertgroundspike2.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/desert/desertgroundspike3/desertgroundspike3.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/desert/desertgroundspike4/desertgroundspike4.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/green/greenceilingspike1/greenceilingspike1.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/green/greenceilingspike2/greenceilingspike2.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/green/greenceilingspike3/greenceilingspike3.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/green/greenceilingspike4/greenceilingspike4.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/green/greengroundspike1/greengroundspike1.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/green/greengroundspike2/greengroundspike2.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/green/greengroundspike3/greengroundspike3.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/green/greengroundspike4/greengroundspike4.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/ice/icespike/icespike.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/ice/icestalactite3/icestalactite3.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/ice/icestalactite4/icestalactite4.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/ice/icestalagmite1/icestalagmite1.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/ice/icestalagmite2/icestalagmite2.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/ice/icestalagmite3/icestalagmite3.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/ice/icestalagmite4/icestalagmite4.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/magma/magmaceilingspike1/magmaceilingspike1.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/magma/magmaceilingspike2/magmaceilingspike2.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/magma/magmaceilingspike3/magmaceilingspike3.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/magma/magmagroundspike1/magmagroundspike1.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/magma/magmagroundspike2/magmagroundspike2.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/magma/magmagroundspike3/magmagroundspike3.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/savannah/savannahceilingspike1/savannahceilingspike1.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/savannah/savannahceilingspike2/savannahceilingspike2.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/savannah/savannahceilingspike3/savannahceilingspike3.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/savannah/savannahceilingspike4/savannahceilingspike4.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/savannah/savannahgroundspike1/savannahgroundspike1.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/savannah/savannahgroundspike2/savannahgroundspike2.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/savannah/savannahgroundspike3/savannahgroundspike3.object": [
+        "/floranDescription"
+      ],
+      "objects/obstacles/savannah/savannahgroundspike4/savannahgroundspike4.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sharp and pointy.",
+      "Rus": "Наточенный и острый."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/swamp/gasprimer/gasprimer.object": [
+        "/apexDescription"
+      ],
+      "objects/biome/swamp/rootbush1/rootbush1.object": [
+        "/apexDescription"
+      ],
+      "objects/biome/swamp/rootbush2/rootbush2.object": [
+        "/apexDescription"
+      ],
+      "objects/biome/swamp/rootbush3/rootbush3.object": [
+        "/apexDescription"
+      ],
+      "objects/biome/swamp/rootbush4/rootbush4.object": [
+        "/apexDescription"
+      ],
+      "objects/biome/swamp/rootbush5/rootbush5.object": [
+        "/apexDescription"
+      ],
+      "objects/biome/swamp/swamproot1/swamproot1.object": [
+        "/apexDescription"
+      ],
+      "objects/biome/swamp/swamproot2/swamproot2.object": [
+        "/apexDescription"
+      ],
+      "objects/biome/swamp/swamproot3/swamproot3.object": [
+        "/apexDescription"
+      ],
+      "objects/biome/swamp/swamproot4/swamproot4.object": [
+        "/apexDescription"
+      ],
+      "objects/biome/swamp/swamproot5/swamproot5.object": [
+        "/apexDescription"
+      ],
+      "objects/generic/toxicgasprimer/toxicgasprimer.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sort of tree root."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/tentacle/tentaclepopbig/tentaclepopbig.object": [
+        "/hylotlDescription"
+      ],
+      "objects/biome/tentacle/tentaclepopmed/tentaclepopmed.object": [
+        "/hylotlDescription"
+      ],
+      "objects/biome/tentacle/tentaclepopsmall/tentaclepopsmall.object": [
+        "/hylotlDescription"
+      ],
+      "objects/generic/capsulebig/capsulebig.object": [
+        "/hylotlDescription"
+      ],
+      "objects/generic/capsulemed/capsulemed.object": [
+        "/hylotlDescription"
+      ],
+      "objects/generic/capsulesmall/capsulesmall.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sometimes force can yield rewards."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/tentacle/tentaclepopbig/tentaclepopbig.object": [
+        "/floranDescription"
+      ],
+      "objects/biome/tentacle/tentaclepopmed/tentaclepopmed.object": [
+        "/floranDescription"
+      ],
+      "objects/biome/tentacle/tentaclepopsmall/tentaclepopsmall.object": [
+        "/floranDescription"
+      ],
+      "objects/generic/capsulebig/capsulebig.object": [
+        "/floranDescription"
+      ],
+      "objects/generic/capsulemed/capsulemed.object": [
+        "/floranDescription"
+      ],
+      "objects/generic/capsulesmall/capsulesmall.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssmash it open! Get the goodiess insside!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/clues/glitch/glitchscribe/glitchscribe.object": [
+        "/hylotlDescription"
+      ],
+      "objects/glitch/medievaldesk/medievaldesk.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Hylotl practice calligraphy on desks like these."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/clues/glitch/glitchscribe/glitchscribe.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/glitch/medievaldesk/medievaldesk.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is a desk suitable for scholars."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/swamp/gasprimer/gasprimer.object": [
+        "/humanDescription"
+      ],
+      "objects/biome/swamp/rootbush1/rootbush1.object": [
+        "/humanDescription"
+      ],
+      "objects/biome/swamp/rootbush2/rootbush2.object": [
+        "/humanDescription"
+      ],
+      "objects/biome/swamp/rootbush3/rootbush3.object": [
+        "/humanDescription"
+      ],
+      "objects/biome/swamp/rootbush4/rootbush4.object": [
+        "/humanDescription"
+      ],
+      "objects/biome/swamp/rootbush5/rootbush5.object": [
+        "/humanDescription"
+      ],
+      "objects/biome/swamp/swamproot1/swamproot1.object": [
+        "/humanDescription"
+      ],
+      "objects/biome/swamp/swamproot2/swamproot2.object": [
+        "/humanDescription"
+      ],
+      "objects/biome/swamp/swamproot3/swamproot3.object": [
+        "/humanDescription"
+      ],
+      "objects/biome/swamp/swamproot4/swamproot4.object": [
+        "/humanDescription"
+      ],
+      "objects/biome/swamp/swamproot5/swamproot5.object": [
+        "/humanDescription"
+      ],
+      "objects/generic/toxicgasprimer/toxicgasprimer.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yup. It's a root."
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Небольшой автоматический пистолет."
+    ],
+    "Files": {
+      "items/active/weapons/npc/npcmachinepistol.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/machinepistol/commonmachinepistol.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/machinepistol/raremachinepistol.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/machinepistol/uncommonmachinepistol.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small fully automatic pistol.",
+      "Rus": "Небольшой пистолет-пулемёт."
+    }
+  }
+]

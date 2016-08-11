@@ -1,0 +1,107 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Ящик выглядит проржавевшим.",
+      "Ящик, ржавый на вид"
+    ],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitycrate/scorchedcitycrate.object": [
+        "/hylotlDescription"
+      ],
+      "objects/biome/scorchedcity/scorchedcitysmallcrate/scorchedcitysmallcrate.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crate that appears to have rusted."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Ржавенький ящик.",
+      "Ржаво выглядящий ящик."
+    ],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitycrate/scorchedcitycrate.object": [
+        "/novakidDescription"
+      ],
+      "objects/biome/scorchedcity/scorchedcitysmallcrate/scorchedcitysmallcrate.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rusty lookin' crate."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Ржавый ящик.",
+      "Ящик выглядит ржавым."
+    ],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitycrate/scorchedcitycrate.object": [
+        "/apexDescription",
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/biome/scorchedcity/scorchedcitysmallcrate/scorchedcitysmallcrate.object": [
+        "/apexDescription",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rusty looking crate.",
+      "Rus": "Ржавый на вид ящик."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Ржавый ящик для хранения"
+    ],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitycrate/scorchedcitycrate.object": [
+        "/avianDescription"
+      ],
+      "objects/biome/scorchedcity/scorchedcitysmallcrate/scorchedcitysmallcrate.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rusty storage box.",
+      "Rus": "Ржавый ящик."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Это всего лишь ящик. Немного ржавый, но все еще целый."
+    ],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitycrate/scorchedcitycrate.object": [
+        "/humanDescription"
+      ],
+      "objects/biome/scorchedcity/scorchedcitysmallcrate/scorchedcitysmallcrate.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's just a crate. A little rusty but still intact.",
+      "Rus": "Просто ящик. Немного проржавел, но всё ещё целый."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Ржавый ящщик.",
+      "Ржжжавый ящик."
+    ],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitycrate/scorchedcitycrate.object": [
+        "/floranDescription"
+      ],
+      "objects/biome/scorchedcity/scorchedcitysmallcrate/scorchedcitysmallcrate.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Russsty box."
+    }
+  }
+]

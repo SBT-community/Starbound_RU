@@ -1,0 +1,87 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/sawblade2/sawblade2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avian/sawblade/sawblade.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm not keen to become sushi."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/sawblade2/sawblade2.object": [
+        "/apexDescription",
+        "/avianDescription"
+      ],
+      "objects/avian/sawblade/sawblade.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks sharp."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/sawblade2/sawblade2.object": [
+        "/novakidDescription"
+      ],
+      "objects/avian/sawblade/sawblade.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "That doesn't look friendly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/sawblade2/sawblade2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avian/sawblade/sawblade.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This appears to be spinning at four thousand RPM."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/sawblade2/sawblade2.object": [
+        "/humanDescription"
+      ],
+      "objects/avian/sawblade/sawblade.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Woah, I have to be careful here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/sawblade2/sawblade2.object": [
+        "/description"
+      ],
+      "objects/avian/sawblade/sawblade.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wow, this looks sharp!"
+    }
+  }
+]

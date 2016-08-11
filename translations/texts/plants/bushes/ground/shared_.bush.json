@@ -1,0 +1,121 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Кустарник."
+    ],
+    "Files": {
+      "plants/bushes/ground/shrub1/shrub1.bush": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ],
+      "plants/bushes/ground/testbush/testbush.bush": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shrub.",
+      "Rus": "Куст."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/skeletalbush/skeletalbush.bush": [
+        "/floranDescription"
+      ],
+      "plants/bushes/ground/skulls/skulls.bush": [
+        "/floranDescription"
+      ],
+      "plants/bushes/ground/tarbones/tarbones.bush": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dead bonesss.",
+      "Rus": "Мертвые кости."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/flowery/flowery.bush": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "plants/bushes/ground/springbush/springbus.bush": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flowers.",
+      "Rus": "Цветы."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Цветистый"
+    ],
+    "Files": {
+      "plants/bushes/ground/flowery/flowery.bush": [
+        "/description",
+        "/shortdescription"
+      ],
+      "plants/bushes/ground/springbush/springbus.bush": [
+        "/description",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flowery.",
+      "Rus": "Цветистый."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Кустарник."
+    ],
+    "Files": {
+      "plants/bushes/ground/shrub1/shrub1.bush": [
+        "/floranDescription"
+      ],
+      "plants/bushes/ground/testbush/testbush.bush": [
+        "/floranDescription"
+      ],
+      "plants/bushes/ground/testbush2/testbush2.bush": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssshrub.",
+      "Rus": "Куст."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Кости давно умершего существа"
+    ],
+    "Files": {
+      "plants/bushes/ground/skeletalbush/skeletalbush.bush": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ],
+      "plants/bushes/ground/skulls/skulls.bush": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ],
+      "plants/bushes/ground/tarbones/tarbones.bush": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The bones of a long-dead creature.",
+      "Rus": "Кости давно умершего существа."
+    }
+  }
+]

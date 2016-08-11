@@ -1,0 +1,194 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/baron.npctype": [
+        "/scriptConfig/dialog/baron/start/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Affable. Hello, stranger! Welcome to my keep!",
+      "Rus": "Приветливый. Привет незнакомец! Добро пожаловать в мою Ставку!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/baron.npctype": [
+        "/scriptConfig/dialog/baron/start/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Attentive. What's that? You have a request? The thing behind me? Oh, that...",
+      "Rus": "Внимательный. Что это? У вас есть просьба? Вещь позади меня? Оу, эта..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/baron.npctype": [
+        "/scriptConfig/dialog/baron/alerted/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Decisive. Right, I propose a trade; you get rid of these loathsome cultists for me, I give you the shiny bauble.",
+      "Rus": "Задумчиво. Хорошо, я предлагаю сделку; ты избавляешься от этих отвратительных сектантов, я отдаю тебе сверкающую безделушку. "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/baron.npctype": [
+        "/scriptConfig/dialog/baron/missionComplete/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Galvanised. Take the artifact, and take me too.",
+      "Rus": "Оцинкованный. Возьми артефакт, и меня прихвати."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/baron.npctype": [
+        "/scriptConfig/dialog/baron/missionComplete/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have a teleporter you can use. I'm coming with you, I think this business needs sorting out.",
+      "Rus": "У меня есть телепорт который ты можешь использовать. Я иду с тобой, есть дела с которыми надо разобраться."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/baron.npctype": [
+        "/scriptConfig/dialog/baron/start/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've been expecting you... Ever since you walked through the door! Ha ha ha!",
+      "Rus": "Я ожидал вас...С того момента как вы вошли через дверь! Ха ха ха!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/baron.npctype": [
+        "/scriptConfig/dialog/baron/showRelic/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Imperious. Well! Goodbye then, strange person!",
+      "Rus": "Властный. Что ж! Тогда прощай, странный человек!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/baron.npctype": [
+        "/scriptConfig/dialog/baron/finalWaveComplete/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. Brilliant work! I doubt I'll suffer a return visit from them... Hmm, you remind me of a young me.",
+      "Rus": "Впечатлен. Отличная работа! Я сомневаюсь, что мне придется еще раз терпеть их визиты... Хм, ты напомнил мне меня в молодости."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/baron.npctype": [
+        "/scriptConfig/dialog/baron/beamOut/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Invigorated. Out into the great unknown!",
+      "Rus": "Ободренный. Выход в великое неизвестное!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/baron.npctype": [
+        "/scriptConfig/dialog/baron/missionComplete/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reflective. Also, it's quite boring here.",
+      "Rus": "Задумчивый. Также здесь довольно скучно."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/baron.npctype": [
+        "/scriptConfig/dialog/baron/finalWaveComplete/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shocked. What's that in the sky?!",
+      "Rus": "Шокирован. Что это такое в небе?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/baron.npctype": [
+        "/scriptConfig/dialog/baron/finalWaveComplete/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Speechless. ...",
+      "Rus": "Безмолвно. ..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/baron.npctype": [
+        "/scriptConfig/dialog/baron/alerted/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Startled. Do you hear that?",
+      "Rus": "Пораженный. Ты слышал это?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/baron.npctype": [
+        "/scriptConfig/dialog/baron/alerted/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Those cloaked vagrants! Back again! This is the fourth time!",
+      "Rus": "Эти окапюшененные злодеи! Вернулись снова! Уже в четвертый раз!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/baron.npctype": [
+        "/scriptConfig/dialog/baron/showRelic/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yes, I found it some years ago. You can't have it; it's pretty and I like it.",
+      "Rus": "Да, я нашел это несколько лет назад. Ты не можешь взять это; Оно красивое и мне оно нравится."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/baron.npctype": [
+        "/scriptConfig/dialog/baron/finalWaveComplete/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You've certainly earned your bauble!",
+      "Rus": "Ты определенно заслужил эту безделушку!"
+    }
+  }
+]

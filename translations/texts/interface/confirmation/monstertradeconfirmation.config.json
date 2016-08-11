@@ -1,0 +1,40 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/monstertradeconfirmation.config": [
+        "/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "<questGiver> wants to trade!",
+      "Rus": "<questGiver> хочет торговать!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/monstertradeconfirmation.config": [
+        "/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "<questGiver> would like to trade <questGiver.pronoun.possessiveDet> <tradedMonster> for your <monster>. The trade is permanent.\n\nProceed with the trade?",
+      "Rus": "<questGiver> хотел бы обменять <questGiver.pronoun.possessiveDet> <tradedMonster> на твоего <monster>. Обратно обменяться будет нельзя.\n\nПродолжить?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "<questGiver> хотел бы обменять <questGiver.pronoun.possessiveDet> <tradedMonster> на твоего <monster>. Обратно обменяться будет нельзя.\n\nПродолжить?"
+    ],
+    "Files": {
+      "interface/confirmation/monstertradeconfirmation.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trade A Monster",
+      "Rus": "Обмен монстрами"
+    }
+  }
+]

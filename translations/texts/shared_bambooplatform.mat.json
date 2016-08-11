@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Бамбуковая Платформа"
+    ],
+    "Files": {
+      "items/materials/bambooplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/bambooplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bamboo Platform",
+      "Rus": "Бамбуковая платформа"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bambooplatform.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/platforms/bambooplatform.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bamboo hung up like a platform.",
+      "Rus": "Подвешенный бамбук. Похож на платформу."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bambooplatform.matitem": [
+        "/florandescription"
+      ],
+      "tiles/platforms/bambooplatform.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran grow sstrong bamboo for platformsss.",
+      "Rus": "Флоран выращщщивает твердый бамбук для платффформ."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Прочные платформы вылепленные из стеблей бамбука."
+    ],
+    "Files": {
+      "items/materials/bambooplatform.matitem": [
+        "/description"
+      ],
+      "tiles/platforms/bambooplatform.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strong platforms fashioned from bamboo stalks.",
+      "Rus": "Крепкая платформа из стеблей бамбука."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bambooplatform.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/platforms/bambooplatform.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This bamboo platform is incredibly strong.",
+      "Rus": "Эта бамбуковая платформа невероятно крепкая."
+    }
+  }
+]

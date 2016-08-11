@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Древний Блок"
+    ],
+    "Files": {
+      "items/materials/ancientblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/ancientblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient Block",
+      "Rus": "Древний блок"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ancientblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/ancientblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient blocksss.",
+      "Rus": "Древний блоки."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ancientblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/ancientblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These blocks are evidently very old.",
+      "Rus": "Очевидно, эти блоки очень старые."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ancientblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/ancientblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These blocks are older'n dirt.",
+      "Rus": "Ветхие да изгвазданные блоки."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ancientblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/ancientblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "These bricks have certainly survived the test of time.",
+      "Rus": "Эти кирпичи, безусловно, выдержали испытание временем."
+    }
+  }
+]

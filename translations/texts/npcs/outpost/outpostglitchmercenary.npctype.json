@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outpostglitchmercenary.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Apologetic. Please do not be offended if my comrade in black will not speak to you. He's not much of a talker.",
+      "Rus": "Извиняющийся. Пожалуйста не обижайтесь на моего товарища в чёрном если он не станет с вами разговаривать. Он неразговорчив."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outpostglitchmercenary.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Please do not be offended if my comrade in black will not speak to you. He's not much of a talker.",
+      "Rus": "Пожалуйста не обижайтесь на моего товарища в чёрном если он не станет с вами разговаривать. Он неразговорчив."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outpostglitchmercenary.npctype": [
+        "/scriptConfig/dialog/converse/glitch/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Were times not simpler before we learned of all... this?",
+      "Rus": "Тебе не кажется, что былые времена были проще, до того как мы научились делать всё... это?"
+    }
+  }
+]

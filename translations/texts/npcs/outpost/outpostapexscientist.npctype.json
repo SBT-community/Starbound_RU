@@ -1,0 +1,27 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outpostapexscientist.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/0",
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I grew weary of watching my Apex brothers and sisters being tormented at the hands of the Miniknog, so I left.",
+      "Rus": "Всю жизнь я наблюдал гнём Министерства, притеснения моих братьев и сестёр. Так что я бежал."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outpostapexscientist.npctype": [
+        "/scriptConfig/dialog/converse/apex/apex/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "It makes me happy to see another Apex who has escaped the brutality of the Miniknog.",
+      "Rus": "Счастлив видеть другого Апекса, который бежал от жестокости Министерства."
+    }
+  }
+]

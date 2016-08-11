@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/monsterdrops/venomsample.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sample of volatile venomous fluid. Can be used for crafting.",
+      "Rus": "Образец опасной ядовитой жидкости. Может быть использован в крафте."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/monsterdrops/venomsample.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Venom Sample",
+      "Rus": "Образец яда"
+    }
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/junk.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/junk.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ol' heap of garbage.",
+      "Rus": "Кучка отбросов."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/junk.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/junk.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can see many different types of twisted broken debris in this pile.",
+      "Rus": "Я вижу в этой груде много различных видов смятых и искореженных отходов."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Куча Мусора"
+    ],
+    "Files": {
+      "items/materials/junk.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/junk.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Junk Pile",
+      "Rus": "Куча мусора"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/junk.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/junk.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sso much junk.",
+      "Rus": "Так много мусссора"
+    }
+  }
+]

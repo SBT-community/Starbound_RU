@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/objectcrafting/refinery.config": [
+        "/gui/toggleCrafting/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Refine",
+      "Rus": "Переработать"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/objectcrafting/refinery.config": [
+        "/gui/lblText/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;Place ore in the left slot to refine into pixels.",
+      "Rus": "^#b9b5b2;Руда в левом слоте будет переработана в пиксели"
+    }
+  }
+]

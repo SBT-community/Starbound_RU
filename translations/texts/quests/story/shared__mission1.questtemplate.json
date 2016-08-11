@@ -1,0 +1,262 @@
+[
+  {
+    "DeniedAlternatives": [
+      "В улике немного смысла, тем не менее она бесценна!",
+      "Эта улика не особо причастна к делу, но все равно важна!"
+    ],
+    "Files": {
+      "quests/story/apex_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/3/text"
+      ],
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/3/text"
+      ],
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/3/text"
+      ],
+      "quests/story/glitch_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "A clue of small implication, but relevant nonetheless!",
+      "Rus": "В улике немного смысла, тем не менее, она бесценна!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Даже малейшая часть доказательства может раскрыть величайшие секреты Вселенной.",
+      "Даже самая маленькая часть доказательств может помочь раскрыть грандиозные тайны Вселенной."
+    ],
+    "Files": {
+      "quests/story/apex_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/8/text"
+      ],
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/8/text"
+      ],
+      "quests/story/glitch_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/8/text"
+      ],
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/8/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Even the smallest piece of evidence can help to uncover the grandest secrets of the universe.",
+      "Rus": "Даже крохотный кусочек улики может помочь нам  раскрыть величайшие тайны Вселенной."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Хм, а что если...",
+      "Хм, интересненько..."
+    ],
+    "Files": {
+      "quests/story/apex_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/5/text"
+      ],
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/1/text"
+      ],
+      "quests/story/glitch_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/5/text"
+      ],
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hm, I wonder..."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Хммм... как любопытно. Надо сравнить кое с чем.",
+      "Хмммм... как любопытно. Надо сравнить кое с чем."
+    ],
+    "Files": {
+      "quests/story/apex_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/0/text"
+      ],
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/0/text"
+      ],
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/0/text"
+      ],
+      "quests/story/glitch_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/0/text"
+      ],
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hmmm, how curious... I need to cross-reference this.",
+      "Rus": "Хмм, как любопытно... Надо это где-то пометить."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Как необычно! Неожиданная информация может, зачастую, быть более ценной, нежели ожидаемая.",
+      "Как странно! Но неожиданные данные могут быть даже более ценны, чем то, чего ты ожидаешь..."
+    ],
+    "Files": {
+      "quests/story/apex_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/7/text"
+      ],
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/8/text"
+      ],
+      "quests/story/glitch_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/7/text"
+      ],
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/7/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "How peculiar! But surprising information can be even more valuable than expected information...",
+      "Rus": "Как странно! Но неожиданные данные могут быть даже более ценны, чем ожидаемые..."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Интересно. Это определённо внесёт вклад в мои исследования."
+    ],
+    "Files": {
+      "quests/story/apex_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/1/text"
+      ],
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/1/text"
+      ],
+      "quests/story/glitch_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/1/text"
+      ],
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interesting. This will certainly have a bearing on my research.",
+      "Rus": "Интересно... Это определенно продвинет мои исследования."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Похоже, ты уже нашёл предметы, которые расскажут нам о местоположении артефакта. Я начну анализировать их, а ты пока поищи ещё.",
+      "Похоже, что мы собрали достаточно улик для местонахождения расположения артефакта. Я начну анализ данных, пока ты продолжаешь поиски!",
+      "Похоже, что мы собрали достаточно улик для нахождения расположения артефакта. Я начну анализ данных, пока ты продолжаешь поиски!"
+    ],
+    "Files": {
+      "quests/story/apex_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/startWithProgress/text"
+      ],
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/startWithProgress/text"
+      ],
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/startWithProgress/text"
+      ],
+      "quests/story/glitch_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/startWithProgress/text"
+      ],
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/startWithProgress/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "It appears you've already found some items that provide clues towards the artifact's whereabouts. I'll begin my analysis on these while you search for more!",
+      "Rus": "Похоже, что мы собрали достаточно улик для поиска расположения артефакта. Я начну анализ данных, пока ты продолжаешь поиски!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/apex_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/2/text"
+      ],
+      "quests/story/glitch_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Keep it up dear, this is all very helpful!",
+      "Rus": "Продолжай, дорогуша, это всё очень полезно!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Эта подсказка намекает на скрытую информацию.",
+      "Эта улика намекает на скрытую информацию."
+    ],
+    "Files": {
+      "quests/story/apex_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/9/text"
+      ],
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/9/text"
+      ],
+      "quests/story/glitch_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/9/text"
+      ],
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/5/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This clue hints at hidden information.",
+      "Rus": "Эта находка намекает на нечто большее."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Это подтверждает то, о чем я размышляла!"
+    ],
+    "Files": {
+      "quests/story/apex_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/6/text"
+      ],
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/5/text"
+      ],
+      "quests/story/glitch_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/6/text"
+      ],
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/6/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This confirms something that I had speculated upon!",
+      "Rus": "Это подтверждает мои ранние предположения!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Великолепно, все, что ты находишь, вносит свой  в формирование теории.",
+      "Превосходно, все, что мы нашли, вносит свой вклад в теорию.",
+      "Превосходно, все, что мы нашли, способствует составлению теории."
+    ],
+    "Files": {
+      "quests/story/apex_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/4/text"
+      ],
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/4/text"
+      ],
+      "quests/story/glitch_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/4/text"
+      ],
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/4/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is excellent, everything you find contributes to the formation of a theory.",
+      "Rus": "Великолепно, всё, что ты находишь, содействует формированию теории."
+    }
+  }
+]

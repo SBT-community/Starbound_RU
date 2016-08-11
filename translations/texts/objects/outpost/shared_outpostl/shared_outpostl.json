@@ -1,0 +1,86 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostlamp/outpostlamp.object": [
+        "/apexDescription"
+      ],
+      "objects/outpost/outpostlight/outpostlight.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A functional wall light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostlamp/outpostlamp.object": [
+        "/humanDescription"
+      ],
+      "objects/outpost/outpostlight/outpostlight.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pretty standard wall light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostlamp/outpostlamp.object": [
+        "/hylotlDescription"
+      ],
+      "objects/outpost/outpostlight/outpostlight.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wall light. It is functional but unpleasant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostlamp/outpostlamp.object": [
+        "/floranDescription"
+      ],
+      "objects/outpost/outpostlight/outpostlight.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shiny light!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostlamp/outpostlamp.object": [
+        "/novakidDescription"
+      ],
+      "objects/outpost/outpostlight/outpostlight.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This light's okay, but it ain't as bright as me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostlamp/outpostlamp.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/outpost/outpostlight/outpostlight.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This wall mounted light is effective."
+    }
+  }
+]

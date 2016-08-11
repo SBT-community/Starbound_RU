@@ -1,0 +1,349 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Торговец вроде меня заслуживает лучшего. С меня хватит."
+    ],
+    "Files": {
+      "dialog/merchant.config": [
+        "/final/avian/default/0"
+      ],
+      "dialog/oremerchant.config": [
+        "/final/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "A merchant like myself deserves better. Enough is enough.",
+      "Rus": "Такой торговец как я заслуживает лучшего. Хватит, значит хватит."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Ты хочешь пустить другого торговца в мой магазин?"
+    ],
+    "Files": {
+      "dialog/merchant.config": [
+        "/otherDeed/glitch/default/0/glitchEmotedText"
+      ],
+      "dialog/oremerchant.config": [
+        "/otherDeed/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you trying to move another merchant into my store?",
+      "Rus": "Вы пытаетесь заселить нового торговца в мой магазин?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Лучшие цены!",
+      "Это лучшее предложение в округе!"
+    ],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tout/default/default/2"
+      ],
+      "dialog/oremerchant.config": [
+        "/tout/default/default/3",
+        "/tout/human/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Best deals around!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Вы выставили мой магазин на продажу? Наверняка это ошибка...",
+      "Ты решил отдать мой магазин в аренду? Это какая-то ошибка..."
+    ],
+    "Files": {
+      "dialog/merchant.config": [
+        "/otherDeed/avian/default/1"
+      ],
+      "dialog/oremerchant.config": [
+        "/otherDeed/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did you put my shop up for rent? This must be a mistake..."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Тебе что-то нужно?"
+    ],
+    "Files": {
+      "dialog/merchant.config": [
+        "/beacon/floran/default/1"
+      ],
+      "dialog/oremerchant.config": [
+        "/beacon/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you need me for sssomething?",
+      "Rus": "Что-то нужно от меня?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/default/default/5",
+        "/merchantEnd/human/default/5"
+      ],
+      "dialog/oremerchant.config": [
+        "/merchantEnd/default/default/4",
+        "/merchantEnd/human/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Great to see you!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Вот мы и тут. Чем я могу быть полезен?"
+    ],
+    "Files": {
+      "dialog/merchant.config": [
+        "/welcome/default/default/1",
+        "/welcome/human/default/1"
+      ],
+      "dialog/oremerchant.config": [
+        "/welcome/default/default/2",
+        "/welcome/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here we are. Now, how can I help you?",
+      "Rus": "Ну вот. Как я могу Вам помочь?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Вот Вам подарок за всю помощь, что вы мне оказали с магазином!",
+      "Держи подарок за то, что помогаешь мне с магазином!"
+    ],
+    "Files": {
+      "dialog/merchant.config": [
+        "/rent/default/default/0",
+        "/rent/human/default/1"
+      ],
+      "dialog/oremerchant.config": [
+        "/rent/default/default/0",
+        "/rent/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here's a gift for all your help with my shop!",
+      "Rus": "Вот подарок за помощь с магазином!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Как я могу торговать, если в моём магазине нет, чего надо?"
+    ],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tagCriteria/human/default/2"
+      ],
+      "dialog/oremerchant.config": [
+        "/tagCriteria/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "How can I sell stuff when my store is being changed?",
+      "Rus": "Как я могу заниматься продажей, пока мой магазин в ремонте?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Я не могу продавать товары в таких условиях!"
+    ],
+    "Files": {
+      "dialog/merchant.config": [
+        "/severe/default/default/0",
+        "/severe/human/default/0"
+      ],
+      "dialog/oremerchant.config": [
+        "/severe/default/default/0",
+        "/severe/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't sell my wares in these conditions!",
+      "Rus": "Я не могу торговать в таких условиях!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Я заслужил хорошие условия труда, лучше чем здесь."
+    ],
+    "Files": {
+      "dialog/merchant.config": [
+        "/final/apex/default/1"
+      ],
+      "dialog/oremerchant.config": [
+        "/final/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I deserve better working conditions than this!",
+      "Rus": "Я заслуживаю лучших условий для работы, чем эти!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Я сдаюсь, буду продавать товары в другом месте!"
+    ],
+    "Files": {
+      "dialog/merchant.config": [
+        "/final/human/default/2"
+      ],
+      "dialog/oremerchant.config": [
+        "/final/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I give up, I'm going to sell my wares in some other place!",
+      "Rus": "Я сдаюсь, буду торговать в другом месте."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Я надеялся, что это мой личный магазин."
+    ],
+    "Files": {
+      "dialog/merchant.config": [
+        "/otherDeed/glitch/default/2/glitchEmotedText"
+      ],
+      "dialog/oremerchant.config": [
+        "/otherDeed/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I thought I had this shop exclusively for myself.",
+      "Rus": "Я думал, что этот магазин только мой."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Тебе нужно что-то купить?"
+    ],
+    "Files": {
+      "dialog/merchant.config": [
+        "/beacon/human/default/1"
+      ],
+      "dialog/oremerchant.config": [
+        "/beacon/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is there something you need to buy?",
+      "Rus": "Нужно купить что-нибудь?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Мой магазин должен быть в идеальном состоянии! Можешь помочь?"
+    ],
+    "Files": {
+      "dialog/merchant.config": [
+        "/enclosedArea/human/default/2"
+      ],
+      "dialog/oremerchant.config": [
+        "/enclosedArea/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "My shop needs to be in top condition! Can you help fix it?",
+      "Rus": "Мой магазин должен быть с иголочки! Могли бы Вы мне помочь?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Всё, я больше не могу. Буду вести дело в другом месте!"
+    ],
+    "Files": {
+      "dialog/merchant.config": [
+        "/final/human/default/1"
+      ],
+      "dialog/oremerchant.config": [
+        "/final/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's it, I give up. Time to take my business elsewhere!",
+      "Rus": "Ну вот, я сдаюсь. Пора перевезти мой бизнес в другое место."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "У меня в магазине второй колонизатор - очевидно, ты это случайно сделал."
+    ],
+    "Files": {
+      "dialog/merchant.config": [
+        "/otherDeed/avian/default/2"
+      ],
+      "dialog/oremerchant.config": [
+        "/otherDeed/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "There is another deed in my shop - Surely this isn't intentional.",
+      "Rus": "В моём магазине ещё один Колонизатор - уверен это не специально."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "В моём магазине второй колонизатор? Это ведь по ошибке?"
+    ],
+    "Files": {
+      "dialog/merchant.config": [
+        "/otherDeed/hylotl/default/2"
+      ],
+      "dialog/oremerchant.config": [
+        "/otherDeed/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "There is another deed in my shop? Surely a mistake has been made?",
+      "Rus": "Ещё один Колонизатор в моём магазине? Уверен, произошла ошибка!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Это мой магазин! Зачем кому-то вещи из него?"
+    ],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tagCriteria/hylotl/default/1"
+      ],
+      "dialog/oremerchant.config": [
+        "/tagCriteria/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is my store! Why would someone take things from it?",
+      "Rus": "Это мой магазин! Зачем кому-то брать вещи из него?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Зачем пытаться селить кого-то в мой магазин?"
+    ],
+    "Files": {
+      "dialog/merchant.config": [
+        "/otherDeed/avian/default/0"
+      ],
+      "dialog/oremerchant.config": [
+        "/otherDeed/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why is someone else attempting to move into my store?",
+      "Rus": "Почему кто-то пытается въехать в мой магазин?"
+    }
+  }
+]

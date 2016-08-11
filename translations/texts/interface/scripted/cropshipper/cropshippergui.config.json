@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/cropshipper/cropshippergui.config": [
+        "/gui/btnShip/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ship",
+      "Rus": "Отправить"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/cropshipper/cropshippergui.config": [
+        "/gui/lblMoneyLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "TOTAL VALUE",
+      "Rus": "СТОИМОСТЬ"
+    }
+  }
+]

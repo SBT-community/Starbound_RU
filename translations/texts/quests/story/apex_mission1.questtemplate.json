@@ -1,0 +1,134 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/apex_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/minidronerack/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excellent find, dear! This drone's database is saturated with useful information.",
+      "Rus": "Прекрасная находка, дорогуша! Эта база данных дрона наполнена полезными сведениями."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/apex_mission1.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Find Clues to Locate the Apex Artifact",
+      "Rus": "Найдите подсказки об Артефакте Апексов."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/apex_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/bigapetargetmap/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hmm, this map indicates the supposed whereabouts of Big Ape. I see the Miniknog likes to keep its most important assets close to hand. I think this will be a very useful clue, dear.",
+      "Rus": "Хмм, эта карта показывает предположительное местонахождение Большого Эйпа. Похоже, что Министерство любит держать самые важные активы при себе. Думаю, это будет довольно важной уликой, дорогуша."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/apex_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/complete/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I believe I know where the Apex Artifact is! ^#71f2f6;Come back to the Ark when you're ready^white; dear, and I'll tell you more.",
+      "Rus": "Думаю, что я знаю, где находится Артефакт Апексов! ^#71f2f6;Возвращайся в Ковчег, когда будешь готов^white;, дорогуша, и я расскажу больше."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/apex_mission1.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I think we should begin our hunt for the ^orange;Apex artifact^reset;. The Apex are generally found on ^orange;frozen planets^reset; around ^orange;frozen stars^reset;, so those are ^green;the best places to search for the ^orange;clues^green; we need^reset;. Wrap up warm dear, and remember: Apex society is in upheaval at the moment, so be on your guard.",
+      "Rus": "Я думаю, мы должны начать нашу охоту за ^orange;Артефактом Апексов^reset;. Апексы, в основном, могут быть найдены на ^orange;ледяных планетах^reset; вокруг ^orange;холодных звезд^reset;. Оденься потеплее, дорогуша, и помни: в обществе Апексов происходит переворот, так что будь наготове."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/apex_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/bigapedoll/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This doll is actually a spy camera... The Miniknog controls every aspect of Apex lives and culture. I'm going to attempt to trace this camera's signal... Thank you for finding this.",
+      "Rus": "Эта кукла, на самом деле, - шпионская камера... Министерство контролирует все аспекты жизни и культуры Апексов. Я попытаюсь отследить сигнал передачи камеры... Спасибо за находку."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/apex_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/miniknogintel1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is a useful find! I'm sure some of the information here pertains to the Artifact.",
+      "Rus": "Вот так полезная находка! Я уверена, что информация отсюда связана с Артефактом."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/apex_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/miniknognewspaper/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This newspaper clipping is full of trickery and propaganda, but I believe there is information of use hidden beneath the lies.",
+      "Rus": "Этот обрезок газеты полон обмана и пропаганды, но я верю, что среди всей лжи скрыта информация, которую мы можем использовать."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/apex_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/startAlreadyComplete/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're quite the collector of Apex antiquities! It appears you've already located enough clues to to allow me to identify the location of the Artifact!",
+      "Rus": "Да ты изрядный собиратель реликвий Апексов! Похоже, что ты собрал достаточно зацепок, чтобы позволить мне найти местоположение Артефакта!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/apex_mission1.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You've found all the clues we need to locate the Apex artifact! This is brilliant, dear - we've come so far.",
+      "Rus": "Ты нашел все улики для местонахождения артефакта Апексов! Это великолепно, дорогуша, - мы так далеко зашли."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/apex_mission1.questtemplate": [
+        "/scriptConfig/descriptions/findClues"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Scan objects^reset; to find ^orange;Apex clues^reset;",
+      "Rus": "^green;Просканируйте объекты^reset;, чтобы найти ^orange;подсказки Апексов^reset;"
+    }
+  }
+]

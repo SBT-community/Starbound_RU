@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/techlab/techlabscientist.object": [
+        "/chatOptions/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excuse me, but I'm rather busy now."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/techlab/techlabscientist.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tech Lab Scientist"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/techlab/techlabscientist.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tech lab scientist."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/techlab/techlabscientist.object": [
+        "/chatOptions/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "We're at the forefront of tech development."
+    }
+  }
+]

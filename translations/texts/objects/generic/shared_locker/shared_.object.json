@@ -1,0 +1,86 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/locker1/locker1.object": [
+        "/avianDescription"
+      ],
+      "objects/generic/locker2/locker2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal box, probably built for storage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/locker1/locker1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/generic/locker2/locker2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small amount of wall storage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/locker1/locker1.object": [
+        "/apexDescription"
+      ],
+      "objects/generic/locker2/locker2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A storage locker."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/locker1/locker1.object": [
+        "/humanDescription"
+      ],
+      "objects/generic/locker2/locker2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's no lock on this locker..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/locker1/locker1.object": [
+        "/novakidDescription"
+      ],
+      "objects/generic/locker2/locker2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This locker doesn't actually lock."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/locker1/locker1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/generic/locker2/locker2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Useful storage."
+    }
+  }
+]

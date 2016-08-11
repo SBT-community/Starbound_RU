@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/easel/signstoregui.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "E.A.S.E.L",
+      "Rus": "Э.С.К.И.З."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/easel/signstoregui.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;Elegantly Automatic Sign Engineering Lithographer",
+      "Rus": "^#b9b5b2;Электронный Сканер-Копир Изображений и Знаков"
+    }
+  }
+]

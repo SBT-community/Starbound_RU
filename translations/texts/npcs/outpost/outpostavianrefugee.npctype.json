@@ -1,0 +1,27 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outpostavianrefugee.npctype": [
+        "/scriptConfig/dialog/converse/avian/avian/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Another Avian who no longer follows Kluex? Your presence brings me comfort.",
+      "Rus": "Ещё один Авианин отрёкся от Клюэкса? Твоё присутствие мне приятно."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outpostavianrefugee.npctype": [
+        "/scriptConfig/dialog/converse/avian/default/0",
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I almost became an Ascendant for Kluex, but I got scared and fled here. What do I do now?",
+      "Rus": "Я едва не стал Верховным, но испугался и бежал. Что же теперь делать?"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/electricianvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm an electrician by trade. I'm just visiting to buy some new batteries from Infinity Express.",
+      "Rus": "Я электрик по обмену. Я пришел сюда чтобы купить новых батареек из Экспресса Бесконечности"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/electricianvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm an electrician! I'm here to buy some fresh batteries from the Infinity Express.",
+      "Rus": "Я электрик! Я пришел сюда чтобы купить свежих батареек из Экспресса Бесконечности"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/electricianvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm an electrician, so I come to the Outpost often to get supplies for my trade.",
+      "Rus": "Я электрик, поэтому я частенько прихожу на Форпост, чтобы закупиться припасами для торговли."
+    }
+  }
+]

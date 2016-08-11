@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shadowspikeblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/shadowspikeblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A spiked block formed from shadowy material.",
+      "Rus": "Заострённый блок, сделанный из тёмного материала."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shadowspikeblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/shadowspikeblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark blockss are black as night."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shadowspikeblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/shadowspikeblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shadow Spike Block",
+      "Rus": "Теневой заострённый блок"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shadowspikeblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/shadowspikeblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These blocks're darker'n a moonless night."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shadowspikeblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/shadowspikeblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This block is made from an unknown material."
+    }
+  }
+]

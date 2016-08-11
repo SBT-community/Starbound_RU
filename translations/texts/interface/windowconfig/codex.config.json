@@ -1,0 +1,86 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/codex.config": [
+        "/paneLayout/pageNum/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "0 of 0",
+      "Rus": "0 из 0"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/codex.config": [
+        "/paneLayout/prevButton/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "< Previous",
+      "Rus": "Назад"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/codex.config": [
+        "/selectText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Choose <species> Codex",
+      "Rus": "Выбрать кодексы расы: <species>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/codex.config": [
+        "/paneLayout/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Codex Library",
+      "Rus": "Библиотека кодексов"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/codex.config": [
+        "/paneLayout/nextButton/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next >",
+      "Rus": "Дальше"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/codex.config": [
+        "/paneLayout/pageLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Page",
+      "Rus": "Стр."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/codex.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;Books found on your travels ^green;[L]",
+      "Rus": "Книги, найденные тобой в странствиях "
+    }
+  }
+]

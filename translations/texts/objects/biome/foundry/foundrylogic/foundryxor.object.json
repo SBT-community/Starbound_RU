@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Логическая операция /'исключающего или'/. Выход будет работать, только если один вход включен.",
+      "Логический элемент XOR. Выход включится, ежели толька один с входов включен."
+    ],
+    "Files": {
+      "objects/biome/foundry/foundrylogic/foundryxor.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An XOR switch. The output will be on when exactly one of the inputs is on.",
+      "Rus": "Логический элемент XOR. Выход будет включен, если только один вход включен."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/foundrylogic/foundryxor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Foundry XOR Switch"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/foundrylogic/foundryxor.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "XOR ssswitch. The output will be on when exactly one of the inputsss is on.",
+      "Rus": "Логический элемент XOR. Выход включитссся, если только один вход включен."
+    }
+  }
+]

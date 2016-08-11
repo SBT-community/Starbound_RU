@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/bioluminescence/glowchest/glowchest.object": [
+        "/humanDescription"
+      ],
+      "objects/biome/jungle/junglechest/junglechest.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Was this chest grown?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/giantflower/giantflowerchest/giantflowerchest.object": [
+        "/apexDescription"
+      ],
+      "objects/biome/mushroom/shroomchest/shroomchest.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "You could easily pick up this chest and walk off with it."
+    }
+  }
+]

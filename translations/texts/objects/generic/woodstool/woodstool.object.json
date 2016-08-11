@@ -1,0 +1,100 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodstool/woodstool.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A charming stool.",
+      "Rus": "Очаровательный стул."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodstool/woodstool.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cute little stool.",
+      "Rus": "Милая маленькая табуретка."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodstool/woodstool.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A lil wooden stool, straight outta some fairytale."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Небольшая деревянная табуретка"
+    ],
+    "Files": {
+      "objects/generic/woodstool/woodstool.object": [
+        "/apexDescription",
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small wooden stool.",
+      "Rus": "Небольшая деревянная табуретка."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodstool/woodstool.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A stool. Perhaps for one to rest one's talons.",
+      "Rus": "Табуретка. Для тех, кто хочет дать отдохнуть когтям."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodstool/woodstool.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A very small stool.",
+      "Rus": "Очень маленький стул."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodstool/woodstool.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tiny ssseat.",
+      "Rus": "Маленькое сссиденье."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodstool/woodstool.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wooden Stool",
+      "Rus": "Деревянная табуретка"
+    }
+  }
+]

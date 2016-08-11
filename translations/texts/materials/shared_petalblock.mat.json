@@ -1,0 +1,59 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/petalblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/petalblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran lovess flowery plantss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/petalblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/petalblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sweet smelling dark leaves and flowers.",
+      "Rus": "Сладко пахнущие темные листья и цветы."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/petalblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/petalblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's some real nice flowers growin' here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/petalblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/petalblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These leaves smell of earth and flowers."
+    }
+  }
+]

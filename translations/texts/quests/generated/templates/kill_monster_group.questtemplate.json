@@ -1,0 +1,938 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/7/1/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "<belonging2>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/title/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dealing with some <monster>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran appreciates the help!",
+      "Rus": "Флоран признателен за помощщщь!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran heard there isss a group of <wild> ^orange;<monster>^white; that are <loiteringfloran>. Floran would hunt them but Floran <excusefloran>. They are at the ^orange;<spawnPoint>^white;<spawnPoint.direction> - ^green;could you <revengefloran> for Floran^white;?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/18/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I appreciate you doing this for me. Please accept this gift.",
+      "Rus": "Я признателен за то, что ты сделал для меня. Пожалуйста, прими этот дар."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/18/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope this gift is enough for the time you spent on my problem!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/0",
+        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm <upset> and need your help! A <group> of <wild> ^orange;<monster>^white; <ambushed> me whilst I was out <exploring> and <ate> <belonging1>! This happened at the ^orange;<spawnPoint>^white;<spawnPoint.direction> - ^green;could you go and <revenge1>^white;?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/1",
+        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm too scared to leave here after <rumours> a pack of <wild> ^orange;<monster>^white; <loitering>. I heard they were last seen at the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Could you <revenge2> for me^white;?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/17/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oh, you sorted out the <monster>?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/title/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sorting out some <monster>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/18/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thanks for the help, I hope this reward is okay!",
+      "Rus": "Спасибо за помощь, я надеюсь это достойная награда!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/17/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Those <monster> won't be a problem anymore, because they're dead! Ha ha ha."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/goalText/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Floran hasss something for you to take care of..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/goalText/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Worried. Some beasts have rendered me afraid."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/13/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "all the talk about"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/4/0",
+        "/scriptConfig/generatedText/fluff/4/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "ambushed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/1",
+        "/scriptConfig/generatedText/fluff/3/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "angry"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/6/0",
+        "/scriptConfig/generatedText/fluff/6/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "ate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/15/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "attacking people"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/10/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "avenge me"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/7/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "belonging1"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "belonging2"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/4/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "chased"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "crazed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/6/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "destroyed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "dismayed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "distressed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/16/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "excusefloran"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/13/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "finding out about"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/11/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "forcefully evict them"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/16/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "forgot to make weaponsss"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/0",
+        "/scriptConfig/generatedText/fluff/2/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "group"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/4/1/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "harassed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/13/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "hearing rumours about"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "horde"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/12/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "hunt them down"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/16/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "isss feeling lazy"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/16/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "isssn't feeling too confident about hunting right now"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/12/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "kill them all"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/4/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "leapt at"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/14/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "loitering"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/15/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "loiteringfloran"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/15/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "making lotsss of noise"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/7/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "my backpack full of snacks"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/7/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "my book"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/7/1/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "my cheap watch"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "my homemade album"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/7/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "my lunch"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "my memoirs"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "my personal poetry collection"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/7/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "my sandwich"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/7/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "my shoes"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "my unfinished novel"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/7/1/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "my wallet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/13/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "narrowly avoiding"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/13/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "narrowly escaping"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "naughty"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "pack"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/4/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "pursued"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/10/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "put a stop to them"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/11/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "quietly kill them all"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "ravenous"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/10/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "revenge1"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/11/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "revenge2"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/12/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "revengefloran"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/6/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "ruined"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "savage"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/4/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "snuck up on"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/6/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "soiled"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/15/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "ssscaring people"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/10/1/2",
+        "/scriptConfig/generatedText/fluff/11/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "teach them a lesson"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/7/1/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "the manuscript for my unfinished novel"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/7/1/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "the only remaining copy of <belonging2>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/16/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "thinksss you'd do a better job"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "troubled"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/15/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "trying to eat people"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/0",
+        "/scriptConfig/generatedText/fluff/1/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "upset"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/14/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "which are biting people's ankles"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/14/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "which are causing minor local distress"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/14/1/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "which are giving people the creeps"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/14/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "which are keeping people up at night"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/14/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "which are making a bit of an uproar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/14/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "which keep staring at people"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/0",
+        "/scriptConfig/generatedText/fluff/3/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "wild"
+    }
+  }
+]

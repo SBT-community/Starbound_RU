@@ -1,0 +1,122 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/currentcorn/currentcornseed.object": [
+        "/hylotlDescription"
+      ],
+      "objects/farmables/currentcorn/wildcurrentcornseed.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vile, acidic corn variant. Detrimental to any dish.",
+      "Rus": "Дикий и полный кислоты вариант кукурузы. Вредно в любом блюде."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/currentcorn/currentcornseed.object": [
+        "/avianDescription"
+      ],
+      "objects/farmables/currentcorn/wildcurrentcornseed.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Acidic corn. Unpleasant and dangerous.",
+      "Rus": "Кислотная кукуруза. Невкусно и небезопасно."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/currentcorn/currentcornseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/currentcorn/wildcurrentcornseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Currentcorn Seed",
+      "Rus": "Семена аккумурузы"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/currentcorn/currentcornseed.object": [
+        "/novakidDescription"
+      ],
+      "objects/farmables/currentcorn/wildcurrentcornseed.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Currentcorn is closer to a battery cell than an edible foodstuff.",
+      "Rus": "Это уже какая-то батарейка выходит, а не овощ."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/currentcorn/currentcornseed.object": [
+        "/description"
+      ],
+      "objects/farmables/currentcorn/wildcurrentcornseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Currentcorn, full of acid. Not good for fleshy creatures.",
+      "Rus": "Аккумуруза, полная кислоты. Не лучший вариант для существ из плоти и крови."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/currentcorn/currentcornseed.object": [
+        "/apexDescription"
+      ],
+      "objects/farmables/currentcorn/wildcurrentcornseed.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've heard of people getting acid burns from currentcorn. I'd better handle with care.",
+      "Rus": "До меня доходили сведения о том, что её кислота способна причинить тяжёлые ожоги. Лучше поостеречься."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/currentcorn/currentcornseed.object": [
+        "/humanDescription"
+      ],
+      "objects/farmables/currentcorn/wildcurrentcornseed.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It looks like corn... but it really, really isn't.",
+      "Rus": "Выглядит как кукуруза... Но не кукуруза, это точно."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/currentcorn/currentcornseed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/farmables/currentcorn/wildcurrentcornseed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Glitch know of a way to use these vegetables as batteries.",
+      "Rus": "Глитч знает способ использовать эти овощи в качестве батареи."
+    }
+  }
+]

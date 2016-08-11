@@ -1,0 +1,40 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Шар из плоти"
+    ],
+    "Files": {
+      "plants/grass/ceiling/decorative/ceilingfleshplant/ceilingfleshplant.grass": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ],
+      "plants/grass/ground/decorative/fleshplant/fleshplant.grass": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A globule of flesh.",
+      "Rus": "Шар из плоти."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Мясо!",
+      "Плоть!"
+    ],
+    "Files": {
+      "plants/grass/ceiling/decorative/ceilingfleshplant/ceilingfleshplant.grass": [
+        "/floranDescription"
+      ],
+      "plants/grass/ground/decorative/fleshplant/fleshplant.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flesssh!"
+    }
+  }
+]

@@ -1,0 +1,514 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/converse/human/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "A triffid!",
+      "Rus": "Триффид!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/converse/apex/human/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ah, lovely to see humans in our midst.",
+      "Rus": "А, приятно видеть людей среди нас."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/converse/floran/avian/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Birdman!",
+      "Rus": "Ходячая птица!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/converse/glitch/avian/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Does your plumage self-assemble, or is it constructed by artisans?",
+      "Rus": "Твоё оперение естественно или сделано ремесленниками?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/converse/hylotl/apex/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't get too close, ape. You stink.",
+      "Rus": "Не подходил близко, примат. Ты воняешь."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/flee/helpme/floran/default/1",
+        "/flee/helpthem/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran being hurted!",
+      "Rus": "Флоран ранен!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/flee/encourage/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran get revenge now!",
+      "Rus": "Флоран сейчас отомстит!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/flee/safe/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran not get ssstabbed after all.",
+      "Rus": "Флоран всё же не порезан."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/flee/safe/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran sssafe now.",
+      "Rus": "Флоран в безопасности."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/converse/floran/apex/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran want cuddle from monkey man!",
+      "Rus": "Флоран хочет обнять большую мартышку!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/converse/glitch/hylotl/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "For a species that lives underwater, you don't smell very clean.",
+      "Rus": "Для существа, которого живёт под водой, ты не слишком чисто пахнешь."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/flee/helpme/glitch/default/3/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Get away from me!",
+      "Rus": "Прочь от меня!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/converse/hylotl/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ghurk!",
+      "Rus": "Фу!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/converse/glitch/floran/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings plantman.",
+      "Rus": "Приветствую разумное растение."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/converse/apex/avian/0",
+        "/converse/hylotl/avian/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings, Avian.",
+      "Rus": "Приветствую, Авианин."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/converse/avian/apex/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings, ape.",
+      "Rus": "Приветствую, примат."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/converse/avian/avian/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings, fellow Avian.",
+      "Rus": "Приветствую, друг-Авианин."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/converse/avian/human/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings, human.",
+      "Rus": "Приветствую, человек."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/converse/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Have a blessed day, stranger.",
+      "Rus": "Хорошего дня, незнакомец."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Помогите!"
+    ],
+    "Files": {
+      "dialog/outpost.config": [
+        "/flee/helpme/default/default/0",
+        "/flee/helpme/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Help me!",
+      "Rus": "Помогите мне!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/converse/floran/hylotl/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hsssss!",
+      "Rus": "Хсссс!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/flee/helpthem/glitch/default/5/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I will write an electronic letter in protest!",
+      "Rus": "Я напишу электронное письмо в знак протеста!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/converse/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm not sure I want to know what you are.",
+      "Rus": "Я не уверен, что хочу знать, кто ты."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/flee/helpme/default/default/2",
+        "/flee/helpme/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've been accosted!",
+      "Rus": "Ко мне пристают!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/flee/safe/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "If only I could afford a keep.",
+      "Rus": "Если бы я мог позволить себе крепость."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/flee/safe/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is this the safe zone?",
+      "Rus": "Здесь безопасно?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/flee/helpthem/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leave me be!",
+      "Rus": "Оставь меня в покое!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/flee/helpme/glitch/default/5/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "No! Get away from me!",
+      "Rus": "Нет! Прочь от меня!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/converse/hylotl/human/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oh, hello smoothskin.",
+      "Rus": "О, привет гладкокожий."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/converse/avian/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oh... a Floran.",
+      "Rus": "О... Флоран."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/flee/helpme/glitch/default/1/glitchEmotedText",
+        "/flee/helpthem/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Please don't hurt me!",
+      "Rus": "Прошу, не делай мне больно!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/converse/glitch/human/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Puny human.",
+      "Rus": "Жалкий человек."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/flee/encourage/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Put 'em to the sword!",
+      "Rus": "Насади их на меч!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/flee/helpthem/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Somebody help!",
+      "Rus": "Помогите, кто-нибудь!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/flee/safe/floran/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssalvation!",
+      "Rus": "Сспасение!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/flee/encourage/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssslice them!",
+      "Rus": "Режь их!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/flee/encourage/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssstabb the intruders!",
+      "Rus": "Режь чужаков!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/flee/helpme/floran/default/0",
+        "/flee/helpthem/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssstabby time for me!",
+      "Rus": "Меня ранили!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/flee/encourage/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strike him down!",
+      "Rus": "Срази их!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/flee/safe/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Them lucky Floran not have weapon.",
+      "Rus": "На их ссчастье у Флорана не было оружия."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/flee/helpthem/glitch/default/4/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What have you done?!",
+      "Rus": "Что ты наделал?!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/outpost.config": [
+        "/converse/apex/apex/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You take a risk coming back here, pariah.",
+      "Rus": "Для тебя возвращаться сюда опасно, пария."
+    }
+  }
+]

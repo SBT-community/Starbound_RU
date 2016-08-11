@@ -1,0 +1,34 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/geometric/geometricbed/geometricbed.object": [
+        "/apexDescription"
+      ],
+      "objects/themed/serene/serenebed/serenebed.object": [
+        "/apexDescription"
+      ],
+      "objects/themed/wave/wavebed/wavebed.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A very nice, comfy bed.",
+      "Rus": "Очень хорошая, удобная кровать."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/geometric/geometricbed/geometricbed.object": [
+        "/hylotlDescription"
+      ],
+      "objects/themed/wave/wavebed/wavebed.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Very decent build quality. I like this."
+    }
+  }
+]

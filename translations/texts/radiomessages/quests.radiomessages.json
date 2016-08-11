@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/quests.radiomessages": [
+        "/gaterepair-gateFound2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have scanned for nearby ^orange;Core Fragments^reset;. They appear naturally within the geology of this planet; readings suggest numerous ore clusters deep below the ground, near the planet's centre.",
+      "Rus": "Я провел сканирование ближайших  ^orange;Фрагментов Ядра^reset;. На этой планете они возникают естественным путем. Показания свидетельствует о многочисленных кластерах руд глубоко под землей около ядра планеты."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/quests.radiomessages": [
+        "/gaterepair-gateFound1b/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you've picked up this message, you must have found an ^orange;Ancient Gateway^reset; - please use it to come and find me. ^green;You can power up the Gate with ^orange;Core Fragments^reset;.",
+      "Rus": "Если вы приняли это сообщение, вы нашли  ^orange;Древние врата^reset; - пожалуйста используйте их, чтобы найти меня. ^green;Вы можете включить врата с помощью ^orange;Фрагментов Ядра^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/quests.radiomessages": [
+        "/gaterepair-gateFound1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "My scans are picking up an unknown radio signal around this ^orange;archaic energy source^reset;. I will patch it through to you now.",
+      "Rus": "Мои сканеры улавливают неизвестный радиосигнал около этого ^orange;древнего источника энергии^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/quests.radiomessages": [
+        "/gaterepair-findGate/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "My scans indicate there is some kind of ^orange;archaic energy source^reset; on this planet. I estimate a ^green;32% chance that it is worth investigating^reset;, and a 98% chance that you have nothing better to do.",
+      "Rus": "Мои сенсоры показывают наличие ^orange;древнего источника энергии^reset;. Есть ^green;32% вероятности, что его стоит исследовать^reset;, и 98% вероятности, что у вас нет идей получше."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/quests.radiomessages": [
+        "/gaterepair-gateOpened1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You appear to have successfully activated the gate. And it seems another ^orange;message^reset; is coming through.",
+      "Rus": "Вы, кажется, успешно активировали врата. И похоже, есть еще одно ^orange;сообщение^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/quests.radiomessages": [
+        "/gaterepair-gateOpened2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Please come^reset;. I urgently require help; the universe depends on it. ^orange;Use this Ancient Gateway and meet me in the Ark ruins, just past the Outpost^reset;.",
+      "Rus": "^green;Пожалуйста, заходи^reset;. Мне срочно требуется помощь, судьба самой Вселенной зависит от этого. ^orange;Используй эти Древние врата и встреться со мной на руинах Ковчега, сразу за Форпостом^reset;."
+    }
+  }
+]

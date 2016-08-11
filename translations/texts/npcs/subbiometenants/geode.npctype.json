@@ -1,0 +1,110 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/geode.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Geological Merchant",
+      "Rus": "Торговец Камнями"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/geode.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Sells materials for building!",
+      "Rus": "Продажа материалов для строительства!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/geode.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Desperate. Please come back soon. I need more customers!",
+      "Rus": "Отчаянно. Пожалуйста, приходите снова. Мне нужно больше покупателей!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/geode.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Despondent. No-one wants to buy my rocks... But perhaps you might?",
+      "Rus": "Уныло. Никто не хочет покупать мои камни... А вы?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/geode.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eager. Perhaps you will be interested in my rocks?",
+      "Rus": "Азартно. Возможно вас заинтересуют мои камни?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/geode.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. You actually want to buy rocks?",
+      "Rus": "Взволнованно. Вы вообще собираетесь покупать камни?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/geode.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly. Would you like some rocks? I have plenty!",
+      "Rus": "Дружелюбно. Вы не хотите приобрести несколько камней? У меня их много."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/geode.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. You actually came to my store? How wonderful!",
+      "Rus": "Удовлетворённо. Вы наконец пришли в мой магазин? Как чудесно!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/geode.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcoming. Now you're here, would you like to buy some rocks?",
+      "Rus": "Приветливо. Рас уж вы тут, то не хотите ли приобрести несколько камней?"
+    }
+  }
+]

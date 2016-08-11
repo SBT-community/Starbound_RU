@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/liquidsensor/liquidsensor.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't use your finger! This ssensor indicatesss the presence of liquidss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/liquidsensor/liquidsensor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This trusty sensor indicates the presence of liquids."
+    }
+  }
+]

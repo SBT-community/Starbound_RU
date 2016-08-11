@@ -1,0 +1,158 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/cooking.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am very grateful to benefit from your excellent cooking skills. Thank you!",
+      "Rus": "Я благодарен тебе за шанс воспользоваться твоими навыками готовки. Спасибо тебе!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/cooking.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mmmmm! Floran not too a great at cooking, so this wasss an excellent plan!",
+      "Rus": "Мммм! Флоран плох в готовке, поэтому это был идеальный план!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Сейчас <player>  должен ^green;приготовить Флорану ^orange;<cookeditems> ^green; из ^orange;<ingredients>."
+    ],
+    "Files": {
+      "quests/generated/templates/cooking.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next <player> needss to ^green;cook Floran ^orange;<cookedItems> ^green;from the ^orange;<ingredients>.",
+      "Rus": "Сейчас <player>  должен ^green;приготовить Флорану ^orange;<cookedItems> ^green; из ^orange;<ingredients>."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Сейчас сложная часть - приготовление пищи. Ты должен ^green;соединить ^orange;<ingredients>^white; в ^orange;<cookeditems>^white;. Рецепт довольно прост, но все мои попытки оканчиваются неудачей."
+    ],
+    "Files": {
+      "quests/generated/templates/cooking.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now comes the tricky part - cooking. You should be able to ^green;assemble ^orange;<ingredients>^white; into ^orange;<cookedItems>^white;. The recipe seems simple, but my attempts at cooking never work out.",
+      "Rus": "Сейчас сложная часть - приготовление пищи. Ты должен ^green;соединить ^orange;<ingredients>^white; в ^orange;<cookedItems>^white;. Рецепт довольно прост, но все мои попытки оканчиваются неудачей."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Сейчас самая мерзкая часть! Флоран ненавидит готовку!  ^green;Тебе нужно приготовить ^orange;<cookeditems> ^white;для Флорана используя ^orange;<ingredients>."
+    ],
+    "Files": {
+      "quests/generated/templates/cooking.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now for the worst part! Floran hatesss cooking! ^green;You need to cook ^orange;<cookedItems> ^white;for Floran using the ^orange;<ingredients>.",
+      "Rus": "Сейчас самая мерзкая часть! Флоран ненавидит готовку!  ^green;Тебе нужно приготовить ^orange;<cookedItems> ^white;для Флорана используя ^orange;<ingredients>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/cooking.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now that you have all the ^orange;ingredients^white;, ^green;they just need to be fashioned into ^orange;<cookedItems>^white; somehow. I will leave this part to you!",
+      "Rus": "Теперь когда у тебя есть все ^orange;ingredients^white;, ^green; придай им форму приготовленной пищи, каким-то образом. Это я оставляю на тебя!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/cooking.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thank you <player>, you sssure are a better chef than Floran!",
+      "Rus": "Спасибо тебе <player>, я уверен из тебя повар намного лучше чем из ФЛорана."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "<cookeditems> выглядит великолепно."
+    ],
+    "Files": {
+      "quests/generated/templates/cooking.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The <cookedItems> look splendid. ",
+      "Rus": "<cookedItems> выглядит великолепно."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Мне нужно, чтобы ты ^green;приготовил ^orange;<cookeditems>^white; из ^orange;<ingredients>^white;. Ты сделаешь это?"
+    ],
+    "Files": {
+      "quests/generated/templates/cooking.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ^orange;<ingredients>^white; will need some preparing. You should be able to ^green;whip up ^orange;<cookedItems>^white;. Why don't you give it a try?",
+      "Rus": "Мне нужно, чтобы ты ^green;приготовил ^orange;<cookedItems>^white; из ^orange;<ingredients>^white;. Ты сделаешь это?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/cooking.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wow! That looks delicious! I wish we could eat this right now but we'll need it for what comes next...",
+      "Rus": "Вау! Это выглядит вкусно! Хотел бы я съесть это сейчас, но стоит оставить прозапас..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/cooking.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You didn't seem to have any trouble cooking that! Thank you - this is exactly what's needed to complete my plan.",
+      "Rus": "Не похоже что у тебя есть проблемы с готовкой! Спасибо тебе, это именно то что мне было нужно."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "^green;Сейчас тебе просто нужно приготовить  ^orange;<cookeditems>^white; из^orange;<ingredients>^white;. Всё просто!"
+    ],
+    "Files": {
+      "quests/generated/templates/cooking.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Now you just need to prepare ^orange;<cookedItems>^white; from the ^orange;<ingredients>^white;. Simple!",
+      "Rus": "^green;Сейчас тебе просто нужно приготовить  ^orange;<cookedItems>^white; из^orange;<ingredients>^white;. Всё просто!"
+    }
+  }
+]

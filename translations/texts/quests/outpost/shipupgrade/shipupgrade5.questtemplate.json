@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/shipupgrade/shipupgrade5.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Congratulations! With a crew of ten you now qualify for the Condor License! ^green;Visit Penguin Pete^reset; with ^orange;10 Upgrade Modules^reset; to upgrade your ship.",
+      "Rus": "Поздравляем! С командой из десяти человек Вы можете использовать лицензию корабля класса Кондор! ^green;Навестите пингвина Пита^reset;, имея при себе ^orange;10 Модулей Улучшений^reset;, чтобы улучшить свой корабль."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/shipupgrade/shipupgrade5.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Condor Ship Upgrade",
+      "Rus": "^green;Улучшение Корабля - Класс Кондор"
+    }
+  }
+]

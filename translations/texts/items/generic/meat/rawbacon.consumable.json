@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/meat/rawbacon.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A raw slab of weird, stringy alien meat. Maybe I should cook it.",
+      "Rus": "Сырой, тягучий кусок инопланетного мяса. Может мне его пожарить?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/meat/rawbacon.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Raw Steak",
+      "Rus": "Сырое мясо"
+    }
+  }
+]

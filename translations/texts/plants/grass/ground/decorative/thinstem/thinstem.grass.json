@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/thinstem/thinstem.grass": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A thin shrub.",
+      "Rus": "Разреженный куст."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/thinstem/thinstem.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thin shrub.",
+      "Rus": "Разреженный куст."
+    }
+  }
+]

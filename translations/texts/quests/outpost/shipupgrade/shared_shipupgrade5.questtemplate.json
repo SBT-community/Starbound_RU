@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Передам пингвинам, чтобы побыстрее завершали последние улучшения на твоём корабле. Спасибо за выгодное сотрудничество."
+    ],
+    "Files": {
+      "quests/outpost/shipupgrade/illegalshipupgrade5.questtemplate": [
+        "/completionText"
+      ],
+      "quests/outpost/shipupgrade/shipupgrade5.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll have the penguins finish up yer ship with the final upgrade. I thank ye for yer custom.",
+      "Rus": "Я скажу пингвинам чтобы заканчивали последнее улучшение корабля побыстрее. Ты был отличным клиентом!"
+    }
+  }
+]

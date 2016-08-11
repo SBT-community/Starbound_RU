@@ -1,0 +1,16 @@
+{
+  "background" : {
+    "type" : "background",
+    "fileHeader" : "",
+    "fileBody" : "/interface/tooltips/racebody.png",
+    "fileFooter" : ""
+  },
+ 
+  "descriptionLabel" : {
+    "type" : "label",
+    "position" : [11, 65],
+    "hAnchor" : "left",
+    "vAnchor" : "top",
+    "wrapWidth" : 220
+  }
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/setuniformconfirmation.config": [
+        "/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "\n\nI just love that outfit! Would you like to make it your crew's new uniform?",
+      "Rus": "\n\nМне очень нравится этот наряд! Вы хотите сделать его новой формой вашего экипажа?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "\n\nМне очень нравится этот наряд! Вы хотите сделать его новой формой вашего экипажа?"
+    ],
+    "Files": {
+      "interface/confirmation/setuniformconfirmation.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Update your crew's uniform?",
+      "Rus": "Обновить форму вашего экипажа?"
+    }
+  }
+]

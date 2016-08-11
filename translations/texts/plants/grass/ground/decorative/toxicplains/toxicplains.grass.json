@@ -1,0 +1,39 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/toxicplains/toxicplains.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran drink poison for breakfast. Then die.",
+      "Rus": "Флоране пьют яд на завтрак. Затем умирают."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/toxicplains/toxicplains.grass": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Potentially toxic plants.",
+      "Rus": "Потенциально токсичные растения."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/toxicplains/toxicplains.grass": [
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Toxic plants.",
+      "Rus": "Токсичные растения."
+    }
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Стена из дерева и бумаги.",
+      "Традиционная стена."
+    ],
+    "Files": {
+      "items/materials/ornatewall.matitem": [
+        "/description"
+      ],
+      "tiles/materials/ornatewall.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A traditional looking wall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornatewall.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/ornatewall.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ornate Wall",
+      "Rus": "Изысканная стена"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornatewall.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/ornatewall.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is a real fancy lookin' wall.",
+      "Rus": "Стенка на вид хороша."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornatewall.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/ornatewall.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This wall is subtly decorated in a traditional method.",
+      "Rus": "Эта стена тонко украшена традиционными методами."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornatewall.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/ornatewall.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wall iss too pretty to sssmash.",
+      "Rus": "Сстена сслишком красива чтобы крушить."
+    }
+  }
+]

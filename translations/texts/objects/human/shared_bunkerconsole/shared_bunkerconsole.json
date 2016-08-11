@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerconsole1/bunkerconsole1.object": [
+        "/apexDescription"
+      ],
+      "objects/human/bunkerconsole2/bunkerconsole2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A command console. Not sure what it does."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerconsole1/bunkerconsole1.object": [
+        "/avianDescription"
+      ],
+      "objects/human/bunkerconsole2/bunkerconsole2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This looks dangerous to fiddle with."
+    }
+  }
+]

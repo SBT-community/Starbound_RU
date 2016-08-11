@@ -1,0 +1,77 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cobblestone.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/cobblestone.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ain't uncommon to run across cobblestone rocks like this.",
+      "Rus": "Невозможно пройти мимо и не встретить эти булыжники."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cobblestone.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/cobblestone.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cobblestone",
+      "Rus": "Булыжник"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cobblestone.matitem": [
+        "/description"
+      ],
+      "tiles/materials/cobblestone.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hard cobblestones, smooth to the touch.",
+      "Rus": "Твердый булыжник, гладкий на ощупь."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cobblestone.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/cobblestone.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssmooth cobblessstone rockss.",
+      "Rus": "Гладкий каменный булыжник."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cobblestone.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/cobblestone.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These cobblestones are naturally smooth.",
+      "Rus": "Эти булыжники гладкие от природы."
+    }
+  }
+]

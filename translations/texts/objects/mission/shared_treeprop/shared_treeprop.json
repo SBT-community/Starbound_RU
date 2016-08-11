@@ -1,0 +1,36 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/treeprop1/treeprop1.object": [
+        "/description"
+      ],
+      "objects/mission/treeprop2/treeprop2.object": [
+        "/description"
+      ],
+      "objects/mission/treeprop3/treeprop3.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A nice tree."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/treeprop1/treeprop1.object": [
+        "/shortdescription"
+      ],
+      "objects/mission/treeprop2/treeprop2.object": [
+        "/shortdescription"
+      ],
+      "objects/mission/treeprop3/treeprop3.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tree Prop"
+    }
+  }
+]

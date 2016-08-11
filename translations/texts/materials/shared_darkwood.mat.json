@@ -1,0 +1,139 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/darkwood.matitem": [
+        "/hylotldescription"
+      ],
+      "tiles/materials/darkwood.material": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Basic wood planks.",
+      "Rus": "Обычные доски."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/darkwood.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/darkwood.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just some basic lookin' wood planks.",
+      "Rus": "Самые обычные доски."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/darkwood.matitem": [
+        "/apexdescription"
+      ],
+      "tiles/materials/darkwood.material": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some crafted planks of wood.",
+      "Rus": "Немного досок из дерева."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/darkwood.matitem": [
+        "/humandescription"
+      ],
+      "tiles/materials/darkwood.material": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some simple planks made from wood.",
+      "Rus": "Простые доски изготовленные из бревен."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/darkwood.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/darkwood.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssplintery wood plankss.",
+      "Rus": "Порубленные досски."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/darkwood.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/darkwood.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These are well crafted wood planks.",
+      "Rus": "Хорошие доски из дерева."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/darkwood.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/darkwood.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Timber",
+      "Rus": "Доски"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Древесина, которая была подготовлена ​​для строительства и крафта.",
+      "Обработанная древесина для строительства и крафта."
+    ],
+    "Files": {
+      "items/materials/darkwood.matitem": [
+        "/description"
+      ],
+      "tiles/materials/darkwood.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wood that has been prepared for building and crafting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/darkwood.matitem": [
+        "/aviandescription"
+      ],
+      "tiles/materials/darkwood.material": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wood that's been crafted into planks.",
+      "Rus": "Бревна, распиленные на доски."
+    }
+  }
+]

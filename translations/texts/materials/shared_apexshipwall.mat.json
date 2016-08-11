@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/apexshipwall.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/apexshipwall.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A panel made outta metal.",
+      "Rus": "Панель из металла."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Гладкая металлическая панель для стен."
+    ],
+    "Files": {
+      "items/materials/apexshipwall.matitem": [
+        "/description"
+      ],
+      "tiles/materials/apexshipwall.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sleek metal wall panel.",
+      "Rus": "Гладкая металлическая настенная панель."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/apexshipwall.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/apexshipwall.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal panel makess ssmooth wall.",
+      "Rus": "Из этой металлической панели получаются гладкие ссстены."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/apexshipwall.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/apexshipwall.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These removable panels are smooth and strong.",
+      "Rus": "Эти съемные панели гладкие и крепкие."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Панель для стен."
+    ],
+    "Files": {
+      "items/materials/apexshipwall.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/apexshipwall.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wall Panel",
+      "Rus": "Настенная панель"
+    }
+  }
+]

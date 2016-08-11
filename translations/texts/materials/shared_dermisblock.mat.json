@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Мясистая масса с густой, жесткой на вид кожей."
+    ],
+    "Files": {
+      "items/materials/dermisblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/dermisblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fleshy mass with some thick, tough looking skin.",
+      "Rus": "Мясистая масса с тонкой жесткой кожей."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Разрушенная Кожа"
+    ],
+    "Files": {
+      "items/materials/dermisblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/dermisblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ruin Dermis",
+      "Rus": "Кожа Разрушителя"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/dermisblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/dermisblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sstrong skin iss good protection.",
+      "Rus": "Прочная кожа - хорошая защита."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/dermisblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/dermisblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "That skin looks tougher'n a leather boot.",
+      "Rus": "Это кожа выглядит более жестче, чем кожаные ботинки."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/dermisblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/dermisblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The thickness of this skin makes it incredibly strong.",
+      "Rus": "Толщина этой кожи делает ее невероятно устойчивой."
+    }
+  }
+]

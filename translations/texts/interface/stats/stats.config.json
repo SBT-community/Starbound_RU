@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/stats/stats.config": [
+        "/protection/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Armor",
+      "Rus": "Броня"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/stats/stats.config": [
+        "/energyRegen/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Energy Regeneration Rate",
+      "Rus": "Скорость восстановления энергии"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/stats/stats.config": [
+        "/healthRegen/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Health Regeneration Rate",
+      "Rus": "Скорость регенерации"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/stats/stats.config": [
+        "/maxEnergy/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maximum Energy",
+      "Rus": "Maкс. энергия"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/stats/stats.config": [
+        "/maxHealth/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maximum Health",
+      "Rus": "Макс. здоровье"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/stats/stats.config": [
+        "/powerMultiplier/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weapon Damage",
+      "Rus": "Урон оружия"
+    }
+  }
+]

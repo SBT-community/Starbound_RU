@@ -1,0 +1,47 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/greencandycane2/greencandycane2.object": [
+        "/description"
+      ],
+      "objects/holiday/greencandycane3/greencandycane3.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A decorative green candy cane. It's crooked."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/greencandycane1/greencandycane1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/holiday/greencandycane2/greencandycane2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/holiday/greencandycane3/greencandycane3.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I would gamble that this candy cane tastes like mint."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/greencandycane1/greencandycane1.object": [
+        "/novakidDescription"
+      ],
+      "objects/holiday/greencandycane3/greencandycane3.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why would anyone decorate with candy?"
+    }
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/cultistboss/cultistboss.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Asra Nox",
+      "Rus": "Азра Нокс"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/cultistboss/cultistboss.monstertype": [
+        "/baseParameters/dialog/death/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "But it's too late to stop what's happening, let Esther know - there's no hope.",
+      "Rus": "Но уже слишком поздно, чтобы остановить это, пусть Эстер знала - нет никакой надежды."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/cultistboss/cultistboss.monstertype": [
+        "/baseParameters/dialog/intro/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Huh... Are you Esther's puppet? So she's gathering underlings again.",
+      "Rus": "Да... ты - марионетка Эстер? Итак, она снова набирает подчиненных."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/cultistboss/cultistboss.monstertype": [
+        "/baseParameters/dialog/death/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I guess I underestimated you...",
+      "Rus": "Я думаю, я недооценил Вас..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/cultistboss/cultistboss.monstertype": [
+        "/baseParameters/dialog/intro/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I pity you, in a way. Having your strings pulled by that withered hag...",
+      "Rus": "Мне жаль Вас, в некотором смысле. Как будто седая ведьма дергает за ниточки..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/cultistboss/cultistboss.monstertype": [
+        "/baseParameters/dialog/start/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nevermind; time to die!",
+      "Rus": "Неважно; время умирать!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/cultistboss/cultistboss.monstertype": [
+        "/baseParameters/dialog/death/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "So you win this time - 'woe is me.'",
+      "Rus": "Так Вы выиграете в этот раз - \"горе мне\"."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/cultistboss/cultistboss.monstertype": [
+        "/baseParameters/dialog/intro/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You know you're in way over your head, don't you?",
+      "Rus": "Вы знаете, что Ваша судьба в Ваших руках, не так ли?"
+    }
+  }
+]

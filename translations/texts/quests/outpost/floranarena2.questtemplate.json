@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/floranarena2.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssomeone else has challenged you in arena combat! It's a Floran beast tamer named ^orange;Volo^white;. ^green;Come talk to me when you're ready to go^white;.",
+      "Rus": "Кто-то еще решил ссразиться с тобой на арене! Это флоранский укротитель по имени ^orange;Воло^white;. ^green;Поговори со мной, когда будешь готов^white;. "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/floranarena2.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You beat Volo! This is a lot of fun. Here's your second trophy!",
+      "Rus": "Ты победил Воло! Это было весело. Вот твой второй трофей!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/floranarena2.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;The Glory That's Inside",
+      "Rus": "^green;Внутренняя красота"
+    }
+  }
+]

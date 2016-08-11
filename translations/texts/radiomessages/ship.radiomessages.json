@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/ship.radiomessages": [
+        "/gainedCrewMember/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You've found your first crew member! Talk to me on your ship to manage crew members and monitor their status.",
+      "Rus": "Вы нашли нового члена экипажа! Я могу помочь управлять ими и следить за их статусом."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/ship.radiomessages": [
+        "/activeCrewLimit/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You've reached the limit of how many crew members you can bring with you. Drop some off on your ship to expand your crew further.",
+      "Rus": "Вы выбрали максимальное количество членов команды. Оставьте некоторых на корабле для расширения команды в будущем."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/ship.radiomessages": [
+        "/crewLimit/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your ship can't support any more crew members. Either find a way to increase the size of your ship, or dismiss some staff through the terminal on your ship.",
+      "Rus": "Ваш корабль не может вместить еще одного члена команды. Найдите способ увеличить размер вашего корабля, либо увольте некоторых членов команды."
+    }
+  }
+]

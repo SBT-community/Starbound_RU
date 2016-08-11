@@ -1,0 +1,64 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Кусок инопланетного полосатого дерева. Полосатого!"
+    ],
+    "Files": {
+      "items/materials/alienstripedwood.matitem": [
+        "/description"
+      ],
+      "tiles/materials/alienstripedblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A piece of alien striped wood. Stripey!",
+      "Rus": "Кусок инопланетного полосатого дерева. В полоску!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alienstripedwood.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/alienstripedblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It appears the stripes present in this wood are the result of materials that repel one another.",
+      "Rus": "Оказывается полосы, присутствующие в этой древесине являются результатом взаимодействия материалов, которые отталкивают друг друга."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alienstripedwood.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/alienstripedblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "SSssstripey wood. Makess sstripey housse!",
+      "Rus": "Полосатое дерево. Ссстроим полосатый дом!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alienstripedwood.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/alienstripedblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This here wood's all covered in stripes.",
+      "Rus": "От это дерево полностью покрыто полосами."
+    }
+  }
+]

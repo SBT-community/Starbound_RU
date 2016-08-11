@@ -1,0 +1,134 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Флоран можжет выручить!"
+    ],
+    "Files": {
+      "npcs/crew/crewmemberchemist.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/1"
+      ],
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can help out!",
+      "Rus": "Флоран может выручить!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "У Флоран есть вещщщи чтобы помочь!"
+    ],
+    "Files": {
+      "npcs/crew/crewmemberchemist.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/2"
+      ],
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran hasss things to help!",
+      "Rus": "Флоран может кое-чем помочь!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Давайте я уже помогу вам!"
+    ],
+    "Files": {
+      "npcs/crew/crewmemberchemist.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0/glitchEmotedText"
+      ],
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can help you out!",
+      "Rus": "Я могу тебя выручить!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Давай я тебе помогу!",
+      "Позволь помочь тебе."
+    ],
+    "Files": {
+      "npcs/crew/crewmemberchemist.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/default/default/1"
+      ],
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/default/default/1",
+        "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let me help you out!",
+      "Rus": "Позволь помочь тебе!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Похоже что тебе нужна помощь!",
+      "Похоже, тебе нужна моя помощь!"
+    ],
+    "Files": {
+      "npcs/crew/crewmemberchemist.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/default/default/2"
+      ],
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks like you could use my assistance!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/role/field"
+      ],
+      "npcs/crew/crewmemberpenguin.npctype": [
+        "/scriptConfig/crew/role/field"
+      ]
+    },
+    "Texts": {
+      "Eng": "Security"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/role/name"
+      ],
+      "npcs/crew/crewmemberpenguin.npctype": [
+        "/scriptConfig/crew/role/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soldier"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Прими это, тебе поможет!"
+    ],
+    "Files": {
+      "npcs/crew/crewmemberchemist.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3/glitchEmotedText"
+      ],
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Take this, it will help!",
+      "Rus": "Возьми это, тебе пригодится!"
+    }
+  }
+]

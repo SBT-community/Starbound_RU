@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/rebelvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am here to gather intel. Do you have any information on how we can overthrow Big Ape?",
+      "Rus": "Я здесь ради информации. Есть идеи, как нам свергнуть Большого Эйпа?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/rebelvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm going to defeat Big Ape along with my allies! I bet he isn't even that big.",
+      "Rus": "Вместе со своими союзниками, я собираюсь победить Большого Эйпа! Уверен, на деле он не такой уж и большой."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/rebelvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm here gathering crucial intel for our rebellion.",
+      "Rus": "Я здесь собираю важнейшую информацию для нашего восстания."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/rebelvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "We rebels fight for the freedom of our people. What is it that you fight for?",
+      "Rus": "Мы, повстанцы, сражаемся за свободу наших людей. За что сражаешься ты?"
+    }
+  }
+]

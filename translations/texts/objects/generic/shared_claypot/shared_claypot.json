@@ -1,0 +1,106 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/claypot1/claypot1.object": [
+        "/avianDescription"
+      ],
+      "objects/generic/claypot3/claypot3.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A clay pot. It might have something useful in it!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/claypot1/claypot1.object": [
+        "/description"
+      ],
+      "objects/generic/claypot3/claypot3.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A decorative clay pot. Wonder what's inside?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/claypot1/claypot1.object": [
+        "/apexDescription"
+      ],
+      "objects/generic/claypot3/claypot3.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small clay pot. Should I smash it?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/claypot1/claypot1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/generic/claypot3/claypot3.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Breaking this fragile pot will reveal the contents inside."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/claypot1/claypot1.object": [
+        "/novakidDescription"
+      ],
+      "objects/generic/claypot2/claypot2.object": [
+        "/novakidDescription"
+      ],
+      "objects/generic/claypot3/claypot3.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'd bet I could smash this 'ol pot with one shot."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/claypot1/claypot1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/generic/claypot3/claypot3.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This clay pot was carefully crafted, but the contents cannot be explored without breaking it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/claypot1/claypot1.object": [
+        "/floranDescription"
+      ],
+      "objects/generic/claypot2/claypot2.object": [
+        "/floranDescription"
+      ],
+      "objects/generic/claypot3/claypot3.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thiss clay pot can be ssmasshed!"
+    }
+  }
+]

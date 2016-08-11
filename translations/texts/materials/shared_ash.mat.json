@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ash.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/ash.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pile of packed ash.",
+      "Rus": "Куча упакованном пепла."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Пепел, упакованный в цельный блок."
+    ],
+    "Files": {
+      "items/materials/ash.matitem": [
+        "/description"
+      ],
+      "tiles/materials/ash.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pile of tightly packed ash.",
+      "Rus": "Куча спресованого пепла."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Пепел."
+    ],
+    "Files": {
+      "items/materials/ash.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/ash.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ash Pile",
+      "Rus": "Куча пепла"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ash.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/ash.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Big bunch of ashess.",
+      "Rus": "Большой блок пепла."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ash.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/ash.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Big ol' pile of ash.",
+      "Rus": "Большая куча пепла."
+    }
+  }
+]

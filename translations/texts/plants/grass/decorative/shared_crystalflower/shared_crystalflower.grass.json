@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ceiling/decorative/ceilingcrystalflower/ceilingcrystalflower.grass": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ],
+      "plants/grass/ground/decorative/crystalflower/crystalflower.grass": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crystal flower.",
+      "Rus": "Кристальный цветок."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Блестящщщий цветок."
+    ],
+    "Files": {
+      "plants/grass/ceiling/decorative/ceilingcrystalflower/ceilingcrystalflower.grass": [
+        "/floranDescription"
+      ],
+      "plants/grass/ground/decorative/crystalflower/crystalflower.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssshiny flower.",
+      "Rus": "Сссветящийся цветок."
+    }
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/underwaterlightsmall/underwaterlightsmallbroken.object": [
+        "/avianDescription"
+      ],
+      "objects/mission/redlight/redlightBroken.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/apexshiplight/apexshiplightBroken.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A flickering light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/underwaterlightsmall/underwaterlightsmallbroken.object": [
+        "/hylotlDescription"
+      ],
+      "objects/mission/redlight/redlightBroken.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/apexshiplight/apexshiplightBroken.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An underpowered light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/underwaterlightsmall/underwaterlightsmallbroken.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/mission/redlight/redlightBroken.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/apexshiplight/apexshiplightBroken.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This light is malfunctioning."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/underwaterlightsmall/underwaterlightsmallbroken.object": [
+        "/apexDescription"
+      ],
+      "objects/mission/redlight/redlightBroken.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/apexshiplight/apexshiplightBroken.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This light isn't getting enough power."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/underwaterlightsmall/underwaterlightsmallbroken.object": [
+        "/humanDescription"
+      ],
+      "objects/mission/redlight/redlightBroken.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/apexshiplight/apexshiplightBroken.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This light's on the blink."
+    }
+  }
+]

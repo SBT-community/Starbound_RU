@@ -1,0 +1,66 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/biorock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/biorock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likess yellow glowing rockss.",
+      "Rus": "Флорану нравится желтый сссветящщщийся камень."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/biorock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/biorock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This rock is glowin' yellow but not givin' off any heat.",
+      "Rus": "Эта скала светится желтым, но не даёт тепла."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Этот камень пылает биолюминесценцией.",
+      "Этот камень светится с биолюминисценцией."
+    ],
+    "Files": {
+      "items/materials/biorock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/biorock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This rock is glowing with bioluminescence."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Желтые пылающие камни",
+      "Желтый светящийся камень."
+    ],
+    "Files": {
+      "items/materials/biorock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/biorock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yellow Glow Rock"
+    }
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperroofing.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/copperroofing.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Buncha copper roofin' tiles.",
+      "Rus": "Кровельные покрытия из меди"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Кровельные покрытия из меди"
+    ],
+    "Files": {
+      "items/materials/copperroofing.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/copperroofing.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Copper Roofing",
+      "Rus": "Медная кровля"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperroofing.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/copperroofing.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likess sshiny copper roofing.",
+      "Rus": "Кровельные покрытия из меди"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Кровельные покрытия из меди"
+    ],
+    "Files": {
+      "items/materials/copperroofing.matitem": [
+        "/description"
+      ],
+      "tiles/materials/copperroofing.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Roofing tiles fashioned from copper.",
+      "Rus": "Кровля, сложенная из медных пластин."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperroofing.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/copperroofing.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These roofing tiles are made entirely from copper."
+    }
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagglitch/flagglitch.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Glitch flag. I can use this as a waypoint for teleportation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagglitch/flagglitch.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small locator module attached to this Glitch flag allows it to be bookmarked for teleportation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagglitch/flagglitch.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glitch Flag"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagglitch/flagglitch.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glitch flag makess good point to teleport back to ussing teleporter!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagglitch/flagglitch.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The flag of the Glitch. Use ^green;[E]^white; to bookmark a teleportation location."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagglitch/flagglitch.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Glitch flag can act as a way point, enabling me to return to this point using a teleporter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagglitch/flagglitch.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Glitch flag can be bookmarked as a destination for my ship teleporter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagglitch/flagglitch.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Glitch flag can be saved as a location for my teleporter. Then I can return to it at any time."
+    }
+  }
+]

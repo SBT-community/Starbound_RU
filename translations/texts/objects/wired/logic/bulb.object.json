@@ -1,0 +1,36 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/logic/bulb.object": [
+        "/description",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "An output light. Indicates whether something is on or off."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/logic/bulb.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An output light. Indicatesss whether ssomething is on or off."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/logic/bulb.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bulb"
+    }
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/acceleratoraddon/acceleratoraddon.object": [
+        "/floranDescription"
+      ],
+      "objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/manipulatoraddon/manipulatoraddon.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran use thisss to add more thingss to replicator.",
+      "Rus": "Флоране используют это чтобы добавить больше шшштук к репликатору."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/acceleratoraddon/acceleratoraddon.object": [
+        "/avianDescription"
+      ],
+      "objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/manipulatoraddon/manipulatoraddon.object": [
+        "/avianDescription"
+      ],
+      "objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/separatoraddon/separatoraddon.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can use this to add extra equipment and armour to the replicator.",
+      "Rus": "Я могу использовать это, чтобы добавить дополнительное оборудование и броню для репликатора."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/acceleratoraddon/acceleratoraddon.object": [
+        "/novakidDescription"
+      ],
+      "objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/manipulatoraddon/manipulatoraddon.object": [
+        "/novakidDescription"
+      ],
+      "objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/separatoraddon/separatoraddon.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This handy ol' module will add even more to the replicator.",
+      "Rus": "С помощью этого можно добавить еще модулей к репликатору."
+    }
+  }
+]

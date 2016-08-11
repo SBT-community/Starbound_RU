@@ -1,0 +1,265 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Matter Manipulator upgrades",
+      "Rus": "Улучшения Манипулятора Материи"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  ^#b9b5b2;Manipulate what matters on your matter manipulator!",
+      "Rus": "^#b9b5b2;Манипулируйте своим Манипулятором Материи!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/upgrades/paintmode/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enable Paint Mode, for painting tiles in a variety of colours",
+      "Rus": "Включение режима покраски стен"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/upgrades/wiremode/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enable Wire Mode, for wiring together functional objects",
+      "Rus": "Режим укладки проводов для соединения механизмов"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/upgrades/liquidcollection/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enable the collection of liquids using Excavation Mode",
+      "Rus": "Включение сбора жидкостей"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/upgrades/size1/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increase area of effect to 3x3 tiles",
+      "Rus": "Увеличение площади действия до 3х3 блоков"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/upgrades/size2/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increase area of effect to 4x4 tiles",
+      "Rus": "Увеличение площади действия до 4x4 блоков"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/upgrades/size3/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increase area of effect to 5x5 tiles",
+      "Rus": "Увеличение площади действия до 5х5 блоков"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/upgrades/range1/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increase effective manipulator range by 2 tiles",
+      "Rus": "Увеличение дальности манипулятора на 2 блока"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/upgrades/range2/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increase effective manipulator range by 4 tiles",
+      "Rus": "Увеличение дальности манипулятора на 4 блока"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/upgrades/range3/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increase effective manipulator range by 6 tiles",
+      "Rus": "Увеличение дальности манипулятора на 6 блоков"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/upgrades/power1/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increase matter deconstruction rate by 100%",
+      "Rus": "Увеличение скорости обработки материи на 100%"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/upgrades/power2/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increase matter deconstruction rate by 200%",
+      "Rus": "Увеличение скорости обработки материи на 200%"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/upgrades/power3/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increase matter deconstruction rate by 300%",
+      "Rus": "Увеличение скорости обработки материи на 300%"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/defaultDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Select an upgrade to view its cost and benefits"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/gui/lblUpgradeDescription/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "You don't have a Matter Manipulator yet.",
+      "Rus": "У вас еще нет Манипулятора Материи."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/gui/lblGroup2/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;EXPANSION SLOT^white;",
+      "Rus": "^green;СЛОТЫ РАСШИРЕНИЯ^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/gui/lblModuleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;MANIPULATOR MODULES^white;",
+      "Rus": "^green;МОДУЛИ МАНИПУЛЯТОРА^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/gui/lblGroup1/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;MATTER PROC UNIT^white;",
+      "Rus": "^green;РАЗМЕР МАНИПУЛЯТОРА^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/gui/lblGroup4/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;OPTICS^white;",
+      "Rus": "^green;ОПТИКА^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/gui/lblGroup3/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;POWER GENERATOR^white;",
+      "Rus": "^green;ГЕНЕРАТОР ЭНЕРГИИ^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/gui/lblModuleCount/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^yellow;0 / 0^white;",
+      "Rus": "^yellow;0 / 0^white; "
+    }
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/junktech.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/junktech.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bucha ol' tech smashed together into bricks.",
+      "Rus": "Груда старой техники спрессованной в киричи."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Металлический хлам"
+    ],
+    "Files": {
+      "items/materials/junktech.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/junktech.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Junk Tech",
+      "Rus": "Технохлам"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/junktech.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/junktech.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Technological trasssh.",
+      "Rus": "Технологический мусссор."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/junktech.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/junktech.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "There are a variety of technologies within this discarded junk.",
+      "Rus": "Разные технологии среди этих отбросов."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Безполезный металлолом, в основном останки устаревших технологий."
+    ],
+    "Files": {
+      "items/materials/junktech.matitem": [
+        "/description"
+      ],
+      "tiles/materials/junktech.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Useless scrap metal, mostly remnants of outmoded technology.",
+      "Rus": "Бесполезный хлам, по большей части остатки устаревших технологий."
+    }
+  }
+]

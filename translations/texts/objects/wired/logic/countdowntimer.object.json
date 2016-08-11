@@ -1,0 +1,36 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/logic/countdowntimer.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A timer that sstays active for a ssset duration."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/logic/countdowntimer.object": [
+        "/description",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A timer that stays active for a set duration."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/logic/countdowntimer.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Countdown Timer"
+    }
+  }
+]

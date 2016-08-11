@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Мшистая грязь"
+    ],
+    "Files": {
+      "items/materials/mossypackeddirt.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/mossypackeddirt.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mossy Packed Dirt",
+      "Rus": "Мшистая прессованная земля"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/mossypackeddirt.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/mossypackeddirt.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Packed dirt covered in growing mosss.",
+      "Rus": "Упакованная грязь покрытая рассстущим мхом."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Пакет грязи покрытый мхом."
+    ],
+    "Files": {
+      "items/materials/mossypackeddirt.matitem": [
+        "/description"
+      ],
+      "tiles/materials/mossypackeddirt.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Packed dirt, covered in moss.",
+      "Rus": "Спрессованная земля, покрытая травой и мхом."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/mossypackeddirt.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/mossypackeddirt.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This here dirt's all cover'd in moss.",
+      "Rus": "Эта грязь вся покрыта мхом."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/mossypackeddirt.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/mossypackeddirt.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This packed dirt has moss growing on it.",
+      "Rus": "Этот пакет грязи покрыт растущим мхом."
+    }
+  }
+]

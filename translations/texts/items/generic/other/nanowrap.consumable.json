@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/nanowrap.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nanowrap Bandage",
+      "Rus": "Нанобинт"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/nanowrap.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This bandage knits wounds together fast. Restores 100 health over 1 second.",
+      "Rus": "Нити на бинте быстро лечат раны. Восстанавливает 100 здоровья за 1 секунду."
+    }
+  }
+]

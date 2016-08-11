@@ -1,0 +1,36 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/logic/or.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An /'OR'/ sswitch. Allowsss you to have multiple individual inputs."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/logic/or.object": [
+        "/description",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "An /'OR'/ switch. Allows you to have multiple individual inputs."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/logic/or.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "OR Switch"
+    }
+  }
+]

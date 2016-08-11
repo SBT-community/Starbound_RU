@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist2.questtemplate": [
+        "/scriptConfig/descriptions/findGoal"
+      ]
+    },
+    "Texts": {
+      "Eng": "Complete the ^orange;Dash Tech obstacle course^reset;",
+      "Rus": "Завершите ^orange;полосу препятствий Технологии Рывка^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist2.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "My ^orange;Dash Tech^white; needs to be properly tested before I can go into mass-production. Would you mind ^green;putting it through its paces on my ^orange;obstacle course^white;? ^green;Talk to me again when you're ready^white; and I can send you there.",
+      "Rus": "Моя ^orange;Технология Рывков ^white;должна быть надлежащим образом протестирована, прежде чем я смогу запустить её в массовое производство. Может быть, ты поможешь мне ^green;её испытать на ^orange;полосе препятствий^white;? Если ты готов, то только ^green;скажи, и я сразу отправлю тебя на место^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist2.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ^orange;Dash Tech^white; appears to be functioning perfectly! Wonderful! Please, keep the Tech as a token of my thanks. I also have other prototypes that need testing, so come and see me again when you're ready.",
+      "Rus": "^orange;Технология Рывков ^white;отработала без единого сбоя! Замечательно! Вот, возьми эту технологию в знак моей благодарности. У меня также есть и другие прототипы, которые требуют дополнительного тестирования, так что навести меня ещё как-нибудь."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist2.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;A Dashing Individual",
+      "Rus": "^orange;Рывок вперёд"
+    }
+  }
+]

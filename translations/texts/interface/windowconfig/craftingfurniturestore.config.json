@@ -1,0 +1,86 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/craftingfurniturestore.config": [
+        "/paneLayout/btnCraft/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "BUY",
+      "Rus": "КУПИТЬ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/craftingfurniturestore.config": [
+        "/paneLayout/lblProduct/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "CAN AFFORD",
+      "Rus": "МОЖЕШЬ ПОЗВОЛИТЬ СЕБЕ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/craftingfurniturestore.config": [
+        "/paneLayout/lblDeeds/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Deeds",
+      "Rus": "Колонизаторы"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/craftingfurniturestore.config": [
+        "/paneLayout/lblCommunity/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Featured",
+      "Rus": "Рекомендуемые"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/craftingfurniturestore.config": [
+        "/paneLayout/lblSchematics/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;COLLECTION",
+      "Rus": "^#b9b5b2;КОЛЛЕКЦИЯ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/craftingfurniturestore.config": [
+        "/paneLayout/lblFilters/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;FILTERS",
+      "Rus": "^#b9b5b2;фИЛЬТР"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/craftingfurniturestore.config": [
+        "/paneLayout/lblProducttitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;PIECE",
+      "Rus": "^#b9b5b2;ЧАСТЬ"
+    }
+  }
+]

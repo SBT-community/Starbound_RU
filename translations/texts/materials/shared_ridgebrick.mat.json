@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Ребристый Блок"
+    ],
+    "Files": {
+      "items/materials/ridgebrick.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/ridgebrick.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ridged Block",
+      "Rus": "Блок с кромкой"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ridgebrick.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/ridgebrick.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ridged stone blocksss.",
+      "Rus": "Ребристые каменные блоки."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Каменный кирпич с вырезанными рёбрами вдоль поверхности."
+    ],
+    "Files": {
+      "items/materials/ridgebrick.matitem": [
+        "/description"
+      ],
+      "tiles/materials/ridgebrick.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stone bricks with a ridge carved near the top.",
+      "Rus": "Каменные кирпичи с кромкой, вырезанной сверху."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ridgebrick.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/ridgebrick.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These ridged construction blocks are simple, yet effective.",
+      "Rus": "Эти ребристые блоки простые, но тем не менее эффективные."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ridgebrick.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/ridgebrick.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These stone blocks carved up mighty nice.",
+      "Rus": "Эти каменные блоки вытесаны на славу."
+    }
+  }
+]

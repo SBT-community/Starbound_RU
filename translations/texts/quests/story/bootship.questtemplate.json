@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/bootship.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Boot Up",
+      "Rus": "Включение"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/bootship.questtemplate": [
+        "/scriptConfig/descriptions/wakeSail"
+      ]
+    },
+    "Texts": {
+      "Eng": "Boot up the ship computer",
+      "Rus": "Запустите бортовой компьютер"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/bootship.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "SAIL is awake! Now you have some guidance, and some company.",
+      "Rus": "К.Э.П. активен! Теперь у вас появилась компания, а заодно и гид."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/bootship.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ship is damaged and you are floating alone in space. Your best bet is to boot up the ship computer and see if anything good comes of it.",
+      "Rus": "Корабль поврежден и Вы в одиночестве дрейфуете в космосе. Лучшее, что Вы можете сделать, - это включить компьютер корабля и посмотреть, выйдет ли из этого что-нибудь хорошее."
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostairlock/outpostairlock.object": [
+        "/hylotlDescription"
+      ],
+      "objects/outpost/outpostairlocklarge/outpostairlocklarge.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic airlock."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostairlock/outpostairlock.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/outpost/outpostairlocklarge/outpostairlocklarge.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy airlock."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostairlock/outpostairlock.object": [
+        "/humanDescription"
+      ],
+      "objects/outpost/outpostairlocklarge/outpostairlocklarge.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An airlock. Useful!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostairlock/outpostairlock.object": [
+        "/floranDescription"
+      ],
+      "objects/outpost/outpostairlocklarge/outpostairlocklarge.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It'ss an airlock."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostairlock/outpostairlock.object": [
+        "/novakidDescription"
+      ],
+      "objects/outpost/outpostairlocklarge/outpostairlocklarge.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks like a airlock."
+    }
+  }
+]

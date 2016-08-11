@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/foundryvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I work out in the foundries, where the heat could melt the strongest of steels!",
+      "Rus": "Я работаю в литейном цеху, где жар может расплавить даже самую прочную сталь!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/foundryvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm just coming here to get some supplies. Normally, I'm posted out on the foundries.",
+      "Rus": "Я просто прихожу сюда за припасами. Обычно я работаю в литейных."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/foundryvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm just visiting on my lunch break. Normally I'm toiling out on the foundries!",
+      "Rus": "Я просто пришел сюда в мой обеденный перерыв. В остальное время я тружусь в литейных."
+    }
+  }
+]

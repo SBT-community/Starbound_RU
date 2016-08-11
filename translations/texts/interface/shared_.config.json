@@ -1,0 +1,296 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/optionsmenu/optionsmenu.config": [
+        "/paneLayout/acceptButton/caption"
+      ],
+      "interface/windowconfig/editbookmark.config": [
+        "/paneLayout/ok/caption"
+      ],
+      "interface/windowconfig/keybindingsmenu.config": [
+        "/paneLayout/accept/caption"
+      ],
+      "interface/windowconfig/newquest.config": [
+        "/paneLayout/btnAccept/caption"
+      ],
+      "interface/windowconfig/newquestshort.config": [
+        "/paneLayout/btnAccept/caption"
+      ],
+      "interface/windowconfig/teaminvitation.config": [
+        "/paneLayout/ok/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Accept",
+      "Rus": "Принять"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "ЧЕРТЁЖ"
+    ],
+    "Files": {
+      "interface/objectcrafting/fossilstation.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/craftingwheel.config": [
+        "/paneLayout/lblSchematics/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "BLUEPRINTS",
+      "Rus": "ЧЕРТЕЖИ"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Закладка"
+    ],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/guiConfig/bookmarkList/children/bookmarkItemList/schema/listTemplate/name/value"
+      ],
+      "interface/windowconfig/teleportdialog.config": [
+        "/paneLayout/bookmarkList/children/bookmarkItemList/schema/listTemplate/name/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bookmark Name",
+      "Rus": "Имя закладки"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Ремесло"
+    ],
+    "Files": {
+      "interface/objectcrafting/fossilstation.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/crafting.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/craftingfarming.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/craftingfurniture.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/craftingmedical.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/craftingnocategories.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/craftingwheel.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/inventorstable.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/pixelcompressor.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/wiringstation.config": [
+        "/paneLayout/btnCraft/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Craft",
+      "Rus": "Создать"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/objectcrafting/fossilstation.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/crafting.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/craftinganvil.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/craftingcampfire.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/craftingfarming.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/craftingfurnace.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/craftingfurniture.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/craftingmedical.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/craftingmerchant.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/craftingnocategories.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/craftingwheel.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/inventorstable.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/pixelcompressor.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/wiringstation.config": [
+        "/paneLayout/lblProduct/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "MATERIALS AVAILABLE",
+      "Rus": "МАТЕРИАЛЫ В НАЛИЧИИ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/chat/chat.config": [
+        "/gui/filterGroup/buttons/1/text"
+      ],
+      "interface/windowconfig/keybindingsmenu.config": [
+        "/paneLayout/categories/tabs/0/tabTitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "PLAYER",
+      "Rus": "ИГРОК"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/objectcrafting/fossilstation.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/craftingwheel.config": [
+        "/paneLayout/lblProducttitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "PRODUCT",
+      "Rus": "ПРОДУКТ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/objectcrafting/fossilstation.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/crafting.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/crafting3dprinter.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/craftinganvil.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/craftingcampfire.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/craftingfarming.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/craftingfood.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/craftingfurnace.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/craftingfurniture.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/craftingmedical.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/craftingmerchant.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/craftingnocategories.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/craftingwheel.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/inventorstable.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/pixelcompressor.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/wiringstation.config": [
+        "/paneLayout/filter/hint"
+      ]
+    },
+    "Texts": {
+      "Eng": "Search",
+      "Rus": "Поиск"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/objectcrafting/fossilstation.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/crafting.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/crafting3dprinter.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/craftinganvil.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/craftingcampfire.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/craftingfarming.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/craftingfood.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/craftingfurnace.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/craftingfurniture.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/craftingmedical.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/craftingmerchant.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/craftingwheel.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/inventorstable.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/pixelcompressor.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/wiringstation.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stop",
+      "Rus": "Стоп"
+    }
+  }
+]

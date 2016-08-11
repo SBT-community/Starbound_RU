@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pillarblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/pillarblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An old looking stone pillar.",
+      "Rus": "Старая каменная колонна."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pillarblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/pillarblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I believe this stone pillar is very old."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pillarblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/pillarblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pillar Block",
+      "Rus": "Блок колонны"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pillarblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/pillarblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sstone pillar iss very old."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pillarblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/pillarblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is one ol' lookin' stone pillar."
+    }
+  }
+]

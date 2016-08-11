@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/heartforge/heartforge.object": [
+        "/floranDescription"
+      ],
+      "objects/holiday/holidaycraftingtable/holidaycraftingtable.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran make pretty red bowsss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/heartforge/heartforge.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/holiday/holidaycraftingtable/holidaycraftingtable.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I shall craft the most delicious gumdrop."
+    }
+  }
+]

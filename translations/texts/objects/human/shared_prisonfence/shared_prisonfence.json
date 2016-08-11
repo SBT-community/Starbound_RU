@@ -1,0 +1,60 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonfence1/prisonfence1.object": [
+        "/apexDescription",
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/human/prisonfence2/prisonfence2.object": [
+        "/apexDescription",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chain-link fence."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonfence1/prisonfence1.object": [
+        "/novakidDescription"
+      ],
+      "objects/human/prisonfence2/prisonfence2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal fence."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonfence1/prisonfence1.object": [
+        "/humanDescription"
+      ],
+      "objects/human/prisonfence2/prisonfence2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strong chain-link fence."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonfence1/prisonfence1.object": [
+        "/description"
+      ],
+      "objects/human/prisonfence2/prisonfence2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a chain-link fence."
+    }
+  }
+]

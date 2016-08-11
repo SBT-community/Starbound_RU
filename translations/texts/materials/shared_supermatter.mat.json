@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/supermatter.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/supermatter.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A big ol' erchius crystal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/supermatter.matitem": [
+        "/description"
+      ],
+      "tiles/materials/supermatter.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crystal used to power FTL technology. It's still not fully understood.",
+      "Rus": "Кристалл используемый для заправки Сверхсветового двигателя. Ещё не до конца изученный."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/supermatter.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/supermatter.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Erchius Crystal",
+      "Rus": "Кристалл Эрикия"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/supermatter.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/supermatter.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Erchius crystals contain a mysterious power."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/supermatter.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/supermatter.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shiny giant crystalss."
+    }
+  }
+]

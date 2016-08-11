@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Полностью автоматическая, армейская винтовка."
+    ],
+    "Files": {
+      "items/active/weapons/npc/npcassaultrifle.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/assaultrifle/commonassaultrifle.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/assaultrifle/rareassaultrifle.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/assaultrifle/uncommonassaultrifle.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fully automatic, military grade rifle.",
+      "Rus": "Полностью автоматическая армейская винтовка."
+    }
+  }
+]

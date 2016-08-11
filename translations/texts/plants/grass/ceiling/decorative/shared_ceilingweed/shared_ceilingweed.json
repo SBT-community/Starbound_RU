@@ -1,0 +1,36 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ceiling/decorative/ceilingweeds/ceilingweeds.grass": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ],
+      "plants/grass/ceiling/decorative/ceilingweedy/ceilingweedy.grass": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weeds.",
+      "Rus": "Сорняки."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ceiling/decorative/ceilingweeds/ceilingweeds.grass": [
+        "/floranDescription"
+      ],
+      "plants/grass/ceiling/decorative/ceilingweedy/ceilingweedy.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weedsss.",
+      "Rus": "Сссорняки."
+    }
+  }
+]

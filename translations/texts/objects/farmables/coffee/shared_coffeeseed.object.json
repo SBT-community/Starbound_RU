@@ -1,0 +1,107 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/coffee/coffeeseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/coffee/wildcoffeeseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coffee Seed",
+      "Rus": "Семена кофе"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/coffee/coffeeseed.object": [
+        "/description"
+      ],
+      "objects/farmables/coffee/wildcoffeeseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coffee beans can be brewed to make a tasty beverage.",
+      "Rus": "Зёрна кофе можно сварить, и получится вкусный напиток."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/coffee/coffeeseed.object": [
+        "/avianDescription"
+      ],
+      "objects/farmables/coffee/wildcoffeeseed.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coffee beans look a tempting treat, but are extremely bitter.",
+      "Rus": "Зёрна кофе выглядят заманчиво, но горчат просто ужасно."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/coffee/coffeeseed.object": [
+        "/floranDescription"
+      ],
+      "objects/farmables/coffee/wildcoffeeseed.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coffee keepsss Floran awake.",
+      "Rus": "Кофе не даёт Флорану усснуть."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/coffee/coffeeseed.object": [
+        "/novakidDescription"
+      ],
+      "objects/farmables/coffee/wildcoffeeseed.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coffee smells good, but I've never noticed any beneficial side-effects to drinkin' the stuff.",
+      "Rus": "Кофе зело пахнет, но хлестать его можно как водицу - никакого прока!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/coffee/coffeeseed.object": [
+        "/humanDescription"
+      ],
+      "objects/farmables/coffee/wildcoffeeseed.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coffee, the perkiest plant known to man.",
+      "Rus": "Кофе, самое бодрящее растение, известное человечеству."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/coffee/coffeeseed.object": [
+        "/hylotlDescription"
+      ],
+      "objects/farmables/coffee/wildcoffeeseed.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "See beyond its bitter taste and coffee is a useful resource.",
+      "Rus": "Если перетерпеть горечь вкуса, то кофе можно рассматривать как ценный источник энергии."
+    }
+  }
+]

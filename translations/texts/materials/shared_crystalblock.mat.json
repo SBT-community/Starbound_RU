@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Мерцающий блок из кристаллов."
+    ],
+    "Files": {
+      "items/materials/crystalblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/crystalblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shimmering block of made from crystals.",
+      "Rus": "Мерцающий блок сделанный из кристаллов."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/crystalblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/crystalblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crystal Block",
+      "Rus": "Кристальный Блок"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/crystalblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/crystalblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssshiny block made from crysstalss.",
+      "Rus": "Блесстящий блок из крисссталов."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/crystalblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/crystalblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The crystals in this block are real purdy.",
+      "Rus": "Кристаллы в этом блоке реально милые."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/crystalblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/crystalblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This crystal block has a soothing appearance.",
+      "Rus": "Этот кристальный блок имеет умиротворительный вид."
+    }
+  }
+]

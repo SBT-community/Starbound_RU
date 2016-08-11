@@ -1,0 +1,194 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/9/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Every clue gets us closer!",
+      "Rus": "С каждой уликой мы все ближе!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission1.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Find Clues to Locate the Floran Artifact",
+      "Rus": "Найдите подсказки об Артефакте Флоранов."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/6/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interesting find! Keep going, you're doing well!",
+      "Rus": "Интересная находка! Продолжай, ты хорошо справляешься!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/7/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interesting that they should value such an item, and display it in this way.",
+      "Rus": "Интересно, должно быть, так они показывают, насколько ценят эту вещь."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission1.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now that you're familiar with scanning, ^green;we need to start finding these ^orange;artifacts^white;, dear. Yes, the Floran one first... Their colonies will contain vital ^orange;clues^reset; to its whereabouts. Floran live all over nowadays, but still prefer the dense ^orange;forest^white; vegetation of planets found around ^orange;gentle stars^white;. Good luck dear, and thank you.",
+      "Rus": "Теперь, дорогуша, когда ты знаком со сканированием, ^green;нам нужно найти эти ^orange;артефакты^white;. Да, первые Флоране... Их колонии содержат важные ^orange;улики^reset; для их поиска. Флоране живут где угодно, но предпочитают густые ^orange;леса^white; на планетах вокруг ^orange;нежных звёзд^white;. Удачи, дорогуша, и спасибо."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Floran don't pay much attention to history, but they greatly value tradition. It's helpful to build a picture of the culture.",
+      "Rus": "Флораны не уделяют внимания истории, но они сильно ценят традиции. Полезно для воссоздания картины их культуры."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/ixolingpike/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The creature that these remains belonged to aren't native to this area - I'll look through my taxonomic records and see if I can discover its origins and importance.",
+      "Rus": "Существо, которому принадлежат эти останки, необычно для этой области - я просмотрю таксономические записи, может определю его происхождение и значимость."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/floranwebbing/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This glutinous webbing is of unusual hue and texture. The species that produced it must be unique in its characteristics, and probably limited in its environment.",
+      "Rus": "У этой паутины необычный оттенок и структура. Вид, который её произвел, должен быть уникальным и, возможно, вымирающим в своей среде."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/floranhunterpainting/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This image depicts a Floran hunter, their garb seems almost ceremonial.",
+      "Rus": "Эта картина изображает охотника Флоран, одежда, похоже, церемониальная."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/floranspinneret/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This spinneret is unusually large - what kind of creature could support such an organ? This is evidently a prized trophy. I wonder...",
+      "Rus": "Прядильный орган необычайно большой - какое же создание может поддерживать такой? Очевидно, это ценный трофей. Я думаю..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/championspeardisplay/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Traditional Floran culture places great importance on their hunts and their hunters... I'm certain that will have an impact upon the location of their artifact.'.",
+      "Rus": "Традиционная культура Флоран придаёт большое значение охоте и охотникам... Наверняка это сказывается на местоположение их артефакта."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/4/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Violence reigns in Floran culture - sometimes disorderly, sometimes organised in nature.",
+      "Rus": "В культуре Флоранов царствует жестокость - иногда беспорядочная, иногда гармоничная."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/complete/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wonderful - I believe I now know just where the Artifact might be! ^#71f2f6;Come and meet me back at the Ark when you're ready^white;, dear.",
+      "Rus": "Отлично - похоже, сейчас мы знаем, где может быть Артефакт! ^#71f2f6;Встретимся у Ковчега, когда будешь готов^white;, дорогуша."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission1.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You did it! That was the last clue we needed. I know just where the Floran artifact is now.",
+      "Rus": "Ты сделал это! Это была последняя улика. Теперь я знаю, где артефакт Флоран."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/startAlreadyComplete/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're quite the collector of Floran antiquities! It appears you've already located enough clues to to allow me to identify the location of the Artifact!",
+      "Rus": "Да вы - неплохой коллекционер реликвий Флоранов! Похоже, вы собрали достаточно улик, чтобы позволить мне найти местоположение Артефакта!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/descriptions/findClues"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Scan objects^reset; to find ^orange;Floran clues^reset;",
+      "Rus": "^green;Просканируйте объекты^reset;, чтобы найти ^orange;подсказки Флоранов^reset;"
+    }
+  }
+]

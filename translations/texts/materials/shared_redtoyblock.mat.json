@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/redtoyblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/redtoyblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large stackable toy block.",
+      "Rus": "Большие игрушечные блоки, приспособленные для лёгкого крепления друг к другу."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/redtoyblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/redtoyblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likess sstackable toy block."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/redtoyblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/redtoyblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Red Toy Block",
+      "Rus": "Красный игрушечный блок"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/redtoyblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/redtoyblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These colourful blocks are meant for playin' with."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/redtoyblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/redtoyblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These toy blocks stack and lock together."
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/museumcurator3.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It even has a spear - Nuru will love this! I can't thank you enough!",
+      "Rus": "Тут даже копье есть - Нуру понравится!  Как же мне тебя отблагодарить!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/museumcurator3.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Um, it turns out Florans aren't very interested in museums; I was talking about my plans earlier and Nuru asked me what a \"mesuam\" was... ^green;Maybe if you brought me a ^orange;Floran Statue^white; from a Floran village or hunting ground, it might make the museum seem more enticing?",
+      "Rus": "Хм, похоже, Флораны не сильно интересуются музеями; Я рассказывал о своих планах, а Нуру спросила, что такое этот \"мезуй\"... ^green;Может, если принесешь мне ^orange;Статую Флорана^white; из их деревни или охотничьих угодий, это сделает музей более заманчивым?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/museumcurator3.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;The Visage of a Hunter",
+      "Rus": "^green;Лик Охотника"
+    }
+  }
+]

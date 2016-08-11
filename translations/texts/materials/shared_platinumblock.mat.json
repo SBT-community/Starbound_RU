@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/platinumblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/platinumblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A whole block of solid platinum.",
+      "Rus": "Целый блок чистой платины."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/platinumblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/platinumblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likess shiny platinum."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/platinumblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/platinumblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I reckon this big ol' block of platinum would be worth somethin' to somebody."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/platinumblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/platinumblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Platinum Block",
+      "Rus": "Платиновый блок"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/platinumblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/platinumblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This shimmering block is made from solid platinum."
+    }
+  }
+]

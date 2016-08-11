@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rustyblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/rustyblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rusty old metal block.",
+      "Rus": "Блок из старого ржавого металла."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rustyblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/rustyblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Russsty metal blockss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rustyblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/rustyblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rusty Block",
+      "Rus": "Ржавый блок"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rustyblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/rustyblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This here metal looks mighty rusty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rustyblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/rustyblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This rusty discarded metal is weathered and worn."
+    }
+  }
+]

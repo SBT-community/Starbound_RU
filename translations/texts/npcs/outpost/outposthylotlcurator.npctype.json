@@ -1,0 +1,27 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outposthylotlcurator.npctype": [
+        "/scriptConfig/dialog/converse/Hylotl/default/0",
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings! I hope this day finds you well.",
+      "Rus": "Приветствую! Надеюсь, этот день застал Вас в добром здравии."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outposthylotlcurator.npctype": [
+        "/scriptConfig/dialog/converse/Hylotl/hylotl/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings, my young friend! Do you too enjoy scholarly pursuits?",
+      "Rus": "Приветствую, мой юный друг! Вы тоже без ума от научной работы?"
+    }
+  }
+]

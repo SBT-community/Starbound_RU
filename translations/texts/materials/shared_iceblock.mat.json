@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/iceblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/iceblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Buncha ice, cut up into blocks.",
+      "Rus": "Груда порезанного на блоки льда."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/iceblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/iceblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ice Block",
+      "Rus": "Блок льда"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Твердый лед, вырезан в форму блока,",
+      "Цельный лед в форме блока."
+    ],
+    "Files": {
+      "items/materials/iceblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/iceblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Solid ice, cut into block shape."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/iceblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/iceblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssmooth ice blockss.",
+      "Rus": "Гладкий ледяной блок"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/iceblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/iceblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This cuts to shape this ice are very precise.",
+      "Rus": " Срезы этого льда очень ровные."
+    }
+  }
+]

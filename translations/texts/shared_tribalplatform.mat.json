@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tribalplatform.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/platforms/tribalplatform.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ol' stone bricks setup like a platform.",
+      "Rus": "Старая каменная установка кирпичей как платформа"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tribalplatform.matitem": [
+        "/florandescription"
+      ],
+      "tiles/platforms/tribalplatform.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Platform made from old brickss.",
+      "Rus": "Платформа изготовлена из старого кирпича"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tribalplatform.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/platforms/tribalplatform.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stone bricks have been assembled into this platform.",
+      "Rus": "Каменные кирпичи были собраны в этой платформе"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tribalplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/tribalplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Temple Platform",
+      "Rus": "Платформа храма"
+    }
+  }
+]

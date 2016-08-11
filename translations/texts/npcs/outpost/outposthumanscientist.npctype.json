@@ -1,0 +1,27 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outposthumanscientist.npctype": [
+        "/scriptConfig/dialog/converse/human/human/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fellow survivor! You wouldn't happen to know any scientists who could assist me with my research, would you?",
+      "Rus": "Дорогой мой, выживший! Не знаком ли ты с учёными, которые могли бы мне помочь с моими исследованиями."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outposthumanscientist.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0",
+        "/scriptConfig/dialog/converse/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The entity that destroyed Earth could strike other worlds. We must devise some means of fighting back!",
+      "Rus": "Та сущность, что уничтожила землю, может напасть и на другие миры. Нам нужно разработать способ борьбы с ним!"
+    }
+  }
+]

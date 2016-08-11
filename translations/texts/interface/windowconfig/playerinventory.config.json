@@ -1,0 +1,190 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/playerinventory.config": [
+        "/paneLayout/defensetext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "--"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/playerinventory.config": [
+        "/paneLayout/companionAttackStat/value",
+        "/paneLayout/companionDefenseStat/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "42",
+      "Rus": "42"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/playerinventory.config": [
+        "/paneLayout/labeltech/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "ACTIVE TECHS",
+      "Rus": "АКТИВНЫЕ ТЕХНОЛОГИИ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/playerinventory.config": [
+        "/paneLayout/labelappearance/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "ARMOUR SLOTS",
+      "Rus": "СЛОТЫ БРОНИ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/playerinventory.config": [
+        "/paneLayout/back/data/tooltipText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Back Armour"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/playerinventory.config": [
+        "/paneLayout/backCosmetic/data/tooltipText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Back Cosmetic"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/playerinventory.config": [
+        "/paneLayout/chestCosmetic/data/tooltipText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chest Cosmetic"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/playerinventory.config": [
+        "/paneLayout/headCosmetic/data/tooltipText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Head Cosmetic"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/playerinventory.config": [
+        "/paneLayout/labelinventory/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "INVENTORY",
+      "Rus": "ИНВЕНТАРЬ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/playerinventory.config": [
+        "/paneLayout/legsCosmetic/data/tooltipText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leg Cosmetic"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/playerinventory.config": [
+        "/paneLayout/companionName/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "PET STATS",
+      "Rus": "ХАРАКТЕРИСТИКИ ПИТОМЦА"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/playerinventory.config": [
+        "/paneLayout/labelstats/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "STATS",
+      "Rus": "ХАРАКТЕРИСТИКИ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/playerinventory.config": [
+        "/paneLayout/trash/data/tooltipText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trash"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/playerinventory.config": [
+        "/defaultPetNameLabel"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;PET STATS",
+      "Rus": "^#b9b5b2;ХАР-КИ ПИТОМЦА"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/playerinventory.config": [
+        "/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;Your inventory and equipment ^green;[I]",
+      "Rus": "^#b9b5b2;Ваш инвентарь и оборудование ^green;[I]"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/playerinventory.config": [
+        "/paneLayout/energytext/value",
+        "/paneLayout/healthtext/value",
+        "/paneLayout/weapontext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "set at runtime",
+      "Rus": "установить во время выполнения"
+    }
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/geodestone.matitem": [
+        "/description"
+      ],
+      "tiles/materials/geodestone.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A solid stone filled with small geode crystals.",
+      "Rus": "Крепкий камень наполненный небольшими жеодами кристаллов."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/geodestone.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/geodestone.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likess tiny crysstals in geode sstone.",
+      "Rus": "Флорану нравятсся мелкие кристаллы в жеоде внутри камня."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/geodestone.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/geodestone.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Geode Stone",
+      "Rus": "Камень с жеодами"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/geodestone.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/geodestone.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "There are tiny geode crystals inside this stone.",
+      "Rus": "Мелкие жеоды кристаллов внутри камня."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/geodestone.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/geodestone.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This stone is full'a tiny geode crystals.",
+      "Rus": "Эта каменюка под завязку набита мелкими жеодами кристаллов."
+    }
+  }
+]

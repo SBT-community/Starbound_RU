@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [
+      "\r\nКирпичи, изготовленные из кокосового ореха и ступки."
+    ],
+    "Files": {
+      "items/materials/coconutblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/coconutblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bricks made from coconut and mortar.",
+      "Rus": "Кирпичи сделанные из кокоса и строительного раствора."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Кокосовый Блок"
+    ],
+    "Files": {
+      "items/materials/coconutblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/coconutblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coconut Block",
+      "Rus": "Кокосовый блок"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/coconutblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/coconutblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coconutss are sstong brickss.",
+      "Rus": "Кокосссовые кирпичи очень крепкие."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/coconutblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/coconutblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'd reckon these coconut bricks are mighty strong.",
+      "Rus": "Я считаю эти кокосовые кирпичи весьма крепкими."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/coconutblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/coconutblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The primary component of these bricks are coconuts.",
+      "Rus": "Основным компонентом этих кирпичей являются кокосы."
+    }
+  }
+]

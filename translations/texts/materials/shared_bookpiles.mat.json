@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Куча старых пыльных книг, с рассказами о драконах и рыцарях."
+    ],
+    "Files": {
+      "items/materials/bookpiles.matitem": [
+        "/description"
+      ],
+      "tiles/materials/bookpiles.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pile of dusty old books, they're full of tales of dragons and knights.",
+      "Rus": "Стопка старых пыльных книг, они полны рассказов о драконах и рыцарях."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bookpiles.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/bookpiles.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greatnesss not found in bookss.",
+      "Rus": "Величие не в книгах"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Куча Книг"
+    ],
+    "Files": {
+      "items/materials/bookpiles.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/bookpiles.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pile of Books",
+      "Rus": "Стопка книг"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bookpiles.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/bookpiles.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some dusty books. Who doesn't love t'hear a good story?",
+      "Rus": "Пыльные книги. Но кто не захочет услышать хорошую историю?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bookpiles.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/bookpiles.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "There are wonderful stories recorded inside these books.",
+      "Rus": "Внутри книг записаны чудесные истории."
+    }
+  }
+]

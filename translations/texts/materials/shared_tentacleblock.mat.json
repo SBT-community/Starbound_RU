@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tentacleblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/tentacleblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mass of wriggling tentacles.",
+      "Rus": "Масса извивающихся щупалец."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tentacleblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/tentacleblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Buncha creepy lookin' tentacles all mashed together.",
+      "Rus": "Куча щупалец. Жуть какая."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tentacleblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/tentacleblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran dislikess wriggling tentacless.",
+      "Rus": "Флоран не любит дёргающиеся щупальца."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Масса щупалец"
+    ],
+    "Files": {
+      "items/materials/tentacleblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/tentacleblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tentacle Cluster",
+      "Rus": "Масса из щупалец"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tentacleblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/tentacleblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These tentacles have been mashed together into a solid mass.",
+      "Rus": "Эти щупальца срослись в однородную массу."
+    }
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fadedblocks.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/fadedblocks.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soft Brick",
+      "Rus": "Мягкий кирпич"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Мягкий блеклый кирпич"
+    ],
+    "Files": {
+      "items/materials/fadedblocks.matitem": [
+        "/description"
+      ],
+      "tiles/materials/fadedblocks.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soft faded brick.",
+      "Rus": "Мягкий и блеклый кирпич."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fadedblocks.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/fadedblocks.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssoft faded bricksss.",
+      "Rus": "Мягкие блеклые кирпичи"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fadedblocks.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/fadedblocks.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These faded bricks have been smoothed by the passage of time.",
+      "Rus": "Эти блеклые кирпичи со временем стали гладкими."
+    }
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Прочный забор из дерева."
+    ],
+    "Files": {
+      "items/materials/fence.matitem": [
+        "/description"
+      ],
+      "tiles/materials/fence.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy wooden fence.",
+      "Rus": "Крепкий деревянный забор."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fence.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/fence.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nothin' like a sturdy wooden fence.",
+      "Rus": "Обыдённый древянный забор."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fence.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/fence.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssturdy fence.",
+      "Rus": "Ссстойкий забор."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fence.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/fence.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This wooden fence is quite sturdy.",
+      "Rus": "Этот деревянный забор является достаточно прочным."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Деревянный Забор"
+    ],
+    "Files": {
+      "items/materials/fence.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/fence.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wooden Fence",
+      "Rus": "Деревянный забор"
+    }
+  }
+]

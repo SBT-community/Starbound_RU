@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/museumcurator4.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fantastic! My museum will be the most educational venue on this side of the galaxy. Thank you, this item is perfect.",
+      "Rus": "Фантастика! Мой музей будет самым образовательным местом в этой части Галактики. Спасибо, эта вещь идеальна."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/museumcurator4.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Glitch fascinate me. They're such magnificent machines, and yet the majority of them appear to be hardwired into an archaic mindset. Perhaps if you visit any Glitch castles you could ^green;bring me a set of ^orange;Armed Display Armour^white; for the museum?",
+      "Rus": "Меня поражают Глитчи. Они такие великолепные механизмы, и, тем не менее, большинство из них, по всей видимости, запрограммированы на архаичное мышление. Может, когда наткнёшься на замок Глитчей ^green;, захватишь мне ^orange;комплект выставочной брони^white; для музея?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/museumcurator4.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Silent Knight",
+      "Rus": "^green;Молчаливый Рыцарь"
+    }
+  }
+]

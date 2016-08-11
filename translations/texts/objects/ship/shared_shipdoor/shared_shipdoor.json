@@ -1,0 +1,56 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Дверь, идеально подходящая для космического корабля.",
+      "Дверь. Больше всего подходит для космического корабля."
+    ],
+    "Files": {
+      "objects/ship/apexshipdoor/apexshipdoor.object": [
+        "/description"
+      ],
+      "objects/ship/apexshipdoorbroken/apexshipdoorBroken.object": [
+        "/description"
+      ],
+      "objects/ship/avianshipdoor/avianshipdoor.object": [
+        "/description"
+      ],
+      "objects/ship/avianshipdoorBroken/avianshipdoorBroken.object": [
+        "/description"
+      ],
+      "objects/ship/floranshipdoor/floranshipdoor.object": [
+        "/description"
+      ],
+      "objects/ship/floranshipdoorBroken/floranshipdoorBroken.object": [
+        "/description"
+      ],
+      "objects/ship/glitchshipdoor/glitchshipdoor.object": [
+        "/description"
+      ],
+      "objects/ship/glitchshipdoorBroken/glitchshipdoorBroken.object": [
+        "/description"
+      ],
+      "objects/ship/humanshipdoor/humanshipdoor.object": [
+        "/description"
+      ],
+      "objects/ship/humanshipdoorBroken/humanshipdoorBroken.object": [
+        "/description"
+      ],
+      "objects/ship/hylotlshipdoor/hylotlshipdoor.object": [
+        "/description"
+      ],
+      "objects/ship/hylotlshipdoorBroken/hylotlshipdoorBroken.object": [
+        "/description"
+      ],
+      "objects/ship/novakidshipdoor/novakidshipdoor.object": [
+        "/description"
+      ],
+      "objects/ship/novakidshipdoorBroken/novakidshipdoorBroken.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A door suitable for a spaceship.",
+      "Rus": "Дверь, подходящая для космического корабля."
+    }
+  }
+]

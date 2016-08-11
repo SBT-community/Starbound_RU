@@ -1,0 +1,98 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/modsmenu/modsmenu.config": [
+        "/paneLayout/modauthorlabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "AUTHOR",
+      "Rus": "АВТОР"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/modsmenu/modsmenu.config": [
+        "/paneLayout/copylinklabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "COPY MOD HOMEPAGE LINK",
+      "Rus": "СКОПИРОВАТЬ ССЫЛКУ НА МОД"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/modsmenu/modsmenu.config": [
+        "/paneLayout/lblDescription/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Description",
+      "Rus": "Описание"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/modsmenu/modsmenu.config": [
+        "/paneLayout/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mods",
+      "Rus": "Моды"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/modsmenu/modsmenu.config": [
+        "/paneLayout/linklabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "OPEN MOD HOMEPAGE",
+      "Rus": "СТРАНИЦА МОДА"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/modsmenu/modsmenu.config": [
+        "/paneLayout/selectmodlabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Select Mod",
+      "Rus": "Выберите мод"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/modsmenu/modsmenu.config": [
+        "/paneLayout/modversionlabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "VERSION",
+      "Rus": "ВЕРСИЯ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/modsmenu/modsmenu.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;Currently loaded asset sources",
+      "Rus": "^#b9b5b2;Загруженные моды"
+    }
+  }
+]

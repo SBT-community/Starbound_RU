@@ -1,0 +1,39 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/glowmushroom/glowmushroom.grass": [
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A glowing mushroom.",
+      "Rus": "Светящийся гриб."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/glowmushroom/glowmushroom.grass": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A glowing mushroom. May be toxic.",
+      "Rus": "Светящийся гриб. Возможно токсичен."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/glowmushroom/glowmushroom.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pretty mushroom.",
+      "Rus": "Милый гриб."
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/teammembermenu.config": [
+        "/paneLayout/beamToShip/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beam to ship",
+      "Rus": "На его корабль"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/teammembermenu.config": [
+        "/removeSelfText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leave"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/teammembermenu.config": [
+        "/paneLayout/makeLeader/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Make Leader",
+      "Rus": "Сделать лидером"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/teammembermenu.config": [
+        "/paneLayout/removeFromTeam/caption",
+        "/removeOtherText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Remove",
+      "Rus": "Удалить"
+    }
+  }
+]

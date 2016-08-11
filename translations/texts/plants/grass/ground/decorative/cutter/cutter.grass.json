@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/cutter/cutter.grass": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sharp plant.",
+      "Rus": "Остроконечное растение."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/cutter/cutter.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssslashy sssharp flower.",
+      "Rus": "Оссстрый лесной цветок."
+    }
+  }
+]

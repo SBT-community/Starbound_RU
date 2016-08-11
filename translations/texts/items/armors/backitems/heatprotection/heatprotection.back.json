@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/heatprotection/heatprotection.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cooling EPP Upgrade",
+      "Rus": "Охлаждающий НЭЗ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/heatprotection/heatprotection.back": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This upgrade adds cool air generation to your EPP's capabilities. Helpful on ^red;dangerously hot^reset; planets.",
+      "Rus": "Этот набор предназначен для охлаждения воздуха. Полезен на планетах ^red;со сверхвысокой температурой^reset;."
+    }
+  }
+]

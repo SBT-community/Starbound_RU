@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Легкие металлические плитки. Идеальны для отделки исследовательской лаборатории."
+    ],
+    "Files": {
+      "items/materials/lightmetal.matitem": [
+        "/description"
+      ],
+      "tiles/materials/lightmetal.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A light metallic tile, perfect for a research laboratory.",
+      "Rus": "Лёгкая металлическая плита, великолепно подходящая для лабораторий."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Легкий металл"
+    ],
+    "Files": {
+      "items/materials/lightmetal.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/lightmetal.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light Metal",
+      "Rus": "Лёгкий металл"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/lightmetal.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/lightmetal.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Smooth metal tiless.",
+      "Rus": "Гладкие металлические плитки."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/lightmetal.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/lightmetal.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some tiles made outta metal.",
+      "Rus": "Похожу эти плитки сделаны из металла."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/lightmetal.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/lightmetal.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These tiles are easy to keep sterilized.",
+      "Rus": "Такие плитки легко стерилизовать."
+    }
+  }
+]

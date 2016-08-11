@@ -1,0 +1,80 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/glitchsewer.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/1/glitchEmotedText",
+        "/scriptConfig/dialog/converse/glitch/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Even when you're a sewer operator, you can enjoy what you do.",
+      "Rus": "Даже если вы оператор канализации, вы можете наслаждаться тем, что вы делаете."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/glitchsewer.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/3/glitchEmotedText",
+        "/scriptConfig/dialog/converse/glitch/glitch/3/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have spent my life scrubbing down sewers. But I guess someone has to...",
+      "Rus": "Я провел свою жизнь в чистке канализационных труб. Но я предполагаю, что кто-то должен..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/glitchsewer.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/5/glitchEmotedText",
+        "/scriptConfig/dialog/converse/glitch/glitch/5/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've adjusted this mask to filter out any bad sewer smells. It almost works!",
+      "Rus": "Я скорректировали эту маску, чтобы отфильтровать любой плохой запах канализации. Это почти работает!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/glitchsewer.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/4/glitchEmotedText",
+        "/scriptConfig/dialog/converse/glitch/glitch/4/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've spent so much of my life managing sewers.",
+      "Rus": "Я потратил так много моей жизни на управление коллекторами."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/glitchsewer.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/2/glitchEmotedText",
+        "/scriptConfig/dialog/converse/glitch/glitch/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Managing sewers is dirty work. I'd rather be exploring, like you.",
+      "Rus": "Управление канализацией -  грязная работа. Я бы лучше исследовал, как и вы."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/glitchsewer.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/0/glitchEmotedText",
+        "/scriptConfig/dialog/converse/glitch/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "My home still has a lingering smell I can't quite remove.",
+      "Rus": "Мой дом до сих пор сохраняет этот неприятный запах, я совсем не могу от него избавиться."
+    }
+  }
+]

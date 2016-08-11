@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist6.questtemplate": [
+        "/scriptConfig/descriptions/findGoal"
+      ]
+    },
+    "Texts": {
+      "Eng": "Complete the ^orange;Distortion Sphere Tech obstacle course^reset;",
+      "Rus": "Завершите ^orange;полосу препятствий Технологии Свертывания^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist6.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excellent! The ^orange;Distortion Sphere Tech^white; performed just as I'd hoped it would. Please, keep it - thanks to you I've been able to make significant strides in my research!",
+      "Rus": "Изумительно! ^orange;Технология Свёртывания^white; показала себя именно так, как я и рассчитывал. Вот, как всегда, держи один экземпляр в подарок за помощь мне и за содействие мировой науке!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist6.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "My ^orange;Distortion Sphere Tech^white; is ready to roll! I'd like you to ^green;test it on the new obstacle course^white; I've set up. You should have no problems getting into any of the narrow spaces inside. ^green;Talk to me again when you're ready to go in.",
+      "Rus": "Прототип ^orange;Технологии Свёртывания^white; готов! ^green;Полоса препятствий^white; в полном твоём распоряжении. Если всё верно - а я уверен, что всё верно, - то проблем с узкими ходами у тебя не возникнет. ^green;Только дай отмашку - и начнём^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist6.questtemplate": [
+        "/scriptConfig/descriptions/enterInstance"
+      ]
+    },
+    "Texts": {
+      "Eng": "Talk to ^orange;Elliott^reset; to enter the ^orange;obsctacle course^reset;",
+      "Rus": "Поговорите с ^orange;Эллиоттом^reset;, чтобы войти на ^orange;полосу препятствий^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist6.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Getting The Ball Rolling",
+      "Rus": "^orange;Сферический конь в вакууме"
+    }
+  }
+]

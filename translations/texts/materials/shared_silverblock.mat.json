@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/silverblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/silverblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A whole block of silver.",
+      "Rus": "Целый блок из серебра."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/silverblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/silverblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shiny lookin' blocks made outta pure silver."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/silverblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/silverblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Silver Block",
+      "Rus": "Серебряный блок"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/silverblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/silverblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssilver, sso shiny."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/silverblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/silverblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This block is entirely solid silver."
+    }
+  }
+]

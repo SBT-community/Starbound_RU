@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Цветной блок заполненный неоном.",
+      "Цветной блок, заполненный неоновым газом."
+    ],
+    "Files": {
+      "items/materials/neonblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/neonblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A coloured block filled with neon gas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/neonblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/neonblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bright coloured neon filled block.",
+      "Rus": "Яркие сссветящиеся блоки с неоном внутри."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/neonblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/neonblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It seems this entire block contains neon gas.",
+      "Rus": "Кажется, этот блок целиком заполнен неоном."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Неоновый Блок"
+    ],
+    "Files": {
+      "items/materials/neonblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/neonblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neon Block",
+      "Rus": "Неоновый блок"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/neonblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/neonblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This block is actually filled with some sorta gas.",
+      "Rus": "Этот блок воистину заполнен каким-то газом."
+    }
+  }
+]

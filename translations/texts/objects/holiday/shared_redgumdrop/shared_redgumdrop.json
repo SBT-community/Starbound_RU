@@ -1,0 +1,60 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/redgumdrop1/redgumdrop1.object": [
+        "/avianDescription"
+      ],
+      "objects/holiday/redgumdrop2/redgumdrop2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A big red gumdrop. Tasty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/redgumdrop1/redgumdrop1.object": [
+        "/novakidDescription"
+      ],
+      "objects/holiday/redgumdrop2/redgumdrop2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tasty lookin' gumdrop"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/redgumdrop1/redgumdrop1.object": [
+        "/apexDescription",
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/holiday/redgumdrop2/redgumdrop2.object": [
+        "/apexDescription",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tasty red gumdrop."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/redgumdrop1/redgumdrop1.object": [
+        "/floranDescription"
+      ],
+      "objects/holiday/redgumdrop2/redgumdrop2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran eat big red sweet!"
+    }
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/penguinmission1/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "\n\nAre you ready for me to send you to Dreadwing so you can rough him up?\n^red;You'll want to have good equipment for this.",
+      "Rus": "\n\nВы уверены, что готовы отправиться на бой с Ужаснокрылом?\n^red;Вам стоит хорошо подготовиться."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/penguinmission2/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "\n\nAre you ready for me to send you to the Penguin Arms Testing Site to fight the Shockhopper MK I?\n^red;You'll want to have very good equipment for this.",
+      "Rus": "\n\nВы уверены, что готовы отправиться на Полигон для Испытаний Пингвиньего Вооружения, чтобы сразиться с Shockhopper MK I?\n^red;Вам стоит хорошо подготовиться."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/techscientist_dash/message",
+        "/techscientist_doublejump/message",
+        "/techscientist_morphball/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "\n\nAre you ready to go to the obstacle course?",
+      "Rus": "\n\nВы готовы пройти полосу препятствий?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/arena2/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "\n\nAre you sure you're ready to enter the arena against Volo the pet tamer? Once inside the only escape is victory.",
+      "Rus": "\n\nВы уверены, что готовы сразиться на арене с укротителем Воло? Единственной возможностью вернуться станет победа над ним."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/arena3/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "\n\nAre you sure you're ready to enter the arena against the fire knight, Templar Inferno? Once inside the only escape is victory.",
+      "Rus": "\n\nВы уверены, что готовы сразиться на арене с Пылающим Храмовником? Единственной возможностью вернуться станет победа над ним."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/arena1/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "\n\nAre you sure you're ready to enter the arena against the trio of Gladiators? Once inside the only escape is victory.",
+      "Rus": "\n\nВы уверены, что готовы сразиться на арене против троих Гладиаторов? Единственной возможностью вернуться станет победа над ними."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/arena2/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Arena Battle : Pet Tamer Volo",
+      "Rus": "Арена: укротитель Воло"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/arena1/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Arena Battle : The Gladiators",
+      "Rus": "Арена: Гладиаторы"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/arena3/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Arena Champion: Templar Inferno",
+      "Rus": "Чемпион Арены: Пылающий Храмовник"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/techscientist_dash/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dash Test",
+      "Rus": "Тестирование рывков"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/techscientist_morphball/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Distortion Sphere Test",
+      "Rus": "Тестирование свёртывания"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/penguinmission1/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dreadwing the Penguin",
+      "Rus": "Ужаснокрыл"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/penguinmission2/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Penguin Arms Testing Site",
+      "Rus": "Полигон для Испытаний Пингвиньего Вооружения"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/techscientist_doublejump/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pulse Jump Test",
+      "Rus": "Тестирование скачков"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/arena1/title",
+        "/arena2/title",
+        "/arena3/title",
+        "/penguinmission1/title",
+        "/penguinmission2/title",
+        "/techscientist_dash/title",
+        "/techscientist_doublejump/title",
+        "/techscientist_morphball/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Teleport Confirmation",
+      "Rus": "Подтверждение телепортации"
+    }
+  }
+]

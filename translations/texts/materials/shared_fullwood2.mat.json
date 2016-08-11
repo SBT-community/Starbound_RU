@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fullwood2.matitem": [
+        "/description"
+      ],
+      "tiles/materials/fullwood2.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rough and unrefined, this wood looks freshly chopped.",
+      "Rus": "Грубые и необработанные, похоже они были недавно нарублены"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fullwood2.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/fullwood2.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unrefined Wood",
+      "Rus": "Бревна"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fullwood2.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/fullwood2.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unrefined wood.",
+      "Rus": "Необработанное дерево"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fullwood2.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/fullwood2.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unssstabbed wood.",
+      "Rus": "Сссырая деревяшшка."
+    }
+  }
+]

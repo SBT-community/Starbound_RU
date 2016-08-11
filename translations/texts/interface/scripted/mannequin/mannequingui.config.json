@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mannequin/mannequingui.config": [
+        "/gui/equipCosmetic/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Equip (Cosmetic)",
+      "Rus": "Надеть (косметика)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mannequin/mannequingui.config": [
+        "/gui/equipFunctional/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Equip (Functional)",
+      "Rus": "Надеть (функционально)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mannequin/mannequingui.config": [
+        "/gui/swapGender/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Swap Gender",
+      "Rus": "Поменять пол"
+    }
+  }
+]

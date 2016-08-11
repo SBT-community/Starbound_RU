@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/meat/rawribmeat.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Raw Ribs",
+      "Rus": "Сырые ребрышки"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/meat/rawribmeat.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Raw meat cut from some unfortunate creature's ribs. Sounds tasty but it should be cooked.",
+      "Rus": "Сырое мясо, вырезанное из рёбер несчастных существ. Звучит вкусно, но сначала нужно приготовить."
+    }
+  }
+]

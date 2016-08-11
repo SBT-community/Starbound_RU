@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/outpostplatform.matitem": [
+        "/description"
+      ],
+      "tiles/platforms/outpostplatform.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple light platform commonly found in remote outposts.",
+      "Rus": "Простая лёгкая платформа, обычно применяется в конструкции форпостов."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/outpostplatform.matitem": [
+        "/florandescription"
+      ],
+      "tiles/platforms/outpostplatform.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jusst another metal platform."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Платформа для Форпоста"
+    ],
+    "Files": {
+      "items/materials/outpostplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/outpostplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Outpost Platform",
+      "Rus": "Платформа форпоста"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/outpostplatform.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/platforms/outpostplatform.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pretty strange lookin' metal platform."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/outpostplatform.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/platforms/outpostplatform.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These platforms are light and favoured for their portability."
+    }
+  }
+]

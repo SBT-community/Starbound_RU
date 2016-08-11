@@ -1,0 +1,319 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/objectListText"
+      ]
+    },
+    "Texts": {
+      "Eng": "<count> <itemName>"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Новый друг для  <questgiver>"
+    ],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/title/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "<questGiver>'s new friend",
+      "Rus": "Новый друг для  <questGiver>"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Новый друг для  <questgiver>"
+    ],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/title/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "A new friend for <questGiver>",
+      "Rus": "Новый друг для  <questGiver>"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Всё что теперь тебе нужно это ^green;построить дом^white; используя ^orange;<furnitureset>, ^white;и ^orange;колонизатор^white;. Таким образом у меня быстро появятся друзья"
+    ],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "All you need to do now is ^green;make a home^white; using your ^orange;<furnitureSet>, ^white;and a ^orange;Colony Deed^white;! I'll be making a new friend in no time!",
+      "Rus": "Всё что теперь тебе нужно это ^green;построить дом^white; используя ^orange;<furnitureSet>, ^white;и ^orange;колонизатор^white;. Таким образом у меня быстро появятся друзья"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "И наконец, ^green;построй новый дом^white; и ^green;поставь там^white; ^orange;<furnitureset>.^white; Не забудь установить ^orange;колонизатор!^orange;"
+    ],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Finally, ^green;build a new home^white; and ^green;furnish it^white; with your ^orange;<furnitureSet>.^white; Don't forget to place a ^orange;Colony Deed!^orange;",
+      "Rus": "И наконец, ^green;построй новый дом^white; и ^green;поставь там^white; ^orange;<furnitureSet>.^white; Не забудь установить ^orange;колонизатор!^orange;"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Наконец, ^green;сделай убежище и укрась его с помощью ^orange;<furnitureset>.^white;! Убедисссь, что ты ^green;разместил ^orange;Колонизатор.^white; Флоран надеется что новым друзьям понравится охота..."
+    ],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Finally, ^green;make a shelter and decorate it with ^orange;<furnitureSet>.^white;! Make sssure you ^green;place a ^orange;Colony deed,^white; too. Floran hopes new friend enjoyss hunting...",
+      "Rus": "Наконец, ^green;сделай убежище и укрась его с помощью ^orange;<furnitureSet>.^white;! Убедисссь, что ты ^green;разместил ^orange;Колонизатор.^white; Флоран надеется что новым друзьям понравится охота..."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Наконец, ^green;размести ^orange;<furnitureset>^green; в доме.^white; Уверен что вы справитесь с конструированием. Не забудь ^green;разместить ^orange;Колонизатор^white; когда ты закончишь!"
+    ],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Finally, ^green;place ^orange;<furnitureSet>^green; in a house.^white; You trust you can handle the construction. Remember to ^green;place a ^orange;Colony Deed^white; when you're done!",
+      "Rus": "Наконец, ^green;размести ^orange;<furnitureSet>^green; в доме.^white; Уверен что вы справитесь с конструированием. Не забудь ^green;разместить ^orange;Колонизатор^white; когда ты закончишь!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have a new friend to get acquainted with - I'm sure they'll be a wonderful companion! Thank you for making this happen!",
+      "Rus": "У меня есть друг с которым мне следует вас познакомить. Я уверен, он будет замечательным напарником. Спасибо вам за произошедшее."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Я не смог помочь <questgiver> завести нового друга. <questgiver.pronoun.capitalsubject> наверное имеет уже достаточно друзей.."
+    ],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/failureText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I was unable to help <questGiver> make a new friend. <questGiver.pronoun.capitalSubject> probably has enough friends as it is.",
+      "Rus": "Я не смог помочь <questGiver> завести нового друга. <questGiver.pronoun.capitalSubject> наверное имеет уже достаточно друзей.."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Я не смог помочь <questgiver> завести нового друга. Я уверен что <questgiver.pronoun.subject> переживет это."
+    ],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/failureText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I was unable to help <questGiver> make a new friend. I'm sure <questGiver.pronoun.subject>'ll get over it.",
+      "Rus": "Я не смог помочь <questGiver> завести нового друга. Я уверен что <questGiver.pronoun.subject> переживет это."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm always surprised how fast new homes are inhabited - I guess there's a lot of demand out there! Thank you for your help.",
+      "Rus": "Я всегда удивлялся как быстро дома становятся обитаемыми - Я думаю на них большой спрос. Спасибо за твою помощь."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "It worked! Floran has a shiny new friend. Floran appreciatesss your help.",
+      "Rus": "Это сработало! У Флорана появился новый блессстящщщий новый друг. Флоран благодарен за помощь."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Сейчас ^green;построй дом и поставь ^orange;<furnitureset>^white; внутри. ^green;Также установи ^orange;Колонизатор.^white; Флоран надеется его другу нравятся подарки..."
+    ],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now ^green;make a home and put ^orange;<furnitureSet>^white; in it, ^green;as well as a ^orange;Colony Deed.^white; Floran hopes new friend likes giftsss...",
+      "Rus": "Сейчас ^green;построй дом и поставь ^orange;<furnitureSet>^white; внутри. ^green;Также установи ^orange;Колонизатор.^white; Флоран надеется его другу нравятся подарки..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Success! I've finally got a new neighbour! This place gets lonely sometimes, it's nice to have folks to talk to.",
+      "Rus": "Успех! У меня теперь появился сосед! В этом месте слишком одиноко. Как же хорошо, когда есть те, с кем можно поговорить."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vacancy filled! That didn't take long! Thanks for helping expand my social network!",
+      "Rus": "Вакансии заняты! Это не заняло много времени! Спасибо что расширил мой социальный мир!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Мы собрали всю фурнитуру, но теперь нам нужен сам дом!! ^green;Построй дом и не забудь поставить ^orange;<furnitureset>^green; внутри.^white; Не забудь установить a ^orange;колонизатор^white;!"
+    ],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "We've gathered all the furnishing, but we need the house itself! ^green;Build a home and put ^orange;<furnitureSet>^green; inside.^white; Don't forget to place a ^orange;Colony Deed^white; as well!",
+      "Rus": "Мы собрали всю фурнитуру, но теперь нам нужен сам дом!! ^green;Построй дом и не забудь поставить ^orange;<furnitureSet>^green; внутри.^white; Не забудь установить a ^orange;колонизатор^white;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You helped Floran find a new friend! Floran is very grateful.",
+      "Rus": "Ты помог Флорану найти нового друга! Флоран очень благодарен."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/goalText/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Floran thinks we could do with ssome fresh blood around here. Floran hasss a plan!",
+      "Rus": "^cyan;Флоран думает что нам бы пригодилисссь новички. У Флорана есссть план!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/goalText/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Floran wantsss more company. Let's make thiss happen!",
+      "Rus": "^cyan;Флоран хочет компанию. Давай сделаем это реальностью!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/goalText/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;I love to make friends. Help me setup a home that will entice a new neighbour!",
+      "Rus": "^cyan;Мне нравится заводить друзей. Помоги мне построить дом который привлечет нового соседа!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/goalText/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;I'm lonely and could use someone new to talk to. Could you help find me the friend I'm looking for?",
+      "Rus": "^cyan; Мне одиноко и охото с кем-то поговорить. Ты поможешь мне найти друга?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/goalText/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Introspective. I have concluded that a new friend would make me happier. Could you help me attract one?",
+      "Rus": "^cyan; Разобравшись в себе. Я пришел к выводу, что новый друг сделает меня счастливее. Не могли бы вы привлечь одного?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/goalText/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Lonely. I have decided I would benefit from a new friend - And you're just the person who can help me!",
+      "Rus": "^cyan;Одиноко. Я решил что мне нужна помощь от нового друга, а ты как раз тот, кто сможет мне помочь."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/doorText"
+      ]
+    },
+    "Texts": {
+      "Eng": "any door"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/lightSourceText"
+      ]
+    },
+    "Texts": {
+      "Eng": "any light source"
+    }
+  }
+]

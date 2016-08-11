@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/shipupgrade/illegalshipupgrade2.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ship license is unquestionably authentic. ^green;Visit Penguin Pete^reset; with ^orange;4 Upgrade Modules^reset; to upgrade your ship.",
+      "Rus": "Эта корабельная лицензия бесспорно легальна. ^green;Посети пингвина Пита^reset; c ^orange;4 Модулями Улучшения^reset;, чтобы улучшить свой корабль."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/shipupgrade/illegalshipupgrade2.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Questionable Kestrel Ship Upgrade",
+      "Rus": "^green;Спорное улучшение корабля класса Пустельга"
+    }
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/questlog.config": [
+        "/paneLayout/btnAbandon/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Abandon",
+      "Rus": "Отказаться"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/questlog.config": [
+        "/paneLayout/filter/buttons/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Active",
+      "Rus": "Активно"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/questlog.config": [
+        "/paneLayout/filter/buttons/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Completed",
+      "Rus": "Завершенно"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/questlog.config": [
+        "/paneLayout/scrollArea/children/verticalLayout/children/mainQuestHeader/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "MAIN QUESTS",
+      "Rus": "ОСНОВНЫЕ ЗАДАНИЯ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/questlog.config": [
+        "/paneLayout/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Quest Journal",
+      "Rus": "Журнал Заданий"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/questlog.config": [
+        "/paneLayout/scrollArea/children/verticalLayout/children/sideQuestHeader/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "SIDE QUESTS",
+      "Rus": "ПОБОЧНЫЕ ЗАДАНИЯ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/questlog.config": [
+        "/untrackLabel"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stop Tracking",
+      "Rus": "Не отслеживать"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/questlog.config": [
+        "/paneLayout/btnToggleTracking/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Toggle Tracking",
+      "Rus": "Вкл/выкл отслеживание"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/questlog.config": [
+        "/trackLabel"
+      ]
+    },
+    "Texts": {
+      "Eng": "Track Quest",
+      "Rus": "Отслеживать"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/questlog.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;Keep track of your quests ^green;[J]",
+      "Rus": "^#b9b5b2;Следите за своими заданиями ^green;[J]"
+    }
+  }
+]

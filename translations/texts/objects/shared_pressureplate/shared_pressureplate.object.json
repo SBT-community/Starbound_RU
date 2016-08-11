@@ -1,0 +1,33 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/avianpressureplate/avianpressureplate.object": [
+        "/humanDescription"
+      ],
+      "objects/floran/huntingpressureplate/huntingpressureplate.object": [
+        "/humanDescription"
+      ],
+      "objects/glitch/medievalpressureplate/medievalpressureplate.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A giant pressure pad."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/huntingpressureplate/huntingpressureplate.object": [
+        "/apexDescription"
+      ],
+      "objects/glitch/medievalpressureplate/medievalpressureplate.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some kind of pressure plate."
+    }
+  }
+]

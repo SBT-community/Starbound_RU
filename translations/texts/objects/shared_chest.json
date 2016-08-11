@@ -1,0 +1,67 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/jungle/junglechest/junglechest.object": [
+        "/hylotlDescription"
+      ],
+      "objects/floran/chestplant1/chestplant1.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It appears the Floran have learned to harness nature to grow the things they require."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/bioluminescence/glowchest/glowchest.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/biome/jungle/junglechest/junglechest.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/floran/chestplant1/chestplant1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It appears this plant was grown with the express purpose of being a chest."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/bioluminescence/glowchest/glowchest.object": [
+        "/apexDescription"
+      ],
+      "objects/biome/jungle/junglechest/junglechest.object": [
+        "/apexDescription"
+      ],
+      "objects/floran/chestplant1/chestplant1.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The chest itself appears to be organic."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/bioluminescence/glowchest/glowchest.object": [
+        "/avianDescription"
+      ],
+      "objects/biome/jungle/junglechest/junglechest.object": [
+        "/avianDescription"
+      ],
+      "objects/floran/chestplant1/chestplant1.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Was this chest built, or grown?"
+    }
+  }
+]

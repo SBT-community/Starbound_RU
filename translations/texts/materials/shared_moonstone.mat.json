@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Красивый гладкий лунный камень."
+    ],
+    "Files": {
+      "items/materials/moonstone.matitem": [
+        "/description"
+      ],
+      "tiles/materials/moonstone.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beautiful, smooth moonstone.",
+      "Rus": "Прекрасный, гладкий лунный камень."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/moonstone.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/moonstone.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks t'be some moonstone.",
+      "Rus": "Похоже это какой-то лунный камень."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/moonstone.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/moonstone.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Moonstone",
+      "Rus": "Лунный камень"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/moonstone.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/moonstone.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssmooth moonsstone.",
+      "Rus": "Гладкий лунный камень."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/moonstone.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/moonstone.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This unique stone is sometimes found on moons.",
+      "Rus": "Эти уникальные камки иногда можно найти на луне."
+    }
+  }
+]

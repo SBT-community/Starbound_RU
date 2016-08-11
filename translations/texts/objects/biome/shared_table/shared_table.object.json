@@ -1,0 +1,64 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/bioluminescentcave/bioshroomtable/bioshroomtable.object": [
+        "/humanDescription"
+      ],
+      "objects/biome/giantflower/giantflowertable/giantflowertable.object": [
+        "/humanDescription"
+      ],
+      "objects/biome/mushroom/shroomtable/shroomtable.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eating here would feel like having a magical picnic."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/bioluminescentcave/bioshroomtable/bioshroomtable.object": [
+        "/apexDescription"
+      ],
+      "objects/biome/giantflower/giantflowertable/giantflowertable.object": [
+        "/apexDescription"
+      ],
+      "objects/biome/mushroom/shroomtable/shroomtable.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you got too hungry, you could eat the table itself."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/giantflower/giantflowertable/giantflowertable.object": [
+        "/hylotlDescription"
+      ],
+      "objects/biome/mushroom/shroomtable/shroomtable.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nature provides as much as it destroys."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/giantflower/giantflowertable/giantflowertable.object": [
+        "/avianDescription"
+      ],
+      "objects/biome/mushroom/shroomtable/shroomtable.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This table feels quite flimsy."
+    }
+  }
+]

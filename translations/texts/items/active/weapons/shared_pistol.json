@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Маленький пистолет.",
+      "Небольшое оружие."
+    ],
+    "Files": {
+      "items/active/weapons/npc/npcpistol.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/pistol/commonpistol.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/pistol/rarepistol.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/pistol/uncommonpistol.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small handgun.",
+      "Rus": "Небольшой пистолет."
+    }
+  }
+]

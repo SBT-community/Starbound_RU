@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Сухой Песок"
+    ],
+    "Files": {
+      "items/materials/drysand.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/drysand.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dry Sand",
+      "Rus": "Сухой песок"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/drysand.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/drysand.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dry lookin' packed sand.",
+      "Rus": "Кажись, сухой песок."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/drysand.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/drysand.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hard dry ssandy sand.",
+      "Rus": "Исссохшийся зыбкий песок."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Жесткий, треснувший песок, который крошится под ногами.",
+      "Песок твёрдый, но сыпется по ногами."
+    ],
+    "Files": {
+      "items/materials/drysand.matitem": [
+        "/description"
+      ],
+      "tiles/materials/drysand.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hard, cracked sand that shatters underfoot."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/drysand.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/drysand.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This sand is dry and hard.",
+      "Rus": "Этот песок сухой и жесткий."
+    }
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/forcepad/jumppad.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jump Pad"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/forcepad/jumppad.object": [
+        "/description",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Repels objects with a strong elastic force"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/forcepad/jumppad.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Repelss objectss with a ssstrong elastic force"
+    }
+  }
+]

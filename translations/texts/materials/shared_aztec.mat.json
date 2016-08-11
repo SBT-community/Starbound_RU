@@ -1,0 +1,80 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/aztec.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/aztec.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran cannot undersstand ssymbolss.",
+      "Rus": "Флоран не может понять эти сссимволы."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Символьный блок"
+    ],
+    "Files": {
+      "items/materials/aztec.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/aztec.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glyph Block",
+      "Rus": "Блок с иероглифами"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/aztec.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/aztec.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I do not know what these glyphs say.",
+      "Rus": "Я не знаю что говорят эти символы."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Небольшие символы покрывают этот камень"
+    ],
+    "Files": {
+      "items/materials/aztec.matitem": [
+        "/description"
+      ],
+      "tiles/materials/aztec.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Small glyphs cover this stone.",
+      "Rus": "Небольшие иероглифы покрывают этот камень."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/aztec.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/aztec.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some kinda ol' lookin' symbols."
+    }
+  }
+]

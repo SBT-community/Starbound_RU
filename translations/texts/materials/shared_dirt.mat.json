@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/dirt.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/dirt.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dirt",
+      "Rus": "Земляной блок"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/dirt.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/dirt.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dirty lookin' dirt.",
+      "Rus": "Грязно выглядящая грязь."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Грязно выглядящая грязь.",
+      "Грязь выглядит грязной."
+    ],
+    "Files": {
+      "items/materials/dirt.matitem": [
+        "/description"
+      ],
+      "tiles/materials/dirt.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dirty looking dirt."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/dirt.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/dirt.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Filthy dirt!",
+      "Rus": "Грязная грязь!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/dirt.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/dirt.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is basic soil.",
+      "Rus": "Это обычный грунт"
+    }
+  }
+]

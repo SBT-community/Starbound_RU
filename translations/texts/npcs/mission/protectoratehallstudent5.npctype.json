@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratehallstudent5.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I came here early to make sure I wouldn't miss the ceremony.",
+      "Rus": "Я пришел пораньше, чтобы точно не пропустить церемонию."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratehallstudent5.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've been waiting here for hours...",
+      "Rus": "Я ждал тут часы..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratehallstudent5.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surely my dedication to timeliness will be recognized.",
+      "Rus": "Наконец моя своевременность будет признана."
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/shipupgrade/illegalshipupgrade5.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ship license is... Fine, probably. ^green;Bring ^orange;10 upgrade modules^green; to Penguin Pete^white; to upgrade your ship.",
+      "Rus": "Эта корабельная лицензия... Наверное, нормальная.^green; Посети пингвина Пита^reset; c ^orange;10 Модулями Улучшения^reset;, чтобы улучшить свой корабль."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/shipupgrade/illegalshipupgrade5.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Crooked Condor Ship Upgrade",
+      "Rus": "^green;Мошенническое улучшение корабля класса Кондор"
+    }
+  }
+]

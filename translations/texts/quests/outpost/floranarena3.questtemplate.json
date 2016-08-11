@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/floranarena3.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've got one last challenge for you! A creepy guy in armour called ^orange;Templar Inferno^white; wants to fight you. He likess fire, and I mean a lot. Maybe take some Burn Spray to defend yourself from his horde of flaming monsterss... ^green;Anyway, speak to me when you're ready and I'll warp you there^white;.",
+      "Rus": "У меня для тебя есть последнее испытание! Ссстрашненький чувак в броне, по имени ^orange;Пылающий Храмовник^reset;, хочет сссразиться с тобой. Он любит огонь, да ещё как любит. Возьми с собой какой-нибудь спрей от ожогов, чтобы защититься от орд его пылающих монсстров... ^green;Так или иначе, поговори со мной, когда будешь готов, и я отправлю тебя туда^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/floranarena3.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You made it! Even with all the fire! Impresssive! Here, take Templar Inferno's sword - You deserve it, champion! Don't ask how I got it.",
+      "Rus": "Ты ссделал это! Даже со всем этим огнем!  Впечатляюще! Вот, возьми меч Пылающего Храмовника - ты заслужил его, чемпион! Не ccспрашивай, как я его получила."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/floranarena3.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Arena of Fire",
+      "Rus": "^green;Арена Огня"
+    }
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/clay.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/clay.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Clay",
+      "Rus": "Глина"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Тяжелая, липкая глина"
+    ],
+    "Files": {
+      "items/materials/clay.matitem": [
+        "/description"
+      ],
+      "tiles/materials/clay.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Heavy, sticky clay.",
+      "Rus": "Тяжелая, липкая глина."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/clay.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/clay.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I reckon drying this clay would harden it up.",
+      "Rus": "Я считаю что после сушки эта глина затвердеет."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/clay.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/clay.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssmooth clay.",
+      "Rus": "Гллладкая глина."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/clay.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/clay.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This clay is dense enough to use as a building material.",
+      "Rus": "Эта глина достаточно плотная чтобы использовать ее как строительный материал."
+    }
+  }
+]

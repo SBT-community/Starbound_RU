@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/bomb.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A great way to blow stuff up. Be careful where you throw them!",
+      "Rus": "Отличный способ, чтобы подорвать все вверх дном. Будьте осторожны бросая их!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/bomb.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bomb",
+      "Rus": "Бомба"
+    }
+  }
+]

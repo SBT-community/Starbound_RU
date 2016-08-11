@@ -1,0 +1,105 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/human/default/1"
+      ],
+      "dialog/oremerchant.config": [
+        "/merchantEnd/default/default/1",
+        "/merchantEnd/human/default/1"
+      ],
+      "npcs/subbiometenants/giantflower.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come again.",
+      "Rus": "Приходи ещё."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/default/default/6",
+        "/merchantEnd/human/default/6"
+      ],
+      "dialog/oremerchant.config": [
+        "/merchantEnd/default/default/5",
+        "/merchantEnd/human/default/5"
+      ],
+      "npcs/subbiometenants/giantflower.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let's do business again.",
+      "Rus": "Давай перейдём к делу."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Приятно иметь с тобой дело."
+    ],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/default/default/3",
+        "/merchantEnd/human/default/3"
+      ],
+      "dialog/oremerchant.config": [
+        "/merchantEnd/default/default/3",
+        "/merchantEnd/human/default/3"
+      ],
+      "npcs/subbiometenants/giantflower.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/3"
+      ],
+      "npcs/subbiometenants/glow.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleasure doing business with you!",
+      "Rus": "Приятно иметь с тобой дело!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/default/default/0",
+        "/merchantEnd/human/default/0"
+      ],
+      "dialog/oremerchant.config": [
+        "/merchantEnd/human/default/0"
+      ],
+      "npcs/subbiometenants/giantflower.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "See you next time!",
+      "Rus": "Увидимся в следующий раз!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/default/default/2",
+        "/merchantEnd/human/default/2"
+      ],
+      "dialog/oremerchant.config": [
+        "/merchantEnd/default/default/2",
+        "/merchantEnd/human/default/2"
+      ],
+      "npcs/subbiometenants/giantflower.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your pixels are always good here.",
+      "Rus": "Твои пиксели всегда в цене."
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/evilfortress/evilknightlord.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you think you can just come here and take what you please!?",
+      "Rus": "Ты думаешь, что можешь просто прийти сюда и забрать все, что пожелаешь!?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/evilfortress/evilknightlord.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is my Fortress! You will pay for coming here!",
+      "Rus": "Это моя Крепость! Ты заплатишь за то, что посмел явиться сюда!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/evilfortress/evilknightlord.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You are no match for me, even my own knights fear me!",
+      "Rus": "Ты- ничто, по сравнению со мной. Даже мои рыцари страшатся меня!"
+    }
+  }
+]

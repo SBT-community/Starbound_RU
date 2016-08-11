@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/ironanvil/ironanvil.object": [
+        "/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Iron Anvil",
+      "Rus": "Железный Наковальня"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/ironanvil/ironanvil.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can be used to produce armour and weapons.",
+      "Rus": "Используется для ковки брони, инструментов и оружия."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/ironanvil/ironanvil.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Iron Anvil^white;",
+      "Rus": "^orange;Железная наковальня^white;"
+    }
+  }
+]

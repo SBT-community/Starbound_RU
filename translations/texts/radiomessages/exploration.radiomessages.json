@@ -1,0 +1,86 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/exploration.radiomessages": [
+        "/ancientgateway/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient ruins such as this can be found throughout the galaxy. I'm detecting a spatial anomaly nearby... Perhaps some form of teleportation device?",
+      "Rus": "Древние руины, такие как эти, можно найти по всей Галактике. Я обнаружил пространственную аномалию рядом... возможно это какая-то форма устройства для телепортации?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/exploration.radiomessages": [
+        "/erchiussickness/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am detecting entities attracted by the moon's erchius deposits. Their interest in you will grow as you collect more fuel. I would define these entities as 'intractably deadly'. I salute your fearlessness.",
+      "Rus": "Я обнаружил существ, которых привлекают лунные залежи жидкого эркия. Их интерес к вам растет каждый раз, когда вы собираете топливо. Я бы назвал их \"предельно смертоносными\". Приветствую ваше бесстрашие."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/exploration.radiomessages": [
+        "/biomeairless/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "It may be worth noting that this celestial body has no atmosphere and that you are slowly suffocating. I suggest you leave, and return when you have crafted a breathing EPP.",
+      "Rus": "Стоит отметить, что это небесное тело не имеет атмосферы и здесь вы медленно задохнетесь. Я предлагаю вам вернуться, когда у вас будет дыхательный аппарат."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/exploration.radiomessages": [
+        "/techconsole/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The console in this room is configured to alter the Tech abilities you have equipped. Interacting with it will allow you to install new Tech.",
+      "Rus": "Консоль в этой комнате предназначена для управления вашими технологическими способностями. Она позволяет менять способности и устанавливать новые."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/exploration.radiomessages": [
+        "/biomeradiation/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "WARNING! RADIATION LEVELS ON THIS PLANET ARE EXTREMELY HAZARDOUS!\nYou should not attempt further exploration without proper protective equipment!",
+      "Rus": "ВНИМАНИЕ! РАДИАЦИОННЫЙ УРОВЕНЬ НА ЭТОЙ ПЛАНЕТЕ ОЧЕНЬ ВЫСОК!\nВы не должены пытаться проводить дальнейшие исследования без специального защитного снаряжения!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/exploration.radiomessages": [
+        "/biomeheat/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "WARNING! TEMPERATURE ON THIS PLANET IS DANGEROUSLY HIGH!\nYou should not attempt further exploration without proper protective equipment!",
+      "Rus": "ВНИМАНИЕ! ТЕМПЕРАТУРА  НА ЭТОЙ ПЛАНЕТЕ СМЕРТЕЛЬНО ВЫСОКА!\nВы не должны пытаться проводить дальнейшие исследования без специального защитного снаряжения!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/exploration.radiomessages": [
+        "/biomecold/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "WARNING! TEMPERATURE ON THIS PLANET IS DANGEROUSLY LOW!\nYou should not attempt further exploration without proper protective equipment!",
+      "Rus": "ВНИМАНИЕ! ТЕМПЕРАТУРА НА ЭТОЙ ПЛАНЕТЕ СМЕРТЕЛЬНО НИЗКА!\nВы не должны пытаться проводить дальнейшие исследования без специального защитного снаряжения!"
+    }
+  }
+]

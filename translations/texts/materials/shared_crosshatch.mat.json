@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Простая решетка из дерева."
+    ],
+    "Files": {
+      "items/materials/crosshatch.matitem": [
+        "/description"
+      ],
+      "tiles/materials/crosshatch.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple lattice made of wood.",
+      "Rus": "Обычная решётка, сделанная из дерева."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/crosshatch.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/crosshatch.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran like crisss crosssy wood.",
+      "Rus": "Флоран любит ссплетение дерева."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/crosshatch.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/crosshatch.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thin wood strips all criss crossin' together.",
+      "Rus": "Кажись решетка из палок."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/crosshatch.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/crosshatch.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This lattice functions well as either a fence or window.",
+      "Rus": "Эта решетка может функционировать как окно или забор."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Оконная Решётка",
+      "Оконная решетка"
+    ],
+    "Files": {
+      "items/materials/crosshatch.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/crosshatch.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Window Lattice"
+    }
+  }
+]

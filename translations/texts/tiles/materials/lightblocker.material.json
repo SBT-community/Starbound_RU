@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/lightblocker.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran look pretty in glasssss.",
+      "Rus": "Флоран выглядит красссивым в стекле"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/lightblocker.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glass.",
+      "Rus": "Стекло."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/lightblocker.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can see my reflection... it's hideous!",
+      "Rus": "Я могу видеть свое отражение... оно отвратительно!"
+    }
+  }
+]

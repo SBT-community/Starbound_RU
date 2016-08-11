@@ -1,0 +1,20 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/warping/arkteleporter.config": [
+        "/destinations/0/name"
+      ],
+      "interface/warping/outpostteleporter.config": [
+        "/destinations/0/name"
+      ],
+      "interface/warping/remoteteleporter.config": [
+        "/destinations/0/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beam to Ship",
+      "Rus": "Вернуться на корабль"
+    }
+  }
+]

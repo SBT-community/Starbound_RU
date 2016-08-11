@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/rotting.config": [
+        "/rotTimeDescriptions/4/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Extremely well preserved^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/rotting.config": [
+        "/rotTimeDescriptions/3/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Should stay fresh for awhile^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/rotting.config": [
+        "/rotTimeDescriptions/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Starting to smell rotten^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/rotting.config": [
+        "/rotTimeDescriptions/0/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;Almost too rotten to eat^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/rotting.config": [
+        "/rotTimeDescriptions/2/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^yellow;Will probably go bad soon^reset;"
+    }
+  }
+]

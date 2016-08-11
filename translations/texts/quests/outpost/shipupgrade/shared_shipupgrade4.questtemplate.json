@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Хорошо, что так много места в космосе! Теперь у тебя будет ещё больше места в корабле после улучшения."
+    ],
+    "Files": {
+      "quests/outpost/shipupgrade/illegalshipupgrade4.questtemplate": [
+        "/completionText"
+      ],
+      "quests/outpost/shipupgrade/shipupgrade4.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yer lucky there's so much space in space! Yer ship'll have room to spare after this upgrade.",
+      "Rus": "Тебе повезло, что в космосе так много места! После этого улучшения у тебя в корабле его будет предостаточно."
+    }
+  }
+]

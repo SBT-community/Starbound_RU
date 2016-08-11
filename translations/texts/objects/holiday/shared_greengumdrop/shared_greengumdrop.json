@@ -1,0 +1,60 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/greengumdrop1/greengumdrop1.object": [
+        "/avianDescription"
+      ],
+      "objects/holiday/greengumdrop2/greengumdrop2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A big green gumdrop. Tasty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/greengumdrop1/greengumdrop1.object": [
+        "/apexDescription",
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/holiday/greengumdrop2/greengumdrop2.object": [
+        "/apexDescription",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tasty green gumdrop."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/greengumdrop1/greengumdrop1.object": [
+        "/floranDescription"
+      ],
+      "objects/holiday/greengumdrop2/greengumdrop2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran eat big green sweet!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/greengumdrop1/greengumdrop1.object": [
+        "/novakidDescription"
+      ],
+      "objects/holiday/greengumdrop2/greengumdrop2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This gumdrop looks tasty!"
+    }
+  }
+]

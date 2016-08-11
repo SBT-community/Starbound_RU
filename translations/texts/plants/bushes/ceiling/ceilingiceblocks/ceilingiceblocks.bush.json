@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Висячие блоки льда."
+    ],
+    "Files": {
+      "plants/bushes/ceiling/ceilingiceblocks/ceilingiceblocks.bush": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hanging ice blocks.",
+      "Rus": "Висячие ледяные блоки."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ceiling/ceilingiceblocks/ceilingiceblocks.bush": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Icy blocksss.",
+      "Rus": "Ледяные блоки."
+    }
+  }
+]

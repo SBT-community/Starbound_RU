@@ -1,0 +1,58 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/bamboodoor/bamboodoor.object": [
+        "/shortdescription"
+      ],
+      "objects/floran/huntingdoor1/huntingdoor1.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bamboo Door"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/bamboodoor/bamboodoor.object": [
+        "/hylotlDescription"
+      ],
+      "objects/floran/huntingdoor1/huntingdoor1.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Floran appear to be able to bend nature to their will. No small feat."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/bamboodoor/bamboodoor.object": [
+        "/avianDescription"
+      ],
+      "objects/floran/huntingdoor1/huntingdoor1.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The plant used to make this door feels as solid as stone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/florandoor/florandoor.object": [
+        "/description"
+      ],
+      "objects/floran/huntingdoor1/huntingdoor1.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door is hardly suitable for keeping the weather out."
+    }
+  }
+]

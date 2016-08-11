@@ -1,0 +1,761 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/completionText/last/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "<other> is out of the picture, and now me and <target> are friends! This friendship will no doubt be useful - thanks for making it happen."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/title/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "<questGiver>'s rumour mill"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "<target.pronoun.capitalSubject> accepted my friendship! And who wouldn't? Thank you for helping me out!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "<target> abandoned <other> and accepted my friendship! A new friend will certainly come in handy. "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/text/last/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "<target> and ^orange;<other>^white; have been friends for a long time. Now <target> will finally become Floran's friend inssstead! Floran's plan is for you to ^green;tell ^orange;<target>^green; how terrible <target.pronoun.possessiveDet> friend isss.^white; Floran already prepared this ^orange;note^white; for^green; you to deliver."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "<target> looked horrified when <target.pronoun.subject> read the message! Not that I was hiding and watching <target.pronoun.object> or anything. Anyway, there's work to do yet!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/text/last/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Finally, ^green;hand this rumour about ^orange;<other> ^green;to ^orange;<target>. ^white;It's a little far fetched, but there's no smoke without fire."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/text/last/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Finally, let's make ^orange;<target> ^white;realise that I'm better friend material than ^orange;<other>. ^green;Show <target.pronoun.object> this ^orange;note^green; that I've written^white; about <other> and <target.pronoun.subject>'ll see the light!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/text/first/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "First Floran needs to befriend <target>. Floran knows how friendship works, there's only so much room in people's hearts! We need to make sure <target> stops being friends with that pesssky ^orange;<other>^white;! ^green;Deliver this ^orange;note^white; to ^orange;<target>^white;. It describes the ugly truth about <target.pronoun.possessiveDet> so called friend."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/text/first/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "First, let's find a blabbermouth. ^orange;<target> ^white;will do nicely. Once <target.pronoun.subject> ^green;receives this ^orange;note ^green;from you ^white;I can guarantee ^orange;<other> won't be so popular around here anymore."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/completionText/last/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran hass acquired a new friend! Thiss is a lovely day for Floran!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran hass great plan to befriend <target>. However, Floran's future friend is alwayss seen with ^orange;<other>^white;. You need to tell ^orange;<target>^white; how nasssty <other> is! Please ^green;deliver this ^orange;note^white; that Floran prepared."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/completionText/last/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran is pleasssed that the plan was successful! Floran's sure that <target> is grateful we told <target.pronoun.object> the truth about <other>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Good job! Now Floran'sss and <target>'s friendship will truly blossom. "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/title/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Help <questGiver> spread rumours"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here is a ^orange;note ^green;Floran needss you to deliver to ^orange;<target>^white;. It contains the truth about <target.pronoun.possessiveDet> friend ^orange;<other>.^white; As sssoon as <target.pronoun.subject> reads it <target> will realise that Floran is a better friend!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/text/last/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here's a ^orange;note^white; I wrote about ^orange;<other>^white;. Everyone knows <other.pronoun.subject>'s terrible, but still ^orange;<target>^white; hangs out with <other.pronoun.object> every day. It's my time to be ^green;<target>'s friend! ^green;Please deliver this note to <target.pronoun.object>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I bet <target> will be spending much less time around <other> now, which definitely means <target.pronoun.subject>'ll have more time for me. There's something else I need you to do..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/failureText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I didn't help <questGiver> in <questGiver.pronoun.possessiveDet> attempt to sabotage <target>'s friendship. It wasn't a very nice plan, anyway."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/failureText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I failed to spread rumours about <other> to <target>. Maybe <questGiver> should learn to make friends by being kind?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have no doubt that with <other> out of the way, <target> and I will become great friends!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/text/first/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I think <target> and I would make good friends, but <target.pronoun.subject>'s always hanging out with horrible ^orange;<other>^white;. Let's put a stop to it! ^green;Here's a ^orange;note^green; I want you to deliver to ^orange;<target>^white; that will put <target.pronoun.object> off seeing <target.pronoun.possessiveDet> horrible friend again."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I think it's safe to say <other>'s social life is in tatters!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/text/next/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I want <target> to stop being friendly with ^orange;<other>^white; and become my friend instead. Here's a ^orange;note^white; I wrote with the truth about <other> in it. ^green;Please, deliver it to ^orange;<target>^white; for me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/text/first/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I want to be friends with <target>, but <target.pronoun.subject> spends all <target.pronoun.possessiveDet> time with <other>. But what if ^orange;<other> had a horrible secret? ^green;Give this ^orange;note^green; to ^orange;<target>^white;... <target.pronoun.capitalSubject>'ll surely reconsider their friendship after reading this..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I want to get closer to <target>, but <target.pronoun.subject> only has eyes for <other>. I bet that will change once you ^green;give ^orange;<target>^green; this ^orange;note^white; ^green;about ^orange;<other>^white;... Then <target> will have time for me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/failureText/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I was unable to assist in <questGiver>'s plot to ruin <target>'s friendship. It was a mean plan, so I won't lose sleep over abandoning it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wish ^orange;<target>^white; would become my friend instead of ^orange;<other>'s^white;. I've prepared this ^orange;note^white; for <target.pronoun.object> that will explain the truth about <other>. It will make <target.pronoun.object> realise that I'm much better friend material! ^green;Please deliver it to <target.pronoun.object> for me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll teach ^orange;<other>^white; a lesson <other.pronoun.subject> won't soon forget. ^green;Give this rumour I've written to ^orange;<target>^white;, then we can sit back and watch the fireworks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/completionText/last/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm excited about my new friend! Everyone knows <other> is bad company anyway! Thanks for your hard work."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/completionText/last/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've no doubt that <target> and I will become good friends now that <other> is out of the picture."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/text/next/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've seen ^orange;<target>^white; hang out with that stupid <other> a lot recently. I want <target.pronoun.object> to hang out with me! ^green;Deliver this ^orange;note^green; to <target.pronoun.object>^white; and <target.pronoun.subject> will realise what a waste of time <other> is. "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've wanted to be <target>'s friend for ages, but <target.pronoun.subject> only hangs out with ^orange;<other>^white;. ^green;I've prepared this ^orange;note^green; for you to deliver to ^orange;<target>^white;. It will tell <target.pronoun.object> the truth about <other>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/text/next/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's time for Floran to befriend <target>. We need to ssstop <target.pronoun.object> from seeing ^orange;<other>^white;, who is awful. This ^orange;note^white; Floran wrote containsss information that will make ^orange;<target>^white; realise Floran is a better option! ^green;Please deliver it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/text/last/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lastly, I will need you to ^green;give this ^orange;note^green; to ^orange;<target>. ^white;<target.pronoun.capitalSubject> definitely won't want to speak to ^orange;<other> ^white;anymore after reading this..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/text/first/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let's start by befriending <target>. First we have to make <target.pronoun.object> stop seeing <target.pronoun.possessiveDet> lame friend. ^green;I've prepared this ^orange;note^green; that I want you to deliver to ^orange;<target>^white; that outlines the worser points of <target.pronoun.possessiveDet> boring friend. Please deliver it for me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/text/next/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now Floran needs <target> to become Floran's friend, but Floran has seen <target.pronoun.object> being friendly with ^orange;<other>^white;! Put a stop to this ssso <target.pronoun.subject>'s only friendly with Floran! ^green;Deliver thiss ^orange;letter^green; to ^orange;<target>^white; - it illustrates how terrible <other> is."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/text/next/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now I need you to ^green;give this ^orange;note^green; to ^orange;<target>^white; to persuade <target.pronoun.object> to stop talking to ^orange;<other>^white;. What? No, everything it says is definitely completely true."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/text/last/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now for the finale! Floran wantss to befriend <target>. We need to stop <target.pronoun.object> from conssstantly seeing ^orange;<other>^white;. If you ^green;deliver this ^orange;letter^green; to ^orange;<target>^white; <target.pronoun.subject>'ll become Floran's friend insstead. Floran is sure."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/text/next/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Once you ^green;give ^orange;<target> ^green;this rumour I've written about ^orange;<other>, ^white;<target.pronoun.subject> won't be able to resist telling everyone!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Success! We certainly made an impression on <target>! Thank you!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thank you for delivering the note! <target> and I are now officially friends. "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thank you! Floran will have a lot of fun with <target> now."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/completionText/last/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "That rumour fanned the flames magnificently! <other> isn't going to have many friends left after this."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "That was great! <target> bought it immediately. The rumour about <other> is spreading already."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "That went well! With Floran's new found friend the next ssstep will be much easier."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "That worked better than I expected. <other> will think twice before spreading rumours again! <target> was horrified!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The plan worked! <target> is now my friend - and <other> is out of the picture. Thanks for helping to make this happen!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thiss turned out just like Floran wanted! Floran is so happy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/text/first/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "To start, Floran needss to befriend lovely <target>. Too bad <target.pronoun.subject> always spends time with ssstupid ^orange;<other>^white;. Please ^green;deliver this ^orange;note^green; to ^orange;<target>^white;. It contains the truth about <target.pronoun.possessiveDet> terrible friend."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "We did it! Floran iss happy about this friendship. Thank you!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wonderful news! <other>'s out an I'm in! This is going to be great."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You did it. Friends are great assets and I'm sure <target> will prove useful to me in the future. "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/goalText/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;<target> ssseems like fun company, and Floran has crafty plan to make friendsss with <target.pronoun.object>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/goalText/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Floran wantss to befriend <target>. Let's get rid of <target.pronoun.possessiveDet> current horrible friend!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/goalText/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;I'd like <target> to become my friend instead of <other>'s. I have a plan to make this happen..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/goalText/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;I'd like to befriend <target>. If only <target.pronoun.possessiveDet> friend <other> wasn't in the way...."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/goalText/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Jealous. <target> should be friends with me, not <other>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/goalText/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Resentful. I heard that <other>'s been spreading rumours about me. I'd like to return the favour."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "a bad friend"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "a bit weird"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "a gossip"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "bad friend material"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "close-minded"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "covered in bugs"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "making fun of you"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "mean"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "object"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "stupid"
+    }
+  }
+]

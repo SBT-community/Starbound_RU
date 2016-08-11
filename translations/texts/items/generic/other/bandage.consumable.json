@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/bandage.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bandage for healing minor wounds. Restores 50 health over 1 second.",
+      "Rus": "Бинт для лечения небольших ран.  Восстанавливает 50 здоровья в 1 секунду."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/bandage.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bandage",
+      "Rus": "Бинт"
+    }
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenashooter.npctype": [
+        "/scriptConfig/dialog/reattack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can see them again!",
+      "Rus": "Я опять его не вижу!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenashooter.npctype": [
+        "/scriptConfig/dialog/lostTarget/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't locate them!",
+      "Rus": "Я его не вижу!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenashooter.npctype": [
+        "/scriptConfig/dialog/outOfSight/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't have a clean shot!",
+      "Rus": "Я не могу прицелиться!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenashooter.npctype": [
+        "/scriptConfig/dialog/cantReach/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't have a clean shot, I need to get closer!",
+      "Rus": "Я не могу прицелиться, мне нужно подойти поближе!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenashooter.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've got the target in sight!",
+      "Rus": "Цель в поле зрения!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenashooter.npctype": [
+        "/scriptConfig/dialog/cheerOn/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just give me room for a clear shot!",
+      "Rus": "Дай мне прицелиться!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenashooter.npctype": [
+        "/scriptConfig/dialog/killedTarget/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Target defeated!",
+      "Rus": "Попался!"
+    }
+  }
+]

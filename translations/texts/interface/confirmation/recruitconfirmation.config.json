@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/recruitconfirmation.config": [
+        "/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "<name> would like to join your crew as a <role>. Invite <name> aboard?^gray;\n\n^white;Job:^gray; <role>\n^white;Rank:^gray; <rank>\n^white;Status:^gray; <status>",
+      "Rus": "<name> хочет присоединиться к Вам и занять следующий пост: <role>. Взять <name> в команду?^gray;\n\n^white;Должность:^gray; <role>\n^white;Ранг:^gray; <rank>\n^white;Статус:^gray; <status>"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "<name> хочет присоединиться к Вам и занять следующий пост: <role>. Взять <name> в команду?^gray;\n\n^white;Должность:^gray; <role>\n^white;Ранг:^gray; <rank>\n^white;Статус:^gray; <status>"
+    ],
+    "Files": {
+      "interface/confirmation/recruitconfirmation.config": [
+        "/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Someone wants to join your adventures",
+      "Rus": "Кто-то хочет к Вам присоединиться..."
+    }
+  }
+]

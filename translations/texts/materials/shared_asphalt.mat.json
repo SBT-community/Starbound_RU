@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Недорогой, но эффективный строительный материал."
+    ],
+    "Files": {
+      "items/materials/asphalt.matitem": [
+        "/description"
+      ],
+      "tiles/materials/asphalt.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cheap but effective construction material.",
+      "Rus": "Дешевый, но эффективный строительный материал."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/asphalt.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/asphalt.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Asphalt",
+      "Rus": "Асфальт"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/asphalt.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/asphalt.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a mash of sticky oil an' rocks.",
+      "Rus": "Это мешанина из масла да камней"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/asphalt.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/asphalt.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Readings suggest aesthetic value of asphalt is below 2%.",
+      "Rus": "Показания говорят, что эстетическая ценность асфальта ниже 2%."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/asphalt.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/asphalt.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssticky asphalt ssmelly like tar.",
+      "Rus": "Липкий асссфальт пахнет гудроном."
+    }
+  }
+]

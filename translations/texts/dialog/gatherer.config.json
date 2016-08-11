@@ -1,0 +1,187 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/safe/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Am I safe now?",
+      "Rus": "Теперь я в безопасности?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/helpme/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flee, like the wolf!",
+      "Rus": "Убегай как шакал!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/rent/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here's something I found while I was out gathering supplies!",
+      "Rus": "Смотри, что я нашел!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/rent/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I came across this whilst out hunting and gathering!",
+      "Rus": "Я наткнулся на это, когда собирал припасы!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/beacon/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I was gathering. Did you need me?",
+      "Rus": "Я тут собирал кое-что. Что-то нужно?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/helpme/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I will escape!",
+      "Rus": "Я хочу спастись!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Я занимаюсь охотой и собирательством.",
+      "Я охотник-собиратель. Люблю свое занятие!"
+    ],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/converse/apex/default/0",
+        "/converse/default/default/0",
+        "/converse/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm a hunter-gatherer. I'll bring you some of the things I find!",
+      "Rus": "Я охотник-собиратель. Я и тебе что-нибудь принесу!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/converse/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm planning my next gathering trip! I'll bring some nice things back for you.",
+      "Rus": "Я в предвкушении своего следующего похода! Я принесу и тебе что-нибудь."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/beacon/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've been out scavenging - Did you need me for something?",
+      "Rus": "Я копался в мусоре... Тебе что-то нужно?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/converse/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Life under the Miniknog is too restrained, I prefer to live with more freedom!",
+      "Rus": "Жизнь под опекой Министерства очень ограничена,  я предпочту жить свободным!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/helpthem/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oh no!",
+      "Rus": "О нет!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/converse/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Technology is overrated, the life of the hunter-gatherer is the one for me!",
+      "Rus": "Технологии сильно переоценили. Жизнь охотника-собирателя по мне!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/rent/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is for you, from my recent scavenging trip!",
+      "Rus": "Держи! Я нашел это в куче мусора!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/converse/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why live as a slave with the rest of my people when I can be one with nature?",
+      "Rus": "Зачем жить как раб с остальными, если я могу быть наедине с природой?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/beacon/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You have need of me? I've been gathering supplies.",
+      "Rus": "Искал меня? Я собирал припасы."
+    }
+  }
+]

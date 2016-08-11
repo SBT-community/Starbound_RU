@@ -1,0 +1,66 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Коллекция плотно утрамбованных костей."
+    ],
+    "Files": {
+      "items/materials/bonematerial.matitem": [
+        "/description"
+      ],
+      "tiles/materials/bonematerial.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A collection of bones tightly packed together.",
+      "Rus": "Куча костей, туго сцепленных вместе."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bonematerial.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/bonematerial.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bones from a variety of sources packed together.",
+      "Rus": "Утрамбованные кости различных существ."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bonematerial.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/bonematerial.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bunch of bones. Who needs 'em!",
+      "Rus": "Куча костей. Кому они нужны!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Утрамбованные кости"
+    ],
+    "Files": {
+      "items/materials/bonematerial.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/bonematerial.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Packed Bones",
+      "Rus": "Спрессованные кости"
+    }
+  }
+]

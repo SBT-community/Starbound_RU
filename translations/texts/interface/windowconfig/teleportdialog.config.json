@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/teleportdialog.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Choose a destination",
+      "Rus": "Выберите пункт назначения"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/teleportdialog.config": [
+        "/paneLayout/btnTeleport/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Teleport",
+      "Rus": "Телепорт"
+    }
+  }
+]

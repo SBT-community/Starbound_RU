@@ -1,0 +1,32 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/recruit_guard.questtemplate": [
+        "/scriptConfig/objectives/5/text"
+      ],
+      "quests/generated/templates/themed_build.questtemplate": [
+        "/scriptConfig/objectives/4/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Any door",
+      "Rus": "Любая дверь"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/recruit_guard.questtemplate": [
+        "/scriptConfig/objectives/4/text"
+      ],
+      "quests/generated/templates/themed_build.questtemplate": [
+        "/scriptConfig/objectives/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Any light source",
+      "Rus": "Любой источник света"
+    }
+  }
+]

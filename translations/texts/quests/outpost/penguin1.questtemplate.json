@@ -1,0 +1,87 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/penguin1.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bartender",
+      "Rus": "Бармен"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/penguin1.questtemplate": [
+        "/scriptConfig/descriptions/findGoal"
+      ]
+    },
+    "Texts": {
+      "Eng": "Defeat ^orange;Dreadwing^reset;",
+      "Rus": "Одолейте ^orange;Ужаснокрыла^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/penguin1.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Help me out, would ya? Business around here hasn't been so great since all my regulars are on the run from ^orange;Dreadwing^white; and his gang of crooks! Can you ^green;go and defeat Dreadwing^white; for me? Come speak when you're ready, I'll send ya right to him!",
+      "Rus": "Помоги мне, а? Мой бизнес катится ко дну, поскольку все мои постоянные клиенты находятся в бегах, скрываясь от ^orange;Ужаснокрыла^white; и его бандитов! Не мог бы ты ^green;убить Ужаснокрыла^white;? Скажи, когда будешь готов, и я отправлю тебя прямо к нему!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/penguin1.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return to the ^orange;Bartender^reset; at the ^orange;Outpost^reset;",
+      "Rus": "Вернитесь к ^orange;Бармену^reset; на ^orange;Форпосте^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/penguin1.questtemplate": [
+        "/scriptConfig/descriptions/enterInstance"
+      ]
+    },
+    "Texts": {
+      "Eng": "Talk to the ^orange;Bartender^reset; to go to ^orange;Dreadwing^reset;",
+      "Rus": "Поговорите с ^orange;Барменом^reset;, чтобы отправиться к ^orange;Ужаснокрылу^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/penguin1.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You sorted him out for me? Thanks, now I'm back in business! ^green;Come speak to me if you want a ^orange;Dubloon^green; to hire a penguin merc^white;.",
+      "Rus": "Ты с ним разобрался? Спасибо, теперь я снова в деле! ^green;Если захочешь воспользоваться услугами наёмника-пингвина, то приходи, я дам тебе ^orange;Дублон^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/penguin1.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Dreadwing the Penguin",
+      "Rus": "Пингвин Ужаснокрыл"
+    }
+  }
+]

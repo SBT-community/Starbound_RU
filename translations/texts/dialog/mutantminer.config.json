@@ -1,0 +1,118 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/mutantminer.config": [
+        "/attack/default/default/2",
+        "/cantReach/default/default/1",
+        "/cheerOn/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grargh!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/mutantminer.config": [
+        "/outOfSight/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grargh?!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/mutantminer.config": [
+        "/killedTarget/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Raaaargh!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/mutantminer.config": [
+        "/attack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rargh!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/mutantminer.config": [
+        "/cantReach/default/default/0",
+        "/cheerOn/default/default/2",
+        "/reattack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rarrgh!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/mutantminer.config": [
+        "/killedTarget/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rarrgh! Rarrgh!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/mutantminer.config": [
+        "/lostTarget/default/default/0",
+        "/outOfSight/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rarrgh?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/mutantminer.config": [
+        "/cheerOn/default/default/1",
+        "/reattack/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rrrr!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/mutantminer.config": [
+        "/attack/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rrrrr!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/mutantminer.config": [
+        "/lostTarget/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rrrrr..."
+    }
+  }
+]

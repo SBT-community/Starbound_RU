@@ -1,0 +1,31 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/desert/sandstonetorch/sandstonetorch.object": [
+        "/avianDescription"
+      ],
+      "objects/glitch/medievaltorch/medievaltorch.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A burning torch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/desert/sandstonetorch/sandstonetorch.object": [
+        "/description"
+      ],
+      "objects/generic/torch/torch.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This torch flickers softly.",
+      "Rus": "Этот факел мягко светит."
+    }
+  }
+]

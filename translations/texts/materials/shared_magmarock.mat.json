@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/magmarock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/magmarock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Better watch myself 'round these burnin' magmarocks.",
+      "Rus": "Нужно быть очень внимательным если окажешься среди горящих камней."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/magmarock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/magmarock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Burny hot magmarockss.",
+      "Rus": "Обжигающщще-горячий магматит."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Магматит"
+    ],
+    "Files": {
+      "items/materials/magmarock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/magmarock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Magmarock",
+      "Rus": "Магмакамень"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Магматит. Это горячий материал."
+    ],
+    "Files": {
+      "items/materials/magmarock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/magmarock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Magmarock. This is hot stuff.",
+      "Rus": "Магмакамень. Горячая штука."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/magmarock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/magmarock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The temperature of this magmarock remains dangerously high.",
+      "Rus": "Температура этого магматита продолжает оставаться опасно высокой."
+    }
+  }
+]

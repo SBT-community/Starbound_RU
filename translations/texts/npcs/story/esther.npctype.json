@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/esther.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm here whenever you need me, dear. Especially if you'd like a mint humbug.",
+      "Rus": "Я буду здесь в любое время, дорогуша. Особенно если ты захочешь мятную конфетку."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/esther.npctype": [
+        "/scriptConfig/dialog/arkOpened/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ark is open! You know what awaits, dear.",
+      "Rus": "Ковчег открыт! Ты знаешь что ожидает тебя, дорогуша."
+    }
+  }
+]

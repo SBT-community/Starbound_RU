@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/pipkin/pipkin.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Despite appearing friendly, it is rarely seen interacting with other Pipkin.",
+      "Rus": "Несмотря  на его попытки быть дружелюбным, он редко получает тоже самое в ответ."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/pipkin/pipkin.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pipkin",
+      "Rus": "Пипкин"
+    }
+  }
+]

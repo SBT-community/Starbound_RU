@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tombbrick4.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/tombbrick4.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Big stone brickss are hard and cold."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tombbrick4.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/tombbrick4.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark Tomb Brick",
+      "Rus": "Тёмный Кирпич из Гробницы"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tombbrick4.matitem": [
+        "/description"
+      ],
+      "tiles/materials/tombbrick4.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark and cold to the touch, these bricks seem to suck the heat from the room.",
+      "Rus": "Тёмные и холодные, они как будто поглощают все тепло из комнаты."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tombbrick4.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/tombbrick4.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strong lookin' stone. Feels mighty cold to the touch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tombbrick4.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/tombbrick4.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These large bricks are not uniform in size."
+    }
+  }
+]

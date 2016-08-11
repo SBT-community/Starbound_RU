@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/teaminvite.config": [
+        "/paneLayout/titleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "INVITE TO PARTY",
+      "Rus": "ДОБАВИТЬ В ГРУППУ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/teaminvite.config": [
+        "/paneLayout/ok/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Invite",
+      "Rus": "Добавить"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/teaminvite.config": [
+        "/paneLayout/name/hint"
+      ]
+    },
+    "Texts": {
+      "Eng": "Player name",
+      "Rus": "Имя игрока"
+    }
+  }
+]

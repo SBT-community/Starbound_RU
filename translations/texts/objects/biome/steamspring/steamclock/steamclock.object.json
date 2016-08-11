@@ -1,0 +1,101 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/steamspring/steamclock/steamclock.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bigger clock won't give you more time.",
+      "Rus": "Часы большего размера не дадут тебе больше времени."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Большие часы. Не пропустишь."
+    ],
+    "Files": {
+      "objects/biome/steamspring/steamclock/steamclock.object": [
+        "/avianDescription",
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large clock. You can't miss it.",
+      "Rus": "Огроменные часы. Не проворонишь."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/steamspring/steamclock/steamclock.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A nice steam powered large clock face.",
+      "Rus": "Изящный циферблат паровых часов."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/steamspring/steamclock/steamclock.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An impressive clock.",
+      "Rus": "Впечатляющие часы."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/steamspring/steamclock/steamclock.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is that clock displaying the correct time?",
+      "Rus": "Эти часы показывают верное время?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/steamspring/steamclock/steamclock.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now Floran knowss what time it isss.",
+      "Rus": "Теперь Флоран знает ссколько время."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/steamspring/steamclock/steamclock.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Steam Clock Face",
+      "Rus": "Паровой циферблат"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/steamspring/steamclock/steamclock.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "What has hands but can't clap?",
+      "Rus": "Что без ног, а идёт?"
+    }
+  }
+]

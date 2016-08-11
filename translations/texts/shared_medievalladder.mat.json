@@ -1,0 +1,34 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Дрянная деревянная лестница. Ну дела!"
+    ],
+    "Files": {
+      "items/materials/medievalladder.matitem": [
+        "/description"
+      ],
+      "tiles/platforms/medievalladder.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shoddy wooden ladder. What a thrill!",
+      "Rus": "Гнилая деревянная лестница. Вся трещит!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/medievalladder.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/medievalladder.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wooden Ladder",
+      "Rus": "Деревянная лестница"
+    }
+  }
+]

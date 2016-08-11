@@ -1,0 +1,64 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Герметичная платформа"
+    ],
+    "Files": {
+      "items/materials/pressurisedplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/pressurisedplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pressurised Platform",
+      "Rus": "Прессованная платформа"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pressurisedplatform.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/platforms/pressurisedplatform.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sorta shiny lookin' platform.",
+      "Rus": "Платформа, типа блестящая."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pressurisedplatform.matitem": [
+        "/florandescription"
+      ],
+      "tiles/platforms/pressurisedplatform.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sstrong metal platformss are cold.",
+      "Rus": "Жёссткие металличесские платформы, да ещё и холодные. "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pressurisedplatform.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/platforms/pressurisedplatform.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These strong platforms are reinforced to stand up to pressurisation changes.",
+      "Rus": "Эти прочные платформы укреплены чтобы выдерживать скачки давления."
+    }
+  }
+]

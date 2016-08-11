@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Модуль для крафтинга активирован.",
+      "Режим плотника активирован"
+    ],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingfurniture/craftingfurniture.object": [
+        "/glitchDescription/glitchEmotedText",
+        "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmotedText",
+        "/upgradeStages/1/itemSpawnParameters/glitchDescription/glitchEmotedText"
+      ],
+      "objects/crafting/upgradeablecraftingobjects/inventorstable/inventorstable.object": [
+        "/glitchDescription/glitchEmotedText",
+        "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmotedText",
+        "/upgradeStages/1/itemSpawnParameters/glitchDescription/glitchEmotedText",
+        "/upgradeStages/2/itemSpawnParameters/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crafting module activated."
+    }
+  }
+]

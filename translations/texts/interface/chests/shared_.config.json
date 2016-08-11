@@ -1,0 +1,61 @@
+[
+  {
+    "DeniedAlternatives": [
+      "60 ЯЧЕЕК",
+      "64 ЯЧЕЕК"
+    ],
+    "Files": {
+      "interface/chests/chest60.config": [
+        "/gui/count/value"
+      ],
+      "interface/chests/chest64.config": [
+        "/gui/count/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "<slots> SLOTS"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/chests/chest1.config": [
+        "/gui/clear/caption"
+      ],
+      "interface/chests/chest12.config": [
+        "/gui/clear/caption"
+      ],
+      "interface/chests/chest16.config": [
+        "/gui/clear/caption"
+      ],
+      "interface/chests/chest24.config": [
+        "/gui/clear/caption"
+      ],
+      "interface/chests/chest32.config": [
+        "/gui/clear/caption"
+      ],
+      "interface/chests/chest40.config": [
+        "/gui/clear/caption"
+      ],
+      "interface/chests/chest48.config": [
+        "/gui/clear/caption"
+      ],
+      "interface/chests/chest56.config": [
+        "/gui/clear/caption"
+      ],
+      "interface/chests/chest60.config": [
+        "/gui/clear/caption"
+      ],
+      "interface/chests/chest64.config": [
+        "/gui/clear/caption"
+      ],
+      "interface/chests/chest9.config": [
+        "/gui/clear/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Take all",
+      "Rus": "Взять все"
+    }
+  }
+]

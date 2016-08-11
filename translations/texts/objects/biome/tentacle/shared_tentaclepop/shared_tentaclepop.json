@@ -1,0 +1,92 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/tentacle/tentaclepopmed/tentaclepopmed.object": [
+        "/description"
+      ],
+      "objects/biome/tentacle/tentaclepopsmall/tentaclepopsmall.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A breakable growth. Wonder what's inside."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/tentacle/tentaclepopmed/tentaclepopmed.object": [
+        "/avianDescription"
+      ],
+      "objects/biome/tentacle/tentaclepopsmall/tentaclepopsmall.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A funny looking growth. Something is inside, I wonder what it is..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/tentacle/tentaclepopmed/tentaclepopmed.object": [
+        "/apexDescription"
+      ],
+      "objects/biome/tentacle/tentaclepopsmall/tentaclepopsmall.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange growth. It could contain something useful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/tentacle/tentaclepopbig/tentaclepopbig.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/biome/tentacle/tentaclepopmed/tentaclepopmed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/biome/tentacle/tentaclepopsmall/tentaclepopsmall.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It is difficult to resist the urge to break this growth open."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/tentacle/tentaclepopmed/tentaclepopmed.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/tentacle/tentaclepopsmall/tentaclepopsmall.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Medium Tentacle Capsule"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/tentacle/tentaclepopbig/tentaclepopbig.object": [
+        "/novakidDescription"
+      ],
+      "objects/biome/tentacle/tentaclepopmed/tentaclepopmed.object": [
+        "/novakidDescription"
+      ],
+      "objects/biome/tentacle/tentaclepopsmall/tentaclepopsmall.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This strange lookin' growth could be perfect for target practice."
+    }
+  }
+]

@@ -1,0 +1,304 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/severe/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Angry. I can SEE there is a problem here!",
+      "Rus": "Озлобленно. Я ВИЖУ проблему!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/cantReach/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Angry. Our foe is a coward, who does not face me directly!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/rent/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Appreciative. You have helped me, and the All-Seeing Knights always repay in kind.",
+      "Rus": "Признательно. Ты помог мне, Всевидящие Рыцари всегда платят добром за добро."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/cheerOn/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Contemplative. Perhaps simply observing the battle is enough."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/converse/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Contemplative. The symbol of the eye is one that stares eternal.",
+      "Rus": "Задумчиво. Символ глаза неустанно взирает."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/lostTarget/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disappointed. I have lost our foe... For the time being."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/severe/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frustrated. Can you not SEE the problem?",
+      "Rus": "Разочарованно. Разве не ВИДИШЬ проблему?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/cantReach/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frustrated. This cowardly foe will not face me up close!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/rent/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grateful. Here is a token of my thanks, for providing me with a home.",
+      "Rus": "Благодарно. Прими в знак моей благодарности, за то, что предоставил мне кров."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/attack/default/default/3",
+        "/reattack/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hostile. Observe your own defeat at my hands!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/final/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intimidating. It is not wise to disrespect the All-Seeing Knights!",
+      "Rus": "Пугающе. Не слишком мудро проявлять неуважение к Всевидящим Рыцарям!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/converse/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intimidating. None can escape the gaze of the All-Seeing Knights!",
+      "Rus": "Пугающе. Никто не избежит пристального взгляда Всевидящих Рыцарей!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/attack/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Menacing. I have SEEN our next target!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Menacing. The All-Seeing Knights let nothing avert our gaze.",
+      "Rus": "Угрожающе. Ничто не укроется от взора Всевидящих Рыцарей."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/final/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Menacing. Your disrespect has not gone unobserved...",
+      "Rus": "Угрожающе. Твоё неуважение не пройдёт незамеченным..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/beacon/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. I SEE you require my presence.",
+      "Rus": "Внимательно. Я ВИЖУ тебе требуется моё присутствие."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/attack/default/default/1",
+        "/reattack/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. I spy a foe approaching!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/beacon/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Patient. Do you have need of the All-Seeing Knights?",
+      "Rus": "Терпеливо. Что нужно тебе от Всевидящих Рыцарей?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/killedTarget/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. This joust has satiated my lust for battle. For now."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Practical. The All-Seeing Knights help those who help us.",
+      "Rus": "Практично. Всевидящие Рыцари помогают тем, кто помогает им."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/beacon/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Respectful. Do you have need of me?",
+      "Rus": "Уважительно. Нужна моя помощь?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/killedTarget/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Satisfied. An acceptable battle."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sinister. We aid those who give us homes, as long as we see fit...",
+      "Rus": "Мрачно. Мы помогаем тем, кто даёт нам кров, если он нам подходит..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/cheerOn/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Supportive. I shall SEE this victory!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/cheerOn/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Supportive. I wish to witness our foe's defeat!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/outOfSight/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surprised. How did they escape my eternal gaze?!"
+    }
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/vine/vine.grass": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ],
+      "plants/grass/ground/decorative/viney/viney.grass": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vine.",
+      "Rus": "Лоза."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/vine/vine.grass": [
+        "/floranDescription"
+      ],
+      "plants/grass/ground/decorative/viney/viney.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vine.",
+      "Rus": "Лоза."
+    }
+  }
+]

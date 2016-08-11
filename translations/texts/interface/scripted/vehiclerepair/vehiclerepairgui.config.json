@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/vehiclerepair/vehiclerepairgui.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " Repair your vehicles here!",
+      "Rus": "Чините машины здесь!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/vehiclerepair/vehiclerepairgui.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Rob Repairo",
+      "Rus": "Робот-ремонтник"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/vehiclerepair/vehiclerepairgui.config": [
+        "/gui/chipCostDescription/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "REQUIRED CHIPS",
+      "Rus": "ТРЕБУЮТСЯ ЧИПЫ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/vehiclerepair/vehiclerepairgui.config": [
+        "/gui/repairButton/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Repair",
+      "Rus": "Ремонт"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/vehiclerepair/vehiclerepairgui.config": [
+        "/gui/emptyLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "You don't have any vehicles to repair!",
+      "Rus": "Вам нечего чинить!"
+    }
+  }
+]

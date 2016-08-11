@@ -1,0 +1,141 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist1.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ],
+      "quests/outpost/techscientist2.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ],
+      "quests/outpost/techscientist3.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ],
+      "quests/outpost/techscientist4.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ],
+      "quests/outpost/techscientist5.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ],
+      "quests/outpost/techscientist6.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elliott",
+      "Rus": "Эллиотт"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist2.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ],
+      "quests/outpost/techscientist4.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ],
+      "quests/outpost/techscientist6.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return to ^orange;Elliott^reset; at the ^orange;Outpost^reset;",
+      "Rus": "Вернитесь к ^orange;Эллиотту^reset; на ^orange;Форпост^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/floranarena1.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ],
+      "quests/outpost/floranarena2.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ],
+      "quests/outpost/floranarena3.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return to ^orange;Nuru^reset; at the ^orange;Outpost^reset;",
+      "Rus": "Вернитесь к ^orange;Нуру^reset; на ^orange;Форпост^reset; "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist1.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/outpost/techscientist3.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/outpost/techscientist5.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Speak to ^orange;Elliott^reset; at the ^orange;Outpost^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Поговорите с ^orange;Эллиоттом^reset;, чтобы войти на ^orange;полосу препятствий^reset;"
+    ],
+    "Files": {
+      "quests/outpost/techscientist2.questtemplate": [
+        "/scriptConfig/descriptions/enterInstance"
+      ],
+      "quests/outpost/techscientist4.questtemplate": [
+        "/scriptConfig/descriptions/enterInstance"
+      ]
+    },
+    "Texts": {
+      "Eng": "Talk to ^orange;Elliott^reset; to enter the ^orange;obstacle course^reset;",
+      "Rus": "Поговорите с ^orange;Эллиоттом^reset;, чтобы попасть на ^orange;полосу препятствий^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/floranarena1.questtemplate": [
+        "/scriptConfig/descriptions/enterInstance"
+      ],
+      "quests/outpost/floranarena2.questtemplate": [
+        "/scriptConfig/descriptions/enterInstance"
+      ],
+      "quests/outpost/floranarena3.questtemplate": [
+        "/scriptConfig/descriptions/enterInstance"
+      ]
+    },
+    "Texts": {
+      "Eng": "Talk to ^orange;Nuru^reset; to travel to the ^orange;arena^reset;",
+      "Rus": "Поговорите с ^orange;Нуру^reset;, чтобы отправиться на ^orange;арену^reset; "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/floranarena1.questtemplate": [
+        "/scriptConfig/descriptions/findGoal"
+      ],
+      "quests/outpost/floranarena2.questtemplate": [
+        "/scriptConfig/descriptions/findGoal"
+      ],
+      "quests/outpost/floranarena3.questtemplate": [
+        "/scriptConfig/descriptions/findGoal"
+      ]
+    },
+    "Texts": {
+      "Eng": "Win the arena battle",
+      "Rus": "Победите на арене"
+    }
+  }
+]

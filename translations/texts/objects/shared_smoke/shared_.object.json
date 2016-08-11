@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/volcanic/smokegen/smokegen.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/volcanic/smokeprimer/smokeprimer.object": [
+        "/shortdescription"
+      ],
+      "objects/protectorate/objects/protectoratesmokegen/protectoratesmokegen.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/description",
+        "/floranDescription",
+        "/glitchDescription",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/novakidDescription",
+        "/shortdescription"
+      ],
+      "objects/protectorate/objects/protectoratesmokeprimer/protectoratesmokeprimer.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Smoke"
+    }
+  }
+]

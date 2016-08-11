@@ -1,0 +1,64 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/wreckplatform.matitem": [
+        "/florandescription"
+      ],
+      "tiles/platforms/wreckplatform.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Russty and unssafe. Floran likess.",
+      "Rus": "Ржавые и опасссные. Флоран любит."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/wreckplatform.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/platforms/wreckplatform.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This rusty platform looks 'bout ready to fall apart.",
+      "Rus": "Похоже, эти ржавые платформы вот вот на части распадутся."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/wreckplatform.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/platforms/wreckplatform.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This rusty scaffolding appears structurally unsound.",
+      "Rus": "Эти ржавые леса структурно неустойчивы."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Поврежденная платформа"
+    ],
+    "Files": {
+      "items/materials/wreckplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/wreckplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wrecked Platform",
+      "Rus": "Сломанная платформа"
+    }
+  }
+]

@@ -1,0 +1,286 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Переделка дома <questgiver>"
+    ],
+    "Files": {
+      "quests/generated/templates/add_object_to_house.questtemplate": [
+        "/scriptConfig/generatedText/title/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "<questGiver>'s Home Makeover",
+      "Rus": "Переделка дома <questGiver>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/add_object_to_house.questtemplate": [
+        "/scriptConfig/objectives/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Add <object> to <questGiver>'s house",
+      "Rus": "Добавьте <object> в дом <questGiver>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/add_object_to_house.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alright, I think this ^orange;<object>^white; is exactly what's needed! ^green;Could you find some space in my home to place it?",
+      "Rus": "Отлично, я думаю этот ^orange;<object>^white; это как раз то что нужно! ^green;Не мог бы ты придумать, где это разместить?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/add_object_to_house.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Finally Floran hasss the ^orange;<object> ^white;Floran wanted! It will look good in Floran's home, so ^green;please put it down sssomewhere in there.",
+      "Rus": "Наконец-то у Флорана есть ^orange;<object> ^white; Флоран хотел! Это ссмотрится хорошо в моём доме, ^green; положи это где-нибудь там."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/add_object_to_house.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Finally, could you ^green; place the ^orange;<object>^green; somewhere in my home? ^white;You should ^green;make some more room^white; if necessary.",
+      "Rus": "Вы поможете ^green; поставить ^orange; <object> ^green; где-нибудь здесь? ^white; Можете использовать ^green; все доступное пространство^white;, если это необходимо."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/add_object_to_house.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran very happy with thisss. Floran's new <object> looksss good there.",
+      "Rus": "Флоран очень сссчастлив. Новый <object> флорана выглядит отлично."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Мне не удалось помочь <questgiver> слегка улучшить его дом. Уверен <questgiver.pronoun.subject> справится без моей помощи."
+    ],
+    "Files": {
+      "quests/generated/templates/add_object_to_house.questtemplate": [
+        "/scriptConfig/generatedText/failureText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I failed to help <questGiver> make some home improvements. I'm sure <questGiver.pronoun.subject>'ll manage without my help.",
+      "Rus": "Мне не удалось помочь <questGiver> слегка улучшить его дом. Уверен <questGiver.pronoun.subject> справится без моей помощи."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Я не справился с улучшением обстановки в доме <questgiver>. Вероятно, это всё равно было бы не очень."
+    ],
+    "Files": {
+      "quests/generated/templates/add_object_to_house.questtemplate": [
+        "/scriptConfig/generatedText/failureText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I failed to improve the decoration in <questGiver>'s home. It probably would have looked bad anyway.",
+      "Rus": "Я не справился с улучшением обстановки в доме <questGiver>. Вероятно, это всё равно было бы не очень."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/add_object_to_house.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I think the addition of the <object> is just what my home needed. Thank you for your help!",
+      "Rus": "Кажется этот <object> это то, чего так не хватало моему интерьеру. Спасибо тебе за помощь!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/add_object_to_house.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I think this ^orange;<object>^white; is going to do the trick! All that's left to do is ^green;place it in a nice spot.",
+      "Rus": "Я думаю этот ^orange;<object>^white; подойдёт! Всё что осталось сделать, это ^green;найти ему хорошее место."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/add_object_to_house.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Much better! It looks just how I'd imagined it. Many thanks, feel free to stop by anytime to admire your handiwork!",
+      "Rus": "Теперь намного лучше! Так я себе его и представлял. Большое спасибо, не стесняйтесь заглядывать в любое время, чтобы полюбоваться своей работой!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Косметический ремонт для <questgiver>"
+    ],
+    "Files": {
+      "quests/generated/templates/add_object_to_house.questtemplate": [
+        "/scriptConfig/generatedText/title/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Redecorating for <questGiver>",
+      "Rus": "Косметический ремонт для <questGiver>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/add_object_to_house.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "That <object> really adds to the ambiance, do you not agree? Thank you for helping me!",
+      "Rus": "<object> идеально подойдет к окружению. Вы не против? Спасибо за помощь!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/add_object_to_house.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "That ^orange;<object> ^white;is jussst what my home needss! ^green;Pleasse place it somewhere here.",
+      "Rus": "Этот ^orange;<object> ^white;как раз то, что нужно моему дому! Размести это где-нибудь здессь."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/add_object_to_house.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's it! It looks perfect right there! Thank you so much for all your help!",
+      "Rus": "То что надо! Здесь он выглядит идеально! Большое спасибо за твою помощь!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/add_object_to_house.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This <object> is really helping my home look shiny! Thanksss for your help!",
+      "Rus": "<object> делает мой дом потрясссным! Ссспасибо за помощщь."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/add_object_to_house.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "We are almost done! All you need to do now is ^green;place the ^orange;<object>^green; in my home^white; somewhere!",
+      "Rus": "Мы почти закончили! Всё что теперь нужно это ^green;place the ^orange;<object>^green; в моём доме^white;. Поставь это где-нибудь!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/add_object_to_house.questtemplate": [
+        "/scriptConfig/generatedText/goalText/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Floran hasss a new piece of furniture in mind for home. Let'sss make this happen!",
+      "Rus": "^cyan;Флоран раздобыл новую мебель для дома. Давай поставим её куда-нибудь!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/add_object_to_house.questtemplate": [
+        "/scriptConfig/generatedText/goalText/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Floran's home is too sssedate. Let'sss make it brighter!",
+      "Rus": "^cyan;Дом Флорана сслишком сспокойный. Давай сделаем его ярче!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/add_object_to_house.questtemplate": [
+        "/scriptConfig/generatedText/goalText/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;I have a plan to spruce up my home, but I can't do it all by myself. Can you give me a hand?",
+      "Rus": "^cyan;У меня есть идея, чтобы украсить свой дом, но я не могу сделать это самостоятельно.Вы мне не поможете?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/add_object_to_house.questtemplate": [
+        "/scriptConfig/generatedText/goalText/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Observant. I have decided that my home needs improving - Can you assist?",
+      "Rus": "^cyan;Внимательно. Я решил что мой дом требует улучшения - сможешь помочь?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/add_object_to_house.questtemplate": [
+        "/scriptConfig/generatedText/goalText/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Self-conscious. My home could use some new decor... Perhaps you could help me?",
+      "Rus": "^cyan;Застенчиво. Моему дому не помешает обновлённый декор. Возможно ты сможешь помочь?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/add_object_to_house.questtemplate": [
+        "/scriptConfig/generatedText/goalText/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;This place still doesn't feel like home, it's missing something. Could you help me out?",
+      "Rus": "^cyan;Это место всё ещё не кажется мне домом, чего то не хватает. Поможешь мне?"
+    }
+  }
+]

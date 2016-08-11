@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/objectcrafting/pethealing.config": [
+        "/gui/toggleCrafting/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Heal",
+      "Rus": "Лечить"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/objectcrafting/pethealing.config": [
+        "/gui/lblText/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;Place Capture Pod in the left slot.",
+      "Rus": "^#b9b5b2;Положите Капсулу Захвата в левый слот.\r\n"
+    }
+  }
+]

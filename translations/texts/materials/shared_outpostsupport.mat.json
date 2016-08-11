@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/outpostsupport.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/outpostsupport.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A girder type commonly used in outpost construction."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/outpostsupport.matitem": [
+        "/description"
+      ],
+      "tiles/materials/outpostsupport.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A reinforced support beam.",
+      "Rus": "Усиленные поддерживающие опоры."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/outpostsupport.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/outpostsupport.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks t'me like a big metal beam."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/outpostsupport.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/outpostsupport.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Outpost Support Beam",
+      "Rus": "Опоры форпоста"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/outpostsupport.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/outpostsupport.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssupport beam."
+    }
+  }
+]

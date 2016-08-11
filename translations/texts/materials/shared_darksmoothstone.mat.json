@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/darksmoothstone.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/darksmoothstone.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dark brick made from an unknown stone.",
+      "Rus": "Темный кирпич сделанный из неизвестного камня."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/darksmoothstone.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/darksmoothstone.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dark lookin' stone brick.",
+      "Rus": "Темноватый кусок камня"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Темный, гладкий каменный блок."
+    ],
+    "Files": {
+      "items/materials/darksmoothstone.matitem": [
+        "/description"
+      ],
+      "tiles/materials/darksmoothstone.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dark, smooth stone block.",
+      "Rus": "Тёмный, гладкий каменный блок."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Гладкий темный камень",
+      "Тёмный Гладкий Камень"
+    ],
+    "Files": {
+      "items/materials/darksmoothstone.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/darksmoothstone.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark Smooth Stone"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/darksmoothstone.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/darksmoothstone.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssmooth sstone block.",
+      "Rus": "Гладкий каменный блок."
+    }
+  }
+]

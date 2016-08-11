@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Окно с рамкой из меди."
+    ],
+    "Files": {
+      "items/materials/copperwindow.matitem": [
+        "/description"
+      ],
+      "tiles/materials/copperwindow.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A window with a frame made from solid copper.",
+      "Rus": "Окно с рамкой, сделанной из чистой меди."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperwindow.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/copperwindow.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Copper Window",
+      "Rus": "Медное окно"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperwindow.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/copperwindow.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Copper has been used to construct the frame for this window.",
+      "Rus": "Медь была использована чтоб изготовить раму для этого окна"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperwindow.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/copperwindow.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is a nice lookin' copper window frame.",
+      "Rus": "Оконная рама из меди, неплохо смотрится."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperwindow.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/copperwindow.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Windowsss made from copper.",
+      "Rus": "Окнасс, изготовленные из меди."
+    }
+  }
+]

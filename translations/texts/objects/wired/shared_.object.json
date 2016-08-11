@@ -1,0 +1,42 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/shieldgenerator/shieldgenerator.object": [
+        "/floranDescription"
+      ],
+      "objects/wired/smallwallswitch/smallwallswitch.object": [
+        "/floranDescription"
+      ],
+      "objects/wired/smallwallswitch/smallwallswitchlit.object": [
+        "/floranDescription"
+      ],
+      "objects/wired/tinywallswitch/tinywallswitch.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssswitch!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/shieldgenerator/shieldgenerator.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/wired/smallwallswitch/smallwallswitch.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/wired/smallwallswitch/smallwallswitchlit.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/wired/tinywallswitch/tinywallswitch.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This small switch doesn't look that powerful."
+    }
+  }
+]

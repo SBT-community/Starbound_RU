@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Облака. Достаточно плотные чтобы по ним ходить."
+    ],
+    "Files": {
+      "items/materials/cloudblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/cloudblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cloud dense enough to walk on.",
+      "Rus": "Облако, достаточно плотное, что бы по нему можно было ходить."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Облака"
+    ],
+    "Files": {
+      "items/materials/cloudblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/cloudblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cloud",
+      "Rus": "Облако"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cloudblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/cloudblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cloud iss sso fluffy!",
+      "Rus": "Облака такие пушшисстые."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cloudblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/cloudblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The density of this cloud could support my weight.",
+      "Rus": "Плотность этого облака позволяет выдержать мой вес."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cloudblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/cloudblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This here cloud is made from some heavy fluff stuff.",
+      "Rus": "Облака, плотные аки вата."
+    }
+  }
+]

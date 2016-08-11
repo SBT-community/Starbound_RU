@@ -1,0 +1,229 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran hasss things to help out!",
+      "Rus": "Флоран может кое-чем выручить!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/fieldBenefit/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran is medic! Trust Floran!",
+      "Rus": "Флоран - врач! Верь флорану!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran will heal you whenever we're on the ship!",
+      "Rus": "Флоран будет лечить тебя, когда мы будем на корабле!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey, I can heal you! Just hold still!",
+      "Rus": "Эй, я могу вылечить тебя! Только держись!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can heal you! Come to me, quickly!",
+      "Rus": "Я могу вылечить тебя! Иди ко мне, скорее!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll heal you whenever we're on the ship!",
+      "Rus": "Я буду лечить тебя, когда мы будем на корабле."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll heal you whenever we're on the ship.",
+      "Rus": "Я буду лечить тебя, когда мы будем на корабле."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm a combat medic - let me help you!",
+      "Rus": "Я полевой медик - позволь помочь тебе!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/crew/role/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Medic"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/crew/role/field"
+      ]
+    },
+    "Texts": {
+      "Eng": "Medical"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1/glitchEmotedText",
+        "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perhaps you could do with some healing?",
+      "Rus": "Может быть тебя нужно немного полечить?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This should heal you!",
+      "Rus": "Это вылечит тебя!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/fieldBenefit/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You look hurt. Floran can help you!",
+      "Rus": "Ты ранен. Флоран может помочь тебе!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You look hurt. Let me help you out!",
+      "Rus": "Ты поранился. Дай мне помочь!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You look like you could be in better shape. Let me assist you!",
+      "Rus": "Мог бы выглядеть и получше. Позволь помочь тебе!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You look like you could do with some healing!",
+      "Rus": "Ты выглядишь так, как будто тебе нужно лечение!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You look like you could use some healing!",
+      "Rus": "Похоже что тебе требуется лечение!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You look like you wouldn't mind some healing. Here!",
+      "Rus": "Ты выглядишь так как будто тебе нужно лечение. Сюда!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/fieldBenefit/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You look wounded. Floran can help!",
+      "Rus": "Ты выглядишь раненым. Флоран может помочь!"
+    }
+  }
+]

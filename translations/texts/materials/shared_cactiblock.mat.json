@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Кактусовый Блок"
+    ],
+    "Files": {
+      "items/materials/cactiblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/cactiblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cacti Block",
+      "Rus": "Кактусовый блок"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Кактус который был переделан в строительный блок. Остался колючим."
+    ],
+    "Files": {
+      "items/materials/cactiblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/cactiblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cactus that's been fashioned into a construction block. Still prickly.",
+      "Rus": "Кактус, которому придали форму строительного блока. Все еще колется."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cactiblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/cactiblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran like pickly cactuss blocksss.",
+      "Rus": "Флорану нравитьсся колючий блок из кактуссса."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cactiblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/cactiblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's made outta cactus. Better not lean against this.",
+      "Rus": "Сделано из кактуса. Лучше не касаться его."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cactiblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/cactiblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This construction block has been made from prickly cactus.",
+      "Rus": "Этот строительный блок был сделан из колючего кактуса."
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/playerinventory.config": [
+        "/paneLayout/chest/data/tooltipText"
+      ],
+      "items/categories.config": [
+        "/labels/chestarmour"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chest Armour",
+      "Rus": "Нагрудник"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/craftingfurniturestore.config": [
+        "/paneLayout/lblFurniture/value"
+      ],
+      "items/categories.config": [
+        "/labels/furniture"
+      ]
+    },
+    "Texts": {
+      "Eng": "Furniture",
+      "Rus": "Мебель"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/playerinventory.config": [
+        "/paneLayout/head/data/tooltipText"
+      ],
+      "items/categories.config": [
+        "/labels/headarmour"
+      ]
+    },
+    "Texts": {
+      "Eng": "Head Armour",
+      "Rus": "Шлем"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/playerinventory.config": [
+        "/paneLayout/legs/data/tooltipText"
+      ],
+      "items/categories.config": [
+        "/labels/legarmour"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leg Armour",
+      "Rus": "Поножи"
+    }
+  }
+]

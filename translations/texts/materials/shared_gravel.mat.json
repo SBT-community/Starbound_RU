@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Шероховатый гравий."
+    ],
+    "Files": {
+      "items/materials/gravel.matitem": [
+        "/description"
+      ],
+      "tiles/materials/gravel.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coarse gravel.",
+      "Rus": "Крупный гравий."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/gravel.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/gravel.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coarse, cascading gravel.",
+      "Rus": "Грубый, осыпающийся гравий."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/gravel.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/gravel.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crushed rocks an' gravel.",
+      "Rus": "Каменные обломки да гравий."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/gravel.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/gravel.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crusshed gravel.",
+      "Rus": "Щщщебень, каменные осссколки."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/gravel.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/gravel.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gravel",
+      "Rus": "Гравий"
+    }
+  }
+]

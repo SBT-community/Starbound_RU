@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shadowwallblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/shadowwallblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bricks carved from shadowy rock.",
+      "Rus": "Кирпичи, вырезанные из теневого камня."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shadowwallblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/shadowwallblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shadow Bricks",
+      "Rus": "Теневой кирпич"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shadowwallblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/shadowwallblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some bricks made outta dark rock."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shadowwallblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/shadowwallblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These bricks are made from a very durable material."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shadowwallblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/shadowwallblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tough black brickss."
+    }
+  }
+]

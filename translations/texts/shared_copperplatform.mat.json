@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Платформа изготовлена ​​из меди."
+    ],
+    "Files": {
+      "items/materials/copperplatform.matitem": [
+        "/description"
+      ],
+      "tiles/platforms/copperplatform.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A platform made from copper.",
+      "Rus": "Платформа, сделанная из меди"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Платформа из меди"
+    ],
+    "Files": {
+      "items/materials/copperplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/copperplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Copper Platform",
+      "Rus": "Медная платформа"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperplatform.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/platforms/copperplatform.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I reckon it must've been tough makin' this platform with copper.",
+      "Rus": "Я считаю, что это, должна быть, эта платформа из меди."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperplatform.matitem": [
+        "/florandescription"
+      ],
+      "tiles/platforms/copperplatform.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Platformss made from copper.",
+      "Rus": "Платформа сделана из меди."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperplatform.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/platforms/copperplatform.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This platform appears to be made from copper.",
+      "Rus": "Эта платформа по-видимому, сделаны из меди."
+    }
+  }
+]

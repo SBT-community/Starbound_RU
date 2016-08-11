@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/missionhuman1.aimission": [
+        "/speciesText/default/buttonText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Erchius Mining Facility",
+      "Rus": "Шахта добычи эркиевых кристаллов"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/missionhuman1.aimission": [
+        "/speciesText/default/repeatButtonText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Revisit the Erchius Mining Facility",
+      "Rus": "Посетить шахту добычи эркиевых кристаллов"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/missionhuman1.aimission": [
+        "/speciesText/default/selectSpeech/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Facility is the central source of Erchius Crystals, which can upgrade your ship's FTL Drive.",
+      "Rus": "Этот объект является главным источником эркиевых кристаллов, которые помогут улучшить сверхсветовой двигатель Вашего корабля."
+    }
+  }
+]

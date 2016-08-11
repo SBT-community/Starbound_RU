@@ -1,0 +1,80 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/woodpanelling.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/woodpanelling.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It appears these panels of wood are decorative."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/woodpanelling.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/woodpanelling.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sstrange wood panelss for decoration.",
+      "Rus": "Деревянные панели для художественного оформления"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Эта деревянная обшивка была модной в далекой эпохи"
+    ],
+    "Files": {
+      "items/materials/woodpanelling.matitem": [
+        "/description"
+      ],
+      "tiles/materials/woodpanelling.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This wood panelling was fashionable in a distant era.",
+      "Rus": "Эта деревянная обшивка была модной в далекую эпоху."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      " Деревянная обшивка"
+    ],
+    "Files": {
+      "items/materials/woodpanelling.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/woodpanelling.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wood Panelling",
+      "Rus": "Деревянная обшивка"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/woodpanelling.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/woodpanelling.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wood panels, that's how y'know this place is fancy.",
+      "Rus": "Деревянные панели знают что это место фантазии"
+    }
+  }
+]

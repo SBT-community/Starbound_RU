@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cobblestonebrick.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/cobblestonebrick.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bricks made outta cobblestone.",
+      "Rus": "Кирпичи сделанные из булыжника."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Кирпич из Булыжника",
+      "Кирпич из булыжника"
+    ],
+    "Files": {
+      "items/materials/cobblestonebrick.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/cobblestonebrick.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cobblestone Brick"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cobblestonebrick.matitem": [
+        "/description"
+      ],
+      "tiles/materials/cobblestonebrick.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Small bricks made from cobblestone.",
+      "Rus": "Маленькие кирпичи сделанные из булыжника."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cobblestonebrick.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/cobblestonebrick.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssmooth cobblessstone brickss.",
+      "Rus": "Гладкие кирпичи из булыжника"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cobblestonebrick.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/cobblestonebrick.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These bricks are made from cobblestone.",
+      "Rus": "Эти кирпичи сделаны из булыжника."
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/shiprepair.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Become Space-worthy",
+      "Rus": "Стать достойным космоса"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/shiprepair.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "First thing first though, dear; you need a ^orange;ship in good working order^reset;. Who knows how far you'll have to travel before we're done. I think you should ^green;return to the Outpost and speak to ^orange;Penguin Pete the shipyard captain^reset;.",
+      "Rus": "Сперва наперво, дорогуша, тебе нужен ^orange;корабль в рабочем состоянии^reset;. Кто знает, сколько тебе придётся путешествовать, пока мы не закончим. Я думаю, ты должен ^green;вернуться в Форпост и поговорить с  ^orange;пингвином Питом, капитаном верфи^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/shiprepair.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "That was no mean feat - well done, dear. Now that your ship is in full working order we can get started on the task at hand.",
+      "Rus": "Это, без сомнения, подвиг - отлично сработано, дорогуша. Теперь, когда твой корабль в рабочем состоянии, мы сможем сосредоточится на главном."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/shiprepair.questtemplate": [
+        "/scriptConfig/descriptions/findMechanic"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Find ^orange;Penguin Pete^white; at the ^orange;outpost^white;",
+      "Rus": "^green;Отыщите ^orange;пингвина Пита^white; на ^orange;Форпосте^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/shiprepair.questtemplate": [
+        "/scriptConfig/descriptions/repairShip"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Repair your ^orange;ship^reset;.",
+      "Rus": "^green;Отремонтируйте свой ^orange;корабль^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/shiprepair.questtemplate": [
+        "/scriptConfig/descriptions/findEsther"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Talk to ^orange;Esther Bright^white; at the ^orange;Ark^white;",
+      "Rus": "^green;Поговорите с ^orange;Эстер Брайт^white; у ^orange;Ковчега^white;"
+    }
+  }
+]

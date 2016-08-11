@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/crafting3dprinter.config": [
+        "/paneLayout/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Pixel Printer",
+      "Rus": "Пиксельный Принтер"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/crafting3dprinter.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " ^#b9b5b2;Print objects you have scanned",
+      "Rus": "^#b9b5b2;Напечатать объект, который вы отсканировали"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/crafting3dprinter.config": [
+        "/paneLayout/lblProduct/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "PIXELS AVAILABLE",
+      "Rus": "НАЛИЧИЕ ПИКСЕЛЕЙ"
+    }
+  }
+]

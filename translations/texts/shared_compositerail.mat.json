@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Прочные усиленные рельсы."
+    ],
+    "Files": {
+      "items/materials/compositerail.matitem": [
+        "/description"
+      ],
+      "tiles/rails/compositerail.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strong reinforced rail.",
+      "Rus": "Прочный укреплённый рельс."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Композитные рельсы"
+    ],
+    "Files": {
+      "items/materials/compositerail.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/rails/compositerail.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Composite Rail",
+      "Rus": "Композитный рельс"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/compositerail.matitem": [
+        "/florandescription"
+      ],
+      "tiles/rails/compositerail.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shiny metal rails.",
+      "Rus": "Блестящщие металлические рельсы."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/compositerail.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/rails/compositerail.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sturdy lookin' rails, gettin' the itch to ride 'em.",
+      "Rus": "Крепко выглядящий рельс, хочется о него почесаться."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/compositerail.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/rails/compositerail.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The material this rail is made from makes it very strong.",
+      "Rus": "Этот рельс очень прочнен благодаря материалу, из которого изготовлен."
+    }
+  }
+]

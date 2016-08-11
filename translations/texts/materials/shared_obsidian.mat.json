@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/obsidian.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/obsidian.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Obsidian",
+      "Rus": "Обсидиан"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/obsidian.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/obsidian.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Obsssidian. Sstrong black rockss."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Цельный обсидиан. По настоящему черный. Привет от сообщества SBT."
+    ],
+    "Files": {
+      "items/materials/obsidian.matitem": [
+        "/description"
+      ],
+      "tiles/materials/obsidian.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Solid obsidian. It is naturally black.",
+      "Rus": "Цельный обсидиан. От природы чёрен."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/obsidian.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/obsidian.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some black lookin' obsidian rocks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/obsidian.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/obsidian.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This obsidian is extremely dense and strong."
+    }
+  }
+]

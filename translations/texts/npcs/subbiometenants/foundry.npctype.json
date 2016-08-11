@@ -1,0 +1,134 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/foundry.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Foundry Merchant",
+      "Rus": "Продавец Цеха"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/foundry.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Sells ores and mining equipment!",
+      "Rus": "Мы продаем руды и оборудование для добычи!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/foundry.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come back anytime you need some raw metals!",
+      "Rus": "Возвращайтесь, когда понадобятся металлы!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/foundry.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Foundry-sourced materials, right here!",
+      "Rus": "Здесь цех по отливке металлов!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/foundry.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Get your mining produce, shipped straight from your local foundries!",
+      "Rus": "Только у нас Вы можете купить качественные руды, доставленные прямиком из источников добычи!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/foundry.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here we are! So, what did you need? Perhaps some crafting metals?",
+      "Rus": "Так что говорите Вам нужно? Металлы?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/foundry.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you need some ores, you know exactly where to get them!",
+      "Rus": "Если нужна руда, Вы точно вспомните обо мне!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/foundry.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you need some raw metals, you know where to find me!",
+      "Rus": "Если Вам нужны металлы или руды, Вы знаете, где меня найти!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/foundry.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "We're here! So, did you need some mining tools?",
+      "Rus": "Подходите! Так, значит Вам нужны инструменты?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/foundry.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome! Perhaps you need some mining equipment? How about some metals?",
+      "Rus": "Здравствуйте! Возможно, Вам нужно оборудование для добычи? Или нужны металлы?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/foundry.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome! Would you like to buy some metals?",
+      "Rus": "Приветствуем! Хотите купить какие-нибудь металлы?"
+    }
+  }
+]

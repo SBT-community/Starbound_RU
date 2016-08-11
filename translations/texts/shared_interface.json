@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/cursorTooltip/beamDownText"
+      ],
+      "interface/warping/shipteleporter.config": [
+        "/destinations/0/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beam Down",
+      "Rus": "Высадка"
+    }
+  }
+]

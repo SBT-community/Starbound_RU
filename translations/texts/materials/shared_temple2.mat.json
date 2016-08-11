@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/temple2.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/temple2.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likess old brickss.",
+      "Rus": "Флоран любит сстарые кирпичи."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/temple2.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/temple2.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reckon these bricks have been around a while.",
+      "Rus": "Думаю, эти кирпичи тут уже давненько."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/temple2.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/temple2.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Temple Bricks",
+      "Rus": "Храмовый кирпич"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/temple2.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/temple2.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The age of these bricks cannot be accurately determined.",
+      "Rus": "Возраст этих кирпичей точно установиться не удаётся."
+    }
+  }
+]

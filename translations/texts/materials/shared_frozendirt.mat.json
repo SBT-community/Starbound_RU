@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Замёрзшая Грязь"
+    ],
+    "Files": {
+      "items/materials/frozendirt.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/frozendirt.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frozen Dirt",
+      "Rus": "Заледеневшая земля"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/frozendirt.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/frozendirt.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frozen dirt iss cold to the touch.",
+      "Rus": "Заледеневшая земля холодная на ощупь."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Намертво замёрзшая грязь.",
+      "Эта грязь совсем заледенела."
+    ],
+    "Files": {
+      "items/materials/frozendirt.matitem": [
+        "/description"
+      ],
+      "tiles/materials/frozendirt.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This dirt is frozen solid."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/frozendirt.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/frozendirt.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This dirt is solidly frozen.",
+      "Rus": "Эта земля сильно заледенела."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/frozendirt.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/frozendirt.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This frozen dirt is mighty cold.",
+      "Rus": "Эта заледеневшая земля очень холодная."
+    }
+  }
+]

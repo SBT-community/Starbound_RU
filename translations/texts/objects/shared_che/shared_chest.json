@@ -1,0 +1,116 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Сундук! Надо посмотреть что внутри.",
+      "Сундук! Посмотри что внутри."
+    ],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitychest/scorchedcitychest.object": [
+        "/apexDescription"
+      ],
+      "objects/generic/stonechest/ironchest.object": [
+        "/apexDescription"
+      ],
+      "objects/generic/woodenchest/woodenchest.object": [
+        "/apexDescription"
+      ],
+      "objects/mission/miningchest/miningchest.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chest! Let's look inside.",
+      "Rus": "Сундук! Заглянем внутрь."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Сундук! Нужно открыть его.",
+      "Сундук! Откроем его.",
+      "Сундук! Открой его."
+    ],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitychest/scorchedcitychest.object": [
+        "/humanDescription"
+      ],
+      "objects/generic/stonechest/ironchest.object": [
+        "/humanDescription"
+      ],
+      "objects/generic/woodenchest/woodenchest.object": [
+        "/humanDescription"
+      ],
+      "objects/mission/miningchest/miningchest.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chest! Let's open it up."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Сссундук! Флоран должен обыскать его!",
+      "Сссундук! Флоран нужно посмотреть!"
+    ],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitychest/scorchedcitychest.object": [
+        "/floranDescription"
+      ],
+      "objects/generic/stonechest/ironchest.object": [
+        "/floranDescription"
+      ],
+      "objects/generic/woodenchest/woodenchest.object": [
+        "/floranDescription"
+      ],
+      "objects/mission/miningchest/miningchest.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chessst! Floran musst sssearch!",
+      "Rus": "Сссундук! Флоран должен иссследовать!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitychest/scorchedcitychest.object": [
+        "/hylotlDescription"
+      ],
+      "objects/generic/stonechest/ironchest.object": [
+        "/hylotlDescription"
+      ],
+      "objects/generic/woodenchest/woodenchest.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There is little as exciting as an unopened chest.",
+      "Rus": "Мало что так бударажит, как не открытый сундук."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Любопытно. Азартно. Что могло бы быть внутри?",
+      "Что же внутри?"
+    ],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitychest/scorchedcitychest.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/generic/stonechest/ironchest.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/generic/woodenchest/woodenchest.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/mission/miningchest/miningchest.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What could be inside?",
+      "Rus": "Что могло бы быть внутри?"
+    }
+  }
+]

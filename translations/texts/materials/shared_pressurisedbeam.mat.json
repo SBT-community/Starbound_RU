@@ -1,0 +1,60 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pressurisedbeam.matitem": [
+        "/description"
+      ],
+      "tiles/materials/pressurisedbeam.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A support beam made for pressurised environments.",
+      "Rus": "Балки, способные выдерживать перепады давления."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pressurisedbeam.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/pressurisedbeam.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pressurised Beam",
+      "Rus": "Герметичные балки"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pressurisedbeam.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/pressurisedbeam.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sstrong metal beam."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pressurisedbeam.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/pressurisedbeam.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This beam is specially designed for pressurised environments."
+    }
+  }
+]

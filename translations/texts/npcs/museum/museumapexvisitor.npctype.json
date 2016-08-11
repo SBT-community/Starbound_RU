@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/museum/museumapexvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "How old do you think all of these things are?",
+      "Rus": "Как думаешь на сколько стары все эти вещи?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/museum/museumapexvisitor.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "One day, people will remember our kind for things other than our oppressive regime.",
+      "Rus": "Однажды, люди будут вспоминать наш вид, за исключением деспотического режима."
+    }
+  }
+]

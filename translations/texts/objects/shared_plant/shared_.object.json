@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotlplant1/hylotlplant1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/outpost/plasticplant/plasticplant.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A disgusting fake plastic plant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotlplant1/hylotlplant1.object": [
+        "/humanDescription"
+      ],
+      "objects/outpost/plasticplant/plasticplant.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reminds me of waiting rooms."
+    }
+  }
+]

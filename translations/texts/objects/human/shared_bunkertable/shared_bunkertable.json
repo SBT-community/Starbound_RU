@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkertable1/bunkertable1.object": [
+        "/apexDescription"
+      ],
+      "objects/human/bunkertable2/bunkertable2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkertable1/bunkertable1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/human/bunkertable2/bunkertable2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A table. Unremarkable."
+    }
+  }
+]
