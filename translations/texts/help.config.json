@@ -44,7 +44,7 @@
     },
     "Texts": {
       "Eng": "Usage /admin. Enables or disables admin mode, which enables all crafting recipes, prevents damage or energy loss, and allows access to admin-only commands.",
-      "Rus": "Используя команду /admin. Вы можете включать или отключать режим администратора, который открывает все рецепты крафта, убирает получаемый урон и потерю энергии, также обеспечивает доступ к командам администратора"
+      "Rus": "Использование команды /admin. Вы можете включать или отключать режим администратора, который открывает все рецепты крафта, убирает получаемый урон и потерю энергии, также обеспечивает доступ к командам администратора"
     }
   },
   {
@@ -56,7 +56,7 @@
     },
     "Texts": {
       "Eng": "Usage /ban playerSpecifier [reason] [kind] [timeInSeconds]. Kick and ban the specified player and send the reason to the player. If no reason is specified then the player's server nickname is used as the reason. Kind is specified as \"uuid\" or \"ip\" or \"both\" and defaults to \"both\". timeInSeconds defaults to forever. Bans that have a specified duration are not persistent. If you shut down the server or reload configuration, all of your temporarily banned users will be unbanned immediately.",
-      "Rus": ""
+      "Rus": "Использование команды /ban playerSpecifier [reason] [kind] [timeInSeconds]. Кикайте и баньте указанного игрока и отправляйте указанную причину игроку. Если причина не указана, то используется ник игрока на сервере в качестве причины. Kind указывается как \"uuid\", \"ip\" или же \"both\". timeInSeconds по умолчанию стоит на \"вечно\". Баны с указанной длительностью не постоянны. Если вы отключите или перезагрузите сервер, все временно забаненные игроки будут разбанены незамедлительно."
     }
   },
   {
