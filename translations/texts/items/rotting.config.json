@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;Extremely well preserved^reset;"
+      "Eng": "^green;Extremely well preserved^reset;",
+      "Rus": "^green;В прекрасном состоянии^reset;"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;Should stay fresh for awhile^reset;"
+      "Eng": "^green;Should stay fresh for awhile^reset;",
+      "Rus": "^green;Будет свежим еще некоторое время^reset;"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^orange;Starting to smell rotten^reset;"
+      "Eng": "^orange;Starting to smell rotten^reset;",
+      "Rus": "^orange;Начинает портиться^reset;"
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^red;Almost too rotten to eat^reset;"
+      "Eng": "^red;Almost too rotten to eat^reset;",
+      "Rus": "^red;Почти испортилось^reset;"
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^yellow;Will probably go bad soon^reset;"
+      "Eng": "^yellow;Will probably go bad soon^reset;",
+      "Rus": "^yellow;Очень скоро станет несъедобно^reset;"
     }
   }
 ]
