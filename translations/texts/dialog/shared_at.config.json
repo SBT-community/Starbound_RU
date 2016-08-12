@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Сейчас же вернитесь назад!"
+    ],
     "Files": {
       "dialog/combat.config": [
         "/cantReach/default/default/2",
@@ -12,7 +14,7 @@
     },
     "Texts": {
       "Eng": "Get back here!",
-      "Rus": "Сейчас же вернитесь сюда!"
+      "Rus": "Сейчас же вернись назад!"
     }
   }
 ]
