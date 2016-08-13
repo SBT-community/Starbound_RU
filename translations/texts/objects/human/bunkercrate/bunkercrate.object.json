@@ -85,7 +85,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Металличессская коробка."
+    ],
     "Files": {
       "objects/human/bunkercrate/bunkercrate.object": [
         "/floranDescription"
@@ -93,7 +95,7 @@
     },
     "Texts": {
       "Eng": "Metal box.",
-      "Rus": "Металличессская коробка."
+      "Rus": "Металличессский ящик."
     }
   }
 ]
