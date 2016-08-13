@@ -268,7 +268,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      ""
+    ],
     "Files": {
       "dialog/deadbeat.config": [
         "/attack/default/default/1",
