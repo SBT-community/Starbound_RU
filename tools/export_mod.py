@@ -6,9 +6,12 @@ from os.path import join, relpath, dirname, exists, normpath, basename
 from json import load, dump
 from shutil import copy
 from json_tools import field_by_path
+from re import compile as regex
 
 translations_dir = "./translations"
 mod_dir = "./new_mod"
+
+checker = regex('([^\n\s\t\r]+|\r?[\n\s\t])')
 
 patchfiles = dict()
 
@@ -43,19 +46,21 @@ def add_count(counter, path, value):
 
 def check_translation_length(text):
   ## 15 height, 36 width
-  words = text.split(' ')
+  words = checker.split(text)
   width = 36
   height = 15
   for word in words:
-    if word.endswith('\n'):
+    wlen = len(word)
+    if wlen == 0:
+      continue
+    if word == '\n':
       height -= 1
       width = 36
       continue
-    width -= len(word)
-    if width < 0:
-      width = 36 - len(word)
+    width -= wlen
+    if width < 0 and not word == ' ':
+      width = 36 - wlen
       height -= 1
-    width -= 1 # space after
   return height >= 0
 
 specials = dict()
