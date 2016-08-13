@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Кристальный ужас"
+    ],
     "Files": {
       "monsters/boss/crystalboss/crystalboss.monstertype": [
         "/shortdescription"
@@ -8,7 +10,7 @@
     },
     "Texts": {
       "Eng": "Erchius Horror",
-      "Rus": "Кристальный ужас"
+      "Rus": "Эркиевый Ужас"
     }
   }
 ]
