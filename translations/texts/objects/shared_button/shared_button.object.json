@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      ""
+    ],
     "Files": {
       "objects/hylotl/hylotlbutton/hylotlbutton.object": [
         "/glitchDescription/glitchEmotedText"
@@ -16,7 +18,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A button, begging to be pressed."
+      "Eng": "A button, begging to be pressed.",
+      "Rus": "Кнопка. Прям напрашивается, чтобы её нажали."
     }
   }
 ]
