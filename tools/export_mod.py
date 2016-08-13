@@ -12,6 +12,7 @@ translations_dir = "./translations"
 mod_dir = "./new_mod"
 
 checker = regex('([^\n\s\t\r]+|\r?[\n\s\t])')
+is_unprintable = regex('\^.+;')
 
 patchfiles = dict()
 
@@ -51,7 +52,7 @@ def check_translation_length(text):
   height = 15
   for word in words:
     wlen = len(word)
-    if wlen == 0:
+    if wlen == 0 or is_unprintable.match(word):
       continue
     if word == '\n':
       height -= 1
