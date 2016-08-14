@@ -130,8 +130,12 @@ for subdir, dirs, files in walk(translations_dir):
 
 for pfile, content in patchfiles.items():
   makedirs(dirname(pfile), exist_ok = True)
+  thecontent = content
+  if exists(pfile):
+    with open(pfile, 'r') as f:
+      thecontent += load(f)
   with open(pfile, "w") as f:
-    dump(content, f, ensure_ascii=False, indent = 2)
+    dump(thecontent, f, ensure_ascii=False, indent = 2)
 
 labelsTranslatedN = 0
 labelsTotalN = 0
