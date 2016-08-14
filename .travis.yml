@@ -9,6 +9,9 @@ script:
 before_deploy:
   sh ./tools/deploy.sh
 
+notifications:
+  slack: sbtrus:4Oz4NTrFDcOeFhG2WKGzYMc3
+
 deploy:
   provider: releases
   api_key: "$AUTH_TOKEN"
