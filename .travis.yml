@@ -1,0 +1,24 @@
+
+language: python
+python:
+  - "3.5"
+
+script:
+  python ./tools/export_mod.py
+
+before_deploy:
+  cd new_mod
+  zip ../Russian.zip -r .
+  cd ..
+  ./tools/assets_packer new_mod Russian.pak
+
+deploy:
+  provider: releases
+  api_key: "GITHUB OAUTH TOKEN"
+  file: 
+    - "./Russian.pak"
+    - "./Russian.zip"
+  skip_cleanup: true
+  on:
+    tags: true
+    branch: experimental
