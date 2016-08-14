@@ -1,7 +1,7 @@
 
 language: python
 python:
-  - "3.5"
+  -"3.5"
 
 script:
   python ./tools/export_mod.py
@@ -14,11 +14,10 @@ before_deploy:
 
 deploy:
   provider: releases
-  api_key: "GITHUB OAUTH TOKEN"
   file: 
-    - "./Russian.pak"
-    - "./Russian.zip"
+    -"Russian.pak"
+    -"Russian.zip"
   skip_cleanup: true
   on:
     tags: true
-    branch: experimental
+    branch: master
