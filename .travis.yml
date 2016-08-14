@@ -7,10 +7,7 @@ script:
   python ./tools/export_mod.py
 
 before_deploy:
-  cd new_mod
-  zip ../Russian.zip -r .
-  cd ..
-  ./tools/assets_packer new_mod Russian.pak
+  sh ./tools/deploy.sh
 
 deploy:
   provider: releases
