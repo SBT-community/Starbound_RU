@@ -5,7 +5,7 @@ python:
 
 env:
   global:
-  - TRAVIS_TAG="$(date -u '+%d.%m.%y')"
+  - TRAVIS_TAG="$(date -u '+%d.%m.%y-%H.%M')"
 
 script:
   python ./tools/export_mod.py
