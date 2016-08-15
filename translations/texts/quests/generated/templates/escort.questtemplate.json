@@ -32,7 +32,7 @@
     },
     "Texts": {
       "Eng": "<targetNpcType>'s escort",
-      "Rus": ""
+      "Rus": "Эскорт <targetNpcType>"
     }
   },
   {
@@ -152,7 +152,7 @@
     },
     "Texts": {
       "Eng": "My <friend> ^orange;<targetNpcType>^white; was meant to meet me so we could <activity1> <earlier>. <targetNpcType.pronoun.capitalSubject> probably got lost getting here - the last place I saw <targetNpcType.pronoun.object> was the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Could you go there and bring <targetNpcType.pronoun.object> back here to me^white;?",
-      "Rus": ""
+      "Rus": "Мой друг по имени <friend> ^orange;<targetNpcType>^white; должен был встретить меня для <activity1> <earlier>. <targetNpcType.pronoun.capitalSubject> наверное потерялся по пути - в последния раз когда я его видел <targetNpcType.pronoun.object> был у ^orange;<spawnPoint>^white; <spawnPoint.direction>. ^green;Можешь сходить туда и привести  <targetNpcType.pronoun.object> обратно^white;?"
     }
   },
   {
@@ -164,7 +164,7 @@
     },
     "Texts": {
       "Eng": "Not to worry - I'm sure <questGiver>'s friend will respawn somewhere safer.",
-      "Rus": ""
+      "Rus": "Не беспокойся, я уверен, что друг <questGiver> воскресится где-нибудь в безопасном месте."
     }
   },
   {
@@ -272,7 +272,7 @@
     },
     "Texts": {
       "Eng": "^cyan;Floran's friend <targetNpcType> hasss gone missing.",
-      "Rus": ""
+      "Rus": "^cyan;Друг Флорана по имени <targetNpcType> пропал."
     }
   },
   {
