@@ -355,13 +355,13 @@
       "arrivedhome.config.json": 54,
       "clues.config.json": 18,
       "colourful.config.json": 13,
-      "combat.config.json": 32,
-      "converse.config.json": 14,
+      "combat.config.json": 99,
+      "converse.config.json": 65,
       "crewmember.config.json": 40,
       "cultist.config.json": 25,
       "deadbeat.config.json": 22,
       "devoutavian.config.json": 131,
-      "eyeguard.config.json": 0,
+      "eyeguard.config.json": 26,
       "eyepatch.config.json": 15,
       "fenerox.config.json": 64,
       "flee.config.json": 43,
@@ -3390,20 +3390,20 @@
       "shared_apexshipwall.mat.json": 5,
       "shared_ash.mat.json": 5,
       "shared_asphalt.mat.json": 5,
-      "shared_aztec.mat.json": 4,
-      "shared_aztectech.mat.json": 4,
-      "shared_bamboo.mat.json": 4,
-      "shared_bars.mat.json": 3,
+      "shared_aztec.mat.json": 5,
+      "shared_aztectech.mat.json": 5,
+      "shared_bamboo.mat.json": 5,
+      "shared_bars.mat.json": 4,
       "shared_baseboard.mat.json": 5,
-      "shared_biorock.mat.json": 2,
-      "shared_biorock2.mat.json": 4,
+      "shared_biorock.mat.json": 4,
+      "shared_biorock2.mat.json": 5,
       "shared_blackglass.mat.json": 5,
-      "shared_blaststone.mat.json": 3,
+      "shared_blaststone.mat.json": 4,
       "shared_blueneonsymbol.json": 5,
       "shared_bonematerial.mat.json": 4,
       "shared_bookpiles.mat.json": 5,
-      "shared_brainsblock.mat.json": 4,
-      "shared_brick.mat.json": 5,
+      "shared_brainsblock.mat.json": 5,
+      "shared_brick.mat.json": 6,
       "shared_cabinroofing.mat.json": 5,
       "shared_cactiblock.mat.json": 5,
       "shared_candyblock.mat.json": 5,
@@ -3414,38 +3414,38 @@
       "shared_clay.mat.json": 5,
       "shared_cloudblock.mat.json": 5,
       "shared_cobblestone.mat.json": 5,
-      "shared_cobblestonebrick.mat.json": 4,
+      "shared_cobblestonebrick.mat.json": 5,
       "shared_coconutblock.mat.json": 5,
       "shared_composite01.mat.json": 5,
-      "shared_concrete.mat.json": 4,
+      "shared_concrete.mat.json": 5,
       "shared_copperblock.mat.json": 5,
       "shared_copperfence.mat.json": 5,
-      "shared_copperroofing.mat.json": 4,
+      "shared_copperroofing.mat.json": 5,
       "shared_copperwindow.mat.json": 5,
       "shared_corruptdirt.mat.json": 5,
-      "shared_crosshatch.mat.json": 4,
+      "shared_crosshatch.mat.json": 5,
       "shared_crystalblock.mat.json": 5,
-      "shared_darksmoothstone.mat.json": 4,
-      "shared_darkwood.mat.json": 8,
+      "shared_darksmoothstone.mat.json": 5,
+      "shared_darkwood.mat.json": 9,
       "shared_dermisblock.mat.json": 5,
-      "shared_direstone.mat.json": 4,
-      "shared_dirt.mat.json": 4,
+      "shared_direstone.mat.json": 5,
+      "shared_dirt.mat.json": 5,
       "shared_drydirt.mat.json": 5,
-      "shared_drysand.mat.json": 4,
+      "shared_drysand.mat.json": 5,
       "shared_eyepiles.mat.json": 5,
       "shared_fadedblocks.mat.json": 4,
       "shared_fence.mat.json": 5,
       "shared_fleshblock.mat.json": 5,
       "shared_floweryblock.mat.json": 5,
-      "shared_frozendirt.mat.json": 4,
+      "shared_frozendirt.mat.json": 5,
       "shared_frozenwater.mat.json": 5,
       "shared_fullwood1.mat.json": 5,
       "shared_fullwood2.mat.json": 4,
       "shared_geodeblock.mat.json": 5,
       "shared_geodestone.mat.json": 5,
       "shared_girder.mat.json": 5,
-      "shared_glass.mat.json": 3,
-      "shared_goldblock.mat.json": 4,
+      "shared_glass.mat.json": 4,
+      "shared_goldblock.mat.json": 5,
       "shared_grassy.mat.json": 5,
       "shared_grassyrock.mat.json": 5,
       "shared_gravel.mat.json": 5,
@@ -3456,7 +3456,7 @@
       "shared_hive.mat.json": 4,
       "shared_homewalls1.mat.json": 5,
       "shared_ice.mat.json": 4,
-      "shared_iceblock.mat.json": 4,
+      "shared_iceblock.mat.json": 5,
       "shared_ironblock.mat.json": 5,
       "shared_jellyblock.mat.json": 5,
       "shared_junk.mat.json": 4,
@@ -3469,22 +3469,22 @@
       "shared_magmarock.mat.json": 5,
       "shared_matterblock.mat.json": 3,
       "shared_mediummetal.mat.json": 5,
-      "shared_metallic.mat.json": 4,
+      "shared_metallic.mat.json": 5,
       "shared_meteoriterock.mat.json": 5,
-      "shared_mirror.mat.json": 2,
+      "shared_mirror.mat.json": 4,
       "shared_moondust.mat.json": 5,
       "shared_moonrock.mat.json": 5,
       "shared_moonstone.mat.json": 5,
       "shared_mossypackeddirt.mat.json": 5,
       "shared_mud.mat.json": 5,
-      "shared_neonblock.mat.json": 4,
-      "shared_obsidian.mat.json": 2,
+      "shared_neonblock.mat.json": 5,
+      "shared_obsidian.mat.json": 5,
       "shared_ornateflooring.mat.json": 5,
       "shared_ornateroofing.mat.json": 5,
       "shared_ornatetiles.mat.json": 5,
       "shared_ornatewall.mat.json": 4,
       "shared_ornatewood.mat.json": 5,
-      "shared_outpost.mat.json": 1,
+      "shared_outpost.mat.json": 5,
       "shared_outpostsupport.mat.json": 2,
       "shared_outpostwall.json": 2,
       "shared_outpostwall2.mat.json": 2,
@@ -4410,13 +4410,13 @@
           "ancienthiddenplatform.object.json": 2
         },
         "ancientlight": {
-          "ancientlight.object.json": 0
+          "ancientlight.object.json": 1
         },
         "ancientlightplatform": {
-          "ancientlightplatform.object.json": 0
+          "ancientlightplatform.object.json": 7
         },
         "ancientlightround": {
-          "ancientlightround.object.json": 0
+          "ancientlightround.object.json": 2
         },
         "ancientpillar": {
           "ancientpillar.object.json": 2
@@ -4466,7 +4466,7 @@
           "lightstreaks.object.json": 0
         },
         "monolithgate": {
-          "monolithgate.object.json": 0
+          "monolithgate.object.json": 8
         },
         "powerbooster": {
           "powerbooster.object.json": 0
@@ -6935,13 +6935,13 @@
           "3dprinter.object.json": 9
         },
         "campfire": {
-          "campfire.object.json": 1
+          "campfire.object.json": 9
         },
         "capturestation": {
-          "capturestation.object.json": 6
+          "capturestation.object.json": 11
         },
         "fossilstation": {
-          "fossilstation.object.json": 0
+          "fossilstation.object.json": 11
         },
         "ironanvil": {
           "ironanvil.object.json": 3
@@ -6993,15 +6993,15 @@
             "craftingmedical.object.json": 6
           },
           "craftingwheel": {
-            "craftingwheel.object.json": 0
+            "craftingwheel.object.json": 4
           },
           "inventorstable": {
-            "inventorstable.object.json": 12
+            "inventorstable.object.json": 14
           },
           "shared_e.object.json": 0
         },
         "wiringstation": {
-          "wiringstation.object.json": 0
+          "wiringstation.object.json": 2
         },
         "woodencookingtable": {
           "woodencookingtable.object.json": 2
@@ -7668,7 +7668,7 @@
           "copperbox1.object.json": 9
         },
         "copperceilinglight": {
-          "copperceilinglight.object.json": 0
+          "copperceilinglight.object.json": 2
         },
         "copperlantern": {
           "copperlantern.object.json": 0
@@ -7712,22 +7712,22 @@
           "fireflybush.object.json": 0
         },
         "flagapex": {
-          "flagapex.object.json": 0
+          "flagapex.object.json": 1
         },
         "flagavian": {
-          "flagavian.object.json": 0
+          "flagavian.object.json": 8
         },
         "flagfloran": {
-          "flagfloran.object.json": 0
+          "flagfloran.object.json": 8
         },
         "flagglitch": {
-          "flagglitch.object.json": 0
+          "flagglitch.object.json": 8
         },
         "flaghuman": {
-          "flaghuman.object.json": 4
+          "flaghuman.object.json": 8
         },
         "flaghylotl": {
-          "flaghylotl.object.json": 0
+          "flaghylotl.object.json": 8
         },
         "flagnovakid": {
           "flagnovakid.object.json": 0
@@ -7763,7 +7763,7 @@
           "futurelight.object.json": 0
         },
         "gunchest": {
-          "gunchest.object.json": 0
+          "gunchest.object.json": 3
         },
         "hazardmicroscope": {
           "hazardmicroscope.object.json": 0
@@ -7809,7 +7809,7 @@
           "loudspeaker.object.json": 0
         },
         "mannequin": {
-          "mannequin.object.json": 0
+          "mannequin.object.json": 2
         },
         "markergroundplaque": {
           "markergroundplaque.object.json": 0
@@ -7898,7 +7898,7 @@
           "sapling.object.json": 1
         },
         "scarecrow": {
-          "scarecrow.object.json": 0
+          "scarecrow.object.json": 4
         },
         "screenplanet": {
           "screenplanet.object.json": 0
@@ -7914,7 +7914,7 @@
           "shared_cardboard.json": 0
         },
         "shared_chest": {
-          "shared_chest.object.json": 0
+          "shared_chest.object.json": 1
         },
         "shared_claypot": {
           "shared_claypot.json": 0
@@ -9202,7 +9202,7 @@
           "airlockhatch.object.json": 7
         },
         "arcadeblue": {
-          "arcadeblue.object.json": 0
+          "arcadeblue.object.json": 9
         },
         "arcadedance": {
           "arcadedance.object.json": 0
@@ -10049,34 +10049,34 @@
           "infinityexpress.object.json": 0
         },
         "number0": {
-          "number0.object.json": 0
+          "number0.object.json": 6
         },
         "number1": {
-          "number1.object.json": 0
+          "number1.object.json": 5
         },
         "number2": {
-          "number2.object.json": 0
+          "number2.object.json": 6
         },
         "number3": {
-          "number3.object.json": 0
+          "number3.object.json": 5
         },
         "number4": {
-          "number4.object.json": 0
+          "number4.object.json": 4
         },
         "number5": {
-          "number5.object.json": 0
+          "number5.object.json": 5
         },
         "number6": {
-          "number6.object.json": 0
+          "number6.object.json": 5
         },
         "number7": {
-          "number7.object.json": 0
+          "number7.object.json": 5
         },
         "number8": {
-          "number8.object.json": 0
+          "number8.object.json": 5
         },
         "number9": {
-          "number9.object.json": 0
+          "number9.object.json": 5
         },
         "outpostairlock": {
           "outpostairlock.object.json": 0
@@ -10088,7 +10088,7 @@
           "outpostbarstool.object.json": 0
         },
         "outpostbed": {
-          "outpostbed.object.json": 3
+          "outpostbed.object.json": 9
         },
         "outpostbutton": {
           "outpostbutton.object.json": 0
@@ -10265,7 +10265,7 @@
           "ursaminer.object.json": 0
         },
         "watercooler": {
-          "watercooler.object.json": 4
+          "watercooler.object.json": 7
         }
       },
       "protectorate": {
@@ -10565,9 +10565,9 @@
       },
       "shared_espike.json": 0,
       "shared_fountain": {
-        "shared_fountain.object.json": 0
+        "shared_fountain.object.json": 4
       },
-      "shared_fountain.json": 0,
+      "shared_fountain.json": 1,
       "shared_fridge": {
         "shared_.object.json": 3
       },
@@ -10585,15 +10585,15 @@
       },
       "shared_lamp.json": 1,
       "shared_lamppost1": {
-        "shared_lamppost1.object.json": 0
+        "shared_lamppost1.object.json": 1
       },
       "shared_landmine.json": 7,
       "shared_lavalamp.json": 7,
       "shared_lbutton": {
-        "shared_lbutton.object.json": 0
+        "shared_lbutton.object.json": 1
       },
       "shared_lclock": {
-        "shared_lclock.object.json": 0
+        "shared_lclock.object.json": 1
       },
       "shared_lehidden": {
         "shared_door.object.json": 0
@@ -10606,27 +10606,27 @@
       },
       "shared_light.json": 0,
       "shared_liquidsensor": {
-        "shared_liquidsensor.object.json": 0
+        "shared_liquidsensor.object.json": 2
       },
       "shared_ove.json": 0,
       "shared_piano.json": 1,
       "shared_plant": {
-        "shared_.object.json": 0
+        "shared_.object.json": 2
       },
       "shared_pressureplat": {
-        "shared_pressureplat.json": 0
+        "shared_pressureplat.json": 2
       },
       "shared_pressureplate": {
-        "shared_pressureplate.object.json": 0
+        "shared_pressureplate.object.json": 2
       },
       "shared_proximity": {
-        "shared_sensor.object.json": 0
+        "shared_sensor.object.json": 5
       },
       "shared_radar": {
         "shared_.object.json": 0
       },
       "shared_register.json": 7,
-      "shared_root.json": 0,
+      "shared_root.json": 1,
       "shared_sawblade": {
         "shared_sawblade.json": 3
       },
@@ -10663,7 +10663,7 @@
       },
       "shared_table.json": 1,
       "shared_tech": {
-        "shared_console.json": 0
+        "shared_console.json": 3
       },
       "shared_teleporter": {
         "shared_teleporter.json": 1
@@ -11632,7 +11632,7 @@
         }
       }
     },
-    "objects.json": 12,
+    "objects.json": 23,
     "particles": {
       "0.particle.json": 0,
       "1.particle.json": 0,
@@ -12531,7 +12531,7 @@
         "wreckplatform.material.json": 1
       }
     },
-    "universe_server.config.json": 1,
+    "universe_server.config.json": 2,
     "wide_spread_fields.json": 48
   }
 }
