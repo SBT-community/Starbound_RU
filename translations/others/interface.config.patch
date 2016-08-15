@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/font/baseSize",
+    "value": 7
+  },
+  {
+    "op": "replace",
+    "path": "/font/itemSize",
+    "value": 7
+  },
+  {
+    "op": "replace",
+    "path": "/font/nameSize",
+    "value": 7
+  },
+  {
+    "op": "replace",
+    "path": "/font/buttonSize",
+    "value": 7
+  }
+]
