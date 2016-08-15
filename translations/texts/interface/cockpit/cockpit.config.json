@@ -244,6 +244,28 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/displayWeathers/acidrain/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Acid Rain"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/8/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aegisalt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/planetTypeToDescription/ocean/1"
       ]
     },
@@ -268,6 +290,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/displayWeathers/ash/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ashfall"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/guiConfig/showBookmarkList/caption"
       ]
     },
@@ -280,12 +313,56 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/displayWeathers/snowstorm/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blizzards"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/worldTypeToDescription/gasgiant/2"
       ]
     },
     "Texts": {
       "Eng": "Can't land. The crushing pressure and tearing winds of this gas giant would kill you instantly.",
       "Rus": "Посадка невозможна. Чудовищное давление и ураганные ветра этого газового гиганта мгновенно уничтожат вас."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/ember/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cinder Showers"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/0/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Copper"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/crystalrain/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crystal Rain"
     }
   },
   {
@@ -328,6 +405,39 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/displayWeathers/drizzle/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drizzle"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/6/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Durasteel"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/duststorm/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dust Storms"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/threatLevelToText/4"
       ]
     },
@@ -352,6 +462,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/displayOres/7/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ferozium"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/starmapTypeDescription/redstar"
       ]
     },
@@ -370,6 +491,17 @@
     "Texts": {
       "Eng": "Floating desert islands pepper the surface of this ^#008aff;ocean^white; planet. An environment of tropical ambiance and aesthetic.",
       "Rus": "Пустынные острова среди ^#008aff;океана^white;. Среда по виду и проявлениям схожа с тропиками."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/fog/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fog"
     }
   },
   {
@@ -412,12 +544,56 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/displayOres/2/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gold"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/hailstones/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hail"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/icestorm/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ice Storms"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/threatLevelToText/5"
       ]
     },
     "Texts": {
       "Eng": "Inconceivable",
       "Rus": "Немыслимый"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/3/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Iron"
     }
   },
   {
@@ -436,6 +612,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/displayWeathers/largemeteor/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Large Meteorites"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/planetTypeToDescription/forest/1"
       ]
     },
@@ -448,12 +635,45 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/displayWeathers/lightash/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light Ashfall"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/threatLevelToText/0"
       ]
     },
     "Texts": {
       "Eng": "Low",
       "Rus": "Низкий"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/glowingrain/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Luminous Rain"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/groundmist/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mist"
     }
   },
   {
@@ -478,6 +698,17 @@
     "Texts": {
       "Eng": "Mysterious Star",
       "Rus": "Таинственная звезда"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/spacejunk/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Orbital Debris"
     }
   },
   {
@@ -514,6 +745,17 @@
     "Texts": {
       "Eng": "Radioactive Star",
       "Rus": "Радиоактивная звезда"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/rain/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rain"
     }
   },
   {
@@ -592,12 +834,67 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/displayWeathers/sandstorm/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sandstorms"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/planetTypeToDescription/midnight/2"
       ]
     },
     "Texts": {
       "Eng": "Scans show that the surface is ^#e11212;dark^white;. In fact, scans show little else on account of all the darkness. However, I surmise that the surface is ^red;dangerously cold^white;.",
       "Rus": "По данным сканера, поверхность ^#e11212;темна^white;. Кроме этой темноты сканер почти ничего не считывает. Но я предполагаю, что там ^red;чрезвычайно холодно^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/meteorshower/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Small Meteorites"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/10/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Solarium"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/spacedustshower/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stardust"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/storm/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Storms"
     }
   },
   {
@@ -988,6 +1285,28 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/displayOres/5/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Titanium"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/4/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tungsten"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/threatLevelToText/9"
       ]
     },
@@ -1012,12 +1331,34 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/displayOres/9/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Violium"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/weatherText/text"
       ]
     },
     "Texts": {
       "Eng": "Weather",
       "Rus": "Погода"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/windstorm/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Windstorms"
     }
   },
   {

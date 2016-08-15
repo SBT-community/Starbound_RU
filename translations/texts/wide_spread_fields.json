@@ -439,6 +439,21 @@
     }
   },
   {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/11/displayName"
+      ],
+      "items/generic/other/solidfuel.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crystal Erchius Fuel",
+      "Rus": "Кристаллы эркиевого топлива"
+    }
+  },
+  {
     "DeniedAlternatives": [
       "Не дай ему уйти!",
       "Не дай им уйти!"
@@ -877,6 +892,20 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/1/displayName"
+      ],
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Silver"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "biomes/underground_detached/old/slime/slime.biome": [
         "/friendlyName"
       ],
@@ -887,6 +916,29 @@
     "Texts": {
       "Eng": "Slime",
       "Rus": "Слизь"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Снежный"
+    ],
+    "Files": {
+      "biomes/surface/snow.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/snow/displayName"
+      ],
+      "items/materials/snow.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/snow.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Snow",
+      "Rus": "Снег"
     }
   },
   {
