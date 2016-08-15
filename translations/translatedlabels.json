@@ -358,7 +358,7 @@
       "combat.config.json": 99,
       "converse.config.json": 65,
       "crewmember.config.json": 40,
-      "cultist.config.json": 25,
+      "cultist.config.json": 31,
       "deadbeat.config.json": 22,
       "devoutavian.config.json": 131,
       "eyeguard.config.json": 26,
@@ -378,7 +378,7 @@
       "quest.config.json": 9,
       "rebel.config.json": 3,
       "scientist.config.json": 12,
-      "shared_.config.json": 89,
+      "shared_.config.json": 92,
       "shared_at.config.json": 1,
       "shared_merchant.config.json": 20,
       "shared_t.config.json": 1,
@@ -389,7 +389,7 @@
     "generic": {
       "shared_lightbulb.json": 1
     },
-    "glitchEmotes.json": 231,
+    "glitchEmotes.json": 244,
     "help.config.json": 14,
     "hunger.config.json": 15,
     "interface": {
@@ -412,7 +412,7 @@
         "shared_.config.json": 2
       },
       "cockpit": {
-        "cockpit.config.json": 93
+        "cockpit.config.json": 123
       },
       "confirmation": {
         "hiremercenaryconfirmation.config.json": 2,
@@ -425,7 +425,7 @@
         "teleportconfirmation.config.json": 15
       },
       "craftingtooltip": {
-        "craftingtooltip.config.json": 1
+        "craftingtooltip.config.json": 2
       },
       "easel": {
         "signdispenser.config.json": 2,
@@ -6969,10 +6969,10 @@
                 "acceleratoraddon.object.json": 6
               },
               "manipulatoraddon": {
-                "manipulatoraddon.object.json": 0
+                "manipulatoraddon.object.json": 6
               },
               "separatoraddon": {
-                "separatoraddon.object.json": 0
+                "separatoraddon.object.json": 7
               },
               "shared_atoraddon": {
                 "shared_atoraddon.object.json": 3
@@ -9971,7 +9971,7 @@
       "obstacles": {
         "arid": {
           "shared_ceilingspike": {
-            "shared_ceilingspike.json": 0
+            "shared_ceilingspike.json": 1
           },
           "shared_thorns": {
             "shared_.object.json": 0
@@ -10693,7 +10693,7 @@
         },
         "apexshipdoor": {
           "apexshipdoor.object.json": 1,
-          "apexshiphatch.object.json": 0
+          "apexshiphatch.object.json": 1
         },
         "apexshiplight": {
           "apexshiplight.object.json": 0,
@@ -10722,14 +10722,14 @@
             "shared_boosterflame.json": 8
           },
           "smallboosterflame": {
-            "smallboosterflame.object.json": 0
+            "smallboosterflame.object.json": 1
           }
         },
         "florancaptainschair": {
           "florancaptainschair.object.json": 0
         },
         "floranshipdoor": {
-          "floranshiphatch.object.json": 0
+          "floranshiphatch.object.json": 1
         },
         "floranshiplocker": {
           "floranshiplocker.object.json": 0
@@ -10744,7 +10744,7 @@
           "glitchcaptainschair.object.json": 0
         },
         "glitchshipdoor": {
-          "glitchshiphatch.object.json": 0
+          "glitchshiphatch.object.json": 1
         },
         "glitchshiplocker": {
           "glitchshiplocker.object.json": 0
@@ -10771,7 +10771,7 @@
           "hylotlcaptainschair.object.json": 0
         },
         "hylotlshipdoor": {
-          "hylotlshiphatch.object.json": 0
+          "hylotlshiphatch.object.json": 1
         },
         "hylotlshiplocker": {
           "hylotlshiplocker.object.json": 0
@@ -10786,8 +10786,8 @@
           "novakidcaptainschair.object.json": 0
         },
         "novakidshipdoor": {
-          "novakidshipdoor.object.json": 0,
-          "novakidshiphatch.object.json": 0
+          "novakidshipdoor.object.json": 1,
+          "novakidshiphatch.object.json": 1
         },
         "novakidshipdoorBroken": {
           "novakidshipdoorBroken.object.json": 0
@@ -10811,10 +10811,10 @@
           "shared_avianshipdoor.json": 1
         },
         "shared_captainschair": {
-          "shared_captainschair.object.json": 7
+          "shared_captainschair.object.json": 8
         },
         "shared_floranshipdoor": {
-          "shared_floranshipdoor.json": 0
+          "shared_floranshipdoor.json": 1
         },
         "shared_fuelhatch": {
           "shared_fuelhatch.object.json": 0
@@ -10831,12 +10831,12 @@
         "shared_shipdoor": {
           "shared_shipdoor.json": 1,
           "shared_shipdoor.object.json": 6,
-          "shared_shipdoorBroken.object.json": 2,
+          "shared_shipdoorBroken.object.json": 7,
           "shared_shiphatch.object.json": 8
         },
         "shared_shiplocker": {
-          "shared_shiplocker.json": 0,
-          "shared_shiplocker.object.json": 0
+          "shared_shiplocker.json": 3,
+          "shared_shiplocker.object.json": 6
         },
         "shared_shiplockerTier0": {
           "shared_shiplockerTier0.object.json": 0
@@ -10849,8 +10849,8 @@
           "shared_techstationTier0.object.json": 0
         },
         "shared_teleporter": {
-          "shared_teleporter.json": 0,
-          "shared_teleporter.object.json": 0
+          "shared_teleporter.json": 1,
+          "shared_teleporter.object.json": 7
         },
         "shared_teleporterTier0": {
           "shared_teleporterTier0.object.json": 0
@@ -11577,7 +11577,7 @@
           "wreckconsole3.object.json": 2
         },
         "wreckcrate1": {
-          "wreckcrate1.object.json": 5
+          "wreckcrate1.object.json": 9
         },
         "wreckdoor": {
           "wreckdoor.object.json": 4
@@ -11616,7 +11616,7 @@
           "wreckturbines.object.json": 0
         },
         "wrecktv": {
-          "wrecktv.object.json": 4
+          "wrecktv.object.json": 8
         },
         "wreckvat1": {
           "wreckvat1.object.json": 0
@@ -12108,7 +12108,7 @@
           "collect_gift.questtemplate.json": 0,
           "cooking.questtemplate.json": 12,
           "craft.questtemplate.json": 12,
-          "escort.questtemplate.json": 2,
+          "escort.questtemplate.json": 7,
           "escort_trade.questtemplate.json": 7,
           "extort.questtemplate.json": 0,
           "farming.questtemplate.json": 3,
@@ -12531,6 +12531,6 @@
       }
     },
     "universe_server.config.json": 2,
-    "wide_spread_fields.json": 50
+    "wide_spread_fields.json": 51
   }
 }
