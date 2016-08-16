@@ -224,7 +224,7 @@
     },
     "Texts": {
       "Eng": "Usage /entityeval <lua>. Evaluates given lua in the context of the closest scripted entity to the cursor. Only usable locally.",
-      "Rus": ""
+      "Rus": "Использование: /entityeval <lua>. Исполняет указанную программу на языке lua в контексте ближайшей к курсору заскриптованной сущности. Может использоваться только локально."
     }
   },
   {
