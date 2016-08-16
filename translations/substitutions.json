@@ -24505,6 +24505,11 @@
   "quests/story/hylotl_mission2.questtemplate": {
     "/scriptConfig/descriptions/turnIn": "texts/quests/story/shared__mission2.questtemplate.json"
   },
+  "radiomessages/missions.radiomessages": {
+    "/avianmission06/senderName": "texts/shared_age/shared_mission.json",
+    "/tentaclemission-bottom2/senderName": "texts/shared_age/shared_mission.json",
+    "/tentaclemission-destruction2/senderName": "texts/shared_age/shared_mission.json"
+  },
   "radiomessages/quests.radiomessages": {
     "/gaterepair-gateFound1b/senderName": "texts/wide_spread_fields.json",
     "/gaterepair-gateOpened2/senderName": "texts/wide_spread_fields.json"
@@ -24604,6 +24609,9 @@
     "/charGenTextLabels/7": "texts/species/shared_.species.json",
     "/charGenTextLabels/8": "texts/wide_spread_fields.json",
     "/charGenTextLabels/9": "texts/species/shared_.species.json"
+  },
+  "stagehands/mission/glitchmissionmanager.stagehand": {
+    "/radioMessages/reinforcements/2": "texts/shared_age/shared_mission.json"
   },
   "stats/effects/beamburning/beamburning.statuseffect": {
     "/label": "texts/stats/effects/shared_burning/shared_burning.statuseffect.json"
