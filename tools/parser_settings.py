@@ -63,6 +63,7 @@ foi = {
   ".particle": [],
   ".damage": [],
   ".statuseffect": [],
+  ".stagehand": ["^radioMessages/[^/]+/(0|2)$"],
   ".material": [],
   ".matmod": [],
   ".npctype": ["^scriptConfig/crew/role/(name|field)$", "^scriptConfig/crew/ranks/[0-9]+$"],

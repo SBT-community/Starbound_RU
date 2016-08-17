@@ -44,7 +44,7 @@
     },
     "Texts": {
       "Eng": "Usage /admin. Enables or disables admin mode, which enables all crafting recipes, prevents damage or energy loss, and allows access to admin-only commands.",
-      "Rus": "Использование команды /admin. Вы можете включать или отключать режим администратора, который открывает все рецепты крафта, убирает получаемый урон и потерю энергии, также обеспечивает доступ к командам администратора"
+      "Rus": "Команда \"/admin\". Включает или отключает режим администратора, который открывает все рецепты, убирает получаемый урон и потерю энергии. Также обеспечивает доступ к командам администратора."
     }
   },
   {
@@ -56,7 +56,7 @@
     },
     "Texts": {
       "Eng": "Usage /ban playerSpecifier [reason] [kind] [timeInSeconds]. Kick and ban the specified player and send the reason to the player. If no reason is specified then the player's server nickname is used as the reason. Kind is specified as \"uuid\" or \"ip\" or \"both\" and defaults to \"both\". timeInSeconds defaults to forever. Bans that have a specified duration are not persistent. If you shut down the server or reload configuration, all of your temporarily banned users will be unbanned immediately.",
-      "Rus": "Использование команды /ban playerSpecifier [reason] [kind] [timeInSeconds]. Кикайте и баньте указанного игрока и отправляйте указанную причину игроку. Если причина не указана, то используется ник игрока на сервере в качестве причины. Kind указывается как \"uuid\", \"ip\" или же \"both\". timeInSeconds по умолчанию стоит на \"вечно\". Баны с указанной длительностью не постоянны. Если вы отключите или перезагрузите сервер, все временно забаненные игроки будут разбанены незамедлительно."
+      "Rus": "Команда \"/ban ник_игрока [причина] [тип] [время_в_секундах]\". Отключает и блокирует указанного игрока, отправляя указанную причину игроку. Если причина не указана, то используется ник игрока на сервере в качестве причины. Тип указывается как \"uuid\" (по id), \"ip\"(по ip) или же \"both\"(оба варианта). Время в секундах по умолчанию стоит как \"вечно\". Блокировки с указанной длительностью не постоянны. Если отключить или перезагрузить сервер, все временно заблокированные игроки будут разблокированы незамедлительно."
     }
   },
   {
@@ -68,7 +68,7 @@
     },
     "Texts": {
       "Eng": "Usage /boxes. Toggle the display of collision debugging polygons if debug mode is enabled.",
-      "Rus": "Использование команды /boxes. Включить или выключить отображения отладочных границ взаимодействия, если включен режим отладки."
+      "Rus": "Команда \"/boxes\". Включает или отключает отображения отладочных границ взаимодействия, если включен режим отладки."
     }
   },
   {
@@ -80,7 +80,7 @@
     },
     "Texts": {
       "Eng": "Usage /cinema cinematicPath. Plays the specified cinematic for testing.",
-      "Rus": "Использование: /cinema cinematicPath. Проигрывает указанную сцену в целях тестирования."
+      "Rus": "Команда \"/cinema путь_к_сцене\". Проигрывает указанную сцену в целях тестирования."
     }
   },
   {
@@ -92,7 +92,7 @@
     },
     "Texts": {
       "Eng": "Usage /clearboxes. Toggle whether or not to clear boxes displayed with /boxes every frame.  Useful for determining routes that enemies take, can get messy looking though.",
-      "Rus": ""
+      "Rus": "Команда \"/clearboxes\". Переключает очистку очертания после каждого кадра, отображаемые командой \"/boxes\". Полезно для определения маршрутов врагов, хотя может быть сложным для восприятия."
     }
   },
   {
@@ -104,7 +104,7 @@
     },
     "Texts": {
       "Eng": "Usage /clearcinematics. Resets all history of played unique cinematics, allowing the player to see these cinematics again.",
-      "Rus": ""
+      "Rus": "Команда \"/clearcinematics\". Сбрасывает всю историю уникальных проигранных сцен, позволяя игроку увидеть их вновь."
     }
   },
   {
@@ -116,7 +116,7 @@
     },
     "Texts": {
       "Eng": "Usage /clearradiomessages. Resets all history of received unique radio messages, allowing the player to see these messages again.",
-      "Rus": "Команда /clearradiomessages. Сбрасывает все полученные радиосообщения, что позволит игроку увидеть эти сообщения снова."
+      "Rus": "Команда \"/clearradiomessages\". Сбрасывает все полученные радиосообщения, что позволит игроку увидеть эти сообщения снова."
     }
   },
   {
@@ -128,7 +128,7 @@
     },
     "Texts": {
       "Eng": "Usage /clearscannedobjects. Resets the player's record of previously scanned objects. Will not reset quest progress for object scanning quests.",
-      "Rus": ""
+      "Rus": "Команда \"/clearscannedobjects\". Сбрасывает описание всех просканированных раннее объектов. Не сбрасывает прогресс заданий, заключающихся в сканировании объектов."
     }
   },
   {
@@ -152,7 +152,7 @@
     },
     "Texts": {
       "Eng": "Usage /completequest questId. Force completion of a currently active quest with the given quest ID (usually the quest template ID).",
-      "Rus": ""
+      "Rus": "Команда \"/completequest ID_задания\". Принудительное завершение текущего задания с полученным ID."
     }
   },
   {
@@ -164,7 +164,7 @@
     },
     "Texts": {
       "Eng": "Usage /deaths. Displays the total death count of the current character.",
-      "Rus": "Команда /deaths. Отображает количество смертей текущего персонажа."
+      "Rus": "Команда \"/deaths\". Отображает количество смертей текущего персонажа."
     }
   },
   {
@@ -176,7 +176,7 @@
     },
     "Texts": {
       "Eng": "Usage /debug. Enable debugging mode.",
-      "Rus": "Команда /debug. Включить режим отладки."
+      "Rus": "Команда \"/debug\". Включает режим отладки."
     }
   },
   {
@@ -188,7 +188,7 @@
     },
     "Texts": {
       "Eng": "Usage /disablespawning. Disable automatic monster spawning on the current world.",
-      "Rus": "Команда /disablespawning. Отключает автоматическое появление монстров в текущем мире."
+      "Rus": "Команда \"/disablespawning\". Отключает автоматическое появление монстров в текущем мире."
     }
   },
   {
@@ -200,7 +200,7 @@
     },
     "Texts": {
       "Eng": "Usage /enablespawning. Enable automatic monster spawning on the current world.",
-      "Rus": "Команда /enablespawning. Включает автоматическое появление монстров в текущем мире."
+      "Rus": "Команда \"/enablespawning\". Включает автоматическое появление монстров в текущем мире."
     }
   },
   {
@@ -212,7 +212,7 @@
     },
     "Texts": {
       "Eng": "Usage /enabletech techName. Unlocks the specified tech for use.",
-      "Rus": "Команда /enabletech techName. Открывает указанную технологию."
+      "Rus": "Команда \"/enabletech название_технологии\". Открывает указанную технологию."
     }
   },
   {
@@ -224,7 +224,7 @@
     },
     "Texts": {
       "Eng": "Usage /entityeval <lua>. Evaluates given lua in the context of the closest scripted entity to the cursor. Only usable locally.",
-      "Rus": ""
+      "Rus": "Команда \"/entityeval <lua>\". Выполняет указанную команду на языке Lua в контексте ближайшей к курсору заскриптованной сущности. Может использоваться только локально."
     }
   },
   {
@@ -236,7 +236,7 @@
     },
     "Texts": {
       "Eng": "Usage /eval <lua>. Evaluates given lua in script processor context. Only usable locally.",
-      "Rus": ""
+      "Rus": "Команда \"/eval <lua>\". Выполняет указанную команду на языке Lua в скриптовом процессоре. Может использоваться только локально."
     }
   },
   {
@@ -248,7 +248,7 @@
     },
     "Texts": {
       "Eng": "Usage /failquest questId. Force failure of a currently active quest with the given quest ID (usually the quest template ID).",
-      "Rus": ""
+      "Rus": "Команда \"/failquest ID_задания\". Принудительный провал текущего задания с полученным ID."
     }
   },
   {
@@ -260,7 +260,7 @@
     },
     "Texts": {
       "Eng": "Usage /fixedcamera. Toggle locking the camera's position; camera will not scroll. Sectors may not load or behave correctly when the camera is distant from the player's position.",
-      "Rus": ""
+      "Rus": "Команда \"/fixedcamera\". Включает или выключает блокировку положения камеры. Камера не сможет менять позицию. Невидимые сектора могут не подгружаться или вести себя не правильно, если камера отдалена от позиции игрока."
     }
   },
   {
@@ -272,7 +272,7 @@
     },
     "Texts": {
       "Eng": "Usage /fullbright. Disable the lighting engine and show everything.",
-      "Rus": ""
+      "Rus": "Команда \"/fullbright\". Включает или отключает возможно видеть всё (сквозь стены) без затемнения."
     }
   },
   {
@@ -284,7 +284,7 @@
     },
     "Texts": {
       "Eng": "Usage /giveessentialitem item slotName. Sets the specified essential slot to the specified item, overwriting the existing contents. Valid slot names are: beamaxe, wiretool, painttool, inspectiontool.",
-      "Rus": ""
+      "Rus": "Команда \"/giveessentialitem предмет слот\". Устанавливает указанный предмет в указанный слот, перезаписывая текущий контент. Доступные слоты: beamaxe (манипулятор материи), wiretool (режим проводки), painttool (режим рисования), inspectiontool (режим сканирования)."
     }
   },
   {
@@ -296,7 +296,7 @@
     },
     "Texts": {
       "Eng": "Usage /gravity. Display the gravity at the player's position.",
-      "Rus": ""
+      "Rus": "Команда \" /gravity\". Показывает уровень гравитации вокруг игрока."
     }
   },
   {
@@ -307,7 +307,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /kick playerSpecifier [reason]. Kick the specified player and send the reason to the player. If no reason is specified then the player's server nickname is used as the reason."
+      "Eng": "Usage /kick playerSpecifier [reason]. Kick the specified player and send the reason to the player. If no reason is specified then the player's server nickname is used as the reason.",
+      "Rus": "Команда \"/kick ник_игрока [причина]\". Отключает указанного игрока и показывает ему причину. Если причина не указана, то игрок увидит свой ник как причину."
     }
   },
   {
@@ -318,7 +319,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /list. List all clients connected to the server. Format is $clientId : serverNickname : $$playerUuid. If the serverNickname contains unprintable characters the unicode escape sequence for those characters will be displayed instead."
+      "Eng": "Usage /list. List all clients connected to the server. Format is $clientId : serverNickname : $$playerUuid. If the serverNickname contains unprintable characters the unicode escape sequence for those characters will be displayed instead.",
+      "Rus": "Команда \"/list\". Выводит список подключенных  игроков к серверу. Формат - $ID_клиента : ник_ игрока : $$UUID_игрока. Если ник игрока содержит недоступные для отображения символы, они будут заменены на коды символов в стандарте Юникод."
     }
   },
   {
@@ -329,7 +331,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /maketechavailable techName. Makes the specified tech visible and available for purchase."
+      "Eng": "Usage /maketechavailable techName. Makes the specified tech visible and available for purchase.",
+      "Rus": "Команда \"/maketechavailable название_технологии\". Делает указанную технологию возможной для покупки."
     }
   },
   {
@@ -340,7 +343,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /naked. Remove all gear. Useful in macros to give a character new gear replacing the existing gear, or you know, for fun."
+      "Eng": "Usage /naked. Remove all gear. Useful in macros to give a character new gear replacing the existing gear, or you know, for fun.",
+      "Rus": "Команда \"/naked\". Снимает с персонажа все снаряжение. Полезна в написании макросов, чтобы снять текущее снаряжение и надеть новое. Ну, или чтобы повеселиться..."
     }
   },
   {
@@ -351,7 +355,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /placedungeon dungeonname [position]. Place the given dungeon into the world anchored at the specified position or the player's cursor position. Positions should be specified as x,y. Ignores anchoring rules. "
+      "Eng": "Usage /placedungeon dungeonname [position]. Place the given dungeon into the world anchored at the specified position or the player's cursor position. Positions should be specified as x,y. Ignores anchoring rules. ",
+      "Rus": "Команда \"/placedungeon название [позиция]\". Создает указанный данж в текущем месте курсора. Также позиция может быть задана вручную по осям X и Y. Игнорирует правила внедрения в мир."
     }
   },
   {
@@ -362,7 +367,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /played. Displays the total play time of the current character."
+      "Eng": "Usage /played. Displays the total play time of the current character.",
+      "Rus": "Команда \"/played\". Показывает общее время игры за текущего персонажа."
     }
   },
   {
@@ -373,7 +379,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /previewnewquest questTemplateId positionInSequence questGiverSpecies. Displays the New Quest interface for the given quest without altering the player's quest state. Valid positionInSequence options are: first, last, next, solo. May break if the quest doesn't have example data configured."
+      "Eng": "Usage /previewnewquest questTemplateId positionInSequence questGiverSpecies. Displays the New Quest interface for the given quest without altering the player's quest state. Valid positionInSequence options are: first, last, next, solo. May break if the quest doesn't have example data configured.",
+      "Rus": ""
     }
   },
   {
@@ -384,7 +391,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /previewquestcomplete questTemplateId positionInSequence questGiverSpecies. Displays the Quest Complete interface for the given quest without altering the player's quest state. Valid positionInSequence options are: first, last, next, solo. May break if the quest doesn't have example data configured."
+      "Eng": "Usage /previewquestcomplete questTemplateId positionInSequence questGiverSpecies. Displays the Quest Complete interface for the given quest without altering the player's quest state. Valid positionInSequence options are: first, last, next, solo. May break if the quest doesn't have example data configured.",
+      "Rus": ""
     }
   },
   {
@@ -395,7 +403,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /previewquestfailed questTemplateId positionInSequence questGiverSpecies. Displays the Quest Failed interface for the given quest without altering the player's quest state. Valid positionInSequence options are: first, last, next, solo. May break if the quest doesn't have example data configured."
+      "Eng": "Usage /previewquestfailed questTemplateId positionInSequence questGiverSpecies. Displays the Quest Failed interface for the given quest without altering the player's quest state. Valid positionInSequence options are: first, last, next, solo. May break if the quest doesn't have example data configured.",
+      "Rus": ""
     }
   },
   {
@@ -406,7 +415,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /pvp. Enable or disable your Player vs. Player mode."
+      "Eng": "Usage /pvp. Enable or disable your Player vs. Player mode.",
+      "Rus": "Команда \"/pvp\". Включает или отключает режим боя с другими игроками."
     }
   },
   {
@@ -418,7 +428,7 @@
     },
     "Texts": {
       "Eng": "Usage /radiomessage messageId. Triggers the player to receive the radio message with the specified id.",
-      "Rus": "Использование /radiomessage messageId. Вызывает получение игроком радио-сообщения с указанным идентификатором."
+      "Rus": "Команда \"/radiomessage ID_сообщения\". Вызывает получение игроком радио-сообщения с указанным идентификатором."
     }
   },
   {
@@ -429,7 +439,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /reload.  Reloads your local, client side assets. Will cause lag as they are reparsed."
+      "Eng": "Usage /reload.  Reloads your local, client side assets. Will cause lag as they are reparsed.",
+      "Rus": "Команда \"/reload\". Перезагружает локальные ресурсы на стороне клиента. Может вызвать зависания игры, так как ресурсы будут повторно обработаны."
     }
   },
   {
@@ -440,7 +451,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /resetachievements. Resets all of the player's achievement statistics."
+      "Eng": "Usage /resetachievements. Resets all of the player's achievement statistics.",
+      "Rus": "Команда \"/resetachievements\". Сбрасывает всю статистику по полученным достижениям игрока."
     }
   },
   {
@@ -451,7 +463,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /resetgravity. Undoes /setgravity. Begin using server gravity again."
+      "Eng": "Usage /resetgravity. Undoes /setgravity. Begin using server gravity again.",
+      "Rus": "Команда \"/resetgravity\". Отменяет команду \"/setgravity\". Восстанавливает стандартные (серверные) значения для гравитации."
     }
   },
   {
@@ -462,7 +475,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /resetuniverseflags. Clears all universe flags, but doesn't directly revert any effects triggered by those flags."
+      "Eng": "Usage /resetuniverseflags. Clears all universe flags, but doesn't directly revert any effects triggered by those flags.",
+      "Rus": "Команда \"/resetuniverseflags\". Убирает все флаги (значения), установленные для текущей вселенной, но не отменяет последствия, вызванные ими."
     }
   },
   {
@@ -473,7 +487,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /serverreload. Reloads the remote, server side assets. Will cause lag as they are reparsed."
+      "Eng": "Usage /serverreload. Reloads the remote, server side assets. Will cause lag as they are reparsed.",
+      "Rus": "Команда \"/serverreload\". Перезагружает ресурсы на стороне сервера. Может вызвать зависания игры, так как ресурсы будут повторно обработаны."
     }
   },
   {
@@ -484,7 +499,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /serverwhoami. Display your server username and admin status."
+      "Eng": "Usage /serverwhoami. Display your server username and admin status.",
+      "Rus": "Команда \"/serverwhoami\". Выводит название вашего сервера и статус администраторов."
     }
   },
   {
@@ -495,7 +511,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /setgravity level. Sets your local gravity to the level specified. Negative values will make you fall up but you can't jump from your head. This change is local only, and looks pretty heinous on a server, because it screws very heavily with delta prediction."
+      "Eng": "Usage /setgravity level. Sets your local gravity to the level specified. Negative values will make you fall up but you can't jump from your head. This change is local only, and looks pretty heinous on a server, because it screws very heavily with delta prediction.",
+      "Rus": "Команда \"/setgravity уровень\". Устанавливает уровень гравитации на указанный. Отрицательные значения заставят персонажа \"падать\" вверх, но невозможно будет использовать прыжок. Это изменение происходит только локально."
     }
   },
   {
@@ -506,7 +523,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /setspawnpoint. Sets the default spawn point on the current world to your character's position."
+      "Eng": "Usage /setspawnpoint. Sets the default spawn point on the current world to your character's position.",
+      "Rus": "Команда \"/setspawnpoint\". Устанавливает стандартное место появления на данной планете в текущую позицию персонажа."
     }
   },
   {
@@ -517,7 +535,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /settileprotection dungeonId isProtected. Set protection for blocks with the specified dungeonId to be true (unbreakable) or false (breakable)."
+      "Eng": "Usage /settileprotection dungeonId isProtected. Set protection for blocks with the specified dungeonId to be true (unbreakable) or false (breakable).",
+      "Rus": "Команда \"/settileprotection ID_данжа значение\". Устанавливает защиту блоков указанного данжа в соответствии со значением - true (неломающиеся) либо false (ломающиеся)."
     }
   },
   {
@@ -528,7 +547,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /setuniverseflag flagName. Sets the current universe flag, triggering any associated world changes."
+      "Eng": "Usage /setuniverseflag flagName. Sets the current universe flag, triggering any associated world changes.",
+      "Rus": "Команда \"/setuniverseflag название_флага\". Устанавливает флаг (значение) вселенной, вызывая все изменения, связанные с ним."
     }
   },
   {
@@ -539,7 +559,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /spawnitem itemName [count] [parameters]. Spawn the specified item at the mouse cursor. If the item does not exist it will spawn a perfectly generic item. Count should be an integer and defaults to 1. Parameters should be specified as a JSON object enclosed by single quotes."
+      "Eng": "Usage /spawnitem itemName [count] [parameters]. Spawn the specified item at the mouse cursor. If the item does not exist it will spawn a perfectly generic item. Count should be an integer and defaults to 1. Parameters should be specified as a JSON object enclosed by single quotes.",
+      "Rus": "Команда \"/spawnitem название [количество] [параметры]\". Создает указанный предмет в текущем месте курсора. Если указанный предмет не существует, то будет создан обычный идеальный предмет. Количество должно быть целым числом (по умолчанию равно 1). Параметры должны быть представлены в виде объекта JSON, заключенного в одинарные кавычки."
     }
   },
   {
@@ -550,7 +571,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /spawnliquid liquidName [quantity]. Spawn a quantity of the specified liquid at the mouse cursor. Quantity defaults to 1."
+      "Eng": "Usage /spawnliquid liquidName [quantity]. Spawn a quantity of the specified liquid at the mouse cursor. Quantity defaults to 1.",
+      "Rus": "Команда \"/spawnliquid название [количество]\". Создает определенное количество указанной жидкости в текущем месте курсора. По умолчанию количество равно 1."
     }
   },
   {
@@ -561,7 +583,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /spawnmonster type [level] [parameters]. Spawn a monster of the specified type at the mouse cursor. Level defaults to 1. Parameters should be specified as a JSON object enclosed by single quotes."
+      "Eng": "Usage /spawnmonster type [level] [parameters]. Spawn a monster of the specified type at the mouse cursor. Level defaults to 1. Parameters should be specified as a JSON object enclosed by single quotes.",
+      "Rus": "Команда \"/spawnmonster тип [уровень] [параметры]\". Создает монстра определенного типа и уровня в текущем месте курсора. По умолчанию уровень равен 1. Параметры должны быть представлены в виде объекта JSON, заключенного в одинарные кавычки."
     }
   },
   {
@@ -572,7 +595,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /spawnnpc species type [level] [seed] [overrides]. Spawn an NPC of the specified species and type at the mouse cursor. Level defaults to 1. Overrides should be specified as a JSON object enclosed by single quotes."
+      "Eng": "Usage /spawnnpc species type [level] [seed] [overrides]. Spawn an NPC of the specified species and type at the mouse cursor. Level defaults to 1. Overrides should be specified as a JSON object enclosed by single quotes.",
+      "Rus": "Команда \"/spawnnpc раса тип [уровень] [источник] [параметры]\". Создает неигрового персонажа в текущем месте курсора. По умолчанию уровень равен 1. Параметры должны быть представлены в виде объекта JSON, заключенного в одинарные кавычки."
     }
   },
   {
