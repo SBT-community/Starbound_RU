@@ -320,7 +320,7 @@
     },
     "Texts": {
       "Eng": "Usage /list. List all clients connected to the server. Format is $clientId : serverNickname : $$playerUuid. If the serverNickname contains unprintable characters the unicode escape sequence for those characters will be displayed instead.",
-      "Rus": ""
+      "Rus": "Команда \"/list\". Выводит список подключенных  игроков к серверу. Формат - $ID_клиента : ник_ игрока : $$UUID_игрока. Если ник игрока содержит недоступные для отображения символы, они будут заменены на коды символов в стандарте Юникод."
     }
   },
   {
@@ -332,7 +332,7 @@
     },
     "Texts": {
       "Eng": "Usage /maketechavailable techName. Makes the specified tech visible and available for purchase.",
-      "Rus": ""
+      "Rus": "Команда \"/maketechavailable название_технологии\". Делает указанную технологию возможной для покупки."
     }
   },
   {
@@ -344,7 +344,7 @@
     },
     "Texts": {
       "Eng": "Usage /naked. Remove all gear. Useful in macros to give a character new gear replacing the existing gear, or you know, for fun.",
-      "Rus": ""
+      "Rus": "Команда \"/naked\". Снимает с персонажа все снаряжение. Полезна в написании макросов, чтобы снять текущее снаряжение и надеть новое. Ну, или чтобы повеселиться..."
     }
   },
   {
@@ -356,7 +356,7 @@
     },
     "Texts": {
       "Eng": "Usage /placedungeon dungeonname [position]. Place the given dungeon into the world anchored at the specified position or the player's cursor position. Positions should be specified as x,y. Ignores anchoring rules. ",
-      "Rus": ""
+      "Rus": "Команда \"/placedungeon название [позиция]\". Создает указанный данж в текущем месте курсора. Также позиция может быть задана вручную по осям X и Y. Игнорирует правила внедрения в мир."
     }
   },
   {
@@ -368,7 +368,7 @@
     },
     "Texts": {
       "Eng": "Usage /played. Displays the total play time of the current character.",
-      "Rus": ""
+      "Rus": "Команда \"/played\". Показывает общее время игры за текущего персонажа."
     }
   },
   {
@@ -416,7 +416,7 @@
     },
     "Texts": {
       "Eng": "Usage /pvp. Enable or disable your Player vs. Player mode.",
-      "Rus": ""
+      "Rus": "Команда \"/pvp\". Включает или отключает режим боя с другими игроками."
     }
   },
   {
@@ -428,7 +428,7 @@
     },
     "Texts": {
       "Eng": "Usage /radiomessage messageId. Triggers the player to receive the radio message with the specified id.",
-      "Rus": "Использование /radiomessage messageId. Вызывает получение игроком радио-сообщения с указанным идентификатором."
+      "Rus": "Команда \"/radiomessage ID_сообщения\". Вызывает получение игроком радио-сообщения с указанным идентификатором."
     }
   },
   {
@@ -440,7 +440,7 @@
     },
     "Texts": {
       "Eng": "Usage /reload.  Reloads your local, client side assets. Will cause lag as they are reparsed.",
-      "Rus": ""
+      "Rus": "Команда \"/reload\". Перезагружает локальные ресурсы на стороне клиента. Может вызвать зависания игры, так как ресурсы будут повторно обработаны."
     }
   },
   {
@@ -452,7 +452,7 @@
     },
     "Texts": {
       "Eng": "Usage /resetachievements. Resets all of the player's achievement statistics.",
-      "Rus": ""
+      "Rus": "Команда \"/resetachievements\". Сбрасывает всю статистику по полученным достижениям игрока."
     }
   },
   {
@@ -464,7 +464,7 @@
     },
     "Texts": {
       "Eng": "Usage /resetgravity. Undoes /setgravity. Begin using server gravity again.",
-      "Rus": ""
+      "Rus": "Команда \"/resetgravity\". Отменяет команду \"/setgravity\". Восстанавливает стандартные (серверные) значения для гравитации."
     }
   },
   {
@@ -476,7 +476,7 @@
     },
     "Texts": {
       "Eng": "Usage /resetuniverseflags. Clears all universe flags, but doesn't directly revert any effects triggered by those flags.",
-      "Rus": ""
+      "Rus": "Команда \"/resetuniverseflags\". Убирает все флаги (значения), установленные для текущей вселенной, но не отменяет последствия, вызванные ими."
     }
   },
   {
@@ -488,7 +488,7 @@
     },
     "Texts": {
       "Eng": "Usage /serverreload. Reloads the remote, server side assets. Will cause lag as they are reparsed.",
-      "Rus": ""
+      "Rus": "Команда \"/serverreload\". Перезагружает ресурсы на стороне сервера. Может вызвать зависания игры, так как ресурсы будут повторно обработаны."
     }
   },
   {
@@ -500,7 +500,7 @@
     },
     "Texts": {
       "Eng": "Usage /serverwhoami. Display your server username and admin status.",
-      "Rus": ""
+      "Rus": "Команда \"/serverwhoami\". Выводит название вашего сервера и статус администраторов."
     }
   },
   {
@@ -512,7 +512,7 @@
     },
     "Texts": {
       "Eng": "Usage /setgravity level. Sets your local gravity to the level specified. Negative values will make you fall up but you can't jump from your head. This change is local only, and looks pretty heinous on a server, because it screws very heavily with delta prediction.",
-      "Rus": ""
+      "Rus": "Команда \"/setgravity уровень\". Устанавливает уровень гравитации на указанный. Отрицательные значения заставят персонажа \"падать\" вверх, но невозможно будет использовать прыжок. Это изменение происходит только локально."
     }
   },
   {
@@ -524,7 +524,7 @@
     },
     "Texts": {
       "Eng": "Usage /setspawnpoint. Sets the default spawn point on the current world to your character's position.",
-      "Rus": ""
+      "Rus": "Команда \"/setspawnpoint\". Устанавливает стандартное место появления на данной планете в текущую позицию персонажа."
     }
   },
   {
@@ -536,7 +536,7 @@
     },
     "Texts": {
       "Eng": "Usage /settileprotection dungeonId isProtected. Set protection for blocks with the specified dungeonId to be true (unbreakable) or false (breakable).",
-      "Rus": ""
+      "Rus": "Команда \"/settileprotection ID_данжа значение\". Устанавливает защиту блоков указанного данжа в соответствии со значением - true (неломающиеся) либо false (ломающиеся)."
     }
   },
   {
@@ -548,7 +548,7 @@
     },
     "Texts": {
       "Eng": "Usage /setuniverseflag flagName. Sets the current universe flag, triggering any associated world changes.",
-      "Rus": ""
+      "Rus": "Команда \"/setuniverseflag название_флага\". Устанавливает флаг (значение) вселенной, вызывая все изменения, связанные с ним."
     }
   },
   {
@@ -560,7 +560,7 @@
     },
     "Texts": {
       "Eng": "Usage /spawnitem itemName [count] [parameters]. Spawn the specified item at the mouse cursor. If the item does not exist it will spawn a perfectly generic item. Count should be an integer and defaults to 1. Parameters should be specified as a JSON object enclosed by single quotes.",
-      "Rus": ""
+      "Rus": "Команда \"/spawnitem название [количество] [параметры]\". Создает указанный предмет в текущем месте курсора. Если указанный предмет не существует, то будет создан обычный идеальный предмет. Количество должно быть целым числом (по умолчанию равно 1). Параметры должны быть представлены в виде объекта JSON, заключенного в одинарные кавычки."
     }
   },
   {
@@ -572,7 +572,7 @@
     },
     "Texts": {
       "Eng": "Usage /spawnliquid liquidName [quantity]. Spawn a quantity of the specified liquid at the mouse cursor. Quantity defaults to 1.",
-      "Rus": ""
+      "Rus": "Команда \"/spawnliquid название [количество]\". Создает определенное количество указанной жидкости в текущем месте курсора. По умолчанию количество равно 1."
     }
   },
   {
@@ -584,7 +584,7 @@
     },
     "Texts": {
       "Eng": "Usage /spawnmonster type [level] [parameters]. Spawn a monster of the specified type at the mouse cursor. Level defaults to 1. Parameters should be specified as a JSON object enclosed by single quotes.",
-      "Rus": ""
+      "Rus": "Команда \"/spawnmonster тип [уровень] [параметры]\". Создает монстра определенного типа и уровня в текущем месте курсора. По умолчанию уровень равен 1. Параметры должны быть представлены в виде объекта JSON, заключенного в одинарные кавычки."
     }
   },
   {
@@ -596,7 +596,7 @@
     },
     "Texts": {
       "Eng": "Usage /spawnnpc species type [level] [seed] [overrides]. Spawn an NPC of the specified species and type at the mouse cursor. Level defaults to 1. Overrides should be specified as a JSON object enclosed by single quotes.",
-      "Rus": ""
+      "Rus": "Команда \"/spawnnpc раса тип [уровень] [источник] [параметры]\". Создает неигрового персонажа в текущем месте курсора. По умолчанию уровень равен 1. Параметры должны быть представлены в виде объекта JSON, заключенного в одинарные кавычки."
     }
   },
   {
