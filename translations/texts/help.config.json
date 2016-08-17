@@ -56,7 +56,7 @@
     },
     "Texts": {
       "Eng": "Usage /ban playerSpecifier [reason] [kind] [timeInSeconds]. Kick and ban the specified player and send the reason to the player. If no reason is specified then the player's server nickname is used as the reason. Kind is specified as \"uuid\" or \"ip\" or \"both\" and defaults to \"both\". timeInSeconds defaults to forever. Bans that have a specified duration are not persistent. If you shut down the server or reload configuration, all of your temporarily banned users will be unbanned immediately.",
-      "Rus": "Команда \"/ban Ник_игрока [причина] [тип] [время_в_секундах]\". Отключает и блокирует указанного игрока, отправляя указанную причину игроку. Если причина не указана, то используется ник игрока на сервере в качестве причины. Тип указывается как \"uuid\" (по id), \"ip\"(по ip) или же \"both\"(оба варианта). Время в секундах по умолчанию стоит как \"вечно\". Блокировки с указанной длительностью не постоянны. Если отключить или перезагрузить сервер, все временно заблокированные игроки будут разблокированы незамедлительно."
+      "Rus": "Команда \"/ban ник_игрока [причина] [тип] [время_в_секундах]\". Отключает и блокирует указанного игрока, отправляя указанную причину игроку. Если причина не указана, то используется ник игрока на сервере в качестве причины. Тип указывается как \"uuid\" (по id), \"ip\"(по ip) или же \"both\"(оба варианта). Время в секундах по умолчанию стоит как \"вечно\". Блокировки с указанной длительностью не постоянны. Если отключить или перезагрузить сервер, все временно заблокированные игроки будут разблокированы незамедлительно."
     }
   },
   {
@@ -92,7 +92,7 @@
     },
     "Texts": {
       "Eng": "Usage /clearboxes. Toggle whether or not to clear boxes displayed with /boxes every frame.  Useful for determining routes that enemies take, can get messy looking though.",
-      "Rus": "Команда \"/clearboxes\". Переключает очищение очертания после каждого кадра, отображаемые командой \"/boxes\". Полезно для определения маршрутов врагов, хотя может быть сложным для восприятия."
+      "Rus": "Команда \"/clearboxes\". Переключает очистку очертания после каждого кадра, отображаемые командой \"/boxes\". Полезно для определения маршрутов врагов, хотя может быть сложным для восприятия."
     }
   },
   {
@@ -307,7 +307,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /kick playerSpecifier [reason]. Kick the specified player and send the reason to the player. If no reason is specified then the player's server nickname is used as the reason."
+      "Eng": "Usage /kick playerSpecifier [reason]. Kick the specified player and send the reason to the player. If no reason is specified then the player's server nickname is used as the reason.",
+      "Rus": "Команда \"/kick ник_игрока [причина]\". Отключает указанного игрока и показывает ему причину. Если причина не указана, то игрок увидит свой ник как причину."
     }
   },
   {
@@ -318,7 +319,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /list. List all clients connected to the server. Format is $clientId : serverNickname : $$playerUuid. If the serverNickname contains unprintable characters the unicode escape sequence for those characters will be displayed instead."
+      "Eng": "Usage /list. List all clients connected to the server. Format is $clientId : serverNickname : $$playerUuid. If the serverNickname contains unprintable characters the unicode escape sequence for those characters will be displayed instead.",
+      "Rus": ""
     }
   },
   {
@@ -329,7 +331,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /maketechavailable techName. Makes the specified tech visible and available for purchase."
+      "Eng": "Usage /maketechavailable techName. Makes the specified tech visible and available for purchase.",
+      "Rus": ""
     }
   },
   {
@@ -340,7 +343,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /naked. Remove all gear. Useful in macros to give a character new gear replacing the existing gear, or you know, for fun."
+      "Eng": "Usage /naked. Remove all gear. Useful in macros to give a character new gear replacing the existing gear, or you know, for fun.",
+      "Rus": ""
     }
   },
   {
@@ -351,7 +355,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /placedungeon dungeonname [position]. Place the given dungeon into the world anchored at the specified position or the player's cursor position. Positions should be specified as x,y. Ignores anchoring rules. "
+      "Eng": "Usage /placedungeon dungeonname [position]. Place the given dungeon into the world anchored at the specified position or the player's cursor position. Positions should be specified as x,y. Ignores anchoring rules. ",
+      "Rus": ""
     }
   },
   {
@@ -362,7 +367,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /played. Displays the total play time of the current character."
+      "Eng": "Usage /played. Displays the total play time of the current character.",
+      "Rus": ""
     }
   },
   {
@@ -373,7 +379,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /previewnewquest questTemplateId positionInSequence questGiverSpecies. Displays the New Quest interface for the given quest without altering the player's quest state. Valid positionInSequence options are: first, last, next, solo. May break if the quest doesn't have example data configured."
+      "Eng": "Usage /previewnewquest questTemplateId positionInSequence questGiverSpecies. Displays the New Quest interface for the given quest without altering the player's quest state. Valid positionInSequence options are: first, last, next, solo. May break if the quest doesn't have example data configured.",
+      "Rus": ""
     }
   },
   {
@@ -384,7 +391,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /previewquestcomplete questTemplateId positionInSequence questGiverSpecies. Displays the Quest Complete interface for the given quest without altering the player's quest state. Valid positionInSequence options are: first, last, next, solo. May break if the quest doesn't have example data configured."
+      "Eng": "Usage /previewquestcomplete questTemplateId positionInSequence questGiverSpecies. Displays the Quest Complete interface for the given quest without altering the player's quest state. Valid positionInSequence options are: first, last, next, solo. May break if the quest doesn't have example data configured.",
+      "Rus": ""
     }
   },
   {
@@ -395,7 +403,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /previewquestfailed questTemplateId positionInSequence questGiverSpecies. Displays the Quest Failed interface for the given quest without altering the player's quest state. Valid positionInSequence options are: first, last, next, solo. May break if the quest doesn't have example data configured."
+      "Eng": "Usage /previewquestfailed questTemplateId positionInSequence questGiverSpecies. Displays the Quest Failed interface for the given quest without altering the player's quest state. Valid positionInSequence options are: first, last, next, solo. May break if the quest doesn't have example data configured.",
+      "Rus": ""
     }
   },
   {
@@ -406,7 +415,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /pvp. Enable or disable your Player vs. Player mode."
+      "Eng": "Usage /pvp. Enable or disable your Player vs. Player mode.",
+      "Rus": ""
     }
   },
   {
@@ -429,7 +439,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /reload.  Reloads your local, client side assets. Will cause lag as they are reparsed."
+      "Eng": "Usage /reload.  Reloads your local, client side assets. Will cause lag as they are reparsed.",
+      "Rus": ""
     }
   },
   {
@@ -440,7 +451,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /resetachievements. Resets all of the player's achievement statistics."
+      "Eng": "Usage /resetachievements. Resets all of the player's achievement statistics.",
+      "Rus": ""
     }
   },
   {
@@ -451,7 +463,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /resetgravity. Undoes /setgravity. Begin using server gravity again."
+      "Eng": "Usage /resetgravity. Undoes /setgravity. Begin using server gravity again.",
+      "Rus": ""
     }
   },
   {
@@ -462,7 +475,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /resetuniverseflags. Clears all universe flags, but doesn't directly revert any effects triggered by those flags."
+      "Eng": "Usage /resetuniverseflags. Clears all universe flags, but doesn't directly revert any effects triggered by those flags.",
+      "Rus": ""
     }
   },
   {
@@ -473,7 +487,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /serverreload. Reloads the remote, server side assets. Will cause lag as they are reparsed."
+      "Eng": "Usage /serverreload. Reloads the remote, server side assets. Will cause lag as they are reparsed.",
+      "Rus": ""
     }
   },
   {
@@ -484,7 +499,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /serverwhoami. Display your server username and admin status."
+      "Eng": "Usage /serverwhoami. Display your server username and admin status.",
+      "Rus": ""
     }
   },
   {
@@ -495,7 +511,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /setgravity level. Sets your local gravity to the level specified. Negative values will make you fall up but you can't jump from your head. This change is local only, and looks pretty heinous on a server, because it screws very heavily with delta prediction."
+      "Eng": "Usage /setgravity level. Sets your local gravity to the level specified. Negative values will make you fall up but you can't jump from your head. This change is local only, and looks pretty heinous on a server, because it screws very heavily with delta prediction.",
+      "Rus": ""
     }
   },
   {
@@ -506,7 +523,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /setspawnpoint. Sets the default spawn point on the current world to your character's position."
+      "Eng": "Usage /setspawnpoint. Sets the default spawn point on the current world to your character's position.",
+      "Rus": ""
     }
   },
   {
@@ -517,7 +535,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /settileprotection dungeonId isProtected. Set protection for blocks with the specified dungeonId to be true (unbreakable) or false (breakable)."
+      "Eng": "Usage /settileprotection dungeonId isProtected. Set protection for blocks with the specified dungeonId to be true (unbreakable) or false (breakable).",
+      "Rus": ""
     }
   },
   {
@@ -528,7 +547,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /setuniverseflag flagName. Sets the current universe flag, triggering any associated world changes."
+      "Eng": "Usage /setuniverseflag flagName. Sets the current universe flag, triggering any associated world changes.",
+      "Rus": ""
     }
   },
   {
@@ -539,7 +559,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /spawnitem itemName [count] [parameters]. Spawn the specified item at the mouse cursor. If the item does not exist it will spawn a perfectly generic item. Count should be an integer and defaults to 1. Parameters should be specified as a JSON object enclosed by single quotes."
+      "Eng": "Usage /spawnitem itemName [count] [parameters]. Spawn the specified item at the mouse cursor. If the item does not exist it will spawn a perfectly generic item. Count should be an integer and defaults to 1. Parameters should be specified as a JSON object enclosed by single quotes.",
+      "Rus": ""
     }
   },
   {
@@ -550,7 +571,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /spawnliquid liquidName [quantity]. Spawn a quantity of the specified liquid at the mouse cursor. Quantity defaults to 1."
+      "Eng": "Usage /spawnliquid liquidName [quantity]. Spawn a quantity of the specified liquid at the mouse cursor. Quantity defaults to 1.",
+      "Rus": ""
     }
   },
   {
@@ -561,7 +583,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /spawnmonster type [level] [parameters]. Spawn a monster of the specified type at the mouse cursor. Level defaults to 1. Parameters should be specified as a JSON object enclosed by single quotes."
+      "Eng": "Usage /spawnmonster type [level] [parameters]. Spawn a monster of the specified type at the mouse cursor. Level defaults to 1. Parameters should be specified as a JSON object enclosed by single quotes.",
+      "Rus": ""
     }
   },
   {
@@ -572,7 +595,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /spawnnpc species type [level] [seed] [overrides]. Spawn an NPC of the specified species and type at the mouse cursor. Level defaults to 1. Overrides should be specified as a JSON object enclosed by single quotes."
+      "Eng": "Usage /spawnnpc species type [level] [seed] [overrides]. Spawn an NPC of the specified species and type at the mouse cursor. Level defaults to 1. Overrides should be specified as a JSON object enclosed by single quotes.",
+      "Rus": ""
     }
   },
   {
