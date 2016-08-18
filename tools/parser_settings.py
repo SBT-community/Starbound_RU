@@ -32,6 +32,7 @@ foi = {
   "statuses.config":["^statuses/.+$"],
   "help.config": ["^[a-z]+Commands/.+$"],
   "hunger.config": ["^.*$"],
+  "locations.config": [".*/name$"],
   ".species": ["^charGenTextLabels/[0-9]+$"],
   ".tech": [],
   ".cinematic": [],
