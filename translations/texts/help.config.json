@@ -704,7 +704,7 @@
     },
     "Texts": {
       "Eng": "Usage /upgradeship shipUpgrades. Applies the specified ship upgrades to the current player's ship. shipUpgrades should be specified as a JSON object enclosed by single quotes, e.g. '{\"shipLevel\" : 5}'",
-      "Rus": ""
+      "Rus": "Команда \"/upgradeship улучшение\". Применяет указанное улучшение к текущему кораблю игрока. Улучшение должно быть указано в виде объекта JSON, заключенного в одинарные кавычки. Пример: '{\"shipLevel\" : 5}'."
     }
   },
   {
@@ -716,7 +716,7 @@
     },
     "Texts": {
       "Eng": "Usage /warp warpAction. Warps player to a world and/or position. Valid warp action formats include: OwnShip, OrbitedWorld, CelestialWorld:celestialcoordinates, InstanceWorld:worldid:<uuid>:<level>, ClientShipWorld:playeruuid, Player:playeruuid, Nowhere (current world). Most warp actions can have =xcoordinate.ycoordinate added to specify a position within that world.",
-      "Rus": ""
+      "Rus": "Команда \"/warp действие\". Переносит игрока на планету и/или позицию. Значения должны быть указаны в следующем формате: Корабль, Планета, Положение_планеты:координаты, Мир:ID_мира:<UUID>:<уровень>, Мир_с_кораблем:UUID_игрока, Игрок:UUID_игрока, Исчезновение_игрока (текущий мир). Многие действия требуют указания \"=координаты_по_x.координаты_по_y\", добавленного для указания положения в текущем мире."
     }
   },
   {
@@ -728,7 +728,7 @@
     },
     "Texts": {
       "Eng": "Usage /whereami. Display the celestial coordinate of your current location.",
-      "Rus": ""
+      "Rus": "Команда \"/whereami\". Отображает текущие координаты."
     }
   },
   {
@@ -740,7 +740,7 @@
     },
     "Texts": {
       "Eng": "Usage /whereis playerSpecifier. Display the celestial coordinate of the specified player's current location.",
-      "Rus": ""
+      "Rus": "Команда \"/whereis ник_игрока\". Отображает координаты указанного игрока."
     }
   },
   {
@@ -752,7 +752,7 @@
     },
     "Texts": {
       "Eng": "Usage /whoami. Display your local username and admin status.",
-      "Rus": ""
+      "Rus": "Команда \"/whoami\". Отображает Ваш локальный никнейм и статус администратора."
     }
   },
   {
@@ -764,7 +764,7 @@
     },
     "Texts": {
       "Eng": "Use /help commandName to get detailed documentation.",
-      "Rus": ""
+      "Rus": "Команда \"/help название_команды\". Выводит полную документацию по указанной команде."
     }
   }
 ]
