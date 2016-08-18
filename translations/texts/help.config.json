@@ -620,7 +620,7 @@
     },
     "Texts": {
       "Eng": "Usage /spawntreasure poolName [level]. Spawns all items in a single random generation of the specified treasure pool at the mouse cursor. Level defaults to 1.",
-      "Rus": ""
+      "Rus": "Команда \"/spawntreasure тип [уровень]\". Создает случайный объект указанного типа в текущем месте курсора. По умолчанию уровень равен 1."
     }
   },
   {
@@ -632,7 +632,7 @@
     },
     "Texts": {
       "Eng": "Usage /spawnvehicle type [parameters]. Spawn a vehicle of the specified type at the mouse cursor. Parameters should be specified as a JSON object enclosed by single quotes.",
-      "Rus": ""
+      "Rus": "Команда \"/spawnvehicle тип [параметры]\". Создает транспорт указанного типа в текущем месте курсора. Параметры должны быть представлены в виде объекта JSON, заключенного в одинарные кавычки."
     }
   },
   {
@@ -656,7 +656,7 @@
     },
     "Texts": {
       "Eng": "Usage /statistic statName. Displays the value of the specified achievement statistic.",
-      "Rus": ""
+      "Rus": "Команда \"/statistic название\". Отображает значение прогресса указанного достижения."
     }
   },
   {
@@ -668,7 +668,7 @@
     },
     "Texts": {
       "Eng": "Usage /suicide. Kills the current character, incurring all normal death penalties (including permadeath!). This can be used as a last resort if you are irreversibly stuck.",
-      "Rus": ""
+      "Rus": "Команда \"/suicide\". Убивает текущего персонажа со всеми стандартными последствиями смерти (включая необратимую смерть в режиме Hardcore). Эта команда может быть использована в крайнем случае, если персонаж застрял где-то."
     }
   },
   {
@@ -680,7 +680,7 @@
     },
     "Texts": {
       "Eng": "Usage /timewarp time. Warp universe time ahead by the specified number of seconds.",
-      "Rus": ""
+      "Rus": "Команда \"/timewarp время_в_секундах\". Переводит значение времени во вселенной вперед на указанное количество секунд."
     }
   },
   {
@@ -692,7 +692,7 @@
     },
     "Texts": {
       "Eng": "Usage /togglelayer. Toggle the visibility of the specified layer. A layer is a number between 1 and 21. They are in order: Sky, Parallax, Background, Platforms, Plant, PlantDrop, Object, CursorHintedObject, ParticlesBottom, Effect, Projectile, NPC, Player, ItemDrop, Water, ParticlesMiddle, Foreground, ParticlesTop, Nametag, InfoBars.",
-      "Rus": ""
+      "Rus": "Команда \"/togglelayer [номер]\". Включает или отключает видимость указанного слоя. Принимает значения от 1 до 21. Список: 1. Небо, 2. Параллакс, 3. Подземный параллакс, 4. Фон, 5. Платформы, 6. Растения, 7. Продукты, 8. Объекты, 9. Используемые объекты, 10. Нижние частицы, 11. Эффекты, 12. Снаряды, 13. NPC, 14. Игрок, 15. Предметы, 16. Вода, 17. Средние частицы, 18. Передний план, 19. Верхние частицы, 20. Имена, 21. Панель показателей"
     }
   },
   {
