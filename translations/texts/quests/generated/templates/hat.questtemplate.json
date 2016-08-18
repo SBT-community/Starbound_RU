@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<questGiver> wants to look <adjective>"
+      "Eng": "<questGiver> wants to look <adjective>",
+      "Rus": "<questGiver> хочет выглядеть <adjective>"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<questGiver>'s new headwear"
+      "Eng": "<questGiver>'s new headwear",
+      "Rus": "<questGiver> ищет новую шляпу"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "All you have to do now is ask ^orange;<friend>^white; to make my new ^orange;headwear.^white; Could you ^green;deliver the ^orange;<clothingIngredients>^green; to <friend.pronoun.object>?"
+      "Eng": "All you have to do now is ask ^orange;<friend>^white; to make my new ^orange;headwear.^white; Could you ^green;deliver the ^orange;<clothingIngredients>^green; to <friend.pronoun.object>?",
+      "Rus": "Тебе осталось только поговорить с моим другом, чтобы он сделал новую ^orange;шляпу^white;. ^orange;<friend>^white; уже ждёт, когда ты ^green;принесёшь ^orange;<clothingIngredients>^white;."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Finally, Floran needs you to ^green;deliver ^orange;<clothingIngredients>^green; to ^orange;<friend>^white; ssso <friend.pronoun.subject> can make Floran's ^orange;headwear.^white; Hurry!"
+      "Eng": "Finally, Floran needs you to ^green;deliver ^orange;<clothingIngredients>^green; to ^orange;<friend>^white; ssso <friend.pronoun.subject> can make Floran's ^orange;headwear.^white; Hurry!",
+      "Rus": "Наконец-то. Флоран хочет, чтобы ты ^green;отнёс ^orange;<clothingIngredients>^white; портному по имени  ^orange;<friend>^white;. Портной сошьёт новую ^orange;шляпу^white; для Флорана. Торопись!"
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Finally, can you ^green;deliver the ^orange;<clothingIngredients>^green; to ^orange;<friend>^white;, so <friend.pronoun.subject> can craft me my ^orange;headwear?"
+      "Eng": "Finally, can you ^green;deliver the ^orange;<clothingIngredients>^green; to ^orange;<friend>^white;, so <friend.pronoun.subject> can craft me my ^orange;headwear?",
+      "Rus": "Итак, ^orange;<friend>^white; ожидает, когда ты ^green;принесёшь ^orange;<clothingIngredients>^white;, чтобы сшить ^orange;шляпу^white; для меня."
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Finally, run over and have ^orange;<friend>^white; assemble us some custom ^orange;headwear.^white; Just ^green;mention my name, and give <friend.pronoun.object> our ^orange;<clothingIngredients>^white;."
+      "Eng": "Finally, run over and have ^orange;<friend>^white; assemble us some custom ^orange;headwear.^white; Just ^green;mention my name, and give <friend.pronoun.object> our ^orange;<clothingIngredients>^white;.",
+      "Rus": "Наконец, ^orange;<friend>^white; уже приступает к шитью моей новой ^orange;шляпы^white;. ^green;Неси скорее ^orange;<clothingIngredients>^white;, а то я рискую получить шляпу из подручных материалов."
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran looks <adjective> now! This will help Floran make friends. Thanksss for your help!"
+      "Eng": "Floran looks <adjective> now! This will help Floran make friends. Thanksss for your help!",
+      "Rus": "Флоран теперь выглядит <adjective>! Флоран теперь заведёт новых друзей. Сспасибо!"
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran so close to sssuccess! Floran needs you to ^green;take the ^orange;<clothingIngredients>^green; to ^orange;<friend>^white; so <friend.pronoun.subject> can make Floran's ^orange;headwear."
+      "Eng": "Floran so close to sssuccess! Floran needs you to ^green;take the ^orange;<clothingIngredients>^green; to ^orange;<friend>^white; so <friend.pronoun.subject> can make Floran's ^orange;headwear.",
+      "Rus": "Флоран близок к цели! ^orange;<friend>^white; должен получить ^orange;<clothingIngredients>^white;, чтобы сшить мне ^orange;шляпу^white;. Неси, неси материалы сскорее!"
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Help <questGiver> look <adjective>"
+      "Eng": "Help <questGiver> look <adjective>",
+      "Rus": "<questGiver> мечтает выглядеть <adjective>"
     }
   },
   {
@@ -106,7 +115,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I didn't help <questGiver> find something <adjective> to wear. I prefer <questGiver.pronoun.possessiveDet> look as it is."
+      "Eng": "I didn't help <questGiver> find something <adjective> to wear. I prefer <questGiver.pronoun.possessiveDet> look as it is.",
+      "Rus": "Задача провалена. <questGiver> теперь никогда не будет выглядеть <adjective>. Впрочем, мне и так нравится."
     }
   },
   {
@@ -117,7 +127,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I was unable to help <questGiver> get something new to wear. <questGiver.pronoun.capitalSubject> looks fine as <questGiver.pronoun.subject> is anyway."
+      "Eng": "I was unable to help <questGiver> get something new to wear. <questGiver.pronoun.capitalSubject> looks fine as <questGiver.pronoun.subject> is anyway.",
+      "Rus": ""
     }
   },
   {
@@ -128,7 +139,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Now all that's left is to ask ^orange;<friend>^white; to make my custom headwear. ^green;Give <friend.pronoun.object> our ^orange;<clothingIngredients>^white; and <friend.pronoun.subject> can craft it for me!"
+      "Eng": "Now all that's left is to ask ^orange;<friend>^white; to make my custom headwear. ^green;Give <friend.pronoun.object> our ^orange;<clothingIngredients>^white; and <friend.pronoun.subject> can craft it for me!",
+      "Rus": ""
     }
   },
   {
@@ -139,7 +151,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Success! Don't you think Floran looksss <adjective> now? Thanks for your help!"
+      "Eng": "Success! Don't you think Floran looksss <adjective> now? Thanks for your help!",
+      "Rus": ""
     }
   },
   {
@@ -150,7 +163,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Thank you! What do you think? Don't I look <adjective> now?"
+      "Eng": "Thank you! What do you think? Don't I look <adjective> now?",
+      "Rus": ""
     }
   },
   {
@@ -161,7 +175,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Thanks to you, I definitely look <adjective>!"
+      "Eng": "Thanks to you, I definitely look <adjective>!",
+      "Rus": ""
     }
   },
   {
@@ -172,7 +187,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Thanks! How do I look? Suitably <adjective>, I'm sure."
+      "Eng": "Thanks! How do I look? Suitably <adjective>, I'm sure.",
+      "Rus": ""
     }
   },
   {
@@ -183,7 +199,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This new look really makes me look <adjective>, don't you think? Thank you for your help."
+      "Eng": "This new look really makes me look <adjective>, don't you think? Thank you for your help.",
+      "Rus": ""
     }
   },
   {
@@ -194,7 +211,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Floran wantsss to look <adjective>. Floran has plan for this."
+      "Eng": "^cyan;Floran wantsss to look <adjective>. Floran has plan for this.",
+      "Rus": ""
     }
   },
   {
@@ -205,7 +223,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Floran would be more popular if Floran looked <adjective>."
+      "Eng": "^cyan;Floran would be more popular if Floran looked <adjective>.",
+      "Rus": ""
     }
   },
   {
@@ -216,7 +235,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;I want to look <adjective>, and I have a plan to make it happen."
+      "Eng": "^cyan;I want to look <adjective>, and I have a plan to make it happen.",
+      "Rus": ""
     }
   },
   {
@@ -227,7 +247,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;I want to wear something that makes me look <adjective>. Will you help me?"
+      "Eng": "^cyan;I want to wear something that makes me look <adjective>. Will you help me?",
+      "Rus": ""
     }
   },
   {
@@ -238,7 +259,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;^cyan;Eager. I want to look <adjective>. Could you assist me with this task?"
+      "Eng": "^cyan;^cyan;Eager. I want to look <adjective>. Could you assist me with this task?",
+      "Rus": ""
     }
   },
   {
@@ -249,7 +271,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;^cyan;Excited. It is time I had a new look. Could you help me look <adjective>?"
+      "Eng": "^cyan;^cyan;Excited. It is time I had a new look. Could you help me look <adjective>?",
+      "Rus": ""
     }
   }
 ]
