@@ -1,73 +1,18 @@
-@@ -0,0 +1,73 @@
+@@ -0,0 +1,18 @@
 +[
 +  {
-+    "op": "replace",
-+    "path": "/pronouns/female/capitalSubject",
-+    "value": "She"
++    "op": "add",
++    "path": "/pronouns/female/verbEnding",
++    "value": "а"
 +  },
 +  {
-+    "op": "replace",
-+    "path": "/pronouns/female/capitalObject",
-+    "value": "Her"
++    "op": "add",
++    "path": "/pronouns/male/verbEnding",
++    "value": ""
 +  },
 +  {
-+    "op": "replace",
-+    "path": "/pronouns/female/capitalPossessiveDet",
-+    "value": "Her"
-+  },
-+  {
-+    "op": "replace",
-+    "path": "/pronouns/female/capitalPossessive",
-+    "value": "Hers"
-+  },
-+  {
-+    "op": "replace",
-+    "path": "/pronouns/female/capitalReflexive",
-+    "value": "Herself"
-+  },
-+  {
-+    "op": "replace",
-+    "path": "/pronouns/male/capitalObject",
-+    "value": "Him"
-+  },
-+  {
-+    "op": "replace",
-+    "path": "/pronouns/male/capitalPossessiveDet",
-+    "value": "His"
-+  },
-+  {
-+    "op": "replace",
-+    "path": "/pronouns/male/capitalPossessive",
-+    "value": "His"
-+  },
-+  {
-+    "op": "replace",
-+    "path": "/pronouns/male/capitalReflexive",
-+    "value": "Himself"
-+  },
-+  {
-+    "op": "replace",
-+    "path": "/pronouns/neutral/capitalSubject",
-+    "value": "They"
-+  },
-+  {
-+    "op": "replace",
-+    "path": "/pronouns/neutral/capitalObject",
-+    "value": "Them"
-+  },
-+  {
-+    "op": "replace",
-+    "path": "/pronouns/neutral/capitalPossessiveDet",
-+    "value": "Their"
-+  },
-+  {
-+    "op": "replace",
-+    "path": "/pronouns/neutral/capitalPossessive",
-+    "value": "Theirs"
-+  },
-+  {
-+    "op": "replace",
-+    "path": "/pronouns/neutral/capitalReflexive",
-+    "value": "Themself"
++    "op": "add",
++    "path": "/pronouns/neutral/verbEnding",
++    "value": "и"
 +  }
 +]
