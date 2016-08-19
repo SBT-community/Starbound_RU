@@ -12131,7 +12131,7 @@
           "request_craft.questtemplate.json": 0,
           "return_stolen.questtemplate.json": 2,
           "share_secret.questtemplate.json": 0,
-          "shared_.questtemplate.json": 23,
+          "shared_.questtemplate.json": 22,
           "shared_d.questtemplate.json": 2,
           "shared_t.questtemplate.json": 1,
           "spread_rumors.questtemplate.json": 0,
@@ -12204,7 +12204,7 @@
         "shiprepair.questtemplate.json": 6
       }
     },
-    "quests.json": 1,
+    "quests.json": 2,
     "radiomessages": {
       "exploration.radiomessages.json": 7,
       "intro.radiomessages.json": 16,
@@ -12276,7 +12276,7 @@
     "shared_wreckplatform.mat.json": 4,
     "species": {
       "apex.species.json": 5,
-      "avian.species.json": 7,
+      "avian.species.json": 6,
       "fenerox.species.json": 1,
       "floran.species.json": 6,
       "glitch.species.json": 7,
@@ -12540,6 +12540,6 @@
       }
     },
     "universe_server.config.json": 2,
-    "wide_spread_fields.json": 51
+    "wide_spread_fields.json": 52
   }
 }

@@ -142,5 +142,275 @@
       "Eng": " west of us",
       "Rus": "на западе от нас"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/objectiveDescriptions/fetch",
+        "/objectiveDescriptions/gatherItem"
+      ]
+    },
+    "Texts": {
+      "Eng": "Acquire <itemName>: <current> / <required>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/objectiveDescriptions/gatherItemTag"
+      ]
+    },
+    "Texts": {
+      "Eng": "Find <tag> items: <current> / <required>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/objectiveDescriptions/scanObjects"
+      ]
+    },
+    "Texts": {
+      "Eng": "Investigate objects"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/objectiveDescriptions/shipLevel"
+      ]
+    },
+    "Texts": {
+      "Eng": "Upgrade ship from Model <current> to Model <required>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/male/subject"
+      ]
+    },
+    "Texts": {
+      "Eng": "he"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/male/copulativePast"
+      ]
+    },
+    "Texts": {
+      "Eng": "he has"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/male/copulative"
+      ]
+    },
+    "Texts": {
+      "Eng": "he is"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/female/capitalObject",
+        "/pronouns/female/capitalPossessiveDet",
+        "/pronouns/female/object",
+        "/pronouns/female/possessiveDet"
+      ]
+    },
+    "Texts": {
+      "Eng": "her"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/female/capitalPossessive",
+        "/pronouns/female/possessive"
+      ]
+    },
+    "Texts": {
+      "Eng": "hers"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/female/capitalReflexive",
+        "/pronouns/female/reflexive"
+      ]
+    },
+    "Texts": {
+      "Eng": "herself"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/male/capitalObject",
+        "/pronouns/male/object"
+      ]
+    },
+    "Texts": {
+      "Eng": "him"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/male/capitalReflexive",
+        "/pronouns/male/reflexive"
+      ]
+    },
+    "Texts": {
+      "Eng": "himself"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/male/capitalPossessive",
+        "/pronouns/male/capitalPossessiveDet",
+        "/pronouns/male/possessive",
+        "/pronouns/male/possessiveDet"
+      ]
+    },
+    "Texts": {
+      "Eng": "his"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/female/capitalSubject",
+        "/pronouns/female/subject"
+      ]
+    },
+    "Texts": {
+      "Eng": "she"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/female/copulativePast"
+      ]
+    },
+    "Texts": {
+      "Eng": "she has"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/female/copulative"
+      ]
+    },
+    "Texts": {
+      "Eng": "she is"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/neutral/capitalPossessiveDet",
+        "/pronouns/neutral/possessiveDet"
+      ]
+    },
+    "Texts": {
+      "Eng": "their"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/neutral/capitalPossessive",
+        "/pronouns/neutral/possessive"
+      ]
+    },
+    "Texts": {
+      "Eng": "theirs"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/neutral/capitalObject",
+        "/pronouns/neutral/object"
+      ]
+    },
+    "Texts": {
+      "Eng": "them"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/neutral/capitalReflexive",
+        "/pronouns/neutral/reflexive"
+      ]
+    },
+    "Texts": {
+      "Eng": "themself"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/neutral/capitalSubject",
+        "/pronouns/neutral/subject"
+      ]
+    },
+    "Texts": {
+      "Eng": "they"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/neutral/copulative"
+      ]
+    },
+    "Texts": {
+      "Eng": "they are"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/neutral/copulativePast"
+      ]
+    },
+    "Texts": {
+      "Eng": "they have"
+    }
   }
 ]
