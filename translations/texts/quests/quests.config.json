@@ -172,12 +172,146 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/quests.config": [
+        "/pronouns/female/capitalObject",
+        "/pronouns/female/capitalPossessiveDet"
+      ]
+    },
+    "Texts": {
+      "Eng": "Her"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/female/capitalPossessive"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hers"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/female/capitalReflexive"
+      ]
+    },
+    "Texts": {
+      "Eng": "Herself"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/male/capitalObject"
+      ]
+    },
+    "Texts": {
+      "Eng": "Him"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/male/capitalReflexive"
+      ]
+    },
+    "Texts": {
+      "Eng": "Himself"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/male/capitalPossessive",
+        "/pronouns/male/capitalPossessiveDet"
+      ]
+    },
+    "Texts": {
+      "Eng": "His"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
         "/objectiveDescriptions/scanObjects"
       ]
     },
     "Texts": {
       "Eng": "Investigate objects",
       "Rus": "Исследуйте объекты"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/female/capitalSubject"
+      ]
+    },
+    "Texts": {
+      "Eng": "She"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/neutral/capitalPossessiveDet"
+      ]
+    },
+    "Texts": {
+      "Eng": "Their"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/neutral/capitalPossessive"
+      ]
+    },
+    "Texts": {
+      "Eng": "Theirs"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/neutral/capitalObject"
+      ]
+    },
+    "Texts": {
+      "Eng": "Them"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/neutral/capitalReflexive"
+      ]
+    },
+    "Texts": {
+      "Eng": "Themself"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/neutral/capitalSubject"
+      ]
+    },
+    "Texts": {
+      "Eng": "They"
     }
   },
   {
@@ -232,8 +366,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/quests.config": [
-        "/pronouns/female/capitalObject",
-        "/pronouns/female/capitalPossessiveDet",
         "/pronouns/female/object",
         "/pronouns/female/possessiveDet"
       ]
@@ -247,7 +379,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/quests.config": [
-        "/pronouns/female/capitalPossessive",
         "/pronouns/female/possessive"
       ]
     },
@@ -260,7 +391,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/quests.config": [
-        "/pronouns/female/capitalReflexive",
         "/pronouns/female/reflexive"
       ]
     },
@@ -273,7 +403,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/quests.config": [
-        "/pronouns/male/capitalObject",
         "/pronouns/male/object"
       ]
     },
@@ -286,7 +415,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/quests.config": [
-        "/pronouns/male/capitalReflexive",
         "/pronouns/male/reflexive"
       ]
     },
@@ -299,8 +427,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/quests.config": [
-        "/pronouns/male/capitalPossessive",
-        "/pronouns/male/capitalPossessiveDet",
         "/pronouns/male/possessive",
         "/pronouns/male/possessiveDet"
       ]
@@ -314,7 +440,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/quests.config": [
-        "/pronouns/female/capitalSubject",
         "/pronouns/female/subject"
       ]
     },
@@ -351,7 +476,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/quests.config": [
-        "/pronouns/neutral/capitalPossessiveDet",
         "/pronouns/neutral/possessiveDet"
       ]
     },
@@ -364,7 +488,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/quests.config": [
-        "/pronouns/neutral/capitalPossessive",
         "/pronouns/neutral/possessive"
       ]
     },
@@ -377,7 +500,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/quests.config": [
-        "/pronouns/neutral/capitalObject",
         "/pronouns/neutral/object"
       ]
     },
@@ -390,7 +512,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/quests.config": [
-        "/pronouns/neutral/capitalReflexive",
         "/pronouns/neutral/reflexive"
       ]
     },
@@ -403,7 +524,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/quests.config": [
-        "/pronouns/neutral/capitalSubject",
         "/pronouns/neutral/subject"
       ]
     },

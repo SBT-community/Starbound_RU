@@ -632,6 +632,20 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/5"
+      ],
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "creepy"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "quests/generated/templates/collect_fine.questtemplate": [
         "/scriptConfig/generatedText/fluff/0/0"
       ],

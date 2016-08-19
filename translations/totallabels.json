@@ -12095,7 +12095,7 @@
           "buildingthemes.config.json": 10,
           "capturablemonsters.config.json": 1,
           "dungeonitems.config.json": 11,
-          "hatadjectives.config.json": 42,
+          "hatadjectives.config.json": 46,
           "tradablemonsters.config.json": 2
         },
         "templates": {
@@ -12120,8 +12120,8 @@
           "intimidate.questtemplate.json": 61,
           "kidnapping.questtemplate.json": 83,
           "kill_monster.questtemplate.json": 26,
-          "kill_monster_group.questtemplate.json": 84,
-          "kill_monster_single.questtemplate.json": 65,
+          "kill_monster_group.questtemplate.json": 86,
+          "kill_monster_single.questtemplate.json": 66,
           "kill_npc.questtemplate.json": 89,
           "kill_npcs.questtemplate.json": 110,
           "new_stock1.questtemplate.json": 22,
@@ -12131,7 +12131,7 @@
           "request_craft.questtemplate.json": 24,
           "return_stolen.questtemplate.json": 61,
           "share_secret.questtemplate.json": 76,
-          "shared_.questtemplate.json": 82,
+          "shared_.questtemplate.json": 83,
           "shared_d.questtemplate.json": 2,
           "shared_t.questtemplate.json": 1,
           "spread_rumors.questtemplate.json": 69,
@@ -12139,7 +12139,6 @@
           "themed_build.questtemplate.json": 23
         }
       },
-      "generated.json": 4,
       "outpost": {
         "floranarena1.questtemplate.json": 3,
         "floranarena2.questtemplate.json": 3,
@@ -12181,7 +12180,7 @@
         "techscientist6.questtemplate.json": 5,
         "ursaminer1.questtemplate.json": 5
       },
-      "quests.config.json": 35,
+      "quests.config.json": 47,
       "shared_.questtemplate.json": 2,
       "story": {
         "apex_mission1.questtemplate.json": 11,
