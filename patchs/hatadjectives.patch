@@ -1,0 +1,25 @@
+--- a/quests/generated/pools/hatadjectives.config
++++ b/quests/generated/pools/hatadjectives.config
+@@ -41,17 +41,17 @@
+     ["chivalrous", "knighthead"],
+     ["ancient", "thehrodgardhead"],
+     ["gallant", "plumeknighthead"],
+-    ["fierce", "vikinghead"],
++    ["fierce [Для квеста на шляпу]", "vikinghead"],
+     ["heroic", "valkyriehelm"],
+     ["funny", "jesterhead"],
+     ["strong", "gladiatorhead"],
+     ["intimidating", "ethnichead"],
+-    ["creepy", "humanskullhead"],
+-    ["creepy", "floranskullhead"],
++    ["creepy [Для квеста на шляпу]", "humanskullhead"],
++    ["creepy [Для квеста на шляпу]", "floranskullhead"],
+     ["unnerving", "goathead"],
+-    ["vicious", "vicioushead"],
++    ["vicious [Для квеста на шляпу]", "vicioushead"],
+     ["reliable", "deepdiverhead"],
+     ["scary", "insidioushead"],
+-    ["powerful", "valoroushead"]
++    ["powerful [Для квеста на шляпу]", "valoroushead"]
+   ]]
+ ]
