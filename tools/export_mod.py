@@ -48,19 +48,20 @@ def add_count(counter, path, value):
 def check_translation_length(text):
   ## 15 height, 36 width
   words = checker.split(text)
-  width = 35
-  height = 15 - 1 # First string already taken anyway
+  maxwidth = 40
+  width = maxwidth
+  height = 17 - 1 # First string already taken anyway
   for word in words:
     wlen = len(word)
     if wlen == 0 or is_unprintable.match(word):
       continue
     if word == '\n':
       height -= 1
-      width = 36
+      width = maxwidth
       continue
     width -= wlen
     if width < 0 and not word == ' ':
-      width = 36 - wlen
+      width = maxwidth - wlen
       height -= 1
   return height >= 0
 

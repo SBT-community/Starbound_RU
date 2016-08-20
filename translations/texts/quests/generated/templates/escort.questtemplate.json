@@ -152,7 +152,7 @@
     },
     "Texts": {
       "Eng": "My <friend> ^orange;<targetNpcType>^white; was meant to meet me so we could <activity1> <earlier>. <targetNpcType.pronoun.capitalSubject> probably got lost getting here - the last place I saw <targetNpcType.pronoun.object> was the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Could you go there and bring <targetNpcType.pronoun.object> back here to me^white;?",
-      "Rus": "Мой друг по имени <friend> ^orange;<targetNpcType>^white; должен был встретить меня для <activity1> <earlier>. <targetNpcType.pronoun.capitalSubject> наверное потерялся по пути - в последния раз когда я его видел <targetNpcType.pronoun.object> был у ^orange;<spawnPoint>^white; <spawnPoint.direction>. ^green;Можешь сходить туда и привести  <targetNpcType.pronoun.object> обратно^white;?"
+      "Rus": "Мой <friend> ^orange;<targetNpcType>^white; должен был встретить меня для <activity1> <earlier>. <targetNpcType.pronoun.capitalSubject> наверное потерялся по пути - в последния раз когда я его видел <targetNpcType.pronoun.object> был у ^orange;<spawnPoint>^white; <spawnPoint.direction>. ^green;Можешь сходить туда и привести  <targetNpcType.pronoun.object> обратно^white;?"
     }
   },
   {
@@ -325,6 +325,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/escort.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "classic literature"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort.questtemplate": [
         "/scriptConfig/generatedText/fluff/3/1/9"
       ]
     },
@@ -358,22 +369,33 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/escort.questtemplate": [
-        "/scriptConfig/generatedText/fluff/5/0"
+        "/scriptConfig/generatedText/fluff/3/1/10"
       ]
     },
     "Texts": {
-      "Eng": "glitchworry1"
+      "Eng": "exotic fruits"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/escort.questtemplate": [
-        "/scriptConfig/generatedText/fluff/6/0"
+        "/scriptConfig/generatedText/fluff/3/1/12"
       ]
     },
     "Texts": {
-      "Eng": "glitchworry2"
+      "Eng": "forest fires"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "hands"
     }
   },
   {
@@ -462,6 +484,28 @@
     },
     "Texts": {
       "Eng": "talk about some pictures of <activity2> I drew"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "the golden age of space piracy"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "tiny boats"
     }
   },
   {

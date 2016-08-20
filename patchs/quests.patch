@@ -1,0 +1,56 @@
+--- a/quests/quests.config
++++ b/quests/quests.config
+@@ -86,13 +86,13 @@
+       "possessiveDet" : "her",
+       "possessive" : "hers",
+       "reflexive" : "herself",
+-      "capitalSubject" : "she",
+-      "capitalObject" : "her",
+-      "capitalPossessiveDet" : "her",
+-      "capitalPossessive" : "hers",
+-      "capitalReflexive" : "herself",
++      "capitalSubject" : "She",
++      "capitalObject" : "Her",
++      "capitalPossessiveDet" : "Her",
++      "capitalPossessive" : "Hers",
++      "capitalReflexive" : "Herself",
+       "copulative" : "she is",
+       "copulativePast" : "she has"
+     },
+     "male" : {
+       "subject" : "he",
+@@ -101,12 +101,12 @@
+       "possessive" : "his",
+       "reflexive" : "himself",
+       "capitalSubject" : "He",
+-      "capitalObject" : "him",
+-      "capitalPossessiveDet" : "his",
+-      "capitalPossessive" : "his",
+-      "capitalReflexive" : "himself",
++      "capitalObject" : "Him",
++      "capitalPossessiveDet" : "His",
++      "capitalPossessive" : "His",
++      "capitalReflexive" : "Himself",
+       "copulative" : "he is",
+       "copulativePast" : "he has"
+     },
+     "neutral" : {
+       "subject" : "they",
+@@ -114,13 +114,13 @@
+       "possessiveDet" : "their",
+       "possessive" : "theirs",
+       "reflexive" : "themself",
+-      "capitalSubject" : "they",
+-      "capitalObject" : "them",
+-      "capitalPossessiveDet" : "their",
+-      "capitalPossessive" : "theirs",
+-      "capitalReflexive" : "themself",
++      "capitalSubject" : "They",
++      "capitalObject" : "Them",
++      "capitalPossessiveDet" : "Their",
++      "capitalPossessive" : "Theirs",
++      "capitalReflexive" : "Themself",
+       "copulative" : "they are",
+       "copulativePast" : "they have"
+     }
+   },

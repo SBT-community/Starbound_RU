@@ -678,6 +678,21 @@
     }
   },
   {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/male/capitalSubject"
+      ],
+      "species/avian.species": [
+        "/charCreationTooltip/subTitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "He",
+      "Rus": "He"
+    }
+  },
+  {
     "DeniedAlternatives": [
       "Вот тебе награда за твою помощь!"
     ],

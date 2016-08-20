@@ -1,0 +1,17 @@
+[
+  {
+    "op": "add",
+    "path": "/pronouns/female/verbEnding",
+    "value": "а"
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/male/verbEnding",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/neutral/verbEnding",
+    "value": "и"
+  }
+]

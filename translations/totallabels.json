@@ -12090,11 +12090,12 @@
       "ftlrepairmain.questtemplate.json": 3,
       "fuel.questtemplate.json": 3,
       "generated": {
+        "locations.config.json": 336,
         "pools": {
           "buildingthemes.config.json": 10,
           "capturablemonsters.config.json": 1,
           "dungeonitems.config.json": 11,
-          "hatadjectives.config.json": 42,
+          "hatadjectives.config.json": 46,
           "tradablemonsters.config.json": 2
         },
         "templates": {
@@ -12103,12 +12104,12 @@
           "borrow.questtemplate.json": 24,
           "bribe.questtemplate.json": 36,
           "build_home.questtemplate.json": 25,
-          "capture_pet.questtemplate.json": 50,
+          "capture_pet.questtemplate.json": 46,
           "collect_fine.questtemplate.json": 68,
           "collect_gift.questtemplate.json": 24,
           "cooking.questtemplate.json": 12,
           "craft.questtemplate.json": 12,
-          "escort.questtemplate.json": 42,
+          "escort.questtemplate.json": 46,
           "escort_trade.questtemplate.json": 13,
           "extort.questtemplate.json": 24,
           "farming.questtemplate.json": 24,
@@ -12117,12 +12118,12 @@
           "hat.questtemplate.json": 23,
           "helmet.questtemplate.json": 22,
           "intimidate.questtemplate.json": 61,
-          "kidnapping.questtemplate.json": 83,
+          "kidnapping.questtemplate.json": 87,
           "kill_monster.questtemplate.json": 26,
-          "kill_monster_group.questtemplate.json": 84,
-          "kill_monster_single.questtemplate.json": 65,
-          "kill_npc.questtemplate.json": 89,
-          "kill_npcs.questtemplate.json": 110,
+          "kill_monster_group.questtemplate.json": 79,
+          "kill_monster_single.questtemplate.json": 67,
+          "kill_npc.questtemplate.json": 97,
+          "kill_npcs.questtemplate.json": 98,
           "new_stock1.questtemplate.json": 22,
           "new_stock2.questtemplate.json": 22,
           "protect.questtemplate.json": 50,
@@ -12130,15 +12131,14 @@
           "request_craft.questtemplate.json": 24,
           "return_stolen.questtemplate.json": 61,
           "share_secret.questtemplate.json": 76,
-          "shared_.questtemplate.json": 83,
+          "shared_.questtemplate.json": 73,
           "shared_d.questtemplate.json": 2,
           "shared_t.questtemplate.json": 1,
-          "spread_rumors.questtemplate.json": 69,
+          "spread_rumors.questtemplate.json": 70,
           "steal.questtemplate.json": 25,
           "themed_build.questtemplate.json": 23
         }
       },
-      "generated.json": 4,
       "outpost": {
         "floranarena1.questtemplate.json": 3,
         "floranarena2.questtemplate.json": 3,
@@ -12180,7 +12180,7 @@
         "techscientist6.questtemplate.json": 5,
         "ursaminer1.questtemplate.json": 5
       },
-      "quests.config.json": 12,
+      "quests.config.json": 47,
       "shared_.questtemplate.json": 2,
       "story": {
         "apex_mission1.questtemplate.json": 11,
@@ -12203,7 +12203,7 @@
         "shiprepair.questtemplate.json": 6
       }
     },
-    "quests.json": 1,
+    "quests.json": 2,
     "radiomessages": {
       "exploration.radiomessages.json": 7,
       "intro.radiomessages.json": 16,
@@ -12275,7 +12275,7 @@
     "shared_wreckplatform.mat.json": 4,
     "species": {
       "apex.species.json": 5,
-      "avian.species.json": 7,
+      "avian.species.json": 6,
       "fenerox.species.json": 1,
       "floran.species.json": 6,
       "glitch.species.json": 7,
@@ -12539,6 +12539,6 @@
       }
     },
     "universe_server.config.json": 2,
-    "wide_spread_fields.json": 52
+    "wide_spread_fields.json": 53
   }
 }

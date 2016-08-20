@@ -295,53 +295,6 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "<questGiver> ждет Вас",
-      "Вернись к <questGiver>",
-      "Вернись к <questGiver> ",
-      "Вернись к <questgiver>"
-    ],
-    "Files": {
-      "quests/generated/templates/borrow.questtemplate": [
-        "/scriptConfig/objectives/1/text"
-      ],
-      "quests/generated/templates/collect_fine.questtemplate": [
-        "/scriptConfig/objectives/1/text"
-      ],
-      "quests/generated/templates/collect_gift.questtemplate": [
-        "/scriptConfig/objectives/1/text"
-      ],
-      "quests/generated/templates/escort_trade.questtemplate": [
-        "/scriptConfig/objectives/1/text"
-      ],
-      "quests/generated/templates/extort.questtemplate": [
-        "/scriptConfig/objectives/1/text"
-      ],
-      "quests/generated/templates/kill_monster_group.questtemplate": [
-        "/scriptConfig/objectives/2/text"
-      ],
-      "quests/generated/templates/kill_monster_single.questtemplate": [
-        "/scriptConfig/objectives/2/text"
-      ],
-      "quests/generated/templates/kill_npc.questtemplate": [
-        "/scriptConfig/objectives/2/text"
-      ],
-      "quests/generated/templates/kill_npcs.questtemplate": [
-        "/scriptConfig/objectives/2/text"
-      ],
-      "quests/generated/templates/request_craft.questtemplate": [
-        "/scriptConfig/objectives/1/text"
-      ],
-      "quests/generated/templates/steal.questtemplate": [
-        "/scriptConfig/objectives/1/text"
-      ]
-    },
-    "Texts": {
-      "Eng": "Return to <questGiver>",
-      "Rus": "<questGiver> ждёт Вас"
-    }
-  },
-  {
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_monster_group.questtemplate": [
@@ -404,80 +357,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "quests/generated/templates/kidnapping.questtemplate": [
-        "/scriptConfig/generatedText/fluff/8/0"
-      ],
-      "quests/generated/templates/kill_npcs.questtemplate": [
-        "/scriptConfig/generatedText/fluff/0/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "activity",
-      "Rus": ""
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/escort.questtemplate": [
-        "/scriptConfig/generatedText/fluff/2/0"
-      ],
-      "quests/generated/templates/kidnapping.questtemplate": [
-        "/scriptConfig/generatedText/fluff/3/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "activity1",
-      "Rus": ""
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/escort.questtemplate": [
-        "/scriptConfig/generatedText/fluff/3/0"
-      ],
-      "quests/generated/templates/kidnapping.questtemplate": [
-        "/scriptConfig/generatedText/fluff/4/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "activity2",
-      "Rus": ""
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/escort.questtemplate": [
-        "/scriptConfig/generatedText/fluff/4/0"
-      ],
-      "quests/generated/templates/kidnapping.questtemplate": [
-        "/scriptConfig/generatedText/fluff/9/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "activityfloran",
-      "Rus": ""
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kill_npc.questtemplate": [
-        "/scriptConfig/generatedText/fluff/0/0"
-      ],
-      "quests/generated/templates/spread_rumors.questtemplate": [
-        "/scriptConfig/generatedText/fluff/2/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "adjective"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "quests/generated/templates/share_secret.questtemplate": [
         "/scriptConfig/generatedText/fluff/1/1/0"
       ],
@@ -486,7 +365,8 @@
       ]
     },
     "Texts": {
-      "Eng": "admires"
+      "Eng": "admires",
+      "Rus": ""
     }
   },
   {
@@ -500,80 +380,8 @@
       ]
     },
     "Texts": {
-      "Eng": "adores"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/escort.questtemplate": [
-        "/scriptConfig/generatedText/fluff/7/0"
-      ],
-      "quests/generated/templates/escort_trade.questtemplate": [
-        "/scriptConfig/generatedText/fluff/0/0"
-      ],
-      "quests/generated/templates/kidnapping.questtemplate": [
-        "/scriptConfig/generatedText/fluff/14/0"
-      ],
-      "quests/generated/templates/kill_npc.questtemplate": [
-        "/scriptConfig/generatedText/fluff/7/0"
-      ],
-      "quests/generated/templates/kill_npcs.questtemplate": [
-        "/scriptConfig/generatedText/fluff/10/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "appreciation"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/capture_pet.questtemplate": [
-        "/scriptConfig/generatedText/fluff/6/0"
-      ],
-      "quests/generated/templates/kill_monster_group.questtemplate": [
-        "/scriptConfig/generatedText/fluff/17/0"
-      ],
-      "quests/generated/templates/kill_monster_single.questtemplate": [
-        "/scriptConfig/generatedText/fluff/11/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "appreciation1",
-      "Rus": "appreciation1"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/capture_pet.questtemplate": [
-        "/scriptConfig/generatedText/fluff/7/0"
-      ],
-      "quests/generated/templates/kill_monster_group.questtemplate": [
-        "/scriptConfig/generatedText/fluff/18/0"
-      ],
-      "quests/generated/templates/kill_monster_single.questtemplate": [
-        "/scriptConfig/generatedText/fluff/12/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "appreciation2",
-      "Rus": "appreciation2"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/escort_trade.questtemplate": [
-        "/scriptConfig/generatedText/fluff/1/0"
-      ],
-      "quests/generated/templates/kill_npc.questtemplate": [
-        "/scriptConfig/generatedText/fluff/10/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "appreciationfloran"
+      "Eng": "adores",
+      "Rus": ""
     }
   },
   {
@@ -587,7 +395,8 @@
       ]
     },
     "Texts": {
-      "Eng": "camping"
+      "Eng": "camping",
+      "Rus": ""
     }
   },
   {
@@ -601,7 +410,8 @@
       ]
     },
     "Texts": {
-      "Eng": "co-worker"
+      "Eng": "co-worker",
+      "Rus": ""
     }
   },
   {
@@ -615,7 +425,8 @@
       ]
     },
     "Texts": {
-      "Eng": "colleague"
+      "Eng": "colleague",
+      "Rus": ""
     }
   },
   {
@@ -630,7 +441,8 @@
       ]
     },
     "Texts": {
-      "Eng": "computers"
+      "Eng": "computers",
+      "Rus": ""
     }
   },
   {
@@ -644,7 +456,8 @@
       ]
     },
     "Texts": {
-      "Eng": "cossstume making"
+      "Eng": "cossstume making",
+      "Rus": ""
     }
   },
   {
@@ -658,7 +471,8 @@
       ]
     },
     "Texts": {
-      "Eng": "cousin"
+      "Eng": "cousin",
+      "Rus": ""
     }
   },
   {
@@ -673,21 +487,23 @@
       ]
     },
     "Texts": {
-      "Eng": "crasberries"
+      "Eng": "crasberries",
+      "Rus": ""
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
-      "quests/generated/templates/collect_fine.questtemplate": [
-        "/scriptConfig/generatedText/fluff/0/0"
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/5"
       ],
-      "quests/generated/templates/kill_npc.questtemplate": [
-        "/scriptConfig/generatedText/fluff/1/0"
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/5"
       ]
     },
     "Texts": {
-      "Eng": "crime"
+      "Eng": "creepy",
+      "Rus": ""
     }
   },
   {
@@ -701,7 +517,8 @@
       ]
     },
     "Texts": {
-      "Eng": "date"
+      "Eng": "date",
+      "Rus": ""
     }
   },
   {
@@ -715,7 +532,8 @@
       ]
     },
     "Texts": {
-      "Eng": "daydreams about"
+      "Eng": "daydreams about",
+      "Rus": ""
     }
   },
   {
@@ -729,7 +547,8 @@
       ]
     },
     "Texts": {
-      "Eng": "draws pictures of"
+      "Eng": "draws pictures of",
+      "Rus": ""
     }
   },
   {
@@ -743,39 +562,35 @@
       ]
     },
     "Texts": {
-      "Eng": "dreams about"
+      "Eng": "dreams about",
+      "Rus": ""
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/capture_pet.questtemplate": [
-        "/scriptConfig/generatedText/fluff/1/0",
         "/scriptConfig/generatedText/fluff/1/1/0"
       ],
       "quests/generated/templates/escort.questtemplate": [
-        "/scriptConfig/generatedText/fluff/1/0",
         "/scriptConfig/generatedText/fluff/1/1/0"
       ],
       "quests/generated/templates/kidnapping.questtemplate": [
-        "/scriptConfig/generatedText/fluff/2/0",
         "/scriptConfig/generatedText/fluff/2/1/0"
       ],
       "quests/generated/templates/kill_monster_group.questtemplate": [
-        "/scriptConfig/generatedText/fluff/9/0",
         "/scriptConfig/generatedText/fluff/9/1/0"
       ],
       "quests/generated/templates/kill_monster_single.questtemplate": [
-        "/scriptConfig/generatedText/fluff/4/0",
         "/scriptConfig/generatedText/fluff/4/1/0"
       ],
       "quests/generated/templates/kill_npcs.questtemplate": [
-        "/scriptConfig/generatedText/fluff/2/0",
         "/scriptConfig/generatedText/fluff/2/1/0"
       ]
     },
     "Texts": {
-      "Eng": "earlier"
+      "Eng": "earlier",
+      "Rus": "earlier"
     }
   },
   {
@@ -792,7 +607,8 @@
       ]
     },
     "Texts": {
-      "Eng": "earlier in the week"
+      "Eng": "earlier in the week",
+      "Rus": ""
     }
   },
   {
@@ -809,23 +625,26 @@
       ]
     },
     "Texts": {
-      "Eng": "earlier today"
+      "Eng": "earlier today",
+      "Rus": ""
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/10"
+      ],
       "quests/generated/templates/kill_monster_group.questtemplate": [
-        "/scriptConfig/generatedText/fluff/5/0",
         "/scriptConfig/generatedText/fluff/5/1/0"
       ],
       "quests/generated/templates/kill_monster_single.questtemplate": [
-        "/scriptConfig/generatedText/fluff/3/0",
         "/scriptConfig/generatedText/fluff/3/1/0"
       ]
     },
     "Texts": {
-      "Eng": "exploring"
+      "Eng": "exploring",
+      "Rus": "exploring"
     }
   },
   {
@@ -839,52 +658,24 @@
       ]
     },
     "Texts": {
-      "Eng": "ferocious"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/capture_pet.questtemplate": [
-        "/scriptConfig/generatedText/fluff/8/0"
-      ],
-      "quests/generated/templates/kill_monster_single.questtemplate": [
-        "/scriptConfig/generatedText/fluff/13/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "floranappreciation"
+      "Eng": "ferocious",
+      "Rus": ""
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/escort.questtemplate": [
-        "/scriptConfig/generatedText/fluff/0/0",
         "/scriptConfig/generatedText/fluff/0/1/0"
       ],
       "quests/generated/templates/kidnapping.questtemplate": [
-        "/scriptConfig/generatedText/fluff/0/0",
         "/scriptConfig/generatedText/fluff/0/1/0",
         "/scriptConfig/generatedText/fluff/1/1/1"
       ]
     },
     "Texts": {
-      "Eng": "friend"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kill_monster_group.questtemplate": [
-        "/scriptConfig/generatedText/fluff/0/0"
-      ],
-      "quests/generated/templates/kill_monster_single.questtemplate": [
-        "/scriptConfig/generatedText/fluff/0/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "genericPluralizedMonsterTerm"
+      "Eng": "friend",
+      "Rus": ""
     }
   },
   {
@@ -898,7 +689,8 @@
       ]
     },
     "Texts": {
-      "Eng": "get rid of them"
+      "Eng": "get rid of them",
+      "Rus": ""
     }
   },
   {
@@ -913,7 +705,8 @@
       ]
     },
     "Texts": {
-      "Eng": "gleaps"
+      "Eng": "gleaps",
+      "Rus": ""
     }
   },
   {
@@ -930,7 +723,8 @@
       ]
     },
     "Texts": {
-      "Eng": "jogging"
+      "Eng": "jogging",
+      "Rus": ""
     }
   },
   {
@@ -956,7 +750,8 @@
       ]
     },
     "Texts": {
-      "Eng": "last night"
+      "Eng": "last night",
+      "Rus": ""
     }
   },
   {
@@ -970,7 +765,22 @@
       ]
     },
     "Texts": {
-      "Eng": "likes poking"
+      "Eng": "likes poking",
+      "Rus": ""
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/share_secret.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/11"
+      ],
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "loves"
     }
   },
   {
@@ -984,7 +794,8 @@
       ]
     },
     "Texts": {
-      "Eng": "make them pay"
+      "Eng": "make them pay",
+      "Rus": ""
     }
   },
   {
@@ -998,7 +809,8 @@
       ]
     },
     "Texts": {
-      "Eng": "monsters"
+      "Eng": "monsters",
+      "Rus": ""
     }
   },
   {
@@ -1024,7 +836,8 @@
       ]
     },
     "Texts": {
-      "Eng": "not too long ago"
+      "Eng": "not too long ago",
+      "Rus": ""
     }
   },
   {
@@ -1038,7 +851,8 @@
       ]
     },
     "Texts": {
-      "Eng": "old friend"
+      "Eng": "old friend",
+      "Rus": ""
     }
   },
   {
@@ -1053,7 +867,8 @@
       ]
     },
     "Texts": {
-      "Eng": "pearlpeas"
+      "Eng": "pearlpeas",
+      "Rus": ""
     }
   },
   {
@@ -1068,7 +883,8 @@
       ]
     },
     "Texts": {
-      "Eng": "poptops"
+      "Eng": "poptops",
+      "Rus": ""
     }
   },
   {
@@ -1082,41 +898,23 @@
       ]
     },
     "Texts": {
-      "Eng": "private reasonsss"
+      "Eng": "private reasonsss",
+      "Rus": ""
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
-      "quests/generated/templates/capture_pet.questtemplate": [
-        "/scriptConfig/generatedText/fluff/2/0"
+      "quests/generated/templates/share_secret.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/13",
+        "/scriptConfig/generatedText/fluff/3/1/12"
       ],
-      "quests/generated/templates/kill_monster_single.questtemplate": [
-        "/scriptConfig/generatedText/fluff/9/0"
-      ],
-      "quests/generated/templates/kill_npc.questtemplate": [
-        "/scriptConfig/generatedText/fluff/5/0"
-      ],
-      "quests/generated/templates/kill_npcs.questtemplate": [
-        "/scriptConfig/generatedText/fluff/9/0"
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/12"
       ]
     },
     "Texts": {
-      "Eng": "request"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kill_monster_group.questtemplate": [
-        "/scriptConfig/generatedText/fluff/13/0"
-      ],
-      "quests/generated/templates/kill_monster_single.questtemplate": [
-        "/scriptConfig/generatedText/fluff/7/1/1"
-      ]
-    },
-    "Texts": {
-      "Eng": "rumours"
+      "Eng": "rocks"
     }
   },
   {
@@ -1130,7 +928,23 @@
       ]
     },
     "Texts": {
-      "Eng": "sings to"
+      "Eng": "sings to",
+      "Rus": ""
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/share_secret.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/11",
+        "/scriptConfig/generatedText/fluff/3/1/10"
+      ],
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "sleeping people"
     }
   },
   {
@@ -1144,7 +958,8 @@
       ]
     },
     "Texts": {
-      "Eng": "smells"
+      "Eng": "smells",
+      "Rus": ""
     }
   },
   {
@@ -1159,7 +974,8 @@
       ]
     },
     "Texts": {
-      "Eng": "snails"
+      "Eng": "snails",
+      "Rus": ""
     }
   },
   {
@@ -1173,7 +989,23 @@
       ]
     },
     "Texts": {
-      "Eng": "sort them out"
+      "Eng": "sort them out",
+      "Rus": ""
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/share_secret.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/12",
+        "/scriptConfig/generatedText/fluff/3/1/11"
+      ],
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "spaceships"
     }
   },
   {
@@ -1187,7 +1019,8 @@
       ]
     },
     "Texts": {
-      "Eng": "sssome combat practice"
+      "Eng": "sssome combat practice",
+      "Rus": ""
     }
   },
   {
@@ -1201,7 +1034,8 @@
       ]
     },
     "Texts": {
-      "Eng": "sssome hunting practice"
+      "Eng": "sssome hunting practice",
+      "Rus": ""
     }
   },
   {
@@ -1215,7 +1049,8 @@
       ]
     },
     "Texts": {
-      "Eng": "ssstab them"
+      "Eng": "ssstab them",
+      "Rus": ""
     }
   },
   {
@@ -1229,7 +1064,8 @@
       ]
     },
     "Texts": {
-      "Eng": "stares at"
+      "Eng": "stares at",
+      "Rus": ""
     }
   },
   {
@@ -1243,7 +1079,8 @@
       ]
     },
     "Texts": {
-      "Eng": "their own face"
+      "Eng": "their own face",
+      "Rus": ""
     }
   },
   {
@@ -1257,7 +1094,8 @@
       ]
     },
     "Texts": {
-      "Eng": "their toes"
+      "Eng": "their toes",
+      "Rus": ""
     }
   },
   {
@@ -1271,7 +1109,8 @@
       ]
     },
     "Texts": {
-      "Eng": "themselves"
+      "Eng": "themselves",
+      "Rus": ""
     }
   },
   {
@@ -1285,7 +1124,8 @@
       ]
     },
     "Texts": {
-      "Eng": "trekking"
+      "Eng": "trekking",
+      "Rus": ""
     }
   },
   {
@@ -1300,21 +1140,8 @@
       ]
     },
     "Texts": {
-      "Eng": "vegetables"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/share_secret.questtemplate": [
-        "/scriptConfig/generatedText/fluff/1/0"
-      ],
-      "quests/generated/templates/spread_rumors.questtemplate": [
-        "/scriptConfig/generatedText/fluff/0/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "verb2"
+      "Eng": "vegetables",
+      "Rus": ""
     }
   },
   {
@@ -1328,7 +1155,8 @@
       ]
     },
     "Texts": {
-      "Eng": "walking"
+      "Eng": "walking",
+      "Rus": ""
     }
   },
   {
@@ -1342,7 +1170,22 @@
       ]
     },
     "Texts": {
-      "Eng": "wants to draw"
+      "Eng": "wants to draw",
+      "Rus": ""
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/share_secret.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/10"
+      ],
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "writes stories about"
     }
   },
   {
@@ -1368,7 +1211,8 @@
       ]
     },
     "Texts": {
-      "Eng": "yesterday"
+      "Eng": "yesterday",
+      "Rus": ""
     }
   }
 ]

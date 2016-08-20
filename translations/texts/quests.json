@@ -41,5 +41,55 @@
       "Eng": "Penguin Pete",
       "Rus": "Пингвин Пит"
     }
+  },
+  {
+    "DeniedAlternatives": [
+      "<questGiver> ждет Вас",
+      "Вернись к <questGiver>",
+      "Вернись к <questGiver> ",
+      "Вернись к <questgiver>"
+    ],
+    "Files": {
+      "quests/generated/templates/borrow.questtemplate": [
+        "/scriptConfig/objectives/1/text"
+      ],
+      "quests/generated/templates/collect_fine.questtemplate": [
+        "/scriptConfig/objectives/1/text"
+      ],
+      "quests/generated/templates/collect_gift.questtemplate": [
+        "/scriptConfig/objectives/1/text"
+      ],
+      "quests/generated/templates/escort_trade.questtemplate": [
+        "/scriptConfig/objectives/1/text"
+      ],
+      "quests/generated/templates/extort.questtemplate": [
+        "/scriptConfig/objectives/1/text"
+      ],
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/objectives/2/text"
+      ],
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/objectives/2/text"
+      ],
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/objectives/2/text"
+      ],
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/objectives/2/text"
+      ],
+      "quests/generated/templates/request_craft.questtemplate": [
+        "/scriptConfig/objectives/1/text"
+      ],
+      "quests/generated/templates/steal.questtemplate": [
+        "/scriptConfig/objectives/1/text"
+      ],
+      "quests/quests.config": [
+        "/objectiveDescriptions/return"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return to <questGiver>",
+      "Rus": "<questGiver> ждёт Вас"
+    }
   }
 ]

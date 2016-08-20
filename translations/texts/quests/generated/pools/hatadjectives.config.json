@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "adorable"
+      "Eng": "adorable",
+      "Rus": "умилительно"
     }
   },
   {
@@ -19,7 +20,8 @@
       ]
     },
     "Texts": {
-      "Eng": "adventurous"
+      "Eng": "adventurous",
+      "Rus": "отважно"
     }
   },
   {
@@ -30,7 +32,8 @@
       ]
     },
     "Texts": {
-      "Eng": "alert"
+      "Eng": "alert",
+      "Rus": "внимательно"
     }
   },
   {
@@ -41,7 +44,8 @@
       ]
     },
     "Texts": {
-      "Eng": "ancient"
+      "Eng": "ancient",
+      "Rus": "старомодно"
     }
   },
   {
@@ -52,7 +56,8 @@
       ]
     },
     "Texts": {
-      "Eng": "appealling"
+      "Eng": "appealling",
+      "Rus": "трогательно"
     }
   },
   {
@@ -63,7 +68,8 @@
       ]
     },
     "Texts": {
-      "Eng": "authoritative"
+      "Eng": "authoritative",
+      "Rus": "властно"
     }
   },
   {
@@ -74,7 +80,8 @@
       ]
     },
     "Texts": {
-      "Eng": "chivalrous"
+      "Eng": "chivalrous",
+      "Rus": "доблестно"
     }
   },
   {
@@ -85,7 +92,8 @@
       ]
     },
     "Texts": {
-      "Eng": "clever"
+      "Eng": "clever",
+      "Rus": "умно"
     }
   },
   {
@@ -96,7 +104,8 @@
       ]
     },
     "Texts": {
-      "Eng": "cool"
+      "Eng": "cool",
+      "Rus": "классно"
     }
   },
   {
@@ -107,7 +116,21 @@
       ]
     },
     "Texts": {
-      "Eng": "courageous"
+      "Eng": "courageous",
+      "Rus": "храбро"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/pools/hatadjectives.config": [
+        "/0/1/45/0",
+        "/0/1/46/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "creepy [Для квеста на шляпу]",
+      "Rus": "мрачно"
     }
   },
   {
@@ -118,7 +141,8 @@
       ]
     },
     "Texts": {
-      "Eng": "cultured"
+      "Eng": "cultured",
+      "Rus": "культурно"
     }
   },
   {
@@ -129,7 +153,8 @@
       ]
     },
     "Texts": {
-      "Eng": "dashing"
+      "Eng": "dashing",
+      "Rus": "лихо"
     }
   },
   {
@@ -140,7 +165,8 @@
       ]
     },
     "Texts": {
-      "Eng": "dignified"
+      "Eng": "dignified",
+      "Rus": "достойно"
     }
   },
   {
@@ -151,7 +177,8 @@
       ]
     },
     "Texts": {
-      "Eng": "dramatic"
+      "Eng": "dramatic",
+      "Rus": "драматично"
     }
   },
   {
@@ -162,7 +189,8 @@
       ]
     },
     "Texts": {
-      "Eng": "enigmatic"
+      "Eng": "enigmatic",
+      "Rus": "загадочно"
     }
   },
   {
@@ -174,7 +202,8 @@
       ]
     },
     "Texts": {
-      "Eng": "exciting"
+      "Eng": "exciting",
+      "Rus": "возбуждающе"
     }
   },
   {
@@ -185,7 +214,8 @@
       ]
     },
     "Texts": {
-      "Eng": "fancy"
+      "Eng": "fancy",
+      "Rus": "модно"
     }
   },
   {
@@ -196,7 +226,20 @@
       ]
     },
     "Texts": {
-      "Eng": "fearsome"
+      "Eng": "fearsome",
+      "Rus": "внушительно"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/pools/hatadjectives.config": [
+        "/0/1/40/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "fierce [Для квеста на шляпу]",
+      "Rus": "свирепо"
     }
   },
   {
@@ -207,7 +250,8 @@
       ]
     },
     "Texts": {
-      "Eng": "fresh"
+      "Eng": "fresh",
+      "Rus": "ярко"
     }
   },
   {
@@ -218,7 +262,8 @@
       ]
     },
     "Texts": {
-      "Eng": "friendly"
+      "Eng": "friendly",
+      "Rus": "дружелюбно"
     }
   },
   {
@@ -229,7 +274,8 @@
       ]
     },
     "Texts": {
-      "Eng": "fun"
+      "Eng": "fun",
+      "Rus": "весело"
     }
   },
   {
@@ -241,7 +287,8 @@
       ]
     },
     "Texts": {
-      "Eng": "funny"
+      "Eng": "funny",
+      "Rus": "забавно"
     }
   },
   {
@@ -252,7 +299,8 @@
       ]
     },
     "Texts": {
-      "Eng": "gallant"
+      "Eng": "gallant",
+      "Rus": "галантно"
     }
   },
   {
@@ -264,7 +312,8 @@
       ]
     },
     "Texts": {
-      "Eng": "heroic"
+      "Eng": "heroic",
+      "Rus": "мощно"
     }
   },
   {
@@ -275,7 +324,8 @@
       ]
     },
     "Texts": {
-      "Eng": "intelligent"
+      "Eng": "intelligent",
+      "Rus": "интеллигентно"
     }
   },
   {
@@ -286,7 +336,8 @@
       ]
     },
     "Texts": {
-      "Eng": "interesting"
+      "Eng": "interesting",
+      "Rus": "интригующе"
     }
   },
   {
@@ -297,7 +348,8 @@
       ]
     },
     "Texts": {
-      "Eng": "intimidating"
+      "Eng": "intimidating",
+      "Rus": "устрашающе"
     }
   },
   {
@@ -308,7 +360,8 @@
       ]
     },
     "Texts": {
-      "Eng": "lovely"
+      "Eng": "lovely",
+      "Rus": "обольстительно"
     }
   },
   {
@@ -319,7 +372,8 @@
       ]
     },
     "Texts": {
-      "Eng": "militant"
+      "Eng": "militant",
+      "Rus": "воинственно"
     }
   },
   {
@@ -330,7 +384,8 @@
       ]
     },
     "Texts": {
-      "Eng": "mysterious"
+      "Eng": "mysterious",
+      "Rus": "таинственно"
     }
   },
   {
@@ -341,7 +396,20 @@
       ]
     },
     "Texts": {
-      "Eng": "outgoing"
+      "Eng": "outgoing",
+      "Rus": "общительно"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/pools/hatadjectives.config": [
+        "/0/1/51/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "powerful [Для квеста на шляпу]",
+      "Rus": "могуче"
     }
   },
   {
@@ -352,7 +420,8 @@
       ]
     },
     "Texts": {
-      "Eng": "prepared"
+      "Eng": "prepared",
+      "Rus": "настороженно"
     }
   },
   {
@@ -364,7 +433,8 @@
       ]
     },
     "Texts": {
-      "Eng": "professional"
+      "Eng": "professional",
+      "Rus": "профессионально"
     }
   },
   {
@@ -375,7 +445,8 @@
       ]
     },
     "Texts": {
-      "Eng": "reliable"
+      "Eng": "reliable",
+      "Rus": "доверительно"
     }
   },
   {
@@ -386,7 +457,8 @@
       ]
     },
     "Texts": {
-      "Eng": "scary"
+      "Eng": "scary",
+      "Rus": "ужасающе"
     }
   },
   {
@@ -397,7 +469,8 @@
       ]
     },
     "Texts": {
-      "Eng": "sensible"
+      "Eng": "sensible",
+      "Rus": "чувственно"
     }
   },
   {
@@ -408,7 +481,8 @@
       ]
     },
     "Texts": {
-      "Eng": "squishy"
+      "Eng": "squishy",
+      "Rus": "сентиментально"
     }
   },
   {
@@ -419,7 +493,8 @@
       ]
     },
     "Texts": {
-      "Eng": "striking"
+      "Eng": "striking",
+      "Rus": "необыкновенно"
     }
   },
   {
@@ -430,7 +505,8 @@
       ]
     },
     "Texts": {
-      "Eng": "strong"
+      "Eng": "strong",
+      "Rus": "сильно"
     }
   },
   {
@@ -441,7 +517,8 @@
       ]
     },
     "Texts": {
-      "Eng": "stylish"
+      "Eng": "stylish",
+      "Rus": "стильно"
     }
   },
   {
@@ -452,7 +529,20 @@
       ]
     },
     "Texts": {
-      "Eng": "unnerving"
+      "Eng": "unnerving",
+      "Rus": "обезоруживающе"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/pools/hatadjectives.config": [
+        "/0/1/48/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "vicious [Для квеста на шляпу]",
+      "Rus": "злобно"
     }
   },
   {
@@ -463,7 +553,8 @@
       ]
     },
     "Texts": {
-      "Eng": "wise"
+      "Eng": "wise",
+      "Rus": "мудро"
     }
   }
 ]
