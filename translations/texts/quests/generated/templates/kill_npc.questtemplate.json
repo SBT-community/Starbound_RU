@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<enemy.pronoun.subject> assassinated a <individual>"
+      "Eng": "<enemy.pronoun.subject> assassinated a <individual>",
+      "Rus": "<enemy.pronoun.subject> убил<enemy.pronoun.verbEnding> <individual>"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<enemy.pronoun.subject> carried out a daring heist and stole a cache of <valuable>"
+      "Eng": "<enemy.pronoun.subject> carried out a daring heist and stole a cache of <valuable>",
+      "Rus": "<enemy.pronoun.subject> в результате дерзкого ограбления завладел<enemy.pronoun.verbEnding> кучей <valuable>"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<enemy.pronoun.subject> flirted with a <individual>"
+      "Eng": "<enemy.pronoun.subject> flirted with a <individual>",
+      "Rus": "<enemy.pronoun.subject> закрутил<enemy.pronoun.verbEnding> роман, компрометирующий <individual>"
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<enemy.pronoun.subject> got involved in illegal penguin wrestling"
+      "Eng": "<enemy.pronoun.subject> got involved in illegal penguin wrestling",
+      "Rus": "<enemy.pronoun.subject> участвовал<enemy.pronoun.verbEnding> в нелегальном пингвиньем рестлинге"
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<enemy.pronoun.subject> hijacked a <company> shipping freighter"
+      "Eng": "<enemy.pronoun.subject> hijacked a <company> shipping freighter",
+      "Rus": "<enemy.pronoun.subject> угнал<enemy.pronoun.verbEnding> транспортный корабль <company>"
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<enemy.pronoun.subject> let all the animals free in a zoo"
+      "Eng": "<enemy.pronoun.subject> let all the animals free in a zoo",
+      "Rus": "<enemy.pronoun.subject> выпустил<enemy.pronoun.verbEnding> животных из зоопарка на волю"
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<enemy.pronoun.subject> robbed a <company> weapon shipment"
+      "Eng": "<enemy.pronoun.subject> robbed a <company> weapon shipment",
+      "Rus": "<enemy.pronoun.subject> ограбил<enemy.pronoun.verbEnding> транспортник <company> с грузом оружия"
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<enemy.pronoun.subject> robbed a <individual> at gunpoint"
+      "Eng": "<enemy.pronoun.subject> robbed a <individual> at gunpoint",
+      "Rus": "<enemy.pronoun.subject> оставил<enemy.pronoun.verbEnding> <individual> без последних портков"
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<enemy.pronoun.subject> robbed a <individual> of their <valuable>"
+      "Eng": "<enemy.pronoun.subject> robbed a <individual> of their <valuable>",
+      "Rus": "<enemy.pronoun.subject> лишил<enemy.pronoun.verbEnding> у <individual> всех запасов <valuable>"
     }
   },
   {
@@ -106,7 +115,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<enemy.pronoun.subject> stole an entire planet's supply of <valuable>"
+      "Eng": "<enemy.pronoun.subject> stole an entire planet's supply of <valuable>",
+      "Rus": "<enemy.pronoun.subject> перекрыл<enemy.pronoun.verbEnding> поставки <valuable> к целой планете"
     }
   },
   {
@@ -117,7 +127,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A <enemy> to defeat"
+      "Eng": "A <enemy> to defeat",
+      "Rus": "<enemy>: неизбежное правосудие"
     }
   },
   {
@@ -129,7 +140,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An outlaw is on the loose! Rumour has it ^orange;<adjective> <enemy.name> the <enemy>^white; is at the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Apparently <enemy.pronoun.copulativePast> been on the run ever since <crime>. ^green;Can you go and <request>^white; and make things safer around here?"
+      "Eng": "An outlaw is on the loose! Rumour has it ^orange;<adjective> <enemy.name> the <enemy>^white; is at the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Apparently <enemy.pronoun.copulativePast> been on the run ever since <crime>. ^green;Can you go and <request>^white; and make things safer around here?",
+      "Rus": "Преступник в бегах! Ходят слухи, что ^orange;<enemy.name> <adjective>^white; засел<enemy.pronoun.verbEnding> неподалёку от ^orange;<spawnPoint>^white; <spawnPoint.direction>. Судя по всему, <enemy.pronoun.subject> прячется там c тех пор, как <crime>. ^green;Не мог бы ты сходить и <request>^white;, чтобы жить тут стало чуть безопаснее?"
     }
   },
   {
@@ -140,7 +152,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Bullseye"
+      "Eng": "Bullseye",
+      "Rus": "Снейпер"
     }
   },
   {
@@ -151,7 +164,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Calamity"
+      "Eng": "Calamity",
+      "Rus": "Погибель"
     }
   },
   {
@@ -162,7 +176,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Callox"
+      "Eng": "Callox",
+      "Rus": "компании Каллокс"
     }
   },
   {
@@ -173,7 +188,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Challenging <adjective> <enemy.name>"
+      "Eng": "Challenging <adjective> <enemy.name>",
+      "Rus": "<enemy.name> <adjective>: охота открыта"
     }
   },
   {
@@ -184,7 +200,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Crackshot"
+      "Eng": "Crackshot",
+      "Rus": "Быстрая Рука"
     }
   },
   {
@@ -195,7 +212,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Crafty"
+      "Eng": "Crafty",
+      "Rus": "Мастер"
     }
   },
   {
@@ -206,7 +224,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Did you hunt down that outlaw? <appreciationfloran>"
+      "Eng": "Did you hunt down that outlaw? <appreciationfloran>",
+      "Rus": "Преступник сстал жертвой? <appreciationfloran>"
     }
   },
   {
@@ -218,7 +237,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Did you manage to defeat <enemy.name>? <appreciation>"
+      "Eng": "Did you manage to defeat <enemy.name>? <appreciation>",
+      "Rus": "<enemy.name> повержен<enemy.pronoun.verbEnding>? <appreciation>"
     }
   },
   {
@@ -230,7 +250,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Did you put a stop to <enemy.name>'s crime spree? <appreciation>"
+      "Eng": "Did you put a stop to <enemy.name>'s crime spree? <appreciation>",
+      "Rus": "Можно быть уверенным, что <enemy.name> больше ничего не сделает? <appreciation>"
     }
   },
   {
@@ -241,7 +262,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Did you ssstab <enemy.name>? <appreciationfloran>"
+      "Eng": "Did you ssstab <enemy.name>? <appreciationfloran>",
+      "Rus": "<enemy.name> зарезан<enemy.pronoun.verbEnding>? <appreciationfloran>"
     }
   },
   {
@@ -252,7 +274,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran Greenfinger"
+      "Eng": "Floran Greenfinger",
+      "Rus": "флоранского Древоуста"
     }
   },
   {
@@ -263,7 +286,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran heard that ^orange;<adjective> <enemy.name> the <enemy>^white; isss at the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Floran doesn't know what they did, but <crimefloran> ^green;Can you go and <requestfloran>^white;?"
+      "Eng": "Floran heard that ^orange;<adjective> <enemy.name> the <enemy>^white; isss at the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Floran doesn't know what they did, but <crimefloran> ^green;Can you go and <requestfloran>^white;?",
+      "Rus": "Флоран сслышал, что ^orange;<enemy.name> <adjective>^white; прячется близ ^orange;<spawnPoint>^white; <spawnPoint.direction>. Флоран не знает, что <enemy.pronoun.subject> ссделал<enemy.pronoun.verbEnding>, но <crimefloran> ^green;Ты можешь пойти и <requestfloran>^white;?"
     }
   },
   {
@@ -274,7 +298,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran isss impressed! Floran didn't think you could beat them!"
+      "Eng": "Floran isss impressed! Floran didn't think you could beat them!",
+      "Rus": "Флоран впечатлён! Флоран думал, что ты не ссправишься!"
     }
   },
   {
@@ -285,7 +310,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran knows who to go to about dangerousss outlaws in future!"
+      "Eng": "Floran knows who to go to about dangerousss outlaws in future!",
+      "Rus": "Флоран знает, к кому обратитьсся, если нужно будет кого-то ещё порезать!"
     }
   },
   {
@@ -296,7 +322,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran knows you're the bessst hunter around!"
+      "Eng": "Floran knows you're the bessst hunter around!",
+      "Rus": "Флоран был уверен, что ты лучший охотник в этих месстах!"
     }
   },
   {
@@ -307,7 +334,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran thinksss they might have good loot!"
+      "Eng": "Floran thinksss they might have good loot!",
+      "Rus": "Флоран думает, что у н<enemy.pronoun.reflexive> в карманах завалялось лишнее!"
     }
   },
   {
@@ -318,7 +346,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran was at the ^orange;<spawnPoint>^green;<spawnPoint.direction> when Floran sssaw the famous outlaw ^orange;<adjective> <enemy.name> the <enemy>^white;. Floran can't remember why they're famous but <crimefloran>. ^green;Could you go and <requestfloran>^white;?"
+      "Eng": "Floran was at the ^orange;<spawnPoint>^green;<spawnPoint.direction> when Floran sssaw the famous outlaw ^orange;<adjective> <enemy.name> the <enemy>^white;. Floran can't remember why they're famous but <crimefloran>. ^green;Could you go and <requestfloran>^white;?",
+      "Rus": "Флоран был недавно у ^orange;<spawnPoint>^green;<spawnPoint.direction> и Флоран там видел извесстного бандита по имени ^orange;<enemy.name><adjective>^white;. Флоран не помнит, чем он известен, но <crimefloran>. ^green;Ты можешь пойти и <requestfloran>^white;?"
     }
   },
   {
@@ -329,7 +358,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Glitch prince"
+      "Eng": "Glitch prince",
+      "Rus": "Принца Глитчей"
     }
   },
   {
@@ -340,7 +370,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Glitch princess"
+      "Eng": "Glitch princess",
+      "Rus": "Принцессу Глитчей"
     }
   },
   {
@@ -351,7 +382,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Glitch royal"
+      "Eng": "Glitch royal",
+      "Rus": "Короля Глитчей"
     }
   },
   {
@@ -362,7 +394,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Graxus"
+      "Eng": "Graxus",
+      "Rus": "Граксус"
     }
   },
   {
@@ -373,7 +406,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Great! We don't need more trouble round here."
+      "Eng": "Great! We don't need more trouble round here.",
+      "Rus": "Отлично! Нам тут проблемы не нужны."
     }
   },
   {
@@ -384,7 +418,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have you heard of the outlaw ^orange;<adjective> <enemy.name> the <enemy>^white;? I've heard <enemy.pronoun.copulative> laying low nearby after <crime>. We don't need that kind of trouble around here - ^green;could you go to the ^orange;<spawnPoint>^green;<spawnPoint.direction> and <request>^white;?"
+      "Eng": "Have you heard of the outlaw ^orange;<adjective> <enemy.name> the <enemy>^white;? I've heard <enemy.pronoun.copulative> laying low nearby after <crime>. We don't need that kind of trouble around here - ^green;could you go to the ^orange;<spawnPoint>^green;<spawnPoint.direction> and <request>^white;?",
+      "Rus": "Ты слышал о преступнике по имени ^orange;<enemy.name> <adjective> ^white;? А вот я слышал - в частности то, что <enemy.pronoun.subject> прячется где-то тут после того, как <crime>. Нам такие соседи не нужны - так что ты не мог бы найти <enemy.pronoun.reflexive> у ^orange;<spawnPoint>^green; <spawnPoint.direction> и <request>^white;?"
     }
   },
   {
@@ -395,7 +430,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I am so glad you were here to help with this!"
+      "Eng": "I am so glad you were here to help with this!",
+      "Rus": "Я так рад, что ты смог помочь нам!"
     }
   },
   {
@@ -406,7 +442,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I guess I wasn't able to help <questGiver>. I'm sure someone else will defeat the dangerous outlaw."
+      "Eng": "I guess I wasn't able to help <questGiver>. I'm sure someone else will defeat the dangerous outlaw.",
+      "Rus": "Я не смог помочь. Может быть, <questGiver> найдёт ещё кого-то, чтобы справиться с бандитами."
     }
   },
   {
@@ -418,7 +455,7 @@
     },
     "Texts": {
       "Eng": "Kill <adjective> <enemy.name>",
-      "Rus": "Убейте <adjective> <enemy.name> "
+      "Rus": "Убейте цель (<enemy.name> <adjective>)"
     }
   },
   {
@@ -429,7 +466,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Killer"
+      "Eng": "Killer",
+      "Rus": "Убийца"
     }
   },
   {
@@ -440,7 +478,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Manaticon"
+      "Eng": "Manaticon",
+      "Rus": "компании Манатикон"
     }
   },
   {
@@ -451,7 +490,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Miniknog"
+      "Eng": "Miniknog",
+      "Rus": "Министерства"
     }
   },
   {
@@ -462,7 +502,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Necrolix"
+      "Eng": "Necrolix",
+      "Rus": "компании Некроликс"
     }
   },
   {
@@ -473,7 +514,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Rotik"
+      "Eng": "Rotik",
+      "Rus": "компании Ротик"
     }
   },
   {
@@ -484,7 +526,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Shade Co."
+      "Eng": "Shade Co.",
+      "Rus": "Компании Шейд Ко."
     }
   },
   {
@@ -495,7 +538,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Silent"
+      "Eng": "Silent",
+      "Rus": "Тихоня"
     }
   },
   {
@@ -506,7 +550,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Sly"
+      "Eng": "Sly",
+      "Rus": "Шулер"
     }
   },
   {
@@ -517,7 +562,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Swift"
+      "Eng": "Swift",
+      "Rus": "Проныра"
     }
   },
   {
@@ -528,7 +574,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Teklacki"
+      "Eng": "Teklacki",
+      "Rus": "компании Теклаки"
     }
   },
   {
@@ -539,7 +586,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Terrene Protectorate"
+      "Eng": "Terrene Protectorate",
+      "Rus": "Земного Протектората"
     }
   },
   {
@@ -550,7 +598,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Thanks for your help!"
+      "Eng": "Thanks for your help!",
+      "Rus": "Спасибо за помощь!"
     }
   },
   {
@@ -561,7 +610,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Vile"
+      "Eng": "Vile",
+      "Rus": "Подонок"
     }
   },
   {
@@ -572,7 +622,8 @@
       ]
     },
     "Texts": {
-      "Eng": "We have a <problem>! Have you heard of the outlaw ^orange;<adjective> <enemy.name> the <enemy>^white;? I've heard <enemy.pronoun.copulative> laying low nearby after <crime>. We don't need that kind of trouble around here - ^green;could you go to the ^orange;<spawnPoint>^green;<spawnPoint.direction> and <request>^white;?"
+      "Eng": "We have a <problem>! Have you heard of the outlaw ^orange;<adjective> <enemy.name> the <enemy>^white;? I've heard <enemy.pronoun.copulative> laying low nearby after <crime>. We don't need that kind of trouble around here - ^green;could you go to the ^orange;<spawnPoint>^green;<spawnPoint.direction> and <request>^white;?",
+      "Rus": "У нас проблема! Ты слышал о бандите по имени ^orange;<enemy.name> <adjective>^white;? После того, как <crime>, <enemy.pronoun.subject> прячется где-то тут, на планете. Это опасное соседство - так что ^green;не мог бы ты пройтись до ^orange;<spawnPoint>^green;<spawnPoint.direction> and <request>^white;?"
     }
   },
   {
@@ -583,7 +634,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Who needs guards with you around, huh? Thanks for your help!"
+      "Eng": "Who needs guards with you around, huh? Thanks for your help!",
+      "Rus": "Кому вообще нужны стражники, если ты тут? Спасибо!"
     }
   },
   {
@@ -594,7 +646,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Xia-Li"
+      "Eng": "Xia-Li",
+      "Rus": "корпорации Ксиа-Ли"
     }
   },
   {
@@ -605,7 +658,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;An outlaw has escaped to our planet!"
+      "Eng": "^cyan;An outlaw has escaped to our planet!",
+      "Rus": "^cyan;Бандит сбежал на нашу планету!"
     }
   },
   {
@@ -616,7 +670,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Floran has interesssting information to tell..."
+      "Eng": "^cyan;Floran has interesssting information to tell...",
+      "Rus": "^cyan;Флоран может рассказать кое-что занятное..."
     }
   },
   {
@@ -627,7 +682,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Floran heard about an outlaw nearby!"
+      "Eng": "^cyan;Floran heard about an outlaw nearby!",
+      "Rus": "^cyan;Флоран сслышал о том, что рядом засел бандит!"
     }
   },
   {
@@ -638,7 +694,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Flustered. I've found out there's a dangerous outlaw nearby..."
+      "Eng": "^cyan;Flustered. I've found out there's a dangerous outlaw nearby...",
+      "Rus": "^cyan;Взволнованно. Я обнаружил, что неподалёку прячется опасный преступник..."
     }
   },
   {
@@ -649,7 +706,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;I've found out there's a dangerous outlaw nearby..."
+      "Eng": "^cyan;I've found out there's a dangerous outlaw nearby...",
+      "Rus": "^cyan;Я обнаружил, что неподалёку прячется опасный преступник..."
     }
   },
   {
@@ -660,7 +718,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Panicked. An outlaw has escaped to our planet!"
+      "Eng": "^cyan;Panicked. An outlaw has escaped to our planet!",
+      "Rus": "^cyan;Перепуганно. Бандит сбежал на нашу планету!"
     }
   },
   {
@@ -671,7 +730,8 @@
       ]
     },
     "Texts": {
-      "Eng": "bandit leader"
+      "Eng": "bandit leader",
+      "Rus": "главаря своей банды"
     }
   },
   {
@@ -682,7 +742,8 @@
       ]
     },
     "Texts": {
-      "Eng": "bandit with powerful connections"
+      "Eng": "bandit with powerful connections",
+      "Rus": "влиятельного пирата"
     }
   },
   {
@@ -693,7 +754,8 @@
       ]
     },
     "Texts": {
-      "Eng": "chickens"
+      "Eng": "chickens",
+      "Rus": "кур"
     }
   },
   {
@@ -704,7 +766,8 @@
       ]
     },
     "Texts": {
-      "Eng": "company"
+      "Eng": "company",
+      "Rus": "company"
     }
   },
   {
@@ -715,7 +778,8 @@
       ]
     },
     "Texts": {
-      "Eng": "crimefloran"
+      "Eng": "crimefloran",
+      "Rus": "crimefloran"
     }
   },
   {
@@ -726,7 +790,8 @@
       ]
     },
     "Texts": {
-      "Eng": "deal with <enemy.pronoun.object>"
+      "Eng": "deal with <enemy.pronoun.object>",
+      "Rus": "разобраться с <enemy.pronoun.copulativePast>"
     }
   },
   {
@@ -737,7 +802,8 @@
       ]
     },
     "Texts": {
-      "Eng": "diamonds"
+      "Eng": "diamonds",
+      "Rus": "бриллиантов"
     }
   },
   {
@@ -748,7 +814,8 @@
       ]
     },
     "Texts": {
-      "Eng": "gold"
+      "Eng": "gold",
+      "Rus": "золота"
     }
   },
   {
@@ -759,7 +826,8 @@
       ]
     },
     "Texts": {
-      "Eng": "group of famed travelling adventurers"
+      "Eng": "group of famed travelling adventurers",
+      "Rus": "группу знаменитых путешественников"
     }
   },
   {
@@ -770,7 +838,8 @@
       ]
     },
     "Texts": {
-      "Eng": "hunt them"
+      "Eng": "hunt them",
+      "Rus": "открыть на н<enemy.pronoun.reflexive> охоту"
     }
   },
   {
@@ -781,7 +850,8 @@
       ]
     },
     "Texts": {
-      "Eng": "individual"
+      "Eng": "individual",
+      "Rus": "individual"
     }
   },
   {
@@ -792,7 +862,8 @@
       ]
     },
     "Texts": {
-      "Eng": "powerful Avian Stargazer"
+      "Eng": "powerful Avian Stargazer",
+      "Rus": "авианского Звездочёта"
     }
   },
   {
@@ -804,7 +875,8 @@
       ]
     },
     "Texts": {
-      "Eng": "problem"
+      "Eng": "problem",
+      "Rus": "problem"
     }
   },
   {
@@ -815,7 +887,8 @@
       ]
     },
     "Texts": {
-      "Eng": "renowned Hylotl poet"
+      "Eng": "renowned Hylotl poet",
+      "Rus": "прославленного хилотлского поэта"
     }
   },
   {
@@ -826,7 +899,8 @@
       ]
     },
     "Texts": {
-      "Eng": "requestfloran"
+      "Eng": "requestfloran",
+      "Rus": "requestfloran"
     }
   },
   {
@@ -837,7 +911,8 @@
       ]
     },
     "Texts": {
-      "Eng": "silverware"
+      "Eng": "silverware",
+      "Rus": "серебра"
     }
   },
   {
@@ -848,7 +923,8 @@
       ]
     },
     "Texts": {
-      "Eng": "situation"
+      "Eng": "situation",
+      "Rus": "situation"
     }
   },
   {
@@ -859,7 +935,8 @@
       ]
     },
     "Texts": {
-      "Eng": "sort <enemy.pronoun.object> out"
+      "Eng": "sort <enemy.pronoun.object> out",
+      "Rus": "разделайся с <enemy.pronoun.reflexive>"
     }
   },
   {
@@ -870,7 +947,8 @@
       ]
     },
     "Texts": {
-      "Eng": "sssort them out for Floran"
+      "Eng": "sssort them out for Floran",
+      "Rus": "разделайсcя с <enemy.pronoun.reflexive>"
     }
   },
   {
@@ -881,7 +959,8 @@
       ]
     },
     "Texts": {
-      "Eng": "take <enemy.pronoun.object> out"
+      "Eng": "take <enemy.pronoun.object> out",
+      "Rus": "ликвидируй <enemy.pronoun.reflexive>"
     }
   },
   {
@@ -892,7 +971,8 @@
       ]
     },
     "Texts": {
-      "Eng": "teach <enemy.pronoun.object> a lesson"
+      "Eng": "teach <enemy.pronoun.object> a lesson",
+      "Rus": "преподай <enemy.pronoun.object> урок"
     }
   },
   {
@@ -903,7 +983,8 @@
       ]
     },
     "Texts": {
-      "Eng": "they don't sssound very trustworthy so you should probably ssstab them anyway."
+      "Eng": "they don't sssound very trustworthy so you should probably ssstab them anyway.",
+      "Rus": "надо зарезать <enemy.pronoun.object> прежде, чем <enemy.pronoun.subject> что-нибудь этакое выкинет."
     }
   },
   {
@@ -914,7 +995,8 @@
       ]
     },
     "Texts": {
-      "Eng": "they might be fun to fight!"
+      "Eng": "they might be fun to fight!",
+      "Rus": "с <enemy.pronoun.copulativePast> должно быть весело ссразиться!"
     }
   },
   {
@@ -925,7 +1007,8 @@
       ]
     },
     "Texts": {
-      "Eng": "they probably would ssstab you if they got the chance."
+      "Eng": "they probably would ssstab you if they got the chance.",
+      "Rus": "надо бы зарезать <enemy.pronoun.object> прежде, чем <enemy.pronoun.subject> зарежет меня."
     }
   },
   {
@@ -936,7 +1019,8 @@
       ]
     },
     "Texts": {
-      "Eng": "they will probably jussst cause trouble for Floran."
+      "Eng": "they will probably jussst cause trouble for Floran.",
+      "Rus": "<enemy.pronoun.subject> наверное только и ждёт, когда начать вставть Флорану палки в колёсса."
     }
   },
   {
@@ -947,7 +1031,8 @@
       ]
     },
     "Texts": {
-      "Eng": "valuable"
+      "Eng": "valuable",
+      "Rus": "valuable"
     }
   },
   {
@@ -958,7 +1043,8 @@
       ]
     },
     "Texts": {
-      "Eng": "weapons"
+      "Eng": "weapons",
+      "Rus": "weapons"
     }
   },
   {
@@ -969,7 +1055,8 @@
       ]
     },
     "Texts": {
-      "Eng": "well-connected banker"
+      "Eng": "well-connected banker",
+      "Rus": "уважаемого банкира"
     }
   },
   {
@@ -980,7 +1067,8 @@
       ]
     },
     "Texts": {
-      "Eng": "you might have fun hunting them!"
+      "Eng": "you might have fun hunting them!",
+      "Rus": "поохотиться на н<enemy.pronoun.reflexive> должно быть весело!"
     }
   }
 ]
