@@ -257,21 +257,6 @@
     }
   },
   {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/escort.questtemplate": [
-        "/scriptConfig/generatedText/fluff/3/1/3"
-      ],
-      "quests/generated/templates/kidnapping.questtemplate": [
-        "/scriptConfig/generatedText/fluff/5/1/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "Poptops",
-      "Rus": "Поптопы"
-    }
-  },
-  {
     "DeniedAlternatives": [
       "Верни свёрток <questGiver>"
     ],
@@ -795,21 +780,6 @@
     },
     "Texts": {
       "Eng": "make them pay",
-      "Rus": ""
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kill_monster_group.questtemplate": [
-        "/scriptConfig/generatedText/fluff/0/1/0"
-      ],
-      "quests/generated/templates/kill_monster_single.questtemplate": [
-        "/scriptConfig/generatedText/fluff/0/1/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "monsters",
       "Rus": ""
     }
   },

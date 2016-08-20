@@ -1,0 +1,21 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/pools/monsterthreats.config": [
+        "/0/1/11/1/name",
+        "/0/1/12/1/name"
+      ],
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/0"
+      ],
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "monsters",
+      "Rus": ""
+    }
+  }
+]
