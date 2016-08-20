@@ -76,7 +76,8 @@ foi = {
   ".monstertype": ["^(.+/)?dialog/.+$"],
   ".monsterskill": ["^label$"],
   ".aimission": [".*Text$"],
-  ".questtemplate": ["^.+Text(/.+/[0-9]+)?$", "^scriptConfig/descriptions/.+$"],
+  ".questtemplate": ["^.+Text(/[^0-9]+([0-9]+/1)?/[0-9]+)?$",
+    "^scriptConfig/descriptions/.+$"],
   ".tooltip": [],
   ".itemdescription": [],
   "_metadata":[]
