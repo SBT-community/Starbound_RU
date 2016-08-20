@@ -803,6 +803,9 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/10"
+      ],
       "quests/generated/templates/kill_monster_group.questtemplate": [
         "/scriptConfig/generatedText/fluff/5/0",
         "/scriptConfig/generatedText/fluff/5/1/0"
@@ -974,6 +977,20 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "quests/generated/templates/share_secret.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/11"
+      ],
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "loves"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "quests/generated/templates/kill_monster_group.questtemplate": [
         "/scriptConfig/generatedText/fluff/10/1/3"
       ],
@@ -1114,6 +1131,21 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "quests/generated/templates/share_secret.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/13",
+        "/scriptConfig/generatedText/fluff/3/1/12"
+      ],
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "rocks"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "quests/generated/templates/kill_monster_group.questtemplate": [
         "/scriptConfig/generatedText/fluff/13/0"
       ],
@@ -1139,6 +1171,21 @@
     "Texts": {
       "Eng": "sings to",
       "Rus": ""
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/share_secret.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/11",
+        "/scriptConfig/generatedText/fluff/3/1/10"
+      ],
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "sleeping people"
     }
   },
   {
@@ -1185,6 +1232,21 @@
     "Texts": {
       "Eng": "sort them out",
       "Rus": ""
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/share_secret.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/12",
+        "/scriptConfig/generatedText/fluff/3/1/11"
+      ],
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "spaceships"
     }
   },
   {
@@ -1366,6 +1428,20 @@
     "Texts": {
       "Eng": "wants to draw",
       "Rus": ""
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/share_secret.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/10"
+      ],
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "writes stories about"
     }
   },
   {

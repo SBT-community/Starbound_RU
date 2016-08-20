@@ -3,12 +3,34 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/19"
+      ]
+    },
+    "Texts": {
+      "Eng": "<enemy.pronoun.possessiveDet> gang turned on <enemy.pronoun.object> after a series of poor leadership decisions"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/1/1/2"
       ]
     },
     "Texts": {
       "Eng": "<enemy.pronoun.subject> assassinated a <individual>",
       "Rus": "<enemy.pronoun.subject> убил<enemy.pronoun.verbEnding> <individual>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/17"
+      ]
+    },
+    "Texts": {
+      "Eng": "<enemy.pronoun.subject> botched a daring heist"
     }
   },
   {
@@ -27,12 +49,34 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "<enemy.pronoun.subject> failed a heist on a <individual>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/1/1/4"
       ]
     },
     "Texts": {
       "Eng": "<enemy.pronoun.subject> flirted with a <individual>",
       "Rus": "<enemy.pronoun.subject> закрутил<enemy.pronoun.verbEnding> роман, компрометирующий <individual>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "<enemy.pronoun.subject> flooded an entire city with lava"
     }
   },
   {
@@ -57,6 +101,17 @@
     "Texts": {
       "Eng": "<enemy.pronoun.subject> hijacked a <company> shipping freighter",
       "Rus": "<enemy.pronoun.subject> угнал<enemy.pronoun.verbEnding> транспортный корабль <company>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "<enemy.pronoun.subject> kept digging holes in people's houses while they were sleeping"
     }
   },
   {
@@ -111,12 +166,67 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "<enemy.pronoun.subject> stole all the furniture from a town"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/1/1/6"
       ]
     },
     "Texts": {
       "Eng": "<enemy.pronoun.subject> stole an entire planet's supply of <valuable>",
       "Rus": "<enemy.pronoun.subject> перекрыл<enemy.pronoun.verbEnding> поставки <valuable> к целой планете"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "<enemy.pronoun.subject> tried to steal an entire ocean"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/18"
+      ]
+    },
+    "Texts": {
+      "Eng": "<enemy.pronoun.subject> was betrayed by a member of <enemy.pronoun.possessiveDet> gang"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "<enemy.pronoun.subject> was caught trying to illegally smuggle <valuable>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "<enemy.pronoun.subject> wouldn't stop stealing roof tiles from a city"
     }
   },
   {
@@ -474,6 +584,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lightspeed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/2/1/0"
       ]
     },
@@ -492,6 +613,17 @@
     "Texts": {
       "Eng": "Miniknog",
       "Rus": "Министерства"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Miniknog General"
     }
   },
   {
@@ -528,6 +660,17 @@
     "Texts": {
       "Eng": "Shade Co.",
       "Rus": "Компании Шейд Ко."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shadowy"
     }
   },
   {

@@ -302,11 +302,33 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "can kill you in your dreams"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
         "/scriptConfig/generatedText/fluff/8/1/3"
       ]
     },
     "Texts": {
       "Eng": "can read your thoughts"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "can turn inside out at will"
     }
   },
   {
@@ -413,11 +435,44 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "has a preference for eating brave adventurers"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "has forgotten how to love"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
         "/scriptConfig/generatedText/fluff/8/1/1"
       ]
     },
     "Texts": {
       "Eng": "has lived for a hundred years"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "has returned from the dead"
     }
   },
   {
@@ -451,6 +506,17 @@
     },
     "Texts": {
       "Eng": "is constantly whispering the names of those next fated to die"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "is from the future"
     }
   },
   {
