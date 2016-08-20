@@ -905,30 +905,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
-        "/scriptConfig/generatedText/fluff/2/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "company",
-      "Rus": "company"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kill_npc.questtemplate": [
-        "/scriptConfig/generatedText/fluff/8/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "crimefloran",
-      "Rus": "crimefloran"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/5/1/2"
       ]
     },
@@ -989,18 +965,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
-        "/scriptConfig/generatedText/fluff/3/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "individual",
-      "Rus": "individual"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/3/1/7"
       ]
     },
@@ -1013,7 +977,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
-        "/scriptConfig/generatedText/fluff/6/0",
         "/scriptConfig/generatedText/fluff/6/1/0"
       ]
     },
@@ -1032,18 +995,6 @@
     "Texts": {
       "Eng": "renowned Hylotl poet",
       "Rus": "прославленного хилотлского поэта"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kill_npc.questtemplate": [
-        "/scriptConfig/generatedText/fluff/9/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "requestfloran",
-      "Rus": "requestfloran"
     }
   },
   {
@@ -1164,18 +1115,6 @@
     "Texts": {
       "Eng": "they will probably jussst cause trouble for Floran.",
       "Rus": "<enemy.pronoun.subject> наверное только и ждёт, когда начать вставть Флорану палки в колёсса."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kill_npc.questtemplate": [
-        "/scriptConfig/generatedText/fluff/4/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "valuable",
-      "Rus": "valuable"
     }
   },
   {

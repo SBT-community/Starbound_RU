@@ -335,17 +335,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_monster_single.questtemplate": [
-        "/scriptConfig/generatedText/fluff/10/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "challengefloran"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kill_monster_single.questtemplate": [
         "/scriptConfig/generatedText/fluff/1/1/6",
         "/scriptConfig/generatedText/fluff/2/1/2"
       ]
@@ -358,33 +347,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_monster_single.questtemplate": [
-        "/scriptConfig/generatedText/fluff/5/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "disaster"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kill_monster_single.questtemplate": [
         "/scriptConfig/generatedText/fluff/5/1/1"
       ]
     },
     "Texts": {
       "Eng": "disaster struck"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kill_monster_single.questtemplate": [
-        "/scriptConfig/generatedText/fluff/6/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "fate"
     }
   },
   {
@@ -407,28 +374,6 @@
     },
     "Texts": {
       "Eng": "get rid of it"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kill_monster_single.questtemplate": [
-        "/scriptConfig/generatedText/fluff/1/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "giant"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kill_monster_single.questtemplate": [
-        "/scriptConfig/generatedText/fluff/2/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "giantfloran"
     }
   },
   {
@@ -655,11 +600,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_monster_single.questtemplate": [
-        "/scriptConfig/generatedText/fluff/8/0"
+        "/scriptConfig/generatedText/fluff/7/1/1"
       ]
     },
     "Texts": {
-      "Eng": "rumour1"
+      "Eng": "rumours",
+      "Rus": ""
     }
   },
   {
@@ -732,7 +678,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_monster_single.questtemplate": [
-        "/scriptConfig/generatedText/fluff/7/0",
         "/scriptConfig/generatedText/fluff/7/1/0"
       ]
     },

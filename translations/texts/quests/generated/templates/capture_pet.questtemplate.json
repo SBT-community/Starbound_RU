@@ -357,39 +357,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/capture_pet.questtemplate": [
-        "/scriptConfig/generatedText/fluff/5/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "florandreams"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/capture_pet.questtemplate": [
-        "/scriptConfig/generatedText/fluff/3/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "guide1"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/capture_pet.questtemplate": [
-        "/scriptConfig/generatedText/fluff/4/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "guide2"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/capture_pet.questtemplate": [
         "/scriptConfig/generatedText/fluff/0/1/3"
       ]
     },
@@ -461,17 +428,6 @@
     },
     "Texts": {
       "Eng": "might be skilled enough to help"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/capture_pet.questtemplate": [
-        "/scriptConfig/generatedText/fluff/0/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "reason"
     }
   },
   {

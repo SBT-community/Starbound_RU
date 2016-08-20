@@ -381,39 +381,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_npcs.questtemplate": [
-        "/scriptConfig/generatedText/fluff/3/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "crime1"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kill_npcs.questtemplate": [
-        "/scriptConfig/generatedText/fluff/4/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "crime2"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kill_npcs.questtemplate": [
-        "/scriptConfig/generatedText/fluff/5/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "crime3"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kill_npcs.questtemplate": [
         "/scriptConfig/generatedText/fluff/7/1/1"
       ]
     },
@@ -425,7 +392,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_npcs.questtemplate": [
-        "/scriptConfig/generatedText/fluff/13/0",
         "/scriptConfig/generatedText/fluff/13/1/0"
       ]
     },
@@ -437,33 +403,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_npcs.questtemplate": [
-        "/scriptConfig/generatedText/fluff/14/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "discussion"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kill_npcs.questtemplate": [
         "/scriptConfig/generatedText/fluff/17/1/4"
       ]
     },
     "Texts": {
       "Eng": "doesn't trussst them"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kill_npcs.questtemplate": [
-        "/scriptConfig/generatedText/fluff/12/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "doubt"
     }
   },
   {
@@ -486,39 +430,6 @@
     },
     "Texts": {
       "Eng": "explore the area"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kill_npcs.questtemplate": [
-        "/scriptConfig/generatedText/fluff/18/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "floranexcuse"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kill_npcs.questtemplate": [
-        "/scriptConfig/generatedText/fluff/16/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "floranmotivation"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kill_npcs.questtemplate": [
-        "/scriptConfig/generatedText/fluff/17/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "floransuspicious"
     }
   },
   {
@@ -635,7 +546,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_npcs.questtemplate": [
-        "/scriptConfig/generatedText/fluff/15/0",
         "/scriptConfig/generatedText/fluff/15/1/0"
       ]
     },
@@ -696,28 +606,6 @@
     },
     "Texts": {
       "Eng": "justice"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kill_npcs.questtemplate": [
-        "/scriptConfig/generatedText/fluff/7/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "justice1"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kill_npcs.questtemplate": [
-        "/scriptConfig/generatedText/fluff/8/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "justice2"
     }
   },
   {
@@ -845,7 +733,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_npcs.questtemplate": [
-        "/scriptConfig/generatedText/fluff/11/0",
         "/scriptConfig/generatedText/fluff/11/1/0"
       ]
     },
@@ -868,17 +755,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_npcs.questtemplate": [
-        "/scriptConfig/generatedText/fluff/1/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "personal"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kill_npcs.questtemplate": [
         "/scriptConfig/generatedText/fluff/6/1/1"
       ]
     },
@@ -895,17 +771,6 @@
     },
     "Texts": {
       "Eng": "quite upset"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kill_npcs.questtemplate": [
-        "/scriptConfig/generatedText/fluff/6/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "reaction"
     }
   },
   {
