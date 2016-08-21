@@ -107,7 +107,7 @@
     },
     "Texts": {
       "Eng": "I'm impressed! Thank you so much!",
-      "Rus": "Я впечатлён! Спасибо тебе огромное!"
+      "Rus": "Я впечатлен<questGiver.pronoun.verbEnding>! Спасибо тебе огромное!"
     }
   },
   {
@@ -131,7 +131,7 @@
     },
     "Texts": {
       "Eng": "Oops, I wasn't much help to <questGiver>.",
-      "Rus": "<questGiver> остался без моей помощи. Упс."
+      "Rus": "<questGiver> остал<questGiver.pronoun.verb3Ending> без моей помощи. Упс."
     }
   },
   {
@@ -312,7 +312,7 @@
     },
     "Texts": {
       "Eng": "^cyan;Tense. I overheard some <enemy> <earlier>.",
-      "Rus": "^cyan;Напряжённо. Я <earlier> видел, как неподалёку бродят <enemy>."
+      "Rus": "^cyan;Напряжённо. Я <earlier> видел<questGiver.pronoun.verbEnding>, как неподалёку бродят <enemy>."
     }
   },
   {
@@ -588,7 +588,7 @@
     },
     "Texts": {
       "Eng": "interrogated me",
-      "Rus": "вытянули из меня всё, что я знал"
+      "Rus": "вытянули из меня всё, что я знал<questGiver.pronoun.verbEnding>"
     }
   },
   {
@@ -804,7 +804,7 @@
     },
     "Texts": {
       "Eng": "overheard",
-      "Rus": "наблюдал"
+      "Rus": "наблюдал<questGiver.pronoun.verbEnding>"
     }
   },
   {
@@ -828,7 +828,7 @@
     },
     "Texts": {
       "Eng": "pretty embarassed",
-      "Rus": "порядочно разозлился"
+      "Rus": "порядочно разозлил<questGiver.pronoun.verb3Ending>"
     }
   },
   {
@@ -840,7 +840,7 @@
     },
     "Texts": {
       "Eng": "quite upset",
-      "Rus": "очень расстроился"
+      "Rus": "очень расстроил<questGiver.pronoun.verb3Ending>"
     }
   },
   {
@@ -1032,7 +1032,7 @@
     },
     "Texts": {
       "Eng": "took a short trip to <personal>",
-      "Rus": "бродил по окрестностям, чтобы <personal>"
+      "Rus": "бродил<questGiver.pronoun.verbEnding> по окрестностям, чтобы <personal>"
     }
   },
   {
@@ -1044,7 +1044,7 @@
     },
     "Texts": {
       "Eng": "took an excursion to <personal>",
-      "Rus": "ходил по окрестностям, чтобы <personal>"
+      "Rus": "ходил<questGiver.pronoun.verbEnding> по окрестностям, чтобы <personal>"
     }
   },
   {
@@ -1152,7 +1152,7 @@
     },
     "Texts": {
       "Eng": "was spying on",
-      "Rus": "следил"
+      "Rus": "следил<questGiver.pronoun.verbEnding>"
     }
   },
   {
@@ -1164,7 +1164,7 @@
     },
     "Texts": {
       "Eng": "went for a walk to <personal>",
-      "Rus": "прогуливался, чтобы <personal>"
+      "Rus": "прогуливал<questGiver.pronoun.verb3Ending>, чтобы <personal>"
     }
   },
   {
@@ -1176,7 +1176,7 @@
     },
     "Texts": {
       "Eng": "went jogging to <personal>",
-      "Rus": "совершал пробежку, чтобы <personal>"
+      "Rus": "совершал<questGiver.pronoun.verbEnding> пробежку, чтобы <personal>"
     }
   }
 ]
