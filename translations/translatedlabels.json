@@ -356,7 +356,7 @@
       "clues.config.json": 50,
       "colourful.config.json": 13,
       "combat.config.json": 169,
-      "converse.config.json": 142,
+      "converse.config.json": 145,
       "crewmember.config.json": 40,
       "cultist.config.json": 31,
       "deadbeat.config.json": 22,
@@ -3628,7 +3628,7 @@
           "tentaclecrawler.monstertype.json": 1
         },
         "tintic": {
-          "tintic.monstertype.json": 2
+          "tintic.monstertype.json": 1
         },
         "triplod": {
           "triplod.monstertype.json": 2
@@ -3817,19 +3817,19 @@
           "anglure.monstertype.json": 2
         },
         "bobot": {
-          "bobot.monstertype.json": 2
+          "bobot.monstertype.json": 1
         },
         "bulbop": {
           "bulbop.monstertype.json": 1
         },
         "capricoat": {
-          "capricoat.monstertype.json": 2
+          "capricoat.monstertype.json": 1
         },
         "crabcano": {
           "crabcano.monstertype.json": 2
         },
         "crutter": {
-          "crutter.monstertype.json": 2
+          "crutter.monstertype.json": 1
         },
         "fennix": {
           "fennix.monstertype.json": 1
@@ -3856,7 +3856,7 @@
           "narfin.monstertype.json": 2
         },
         "nutmidge": {
-          "nutmidge.monstertype.json": 2
+          "nutmidge.monstertype.json": 1
         },
         "oogler": {
           "oogler.monstertype.json": 2
@@ -3889,7 +3889,7 @@
           "scaveran.monstertype.json": 1
         },
         "smoglin": {
-          "smoglin.monstertype.json": 2
+          "smoglin.monstertype.json": 1
         },
         "snaunt": {
           "snaunt.monstertype.json": 1
@@ -9028,7 +9028,7 @@
           "prisonfence2.object.json": 0
         },
         "prisonfile1": {
-          "prisonfile1.object.json": 0
+          "prisonfile1.object.json": 6
         },
         "prisonfile2": {
           "prisonfile2.object.json": 0
@@ -9308,25 +9308,25 @@
           "hylotlbowl.object.json": 9
         },
         "hylotlbutton": {
-          "hylotlbutton.object.json": 0
+          "hylotlbutton.object.json": 7
         },
         "hylotlcalligraphy1": {
-          "hylotlcalligraphy1.object.json": 0
+          "hylotlcalligraphy1.object.json": 2
         },
         "hylotlcalligraphy2": {
-          "hylotlcalligraphy2.object.json": 0
+          "hylotlcalligraphy2.object.json": 2
         },
         "hylotlcalligraphy3": {
-          "hylotlcalligraphy3.object.json": 0
+          "hylotlcalligraphy3.object.json": 2
         },
         "hylotlcalligraphy4": {
-          "hylotlcalligraphy4.object.json": 0
+          "hylotlcalligraphy4.object.json": 2
         },
         "hylotlcalligraphy5": {
-          "hylotlcalligraphy5.object.json": 0
+          "hylotlcalligraphy5.object.json": 2
         },
         "hylotlcashregister": {
-          "hylotlcashregister.object.json": 0
+          "hylotlcashregister.object.json": 2
         },
         "hylotlchair": {
           "hylotlchair.object.json": 0
@@ -9353,7 +9353,7 @@
           "hylotlclassicpainting1.object.json": 0
         },
         "hylotlclassictable": {
-          "hylotlclassictable.object.json": 0
+          "hylotlclassictable.object.json": 1
         },
         "hylotlclassictable2": {
           "hylotlclassictable2.object.json": 0
@@ -10522,7 +10522,7 @@
           "railswitch.object.json": 0
         }
       },
-      "shared_.object.json": 23,
+      "shared_.object.json": 28,
       "shared_anvil.json": 5,
       "shared_barstool": {
         "shared_barstool.object.json": 0
@@ -11580,7 +11580,7 @@
           "wreckcrate1.object.json": 9
         },
         "wreckdoor": {
-          "wreckdoor.object.json": 4
+          "wreckdoor.object.json": 5
         },
         "wreckfan": {
           "wreckfan.object.json": 2
@@ -12093,11 +12093,16 @@
         "locations.config.json": 336,
         "pools": {
           "buildingthemes.config.json": 3,
-          "capturablemonsters.config.json": 0,
           "dungeonitems.config.json": 11,
-          "hatadjectives.config.json": 46,
-          "tradablemonsters.config.json": 1
+          "hatadjectives.config.json": 45,
+          "monsterthreats.config.json": 0,
+          "npcthreats.config.json": 17,
+          "shared_lemonster.json": 1,
+          "shared_s.config.json": 0,
+          "singlenpcthreats.config.json": 4
         },
+        "shared_monster.json": 0,
+        "shared_npc.json": 1,
         "templates": {
           "add_object_to_house.questtemplate.json": 23,
           "barter.questtemplate.json": 7,
@@ -12109,7 +12114,7 @@
           "collect_gift.questtemplate.json": 0,
           "cooking.questtemplate.json": 12,
           "craft.questtemplate.json": 12,
-          "escort.questtemplate.json": 7,
+          "escort.questtemplate.json": 10,
           "escort_trade.questtemplate.json": 7,
           "extort.questtemplate.json": 0,
           "farming.questtemplate.json": 3,
@@ -12122,16 +12127,16 @@
           "kill_monster.questtemplate.json": 6,
           "kill_monster_group.questtemplate.json": 3,
           "kill_monster_single.questtemplate.json": 0,
-          "kill_npc.questtemplate.json": 84,
-          "kill_npcs.questtemplate.json": 0,
+          "kill_npc.questtemplate.json": 96,
+          "kill_npcs.questtemplate.json": 98,
           "new_stock1.questtemplate.json": 0,
           "new_stock2.questtemplate.json": 0,
           "protect.questtemplate.json": 2,
           "recruit_guard.questtemplate.json": 3,
           "request_craft.questtemplate.json": 0,
           "return_stolen.questtemplate.json": 2,
-          "share_secret.questtemplate.json": 0,
-          "shared_.questtemplate.json": 22,
+          "share_secret.questtemplate.json": 6,
+          "shared_.questtemplate.json": 28,
           "shared_d.questtemplate.json": 2,
           "shared_t.questtemplate.json": 1,
           "spread_rumors.questtemplate.json": 0,
@@ -12139,6 +12144,7 @@
           "themed_build.questtemplate.json": 1
         }
       },
+      "generated.json": 3,
       "outpost": {
         "floranarena1.questtemplate.json": 3,
         "floranarena2.questtemplate.json": 3,
@@ -12243,7 +12249,8 @@
     "shared_medievalladder.mat.json": 2,
     "shared_merchant..json": 1,
     "shared_modernplatform.mat.json": 4,
-    "shared_monster.json": 14,
+    "shared_monster.json": 13,
+    "shared_monstert.json": 5,
     "shared_outpostplatform.mat.json": 5,
     "shared_plantplatform.mat.json": 5,
     "shared_platform.json": 2,
@@ -12539,6 +12546,6 @@
       }
     },
     "universe_server.config.json": 2,
-    "wide_spread_fields.json": 52
+    "wide_spread_fields.json": 54
   }
 }

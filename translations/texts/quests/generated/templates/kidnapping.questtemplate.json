@@ -962,6 +962,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kidnapping.questtemplate": [
+        "/parameters/victimNpcType/example/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "victim"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
         "/scriptConfig/generatedText/fluff/10/1/0"
       ]
     },

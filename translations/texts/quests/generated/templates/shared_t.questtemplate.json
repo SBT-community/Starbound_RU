@@ -2,6 +2,26 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "quests/generated/templates/collect_gift.questtemplate": [
+        "/parameters/target/example/name"
+      ],
+      "quests/generated/templates/hat.questtemplate": [
+        "/parameters/friend/example/name"
+      ],
+      "quests/generated/templates/helmet.questtemplate": [
+        "/parameters/friend/example/name"
+      ],
+      "quests/generated/templates/request_craft.questtemplate": [
+        "/parameters/target/example/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly Friend"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "quests/generated/templates/hat.questtemplate": [
         "/scriptConfig/objectives/0/text"
       ],

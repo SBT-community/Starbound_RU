@@ -63,6 +63,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/collect_fine.questtemplate": [
+        "/parameters/target/example/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Criminal McCriminalson"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/collect_fine.questtemplate": [
         "/scriptConfig/generatedText/text/last/default/1"
       ]
     },

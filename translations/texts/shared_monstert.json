@@ -1,0 +1,77 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/bobot/bobot.monstertype": [
+        "/shortdescription"
+      ],
+      "quests/generated/pools/singlemonsterthreats.config": [
+        "/0/1/5/1/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bobot",
+      "Rus": "Бобот"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/capricoat/capricoat.monstertype": [
+        "/shortdescription"
+      ],
+      "quests/generated/pools/singlemonsterthreats.config": [
+        "/0/1/0/1/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Capricoat",
+      "Rus": "Козлошкур"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/crutter/crutter.monstertype": [
+        "/shortdescription"
+      ],
+      "quests/generated/pools/singlemonsterthreats.config": [
+        "/0/1/7/1/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crutter",
+      "Rus": "Краттер"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/smoglin/smoglin.monstertype": [
+        "/shortdescription"
+      ],
+      "quests/generated/pools/singlemonsterthreats.config": [
+        "/0/1/3/1/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Smoglin",
+      "Rus": "Смоглин"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/crawlers/tintic/tintic.monstertype": [
+        "/shortdescription"
+      ],
+      "quests/generated/pools/singlemonsterthreats.config": [
+        "/0/1/4/1/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tintic",
+      "Rus": "Тинтик"
+    }
+  }
+]

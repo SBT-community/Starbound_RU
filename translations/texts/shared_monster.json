@@ -23,6 +23,9 @@
       "quests/generated/pools/capturablemonsters.config": [
         "/0/1/9/1/name"
       ],
+      "quests/generated/pools/singlemonsterthreats.config": [
+        "/0/1/6/1/name"
+      ],
       "quests/generated/pools/tradablemonsters.config": [
         "/0/1/6/name"
       ]
@@ -174,21 +177,6 @@
     "Texts": {
       "Eng": "Pteropod",
       "Rus": "Птеропод"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "monsters/walkers/scaveran/scaveran.monstertype": [
-        "/shortdescription"
-      ],
-      "quests/generated/pools/tradablemonsters.config": [
-        "/0/1/2/name"
-      ]
-    },
-    "Texts": {
-      "Eng": "Scaveran",
-      "Rus": "Скаверан"
     }
   },
   {

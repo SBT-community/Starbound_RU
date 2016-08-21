@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<enemy.pronoun.possessiveDet> gang turned on <enemy.pronoun.object> after a series of poor leadership decisions"
+      "Eng": "<enemy.pronoun.possessiveDet> gang turned on <enemy.pronoun.object> after a series of poor leadership decisions",
+      "Rus": "<enemy.pronoun.reflexive> банда обернулась против н<enemy.pronoun.reflexive> из-за бездарного руководства"
     }
   },
   {
@@ -30,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<enemy.pronoun.subject> botched a daring heist"
+      "Eng": "<enemy.pronoun.subject> botched a daring heist",
+      "Rus": "<enemy.pronoun.subject> провалил<enemy.pronoun.verbEnding> дерзкое ограбление"
     }
   },
   {
@@ -53,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<enemy.pronoun.subject> failed a heist on a <individual>"
+      "Eng": "<enemy.pronoun.subject> failed a heist on a <individual>",
+      "Rus": "<enemy.pronoun.subject> не сумел<enemy.pronoun.verbEnding> ограбить <individual>"
     }
   },
   {
@@ -76,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<enemy.pronoun.subject> flooded an entire city with lava"
+      "Eng": "<enemy.pronoun.subject> flooded an entire city with lava",
+      "Rus": "<enemy.pronoun.subject> затопил<enemy.pronoun.verbEnding> целый город лавой"
     }
   },
   {
@@ -111,7 +115,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<enemy.pronoun.subject> kept digging holes in people's houses while they were sleeping"
+      "Eng": "<enemy.pronoun.subject> kept digging holes in people's houses while they were sleeping",
+      "Rus": "<enemy.pronoun.subject> прокопал<enemy.pronoun.verbEnding> норы в несколько домов, пока их владельцы спали"
     }
   },
   {
@@ -170,7 +175,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<enemy.pronoun.subject> stole all the furniture from a town"
+      "Eng": "<enemy.pronoun.subject> stole all the furniture from a town",
+      "Rus": "<enemy.pronoun.subject> выкрал<enemy.pronoun.verbEnding> из города всю мебель"
     }
   },
   {
@@ -193,7 +199,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<enemy.pronoun.subject> tried to steal an entire ocean"
+      "Eng": "<enemy.pronoun.subject> tried to steal an entire ocean",
+      "Rus": "<enemy.pronoun.subject> совершил<enemy.pronoun.verbEnding> попытку украсть весь океан"
     }
   },
   {
@@ -204,7 +211,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<enemy.pronoun.subject> was betrayed by a member of <enemy.pronoun.possessiveDet> gang"
+      "Eng": "<enemy.pronoun.subject> was betrayed by a member of <enemy.pronoun.possessiveDet> gang",
+      "Rus": "<enemy.pronoun.subject> был<enemy.pronoun.verbEnding> предан<enemy.pronoun.verbEnding> членами собственной банды"
     }
   },
   {
@@ -215,7 +223,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<enemy.pronoun.subject> was caught trying to illegally smuggle <valuable>"
+      "Eng": "<enemy.pronoun.subject> was caught trying to illegally smuggle <valuable>",
+      "Rus": "<enemy.pronoun.subject> был<enemy.pronoun.verbEnding> задержан<enemy.pronoun.verbEnding> при попытке провоза контрабандного груза <valuable>"
     }
   },
   {
@@ -226,7 +235,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<enemy.pronoun.subject> wouldn't stop stealing roof tiles from a city"
+      "Eng": "<enemy.pronoun.subject> wouldn't stop stealing roof tiles from a city",
+      "Rus": "<enemy.pronoun.subject> маниакально выкрал<enemy.pronoun.verbEnding> все крыши домов в городе"
     }
   },
   {
@@ -505,7 +515,7 @@
     },
     "Texts": {
       "Eng": "Graxus",
-      "Rus": "Граксус"
+      "Rus": "корпорации Граксус"
     }
   },
   {
@@ -588,7 +598,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Lightspeed"
+      "Eng": "Lightspeed",
+      "Rus": "Вихрь"
     }
   },
   {
@@ -623,7 +634,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Miniknog General"
+      "Eng": "Miniknog General",
+      "Rus": "генерала Министерства"
     }
   },
   {
@@ -670,7 +682,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Shadowy"
+      "Eng": "Shadowy",
+      "Rus": "Тень"
     }
   },
   {
@@ -766,7 +779,7 @@
     },
     "Texts": {
       "Eng": "We have a <problem>! Have you heard of the outlaw ^orange;<adjective> <enemy.name> the <enemy>^white;? I've heard <enemy.pronoun.copulative> laying low nearby after <crime>. We don't need that kind of trouble around here - ^green;could you go to the ^orange;<spawnPoint>^green;<spawnPoint.direction> and <request>^white;?",
-      "Rus": "У нас проблема! Ты слышал о бандите по имени ^orange;<enemy.name> <adjective>^white;? После того, как <crime>, <enemy.pronoun.subject> прячется где-то тут, на планете. Это опасное соседство - так что ^green;не мог бы ты пройтись до ^orange;<spawnPoint>^green;<spawnPoint.direction> and <request>^white;?"
+      "Rus": "У нас <problem>! Ты слышал о бандите по имени ^orange;<enemy.name> <adjective>^white;? После того, как <crime>, <enemy.pronoun.subject> прячется где-то тут, на планете. Это опасное соседство - так что ^green;не мог бы ты пройтись до ^orange;<spawnPoint>^green;<spawnPoint.direction> and <request>^white;?"
     }
   },
   {
@@ -869,12 +882,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
-        "/scriptConfig/generatedText/fluff/3/1/4"
+        "/parameters/enemy/example/name"
       ]
     },
     "Texts": {
-      "Eng": "bandit leader",
-      "Rus": "главаря своей банды"
+      "Eng": "bandit"
     }
   },
   {
@@ -982,7 +994,7 @@
     },
     "Texts": {
       "Eng": "problem",
-      "Rus": "problem"
+      "Rus": "проблема"
     }
   },
   {
@@ -1018,7 +1030,7 @@
     },
     "Texts": {
       "Eng": "situation",
-      "Rus": "situation"
+      "Rus": "неприятности"
     }
   },
   {
@@ -1126,7 +1138,7 @@
     },
     "Texts": {
       "Eng": "weapons",
-      "Rus": "weapons"
+      "Rus": "оружия"
     }
   },
   {

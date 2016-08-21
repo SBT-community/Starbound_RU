@@ -67,6 +67,20 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/treasureNote/1"
+      ],
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/treasureNote/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Boss, I hid the treasure in the <treasureLocation><treasureLocation.direction>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "quests/generated/templates/share_secret.questtemplate": [
         "/scriptConfig/objectives/1/text"
       ],
@@ -174,6 +188,26 @@
     }
   },
   {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/hat.questtemplate": [
+        "/scriptConfig/parcelDescription/0"
+      ],
+      "quests/generated/templates/helmet.questtemplate": [
+        "/scriptConfig/parcelDescription/0"
+      ],
+      "quests/generated/templates/new_stock1.questtemplate": [
+        "/scriptConfig/parcelDescription/0"
+      ],
+      "quests/generated/templates/new_stock2.questtemplate": [
+        "/scriptConfig/parcelDescription/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's for <questGiver>. I shouldn't open it."
+    }
+  },
+  {
     "DeniedAlternatives": [
       "Убей <enemy>",
       "Убей <enemy> "
@@ -244,6 +278,20 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/treasureNote/0"
+      ],
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/treasureNote/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Note to self: don't forget the loot left at <treasureLocation><treasureLocation.direction>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "quests/generated/templates/capture_pet.questtemplate": [
         "/scriptConfig/generatedText/failureText/default/0"
       ],
@@ -259,16 +307,38 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "quests/generated/templates/escort.questtemplate": [
-        "/scriptConfig/generatedText/fluff/3/1/3"
+      "quests/generated/templates/hat.questtemplate": [
+        "/scriptConfig/parcelName/0"
       ],
-      "quests/generated/templates/kidnapping.questtemplate": [
-        "/scriptConfig/generatedText/fluff/5/1/0"
+      "quests/generated/templates/helmet.questtemplate": [
+        "/scriptConfig/parcelName/0"
+      ],
+      "quests/generated/templates/new_stock1.questtemplate": [
+        "/scriptConfig/parcelName/0"
+      ],
+      "quests/generated/templates/new_stock2.questtemplate": [
+        "/scriptConfig/parcelName/0"
       ]
     },
     "Texts": {
-      "Eng": "Poptops",
-      "Rus": "Поптопы"
+      "Eng": "Parcel for <questGiver>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/parameters/target/example/name"
+      ],
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/parameters/victim/example/name"
+      ],
+      "quests/generated/templates/steal.questtemplate": [
+        "/parameters/victim/example/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perfectly Generic Victim"
     }
   },
   {
@@ -292,6 +362,26 @@
     "Texts": {
       "Eng": "Return parcel to <questGiver>",
       "Rus": "Верните свёрток <questGiver>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/barter.questtemplate": [
+        "/parameters/target/example/name"
+      ],
+      "quests/generated/templates/escort_trade.questtemplate": [
+        "/parameters/target/example/name"
+      ],
+      "quests/generated/templates/new_stock1.questtemplate": [
+        "/parameters/target/example/name"
+      ],
+      "quests/generated/templates/new_stock2.questtemplate": [
+        "/parameters/target/example/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some Person"
     }
   },
   {
@@ -322,6 +412,20 @@
     "Texts": {
       "Eng": "Thanks! You've made it so much safer to live around here.",
       "Rus": "Спасибо! Теперь здесь намного безопасней жить, благодаря твоим деяниям."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/treasureNote/2"
+      ],
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/treasureNote/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Transfer of the loot to take place at <treasureLocation><treasureLocation.direction>"
     }
   },
   {
@@ -509,6 +613,29 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "quests/generated/templates/barter.questtemplate": [
+        "/parameters/spawnPoint/example/name"
+      ],
+      "quests/generated/templates/escort_trade.questtemplate": [
+        "/parameters/spawnPoint/example/name"
+      ],
+      "quests/generated/templates/new_stock1.questtemplate": [
+        "/parameters/spawnPoint/example/name"
+      ],
+      "quests/generated/templates/new_stock2.questtemplate": [
+        "/parameters/spawnPoint/example/name"
+      ],
+      "quests/generated/templates/protect.questtemplate": [
+        "/parameters/spawnPoint/example/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "dark, scary cave"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "quests/generated/templates/escort.questtemplate": [
         "/scriptConfig/generatedText/fluff/0/1/5"
       ],
@@ -590,7 +717,7 @@
     },
     "Texts": {
       "Eng": "earlier",
-      "Rus": "earlier"
+      "Rus": "чуть раньше"
     }
   },
   {
@@ -608,7 +735,7 @@
     },
     "Texts": {
       "Eng": "earlier in the week",
-      "Rus": ""
+      "Rus": "на этой неделе"
     }
   },
   {
@@ -626,7 +753,7 @@
     },
     "Texts": {
       "Eng": "earlier today",
-      "Rus": ""
+      "Rus": "сегодня"
     }
   },
   {
@@ -690,7 +817,7 @@
     },
     "Texts": {
       "Eng": "get rid of them",
-      "Rus": ""
+      "Rus": "избавиться от них"
     }
   },
   {
@@ -780,7 +907,8 @@
       ]
     },
     "Texts": {
-      "Eng": "loves"
+      "Eng": "loves",
+      "Rus": ""
     }
   },
   {
@@ -795,22 +923,7 @@
     },
     "Texts": {
       "Eng": "make them pay",
-      "Rus": ""
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kill_monster_group.questtemplate": [
-        "/scriptConfig/generatedText/fluff/0/1/0"
-      ],
-      "quests/generated/templates/kill_monster_single.questtemplate": [
-        "/scriptConfig/generatedText/fluff/0/1/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "monsters",
-      "Rus": ""
+      "Rus": "проучить их"
     }
   },
   {
@@ -837,7 +950,7 @@
     },
     "Texts": {
       "Eng": "not too long ago",
-      "Rus": ""
+      "Rus": "не так давно"
     }
   },
   {
@@ -914,7 +1027,8 @@
       ]
     },
     "Texts": {
-      "Eng": "rocks"
+      "Eng": "rocks",
+      "Rus": ""
     }
   },
   {
@@ -944,7 +1058,8 @@
       ]
     },
     "Texts": {
-      "Eng": "sleeping people"
+      "Eng": "sleeping people",
+      "Rus": ""
     }
   },
   {
@@ -990,7 +1105,7 @@
     },
     "Texts": {
       "Eng": "sort them out",
-      "Rus": ""
+      "Rus": "разобраться с ними"
     }
   },
   {
@@ -1005,7 +1120,8 @@
       ]
     },
     "Texts": {
-      "Eng": "spaceships"
+      "Eng": "spaceships",
+      "Rus": ""
     }
   },
   {
@@ -1185,7 +1301,8 @@
       ]
     },
     "Texts": {
-      "Eng": "writes stories about"
+      "Eng": "writes stories about",
+      "Rus": ""
     }
   },
   {
@@ -1212,7 +1329,7 @@
     },
     "Texts": {
       "Eng": "yesterday",
-      "Rus": ""
+      "Rus": "вчера"
     }
   }
 ]

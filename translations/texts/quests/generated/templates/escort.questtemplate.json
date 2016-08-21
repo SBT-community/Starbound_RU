@@ -111,18 +111,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/escort.questtemplate": [
-        "/scriptConfig/generatedText/fluff/3/1/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "Gleaps",
-      "Rus": ""
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/escort.questtemplate": [
         "/scriptConfig/generatedText/fluff/3/1/1"
       ]
     },
@@ -147,12 +135,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/escort.questtemplate": [
+        "/parameters/targetNpcType/example/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Joe"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort.questtemplate": [
         "/scriptConfig/generatedText/text/default/default/0"
       ]
     },
     "Texts": {
       "Eng": "My <friend> ^orange;<targetNpcType>^white; was meant to meet me so we could <activity1> <earlier>. <targetNpcType.pronoun.capitalSubject> probably got lost getting here - the last place I saw <targetNpcType.pronoun.object> was the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Could you go there and bring <targetNpcType.pronoun.object> back here to me^white;?",
-      "Rus": "Мой <friend> ^orange;<targetNpcType>^white; должен был встретить меня для <activity1> <earlier>. <targetNpcType.pronoun.capitalSubject> наверное потерялся по пути - в последния раз когда я его видел <targetNpcType.pronoun.object> был у ^orange;<spawnPoint>^white; <spawnPoint.direction>. ^green;Можешь сходить туда и привести  <targetNpcType.pronoun.object> обратно^white;?"
+      "Rus": "Мой <friend> ^orange;<targetNpcType>^white; должен был встретить меня для <activity1> <earlier>. <targetNpcType.pronoun.capitalSubject> наверное потерялся по пути - в последния раз когда я <targetNpcType.pronoun.reflexive> видел, <targetNpcType.pronoun.subject> был у ^orange;<spawnPoint>^white; <spawnPoint.direction>. ^green;Можешь сходить туда и привести  <targetNpcType.pronoun.reflexive> обратно^white;?"
     }
   },
   {
@@ -260,7 +259,7 @@
     },
     "Texts": {
       "Eng": "^cyan;<glitchworry2>. My friend <targetNpcType> has yet to arrive.",
-      "Rus": ""
+      "Rus": "^cyan;<glitchworry2>. Мой друг <targetNpcType> до сих пор не пришёл."
     }
   },
   {
@@ -284,7 +283,7 @@
     },
     "Texts": {
       "Eng": "^cyan;My friend <targetNpcType> hasn't arrived yet.",
-      "Rus": ""
+      "Rus": "^cyan;<glitchworry2>. Мой друг <targetNpcType> ещё не пришёл."
     }
   },
   {
@@ -296,7 +295,7 @@
     },
     "Texts": {
       "Eng": "argue about <activity2>",
-      "Rus": ""
+      "Rus": "дискуссии о <activity2>"
     }
   },
   {
@@ -307,7 +306,8 @@
       ]
     },
     "Texts": {
-      "Eng": "brainstorm plans for a musical about <activity2>"
+      "Eng": "brainstorm plans for a musical about <activity2>",
+      "Rus": ""
     }
   },
   {

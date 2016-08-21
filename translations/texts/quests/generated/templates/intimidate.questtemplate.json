@@ -679,5 +679,16 @@
     "Texts": {
       "Eng": "^orange;<target>,^white; as it turns out, is particularly afraid of ^orange;<item>s. ^white;This is perfect! ^green;Go and point one at <target.pronoun.object> and start a conversation ^white;- I'm sure <target.pronoun.subject>'ll know I sent you! <target.pronoun.capitalSubject>'ll be so scared, <target.pronoun.subject>'ll do anything I say in future!"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/parameters/item/example/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "hammer"
+    }
   }
 ]

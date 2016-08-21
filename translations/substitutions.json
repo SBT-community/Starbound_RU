@@ -4512,6 +4512,9 @@
   "monsters/crawlers/tentaclecrawler/tentaclecrawler.monstertype": {
     "/description": "texts/monsters/crawlers/shared_.monstertype.json"
   },
+  "monsters/crawlers/tintic/tintic.monstertype": {
+    "/shortdescription": "texts/shared_monstert.json"
+  },
   "monsters/farming/fluffalobaby/electricfluffalobaby.monstertype": {
     "/description": "texts/monsters/farming/shared_baby/shared_baby.monstertype.json",
     "/shortdescription": "texts/monsters/farming/shared_baby/shared_baby.monstertype.json"
@@ -4569,8 +4572,17 @@
   "monsters/walkers/adultpoptop/motherpoptop.monstertype": {
     "/description": "texts/monsters/walkers/adultpoptop/shared_poptop.monstertype.json"
   },
+  "monsters/walkers/bobot/bobot.monstertype": {
+    "/shortdescription": "texts/shared_monstert.json"
+  },
   "monsters/walkers/bulbop/bulbop.monstertype": {
     "/shortdescription": "texts/shared_monster.json"
+  },
+  "monsters/walkers/capricoat/capricoat.monstertype": {
+    "/shortdescription": "texts/shared_monstert.json"
+  },
+  "monsters/walkers/crutter/crutter.monstertype": {
+    "/shortdescription": "texts/shared_monstert.json"
   },
   "monsters/walkers/fennix/fennix.monstertype": {
     "/shortdescription": "texts/shared_monster.json"
@@ -4584,6 +4596,9 @@
   "monsters/walkers/miasmop/miasmop.monstertype": {
     "/shortdescription": "texts/shared_monster.json"
   },
+  "monsters/walkers/nutmidge/nutmidge.monstertype": {
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
   "monsters/walkers/peblit/peblit.monstertype": {
     "/shortdescription": "texts/shared_monster.json"
   },
@@ -4594,7 +4609,10 @@
     "/shortdescription": "texts/shared_monster.json"
   },
   "monsters/walkers/scaveran/scaveran.monstertype": {
-    "/shortdescription": "texts/shared_monster.json"
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "monsters/walkers/smoglin/smoglin.monstertype": {
+    "/shortdescription": "texts/shared_monstert.json"
   },
   "monsters/walkers/snaunt/snaunt.monstertype": {
     "/shortdescription": "texts/shared_monster.json"
@@ -21639,7 +21657,8 @@
   },
   "objects/themed/spooky/spookybed/spookybed.object": {
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
-    "/glitchDescription/glitchEmotedText": "texts/objects/themed/spooky/spookybed/spookybed.object.json"
+    "/glitchDescription/glitchEmotedText": "texts/objects/themed/spooky/spookybed/spookybed.object.json",
+    "/shortdescription": "texts/wide_spread_fields.json"
   },
   "objects/themed/spooky/spookycandles/spookycandles.object": {
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
@@ -21655,7 +21674,8 @@
   },
   "objects/themed/spooky/spookypumpkindhead/spookypumpkinhead.object": {
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
-    "/glitchDescription/glitchEmotedText": "texts/objects/themed/spooky/spookypumpkindhead/spookypumpkinhead.object.json"
+    "/glitchDescription/glitchEmotedText": "texts/objects/themed/spooky/spookypumpkindhead/spookypumpkinhead.object.json",
+    "/shortdescription": "texts/wide_spread_fields.json"
   },
   "objects/themed/spooky/spookytombchair/spookytombchair.object": {
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
@@ -23375,6 +23395,7 @@
     "/shortdescription": "texts/plants/grass/ground/shared_.grass.json"
   },
   "quests/generated/pools/capturablemonsters.config": {
+    "/0/1/0/1/name": "texts/quests/generated/pools/shared_s.config.json",
     "/0/1/1/1/name": "texts/shared_monster.json",
     "/0/1/2/1/name": "texts/shared_monster.json",
     "/0/1/3/1/name": "texts/shared_monster.json",
@@ -23392,10 +23413,43 @@
     "/0/1/3/name": "texts/wide_spread_fields.json",
     "/0/1/4/name": "texts/wide_spread_fields.json"
   },
+  "quests/generated/pools/hatadjectives.config": {
+    "/0/1/43/0": "texts/quests/generated.json"
+  },
+  "quests/generated/pools/monsterthreats.config": {
+    "/0/1/0/1/name": "texts/quests/generated/pools/shared_s.config.json",
+    "/0/1/1/1/name": "texts/quests/generated.json",
+    "/0/1/11/1/name": "texts/quests/generated/shared_monster.json",
+    "/0/1/12/1/name": "texts/quests/generated/shared_monster.json",
+    "/0/1/6/1/name": "texts/quests/generated.json"
+  },
+  "quests/generated/pools/npcthreats.config": {
+    "/0/1/0/1/name": "texts/quests/generated.json",
+    "/0/1/23/1/name": "texts/quests/generated.json"
+  },
+  "quests/generated/pools/singlemonsterthreats.config": {
+    "/0/1/0/1/name": "texts/shared_monstert.json",
+    "/0/1/1/1/name": "texts/wide_spread_fields.json",
+    "/0/1/10/1/name": "texts/quests/generated/pools/shared_lemonster.json",
+    "/0/1/2/1/name": "texts/wide_spread_fields.json",
+    "/0/1/3/1/name": "texts/shared_monstert.json",
+    "/0/1/4/1/name": "texts/shared_monstert.json",
+    "/0/1/5/1/name": "texts/shared_monstert.json",
+    "/0/1/6/1/name": "texts/shared_monster.json",
+    "/0/1/7/1/name": "texts/shared_monstert.json",
+    "/0/1/8/1/name": "texts/quests/generated/pools/shared_lemonster.json",
+    "/0/1/9/1/name": "texts/quests/generated/pools/shared_lemonster.json"
+  },
+  "quests/generated/pools/singlenpcthreats.config": {
+    "/0/1/4/1/name": "texts/quests/generated/shared_npc.json"
+  },
   "quests/generated/pools/tradablemonsters.config": {
     "/0/1/0/name": "texts/shared_monster.json",
     "/0/1/1/name": "texts/shared_monster.json",
-    "/0/1/2/name": "texts/shared_monster.json",
+    "/0/1/10/name": "texts/quests/generated/pools/shared_lemonster.json",
+    "/0/1/11/name": "texts/quests/generated/pools/shared_lemonster.json",
+    "/0/1/12/name": "texts/quests/generated/pools/shared_lemonster.json",
+    "/0/1/2/name": "texts/wide_spread_fields.json",
     "/0/1/3/name": "texts/shared_monster.json",
     "/0/1/4/name": "texts/shared_monster.json",
     "/0/1/5/name": "texts/shared_monster.json",
@@ -23427,6 +23481,8 @@
     "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText": "texts/quests/generated/templates/add_object_to_house.questtemplate.json"
   },
   "quests/generated/templates/barter.questtemplate": {
+    "/parameters/spawnPoint/example/name": "texts/quests/generated/templates/shared_.questtemplate.json",
+    "/parameters/target/example/name": "texts/quests/generated/templates/shared_.questtemplate.json",
     "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmote": "texts/glitchEmotes.json",
     "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText": "texts/quests/generated/templates/barter.questtemplate.json",
     "/scriptConfig/generatedText/text/default/glitch/0/glitchEmote": "texts/glitchEmotes.json",
@@ -23484,6 +23540,8 @@
     "/scriptConfig/objectives/1/text": "texts/quests/generated/templates/shared_.questtemplate.json"
   },
   "quests/generated/templates/capture_pet.questtemplate": {
+    "/parameters/monster/example/name": "texts/wide_spread_fields.json",
+    "/parameters/tradedMonster/example/name": "texts/wide_spread_fields.json",
     "/scriptConfig/generatedText/completionText/default/default/0": "texts/quests/generated/templates/shared_.questtemplate.json",
     "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmote": "texts/glitchEmotes.json",
     "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText": "texts/quests/generated/templates/shared_.questtemplate.json",
@@ -23535,6 +23593,7 @@
     "/scriptConfig/objectives/1/text": "texts/quests.json"
   },
   "quests/generated/templates/collect_gift.questtemplate": {
+    "/parameters/target/example/name": "texts/quests/generated/templates/shared_t.questtemplate.json",
     "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmote": "texts/glitchEmotes.json",
     "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText": "texts/quests/generated/templates/collect_gift.questtemplate.json",
     "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmote": "texts/glitchEmotes.json",
@@ -23588,7 +23647,8 @@
     "/scriptConfig/generatedText/fluff/1/1/2": "texts/quests/generated/templates/shared_.questtemplate.json",
     "/scriptConfig/generatedText/fluff/1/1/3": "texts/quests/generated/templates/shared_.questtemplate.json",
     "/scriptConfig/generatedText/fluff/1/1/4": "texts/quests/generated/templates/shared_.questtemplate.json",
-    "/scriptConfig/generatedText/fluff/3/1/3": "texts/quests/generated/templates/shared_.questtemplate.json",
+    "/scriptConfig/generatedText/fluff/3/1/0": "texts/quests/generated.json",
+    "/scriptConfig/generatedText/fluff/3/1/3": "texts/quests/generated.json",
     "/scriptConfig/generatedText/fluff/4/1/0": "texts/quests/generated/templates/shared_.questtemplate.json",
     "/scriptConfig/generatedText/fluff/4/1/1": "texts/quests/generated/templates/shared_.questtemplate.json",
     "/scriptConfig/generatedText/fluff/4/1/2": "texts/quests/generated/templates/shared_.questtemplate.json",
@@ -23597,6 +23657,8 @@
     "/scriptConfig/generatedText/fluff/7/1/3": "texts/quests/generated/templates/shared_.questtemplate.json"
   },
   "quests/generated/templates/escort_trade.questtemplate": {
+    "/parameters/spawnPoint/example/name": "texts/quests/generated/templates/shared_.questtemplate.json",
+    "/parameters/target/example/name": "texts/quests/generated/templates/shared_.questtemplate.json",
     "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmote": "texts/glitchEmotes.json",
     "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText": "texts/quests/generated/templates/escort_trade.questtemplate.json",
     "/scriptConfig/generatedText/text/default/glitch/0/glitchEmote": "texts/glitchEmotes.json",
@@ -23681,6 +23743,7 @@
     "/scriptConfig/objectives/0/text": "texts/quests/generated/templates/shared_.questtemplate.json"
   },
   "quests/generated/templates/hat.questtemplate": {
+    "/parameters/friend/example/name": "texts/quests/generated/templates/shared_t.questtemplate.json",
     "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmote": "texts/glitchEmotes.json",
     "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText": "texts/quests/generated/templates/hat.questtemplate.json",
     "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmote": "texts/glitchEmotes.json",
@@ -23690,9 +23753,13 @@
     "/scriptConfig/generatedText/text/default/glitch/1/glitchEmote": "texts/glitchEmotes.json",
     "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText": "texts/quests/generated/templates/hat.questtemplate.json",
     "/scriptConfig/objectives/0/text": "texts/quests/generated/templates/shared_t.questtemplate.json",
-    "/scriptConfig/objectives/1/text": "texts/quests/generated/templates/shared_.questtemplate.json"
+    "/scriptConfig/objectives/1/text": "texts/quests/generated/templates/shared_.questtemplate.json",
+    "/scriptConfig/parcelDescription/0": "texts/quests/generated/templates/shared_.questtemplate.json",
+    "/scriptConfig/parcelName/0": "texts/quests/generated/templates/shared_.questtemplate.json"
   },
   "quests/generated/templates/helmet.questtemplate": {
+    "/parameters/adjective/example/name": "texts/quests/generated.json",
+    "/parameters/friend/example/name": "texts/quests/generated/templates/shared_t.questtemplate.json",
     "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmote": "texts/glitchEmotes.json",
     "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText": "texts/quests/generated/templates/helmet.questtemplate.json",
     "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmote": "texts/glitchEmotes.json",
@@ -23702,9 +23769,12 @@
     "/scriptConfig/generatedText/text/default/glitch/1/glitchEmote": "texts/glitchEmotes.json",
     "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText": "texts/quests/generated/templates/helmet.questtemplate.json",
     "/scriptConfig/objectives/0/text": "texts/quests/generated/templates/shared_t.questtemplate.json",
-    "/scriptConfig/objectives/1/text": "texts/quests/generated/templates/shared_.questtemplate.json"
+    "/scriptConfig/objectives/1/text": "texts/quests/generated/templates/shared_.questtemplate.json",
+    "/scriptConfig/parcelDescription/0": "texts/quests/generated/templates/shared_.questtemplate.json",
+    "/scriptConfig/parcelName/0": "texts/quests/generated/templates/shared_.questtemplate.json"
   },
   "quests/generated/templates/intimidate.questtemplate": {
+    "/parameters/target/example/name": "texts/quests/generated/templates/shared_.questtemplate.json",
     "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmote": "texts/glitchEmotes.json",
     "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText": "texts/quests/generated/templates/intimidate.questtemplate.json",
     "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmote": "texts/glitchEmotes.json",
@@ -23739,6 +23809,7 @@
     "/scriptConfig/generatedText/text/next/glitch/1/glitchEmotedText": "texts/quests/generated/templates/intimidate.questtemplate.json"
   },
   "quests/generated/templates/kidnapping.questtemplate": {
+    "/parameters/enemy/example/name": "texts/quests/generated.json",
     "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmote": "texts/glitchEmotes.json",
     "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText": "texts/quests/generated/templates/kidnapping.questtemplate.json",
     "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmote": "texts/glitchEmotes.json",
@@ -23756,7 +23827,7 @@
     "/scriptConfig/generatedText/fluff/2/1/2": "texts/quests/generated/templates/shared_.questtemplate.json",
     "/scriptConfig/generatedText/fluff/2/1/3": "texts/quests/generated/templates/shared_.questtemplate.json",
     "/scriptConfig/generatedText/fluff/2/1/4": "texts/quests/generated/templates/shared_.questtemplate.json",
-    "/scriptConfig/generatedText/fluff/5/1/0": "texts/quests/generated/templates/shared_.questtemplate.json",
+    "/scriptConfig/generatedText/fluff/5/1/0": "texts/quests/generated.json",
     "/scriptConfig/generatedText/fluff/8/1/0": "texts/quests/generated/templates/shared_.questtemplate.json",
     "/scriptConfig/generatedText/fluff/8/1/10": "texts/quests/generated/templates/shared_.questtemplate.json",
     "/scriptConfig/generatedText/fluff/9/1/0": "texts/quests/generated/templates/shared_.questtemplate.json",
@@ -23771,6 +23842,7 @@
     "/scriptConfig/objectives/1/text": "texts/quests/generated/templates/shared_.questtemplate.json"
   },
   "quests/generated/templates/kill_monster.questtemplate": {
+    "/parameters/monster/example/name": "texts/wide_spread_fields.json",
     "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmote": "texts/glitchEmotes.json",
     "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText": "texts/quests/generated/templates/kill_monster.questtemplate.json",
     "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmote": "texts/glitchEmotes.json",
@@ -23789,11 +23861,12 @@
     "/scriptConfig/generatedText/text/first/glitch/1/glitchEmotedText": "texts/quests/generated/templates/kill_monster.questtemplate.json"
   },
   "quests/generated/templates/kill_monster_group.questtemplate": {
+    "/parameters/monster/example/name": "texts/wide_spread_fields.json",
     "/scriptConfig/generatedText/completionText/default/default/0": "texts/quests/generated/templates/shared_.questtemplate.json",
     "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmote": "texts/glitchEmotes.json",
     "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText": "texts/quests/generated/templates/shared_.questtemplate.json",
     "/scriptConfig/generatedText/failureText/default/0": "texts/quests/generated/templates/shared_.questtemplate.json",
-    "/scriptConfig/generatedText/fluff/0/1/0": "texts/quests/generated/templates/shared_.questtemplate.json",
+    "/scriptConfig/generatedText/fluff/0/1/0": "texts/quests/generated/shared_monster.json",
     "/scriptConfig/generatedText/fluff/10/1/3": "texts/quests/generated/templates/shared_.questtemplate.json",
     "/scriptConfig/generatedText/fluff/11/1/0": "texts/quests/generated/templates/shared_.questtemplate.json",
     "/scriptConfig/generatedText/fluff/11/1/1": "texts/quests/generated/templates/shared_.questtemplate.json",
@@ -23823,10 +23896,11 @@
     "/scriptConfig/objectives/2/text": "texts/quests.json"
   },
   "quests/generated/templates/kill_monster_single.questtemplate": {
+    "/parameters/monster/example/name": "texts/wide_spread_fields.json",
     "/scriptConfig/generatedText/completionText/default/default/0": "texts/quests/generated/templates/shared_.questtemplate.json",
     "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmote": "texts/glitchEmotes.json",
     "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText": "texts/quests/generated/templates/shared_.questtemplate.json",
-    "/scriptConfig/generatedText/fluff/0/1/0": "texts/quests/generated/templates/shared_.questtemplate.json",
+    "/scriptConfig/generatedText/fluff/0/1/0": "texts/quests/generated/shared_monster.json",
     "/scriptConfig/generatedText/fluff/1/1/0": "texts/quests/generated/templates/shared_.questtemplate.json",
     "/scriptConfig/generatedText/fluff/1/1/5": "texts/quests/generated/templates/shared_.questtemplate.json",
     "/scriptConfig/generatedText/fluff/11/1/1": "texts/quests/generated/templates/shared_.questtemplate.json",
@@ -23858,15 +23932,20 @@
     "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmote": "texts/glitchEmotes.json",
     "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText": "texts/quests/generated/templates/kill_npc.questtemplate.json",
     "/scriptConfig/generatedText/fluff/0/1/3": "texts/wide_spread_fields.json",
+    "/scriptConfig/generatedText/fluff/3/1/4": "texts/quests/generated/shared_npc.json",
     "/scriptConfig/generatedText/fluff/9/1/1": "texts/quests/generated/templates/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/glitch/0/glitchEmote": "texts/glitchEmotes.json",
     "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText": "texts/quests/generated/templates/kill_npc.questtemplate.json",
     "/scriptConfig/generatedText/text/default/glitch/1/glitchEmote": "texts/glitchEmotes.json",
     "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText": "texts/quests/generated/templates/kill_npc.questtemplate.json",
     "/scriptConfig/objectives/0/text": "texts/quests/generated/templates/shared_.questtemplate.json",
-    "/scriptConfig/objectives/2/text": "texts/quests.json"
+    "/scriptConfig/objectives/2/text": "texts/quests.json",
+    "/scriptConfig/treasureNote/0": "texts/quests/generated/templates/shared_.questtemplate.json",
+    "/scriptConfig/treasureNote/1": "texts/quests/generated/templates/shared_.questtemplate.json",
+    "/scriptConfig/treasureNote/2": "texts/quests/generated/templates/shared_.questtemplate.json"
   },
   "quests/generated/templates/kill_npcs.questtemplate": {
+    "/parameters/enemy/example/name": "texts/quests/generated.json",
     "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmote": "texts/glitchEmotes.json",
     "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText": "texts/quests/generated/templates/kill_npcs.questtemplate.json",
     "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmote": "texts/glitchEmotes.json",
@@ -23885,9 +23964,14 @@
     "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText": "texts/quests/generated/templates/kill_npcs.questtemplate.json",
     "/scriptConfig/objectives/0/text": "texts/quests/generated/templates/shared_.questtemplate.json",
     "/scriptConfig/objectives/1/text": "texts/quests/generated/templates/shared_.questtemplate.json",
-    "/scriptConfig/objectives/2/text": "texts/quests.json"
+    "/scriptConfig/objectives/2/text": "texts/quests.json",
+    "/scriptConfig/treasureNote/0": "texts/quests/generated/templates/shared_.questtemplate.json",
+    "/scriptConfig/treasureNote/1": "texts/quests/generated/templates/shared_.questtemplate.json",
+    "/scriptConfig/treasureNote/2": "texts/quests/generated/templates/shared_.questtemplate.json"
   },
   "quests/generated/templates/new_stock1.questtemplate": {
+    "/parameters/spawnPoint/example/name": "texts/quests/generated/templates/shared_.questtemplate.json",
+    "/parameters/target/example/name": "texts/quests/generated/templates/shared_.questtemplate.json",
     "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmote": "texts/glitchEmotes.json",
     "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText": "texts/quests/generated/templates/new_stock1.questtemplate.json",
     "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmote": "texts/glitchEmotes.json",
@@ -23897,9 +23981,13 @@
     "/scriptConfig/generatedText/text/default/glitch/1/glitchEmote": "texts/glitchEmotes.json",
     "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText": "texts/quests/generated/templates/new_stock1.questtemplate.json",
     "/scriptConfig/objectives/0/text": "texts/quests/generated/templates/shared_.questtemplate.json",
-    "/scriptConfig/objectives/1/text": "texts/quests/generated/templates/shared_.questtemplate.json"
+    "/scriptConfig/objectives/1/text": "texts/quests/generated/templates/shared_.questtemplate.json",
+    "/scriptConfig/parcelDescription/0": "texts/quests/generated/templates/shared_.questtemplate.json",
+    "/scriptConfig/parcelName/0": "texts/quests/generated/templates/shared_.questtemplate.json"
   },
   "quests/generated/templates/new_stock2.questtemplate": {
+    "/parameters/spawnPoint/example/name": "texts/quests/generated/templates/shared_.questtemplate.json",
+    "/parameters/target/example/name": "texts/quests/generated/templates/shared_.questtemplate.json",
     "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmote": "texts/glitchEmotes.json",
     "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText": "texts/quests/generated/templates/new_stock2.questtemplate.json",
     "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmote": "texts/glitchEmotes.json",
@@ -23909,9 +23997,13 @@
     "/scriptConfig/generatedText/text/default/glitch/1/glitchEmote": "texts/glitchEmotes.json",
     "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText": "texts/quests/generated/templates/new_stock2.questtemplate.json",
     "/scriptConfig/objectives/0/text": "texts/quests/generated/templates/shared_.questtemplate.json",
-    "/scriptConfig/objectives/1/text": "texts/quests/generated/templates/shared_.questtemplate.json"
+    "/scriptConfig/objectives/1/text": "texts/quests/generated/templates/shared_.questtemplate.json",
+    "/scriptConfig/parcelDescription/0": "texts/quests/generated/templates/shared_.questtemplate.json",
+    "/scriptConfig/parcelName/0": "texts/quests/generated/templates/shared_.questtemplate.json"
   },
   "quests/generated/templates/protect.questtemplate": {
+    "/parameters/spawnPoint/example/name": "texts/quests/generated/templates/shared_.questtemplate.json",
+    "/parameters/threat/example/name": "texts/quests/generated.json",
     "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmote": "texts/glitchEmotes.json",
     "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText": "texts/quests/generated/templates/protect.questtemplate.json",
     "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmote": "texts/glitchEmotes.json",
@@ -23952,6 +24044,7 @@
     "/scriptConfig/objectives/5/text": "texts/quests/generated/templates/shared_d.questtemplate.json"
   },
   "quests/generated/templates/request_craft.questtemplate": {
+    "/parameters/target/example/name": "texts/quests/generated/templates/shared_t.questtemplate.json",
     "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmote": "texts/glitchEmotes.json",
     "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText": "texts/quests/generated/templates/request_craft.questtemplate.json",
     "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmote": "texts/glitchEmotes.json",
@@ -23972,6 +24065,8 @@
     "/scriptConfig/objectives/1/text": "texts/quests.json"
   },
   "quests/generated/templates/return_stolen.questtemplate": {
+    "/parameters/object/example/name": "texts/wide_spread_fields.json",
+    "/parameters/victim/example/name": "texts/quests/generated/templates/shared_.questtemplate.json",
     "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmote": "texts/glitchEmotes.json",
     "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText": "texts/quests/generated/templates/return_stolen.questtemplate.json",
     "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmote": "texts/glitchEmotes.json",
@@ -24139,6 +24234,8 @@
     "/scriptConfig/objectives/1/text": "texts/quests/generated/templates/shared_.questtemplate.json"
   },
   "quests/generated/templates/steal.questtemplate": {
+    "/parameters/object/example/name": "texts/wide_spread_fields.json",
+    "/parameters/victim/example/name": "texts/quests/generated/templates/shared_.questtemplate.json",
     "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmote": "texts/glitchEmotes.json",
     "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText": "texts/quests/generated/templates/steal.questtemplate.json",
     "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmote": "texts/glitchEmotes.json",

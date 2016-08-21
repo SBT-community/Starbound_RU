@@ -102,6 +102,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/gift.questtemplate": [
+        "/parameters/target/example/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly Friendson"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
         "/scriptConfig/generatedText/completionText/next/floran/1"
       ]
     },

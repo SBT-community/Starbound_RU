@@ -111,6 +111,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/borrow.questtemplate": [
+        "/parameters/target/example/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "John Smith"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/borrow.questtemplate": [
         "/scriptConfig/generatedText/text/default/floran/1"
       ]
     },

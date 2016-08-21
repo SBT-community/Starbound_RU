@@ -274,5 +274,16 @@
       "Eng": "^cyan;^cyan;Excited. It is time I had a new look. Could you help me look <adjective>?",
       "Rus": "^cyan;Нетерпеливо. Я хочу сменить имидж. Что-нибудь, в чём я буду смотреться <adjective>."
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/hat.questtemplate": [
+        "/parameters/adjective/example/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "suave"
+    }
   }
 ]

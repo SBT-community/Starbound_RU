@@ -157,6 +157,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/bribe.questtemplate": [
+        "/parameters/target/example/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mr Corrupt Person"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
         "/scriptConfig/generatedText/completionText/default/default/0"
       ]
     },
