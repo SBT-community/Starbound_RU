@@ -13,5 +13,35 @@
     "op": "add",
     "path": "/pronouns/neutral/verbEnding",
     "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/female/verb2Ending",
+    "value": "на"
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/male/verb2Ending",
+    "value": "ен"
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/neutral/verb2Ending",
+    "value": "ен"
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/female/verb3Ending",
+    "value": "ась"
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/male/verb3Ending",
+    "value": "ся"
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/neutral/verb3Ending",
+    "value": "ся"
   }
 ]
