@@ -80,6 +80,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/extort.questtemplate": [
+        "/parameters/target/example/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ms Extorted"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/extort.questtemplate": [
         "/scriptConfig/generatedText/text/default/floran/0"
       ]
     },

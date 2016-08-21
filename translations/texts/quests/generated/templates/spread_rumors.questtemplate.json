@@ -3,6 +3,28 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/secretNote/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "<other> is <adjective>. Love, <questGiver>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/responseNote/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "<other> is a loser! Let's be friends!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
         "/scriptConfig/generatedText/completionText/last/default/1"
       ]
     },
@@ -63,6 +85,17 @@
     },
     "Texts": {
       "Eng": "<target> looked horrified when <target.pronoun.subject> read the message! Not that I was hiding and watching <target.pronoun.object> or anything. Anyway, there's work to do yet!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/secretNote/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "<target>, just to let you know, <other> secretly <verb2> <object>. Sorry."
     }
   },
   {
@@ -190,6 +223,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/secretNote/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey <target>, I hate to give you bad news but <other> is <adjective>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
         "/scriptConfig/generatedText/completionText/next/glitch/0/glitchEmotedText"
       ]
     },
@@ -217,6 +261,17 @@
     },
     "Texts": {
       "Eng": "I failed to spread rumours about <other> to <target>. Maybe <questGiver> should learn to make friends by being kind?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/responseNote/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I guess I never really knew them after all. Let's hang out!"
     }
   },
   {
@@ -322,6 +377,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/responseNote/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm disappointed in <other>. Can you and I be friends?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
         "/scriptConfig/generatedText/completionText/last/default/0"
       ]
     },
@@ -399,6 +465,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/spread_rumors.questtemplate": [
+        "/parameters/target/example/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Notafriendyet Jones"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
         "/scriptConfig/generatedText/text/next/floran/0"
       ]
     },
@@ -437,6 +514,17 @@
     },
     "Texts": {
       "Eng": "Once you ^green;give ^orange;<target> ^green;this rumour I've written about ^orange;<other>, ^white;<target.pronoun.subject> won't be able to resist telling everyone!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/parameters/other/example/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rival Person"
     }
   },
   {
@@ -520,6 +608,28 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/responseNote/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's disappointing... Let's hang out sometime!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/responseNote/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's terrible! :O"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
         "/scriptConfig/generatedText/completionText/default/default/1"
       ]
     },
@@ -580,6 +690,17 @@
     },
     "Texts": {
       "Eng": "You did it. Friends are great assets and I'm sure <target> will prove useful to me in the future. "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/secretNote/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You should know that <other> <verb2> <object>."
     }
   },
   {

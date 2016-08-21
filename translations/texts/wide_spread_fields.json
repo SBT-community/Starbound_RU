@@ -814,6 +814,33 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "monsters/walkers/nutmidge/nutmidge.monstertype": [
+        "/shortdescription"
+      ],
+      "quests/generated/pools/singlemonsterthreats.config": [
+        "/0/1/1/1/name"
+      ],
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/parameters/monster/example/name"
+      ],
+      "quests/generated/templates/kill_monster.questtemplate": [
+        "/parameters/monster/example/name"
+      ],
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/parameters/monster/example/name"
+      ],
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/parameters/monster/example/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nutmidge",
+      "Rus": "Натмэйдж"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "interface/windowconfig/keybindingsmenu.config": [
         "/keyActions/toolbar/10/label"
       ],
@@ -872,6 +899,27 @@
     "Texts": {
       "Eng": "Sapling",
       "Rus": "Саженец"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/scaveran/scaveran.monstertype": [
+        "/shortdescription"
+      ],
+      "quests/generated/pools/singlemonsterthreats.config": [
+        "/0/1/2/1/name"
+      ],
+      "quests/generated/pools/tradablemonsters.config": [
+        "/0/1/2/name"
+      ],
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/parameters/tradedMonster/example/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scaveran",
+      "Rus": "Скаверан"
     }
   },
   {
@@ -955,6 +1003,34 @@
     "Texts": {
       "Eng": "Snow",
       "Rus": "Снег"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/spooky/spookybed/spookybed.object": [
+        "/shortdescription"
+      ],
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/parameters/object/example/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spooky Bed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/spooky/spookypumpkindhead/spookypumpkinhead.object": [
+        "/shortdescription"
+      ],
+      "quests/generated/templates/steal.questtemplate": [
+        "/parameters/object/example/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spooky Pumpkin Head"
     }
   },
   {

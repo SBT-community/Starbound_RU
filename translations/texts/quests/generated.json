@@ -31,5 +31,42 @@
       "Eng": "Poptops",
       "Rus": "Поптопы"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/pools/npcthreats.config": [
+        "/0/1/0/1/name",
+        "/0/1/23/1/name"
+      ],
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/parameters/enemy/example/name"
+      ],
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/parameters/enemy/example/name"
+      ],
+      "quests/generated/templates/protect.questtemplate": [
+        "/parameters/threat/example/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "bandits",
+      "Rus": "бандиты"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/pools/hatadjectives.config": [
+        "/0/1/43/0"
+      ],
+      "quests/generated/templates/helmet.questtemplate": [
+        "/parameters/adjective/example/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "strong",
+      "Rus": "сильно"
+    }
   }
 ]

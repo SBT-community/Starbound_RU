@@ -25,6 +25,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/protect.questtemplate": [
+        "/parameters/target/example/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alpha Betty"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
         "/scriptConfig/generatedText/text/first/default/0"
       ]
     },

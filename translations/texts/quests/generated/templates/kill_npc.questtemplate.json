@@ -882,6 +882,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
+        "/parameters/enemy/example/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "bandit"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/3/1/5"
       ]
     },

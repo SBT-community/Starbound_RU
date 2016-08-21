@@ -102,6 +102,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/return_stolen.questtemplate": [
+        "/parameters/thief/example/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Evil McThief"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/return_stolen.questtemplate": [
         "/scriptConfig/generatedText/completionText/first/glitch/0/glitchEmotedText"
       ]
     },

@@ -135,6 +135,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/escort.questtemplate": [
+        "/parameters/targetNpcType/example/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Joe"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort.questtemplate": [
         "/scriptConfig/generatedText/text/default/default/0"
       ]
     },

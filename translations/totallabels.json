@@ -11260,7 +11260,7 @@
         },
         "spooky": {
           "spookybed": {
-            "spookybed.object.json": 9
+            "spookybed.object.json": 8
           },
           "spookycandles": {
             "spookycandles.object.json": 9
@@ -11272,7 +11272,7 @@
             "spookyclock.object.json": 9
           },
           "spookypumpkindhead": {
-            "spookypumpkinhead.object.json": 9
+            "spookypumpkinhead.object.json": 8
           },
           "spookytombchair": {
             "spookytombchair.object.json": 9
@@ -12094,9 +12094,9 @@
         "pools": {
           "buildingthemes.config.json": 10,
           "dungeonitems.config.json": 11,
-          "hatadjectives.config.json": 46,
+          "hatadjectives.config.json": 45,
           "monsterthreats.config.json": 9,
-          "npcthreats.config.json": 18,
+          "npcthreats.config.json": 17,
           "shared_lemonster.json": 2,
           "shared_s.config.json": 1,
           "singlenpcthreats.config.json": 4
@@ -12106,45 +12106,45 @@
         "templates": {
           "add_object_to_house.questtemplate.json": 23,
           "barter.questtemplate.json": 7,
-          "borrow.questtemplate.json": 24,
-          "bribe.questtemplate.json": 36,
+          "borrow.questtemplate.json": 25,
+          "bribe.questtemplate.json": 37,
           "build_home.questtemplate.json": 25,
           "capture_pet.questtemplate.json": 46,
-          "collect_fine.questtemplate.json": 68,
+          "collect_fine.questtemplate.json": 69,
           "collect_gift.questtemplate.json": 24,
           "cooking.questtemplate.json": 12,
           "craft.questtemplate.json": 12,
-          "escort.questtemplate.json": 45,
+          "escort.questtemplate.json": 46,
           "escort_trade.questtemplate.json": 13,
-          "extort.questtemplate.json": 24,
+          "extort.questtemplate.json": 25,
           "farming.questtemplate.json": 24,
           "fetch.questtemplate.json": 24,
-          "gift.questtemplate.json": 35,
-          "hat.questtemplate.json": 23,
+          "gift.questtemplate.json": 36,
+          "hat.questtemplate.json": 24,
           "helmet.questtemplate.json": 22,
-          "intimidate.questtemplate.json": 61,
-          "kidnapping.questtemplate.json": 87,
+          "intimidate.questtemplate.json": 62,
+          "kidnapping.questtemplate.json": 88,
           "kill_monster.questtemplate.json": 26,
           "kill_monster_group.questtemplate.json": 79,
           "kill_monster_single.questtemplate.json": 67,
-          "kill_npc.questtemplate.json": 96,
+          "kill_npc.questtemplate.json": 97,
           "kill_npcs.questtemplate.json": 98,
           "new_stock1.questtemplate.json": 22,
           "new_stock2.questtemplate.json": 22,
-          "protect.questtemplate.json": 50,
+          "protect.questtemplate.json": 51,
           "recruit_guard.questtemplate.json": 25,
           "request_craft.questtemplate.json": 24,
-          "return_stolen.questtemplate.json": 61,
-          "share_secret.questtemplate.json": 76,
-          "shared_.questtemplate.json": 71,
+          "return_stolen.questtemplate.json": 62,
+          "share_secret.questtemplate.json": 91,
+          "shared_.questtemplate.json": 79,
           "shared_d.questtemplate.json": 2,
-          "shared_t.questtemplate.json": 1,
-          "spread_rumors.questtemplate.json": 70,
+          "shared_t.questtemplate.json": 2,
+          "spread_rumors.questtemplate.json": 81,
           "steal.questtemplate.json": 25,
           "themed_build.questtemplate.json": 23
         }
       },
-      "generated.json": 2,
+      "generated.json": 4,
       "outpost": {
         "floranarena1.questtemplate.json": 3,
         "floranarena2.questtemplate.json": 3,
@@ -12249,8 +12249,8 @@
     "shared_medievalladder.mat.json": 2,
     "shared_merchant..json": 1,
     "shared_modernplatform.mat.json": 4,
-    "shared_monster.json": 14,
-    "shared_monstert.json": 6,
+    "shared_monster.json": 13,
+    "shared_monstert.json": 5,
     "shared_outpostplatform.mat.json": 5,
     "shared_plantplatform.mat.json": 5,
     "shared_platform.json": 2,
@@ -12546,6 +12546,6 @@
       }
     },
     "universe_server.config.json": 2,
-    "wide_spread_fields.json": 53
+    "wide_spread_fields.json": 57
   }
 }

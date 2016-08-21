@@ -67,6 +67,20 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/treasureNote/1"
+      ],
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/treasureNote/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Boss, I hid the treasure in the <treasureLocation><treasureLocation.direction>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "quests/generated/templates/share_secret.questtemplate": [
         "/scriptConfig/objectives/1/text"
       ],
@@ -174,6 +188,26 @@
     }
   },
   {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/hat.questtemplate": [
+        "/scriptConfig/parcelDescription/0"
+      ],
+      "quests/generated/templates/helmet.questtemplate": [
+        "/scriptConfig/parcelDescription/0"
+      ],
+      "quests/generated/templates/new_stock1.questtemplate": [
+        "/scriptConfig/parcelDescription/0"
+      ],
+      "quests/generated/templates/new_stock2.questtemplate": [
+        "/scriptConfig/parcelDescription/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's for <questGiver>. I shouldn't open it."
+    }
+  },
+  {
     "DeniedAlternatives": [
       "Убей <enemy>",
       "Убей <enemy> "
@@ -244,6 +278,20 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/treasureNote/0"
+      ],
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/treasureNote/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Note to self: don't forget the loot left at <treasureLocation><treasureLocation.direction>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "quests/generated/templates/capture_pet.questtemplate": [
         "/scriptConfig/generatedText/failureText/default/0"
       ],
@@ -254,6 +302,43 @@
     "Texts": {
       "Eng": "Oops, I wasn't able to help <questGiver>.",
       "Rus": "Ой, я не смог(ла) помочь <questGiver>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/hat.questtemplate": [
+        "/scriptConfig/parcelName/0"
+      ],
+      "quests/generated/templates/helmet.questtemplate": [
+        "/scriptConfig/parcelName/0"
+      ],
+      "quests/generated/templates/new_stock1.questtemplate": [
+        "/scriptConfig/parcelName/0"
+      ],
+      "quests/generated/templates/new_stock2.questtemplate": [
+        "/scriptConfig/parcelName/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Parcel for <questGiver>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/parameters/target/example/name"
+      ],
+      "quests/generated/templates/return_stolen.questtemplate": [
+        "/parameters/victim/example/name"
+      ],
+      "quests/generated/templates/steal.questtemplate": [
+        "/parameters/victim/example/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perfectly Generic Victim"
     }
   },
   {
@@ -277,6 +362,26 @@
     "Texts": {
       "Eng": "Return parcel to <questGiver>",
       "Rus": "Верните свёрток <questGiver>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/barter.questtemplate": [
+        "/parameters/target/example/name"
+      ],
+      "quests/generated/templates/escort_trade.questtemplate": [
+        "/parameters/target/example/name"
+      ],
+      "quests/generated/templates/new_stock1.questtemplate": [
+        "/parameters/target/example/name"
+      ],
+      "quests/generated/templates/new_stock2.questtemplate": [
+        "/parameters/target/example/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some Person"
     }
   },
   {
@@ -307,6 +412,20 @@
     "Texts": {
       "Eng": "Thanks! You've made it so much safer to live around here.",
       "Rus": "Спасибо! Теперь здесь намного безопасней жить, благодаря твоим деяниям."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/treasureNote/2"
+      ],
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/treasureNote/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Transfer of the loot to take place at <treasureLocation><treasureLocation.direction>"
     }
   },
   {
@@ -489,6 +608,29 @@
     "Texts": {
       "Eng": "creepy",
       "Rus": ""
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/barter.questtemplate": [
+        "/parameters/spawnPoint/example/name"
+      ],
+      "quests/generated/templates/escort_trade.questtemplate": [
+        "/parameters/spawnPoint/example/name"
+      ],
+      "quests/generated/templates/new_stock1.questtemplate": [
+        "/parameters/spawnPoint/example/name"
+      ],
+      "quests/generated/templates/new_stock2.questtemplate": [
+        "/parameters/spawnPoint/example/name"
+      ],
+      "quests/generated/templates/protect.questtemplate": [
+        "/parameters/spawnPoint/example/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "dark, scary cave"
     }
   },
   {
