@@ -8,7 +8,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Did you find out what the <enemy> were up to? <appreciation>"
+      "Eng": "Did you find out what the <enemy> were up to? <appreciation>",
+      "Rus": "Ты разобрался с тем, что <enemy> тут делали? <appreciation>"
     }
   },
   {
@@ -19,7 +20,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran sssaw ^orange;<enemy>^white; whilst Floran was <floranmotivation> <earlier>. They were at the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Floran <floransuspicious> - ^green;could you investigate^white;?"
+      "Eng": "Floran sssaw ^orange;<enemy>^white; whilst Floran was <floranmotivation> <earlier>. They were at the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Floran <floransuspicious> - ^green;could you investigate^white;?",
+      "Rus": "Когда Флоран <earlier> <floranmotivation>, он видел, как ^orange;<enemy>^white; ошивались неподалёку - у ^orange;<spawnPoint>^white;<spawnPoint.direction>. Флоран <floransuspicious> - ^green;ты не мог бы разобраться^white;?"
     }
   },
   {
@@ -31,7 +33,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I <activity> <earlier>, when ^orange;<enemy>^white; <crime1>. I'm feeling <reaction> and <justice1>. It happened near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Could you <request>^white;?"
+      "Eng": "I <activity> <earlier>, when ^orange;<enemy>^white; <crime1>. I'm feeling <reaction> and <justice1>. It happened near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Could you <request>^white;?",
+      "Rus": "Я <earlier> <activity>, как вдруг какие-то ^orange;<enemy>^white; <crime1>. Я <reaction> и <justice1>. Это случилось около ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Ты можешь <request>^white;?"
     }
   },
   {
@@ -43,7 +46,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I <overheard> some ^orange;<enemy>^white; who were near the ^orange;<spawnPoint>^white; <earlier>. <doubt> but I think they were <discussing> <discussion>. ^green;Could you go and <investigate>^white;?"
+      "Eng": "I <overheard> some ^orange;<enemy>^white; who were near the ^orange;<spawnPoint>^white; <earlier>. <doubt> but I think they were <discussing> <discussion>. ^green;Could you go and <investigate>^white;?",
+      "Rus": "Тут поблизости ^orange;<enemy>^white; - я знаю, так как <earlier> <overheard> за ними у ^orange;<spawnPoint>^white;. <doubt>, но мне кажется, что они <discussing> <discussion>. ^green;Не мог бы ты <investigate>^white;?"
     }
   },
   {
@@ -54,7 +58,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I can't be certain"
+      "Eng": "I can't be certain",
+      "Rus": "Не могу сказать точно"
     }
   },
   {
@@ -65,7 +70,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I feel so much safer now, thank you! Take this gift for all your help."
+      "Eng": "I feel so much safer now, thank you! Take this gift for all your help.",
+      "Rus": "Теперь я чувствую себя в безопасности, спасибо! Возьми это за хлопопты."
     }
   },
   {
@@ -76,7 +82,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I guess I wasn't able to help <questGiver>."
+      "Eng": "I guess I wasn't able to help <questGiver>.",
+      "Rus": "К сожалению, я не смог помочь. <questGiver> разберётся как-нибудь своими силами."
     }
   },
   {
@@ -87,7 +94,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I might be wrong"
+      "Eng": "I might be wrong",
+      "Rus": "Я могу ошибаться"
     }
   },
   {
@@ -98,7 +106,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I'm impressed! Thank you so much!"
+      "Eng": "I'm impressed! Thank you so much!",
+      "Rus": "Я впечатлён! Спасибо тебе огромное!"
     }
   },
   {
@@ -109,7 +118,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I'm not sure"
+      "Eng": "I'm not sure",
+      "Rus": "Не уверен"
     }
   },
   {
@@ -120,7 +130,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Oops, I wasn't much help to <questGiver>."
+      "Eng": "Oops, I wasn't much help to <questGiver>.",
+      "Rus": "<questGiver> остался без моей помощи. Упс."
     }
   },
   {
@@ -131,7 +142,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Some <enemy> to take care of"
+      "Eng": "Some <enemy> to take care of",
+      "Rus": "Осторожно, поблизости <enemy>"
     }
   },
   {
@@ -142,7 +154,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Some <enemy> worth investigating"
+      "Eng": "Some <enemy> worth investigating",
+      "Rus": "Узнать, что тут делают <enemy>"
     }
   },
   {
@@ -153,7 +166,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Sssome ^orange;<enemy>^white; chased Floran whilst Floran was <floranmotivation> <earlier>! Floran <floransuspicious>, but Floran <floranexcuse>. It happened at the ^orange;<spawnPoint>^white;<spawnPoint.direction> -  ^green;can you <request> for Floran^white;?"
+      "Eng": "Sssome ^orange;<enemy>^white; chased Floran whilst Floran was <floranmotivation> <earlier>! Floran <floransuspicious>, but Floran <floranexcuse>. It happened at the ^orange;<spawnPoint>^white;<spawnPoint.direction> -  ^green;can you <request> for Floran^white;?",
+      "Rus": "Какие-то ^orange;<enemy>^white; погнались за Флораном, когда он <earlier> <floranmotivation>! Флоран <floransuspicious>, но <floranexcuse> - поэтому ^green;ты не мог бы <request>^white;? Это случилось неподалёку от ^orange;<spawnPoint>^white;<spawnPoint.direction>."
     }
   },
   {
@@ -164,7 +178,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Thank you! Hopefully this gift is enough to repay you."
+      "Eng": "Thank you! Hopefully this gift is enough to repay you.",
+      "Rus": "Спасибо! Надеюсь, этот подарок окупит твои старания."
     }
   },
   {
@@ -175,7 +190,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Thanks! I'll surely feel less nervous around here now."
+      "Eng": "Thanks! I'll surely feel less nervous around here now.",
+      "Rus": "Спасибо! Теперь мне намного сспокойнее."
     }
   },
   {
@@ -186,7 +202,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Thanks! I'm sure they weren't up to any good."
+      "Eng": "Thanks! I'm sure they weren't up to any good.",
+      "Rus": "Спасибо! Наверняка они затевали какую-то пакость."
     }
   },
   {
@@ -198,7 +215,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You dealt with the <enemy>? <appreciation>"
+      "Eng": "You dealt with the <enemy>? <appreciation>",
+      "Rus": "Эти <enemy> больше не причинят проблем? <appreciation>"
     }
   },
   {
@@ -209,7 +227,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You dealt with the <enemy>? Floran appreciatesss the help!"
+      "Eng": "You dealt with the <enemy>? Floran appreciatesss the help!",
+      "Rus": "Эти <enemy> больше не шевелятсся? Флоран благодарен!"
     }
   },
   {
@@ -220,7 +239,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You dealt with the <enemy>? Thank you! Though, Floran could have done it if Floran had weapons..."
+      "Eng": "You dealt with the <enemy>? Thank you! Though, Floran could have done it if Floran had weapons...",
+      "Rus": "Те <enemy> больше не угрожают никому? Сспасибо! Но Флоран и сам мог бы ссправиться..."
     }
   },
   {
@@ -231,7 +251,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You've helped make this planet just that bit safer!"
+      "Eng": "You've helped make this planet just that bit safer!",
+      "Rus": "Ты помог сделать эту планету более безопасным местом!"
     }
   },
   {
@@ -242,7 +263,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Floran had an encounter with sssome <enemy> <earlier>."
+      "Eng": "^cyan;Floran had an encounter with sssome <enemy> <earlier>.",
+      "Rus": "^cyan;Флоран обнаружил <earlier>, что тут засели <enemy>."
     }
   },
   {
@@ -253,7 +275,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Floran overheard sssome <enemy> <earlier>."
+      "Eng": "^cyan;Floran overheard sssome <enemy> <earlier>.",
+      "Rus": "^cyan;Флоран <earlier> видел, как тут бродят <enemy>."
     }
   },
   {
@@ -264,7 +287,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;I had an encounter with some <enemy> <earlier>."
+      "Eng": "^cyan;I had an encounter with some <enemy> <earlier>.",
+      "Rus": "^cyan;На меня <earlier> напали <enemy>."
     }
   },
   {
@@ -275,7 +299,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;I overheard some <enemy> <earlier>."
+      "Eng": "^cyan;I overheard some <enemy> <earlier>.",
+      "Rus": "^cyan;Я <earlier> видел, как недалеко ходят <enemy>."
     }
   },
   {
@@ -286,7 +311,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Tense. I overheard some <enemy> <earlier>."
+      "Eng": "^cyan;Tense. I overheard some <enemy> <earlier>.",
+      "Rus": "^cyan;Напряжённо. Я <earlier> видел, как неподалёку бродят <enemy>."
     }
   },
   {
@@ -297,7 +323,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Worried. I had an encounter with some <enemy> <earlier>."
+      "Eng": "^cyan;Worried. I had an encounter with some <enemy> <earlier>.",
+      "Rus": "^cyan;Обеспокоенно. На меня <earlier> напали <enemy>."
     }
   },
   {
@@ -308,7 +335,8 @@
       ]
     },
     "Texts": {
-      "Eng": "ambushed me and <crime2>"
+      "Eng": "ambushed me and <crime2>",
+      "Rus": "подкараулили меня и <crime2>"
     }
   },
   {
@@ -319,7 +347,8 @@
       ]
     },
     "Texts": {
-      "Eng": "appeared and <crime2>"
+      "Eng": "appeared and <crime2>",
+      "Rus": "выскочили из засады и <crime2>"
     }
   },
   {
@@ -330,7 +359,8 @@
       ]
     },
     "Texts": {
-      "Eng": "backpack"
+      "Eng": "backpack",
+      "Rus": "мой рюкзак"
     }
   },
   {
@@ -341,7 +371,8 @@
       ]
     },
     "Texts": {
-      "Eng": "blood"
+      "Eng": "blood",
+      "Rus": "справедливости"
     }
   },
   {
@@ -352,7 +383,8 @@
       ]
     },
     "Texts": {
-      "Eng": "burn a few calories"
+      "Eng": "burn a few calories",
+      "Rus": "растрясти жирок"
     }
   },
   {
@@ -363,7 +395,8 @@
       ]
     },
     "Texts": {
-      "Eng": "came out of nowhere and <crime2>"
+      "Eng": "came out of nowhere and <crime2>",
+      "Rus": "появились из ниоткуда и <crime2>"
     }
   },
   {
@@ -374,7 +407,8 @@
       ]
     },
     "Texts": {
-      "Eng": "check it out"
+      "Eng": "check it out",
+      "Rus": "проверить, что они замышляют"
     }
   },
   {
@@ -385,7 +419,8 @@
       ]
     },
     "Texts": {
-      "Eng": "demand <justice2>"
+      "Eng": "demand <justice2>",
+      "Rus": "требую <justice2>"
     }
   },
   {
@@ -396,7 +431,8 @@
       ]
     },
     "Texts": {
-      "Eng": "discussing"
+      "Eng": "discussing",
+      "Rus": "спорили о"
     }
   },
   {
@@ -407,7 +443,8 @@
       ]
     },
     "Texts": {
-      "Eng": "doesn't trussst them"
+      "Eng": "doesn't trussst them",
+      "Rus": "не доверяет им"
     }
   },
   {
@@ -418,7 +455,8 @@
       ]
     },
     "Texts": {
-      "Eng": "expand my emotional horizons"
+      "Eng": "expand my emotional horizons",
+      "Rus": "расширить мои эмоциональные горизонты"
     }
   },
   {
@@ -429,7 +467,8 @@
       ]
     },
     "Texts": {
-      "Eng": "explore the area"
+      "Eng": "explore the area",
+      "Rus": "разведать местность"
     }
   },
   {
@@ -440,7 +479,8 @@
       ]
     },
     "Texts": {
-      "Eng": "future business opportunities"
+      "Eng": "future business opportunities",
+      "Rus": "будущих сделках"
     }
   },
   {
@@ -451,7 +491,8 @@
       ]
     },
     "Texts": {
-      "Eng": "future crimes they've planned"
+      "Eng": "future crimes they've planned",
+      "Rus": "будущих преступлениях"
     }
   },
   {
@@ -462,7 +503,8 @@
       ]
     },
     "Texts": {
-      "Eng": "get away from my troubles"
+      "Eng": "get away from my troubles",
+      "Rus": "развеяться"
     }
   },
   {
@@ -473,7 +515,8 @@
       ]
     },
     "Texts": {
-      "Eng": "get over a recent break-up"
+      "Eng": "get over a recent break-up",
+      "Rus": "отвлечься от недавней ссоры"
     }
   },
   {
@@ -484,7 +527,8 @@
       ]
     },
     "Texts": {
-      "Eng": "going for a walk"
+      "Eng": "going for a walk",
+      "Rus": "бродил туда-сюда"
     }
   },
   {
@@ -495,7 +539,8 @@
       ]
     },
     "Texts": {
-      "Eng": "guns"
+      "Eng": "guns",
+      "Rus": "оружии"
     }
   },
   {
@@ -506,7 +551,8 @@
       ]
     },
     "Texts": {
-      "Eng": "has no hunting weaponsss"
+      "Eng": "has no hunting weaponsss",
+      "Rus": "у Флорана нет оружия"
     }
   },
   {
@@ -517,7 +563,8 @@
       ]
     },
     "Texts": {
-      "Eng": "historical literature"
+      "Eng": "historical literature",
+      "Rus": "исторической литературе"
     }
   },
   {
@@ -528,7 +575,8 @@
       ]
     },
     "Texts": {
-      "Eng": "humiliated"
+      "Eng": "humiliated",
+      "Rus": "чувствую себя унизительно"
     }
   },
   {
@@ -539,7 +587,8 @@
       ]
     },
     "Texts": {
-      "Eng": "interrogated me"
+      "Eng": "interrogated me",
+      "Rus": "вытянули из меня всё, что я знал"
     }
   },
   {
@@ -550,7 +599,8 @@
       ]
     },
     "Texts": {
-      "Eng": "investigate"
+      "Eng": "investigate",
+      "Rus": "разузнать всё подробнее"
     }
   },
   {
@@ -561,7 +611,8 @@
       ]
     },
     "Texts": {
-      "Eng": "isss nervous about them"
+      "Eng": "isss nervous about them",
+      "Rus": "переживает из-за них"
     }
   },
   {
@@ -572,7 +623,8 @@
       ]
     },
     "Texts": {
-      "Eng": "isss not prepared for fighting"
+      "Eng": "isss not prepared for fighting",
+      "Rus": "Флоран не готов к охоте"
     }
   },
   {
@@ -583,7 +635,8 @@
       ]
     },
     "Texts": {
-      "Eng": "isss suspicious"
+      "Eng": "isss suspicious",
+      "Rus": "насторжен"
     }
   },
   {
@@ -594,7 +647,8 @@
       ]
     },
     "Texts": {
-      "Eng": "isss too nervous"
+      "Eng": "isss too nervous",
+      "Rus": "Флоран переживает слишком сильно"
     }
   },
   {
@@ -605,7 +659,8 @@
       ]
     },
     "Texts": {
-      "Eng": "justice"
+      "Eng": "justice",
+      "Rus": "правосудия"
     }
   },
   {
@@ -616,7 +671,8 @@
       ]
     },
     "Texts": {
-      "Eng": "life savings"
+      "Eng": "life savings",
+      "Rus": "все сбережения"
     }
   },
   {
@@ -627,7 +683,8 @@
       ]
     },
     "Texts": {
-      "Eng": "look into it"
+      "Eng": "look into it",
+      "Rus": "узнать, зачем они здесь"
     }
   },
   {
@@ -638,7 +695,8 @@
       ]
     },
     "Texts": {
-      "Eng": "looking for food"
+      "Eng": "looking for food",
+      "Rus": "исскал еду"
     }
   },
   {
@@ -649,7 +707,8 @@
       ]
     },
     "Texts": {
-      "Eng": "looking for hiding places"
+      "Eng": "looking for hiding places",
+      "Rus": "исскал тайники"
     }
   },
   {
@@ -660,7 +719,8 @@
       ]
     },
     "Texts": {
-      "Eng": "lunch"
+      "Eng": "lunch",
+      "Rus": "мой обед"
     }
   },
   {
@@ -671,7 +731,8 @@
       ]
     },
     "Texts": {
-      "Eng": "made me dance at gunpoint whilst laughing"
+      "Eng": "made me dance at gunpoint whilst laughing",
+      "Rus": "заставили меня танцевать, угрожая расправой"
     }
   },
   {
@@ -682,7 +743,8 @@
       ]
     },
     "Texts": {
-      "Eng": "made me hand over my <crime3>"
+      "Eng": "made me hand over my <crime3>",
+      "Rus": "забрали <crime3>"
     }
   },
   {
@@ -693,7 +755,8 @@
       ]
     },
     "Texts": {
-      "Eng": "money"
+      "Eng": "money",
+      "Rus": "мои деньги"
     }
   },
   {
@@ -704,7 +767,8 @@
       ]
     },
     "Texts": {
-      "Eng": "need <justice2>"
+      "Eng": "need <justice2>",
+      "Rus": "желаю <justice2>"
     }
   },
   {
@@ -715,7 +779,8 @@
       ]
     },
     "Texts": {
-      "Eng": "out for walksss"
+      "Eng": "out for walksss",
+      "Rus": "ходил по делам"
     }
   },
   {
@@ -726,7 +791,8 @@
       ]
     },
     "Texts": {
-      "Eng": "out thinking about ssstuff"
+      "Eng": "out thinking about ssstuff",
+      "Rus": "думал о важных вещах"
     }
   },
   {
@@ -737,7 +803,8 @@
       ]
     },
     "Texts": {
-      "Eng": "overheard"
+      "Eng": "overheard",
+      "Rus": "наблюдал"
     }
   },
   {
@@ -748,7 +815,8 @@
       ]
     },
     "Texts": {
-      "Eng": "payback"
+      "Eng": "payback",
+      "Rus": "расплаты"
     }
   },
   {
@@ -759,7 +827,8 @@
       ]
     },
     "Texts": {
-      "Eng": "pretty embarassed"
+      "Eng": "pretty embarassed",
+      "Rus": "порядочно разозлился"
     }
   },
   {
@@ -770,7 +839,8 @@
       ]
     },
     "Texts": {
-      "Eng": "quite upset"
+      "Eng": "quite upset",
+      "Rus": "очень расстроился"
     }
   },
   {
@@ -781,7 +851,8 @@
       ]
     },
     "Texts": {
-      "Eng": "science"
+      "Eng": "science",
+      "Rus": "науке"
     }
   },
   {
@@ -792,7 +863,8 @@
       ]
     },
     "Texts": {
-      "Eng": "secret plans"
+      "Eng": "secret plans",
+      "Rus": "секретных планах"
     }
   },
   {
@@ -803,7 +875,8 @@
       ]
     },
     "Texts": {
-      "Eng": "socks"
+      "Eng": "socks",
+      "Rus": "мои носки"
     }
   },
   {
@@ -814,7 +887,8 @@
       ]
     },
     "Texts": {
-      "Eng": "some nasty plot"
+      "Eng": "some nasty plot",
+      "Rus": "злокозненных планах"
     }
   },
   {
@@ -825,7 +899,8 @@
       ]
     },
     "Texts": {
-      "Eng": "spare change"
+      "Eng": "spare change",
+      "Rus": "всю мелочь"
     }
   },
   {
@@ -836,7 +911,8 @@
       ]
     },
     "Texts": {
-      "Eng": "stole my <crime3>"
+      "Eng": "stole my <crime3>",
+      "Rus": "украли <crime3>"
     }
   },
   {
@@ -847,7 +923,8 @@
       ]
     },
     "Texts": {
-      "Eng": "stole my <crime3> at gunpoint"
+      "Eng": "stole my <crime3> at gunpoint",
+      "Rus": "украли <crime3>, угрожая оружием"
     }
   },
   {
@@ -858,7 +935,8 @@
       ]
     },
     "Texts": {
-      "Eng": "stretch my legs"
+      "Eng": "stretch my legs",
+      "Rus": "размять ноги"
     }
   },
   {
@@ -869,7 +947,8 @@
       ]
     },
     "Texts": {
-      "Eng": "talking about"
+      "Eng": "talking about",
+      "Rus": "говорили о"
     }
   },
   {
@@ -880,7 +959,8 @@
       ]
     },
     "Texts": {
-      "Eng": "their cooking techniques"
+      "Eng": "their cooking techniques",
+      "Rus": "кулинарных приёмах"
     }
   },
   {
@@ -891,7 +971,8 @@
       ]
     },
     "Texts": {
-      "Eng": "their feelings"
+      "Eng": "their feelings",
+      "Rus": "их чувствах"
     }
   },
   {
@@ -902,7 +983,8 @@
       ]
     },
     "Texts": {
-      "Eng": "think about life and stuff"
+      "Eng": "think about life and stuff",
+      "Rus": "поразмыслить о жизни и прочем"
     }
   },
   {
@@ -913,7 +995,8 @@
       ]
     },
     "Texts": {
-      "Eng": "thinks you might deal with thisss better"
+      "Eng": "thinks you might deal with thisss better",
+      "Rus": "Флоран думает, что ты справишься лучше"
     }
   },
   {
@@ -924,7 +1007,8 @@
       ]
     },
     "Texts": {
-      "Eng": "thinkss we might be in danger"
+      "Eng": "thinkss we might be in danger",
+      "Rus": "думает, что они угрожают всем нам"
     }
   },
   {
@@ -935,7 +1019,8 @@
       ]
     },
     "Texts": {
-      "Eng": "thinksss they're up to no good"
+      "Eng": "thinksss they're up to no good",
+      "Rus": "думает, это не к добру"
     }
   },
   {
@@ -946,7 +1031,8 @@
       ]
     },
     "Texts": {
-      "Eng": "took a short trip to <personal>"
+      "Eng": "took a short trip to <personal>",
+      "Rus": "бродил по окрестностям, чтобы <personal>"
     }
   },
   {
@@ -957,7 +1043,8 @@
       ]
     },
     "Texts": {
-      "Eng": "took an excursion to <personal>"
+      "Eng": "took an excursion to <personal>",
+      "Rus": "ходил по окрестностям, чтобы <personal>"
     }
   },
   {
@@ -968,7 +1055,8 @@
       ]
     },
     "Texts": {
-      "Eng": "took my <crime3>"
+      "Eng": "took my <crime3>",
+      "Rus": "отобрали <crime3>"
     }
   },
   {
@@ -979,7 +1067,8 @@
       ]
     },
     "Texts": {
-      "Eng": "took my <crime3> without me realising"
+      "Eng": "took my <crime3> without me realising",
+      "Rus": "незаметно утащили <crime3>"
     }
   },
   {
@@ -990,7 +1079,8 @@
       ]
     },
     "Texts": {
-      "Eng": "try and remember a weird dream I had"
+      "Eng": "try and remember a weird dream I had",
+      "Rus": "попытаться вспомнить мой странный сон"
     }
   },
   {
@@ -1001,7 +1091,8 @@
       ]
     },
     "Texts": {
-      "Eng": "try and solve a difficult mental math problem"
+      "Eng": "try and solve a difficult mental math problem",
+      "Rus": "попытаться мысленно решить теорему Ферма"
     }
   },
   {
@@ -1012,7 +1103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "trying to be sssneaky"
+      "Eng": "trying to be sssneaky",
+      "Rus": "тренировал сскрытность"
     }
   },
   {
@@ -1023,7 +1115,8 @@
       ]
     },
     "Texts": {
-      "Eng": "vengeance"
+      "Eng": "vengeance",
+      "Rus": "мести"
     }
   },
   {
@@ -1034,7 +1127,8 @@
       ]
     },
     "Texts": {
-      "Eng": "wallet"
+      "Eng": "wallet",
+      "Rus": "мой кошелёк"
     }
   },
   {
@@ -1045,7 +1139,8 @@
       ]
     },
     "Texts": {
-      "Eng": "want <justice2>"
+      "Eng": "want <justice2>",
+      "Rus": "хочу <justice2>"
     }
   },
   {
@@ -1056,7 +1151,8 @@
       ]
     },
     "Texts": {
-      "Eng": "was spying on"
+      "Eng": "was spying on",
+      "Rus": "следил"
     }
   },
   {
@@ -1067,7 +1163,8 @@
       ]
     },
     "Texts": {
-      "Eng": "went for a walk to <personal>"
+      "Eng": "went for a walk to <personal>",
+      "Rus": "прогуливался, чтобы <personal>"
     }
   },
   {
@@ -1078,7 +1175,8 @@
       ]
     },
     "Texts": {
-      "Eng": "went jogging to <personal>"
+      "Eng": "went jogging to <personal>",
+      "Rus": "совершал пробежку, чтобы <personal>"
     }
   }
 ]
