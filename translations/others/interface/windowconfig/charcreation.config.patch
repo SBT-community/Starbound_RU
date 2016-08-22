@@ -1,0 +1,7 @@
+[
+  {
+    "value": "[a-zA-Zа-яА-Я '-]{0,16}",
+    "op": "replace",
+    "path": "/paneLayout/name/regex"
+  }
+]
