@@ -389,7 +389,7 @@
     "generic": {
       "shared_lightbulb.json": 1
     },
-    "glitchEmotes.json": 246,
+    "glitchEmotes.json": 255,
     "help.config.json": 58,
     "hunger.config.json": 15,
     "interface": {
@@ -7072,10 +7072,10 @@
         "eggs": {
           "fluffaloegg": {
             "electricfluffaloegg.object.json": 2,
-            "firefluffaloegg.object.json": 0,
+            "firefluffaloegg.object.json": 3,
             "fluffaloegg.object.json": 2,
-            "icefluffaloegg.object.json": 0,
-            "poisonfluffaloegg.object.json": 0
+            "icefluffaloegg.object.json": 4,
+            "poisonfluffaloegg.object.json": 8
           },
           "henegg": {
             "henegg.object.json": 0
