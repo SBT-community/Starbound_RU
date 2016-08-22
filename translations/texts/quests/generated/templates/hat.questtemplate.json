@@ -32,7 +32,7 @@
     },
     "Texts": {
       "Eng": "All you have to do now is ask ^orange;<friend>^white; to make my new ^orange;headwear.^white; Could you ^green;deliver the ^orange;<clothingIngredients>^green; to <friend.pronoun.object>?",
-      "Rus": "Тебе осталось только поговорить с моим другом, чтобы он сделал новую ^orange;шляпу^white;. ^orange;<friend>^white; уже ждёт, когда ты ^green;принесёшь ^orange;<clothingIngredients>^white;."
+      "Rus": "Тебе осталось только поговорить с моим другом, чтобы <friend.pronoun.subject> сделал новую ^orange;шляпу^white;. ^orange;<friend>^white; уже ждёт, когда ты ^green;принесёшь <friend.pronoun.object> ^orange;<clothingIngredients>^white;."
     }
   },
   {
@@ -68,7 +68,7 @@
     },
     "Texts": {
       "Eng": "Finally, run over and have ^orange;<friend>^white; assemble us some custom ^orange;headwear.^white; Just ^green;mention my name, and give <friend.pronoun.object> our ^orange;<clothingIngredients>^white;.",
-      "Rus": "Наконец, ^orange;<friend>^white; уже приступает к шитью моей новой ^orange;шляпы^white;. ^green;Неси скорее ^orange;<clothingIngredients>^white;, а то я рискую получить шляпу из подручных материалов."
+      "Rus": "Наконец, ^orange;<friend>^white; уже приступает к шитью моей новой ^orange;шляпы^white;. ^green;Неси <friend.pronoun.subject> скорее ^orange;<clothingIngredients>^white;, а то я рискую получить шляпу из подручных материалов."
     }
   },
   {
@@ -116,7 +116,7 @@
     },
     "Texts": {
       "Eng": "I didn't help <questGiver> find something <adjective> to wear. I prefer <questGiver.pronoun.possessiveDet> look as it is.",
-      "Rus": "Задача провалена. <questGiver> теперь никогда не будет выглядеть <adjective>. Впрочем, мне и так нравится."
+      "Rus": "Задача провалена. <questGiver> теперь никогда не будет выглядеть <adjective>. Впрочем, <questGiver.pronoun.subject> мне и так нравится."
     }
   },
   {
