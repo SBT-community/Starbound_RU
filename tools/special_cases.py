@@ -29,5 +29,17 @@ class SpecialSection():
     return False
 
 specialSections = [
-  SpecialSection("npcnames", [], ["^.*namegen\.config$", "^.*\.namesource$"])
+  SpecialSection("Имена персонажей", [], ["^.*namegen\.config$", "^.*\.namesource$"]),
+  SpecialSection("Наречие", [], ["^.*pools/hatadjectives.config$"]),
+  SpecialSection("Привязанное к полу прилагательное",
+    ["^.*generatedText/fluff/2/.*$"],
+    ["^.*quests/generated/templates/spread_rumors.questtemplate$"], True),
+  SpecialSection("Предложный падеж", ["^.*generatedText/fluff/3/.*$"],
+    ["^.*quests/generated/templates/escort\.questtemplate$"], True),
+  SpecialSection("Предложный падеж", [".*generatedText/fluff/5/.*$"],
+    ["^.*quests/generated/templates/kidnapping\.questtemplate$"], True),
+  SpecialSection("Множественное число", ["^.*generatedText/fluff/3/.*$"],
+    ["^.*kill_monster_group\.questtemplate$"], True),
+  SpecialSection("Родительный падеж", ["^.+/name$"],
+    ["^.*pools/monsterthreats\.config$"], True),
 ]
