@@ -24,7 +24,7 @@ glitchIsHere = regex("^.*[gG]litch.*")
 
 
 def defaultHandler(val, filename, path):
-  sec = "*"
+  sec = ""
   for pattern in specialSections:
     if pattern.match(filename, path):
       sec = pattern.name
@@ -104,7 +104,7 @@ def construct_db(assets_dir):
   ##   { "files were it used" : [list of fields were it used in file] } } }
   print("Scanning assets at " + assets_dir)
   db = dict()
-  db["*"] = dict()
+  db[""] = dict()
   foi = list()
   for subdir, dirs, files in walk(assets_dir):
     for thefile in files:
@@ -143,10 +143,12 @@ def process_label(combo):
   ##   translation - a part of json file content to write into the database
   ##   filename - a name of file the translation should be added
   ##   substitutions - a part of new formed substitutions file content
-  label, files, oldsubs = combo
+  label, files, oldsubs, section = combo
   substitutions = dict()
   obj_file = normpath(getSharedPath(files.keys()))
   translation = dict()
+  if section:
+    translation["Comment"] = section
   translation["Texts"] = dict()
   translation["Texts"]["Eng"] = label
   translation["DeniedAlternatives"] = list()
@@ -195,7 +197,7 @@ def prepare_to_write(database):
   for section, thedatabase in database.items():
     with Pool() as p: # Do it parallel
       result = p.imap_unordered(process_label,
-        [(f, d, oldsubs) for f,d in thedatabase.items() ], 40)
+        [(f, d, oldsubs, section) for f,d in thedatabase.items() ], 40)
       for fn, js, sb in result: # Merge results
         for fs, flds in sb.items():
           if fs not in substitutions:
