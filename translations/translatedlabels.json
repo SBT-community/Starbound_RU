@@ -12093,15 +12093,14 @@
         "locations.config.json": 336,
         "pools": {
           "buildingthemes.config.json": 3,
+          "capturablemonsters.config.json": 0,
           "dungeonitems.config.json": 11,
-          "hatadjectives.config.json": 45,
-          "monsterthreats.config.json": 0,
+          "hatadjectives.config.json": 46,
+          "monsterthreats.config.json": 1,
           "npcthreats.config.json": 17,
           "shared_lemonster.json": 1,
-          "shared_s.config.json": 0,
           "singlenpcthreats.config.json": 4
         },
-        "shared_monster.json": 0,
         "shared_npc.json": 1,
         "templates": {
           "add_object_to_house.questtemplate.json": 23,
@@ -12121,7 +12120,7 @@
           "fetch.questtemplate.json": 0,
           "gift.questtemplate.json": 1,
           "hat.questtemplate.json": 24,
-          "helmet.questtemplate.json": 22,
+          "helmet.questtemplate.json": 23,
           "intimidate.questtemplate.json": 7,
           "kidnapping.questtemplate.json": 9,
           "kill_monster.questtemplate.json": 6,
@@ -12136,7 +12135,7 @@
           "request_craft.questtemplate.json": 0,
           "return_stolen.questtemplate.json": 2,
           "share_secret.questtemplate.json": 91,
-          "shared_.questtemplate.json": 57,
+          "shared_.questtemplate.json": 58,
           "shared_d.questtemplate.json": 2,
           "shared_t.questtemplate.json": 1,
           "spread_rumors.questtemplate.json": 0,
@@ -12144,7 +12143,7 @@
           "themed_build.questtemplate.json": 1
         }
       },
-      "generated.json": 3,
+      "generated.json": 1,
       "outpost": {
         "floranarena1.questtemplate.json": 3,
         "floranarena2.questtemplate.json": 3,

@@ -335,6 +335,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "creepy",
+      "Rus": ""
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
         "/scriptConfig/generatedText/fluff/1/1/6",
         "/scriptConfig/generatedText/fluff/2/1/2"
       ]
@@ -352,6 +364,18 @@
     },
     "Texts": {
       "Eng": "disaster struck"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "ferocious",
+      "Rus": ""
     }
   },
   {

@@ -262,5 +262,17 @@
       "Eng": "^cyan;I want to stand out as a guard! Will you help me find something that makes me look <adjective>?",
       "Rus": "^cyan;Стражу должен всякий узнавать издалека! Поэтому я хочу выглядеть более <adjective> - можешь мне помочь?"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/helmet.questtemplate": [
+        "/parameters/adjective/example/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "strong",
+      "Rus": "сильно"
+    }
   }
 ]

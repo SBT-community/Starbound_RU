@@ -195,7 +195,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_monster_group.questtemplate": [
-        "/scriptConfig/generatedText/fluff/1/1/1",
+        "/scriptConfig/generatedText/fluff/1/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "angry"
+    }
+  },
+  {
+    "Comment": "Множественное число",
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
         "/scriptConfig/generatedText/fluff/3/1/1"
       ]
     },
@@ -248,6 +259,7 @@
     }
   },
   {
+    "Comment": "Множественное число",
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_monster_group.questtemplate": [
@@ -292,6 +304,20 @@
     }
   },
   {
+    "Comment": "Множественное число",
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "ferocious",
+      "Rus": ""
+    }
+  },
+  {
+    "Comment": "Множественное число",
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_monster_group.questtemplate": [
@@ -589,6 +615,7 @@
     }
   },
   {
+    "Comment": "Множественное число",
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_monster_group.questtemplate": [
@@ -644,6 +671,7 @@
     }
   },
   {
+    "Comment": "Множественное число",
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_monster_group.questtemplate": [
@@ -666,6 +694,7 @@
     }
   },
   {
+    "Comment": "Множественное число",
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_monster_group.questtemplate": [
@@ -788,6 +817,7 @@
     }
   },
   {
+    "Comment": "Множественное число",
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_monster_group.questtemplate": [
@@ -865,6 +895,7 @@
     }
   },
   {
+    "Comment": "Множественное число",
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_monster_group.questtemplate": [
