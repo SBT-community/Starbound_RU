@@ -75,7 +75,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Boss, I hid the treasure in the <treasureLocation><treasureLocation.direction>"
+      "Eng": "Boss, I hid the treasure in the <treasureLocation><treasureLocation.direction>",
+      "Rus": "Босс, сокровища спрятаны около <treasureLocation> <treasureLocation.direction>"
     }
   },
   {
@@ -90,7 +91,7 @@
     },
     "Texts": {
       "Eng": "Bring reply to <questGiver>",
-      "Rus": "Принеси ответ <questGiver>"
+      "Rus": "<questGiver> ждёт ответ"
     }
   },
   {
@@ -122,7 +123,7 @@
     },
     "Texts": {
       "Eng": "Deliver message to <target>",
-      "Rus": "Передай сообщение <target>"
+      "Rus": "<target> ждёт письмо"
     }
   },
   {
@@ -184,7 +185,7 @@
     },
     "Texts": {
       "Eng": "I'll sleep better knowing you've made it a little safer around here!",
-      "Rus": "Я буду спать спокойней, зная что ты смог(ла) обезопасить это место!"
+      "Rus": "Я буду спать спокойней, зная что ты смог обезопасить это место!"
     }
   },
   {
@@ -204,7 +205,8 @@
       ]
     },
     "Texts": {
-      "Eng": "It's for <questGiver>. I shouldn't open it."
+      "Eng": "It's for <questGiver>. I shouldn't open it.",
+      "Rus": "<questGiver> долж<questGiver.pronoun.verb2Ending> получить это. Мне нельзя открывать."
     }
   },
   {
@@ -286,7 +288,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Note to self: don't forget the loot left at <treasureLocation><treasureLocation.direction>"
+      "Eng": "Note to self: don't forget the loot left at <treasureLocation><treasureLocation.direction>",
+      "Rus": "Не забыть: тайник у <treasureLocation> <treasureLocation.direction>"
     }
   },
   {
@@ -321,7 +324,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Parcel for <questGiver>"
+      "Eng": "Parcel for <questGiver>",
+      "Rus": "Пакет. Получатель: <questGiver>"
     }
   },
   {
@@ -338,7 +342,24 @@
       ]
     },
     "Texts": {
-      "Eng": "Perfectly Generic Victim"
+      "Eng": "Perfectly Generic Victim",
+      "Rus": "Perfectly Generic Victim"
+    }
+  },
+  {
+    "Comment": "Предложный падеж",
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/3"
+      ],
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/5/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Poptops",
+      "Rus": "Поптопы"
     }
   },
   {
@@ -381,7 +402,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Some Person"
+      "Eng": "Some Person",
+      "Rus": "Some Person"
     }
   },
   {
@@ -425,7 +447,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Transfer of the loot to take place at <treasureLocation><treasureLocation.direction>"
+      "Eng": "Transfer of the loot to take place at <treasureLocation><treasureLocation.direction>",
+      "Rus": "Добыча спрятана близ <treasureLocation> <treasureLocation.direction>"
     }
   },
   {
@@ -440,7 +463,7 @@
     },
     "Texts": {
       "Eng": "You got rid of the <monster>?",
-      "Rus": "Ты избавился от <monster>?"
+      "Rus": "Ну что, <monster> - теперь не более чем история?"
     }
   },
   {
@@ -470,7 +493,7 @@
     },
     "Texts": {
       "Eng": "admires",
-      "Rus": ""
+      "Rus": "обожает"
     }
   },
   {
@@ -485,7 +508,7 @@
     },
     "Texts": {
       "Eng": "adores",
-      "Rus": ""
+      "Rus": "боготворит"
     }
   },
   {
@@ -500,7 +523,7 @@
     },
     "Texts": {
       "Eng": "camping",
-      "Rus": ""
+      "Rus": "устраивал<questGiver.pronoun.verbEnding> пикник"
     }
   },
   {
@@ -546,7 +569,7 @@
     },
     "Texts": {
       "Eng": "computers",
-      "Rus": ""
+      "Rus": "компьютеры"
     }
   },
   {
@@ -592,22 +615,7 @@
     },
     "Texts": {
       "Eng": "crasberries",
-      "Rus": ""
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kill_monster_single.questtemplate": [
-        "/scriptConfig/generatedText/fluff/1/1/5"
-      ],
-      "quests/generated/templates/spread_rumors.questtemplate": [
-        "/scriptConfig/generatedText/fluff/2/1/5"
-      ]
-    },
-    "Texts": {
-      "Eng": "creepy",
-      "Rus": ""
+      "Rus": "клюкву"
     }
   },
   {
@@ -630,7 +638,8 @@
       ]
     },
     "Texts": {
-      "Eng": "dark, scary cave"
+      "Eng": "dark, scary cave",
+      "Rus": ""
     }
   },
   {
@@ -660,7 +669,7 @@
     },
     "Texts": {
       "Eng": "daydreams about",
-      "Rus": ""
+      "Rus": "видит грёзы про"
     }
   },
   {
@@ -675,7 +684,7 @@
     },
     "Texts": {
       "Eng": "draws pictures of",
-      "Rus": ""
+      "Rus": "рисует картины про"
     }
   },
   {
@@ -690,7 +699,7 @@
     },
     "Texts": {
       "Eng": "dreams about",
-      "Rus": ""
+      "Rus": "видит сны про"
     }
   },
   {
@@ -771,22 +780,7 @@
     },
     "Texts": {
       "Eng": "exploring",
-      "Rus": "exploring"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kill_monster_group.questtemplate": [
-        "/scriptConfig/generatedText/fluff/3/1/5"
-      ],
-      "quests/generated/templates/kill_monster_single.questtemplate": [
-        "/scriptConfig/generatedText/fluff/1/1/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "ferocious",
-      "Rus": ""
+      "Rus": "исследовал<questGiver.pronoun.verbEnding> местность"
     }
   },
   {
@@ -833,7 +827,7 @@
     },
     "Texts": {
       "Eng": "gleaps",
-      "Rus": ""
+      "Rus": "глипов"
     }
   },
   {
@@ -851,7 +845,7 @@
     },
     "Texts": {
       "Eng": "jogging",
-      "Rus": ""
+      "Rus": "бегал<questGiver.pronoun.verbEnding>"
     }
   },
   {
@@ -878,7 +872,7 @@
     },
     "Texts": {
       "Eng": "last night",
-      "Rus": ""
+      "Rus": "прошлой ночью"
     }
   },
   {
@@ -893,7 +887,7 @@
     },
     "Texts": {
       "Eng": "likes poking",
-      "Rus": ""
+      "Rus": "любит тыкать"
     }
   },
   {
@@ -908,7 +902,7 @@
     },
     "Texts": {
       "Eng": "loves",
-      "Rus": ""
+      "Rus": "любит"
     }
   },
   {
@@ -924,6 +918,21 @@
     "Texts": {
       "Eng": "make them pay",
       "Rus": "проучить их"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_group.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/0"
+      ],
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "monsters",
+      "Rus": ""
     }
   },
   {
@@ -981,7 +990,7 @@
     },
     "Texts": {
       "Eng": "pearlpeas",
-      "Rus": ""
+      "Rus": "жемчугорох"
     }
   },
   {
@@ -997,7 +1006,7 @@
     },
     "Texts": {
       "Eng": "poptops",
-      "Rus": ""
+      "Rus": "поптопов"
     }
   },
   {
@@ -1028,7 +1037,7 @@
     },
     "Texts": {
       "Eng": "rocks",
-      "Rus": ""
+      "Rus": "камни"
     }
   },
   {
@@ -1043,7 +1052,7 @@
     },
     "Texts": {
       "Eng": "sings to",
-      "Rus": ""
+      "Rus": "поёт песни про"
     }
   },
   {
@@ -1059,7 +1068,7 @@
     },
     "Texts": {
       "Eng": "sleeping people",
-      "Rus": ""
+      "Rus": "спящих людей"
     }
   },
   {
@@ -1074,7 +1083,7 @@
     },
     "Texts": {
       "Eng": "smells",
-      "Rus": ""
+      "Rus": "нюхает"
     }
   },
   {
@@ -1090,7 +1099,7 @@
     },
     "Texts": {
       "Eng": "snails",
-      "Rus": ""
+      "Rus": "улиток"
     }
   },
   {
@@ -1121,7 +1130,7 @@
     },
     "Texts": {
       "Eng": "spaceships",
-      "Rus": ""
+      "Rus": "звездолёты"
     }
   },
   {
@@ -1166,7 +1175,7 @@
     },
     "Texts": {
       "Eng": "ssstab them",
-      "Rus": ""
+      "Rus": "порезать кого надо"
     }
   },
   {
@@ -1181,7 +1190,7 @@
     },
     "Texts": {
       "Eng": "stares at",
-      "Rus": ""
+      "Rus": "смотрит пока никто не видит на"
     }
   },
   {
@@ -1196,7 +1205,7 @@
     },
     "Texts": {
       "Eng": "their own face",
-      "Rus": ""
+      "Rus": "своё лицо"
     }
   },
   {
@@ -1211,7 +1220,7 @@
     },
     "Texts": {
       "Eng": "their toes",
-      "Rus": ""
+      "Rus": "свои пальцы"
     }
   },
   {
@@ -1226,7 +1235,7 @@
     },
     "Texts": {
       "Eng": "themselves",
-      "Rus": ""
+      "Rus": "себя"
     }
   },
   {
@@ -1241,7 +1250,7 @@
     },
     "Texts": {
       "Eng": "trekking",
-      "Rus": ""
+      "Rus": "прогуливал<questGiver.pronoun.verb3Ending>"
     }
   },
   {
@@ -1257,7 +1266,7 @@
     },
     "Texts": {
       "Eng": "vegetables",
-      "Rus": ""
+      "Rus": "овощи"
     }
   },
   {
@@ -1272,7 +1281,7 @@
     },
     "Texts": {
       "Eng": "walking",
-      "Rus": ""
+      "Rus": "ходил<questGiver.pronoun.verbEnding>"
     }
   },
   {
@@ -1287,7 +1296,7 @@
     },
     "Texts": {
       "Eng": "wants to draw",
-      "Rus": ""
+      "Rus": "хочет нарисовать картину про"
     }
   },
   {
@@ -1302,7 +1311,7 @@
     },
     "Texts": {
       "Eng": "writes stories about",
-      "Rus": ""
+      "Rus": "пишет фанфики про"
     }
   },
   {

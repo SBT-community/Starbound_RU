@@ -851,7 +851,7 @@
     },
     "Texts": {
       "Eng": "^cyan;Flustered. I've found out there's a dangerous outlaw nearby...",
-      "Rus": "^cyan;Взволнованно. Я обнаружил, что неподалёку прячется опасный преступник..."
+      "Rus": "^cyan;Взволнованно. Я обнаружил<questGiver.pronoun.verbEnding>, что неподалёку прячется опасный преступник..."
     }
   },
   {
@@ -863,7 +863,7 @@
     },
     "Texts": {
       "Eng": "^cyan;I've found out there's a dangerous outlaw nearby...",
-      "Rus": "^cyan;Я обнаружил, что неподалёку прячется опасный преступник..."
+      "Rus": "^cyan;Я обнаружил<questGiver.pronoun.verbEnding>, что неподалёку прячется опасный преступник..."
     }
   },
   {
@@ -886,7 +886,8 @@
       ]
     },
     "Texts": {
-      "Eng": "bandit"
+      "Eng": "bandit",
+      "Rus": "bandit"
     }
   },
   {

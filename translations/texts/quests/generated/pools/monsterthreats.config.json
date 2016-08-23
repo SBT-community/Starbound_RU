@@ -1,5 +1,6 @@
 [
   {
+    "Comment": "Родительный падеж",
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/pools/monsterthreats.config": [
@@ -7,10 +8,12 @@
       ]
     },
     "Texts": {
-      "Eng": "Bobfaes"
+      "Eng": "Bobfaes",
+      "Rus": "бобф"
     }
   },
   {
+    "Comment": "Родительный падеж",
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/pools/monsterthreats.config": [
@@ -18,10 +21,25 @@
       ]
     },
     "Texts": {
-      "Eng": "Fennixes"
+      "Eng": "Fennixes",
+      "Rus": "фенниксов"
     }
   },
   {
+    "Comment": "Родительный падеж",
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/pools/monsterthreats.config": [
+        "/0/1/1/1/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gleaps",
+      "Rus": "глипов"
+    }
+  },
+  {
+    "Comment": "Родительный падеж",
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/pools/monsterthreats.config": [
@@ -29,10 +47,12 @@
       ]
     },
     "Texts": {
-      "Eng": "Lilodons"
+      "Eng": "Lilodons",
+      "Rus": "лилодонов"
     }
   },
   {
+    "Comment": "Родительный падеж",
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/pools/monsterthreats.config": [
@@ -40,10 +60,12 @@
       ]
     },
     "Texts": {
-      "Eng": "Miasmops"
+      "Eng": "Miasmops",
+      "Rus": "миасмопов"
     }
   },
   {
+    "Comment": "Родительный падеж",
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/pools/monsterthreats.config": [
@@ -51,10 +73,12 @@
       ]
     },
     "Texts": {
-      "Eng": "Oculobs"
+      "Eng": "Oculobs",
+      "Rus": "глазолобов"
     }
   },
   {
+    "Comment": "Родительный падеж",
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/pools/monsterthreats.config": [
@@ -62,10 +86,25 @@
       ]
     },
     "Texts": {
-      "Eng": "Petricubs"
+      "Eng": "Petricubs",
+      "Rus": "петрикейпов"
     }
   },
   {
+    "Comment": "Родительный падеж",
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/pools/monsterthreats.config": [
+        "/0/1/6/1/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Poptops",
+      "Rus": "поптопов"
+    }
+  },
+  {
+    "Comment": "Родительный падеж",
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/pools/monsterthreats.config": [
@@ -73,10 +112,12 @@
       ]
     },
     "Texts": {
-      "Eng": "Snaunts"
+      "Eng": "Snaunts",
+      "Rus": "плевунов"
     }
   },
   {
+    "Comment": "Родительный падеж",
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/pools/monsterthreats.config": [
@@ -84,10 +125,12 @@
       ]
     },
     "Texts": {
-      "Eng": "Voltips"
+      "Eng": "Voltips",
+      "Rus": "волтипов"
     }
   },
   {
+    "Comment": "Родительный падеж",
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/pools/monsterthreats.config": [
@@ -95,7 +138,35 @@
       ]
     },
     "Texts": {
-      "Eng": "birds"
+      "Eng": "birds",
+      "Rus": "летунов"
+    }
+  },
+  {
+    "Comment": "Родительный падеж",
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/pools/monsterthreats.config": [
+        "/0/1/11/1/name",
+        "/0/1/12/1/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "monsters",
+      "Rus": "монстров"
+    }
+  },
+  {
+    "Comment": "Родительный падеж",
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/pools/monsterthreats.config": [
+        "/0/1/0/1/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "test fishes with legs",
+      "Rus": "test fishes with legs"
     }
   }
 ]

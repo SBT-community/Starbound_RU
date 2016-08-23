@@ -12,6 +12,7 @@ from json import load, dump, loads
 from parser_settings import files_of_interest
 from utils import get_answer
 from bisect import insort_left
+from special_cases import specialSections
 
 root_dir = "./assets"
 prefix = "./translations"
@@ -23,7 +24,12 @@ glitchIsHere = regex("^.*[gG]litch.*")
 
 
 def defaultHandler(val, filename, path):
-  return [(val, filename, path)]
+  sec = ""
+  for pattern in specialSections:
+    if pattern.match(filename, path):
+      sec = pattern.name
+      break
+  return [(sec, val, filename, path)]
   
 def glitchDescriptionSpecialHandler(val, filename, path):
   ## Handles glitch utterances, and separates it to emote part and text part,
@@ -94,9 +100,11 @@ def parseFile(filename):
 def construct_db(assets_dir):
   ## Creating a database of text labels from game assets dir given
   ## the database has a following structure:
-  ##  { "label" : { "files were it used" : [list of fields were it used in file] } }
+  ## {"section": { "label" :
+  ##   { "files were it used" : [list of fields were it used in file] } } }
   print("Scanning assets at " + assets_dir)
   db = dict()
+  db[""] = dict()
   foi = list()
   for subdir, dirs, files in walk(assets_dir):
     for thefile in files:
@@ -105,14 +113,16 @@ def construct_db(assets_dir):
   with Pool() as p:
     r = p.imap_unordered(parseFile, foi)
     for chunk in r:
-      for val, fname, path in chunk:
-        if val not in db:
-          db[val] = dict()
+      for sec, val, fname, path in chunk:
+        if sec not in db:
+          db[sec] = dict()
+        if val not in db[sec]:
+          db[sec][val] = dict()
         filename = normpath(relpath(abspath(fname), abspath(assets_dir)))
-        if filename not in db[val]:
-          db[val][filename] = list()
-        if path not in db[val][filename]:
-          insort_left(db[val][filename], path)
+        if filename not in db[sec][val]:
+          db[sec][val][filename] = list()
+        if path not in db[sec][val][filename]:
+          insort_left(db[sec][val][filename], path)
   return db
 
 def file_by_assets(assets_fname, field, substitutions):
@@ -133,10 +143,12 @@ def process_label(combo):
   ##   translation - a part of json file content to write into the database
   ##   filename - a name of file the translation should be added
   ##   substitutions - a part of new formed substitutions file content
-  label, files, oldsubs = combo
+  label, files, oldsubs, section = combo
   substitutions = dict()
   obj_file = normpath(getSharedPath(files.keys()))
   translation = dict()
+  if section:
+    translation["Comment"] = section
   translation["Texts"] = dict()
   translation["Texts"]["Eng"] = label
   translation["DeniedAlternatives"] = list()
@@ -172,7 +184,7 @@ def process_label(combo):
   translation["Files"] = files
   return (filename, translation, substitutions)
 
-def prepare_to_write(thedatabase):
+def prepare_to_write(database):
   file_buffer = dict()
   substitutions = dict()
   oldsubs = dict()
@@ -182,18 +194,19 @@ def prepare_to_write(thedatabase):
       oldsubs = load(f)
   except:
     print("No old data found, creating new database.")
-  with Pool() as p: # Do it parallel
-    result = p.imap_unordered(process_label,
-      [(f, d, oldsubs) for f,d in thedatabase.items() ], 40)
-    for fn, js, sb in result: # Merge results
-      for fs, flds in sb.items():
-        if fs not in substitutions:
-          substitutions[fs] = flds
-        else:
-          substitutions[fs].update(flds)
-      if fn not in file_buffer:
-        file_buffer[fn] = list()
-      file_buffer[fn].append(js)
+  for section, thedatabase in database.items():
+    with Pool() as p: # Do it parallel
+      result = p.imap_unordered(process_label,
+        [(f, d, oldsubs, section) for f,d in thedatabase.items() ], 40)
+      for fn, js, sb in result: # Merge results
+        for fs, flds in sb.items():
+          if fs not in substitutions:
+            substitutions[fs] = flds
+          else:
+            substitutions[fs].update(flds)
+        if fn not in file_buffer:
+          file_buffer[fn] = list()
+        file_buffer[fn].append(js)
   file_buffer[sub_file] = substitutions
   return file_buffer
 
@@ -239,6 +252,8 @@ def final_write(file_buffer):
 # Start here
 if __name__ == "__main__":
   thedatabase = construct_db(root_dir)
+  #with open("testdb.json", "w") as f:
+  #  dump(thedatabase, f, ensure_ascii=False, indent=2, sort_keys=True)
   file_buffer = prepare_to_write(thedatabase)
   #with open("testfb.json", "w") as f:
   #  dump(file_buffer, f, ensure_ascii=False, indent=2, sort_keys=True)

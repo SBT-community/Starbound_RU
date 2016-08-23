@@ -8,7 +8,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<monster> Hunter"
+      "Eng": "<monster> Hunter",
+      "Rus": "<monster> - охота начата"
     }
   },
   {
@@ -19,7 +20,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran has heard talk of a <giantfloran> ^orange;<monster>^white; near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Floran thinks thisss sounds like a good hunt! <challengefloran>, ^green;you should go and ssstab it^white;!"
+      "Eng": "Floran has heard talk of a <giantfloran> ^orange;<monster>^white; near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Floran thinks thisss sounds like a good hunt! <challengefloran>, ^green;you should go and ssstab it^white;!",
+      "Rus": "Флоран сслышал, что тут водится <giantfloran> ^orange;<monster>^white; - около ^orange;<spawnPoint>^white; <spawnPoint.direction>. Флоран думает, что это сстоящая цель для охоты! <challengefloran>, ^green;ты должен пойти и зарезать его^white;!"
     }
   },
   {
@@ -30,7 +32,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran is surprised at your ssskills!"
+      "Eng": "Floran is surprised at your ssskills!",
+      "Rus": "Флоран не ожидал от тебя такого мастерсства!"
     }
   },
   {
@@ -41,7 +44,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran is very impresssed!"
+      "Eng": "Floran is very impresssed!",
+      "Rus": "Флоран очень впечатлён!"
     }
   },
   {
@@ -52,7 +56,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran wasn't sssure you could do it!"
+      "Eng": "Floran wasn't sssure you could do it!",
+      "Rus": "Флоран не был уверен, что ты ссправишься!"
     }
   },
   {
@@ -63,7 +68,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran won't doubt you in future... Not that Floran wasss doubting you!"
+      "Eng": "Floran won't doubt you in future... Not that Floran wasss doubting you!",
+      "Rus": "Теперь Флоран в тебе не сомневается... То есть Флоран и до этого не ссомневался!"
     }
   },
   {
@@ -74,7 +80,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I guess I wasn't able to help <questGiver> in time. That's a shame."
+      "Eng": "I guess I wasn't able to help <questGiver> in time. That's a shame.",
+      "Rus": "Я не смог помочь. <questGiver> обречен<questGiver.pronoun.verbEnding> на страшную смерть. Как жаль."
     }
   },
   {
@@ -85,7 +92,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I had a scary encounter"
+      "Eng": "I had a scary encounter",
+      "Rus": "я увидел<questGiver.pronoun.verbEnding> такое"
     }
   },
   {
@@ -96,7 +104,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I narrowly avoided a terrible fate"
+      "Eng": "I narrowly avoided a terrible fate",
+      "Rus": "я лишь чудом избежал<questGiver.pronoun.verbEnding> ужасной судьбы"
     }
   },
   {
@@ -108,7 +117,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I was out <exploring> near the ^orange;<spawnPoint>^white;<spawnPoint.direction> <earlier> when <disaster>! A <giant> ^orange;<monster>^white; was there and <fate>.  Can you <request>, to teach it a lesson?"
+      "Eng": "I was out <exploring> near the ^orange;<spawnPoint>^white;<spawnPoint.direction> <earlier> when <disaster>! A <giant> ^orange;<monster>^white; was there and <fate>.  Can you <request>, to teach it a lesson?",
+      "Rus": "Я <earlier> <exploring> неподалёку от ^orange;<spawnPoint>^white; <spawnPoint.direction>, и тут <disaster>! Появился <giant> ^orange;<monster>^white; и <fate>. Ты можешь <request>?"
     }
   },
   {
@@ -119,7 +129,8 @@
       ]
     },
     "Texts": {
-      "Eng": "If you are a brave enough hunter"
+      "Eng": "If you are a brave enough hunter",
+      "Rus": "Если ты достаточно храбрый охотник"
     }
   },
   {
@@ -130,7 +141,8 @@
       ]
     },
     "Texts": {
-      "Eng": "If you are a worthy hunter"
+      "Eng": "If you are a worthy hunter",
+      "Rus": "Если ты умелый охотник"
     }
   },
   {
@@ -141,7 +153,8 @@
       ]
     },
     "Texts": {
-      "Eng": "If you are brave enough"
+      "Eng": "If you are brave enough",
+      "Rus": "Если ты достаточно ссмел"
     }
   },
   {
@@ -152,7 +165,8 @@
       ]
     },
     "Texts": {
-      "Eng": "If you are up for the challenge"
+      "Eng": "If you are up for the challenge",
+      "Rus": "Если ты ищешь вызов"
     }
   },
   {
@@ -163,7 +177,8 @@
       ]
     },
     "Texts": {
-      "Eng": "If you think you can fight sssuch a strong beast"
+      "Eng": "If you think you can fight sssuch a strong beast",
+      "Rus": "Если ты думаешь, что способен ссовладать с таким зверем"
     }
   },
   {
@@ -174,7 +189,8 @@
       ]
     },
     "Texts": {
-      "Eng": "If you think you're ssstrong enough"
+      "Eng": "If you think you're ssstrong enough",
+      "Rus": "Если ты думаешь, что достаточно силён"
     }
   },
   {
@@ -185,7 +201,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Now I can sleep knowing that thing won't be around!"
+      "Eng": "Now I can sleep knowing that thing won't be around!",
+      "Rus": "Теперь я могу спать, зная, что эта тварь не бродит рядом!"
     }
   },
   {
@@ -196,7 +213,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Oh, you sorted out that <giant> <monster>?"
+      "Eng": "Oh, you sorted out that <giant> <monster>?",
+      "Rus": "О, <giant> <monster> меня больше не побеспокоит?"
     }
   },
   {
@@ -207,7 +225,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The <giant> <monster>"
+      "Eng": "The <giant> <monster>",
+      "Rus": "Здесь <giant> <monster>!"
     }
   },
   {
@@ -218,7 +237,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The <monster> challenge"
+      "Eng": "The <monster> challenge",
+      "Rus": "Трофей - <monster>"
     }
   },
   {
@@ -229,7 +249,8 @@
       ]
     },
     "Texts": {
-      "Eng": "There's been <talk> about a <giant> ^orange;<monster>^white; over near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Some are saying that it <rumour1>! Can you <request>, and save us all?"
+      "Eng": "There's been <talk> about a <giant> ^orange;<monster>^white; over near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Some are saying that it <rumour1>! Can you <request>, and save us all?",
+      "Rus": "Ходят <talk>, что <giant> ^orange;<monster>^white; поселился у ^orange;<spawnPoint>^white;<spawnPoint.direction>. Говорят также, что он <rumour1>! Не мог бы ты <request>, чтобы спасти нас всех?"
     }
   },
   {
@@ -240,7 +261,8 @@
       ]
     },
     "Texts": {
-      "Eng": "There's been <talk> about a <giant> ^orange;<monster>^white; over near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Some are saying that it <rumour1>! Can you <request>, so I can feel safe again?"
+      "Eng": "There's been <talk> about a <giant> ^orange;<monster>^white; over near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Some are saying that it <rumour1>! Can you <request>, so I can feel safe again?",
+      "Rus": "Ходят <talk>, что <giant> ^orange;<monster>^white; поселился у ^orange;<spawnPoint>^white;<spawnPoint.direction>. Говорят также, что он <rumour1>! Не мог бы ты <request>, чтобы я чувствовал<questGiver.pronoun.verbEnding> себя безопаснее?"
     }
   },
   {
@@ -251,7 +273,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You defeated the <giant> <monster>?"
+      "Eng": "You defeated the <giant> <monster>?",
+      "Rus": "Ну как, <giant> <monster> побеждён?"
     }
   },
   {
@@ -262,7 +285,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You hunted the <monster>? <floranappreciation>"
+      "Eng": "You hunted the <monster>? <floranappreciation>",
+      "Rus": "Как охота, как <monster>? <floranappreciation>"
     }
   },
   {
@@ -273,7 +297,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You're the best monster hunter around! I hope this reward makes it worth your while!"
+      "Eng": "You're the best monster hunter around! I hope this reward makes it worth your while!",
+      "Rus": "Ты лучший охотник в округе! Я надеюсь, что это вознаграждение окупит твои старания!"
     }
   },
   {
@@ -284,7 +309,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Floran hasss a challenge for you."
+      "Eng": "^cyan;Floran hasss a challenge for you.",
+      "Rus": "^cyan;Флоран нашёл тебе будущий трофей."
     }
   },
   {
@@ -295,7 +321,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Scared. There is a beast that needs defeating."
+      "Eng": "^cyan;Scared. There is a beast that needs defeating.",
+      "Rus": "^cyan;Испуганно. Нужно победить дикого зверя."
     }
   },
   {
@@ -306,7 +333,8 @@
       ]
     },
     "Texts": {
-      "Eng": "can kill you in your dreams"
+      "Eng": "can kill you in your dreams",
+      "Rus": "может убить тебя во сне"
     }
   },
   {
@@ -317,7 +345,8 @@
       ]
     },
     "Texts": {
-      "Eng": "can read your thoughts"
+      "Eng": "can read your thoughts",
+      "Rus": "может читать твои мысли"
     }
   },
   {
@@ -328,7 +357,20 @@
       ]
     },
     "Texts": {
-      "Eng": "can turn inside out at will"
+      "Eng": "can turn inside out at will",
+      "Rus": "может вывернуться наизнанку"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "creepy",
+      "Rus": "страшный"
     }
   },
   {
@@ -340,7 +382,8 @@
       ]
     },
     "Texts": {
-      "Eng": "deadly"
+      "Eng": "deadly",
+      "Rus": "смертоносный"
     }
   },
   {
@@ -351,7 +394,20 @@
       ]
     },
     "Texts": {
-      "Eng": "disaster struck"
+      "Eng": "disaster struck",
+      "Rus": "случилась беда"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "ferocious",
+      "Rus": "свирепый"
     }
   },
   {
@@ -362,7 +418,8 @@
       ]
     },
     "Texts": {
-      "Eng": "gave me a very rude look"
+      "Eng": "gave me a very rude look",
+      "Rus": "очень неприязненно на меня посмотрел"
     }
   },
   {
@@ -373,7 +430,8 @@
       ]
     },
     "Texts": {
-      "Eng": "get rid of it"
+      "Eng": "get rid of it",
+      "Rus": "избавиться от него"
     }
   },
   {
@@ -384,7 +442,8 @@
       ]
     },
     "Texts": {
-      "Eng": "has a preference for eating brave adventurers"
+      "Eng": "has a preference for eating brave adventurers",
+      "Rus": "предпочитает закусывать бравыми приключенцами"
     }
   },
   {
@@ -395,7 +454,8 @@
       ]
     },
     "Texts": {
-      "Eng": "has forgotten how to love"
+      "Eng": "has forgotten how to love",
+      "Rus": "забыл каково это - любить"
     }
   },
   {
@@ -406,7 +466,8 @@
       ]
     },
     "Texts": {
-      "Eng": "has lived for a hundred years"
+      "Eng": "has lived for a hundred years",
+      "Rus": "живёт сотни лет"
     }
   },
   {
@@ -417,7 +478,8 @@
       ]
     },
     "Texts": {
-      "Eng": "has returned from the dead"
+      "Eng": "has returned from the dead",
+      "Rus": "воскрес из мёртвых"
     }
   },
   {
@@ -428,7 +490,8 @@
       ]
     },
     "Texts": {
-      "Eng": "instantly knows everything embarrassing you've ever done"
+      "Eng": "instantly knows everything embarrassing you've ever done",
+      "Rus": "всегда знает все стыдные вещи, что ты делал"
     }
   },
   {
@@ -439,7 +502,8 @@
       ]
     },
     "Texts": {
-      "Eng": "is awake all the time and doesn't know how to sleep"
+      "Eng": "is awake all the time and doesn't know how to sleep",
+      "Rus": "никогда не спит, потому что не знает как"
     }
   },
   {
@@ -450,7 +514,8 @@
       ]
     },
     "Texts": {
-      "Eng": "is constantly whispering the names of those next fated to die"
+      "Eng": "is constantly whispering the names of those next fated to die",
+      "Rus": "постоянно шепчет имена тех, кого собирается прикончить"
     }
   },
   {
@@ -461,7 +526,8 @@
       ]
     },
     "Texts": {
-      "Eng": "is from the future"
+      "Eng": "is from the future",
+      "Rus": "явился из будущего"
     }
   },
   {
@@ -472,7 +538,8 @@
       ]
     },
     "Texts": {
-      "Eng": "is super intelligent and wears reading glasses"
+      "Eng": "is super intelligent and wears reading glasses",
+      "Rus": "наделён недюжинным умом и даже читает, надев очки"
     }
   },
   {
@@ -483,7 +550,8 @@
       ]
     },
     "Texts": {
-      "Eng": "is the result of an experiment gone wrong"
+      "Eng": "is the result of an experiment gone wrong",
+      "Rus": "появился в результате неудачного эксперимента"
     }
   },
   {
@@ -494,7 +562,8 @@
       ]
     },
     "Texts": {
-      "Eng": "kill it for me"
+      "Eng": "kill it for me",
+      "Rus": "убить его"
     }
   },
   {
@@ -505,7 +574,8 @@
       ]
     },
     "Texts": {
-      "Eng": "killer"
+      "Eng": "killer",
+      "Rus": "беспощадный"
     }
   },
   {
@@ -516,7 +586,8 @@
       ]
     },
     "Texts": {
-      "Eng": "knows how to do backflips"
+      "Eng": "knows how to do backflips",
+      "Rus": "умеет делать подскок с переворотом"
     }
   },
   {
@@ -527,7 +598,8 @@
       ]
     },
     "Texts": {
-      "Eng": "knows martial arts"
+      "Eng": "knows martial arts",
+      "Rus": "обучен военному искусству"
     }
   },
   {
@@ -538,7 +610,8 @@
       ]
     },
     "Texts": {
-      "Eng": "make it go away"
+      "Eng": "make it go away",
+      "Rus": "прогнать его"
     }
   },
   {
@@ -549,7 +622,8 @@
       ]
     },
     "Texts": {
-      "Eng": "monstrous"
+      "Eng": "monstrous",
+      "Rus": "безжалостный"
     }
   },
   {
@@ -560,7 +634,8 @@
       ]
     },
     "Texts": {
-      "Eng": "nearly ate me whole"
+      "Eng": "nearly ate me whole",
+      "Rus": "чуть меня не проглотил"
     }
   },
   {
@@ -571,7 +646,8 @@
       ]
     },
     "Texts": {
-      "Eng": "nearly tore me in half"
+      "Eng": "nearly tore me in half",
+      "Rus": "чуть меня напополам не перекусил"
     }
   },
   {
@@ -582,7 +658,8 @@
       ]
     },
     "Texts": {
-      "Eng": "powerful"
+      "Eng": "powerful",
+      "Rus": "сильный"
     }
   },
   {
@@ -593,7 +670,8 @@
       ]
     },
     "Texts": {
-      "Eng": "rudely screamed in my face"
+      "Eng": "rudely screamed in my face",
+      "Rus": "пронзительно завопил мне в лицо"
     }
   },
   {
@@ -605,7 +683,7 @@
     },
     "Texts": {
       "Eng": "rumours",
-      "Rus": ""
+      "Rus": "слухи"
     }
   },
   {
@@ -616,7 +694,8 @@
       ]
     },
     "Texts": {
-      "Eng": "slay the beast"
+      "Eng": "slay the beast",
+      "Rus": "убить зверя"
     }
   },
   {
@@ -627,7 +706,8 @@
       ]
     },
     "Texts": {
-      "Eng": "smells fear"
+      "Eng": "smells fear",
+      "Rus": "чует страх"
     }
   },
   {
@@ -638,7 +718,8 @@
       ]
     },
     "Texts": {
-      "Eng": "something terrible happened"
+      "Eng": "something terrible happened",
+      "Rus": "случилось что-то ужасное"
     }
   },
   {
@@ -649,7 +730,8 @@
       ]
     },
     "Texts": {
-      "Eng": "sort it out"
+      "Eng": "sort it out",
+      "Rus": "разобраться с ним"
     }
   },
   {
@@ -660,7 +742,8 @@
       ]
     },
     "Texts": {
-      "Eng": "ssscary"
+      "Eng": "ssscary",
+      "Rus": "сстрашный"
     }
   },
   {
@@ -671,7 +754,8 @@
       ]
     },
     "Texts": {
-      "Eng": "ssstrong"
+      "Eng": "ssstrong",
+      "Rus": "ссильный"
     }
   },
   {
@@ -682,7 +766,8 @@
       ]
     },
     "Texts": {
-      "Eng": "talk"
+      "Eng": "talk",
+      "Rus": "разговоры"
     }
   },
   {
@@ -693,7 +778,8 @@
       ]
     },
     "Texts": {
-      "Eng": "terrifying"
+      "Eng": "terrifying",
+      "Rus": "ужасный"
     }
   },
   {
@@ -704,7 +790,8 @@
       ]
     },
     "Texts": {
-      "Eng": "there was a close call"
+      "Eng": "there was a close call",
+      "Rus": "я едва не распрощал<questGiver.pronoun.verb3Ending> с жизнью"
     }
   },
   {
@@ -715,7 +802,8 @@
       ]
     },
     "Texts": {
-      "Eng": "tough"
+      "Eng": "tough",
+      "Rus": "буйный"
     }
   },
   {
@@ -726,7 +814,8 @@
       ]
     },
     "Texts": {
-      "Eng": "tried to eat my shoes"
+      "Eng": "tried to eat my shoes",
+      "Rus": "попытался сожрать мою обувь"
     }
   },
   {
@@ -737,7 +826,8 @@
       ]
     },
     "Texts": {
-      "Eng": "violently deal with it"
+      "Eng": "violently deal with it",
+      "Rus": "расправиться с ним"
     }
   }
 ]

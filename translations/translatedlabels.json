@@ -389,7 +389,7 @@
     "generic": {
       "shared_lightbulb.json": 1
     },
-    "glitchEmotes.json": 246,
+    "glitchEmotes.json": 255,
     "help.config.json": 58,
     "hunger.config.json": 15,
     "interface": {
@@ -3922,9 +3922,9 @@
     },
     "names": {
       "aztec.namesource.json": 138,
-      "russianfemale.namesource.json": 89,
-      "russianmale.namesource.json": 83,
-      "russiansurname.namesource.json": 179,
+      "russianfemale.namesource.json": 81,
+      "russianmale.namesource.json": 74,
+      "russiansurname.namesource.json": 178,
       "shared_e.namesource.json": 2,
       "tribal.namesource.json": 278
     },
@@ -7071,11 +7071,11 @@
         },
         "eggs": {
           "fluffaloegg": {
-            "electricfluffaloegg.object.json": 2,
-            "firefluffaloegg.object.json": 0,
-            "fluffaloegg.object.json": 2,
-            "icefluffaloegg.object.json": 0,
-            "poisonfluffaloegg.object.json": 0
+            "electricfluffaloegg.object.json": 8,
+            "firefluffaloegg.object.json": 9,
+            "fluffaloegg.object.json": 8,
+            "icefluffaloegg.object.json": 4,
+            "poisonfluffaloegg.object.json": 8
           },
           "henegg": {
             "henegg.object.json": 0
@@ -7112,7 +7112,7 @@
           "shared_kiwiseed.object.json": 9
         },
         "mothtrap": {
-          "mothtrap.object.json": 0
+          "mothtrap.object.json": 7
         },
         "mushroom": {
           "mushroomseed.object.json": 9
@@ -9164,28 +9164,28 @@
           "shared_.object.json": 0
         },
         "shared_prisonfence": {
-          "shared_prisonfence.json": 0
+          "shared_prisonfence.json": 4
         },
         "shared_prisonfile": {
-          "shared_prisonfile.json": 0
+          "shared_prisonfile.json": 2
         },
         "shared_prisongirder": {
-          "shared_prisongirder.json": 0
+          "shared_prisongirder.json": 6
         },
         "shared_prisongraffiti": {
-          "shared_prisongraffiti.json": 0
+          "shared_prisongraffiti.json": 1
         },
         "shared_prisongrate": {
-          "shared_prisongrate.json": 0
+          "shared_prisongrate.json": 8
         },
         "shared_prisonlocker": {
-          "shared_prisonlocker.json": 0
+          "shared_prisonlocker.json": 8
         },
         "shared_prisonmirror": {
-          "shared_prisonmirror.json": 0
+          "shared_prisonmirror.json": 6
         },
         "shared_prisontorturebed": {
-          "shared_prisontorturebed.json": 0
+          "shared_prisontorturebed.json": 8
         },
         "vendingmachine": {
           "vendingmachine.object.json": 9
@@ -12093,15 +12093,14 @@
         "locations.config.json": 336,
         "pools": {
           "buildingthemes.config.json": 3,
+          "capturablemonsters.config.json": 0,
           "dungeonitems.config.json": 11,
-          "hatadjectives.config.json": 45,
-          "monsterthreats.config.json": 0,
+          "hatadjectives.config.json": 46,
+          "monsterthreats.config.json": 13,
           "npcthreats.config.json": 17,
-          "shared_lemonster.json": 1,
-          "shared_s.config.json": 0,
+          "shared_lemonster.json": 2,
           "singlenpcthreats.config.json": 4
         },
-        "shared_monster.json": 0,
         "shared_npc.json": 1,
         "templates": {
           "add_object_to_house.questtemplate.json": 23,
@@ -12120,14 +12119,14 @@
           "farming.questtemplate.json": 3,
           "fetch.questtemplate.json": 0,
           "gift.questtemplate.json": 1,
-          "hat.questtemplate.json": 23,
-          "helmet.questtemplate.json": 22,
+          "hat.questtemplate.json": 24,
+          "helmet.questtemplate.json": 23,
           "intimidate.questtemplate.json": 7,
           "kidnapping.questtemplate.json": 9,
           "kill_monster.questtemplate.json": 6,
-          "kill_monster_group.questtemplate.json": 3,
-          "kill_monster_single.questtemplate.json": 0,
-          "kill_npc.questtemplate.json": 96,
+          "kill_monster_group.questtemplate.json": 81,
+          "kill_monster_single.questtemplate.json": 69,
+          "kill_npc.questtemplate.json": 97,
           "kill_npcs.questtemplate.json": 98,
           "new_stock1.questtemplate.json": 0,
           "new_stock2.questtemplate.json": 0,
@@ -12135,16 +12134,16 @@
           "recruit_guard.questtemplate.json": 3,
           "request_craft.questtemplate.json": 0,
           "return_stolen.questtemplate.json": 2,
-          "share_secret.questtemplate.json": 6,
-          "shared_.questtemplate.json": 28,
+          "share_secret.questtemplate.json": 91,
+          "shared_.questtemplate.json": 67,
           "shared_d.questtemplate.json": 2,
           "shared_t.questtemplate.json": 1,
-          "spread_rumors.questtemplate.json": 0,
+          "spread_rumors.questtemplate.json": 82,
           "steal.questtemplate.json": 1,
           "themed_build.questtemplate.json": 1
         }
       },
-      "generated.json": 3,
+      "generated.json": 1,
       "outpost": {
         "floranarena1.questtemplate.json": 3,
         "floranarena2.questtemplate.json": 3,
@@ -12225,6 +12224,8 @@
       "shared_mission.json": 1
     },
     "shared_ancientplatform.mat.json": 5,
+    "shared_anfemale.json": 6,
+    "shared_anmale.json": 1,
     "shared_ant.json": 5,
     "shared_apexshipplatform.mat.json": 5,
     "shared_ate.json": 10,
@@ -12251,6 +12252,7 @@
     "shared_modernplatform.mat.json": 4,
     "shared_monster.json": 13,
     "shared_monstert.json": 5,
+    "shared_name.json": 11,
     "shared_outpostplatform.mat.json": 5,
     "shared_plantplatform.mat.json": 5,
     "shared_platform.json": 2,
@@ -12283,14 +12285,27 @@
     "species": {
       "apex.species.json": 5,
       "avian.species.json": 6,
+      "backernamegen.config.json": 0,
       "fenerox.species.json": 1,
+      "feneroxnamegen.config.json": 9,
       "floran.species.json": 6,
       "glitch.species.json": 7,
+      "glitchfemalenamegen.config.json": 0,
+      "glitchmalenamegen.config.json": 0,
       "human.species.json": 4,
+      "humanfemalenamegen.config.json": 138,
+      "humanmalenamegen.config.json": 125,
+      "humannamegen.config.json": 13,
       "hylotl.species.json": 7,
+      "namegen.config.json": 0,
       "novakid.species.json": 6,
+      "novakidnamegen.config.json": 160,
       "penguin.species.json": 10,
-      "shared_.species.json": 17
+      "penguinnamegen.config.json": 27,
+      "shadownamegen.config.json": 1,
+      "shared_.species.json": 17,
+      "shared_malenamegen.config.json": 0,
+      "shared_namegen.config.json": 101
     },
     "stagehands": {
       "mission": {

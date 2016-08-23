@@ -33,6 +33,7 @@ foi = {
   "help.config": ["^[a-z]+Commands/.+$"],
   "hunger.config": ["^.*$"],
   "locations.config": [".*/name$"],
+  "namegen.config": ["^names/1/[0-9]+/[0-9]+$"],
   "quests.config": ["^pronouns/.+$", "^objectiveDescriptions/.+"],
   ".species": ["^charGenTextLabels/[0-9]+$"],
   ".tech": [],
