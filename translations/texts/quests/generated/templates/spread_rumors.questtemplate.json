@@ -8,7 +8,7 @@
     },
     "Texts": {
       "Eng": "<other> is <adjective>. Love, <questGiver>",
-      "Rus": ""
+      "Rus": "<other> <adjective>. С любовью, <questGiver>"
     }
   },
   {
@@ -20,7 +20,7 @@
     },
     "Texts": {
       "Eng": "<other> is a loser! Let's be friends!",
-      "Rus": ""
+      "Rus": "<other>? Да к чёрту <other.pronoun.reflexive>! Давай дружить!"
     }
   },
   {
@@ -32,7 +32,7 @@
     },
     "Texts": {
       "Eng": "<other> is out of the picture, and now me and <target> are friends! This friendship will no doubt be useful - thanks for making it happen.",
-      "Rus": ""
+      "Rus": "<other> теперь забыт<other.pronoun.verbEnding>, а я и <target> - друзья! Спасибо за то, что поспособствовал этому."
     }
   },
   {
@@ -44,7 +44,7 @@
     },
     "Texts": {
       "Eng": "<questGiver>'s rumour mill",
-      "Rus": ""
+      "Rus": "<questGiver> распространяет слухи"
     }
   },
   {
@@ -56,7 +56,7 @@
     },
     "Texts": {
       "Eng": "<target.pronoun.capitalSubject> accepted my friendship! And who wouldn't? Thank you for helping me out!",
-      "Rus": ""
+      "Rus": "<target.pronoun.capitalSubject> принял<target.pronoun.verbEnding> мою дружбу! Ну а кто не принял бы? Спасибо за помощь!"
     }
   },
   {
@@ -68,7 +68,7 @@
     },
     "Texts": {
       "Eng": "<target> abandoned <other> and accepted my friendship! A new friend will certainly come in handy. ",
-      "Rus": ""
+      "Rus": "<target> и <other> почти разошлись! А это значит, что я и <target> скоро сойдёмся."
     }
   },
   {
@@ -80,7 +80,7 @@
     },
     "Texts": {
       "Eng": "<target> and ^orange;<other>^white; have been friends for a long time. Now <target> will finally become Floran's friend inssstead! Floran's plan is for you to ^green;tell ^orange;<target>^green; how terrible <target.pronoun.possessiveDet> friend isss.^white; Floran already prepared this ^orange;note^white; for^green; you to deliver.",
-      "Rus": ""
+      "Rus": "<target> и ^orange;<other>^white; долгое время дружили. Но теперь это сстанет не более, чем воспоминанием! Флоран написал самые противные вещи, которые делал<other.pronoun.verbEnding> <other> - и эту записку ^orange;<target> ^green;долж<target.pronoun.verb2Ending> получить из твоих рук^white;."
     }
   },
   {
@@ -92,7 +92,7 @@
     },
     "Texts": {
       "Eng": "<target> looked horrified when <target.pronoun.subject> read the message! Not that I was hiding and watching <target.pronoun.object> or anything. Anyway, there's work to do yet!",
-      "Rus": ""
+      "Rus": "<target> был<target.pronoun.verbEnding> в отвращении, когда прочитал<target.pronoun.verbEnding> записку! Но я не следил<questGiver.pronoun.verbEnding> тайно за <target.pronoun.copulative>, ты не думай! В любом случае спасибо!"
     }
   },
   {
@@ -104,7 +104,7 @@
     },
     "Texts": {
       "Eng": "<target>, just to let you know, <other> secretly <verb2> <object>. Sorry.",
-      "Rus": ""
+      "Rus": "<target>, к твоему сведению, <other> тайно <verb2> <object>. Извини."
     }
   },
   {
@@ -116,7 +116,7 @@
     },
     "Texts": {
       "Eng": "Finally, ^green;hand this rumour about ^orange;<other> ^green;to ^orange;<target>. ^white;It's a little far fetched, but there's no smoke without fire.",
-      "Rus": ""
+      "Rus": "Наконец, вот ^orange;записка^white; с парочкой фактов, повествующих о том, какая ^orange;<other>^white; во всех отношениях неприятная личность. Факты слегка приукрашены, но это не страшно - ^orange;<target>, ^green;получив от тебя записку^white;, всё равно переврал<target.pronoun.verbEnding> бы их."
     }
   },
   {
@@ -128,7 +128,7 @@
     },
     "Texts": {
       "Eng": "Finally, let's make ^orange;<target> ^white;realise that I'm better friend material than ^orange;<other>. ^green;Show <target.pronoun.object> this ^orange;note^green; that I've written^white; about <other> and <target.pronoun.subject>'ll see the light!",
-      "Rus": ""
+      "Rus": "Теперь ^orange;<target>^white; долж<target.pronoun.verb2Ending> понять, что ^orange;<other>^white; мне и в подмётки не годится - а для этого ^green;<target.pronoun.subject> долж<target.pronoun.verb2Ending> получить ^orange;записку^white; с нелицеприятными фактами о своём бывшем друге."
     }
   },
   {
@@ -164,7 +164,7 @@
     },
     "Texts": {
       "Eng": "Floran hass acquired a new friend! Thiss is a lovely day for Floran!",
-      "Rus": ""
+      "Rus": "Флоран поймал нового друга! Это прекрассный день для Флорана!"
     }
   },
   {
@@ -176,7 +176,7 @@
     },
     "Texts": {
       "Eng": "Floran hass great plan to befriend <target>. However, Floran's future friend is alwayss seen with ^orange;<other>^white;. You need to tell ^orange;<target>^white; how nasssty <other> is! Please ^green;deliver this ^orange;note^white; that Floran prepared.",
-      "Rus": ""
+      "Rus": "Флоран хочет, чтобы он и <target> были друзьями. Но ^orange;<other>^white; опередил<other.pronoun.verbEnding> Флорана. Флоран мог бы убить <other.pronoun.reflexive>, но он только расскажет каков<other.pronoun.verbEnding> <other> на самом деле. Эту записку ^orange;<target> ^green;долж<target.pronoun.verb2Ending> получить от тебя^white;, чтобы Флоран был тут не при чём."
     }
   },
   {
@@ -188,7 +188,7 @@
     },
     "Texts": {
       "Eng": "Floran is pleasssed that the plan was successful! Floran's sure that <target> is grateful we told <target.pronoun.object> the truth about <other>.",
-      "Rus": ""
+      "Rus": "Флоран доволен, что его план удалсся! Флоран думает, что <target> тоже рад<target.pronoun.verbEnding>, что узнал<target.pronoun.verbEnding> правду."
     }
   },
   {
@@ -200,7 +200,7 @@
     },
     "Texts": {
       "Eng": "Good job! Now Floran'sss and <target>'s friendship will truly blossom. ",
-      "Rus": ""
+      "Rus": "Отлично! Теперь Флоран и <target> сстанут друзьями!"
     }
   },
   {
@@ -212,7 +212,7 @@
     },
     "Texts": {
       "Eng": "Help <questGiver> spread rumours",
-      "Rus": ""
+      "Rus": "<questGiver> распускает слухи"
     }
   },
   {
@@ -224,7 +224,7 @@
     },
     "Texts": {
       "Eng": "Here is a ^orange;note ^green;Floran needss you to deliver to ^orange;<target>^white;. It contains the truth about <target.pronoun.possessiveDet> friend ^orange;<other>.^white; As sssoon as <target.pronoun.subject> reads it <target> will realise that Floran is a better friend!",
-      "Rus": ""
+      "Rus": "Вот ^orange;записка^white;, где ссказано, что ^orange;<other>^white; хуже всех. Когда ^orange;<target>^white; получит её, <target.pronoun.subject> поймёт, что лучше дружить с Флораном, чем с <other.pronoun.copulativePast>. ^green;Тебе нужно лишь отнести записку^white;."
     }
   },
   {
@@ -236,7 +236,7 @@
     },
     "Texts": {
       "Eng": "Here's a ^orange;note^white; I wrote about ^orange;<other>^white;. Everyone knows <other.pronoun.subject>'s terrible, but still ^orange;<target>^white; hangs out with <other.pronoun.object> every day. It's my time to be ^green;<target>'s friend! ^green;Please deliver this note to <target.pronoun.object>.",
-      "Rus": ""
+      "Rus": "Вот очередное письмо, тема которого - ^orange;<other>^white; и <other.pronoun.reflexive> истинное лицо. Уже все перестали с <other.pronoun.copulativePast> дружить, один только ^orange;<target>^white; поддерживает отношения - и это надо решительно прекратить. Прошу, ^green;доставь <target.pronoun.object> письмо^white;."
     }
   },
   {
@@ -248,7 +248,7 @@
     },
     "Texts": {
       "Eng": "Hey <target>, I hate to give you bad news but <other> is <adjective>.",
-      "Rus": ""
+      "Rus": "Привет, <target>. Стыдно говорить, но <other> <adjective>."
     }
   },
   {
@@ -260,7 +260,7 @@
     },
     "Texts": {
       "Eng": "I bet <target> will be spending much less time around <other> now, which definitely means <target.pronoun.subject>'ll have more time for me. There's something else I need you to do...",
-      "Rus": ""
+      "Rus": "Уверен, что <target> и <other> будут теперь проводить гораздо меньше времени вместе, а это значит - что <target> и я будем проводить вместе времени больше. Но это ещё не всё..."
     }
   },
   {
@@ -272,7 +272,7 @@
     },
     "Texts": {
       "Eng": "I didn't help <questGiver> in <questGiver.pronoun.possessiveDet> attempt to sabotage <target>'s friendship. It wasn't a very nice plan, anyway.",
-      "Rus": ""
+      "Rus": "Я не смог помочь. <target> и <other> останутся друзьями, и <questGiver> не сможет  ничего с этим сделать."
     }
   },
   {
@@ -284,7 +284,7 @@
     },
     "Texts": {
       "Eng": "I failed to spread rumours about <other> to <target>. Maybe <questGiver> should learn to make friends by being kind?",
-      "Rus": ""
+      "Rus": "Я не стал распространять дурные слухи. Может быть, <questGiver> долж<questGiver.pronoun.verb2Ending> научиться заводить друзей без очернения других?"
     }
   },
   {
@@ -296,7 +296,7 @@
     },
     "Texts": {
       "Eng": "I guess I never really knew them after all. Let's hang out!",
-      "Rus": ""
+      "Rus": "Да? Похоже я <other.pronoun.reflexive> совсем не знал<target.pronoun.verbEnding>. Давай поболтаем!"
     }
   },
   {
@@ -308,7 +308,7 @@
     },
     "Texts": {
       "Eng": "I have no doubt that with <other> out of the way, <target> and I will become great friends!",
-      "Rus": ""
+      "Rus": "Уверен<questGiver,pronoun.verbEnding>, что <other> теперь не у дел, а <target> скоро станет моим лучшим другом!"
     }
   },
   {
@@ -320,7 +320,7 @@
     },
     "Texts": {
       "Eng": "I think <target> and I would make good friends, but <target.pronoun.subject>'s always hanging out with horrible ^orange;<other>^white;. Let's put a stop to it! ^green;Here's a ^orange;note^green; I want you to deliver to ^orange;<target>^white; that will put <target.pronoun.object> off seeing <target.pronoun.possessiveDet> horrible friend again.",
-      "Rus": "Думаю, что я и <target> подходим друг к другу, но рядом постоянно ошивается ^orange;<other>^white;. Надо это пресечь! Я хочу чтобы ты ^green;доставил это ^orange;письмо^white; - так <target> наконец узнает грязную правду о своём так называемом \"приятеле\"."
+      "Rus": "Думаю, что я и <target> подходим друг к другу, но рядом постоянно ошивается ^orange;<other>^white;. Надо это пресечь! Я хочу чтобы ты ^green;доставил это ^orange;письмо^white; - так ^orange;<target>^white; наконец узнает грязную правду о своём так называемом \"приятеле\"."
     }
   },
   {
@@ -332,7 +332,7 @@
     },
     "Texts": {
       "Eng": "I think it's safe to say <other>'s social life is in tatters!",
-      "Rus": ""
+      "Rus": "Думаю, что <other> всё чаще ловит на себе косые взгляды!"
     }
   },
   {
@@ -344,7 +344,7 @@
     },
     "Texts": {
       "Eng": "I want <target> to stop being friendly with ^orange;<other>^white; and become my friend instead. Here's a ^orange;note^white; I wrote with the truth about <other> in it. ^green;Please, deliver it to ^orange;<target>^white; for me!",
-      "Rus": ""
+      "Rus": "Я хочу, чтобы приятельская парочка \"<target>-^orange;<other>^white;\" наконец распалась. Думаю, когда ^orange;<target> ^green;получит это ^orange;письмо^white; о том, что на деле представляет собой <target.pronoun.reflexive> <other>, это и случится. Действуй!"
     }
   },
   {
@@ -356,7 +356,7 @@
     },
     "Texts": {
       "Eng": "I want to be friends with <target>, but <target.pronoun.subject> spends all <target.pronoun.possessiveDet> time with <other>. But what if ^orange;<other> had a horrible secret? ^green;Give this ^orange;note^green; to ^orange;<target>^white;... <target.pronoun.capitalSubject>'ll surely reconsider their friendship after reading this...",
-      "Rus": "Я хочу, чтобы я и <target> стали друзьями, но между нами стоит ^orange;<other>^white;. Но что если <target> узнает <other.pronoun.reflexive> страшную тайну? ^green;Передай эту ^orange;записку^white;... Прочитав её, <target> поймёт, что <target.pronoun.object> стоит более тщательно выбирать друзей."
+      "Rus": "Я хочу, чтобы я и <target> стали друзьями, но между нами стоит ^orange;<other>^white;. Но что если <target> узнает <other.pronoun.reflexive> страшную тайну? ^green;Передай эту ^orange;записку^white;... Прочитав её, ^orange;<target>^white; поймёт, что <target.pronoun.object> стоит более тщательно выбирать друзей."
     }
   },
   {
@@ -368,7 +368,7 @@
     },
     "Texts": {
       "Eng": "I want to get closer to <target>, but <target.pronoun.subject> only has eyes for <other>. I bet that will change once you ^green;give ^orange;<target>^green; this ^orange;note^white; ^green;about ^orange;<other>^white;... Then <target> will have time for me!",
-      "Rus": ""
+      "Rus": "Я хочу, чтобы <target> и я стали друзьями, но мне изрядно мешает <target.pronoun.reflexive> прежний друг - ^orange;<other>^white;. Думаю, что они прекратят общаться, как только ^orange;<target>^white; прочитает всё то, что <other> от н<target.pronoun.reflexive> скрывает. ^green;Передай эту ^orange;записку^white;, посмотрим, что выйдет."
     }
   },
   {
@@ -380,7 +380,7 @@
     },
     "Texts": {
       "Eng": "I was unable to assist in <questGiver>'s plot to ruin <target>'s friendship. It was a mean plan, so I won't lose sleep over abandoning it.",
-      "Rus": ""
+      "Rus": "Я не стал способствовать плану, которым <questGiver> собирал<questGiver.pronoun.verb3Ending> завоевать дружбу. Это был грязный план, так что мне не особенно жаль."
     }
   },
   {
@@ -392,7 +392,7 @@
     },
     "Texts": {
       "Eng": "I wish ^orange;<target>^white; would become my friend instead of ^orange;<other>'s^white;. I've prepared this ^orange;note^white; for <target.pronoun.object> that will explain the truth about <other>. It will make <target.pronoun.object> realise that I'm much better friend material! ^green;Please deliver it to <target.pronoun.object> for me.",
-      "Rus": ""
+      "Rus": "Я хочу, чтобы я и ^orange;<target>^white; стали друзьями, а <target.pronoun.reflexive> прежний друг - ^orange;<other>^white; - перешёл в разряд \"бывших\". В этой ^orange;записке^white; все самые грязные факты о <other.pronoun.copulative>. Посмотрим, что скажет <target>, когда ^green;получит её^white;."
     }
   },
   {
@@ -404,7 +404,7 @@
     },
     "Texts": {
       "Eng": "I'll teach ^orange;<other>^white; a lesson <other.pronoun.subject> won't soon forget. ^green;Give this rumour I've written to ^orange;<target>^white;, then we can sit back and watch the fireworks.",
-      "Rus": ""
+      "Rus": "^orange;<other>^white; скоро пожалеет, что вообще тут появил<other.pronoun.verb3Ending>. Я собираюсь распустить о <other.pronoun.copulative> мерзкие слухи - и думаю, что ^orange;<target>^white; лучше всего подойдёт на роль сарафанного радио. ^greenОтнеси <target.pronoun.object> эту ^orange;записку^white;."
     }
   },
   {
@@ -416,7 +416,7 @@
     },
     "Texts": {
       "Eng": "I'm disappointed in <other>. Can you and I be friends?",
-      "Rus": ""
+      "Rus": "<other> меня разочаровал<other.pronoun.verbEnding>. Может быть, нам с тобой стоит подружиться?"
     }
   },
   {
@@ -428,7 +428,7 @@
     },
     "Texts": {
       "Eng": "I'm excited about my new friend! Everyone knows <other> is bad company anyway! Thanks for your hard work.",
-      "Rus": ""
+      "Rus": "Я доволен новой дружбой! И все знают, что <other> - друг никудышный! Спасибо за хлопоты."
     }
   },
   {
@@ -440,7 +440,7 @@
     },
     "Texts": {
       "Eng": "I've no doubt that <target> and I will become good friends now that <other> is out of the picture.",
-      "Rus": ""
+      "Rus": "Я не сомневал<questGiver.pronoun.verb3Ending>, что <target> предпочтёт меня, а <other> получит только забвение."
     }
   },
   {
@@ -452,7 +452,7 @@
     },
     "Texts": {
       "Eng": "I've seen ^orange;<target>^white; hang out with that stupid <other> a lot recently. I want <target.pronoun.object> to hang out with me! ^green;Deliver this ^orange;note^green; to <target.pronoun.object>^white; and <target.pronoun.subject> will realise what a waste of time <other> is. ",
-      "Rus": ""
+      "Rus": "Я видел<questGiver.pronoun.verbEnding>, что <target> и ^orange;<other>^white; по-прежнему поддерживают тёплые отношения. Посмотрим, как у них это получится после того, как ^orange;<target> ^green;прочитает эту ^orange;записку^white;, где написана вся правда о <target.pronoun.reflexive> дружке."
     }
   },
   {
@@ -464,7 +464,7 @@
     },
     "Texts": {
       "Eng": "I've wanted to be <target>'s friend for ages, but <target.pronoun.subject> only hangs out with ^orange;<other>^white;. ^green;I've prepared this ^orange;note^green; for you to deliver to ^orange;<target>^white;. It will tell <target.pronoun.object> the truth about <other>.",
-      "Rus": ""
+      "Rus": "Я мечтаю, что я и <target> стали самыми лучшими друзьями, но на моём пути стоит ^orange;<other>^white;. Надо, чтобы они рассорились, так что я написал<questGiver.pronoun.verbEnding> письмо, где <other> выставлен<other.pronoun.verbEnding> в самом тёмном свете. Пусть ^orange;<target> ^green;получит её из твоих рук^white;, чтобы на меня не пало подозрение."
     }
   },
   {
@@ -476,7 +476,7 @@
     },
     "Texts": {
       "Eng": "It's time for Floran to befriend <target>. We need to ssstop <target.pronoun.object> from seeing ^orange;<other>^white;, who is awful. This ^orange;note^white; Floran wrote containsss information that will make ^orange;<target>^white; realise Floran is a better option! ^green;Please deliver it.",
-      "Rus": "^orange;<other>^white; по-прежнему мешает, чтобы Флоран и <target> стали друзьями. Нужно, чтобы <target> увидел<target.pronoun.verbEnding>, каков<other.pronoun.verbEnding> <other> на самом деле. Вот записка, в которой описаны самые неприятные подробности - ^green;<target> долж<target.pronoun.verb2Ending> прочесть её^white; как можно скорее."
+      "Rus": "^orange;<other>^white; по-прежнему мешает, чтобы Флоран и <target> стали друзьями. Нужно, чтобы <target> увидел<target.pronoun.verbEnding>, каков<other.pronoun.verbEnding> <other> на самом деле. Вот записка, в которой описаны самые неприятные подробности - ^orange;<target> ^green;долж<target.pronoun.verb2Ending> прочесть её^white; как можно скорее."
     }
   },
   {
@@ -488,7 +488,7 @@
     },
     "Texts": {
       "Eng": "Lastly, I will need you to ^green;give this ^orange;note^green; to ^orange;<target>. ^white;<target.pronoun.capitalSubject> definitely won't want to speak to ^orange;<other> ^white;anymore after reading this...",
-      "Rus": ""
+      "Rus": "Наконец, я приготовил<questGiver.pronoun.verbEnding> последнее ^orange;послание^white;, прочитав которое ^orange;<target>^white; поймёт, что ^orange;<other>^white; - совершенно неприятная личность... ^green;За тобой - доставка^white;."
     }
   },
   {
@@ -500,7 +500,7 @@
     },
     "Texts": {
       "Eng": "Let's start by befriending <target>. First we have to make <target.pronoun.object> stop seeing <target.pronoun.possessiveDet> lame friend. ^green;I've prepared this ^orange;note^green; that I want you to deliver to ^orange;<target>^white; that outlines the worser points of <target.pronoun.possessiveDet> boring friend. Please deliver it for me!",
-      "Rus": "Итак, чтобы я и <target> завязали дружбу, надо в первую очередь устранить лишнего из наших отношений. Этот лишний - ^orange;<other>^white;, про н<other.pronoun.reflexive> я написал<questGiver.pronoun.verbEnding> ^orange;письмо^white; со всей неприглядной правдой, которое ^green;<target> получит от тебя^white;. Действуй!"
+      "Rus": "Итак, чтобы я и <target> завязали дружбу, надо в первую очередь устранить лишнего из наших отношений. Этот лишний - ^orange;<other>^white;, про н<other.pronoun.reflexive> я написал<questGiver.pronoun.verbEnding> ^orange;письмо^white; со всей неприглядной правдой, которое ^orange;<target> ^green;получит от тебя^white;. Действуй!"
     }
   },
   {
@@ -512,7 +512,7 @@
     },
     "Texts": {
       "Eng": "Notafriendyet Jones",
-      "Rus": ""
+      "Rus": "Notafriendyet Jones"
     }
   },
   {
@@ -524,7 +524,7 @@
     },
     "Texts": {
       "Eng": "Now Floran needs <target> to become Floran's friend, but Floran has seen <target.pronoun.object> being friendly with ^orange;<other>^white;! Put a stop to this ssso <target.pronoun.subject>'s only friendly with Floran! ^green;Deliver thiss ^orange;letter^green; to ^orange;<target>^white; - it illustrates how terrible <other> is.",
-      "Rus": "Флоран и <target> почти стали друзьями, но ^orange;<other>^white; всё никак не отстает! <target> долж<target.pronoun.verb2Ending> прочесть эту ^orange;записку^white; - в которой Флоран подробно описал, насколько <other> прогнил<other.pronoun.verbEnding> изнутри. ^green;Отнеси записку^white; и Флоран будет благодарен."
+      "Rus": "Флоран и ^orange;<target>^white; почти стали друзьями, но ^orange;<other>^white; всё никак не отстает! <target> долж<target.pronoun.verb2Ending> прочесть эту ^orange;записку^white; - в которой Флоран подробно описал, насколько <other> прогнил<other.pronoun.verbEnding> изнутри. ^green;Отнеси записку^white; и Флоран будет благодарен."
     }
   },
   {
@@ -536,7 +536,7 @@
     },
     "Texts": {
       "Eng": "Now I need you to ^green;give this ^orange;note^green; to ^orange;<target>^white; to persuade <target.pronoun.object> to stop talking to ^orange;<other>^white;. What? No, everything it says is definitely completely true.",
-      "Rus": ""
+      "Rus": "Нужно полностью прекратить, чтобы ^orange;<target>^white; и ^orange;<other>^white; продолжали общаться. Вот ^orange;записка^white;, в которой <other> выставлен<other.pronoun.verbEnding> в самом неприглядном свете. Когда ^green;<target> её получит^white;, всё произойдёт само собой."
     }
   },
   {
@@ -548,7 +548,7 @@
     },
     "Texts": {
       "Eng": "Now for the finale! Floran wantss to befriend <target>. We need to stop <target.pronoun.object> from conssstantly seeing ^orange;<other>^white;. If you ^green;deliver this ^orange;letter^green; to ^orange;<target>^white; <target.pronoun.subject>'ll become Floran's friend insstead. Floran is sure.",
-      "Rus": ""
+      "Rus": "<target> перед большими переменами! Флоран станет <target.pronoun.reflexive> новым другом, а ^orange;<other>^white; отправится на ссвалку истории. Вот записка, где Флоран написал, что <other> лишен<other.pronoun.verbEnding> всего хорошего. ^green;Доставь её^white; - уверен, что ^orange;<target>^white; заинтересуется."
     }
   },
   {
@@ -560,7 +560,7 @@
     },
     "Texts": {
       "Eng": "Once you ^green;give ^orange;<target> ^green;this rumour I've written about ^orange;<other>, ^white;<target.pronoun.subject> won't be able to resist telling everyone!",
-      "Rus": ""
+      "Rus": "Вот послание с такой скандальной информацией, что ^orange;<target>^white; не сможет устоять и начнёт рассказывать направо и налево о том, каков<other.pronoun.verbEnding> ^orange;<other>^white; на самом деле! ^green;От тебя требуется только доставка^white;."
     }
   },
   {
@@ -572,7 +572,7 @@
     },
     "Texts": {
       "Eng": "Rival Person",
-      "Rus": ""
+      "Rus": "Rival Person"
     }
   },
   {
@@ -584,7 +584,7 @@
     },
     "Texts": {
       "Eng": "Success! We certainly made an impression on <target>! Thank you!",
-      "Rus": ""
+      "Rus": "Успех! <target> определённо под глубоким впечатлением от Флорана! Сспасибо!"
     }
   },
   {
@@ -596,7 +596,7 @@
     },
     "Texts": {
       "Eng": "Thank you for delivering the note! <target> and I are now officially friends. ",
-      "Rus": ""
+      "Rus": "Спасибо за то, что доставил письмо! <target> и я теперь официально дружим."
     }
   },
   {
@@ -608,7 +608,7 @@
     },
     "Texts": {
       "Eng": "Thank you! Floran will have a lot of fun with <target> now.",
-      "Rus": ""
+      "Rus": "Сспасибо! Флоран и <target> теперь часто встречаются и веселятся от души."
     }
   },
   {
@@ -620,7 +620,7 @@
     },
     "Texts": {
       "Eng": "That rumour fanned the flames magnificently! <other> isn't going to have many friends left after this.",
-      "Rus": ""
+      "Rus": "Слухи распространяются как лесной пожар! <other> скоро лишится всех своих друзей."
     }
   },
   {
@@ -632,7 +632,7 @@
     },
     "Texts": {
       "Eng": "That was great! <target> bought it immediately. The rumour about <other> is spreading already.",
-      "Rus": ""
+      "Rus": "Отлично! <target> сразу купил<target.pronoun.verb3Ending>. Теперь слухи поползут как надо! "
     }
   },
   {
@@ -644,7 +644,7 @@
     },
     "Texts": {
       "Eng": "That went well! With Floran's new found friend the next ssstep will be much easier.",
-      "Rus": ""
+      "Rus": "Всё прошло отлично! С новым другом у Флорана всё наладитсся."
     }
   },
   {
@@ -656,7 +656,7 @@
     },
     "Texts": {
       "Eng": "That worked better than I expected. <other> will think twice before spreading rumours again! <target> was horrified!",
-      "Rus": ""
+      "Rus": "Сработало лучше, чем я предполагал<questGiver.pronoun.verbEnding>. <other> теперь общепризнанный отщепенец!"
     }
   },
   {
@@ -668,7 +668,7 @@
     },
     "Texts": {
       "Eng": "That's disappointing... Let's hang out sometime!",
-      "Rus": ""
+      "Rus": "Это грустно... Давай как-нибудь встретимся!"
     }
   },
   {
@@ -680,7 +680,7 @@
     },
     "Texts": {
       "Eng": "That's terrible! :O",
-      "Rus": ""
+      "Rus": "Ужас какой! :О"
     }
   },
   {
@@ -692,7 +692,7 @@
     },
     "Texts": {
       "Eng": "The plan worked! <target> is now my friend - and <other> is out of the picture. Thanks for helping to make this happen!",
-      "Rus": ""
+      "Rus": "План сработал и теперь <target> - мой друг, а <other> не при делах. Спасибо за то, что устроил это!"
     }
   },
   {
@@ -704,7 +704,7 @@
     },
     "Texts": {
       "Eng": "Thiss turned out just like Floran wanted! Floran is so happy.",
-      "Rus": ""
+      "Rus": "Всё прошло так, как Флоран и задумал! Флоран ссчастлив."
     }
   },
   {
@@ -728,7 +728,7 @@
     },
     "Texts": {
       "Eng": "We did it! Floran iss happy about this friendship. Thank you!",
-      "Rus": ""
+      "Rus": "Превоссходно! Флоран доволен тем, как растёт дружба!"
     }
   },
   {
@@ -740,7 +740,7 @@
     },
     "Texts": {
       "Eng": "Wonderful news! <other>'s out an I'm in! This is going to be great.",
-      "Rus": ""
+      "Rus": "Отличные новости! <other> теперь не при делах! Всё идёт по плану."
     }
   },
   {
@@ -752,7 +752,7 @@
     },
     "Texts": {
       "Eng": "You did it. Friends are great assets and I'm sure <target> will prove useful to me in the future. ",
-      "Rus": ""
+      "Rus": "Ты справился. Друзья - это хорошее подспорье и, думаю, <target> пригодится мне в будущем."
     }
   },
   {
@@ -764,7 +764,7 @@
     },
     "Texts": {
       "Eng": "You should know that <other> <verb2> <object>.",
-      "Rus": ""
+      "Rus": "Ты долж<target.pronoun.verb2Ending> знать, что <other> <verb2> <object>."
     }
   },
   {
@@ -776,7 +776,7 @@
     },
     "Texts": {
       "Eng": "^cyan;<target> ssseems like fun company, and Floran has crafty plan to make friendsss with <target.pronoun.object>.",
-      "Rus": ""
+      "Rus": "^cyan;<target> - хороший друг, и у Флорана есть план, как <target.pronoun.reflexive> поймать."
     }
   },
   {
@@ -788,7 +788,7 @@
     },
     "Texts": {
       "Eng": "^cyan;Floran wantss to befriend <target>. Let's get rid of <target.pronoun.possessiveDet> current horrible friend!",
-      "Rus": ""
+      "Rus": "^cyan;Флоран и <target> сстанут лучшими друзьями! Нужно только избавиться от <target.pronoun.reflexive> прежнего друга."
     }
   },
   {
@@ -800,7 +800,7 @@
     },
     "Texts": {
       "Eng": "^cyan;I'd like <target> to become my friend instead of <other>'s. I have a plan to make this happen...",
-      "Rus": ""
+      "Rus": "^cyan;Я бы хотел<questGiver.pronoun.verbEnding>, чтобы <target> дружил<target.pronoun.verbEnding> со мной. У меня есть план, как это сделать..."
     }
   },
   {
@@ -812,7 +812,7 @@
     },
     "Texts": {
       "Eng": "^cyan;I'd like to befriend <target>. If only <target.pronoun.possessiveDet> friend <other> wasn't in the way....",
-      "Rus": ""
+      "Rus": "^cyan;Я мечтаю, чтобы <target> стал<target.pronoun.verbEnding> моим другом. И надо рассорить <target.pronoun.reflexive> со старым другом..."
     }
   },
   {
@@ -824,7 +824,7 @@
     },
     "Texts": {
       "Eng": "^cyan;Jealous. <target> should be friends with me, not <other>.",
-      "Rus": ""
+      "Rus": "^cyan;Завистливо. Тебе знаком<target.pronoun.verbEnding> <target>? Это я долж<questGiver.pronoun.verb2Ending> быть <target.pronoun.reflexive> другом, а не <other>."
     }
   },
   {
@@ -836,7 +836,7 @@
     },
     "Texts": {
       "Eng": "^cyan;Resentful. I heard that <other>'s been spreading rumours about me. I'd like to return the favour.",
-      "Rus": ""
+      "Rus": "^cyan;Обиженно. <other> распускает обо мне слухи. Я собираются отплатить тем же."
     }
   },
   {
@@ -849,7 +849,7 @@
     },
     "Texts": {
       "Eng": "a bad friend",
-      "Rus": ""
+      "Rus": "- плохой друг"
     }
   },
   {
@@ -862,7 +862,7 @@
     },
     "Texts": {
       "Eng": "a bit weird",
-      "Rus": ""
+      "Rus": "довольно-таки странн<other.pronoun.adj2Ending>"
     }
   },
   {
@@ -875,7 +875,7 @@
     },
     "Texts": {
       "Eng": "a gossip",
-      "Rus": ""
+      "Rus": "выбалтывает все секреты"
     }
   },
   {
@@ -888,7 +888,7 @@
     },
     "Texts": {
       "Eng": "afraid of space",
-      "Rus": ""
+      "Rus": "боится космоса"
     }
   },
   {
@@ -901,7 +901,7 @@
     },
     "Texts": {
       "Eng": "bad friend material",
-      "Rus": ""
+      "Rus": "- никудышный друг"
     }
   },
   {
@@ -913,7 +913,8 @@
       ]
     },
     "Texts": {
-      "Eng": "close-minded"
+      "Eng": "close-minded",
+      "Rus": "ограниченн<other.pronoun.adj2Ending>"
     }
   },
   {
@@ -925,7 +926,8 @@
       ]
     },
     "Texts": {
-      "Eng": "covered in bugs"
+      "Eng": "covered in bugs",
+      "Rus": "имеет множество изъянов"
     }
   },
   {
@@ -938,7 +940,7 @@
     },
     "Texts": {
       "Eng": "creepy",
-      "Rus": ""
+      "Rus": "страшн<other.pronoun.adj2Ending>"
     }
   },
   {
@@ -949,7 +951,8 @@
       ]
     },
     "Texts": {
-      "Eng": "forgets about"
+      "Eng": "forgets about",
+      "Rus": "забывает про"
     }
   },
   {
@@ -961,7 +964,8 @@
       ]
     },
     "Texts": {
-      "Eng": "making fun of you"
+      "Eng": "making fun of you",
+      "Rus": "выставляет тебя посмешищем"
     }
   },
   {
@@ -973,7 +977,8 @@
       ]
     },
     "Texts": {
-      "Eng": "mean"
+      "Eng": "mean",
+      "Rus": "зл<other.pronoun.adjEnding>"
     }
   },
   {
@@ -985,7 +990,8 @@
       ]
     },
     "Texts": {
-      "Eng": "stupid"
+      "Eng": "stupid",
+      "Rus": "туп<other.pronoun.adjEnding>"
     }
   }
 ]
