@@ -206,7 +206,7 @@
     },
     "Texts": {
       "Eng": "It's for <questGiver>. I shouldn't open it.",
-      "Rus": ""
+      "Rus": "<questGiver> долж<questGiver.pronoun.verb2Ending> получить это. Мне нельзя открывать."
     }
   },
   {
@@ -325,7 +325,7 @@
     },
     "Texts": {
       "Eng": "Parcel for <questGiver>",
-      "Rus": ""
+      "Rus": "Пакет. Получатель: <questGiver>"
     }
   },
   {
@@ -343,7 +343,7 @@
     },
     "Texts": {
       "Eng": "Perfectly Generic Victim",
-      "Rus": ""
+      "Rus": "Perfectly Generic Victim"
     }
   },
   {
@@ -403,7 +403,7 @@
     },
     "Texts": {
       "Eng": "Some Person",
-      "Rus": ""
+      "Rus": "Some Person"
     }
   },
   {
@@ -523,7 +523,7 @@
     },
     "Texts": {
       "Eng": "camping",
-      "Rus": ""
+      "Rus": "устраивал<questGiver.pronoun.verbEnding> пикник"
     }
   },
   {
@@ -780,7 +780,7 @@
     },
     "Texts": {
       "Eng": "exploring",
-      "Rus": ""
+      "Rus": "исследовал<questGiver.pronoun.verbEnding> местность"
     }
   },
   {
@@ -845,7 +845,7 @@
     },
     "Texts": {
       "Eng": "jogging",
-      "Rus": ""
+      "Rus": "бегал<questGiver.pronoun.verbEnding>"
     }
   },
   {
@@ -1250,7 +1250,7 @@
     },
     "Texts": {
       "Eng": "trekking",
-      "Rus": ""
+      "Rus": "прогуливал<questGiver.pronoun.verb3Ending>"
     }
   },
   {
@@ -1281,7 +1281,7 @@
     },
     "Texts": {
       "Eng": "walking",
-      "Rus": ""
+      "Rus": "ходил<questGiver.pronoun.verbEnding>"
     }
   },
   {
