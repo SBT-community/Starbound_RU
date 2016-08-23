@@ -43,5 +43,35 @@
     "op": "add",
     "path": "/pronouns/neutral/verb3Ending",
     "value": "ся"
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/female/adjEnding",
+    "value": "ая"
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/male/adjEnding",
+    "value": "ой"
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/neutral/adjEnding",
+    "value": "ой"
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/female/adj2Ending",
+    "value": "ая"
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/male/adj2Ending",
+    "value": "ый"
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/neutral/adj2Ending",
+    "value": "ый"
   }
 ]
