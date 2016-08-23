@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<belonging2>"
+      "Eng": "<belonging2>",
+      "Rus": "<belonging2>"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Dealing with some <monster>"
+      "Eng": "Dealing with some <monster>",
+      "Rus": "Ликвидация стаи <monster>"
     }
   },
   {
@@ -41,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran heard there isss a group of <wild> ^orange;<monster>^white; that are <loiteringfloran>. Floran would hunt them but Floran <excusefloran>. They are at the ^orange;<spawnPoint>^white;<spawnPoint.direction> - ^green;could you <revengefloran> for Floran^white;?"
+      "Eng": "Floran heard there isss a group of <wild> ^orange;<monster>^white; that are <loiteringfloran>. Floran would hunt them but Floran <excusefloran>. They are at the ^orange;<spawnPoint>^white;<spawnPoint.direction> - ^green;could you <revengefloran> for Floran^white;?",
+      "Rus": "Флоран слышал, что тут объявилась сстая <wild> ^orange;<monster>^white;, <loiteringfloran>. Флоран бы сам на них поохотился, но Флоран <excusefloran>. Они бродят у ^orange;<spawnPoint>^white; <spawnPoint.direction> - ^green;ты можешь <revengefloran>^white;?"
     }
   },
   {
@@ -53,7 +56,7 @@
     },
     "Texts": {
       "Eng": "I appreciate you doing this for me. Please accept this gift.",
-      "Rus": "Я признателен за то, что ты сделал для меня. Пожалуйста, прими этот дар."
+      "Rus": "Я благодар<questGiver.pronoun.verb2Ending> за то, что ты сделал для меня. Пожалуйста, прими этот дар."
     }
   },
   {
@@ -64,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I hope this gift is enough for the time you spent on my problem!"
+      "Eng": "I hope this gift is enough for the time you spent on my problem!",
+      "Rus": "Я надеюсь, что этот подарок компенсирует твоё потраченное время!"
     }
   },
   {
@@ -76,7 +80,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I'm <upset> and need your help! A <group> of <wild> ^orange;<monster>^white; <ambushed> me whilst I was out <exploring> and <ate> <belonging1>! This happened at the ^orange;<spawnPoint>^white;<spawnPoint.direction> - ^green;could you go and <revenge1>^white;?"
+      "Eng": "I'm <upset> and need your help! A <group> of <wild> ^orange;<monster>^white; <ambushed> me whilst I was out <exploring> and <ate> <belonging1>! This happened at the ^orange;<spawnPoint>^white;<spawnPoint.direction> - ^green;could you go and <revenge1>^white;?",
+      "Rus": "Я <upset> и нуждаюсь в твоей помощи - <group> <wild> ^orange;<monster>^white; <ambushed> меня, и они <ate> <belonging1>! Это случилось, когда я <exploring> около ^orange;<spawnPoint>^white; <spawnPoint.direction> - ^green;не мог бы ты пойти туда и <revenge1>^white;?"
     }
   },
   {
@@ -88,7 +93,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I'm too scared to leave here after <rumours> a pack of <wild> ^orange;<monster>^white; <loitering>. I heard they were last seen at the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Could you <revenge2> for me^white;?"
+      "Eng": "I'm too scared to leave here after <rumours> a pack of <wild> ^orange;<monster>^white; <loitering>. I heard they were last seen at the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Could you <revenge2> for me^white;?",
+      "Rus": "Я боюсь уходить далеко, после того, как <rumours> <wild> ^orange;<monster>^white;, <loitering>. Вроде бы их видели у ^orange;<spawnPoint>^white; <spawnPoint.direction>. ^green;Ты не мог бы <revenge2>^white;?"
     }
   },
   {
@@ -99,7 +105,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Oh, you sorted out the <monster>?"
+      "Eng": "Oh, you sorted out the <monster>?",
+      "Rus": "О, <monster> больше никого не побеспокоят?"
     }
   },
   {
@@ -110,7 +117,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Sorting out some <monster>"
+      "Eng": "Sorting out some <monster>",
+      "Rus": "Остановить стаю <monster>"
     }
   },
   {
@@ -133,7 +141,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Those <monster> won't be a problem anymore, because they're dead! Ha ha ha."
+      "Eng": "Those <monster> won't be a problem anymore, because they're dead! Ha ha ha.",
+      "Rus": "Эти <monster> больше не проблема, потому что они мертвы! Ха ха ха."
     }
   },
   {
@@ -144,7 +153,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Floran hasss something for you to take care of..."
+      "Eng": "^cyan;Floran hasss something for you to take care of...",
+      "Rus": "^cyan;Флорану нужно, чтобы ты открыл охоту..."
     }
   },
   {
@@ -155,7 +165,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Worried. Some beasts have rendered me afraid."
+      "Eng": "^cyan;Worried. Some beasts have rendered me afraid.",
+      "Rus": "^cyan;Обеспокоенно. Дикие звери тревожат меня."
     }
   },
   {
@@ -166,7 +177,8 @@
       ]
     },
     "Texts": {
-      "Eng": "all the talk about"
+      "Eng": "all the talk about",
+      "Rus": "все начали болтать о стае"
     }
   },
   {
@@ -177,7 +189,8 @@
       ]
     },
     "Texts": {
-      "Eng": "ambushed"
+      "Eng": "ambushed",
+      "Rus": "подстерегла"
     }
   },
   {
@@ -188,7 +201,8 @@
       ]
     },
     "Texts": {
-      "Eng": "an old family heirloom"
+      "Eng": "an old family heirloom",
+      "Rus": "мою семейную реликвию"
     }
   },
   {
@@ -199,7 +213,8 @@
       ]
     },
     "Texts": {
-      "Eng": "angry"
+      "Eng": "angry",
+      "Rus": "разозлен<questGiver.pronoun.verbEnding>"
     }
   },
   {
@@ -211,7 +226,8 @@
       ]
     },
     "Texts": {
-      "Eng": "angry"
+      "Eng": "angry",
+      "Rus": "злых"
     }
   },
   {
@@ -222,7 +238,8 @@
       ]
     },
     "Texts": {
-      "Eng": "ate"
+      "Eng": "ate",
+      "Rus": "съели"
     }
   },
   {
@@ -233,7 +250,8 @@
       ]
     },
     "Texts": {
-      "Eng": "attacking people"
+      "Eng": "attacking people",
+      "Rus": "которые кидаются на всех"
     }
   },
   {
@@ -244,7 +262,8 @@
       ]
     },
     "Texts": {
-      "Eng": "avenge me"
+      "Eng": "avenge me",
+      "Rus": "отомстить за меня"
     }
   },
   {
@@ -255,7 +274,8 @@
       ]
     },
     "Texts": {
-      "Eng": "chased"
+      "Eng": "chased",
+      "Rus": "преследовала"
     }
   },
   {
@@ -267,7 +287,8 @@
       ]
     },
     "Texts": {
-      "Eng": "crazed"
+      "Eng": "crazed",
+      "Rus": "бешеных"
     }
   },
   {
@@ -278,7 +299,8 @@
       ]
     },
     "Texts": {
-      "Eng": "destroyed"
+      "Eng": "destroyed",
+      "Rus": "испортили"
     }
   },
   {
@@ -289,7 +311,8 @@
       ]
     },
     "Texts": {
-      "Eng": "dismayed"
+      "Eng": "dismayed",
+      "Rus": "испуган<questGiver.pronoun.verbEnding>"
     }
   },
   {
@@ -300,7 +323,8 @@
       ]
     },
     "Texts": {
-      "Eng": "distressed"
+      "Eng": "distressed",
+      "Rus": "в смятении"
     }
   },
   {
@@ -313,7 +337,7 @@
     },
     "Texts": {
       "Eng": "ferocious",
-      "Rus": ""
+      "Rus": "диких"
     }
   },
   {
@@ -325,7 +349,8 @@
       ]
     },
     "Texts": {
-      "Eng": "fierce"
+      "Eng": "fierce",
+      "Rus": "свирепых"
     }
   },
   {
@@ -336,7 +361,8 @@
       ]
     },
     "Texts": {
-      "Eng": "finding out about"
+      "Eng": "finding out about",
+      "Rus": "узнал<questGiver.pronoun.verbEnding> о стае"
     }
   },
   {
@@ -347,7 +373,8 @@
       ]
     },
     "Texts": {
-      "Eng": "forcefully evict them"
+      "Eng": "forcefully evict them",
+      "Rus": "прогнать их силой"
     }
   },
   {
@@ -358,7 +385,8 @@
       ]
     },
     "Texts": {
-      "Eng": "forgot to make weaponsss"
+      "Eng": "forgot to make weaponsss",
+      "Rus": "забыл, куда положил копьё"
     }
   },
   {
@@ -369,7 +397,8 @@
       ]
     },
     "Texts": {
-      "Eng": "group"
+      "Eng": "group",
+      "Rus": "группа"
     }
   },
   {
@@ -380,7 +409,8 @@
       ]
     },
     "Texts": {
-      "Eng": "harassed"
+      "Eng": "harassed",
+      "Rus": "пыталась загнать"
     }
   },
   {
@@ -391,7 +421,8 @@
       ]
     },
     "Texts": {
-      "Eng": "hearing rumours about"
+      "Eng": "hearing rumours about",
+      "Rus": "услышал<questGiver.pronoun.verbEnding> слухи о стае"
     }
   },
   {
@@ -402,7 +433,8 @@
       ]
     },
     "Texts": {
-      "Eng": "horde"
+      "Eng": "horde",
+      "Rus": "орда"
     }
   },
   {
@@ -413,7 +445,8 @@
       ]
     },
     "Texts": {
-      "Eng": "hunt them down"
+      "Eng": "hunt them down",
+      "Rus": "поохотиться на них"
     }
   },
   {
@@ -424,7 +457,8 @@
       ]
     },
     "Texts": {
-      "Eng": "isss feeling lazy"
+      "Eng": "isss feeling lazy",
+      "Rus": "ленится"
     }
   },
   {
@@ -435,7 +469,8 @@
       ]
     },
     "Texts": {
-      "Eng": "isssn't feeling too confident about hunting right now"
+      "Eng": "isssn't feeling too confident about hunting right now",
+      "Rus": "думает, что сейчас не ссезон для охоты"
     }
   },
   {
@@ -446,7 +481,8 @@
       ]
     },
     "Texts": {
-      "Eng": "kill them all"
+      "Eng": "kill them all",
+      "Rus": "убить их всех"
     }
   },
   {
@@ -457,7 +493,8 @@
       ]
     },
     "Texts": {
-      "Eng": "leapt at"
+      "Eng": "leapt at",
+      "Rus": "насела на"
     }
   },
   {
@@ -468,7 +505,8 @@
       ]
     },
     "Texts": {
-      "Eng": "making lotsss of noise"
+      "Eng": "making lotsss of noise",
+      "Rus": "которые очень громко шумят"
     }
   },
   {
@@ -479,7 +517,8 @@
       ]
     },
     "Texts": {
-      "Eng": "my backpack full of snacks"
+      "Eng": "my backpack full of snacks",
+      "Rus": "мой рюкзак с провизией"
     }
   },
   {
@@ -490,7 +529,8 @@
       ]
     },
     "Texts": {
-      "Eng": "my book"
+      "Eng": "my book",
+      "Rus": "мою книгу"
     }
   },
   {
@@ -501,7 +541,8 @@
       ]
     },
     "Texts": {
-      "Eng": "my cheap watch"
+      "Eng": "my cheap watch",
+      "Rus": "мои дешевые часы"
     }
   },
   {
@@ -512,7 +553,8 @@
       ]
     },
     "Texts": {
-      "Eng": "my homemade album"
+      "Eng": "my homemade album",
+      "Rus": "мой самодельный альбом"
     }
   },
   {
@@ -523,7 +565,8 @@
       ]
     },
     "Texts": {
-      "Eng": "my lunch"
+      "Eng": "my lunch",
+      "Rus": "мой обед"
     }
   },
   {
@@ -534,7 +577,8 @@
       ]
     },
     "Texts": {
-      "Eng": "my memoirs"
+      "Eng": "my memoirs",
+      "Rus": "мои мемуары"
     }
   },
   {
@@ -545,7 +589,8 @@
       ]
     },
     "Texts": {
-      "Eng": "my personal poetry collection"
+      "Eng": "my personal poetry collection",
+      "Rus": "рукопись моих стихов"
     }
   },
   {
@@ -556,7 +601,8 @@
       ]
     },
     "Texts": {
-      "Eng": "my sandwich"
+      "Eng": "my sandwich",
+      "Rus": "мой сэндвич"
     }
   },
   {
@@ -567,7 +613,8 @@
       ]
     },
     "Texts": {
-      "Eng": "my shoes"
+      "Eng": "my shoes",
+      "Rus": "мою обувь"
     }
   },
   {
@@ -578,7 +625,8 @@
       ]
     },
     "Texts": {
-      "Eng": "my unfinished novel"
+      "Eng": "my unfinished novel",
+      "Rus": "мою недописанную повесть"
     }
   },
   {
@@ -589,7 +637,8 @@
       ]
     },
     "Texts": {
-      "Eng": "my wallet"
+      "Eng": "my wallet",
+      "Rus": "мой кошелёк"
     }
   },
   {
@@ -600,7 +649,8 @@
       ]
     },
     "Texts": {
-      "Eng": "narrowly avoiding"
+      "Eng": "narrowly avoiding",
+      "Rus": "едва спрятал<questGiver.pronoun.verb3Ending> от стаи"
     }
   },
   {
@@ -611,7 +661,8 @@
       ]
     },
     "Texts": {
-      "Eng": "narrowly escaping"
+      "Eng": "narrowly escaping",
+      "Rus": "едва убежал<questGiver.pronoun.verbEnding> от стаи"
     }
   },
   {
@@ -623,7 +674,8 @@
       ]
     },
     "Texts": {
-      "Eng": "naughty"
+      "Eng": "naughty",
+      "Rus": "озлобленных"
     }
   },
   {
@@ -634,7 +686,8 @@
       ]
     },
     "Texts": {
-      "Eng": "pack"
+      "Eng": "pack",
+      "Rus": "стая"
     }
   },
   {
@@ -645,7 +698,8 @@
       ]
     },
     "Texts": {
-      "Eng": "pursued"
+      "Eng": "pursued",
+      "Rus": "атаковала"
     }
   },
   {
@@ -656,7 +710,8 @@
       ]
     },
     "Texts": {
-      "Eng": "put a stop to them"
+      "Eng": "put a stop to them",
+      "Rus": "остановить их"
     }
   },
   {
@@ -667,7 +722,8 @@
       ]
     },
     "Texts": {
-      "Eng": "quietly kill them all"
+      "Eng": "quietly kill them all",
+      "Rus": "перебить их всех, одного за другим"
     }
   },
   {
@@ -679,7 +735,8 @@
       ]
     },
     "Texts": {
-      "Eng": "ravenous"
+      "Eng": "ravenous",
+      "Rus": "прожорливых"
     }
   },
   {
@@ -690,7 +747,8 @@
       ]
     },
     "Texts": {
-      "Eng": "ruined"
+      "Eng": "ruined",
+      "Rus": "изгрызли"
     }
   },
   {
@@ -702,7 +760,8 @@
       ]
     },
     "Texts": {
-      "Eng": "savage"
+      "Eng": "savage",
+      "Rus": "жестоких"
     }
   },
   {
@@ -713,7 +772,8 @@
       ]
     },
     "Texts": {
-      "Eng": "snuck up on"
+      "Eng": "snuck up on",
+      "Rus": "подкараулила"
     }
   },
   {
@@ -724,7 +784,8 @@
       ]
     },
     "Texts": {
-      "Eng": "soiled"
+      "Eng": "soiled",
+      "Rus": "испачкали"
     }
   },
   {
@@ -735,7 +796,8 @@
       ]
     },
     "Texts": {
-      "Eng": "ssscaring people"
+      "Eng": "ssscaring people",
+      "Rus": "которые всех пугают"
     }
   },
   {
@@ -747,7 +809,8 @@
       ]
     },
     "Texts": {
-      "Eng": "teach them a lesson"
+      "Eng": "teach them a lesson",
+      "Rus": "показать им, где раки зимуют"
     }
   },
   {
@@ -758,7 +821,8 @@
       ]
     },
     "Texts": {
-      "Eng": "the manuscript for my unfinished novel"
+      "Eng": "the manuscript for my unfinished novel",
+      "Rus": "рукопись с моей недописанной повестью"
     }
   },
   {
@@ -769,7 +833,8 @@
       ]
     },
     "Texts": {
-      "Eng": "the only remaining copy of <belonging2>"
+      "Eng": "the only remaining copy of <belonging2>",
+      "Rus": "<belonging2> в единственном экземпляре"
     }
   },
   {
@@ -780,7 +845,8 @@
       ]
     },
     "Texts": {
-      "Eng": "thinksss you'd do a better job"
+      "Eng": "thinksss you'd do a better job",
+      "Rus": "думает, что ты справишься лучше"
     }
   },
   {
@@ -791,7 +857,8 @@
       ]
     },
     "Texts": {
-      "Eng": "troubled"
+      "Eng": "troubled",
+      "Rus": "попал<questGiver.pronoun.verbEnding> в передрягу"
     }
   },
   {
@@ -802,7 +869,8 @@
       ]
     },
     "Texts": {
-      "Eng": "trying to eat people"
+      "Eng": "trying to eat people",
+      "Rus": "которые пытаются всех съесть"
     }
   },
   {
@@ -813,7 +881,8 @@
       ]
     },
     "Texts": {
-      "Eng": "upset"
+      "Eng": "upset",
+      "Rus": "расстроен<questGiver.pronoun.verbEnding>"
     }
   },
   {
@@ -825,7 +894,8 @@
       ]
     },
     "Texts": {
-      "Eng": "vicious"
+      "Eng": "vicious",
+      "Rus": "ужасных"
     }
   },
   {
@@ -836,7 +906,8 @@
       ]
     },
     "Texts": {
-      "Eng": "which are biting people's ankles"
+      "Eng": "which are biting people's ankles",
+      "Rus": "которые кусают всех за коленки"
     }
   },
   {
@@ -847,7 +918,8 @@
       ]
     },
     "Texts": {
-      "Eng": "which are causing minor local distress"
+      "Eng": "which are causing minor local distress",
+      "Rus": "которые никому прохода не дают"
     }
   },
   {
@@ -858,7 +930,8 @@
       ]
     },
     "Texts": {
-      "Eng": "which are giving people the creeps"
+      "Eng": "which are giving people the creeps",
+      "Rus": "которые наводят страх на всю округу"
     }
   },
   {
@@ -869,7 +942,8 @@
       ]
     },
     "Texts": {
-      "Eng": "which are keeping people up at night"
+      "Eng": "which are keeping people up at night",
+      "Rus": "которые заставляют всех спать вполглаза"
     }
   },
   {
@@ -880,7 +954,8 @@
       ]
     },
     "Texts": {
-      "Eng": "which are making a bit of an uproar"
+      "Eng": "which are making a bit of an uproar",
+      "Rus": "которые рычат так, что отсюда слышно"
     }
   },
   {
@@ -891,7 +966,8 @@
       ]
     },
     "Texts": {
-      "Eng": "which keep staring at people"
+      "Eng": "which keep staring at people",
+      "Rus": "которые смотрят на тебя, когда ты идёшь мимо"
     }
   },
   {
@@ -903,7 +979,8 @@
       ]
     },
     "Texts": {
-      "Eng": "wild"
+      "Eng": "wild",
+      "Rus": "диких"
     }
   }
 ]
