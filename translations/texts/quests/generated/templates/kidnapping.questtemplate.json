@@ -167,7 +167,7 @@
     },
     "Texts": {
       "Eng": "My <friend> ^orange;<victimNpcType>^white; was meant to visit <earlier> so we could <activity1>, but <victimNpcType.pronoun.subject> hasn't <turned> up! <suspicion> the ^orange;<enemy>^white; I saw near the ^orange;<spawnPoint>^white;<spawnPoint.direction> <involved>. ^green;Can you please save <victimNpcType>^white;?",
-      "Rus": "Мой <friend>, ^orange;<victimNpcType>^white;, <earlier> долж<victimNpcType.pronoun.verb2Ending>  был<victimNpcType.pronoun.verbEnding> встретиться с мной, чтобы <activity1>. Но <victimNpcType.pronoun.subject> до сих пор не <turned>! <suspicion>, что <involved> ^orange;<enemy>^white;, которых я видел<questGiver.pronoun.verbEnding> около ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;<victimNpcType> в беде, спаси <victimNpcType.pronoun.reflexive>^white;!"
+      "Rus": "Мой <friend>, ^orange;<victimNpcType>^white;, <earlier> долж<victimNpcType.pronoun.verb2Ending>  был<victimNpcType.pronoun.verbEnding> встретиться с мной, чтобы <activity1>. Но <victimNpcType.pronoun.subject> до сих пор не <turned>! <suspicion>, что <involved> ^orange;<enemy>^white;, которых я видел<questGiver.pronoun.verbEnding> около ^orange;<spawnPoint>^white; <spawnPoint.direction>. ^green;<victimNpcType> в беде, спаси <victimNpcType.pronoun.reflexive>^white;!"
     }
   },
   {
@@ -772,7 +772,7 @@
     },
     "Texts": {
       "Eng": "might be involved",
-      "Rus": "приложили свою руку"
+      "Rus": "тут приложили свою руку"
     }
   },
   {
