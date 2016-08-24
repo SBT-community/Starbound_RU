@@ -3487,15 +3487,15 @@
       "shared_outpost.mat.json": 5,
       "shared_outpostsupport.mat.json": 5,
       "shared_outpostwall.json": 5,
-      "shared_outpostwall2.mat.json": 4,
+      "shared_outpostwall2.mat.json": 5,
       "shared_packeddirt.mat.json": 5,
       "shared_petalblock.mat.json": 4,
       "shared_pillarblock.mat.json": 5,
       "shared_plantblock.mat.json": 5,
       "shared_plantmatter.mat.json": 5,
-      "shared_plate.mat.json": 2,
-      "shared_platinumblock.mat.json": 2,
-      "shared_pressurisedbeam.mat.json": 2,
+      "shared_plate.mat.json": 4,
+      "shared_platinumblock.mat.json": 5,
+      "shared_pressurisedbeam.mat.json": 4,
       "shared_pressuriseddurasteel.mat.json": 2,
       "shared_pressurisedgirder.mat.json": 2,
       "shared_purplecrystal.mat.json": 2,
@@ -9161,7 +9161,7 @@
           "shared_hazardtape.json": 0
         },
         "shared_prison": {
-          "shared_.object.json": 0
+          "shared_.object.json": 12
         },
         "shared_prisonfence": {
           "shared_prisonfence.json": 4
@@ -12113,7 +12113,7 @@
           "collect_gift.questtemplate.json": 0,
           "cooking.questtemplate.json": 12,
           "craft.questtemplate.json": 12,
-          "escort.questtemplate.json": 10,
+          "escort.questtemplate.json": 47,
           "escort_trade.questtemplate.json": 7,
           "extort.questtemplate.json": 0,
           "farming.questtemplate.json": 3,
@@ -12122,7 +12122,7 @@
           "hat.questtemplate.json": 24,
           "helmet.questtemplate.json": 23,
           "intimidate.questtemplate.json": 7,
-          "kidnapping.questtemplate.json": 9,
+          "kidnapping.questtemplate.json": 88,
           "kill_monster.questtemplate.json": 6,
           "kill_monster_group.questtemplate.json": 81,
           "kill_monster_single.questtemplate.json": 69,
@@ -12135,7 +12135,7 @@
           "request_craft.questtemplate.json": 0,
           "return_stolen.questtemplate.json": 2,
           "share_secret.questtemplate.json": 91,
-          "shared_.questtemplate.json": 67,
+          "shared_.questtemplate.json": 79,
           "shared_d.questtemplate.json": 2,
           "shared_t.questtemplate.json": 1,
           "spread_rumors.questtemplate.json": 82,
@@ -12561,6 +12561,6 @@
       }
     },
     "universe_server.config.json": 2,
-    "wide_spread_fields.json": 54
+    "wide_spread_fields.json": 56
   }
 }

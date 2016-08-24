@@ -10,7 +10,7 @@
     },
     "Texts": {
       "Eng": "<victim.pronoun.capitalSubject> and I are very grateful!",
-      "Rus": "<victim.pronoun.capitalSubject> и я - отличная команда!"
+      "Rus": "<victim.pronoun.capitalSubject> и я очень тебе благодарны!"
     }
   },
   {
@@ -21,7 +21,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<victimNpcType.pronoun.subject> went missing"
+      "Eng": "<victimNpcType.pronoun.subject> went missing",
+      "Rus": "<victimNpcType.pronoun.subject> пропал<victimNpcType.pronoun.verbEnding>"
     }
   },
   {
@@ -32,7 +33,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran's <friendfloran> ^orange;<victimNpcType>^white; wasss meant to be here for <activityfloran> <earlier>, but Floran hasn't seen them! Floran heard that there are sssome ^orange;<enemy>^white; sssneaking around the ^orange;<spawnPoint>^white;<spawnPoint.direction> - Floran thinks they <involvedfloran>. ^green;Can you investigate for Floran^white;?"
+      "Eng": "Floran's <friendfloran> ^orange;<victimNpcType>^white; wasss meant to be here for <activityfloran> <earlier>, but Floran hasn't seen them! Floran heard that there are sssome ^orange;<enemy>^white; sssneaking around the ^orange;<spawnPoint>^white;<spawnPoint.direction> - Floran thinks they <involvedfloran>. ^green;Can you investigate for Floran^white;?",
+      "Rus": "Флоран и его <friendfloran>, ^orange;<victimNpcType>^white;, <earlier> ссобирались <activityfloran>, но <victimNpcType.pronoun.subject> пропал<victimNpcType.pronoun.verbEnding>! Флоран слышал, что тут, около ^orange;<spawnPoint>^white; <spawnPoint.direction>, завелись ^orange;<enemy>^white; - и Флоран думает, что это они <involvedfloran>. ^green;Ты не мог бы проверить, как там дела^white;?"
     }
   },
   {
@@ -43,7 +45,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hostage situation"
+      "Eng": "Hostage situation",
+      "Rus": "Спасение заложника"
     }
   },
   {
@@ -54,7 +57,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I don't doubt"
+      "Eng": "I don't doubt",
+      "Rus": "Я не сомневаюсь"
     }
   },
   {
@@ -65,7 +69,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I have no doubt"
+      "Eng": "I have no doubt",
+      "Rus": "Без сомнения"
     }
   },
   {
@@ -76,7 +81,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I have suspicions"
+      "Eng": "I have suspicions",
+      "Rus": "Я подозреваю"
     }
   },
   {
@@ -87,7 +93,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I suddenly couldn't find <victimNpcType.pronoun.object>"
+      "Eng": "I suddenly couldn't find <victimNpcType.pronoun.object>",
+      "Rus": "я внезапно потерял<questGiver.pronoun.verbEnding> <victimNpcType.pronoun.reflexive> из виду"
     }
   },
   {
@@ -99,7 +106,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I was out <activity> with my <friend> ^orange;<victimNpcType>^white; <earlier>, when <separated>. I saw some ^orange;<enemy>^white; sneaking around and worry <victimNpcType> has been <kidnapped>! I last saw <victimNpcType.pronoun.object> near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Can you go and find <victimNpcType.pronoun.object>^white;?"
+      "Eng": "I was out <activity> with my <friend> ^orange;<victimNpcType>^white; <earlier>, when <separated>. I saw some ^orange;<enemy>^white; sneaking around and worry <victimNpcType> has been <kidnapped>! I last saw <victimNpcType.pronoun.object> near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Can you go and find <victimNpcType.pronoun.object>^white;?",
+      "Rus": "Я <earlier> <activity> около ^orange;<spawnPoint>^white; <spawnPoint.direction>, со мной был мой <friend>, ^orange;<victimNpcType>^white;. В какой-то момент <separated>. Я видел<questGiver.pronoun.verbEnding>, что вокруг шныряют ^orange;<enemy>^white; и боюсь, что <kidnapped>! ^green;Ты не мог бы <victimNpcType.pronoun.reflexive> найти^white;?"
     }
   },
   {
@@ -110,7 +118,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I wasn't able to help reunite <questGiver> with their <friend>. I'm sure they'll find their way to each other without my help."
+      "Eng": "I wasn't able to help reunite <questGiver> with their <friend>. I'm sure they'll find their way to each other without my help.",
+      "Rus": "Я не смог помочь. <questGiver> и <victimNpcType> найдут друг друга своими силами."
     }
   },
   {
@@ -121,7 +130,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I wasn't able to help reunite <questGiver> with their friend. I'm sure they'll find their way to each other without my help."
+      "Eng": "I wasn't able to help reunite <questGiver> with their friend. I'm sure they'll find their way to each other without my help.",
+      "Rus": "Я не смог помочь. <questGiver> будет спасать своего друга собственными силами."
     }
   },
   {
@@ -132,7 +142,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I'm sure"
+      "Eng": "I'm sure",
+      "Rus": "Я уверен<questGiver.pronoun.verbEnding>"
     }
   },
   {
@@ -155,7 +166,8 @@
       ]
     },
     "Texts": {
-      "Eng": "My <friend> ^orange;<victimNpcType>^white; was meant to visit <earlier> so we could <activity1>, but <victimNpcType.pronoun.subject> hasn't <turned> up! <suspicion> the ^orange;<enemy>^white; I saw near the ^orange;<spawnPoint>^white;<spawnPoint.direction> <involved>. ^green;Can you please save <victimNpcType>^white;?"
+      "Eng": "My <friend> ^orange;<victimNpcType>^white; was meant to visit <earlier> so we could <activity1>, but <victimNpcType.pronoun.subject> hasn't <turned> up! <suspicion> the ^orange;<enemy>^white; I saw near the ^orange;<spawnPoint>^white;<spawnPoint.direction> <involved>. ^green;Can you please save <victimNpcType>^white;?",
+      "Rus": "Мой <friend>, ^orange;<victimNpcType>^white;, <earlier> долж<victimNpcType.pronoun.verb2Ending>  был<victimNpcType.pronoun.verbEnding> встретиться с мной, чтобы <activity1>. Но <victimNpcType.pronoun.subject> до сих пор не <turned>! <suspicion>, что <involved> ^orange;<enemy>^white;, которых я видел<questGiver.pronoun.verbEnding> около ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;<victimNpcType> в беде, спаси <victimNpcType.pronoun.reflexive>^white;!"
     }
   },
   {
@@ -166,7 +178,8 @@
       ]
     },
     "Texts": {
-      "Eng": "My <friend> ^orange;<victimNpcType>^white; was meant to visit <earlier> so we could <activity1>, but they haven't <turned> up! <suspicion> the ^orange;<enemy>^white; I saw near the ^orange;<spawnPoint>^white;<spawnPoint.direction> <involved>. ^green;Can you please save <victimNpcType>^white;?"
+      "Eng": "My <friend> ^orange;<victimNpcType>^white; was meant to visit <earlier> so we could <activity1>, but they haven't <turned> up! <suspicion> the ^orange;<enemy>^white; I saw near the ^orange;<spawnPoint>^white;<spawnPoint.direction> <involved>. ^green;Can you please save <victimNpcType>^white;?",
+      "Rus": "Мой <friend>, ^orange;<victimNpcType>^white;, <earlier> долж<victimNpcType.pronoun.verb2Ending>  был<victimNpcType.pronoun.verbEnding> встретиться с мной, чтобы <activity1>. Но <victimNpcType.pronoun.subject> до сих пор не <turned>! <suspicion>, что <involved> ^orange;<enemy>^white;, которых я видел<questGiver.pronoun.verbEnding> около ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;<victimNpcType> в беде, спаси <victimNpcType.pronoun.reflexive>^white;!"
     }
   },
   {
@@ -177,7 +190,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Not to worry - I'm sure <questGiver>'s <friend> will respawn somewhere safer."
+      "Eng": "Not to worry - I'm sure <questGiver>'s <friend> will respawn somewhere safer.",
+      "Rus": "Не стоит волноваться. Наверняка <victimNpcType> возродится в более безопасном месте."
     }
   },
   {
@@ -188,7 +202,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Rescue mission"
+      "Eng": "Rescue mission",
+      "Rus": "Спасательная миссия"
     }
   },
   {
@@ -200,7 +215,7 @@
     },
     "Texts": {
       "Eng": "Return <victimNpcType> safely",
-      "Rus": "Верни <victimNpcType> в полной сохранности"
+      "Rus": "<victimNpcType> не долж<victimNpcType.pronoun.verb2Ending> пострадать"
     }
   },
   {
@@ -211,7 +226,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Saving <questGiver>'s <friend>"
+      "Eng": "Saving <questGiver>'s <friend>",
+      "Rus": "<victimNpcType> - спасение"
     }
   },
   {
@@ -226,7 +242,7 @@
     },
     "Texts": {
       "Eng": "Thanks for rescuing <victimNpcType> from those <enemy>. <appreciation>",
-      "Rus": "Спасибо за спасение <victimNpcType> от этих <enemy>. <appreciation>"
+      "Rus": "<victimNpcType> спасен<victimNpcType.pronoun.verbEnding>, а <enemy> мертвы? <appreciation>"
     }
   },
   {
@@ -240,7 +256,7 @@
     },
     "Texts": {
       "Eng": "You found <victimNpcType>? Floran appreciatesss the help!",
-      "Rus": "Ты нашел <victimNpcType>? Флоран уважает помощщь!"
+      "Rus": "<victimNpcType> найден<victimNpcType.pronoun.verbEnding>? Флоран ценит твою помощь!"
     }
   },
   {
@@ -254,7 +270,7 @@
     },
     "Texts": {
       "Eng": "You found <victimNpcType>? Thank you! Though, Floran could have done it if Floran had weapons...",
-      "Rus": "Ты нашел <victimNpcType>? Сспасибо! Ну, если бы у Флорана было оружие, Флоран бы ссам это ссделал..."
+      "Rus": "<victimNpcType> найден<victimNpcType.pronoun.verbEnding>? Сспасибо! Но, если бы у Флорана было оружие, Флоран бы ссам это ссделал..."
     }
   },
   {
@@ -268,7 +284,7 @@
     },
     "Texts": {
       "Eng": "You rescued <victimNpcType>? <appreciation>",
-      "Rus": "Ты спас <victimNpcType>? <appreciation>"
+      "Rus": "<victimNpcType> спасен<victimNpcType.pronoun.verbEnding>? <appreciation>"
     }
   },
   {
@@ -282,7 +298,7 @@
     },
     "Texts": {
       "Eng": "You were able to rescue <victimNpcType>? <appreciation>",
-      "Rus": "Ты сумел спасти <victimNpcType>? <appreciation>"
+      "Rus": "<victimNpcType> спасен<victimNpcType.pronoun.verbEnding>? <appreciation>"
     }
   },
   {
@@ -305,7 +321,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Anxious. My <friend> has gone missing."
+      "Eng": "^cyan;Anxious. My <friend> has gone missing.",
+      "Rus": "^cyan;Тревожно. Мой <friend> пропал."
     }
   },
   {
@@ -316,7 +333,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Floran's <friendfloran> has gone misssing."
+      "Eng": "^cyan;Floran's <friendfloran> has gone misssing.",
+      "Rus": "^cyan;Флоран ищет, где его <friendfloran>."
     }
   },
   {
@@ -327,7 +345,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Floran's <friendfloran> hasss disappeared..."
+      "Eng": "^cyan;Floran's <friendfloran> hasss disappeared...",
+      "Rus": "^cyan;Флоран ищет, куда делся его <friendfloran>."
     }
   },
   {
@@ -338,7 +357,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;I'm worried about my <friend> <victimNpcType>."
+      "Eng": "^cyan;I'm worried about my <friend> <victimNpcType>.",
+      "Rus": "^cyan;Мой <friend> <victimNpcType> пропал<victimNpcType.pronoun.verbEnding>."
     }
   },
   {
@@ -349,7 +369,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;My <friend> has gone missing."
+      "Eng": "^cyan;My <friend> has gone missing.",
+      "Rus": "^cyan;Мой <friend> пропал."
     }
   },
   {
@@ -360,7 +381,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Upset. I'm worried about my <friend> <victimNpcType>."
+      "Eng": "^cyan;Upset. I'm worried about my <friend> <victimNpcType>.",
+      "Rus": "^cyan;Расстроенно. Мой <friend> <victimNpcType> пропал<victimNpcType.pronoun.verbEnding>."
     }
   },
   {
@@ -371,7 +393,8 @@
       ]
     },
     "Texts": {
-      "Eng": "accosted"
+      "Eng": "accosted",
+      "Rus": "<victimNpcType.pronoun.reflexive> взяли в плен"
     }
   },
   {
@@ -383,7 +406,8 @@
       ]
     },
     "Texts": {
-      "Eng": "alpacas"
+      "Eng": "alpacas",
+      "Rus": "альпак"
     }
   },
   {
@@ -394,7 +418,8 @@
       ]
     },
     "Texts": {
-      "Eng": "bird watching"
+      "Eng": "bird watching",
+      "Rus": "наблюдал<questGiver.pronoun.verbEnding> за птицами"
     }
   },
   {
@@ -405,7 +430,8 @@
       ]
     },
     "Texts": {
-      "Eng": "bond over our appreciation for <activity3>"
+      "Eng": "bond over our appreciation for <activity3>",
+      "Rus": "пообсуждать <activity3> и прочие вещи, что нас сближают"
     }
   },
   {
@@ -416,7 +442,8 @@
       ]
     },
     "Texts": {
-      "Eng": "book"
+      "Eng": "book",
+      "Rus": "книгу"
     }
   },
   {
@@ -427,7 +454,8 @@
       ]
     },
     "Texts": {
-      "Eng": "brainstorm ideas for a <activity2>"
+      "Eng": "brainstorm ideas for a <activity2>",
+      "Rus": "обсудить планы про <activity2>"
     }
   },
   {
@@ -438,7 +466,8 @@
       ]
     },
     "Texts": {
-      "Eng": "bug catching"
+      "Eng": "bug catching",
+      "Rus": "ловил<questGiver.pronoun.verbEnding> жуков"
     }
   },
   {
@@ -449,7 +478,8 @@
       ]
     },
     "Texts": {
-      "Eng": "captured"
+      "Eng": "captured",
+      "Rus": "<victimNpcType.pronoun.reflexive> схватили"
     }
   },
   {
@@ -460,7 +490,8 @@
       ]
     },
     "Texts": {
-      "Eng": "catch up"
+      "Eng": "catch up",
+      "Rus": "поболтать"
     }
   },
   {
@@ -471,7 +502,8 @@
       ]
     },
     "Texts": {
-      "Eng": "catching up"
+      "Eng": "catching up",
+      "Rus": "присутствовал<questGiver.pronoun.verbEnding> на встрече"
     }
   },
   {
@@ -482,7 +514,8 @@
       ]
     },
     "Texts": {
-      "Eng": "chatting"
+      "Eng": "chatting",
+      "Rus": "беседовал<questGiver.pronoun.verbEnding>"
     }
   },
   {
@@ -493,7 +526,8 @@
       ]
     },
     "Texts": {
-      "Eng": "climbing"
+      "Eng": "climbing",
+      "Rus": "бродил<questGiver.pronoun.verbEnding>"
     }
   },
   {
@@ -504,7 +538,8 @@
       ]
     },
     "Texts": {
-      "Eng": "debating"
+      "Eng": "debating",
+      "Rus": "спорил<questGiver.pronoun.verbEnding>"
     }
   },
   {
@@ -515,7 +550,8 @@
       ]
     },
     "Texts": {
-      "Eng": "discuss our dreams"
+      "Eng": "discuss our dreams",
+      "Rus": "обсудить наши сны"
     }
   },
   {
@@ -526,7 +562,8 @@
       ]
     },
     "Texts": {
-      "Eng": "discuss out love for <activity3>"
+      "Eng": "discuss out love for <activity3>",
+      "Rus": "обсудить <activity3> и нашу любовь к этому"
     }
   },
   {
@@ -537,7 +574,8 @@
       ]
     },
     "Texts": {
-      "Eng": "exercising"
+      "Eng": "exercising",
+      "Rus": "упражнял<questGiver.pronoun.verb3Ending>"
     }
   },
   {
@@ -548,7 +586,8 @@
       ]
     },
     "Texts": {
-      "Eng": "film"
+      "Eng": "film",
+      "Rus": "фильм"
     }
   },
   {
@@ -559,7 +598,8 @@
       ]
     },
     "Texts": {
-      "Eng": "foraging"
+      "Eng": "foraging",
+      "Rus": "собирал<questGiver.pronoun.verbEnding> ягоды"
     }
   },
   {
@@ -570,7 +610,8 @@
       ]
     },
     "Texts": {
-      "Eng": "hang out"
+      "Eng": "hang out",
+      "Rus": "побыть вместе"
     }
   },
   {
@@ -582,7 +623,8 @@
       ]
     },
     "Texts": {
-      "Eng": "hats"
+      "Eng": "hats",
+      "Rus": "шляпы"
     }
   },
   {
@@ -593,7 +635,8 @@
       ]
     },
     "Texts": {
-      "Eng": "have something to do with it"
+      "Eng": "have something to do with it",
+      "Rus": "тут постарались"
     }
   },
   {
@@ -604,7 +647,8 @@
       ]
     },
     "Texts": {
-      "Eng": "have sssomething to do with it"
+      "Eng": "have sssomething to do with it",
+      "Rus": "постаралиссь"
     }
   },
   {
@@ -615,7 +659,8 @@
       ]
     },
     "Texts": {
-      "Eng": "hunting partner"
+      "Eng": "hunting partner",
+      "Rus": "напарник по охоте"
     }
   },
   {
@@ -626,7 +671,8 @@
       ]
     },
     "Texts": {
-      "Eng": "hurt"
+      "Eng": "hurt",
+      "Rus": "<victimNpcType.pronoun.reflexive> сцапали"
     }
   },
   {
@@ -638,7 +684,8 @@
       ]
     },
     "Texts": {
-      "Eng": "interpretive dance"
+      "Eng": "interpretive dance",
+      "Rus": "толкование танцев"
     }
   },
   {
@@ -649,7 +696,8 @@
       ]
     },
     "Texts": {
-      "Eng": "kidnapped"
+      "Eng": "kidnapped",
+      "Rus": "<victimNpcType.pronoun.reflexive> похитили"
     }
   },
   {
@@ -660,7 +708,8 @@
       ]
     },
     "Texts": {
-      "Eng": "learn to craft things together"
+      "Eng": "learn to craft things together",
+      "Rus": "немного поремесленничать"
     }
   },
   {
@@ -672,7 +721,8 @@
       ]
     },
     "Texts": {
-      "Eng": "lemons"
+      "Eng": "lemons",
+      "Rus": "лимоны"
     }
   },
   {
@@ -684,7 +734,8 @@
       ]
     },
     "Texts": {
-      "Eng": "long walks"
+      "Eng": "long walks",
+      "Rus": "прогулки"
     }
   },
   {
@@ -695,7 +746,8 @@
       ]
     },
     "Texts": {
-      "Eng": "looking for a place to swim"
+      "Eng": "looking for a place to swim",
+      "Rus": "искал<questGiver.pronoun.verbEnding> место поплавать"
     }
   },
   {
@@ -706,7 +758,8 @@
       ]
     },
     "Texts": {
-      "Eng": "meal"
+      "Eng": "meal",
+      "Rus": "еду"
     }
   },
   {
@@ -718,7 +771,8 @@
       ]
     },
     "Texts": {
-      "Eng": "might be involved"
+      "Eng": "might be involved",
+      "Rus": "приложили свою руку"
     }
   },
   {
@@ -729,7 +783,8 @@
       ]
     },
     "Texts": {
-      "Eng": "musical"
+      "Eng": "musical",
+      "Rus": "мюзикл"
     }
   },
   {
@@ -740,7 +795,8 @@
       ]
     },
     "Texts": {
-      "Eng": "nerd out over our forbidden love of <activity3>"
+      "Eng": "nerd out over our forbidden love of <activity3>",
+      "Rus": "вспомнить, как мы раньше тащились от тем про <activity3>"
     }
   },
   {
@@ -751,7 +807,8 @@
       ]
     },
     "Texts": {
-      "Eng": "play cards"
+      "Eng": "play cards",
+      "Rus": "сыграть в карты"
     }
   },
   {
@@ -763,7 +820,8 @@
       ]
     },
     "Texts": {
-      "Eng": "pop culture references"
+      "Eng": "pop culture references",
+      "Rus": "отсылки к поп-культуре"
     }
   },
   {
@@ -774,7 +832,8 @@
       ]
     },
     "Texts": {
-      "Eng": "practice our comedy routine"
+      "Eng": "practice our comedy routine",
+      "Rus": "посмеяться над неудачами"
     }
   },
   {
@@ -785,7 +844,8 @@
       ]
     },
     "Texts": {
-      "Eng": "running"
+      "Eng": "running",
+      "Rus": "бегал<questGiver.pronoun.verbEnding>"
     }
   },
   {
@@ -797,7 +857,8 @@
       ]
     },
     "Texts": {
-      "Eng": "shoes"
+      "Eng": "shoes",
+      "Rus": "обувь"
     }
   },
   {
@@ -808,7 +869,8 @@
       ]
     },
     "Texts": {
-      "Eng": "shown"
+      "Eng": "shown",
+      "Rus": "показал<victimNpcType.pronoun.verb3Ending>"
     }
   },
   {
@@ -819,7 +881,8 @@
       ]
     },
     "Texts": {
-      "Eng": "singing"
+      "Eng": "singing",
+      "Rus": "пел<questGiver.pronoun.verbEnding>"
     }
   },
   {
@@ -830,7 +893,8 @@
       ]
     },
     "Texts": {
-      "Eng": "some ssspear practice"
+      "Eng": "some ssspear practice",
+      "Rus": "попрактиковатьсся с копьём"
     }
   },
   {
@@ -842,7 +906,8 @@
       ]
     },
     "Texts": {
-      "Eng": "space travel"
+      "Eng": "space travel",
+      "Rus": "космические путешествия"
     }
   },
   {
@@ -853,7 +918,8 @@
       ]
     },
     "Texts": {
-      "Eng": "sssparring partner"
+      "Eng": "sssparring partner",
+      "Rus": "сспарринг-партнёр"
     }
   },
   {
@@ -864,7 +930,8 @@
       ]
     },
     "Texts": {
-      "Eng": "stand around awkwardly together"
+      "Eng": "stand around awkwardly together",
+      "Rus": "смущённо смотреть друг на друга"
     }
   },
   {
@@ -875,7 +942,8 @@
       ]
     },
     "Texts": {
-      "Eng": "swordfight"
+      "Eng": "swordfight",
+      "Rus": "пофехтовать"
     }
   },
   {
@@ -886,7 +954,8 @@
       ]
     },
     "Texts": {
-      "Eng": "talk about a <activity2> we like"
+      "Eng": "talk about a <activity2> we like",
+      "Rus": "поговорить про <activity2>"
     }
   },
   {
@@ -897,7 +966,8 @@
       ]
     },
     "Texts": {
-      "Eng": "talk about our feelings"
+      "Eng": "talk about our feelings",
+      "Rus": "поговорить о наших чувствах"
     }
   },
   {
@@ -908,7 +978,8 @@
       ]
     },
     "Texts": {
-      "Eng": "talking"
+      "Eng": "talking",
+      "Rus": "болтал<questGiver.pronoun.verbEnding>"
     }
   },
   {
@@ -919,7 +990,8 @@
       ]
     },
     "Texts": {
-      "Eng": "training partner"
+      "Eng": "training partner",
+      "Rus": "напарник по тренировкам"
     }
   },
   {
@@ -930,7 +1002,8 @@
       ]
     },
     "Texts": {
-      "Eng": "treasure hunting"
+      "Eng": "treasure hunting",
+      "Rus": "искал<questGiver.pronoun.verbEnding> сокровища"
     }
   },
   {
@@ -942,7 +1015,8 @@
       ]
     },
     "Texts": {
-      "Eng": "trees that look like people"
+      "Eng": "trees that look like people",
+      "Rus": "человекоподобные деревья"
     }
   },
   {
@@ -953,7 +1027,8 @@
       ]
     },
     "Texts": {
-      "Eng": "trying to build a treehouse"
+      "Eng": "trying to build a treehouse",
+      "Rus": "пытал<questGiver.pronoun.verb3Ending> построить дом на дереве"
     }
   },
   {
@@ -964,7 +1039,8 @@
       ]
     },
     "Texts": {
-      "Eng": "turned"
+      "Eng": "turned",
+      "Rus": "явил<victimNpcType.pronoun.verb3Ending>"
     }
   },
   {
@@ -975,7 +1051,8 @@
       ]
     },
     "Texts": {
-      "Eng": "victim"
+      "Eng": "victim",
+      "Rus": "victim"
     }
   },
   {
@@ -986,7 +1063,8 @@
       ]
     },
     "Texts": {
-      "Eng": "we were separated"
+      "Eng": "we were separated",
+      "Rus": "мы разделились"
     }
   },
   {
@@ -998,7 +1076,8 @@
       ]
     },
     "Texts": {
-      "Eng": "weird art"
+      "Eng": "weird art",
+      "Rus": "странное искусство"
     }
   }
 ]
