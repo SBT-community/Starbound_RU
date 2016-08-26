@@ -32,7 +32,7 @@
     },
     "Texts": {
       "Eng": "Floran hopesss you like thiss <tradedMonster>!",
-      "Rus": ""
+      "Rus": "Флоран надеется, что тебе понравится <tradedMonster>!"
     }
   },
   {
@@ -56,7 +56,7 @@
     },
     "Texts": {
       "Eng": "Here, you're now the proud owner of your own pet <tradedMonster>!",
-      "Rus": ""
+      "Rus": "Вот <tradedMonster>. Поздравлю, теперь ты его гордый обладатель !"
     }
   },
   {
@@ -68,7 +68,7 @@
     },
     "Texts": {
       "Eng": "Here, you've earned this <tradedMonster>. Treat it well!",
-      "Rus": ""
+      "Rus": "Вот, в обмен <tradedMonster>. Заботься о нём как следует!"
     }
   },
   {
@@ -80,7 +80,7 @@
     },
     "Texts": {
       "Eng": "I heard there was a group of them near there",
-      "Rus": ""
+      "Rus": "я слышал<questGiver.pronoun.verbEnding>, что они там так и шныряют"
     }
   },
   {
@@ -92,7 +92,7 @@
     },
     "Texts": {
       "Eng": "I hope this <tradedMonster> serves you well!",
-      "Rus": ""
+      "Rus": "Надеюсь, что <tradedMonster> тебе хорошо послужит!"
     }
   },
   {
@@ -104,7 +104,7 @@
     },
     "Texts": {
       "Eng": "I saw a few over that way",
-      "Rus": ""
+      "Rus": "я видел<questGiver.pronoun.verbEnding> там парочку"
     }
   },
   {
@@ -116,7 +116,7 @@
     },
     "Texts": {
       "Eng": "I tried to capture myself a pet ^orange;<monster>^white; <earlier>, but missed and caught this <tradedMonster> instead. You <request> - ^green;can you take this ^orange;Capture Pod^green; and catch me a <monster>^white;? I'll give you my <tradedMonster> in return.",
-      "Rus": ""
+      "Rus": "Я пытал<questGiver.pronoun.verb3Ending> <earlier> поймать питомца, но ^orange;<monster>^white; ускользнул, а в капсулу случайно попал только <tradedMonster>. <request> - ^green;так что не мог бы ты изловить его в эту ^orange;капсулу захвата^white;? Обменяемся монстрами: твой <monster> на мой <tradedMonster>. Если ты не знаешь, где начать поиски, то <guide1> ^orange;<spawnPoint>^white; <spawnPoint.direction> - <guide2>."
     }
   },
   {
@@ -128,7 +128,7 @@
     },
     "Texts": {
       "Eng": "I tried to capture myself a pet ^orange;<monster>^white; <earlier>, but missed and caught this <tradedMonster> instead. You <request> - ^green;can you take this ^orange;Capture Pod^green; and catch me a <monster>^white;? I'll give you my <tradedMonster> in return.\nIf you're not sure where to start, <guide1> ^orange;<spawnPoint>^white;<spawnPoint.direction> - <guide2>.",
-      "Rus": ""
+      "Rus": "Я пытал<questGiver.pronoun.verb3Ending> <earlier> поймать питомца, но ^orange;<monster>^white; ускользнул, а в капсулу случайно попал только <tradedMonster>. <request> - ^green;так что не мог бы ты изловить его в эту ^orange;капсулу захвата^white;? Обменяемся монстрами: твой <monster> на мой <tradedMonster>. Если ты не знаешь, где начать поиски, то <guide1> ^orange;<spawnPoint>^white; <spawnPoint.direction> - <guide2>."
     }
   },
   {
@@ -140,7 +140,7 @@
     },
     "Texts": {
       "Eng": "I'm sure this <tradedMonster> will be happier with you!",
-      "Rus": ""
+      "Rus": "Уверен, что <tradedMonster> будет с тобой счастлив!"
     }
   },
   {
@@ -152,7 +152,7 @@
     },
     "Texts": {
       "Eng": "Oh, you managed to find a <monster>?",
-      "Rus": ""
+      "Rus": "О, <monster> был тобой пойман?"
     }
   },
   {
@@ -164,7 +164,7 @@
     },
     "Texts": {
       "Eng": "Pet <monster>",
-      "Rus": ""
+      "Rus": "<monster> - поимка"
     }
   },
   {
@@ -200,7 +200,7 @@
     },
     "Texts": {
       "Eng": "Thisss <tradedMonster> can be your new hunting partner!",
-      "Rus": ""
+      "Rus": "Теперь <tradedMonster> станет твоей гончей!"
     }
   },
   {
@@ -212,7 +212,7 @@
     },
     "Texts": {
       "Eng": "You brought Floran a <monster>? <floranappreciation>",
-      "Rus": ""
+      "Rus": "Ты принёсс монстра? <monster> здесь? <floranappreciation>"
     }
   },
   {
@@ -224,7 +224,7 @@
     },
     "Texts": {
       "Eng": "You brought me a <monster>?! Thank you!",
-      "Rus": ""
+      "Rus": "Ты принёс питомца? <monster> здесь? Спасибо!"
     }
   },
   {
@@ -236,7 +236,7 @@
     },
     "Texts": {
       "Eng": "You brought me my very own <monster>?! Thanks!",
-      "Rus": ""
+      "Rus": "Теперь <monster> будет моим?! Спасибо!"
     }
   },
   {
@@ -248,7 +248,7 @@
     },
     "Texts": {
       "Eng": "You managed to catch me a <monster>? Wonderful!",
-      "Rus": ""
+      "Rus": "Как там <monster>? Тебе удалось его изловить? Прекрасно!"
     }
   },
   {
@@ -260,7 +260,7 @@
     },
     "Texts": {
       "Eng": "^cyan;Discontent. I want a <monster> to call my own.",
-      "Rus": ""
+      "Rus": "^cyan;Досадно. Я бы хотел<questGiver.pronoun.verbEnding>, чтобы у меня был <monster>."
     }
   },
   {
@@ -272,7 +272,7 @@
     },
     "Texts": {
       "Eng": "^cyan;Floran wants a <monster>, and needss help getting one.",
-      "Rus": ""
+      "Rus": "^cyan;Флоран хочет, чтобы у него был <monster>."
     }
   },
   {
@@ -284,7 +284,7 @@
     },
     "Texts": {
       "Eng": "^cyan;I want a <monster> to keep me company.",
-      "Rus": ""
+      "Rus": "^cyan;Я хочу, чтобы у меня был ручной <monster>."
     }
   },
   {
@@ -296,7 +296,7 @@
     },
     "Texts": {
       "Eng": "^cyan;If I had my own <monster>, I'd be so happy!",
-      "Rus": ""
+      "Rus": "^cyan;Если у меня появится ручной <monster>, я буду так счастлив<questGiver.pronoun.verbEnding>!"
     }
   },
   {
@@ -307,7 +307,8 @@
       ]
     },
     "Texts": {
-      "Eng": "am honestly pretty weirded out by it"
+      "Eng": "am honestly pretty weirded out by it",
+      "Rus": "меня от него аж трясёт"
     }
   },
   {
@@ -318,7 +319,8 @@
       ]
     },
     "Texts": {
-      "Eng": "are probably better at this than me"
+      "Eng": "are probably better at this than me",
+      "Rus": "Ты наверное лучше меня ловишь зверей"
     }
   },
   {
@@ -329,7 +331,8 @@
       ]
     },
     "Texts": {
-      "Eng": "don't know what to feed it"
+      "Eng": "don't know what to feed it",
+      "Rus": "я не знаю, чем он питается"
     }
   },
   {
@@ -340,7 +343,8 @@
       ]
     },
     "Texts": {
-      "Eng": "don't like the creepy looks it keeps giving me"
+      "Eng": "don't like the creepy looks it keeps giving me",
+      "Rus": "мне не нравится, как он на меня смотрит"
     }
   },
   {
@@ -351,7 +355,8 @@
       ]
     },
     "Texts": {
-      "Eng": "don't think it suits me very much"
+      "Eng": "don't think it suits me very much",
+      "Rus": "мне кажется, он мне совсем не идёт"
     }
   },
   {
@@ -362,7 +367,8 @@
       ]
     },
     "Texts": {
-      "Eng": "don't think it's the pet for me"
+      "Eng": "don't think it's the pet for me",
+      "Rus": "мне не к лицу такого рода питомцы"
     }
   },
   {
@@ -373,7 +379,8 @@
       ]
     },
     "Texts": {
-      "Eng": "find it kind of gross"
+      "Eng": "find it kind of gross",
+      "Rus": "он уродливый, как не знаю что"
     }
   },
   {
@@ -384,7 +391,8 @@
       ]
     },
     "Texts": {
-      "Eng": "have a mortal fear of them"
+      "Eng": "have a mortal fear of them",
+      "Rus": "я без содрогания на него взглянуть не могу"
     }
   },
   {
@@ -395,7 +403,8 @@
       ]
     },
     "Texts": {
-      "Eng": "have a new beassst friend"
+      "Eng": "have a new beassst friend",
+      "Rus": "дружил с ним"
     }
   },
   {
@@ -406,7 +415,8 @@
       ]
     },
     "Texts": {
-      "Eng": "hunt alongssside it"
+      "Eng": "hunt alongssside it",
+      "Rus": "мог с ним охотиться"
     }
   },
   {
@@ -417,7 +427,8 @@
       ]
     },
     "Texts": {
-      "Eng": "look like you have better aim than me"
+      "Eng": "look like you have better aim than me",
+      "Rus": "Ты похоже более меткий"
     }
   },
   {
@@ -428,7 +439,8 @@
       ]
     },
     "Texts": {
-      "Eng": "look like you have the skills I need"
+      "Eng": "look like you have the skills I need",
+      "Rus": "Ты похоже знаешь толк в охоте"
     }
   },
   {
@@ -439,7 +451,8 @@
       ]
     },
     "Texts": {
-      "Eng": "might be able to help me catch one"
+      "Eng": "might be able to help me catch one",
+      "Rus": "Может быть ты легче провернёшь это"
     }
   },
   {
@@ -450,7 +463,8 @@
       ]
     },
     "Texts": {
-      "Eng": "might be skilled enough to help"
+      "Eng": "might be skilled enough to help",
+      "Rus": "Ты похоже умелый ловец"
     }
   },
   {
@@ -461,7 +475,8 @@
       ]
     },
     "Texts": {
-      "Eng": "someone told me there were some around there"
+      "Eng": "someone told me there were some around there",
+      "Rus": "говорят, что у них там лежбище"
     }
   },
   {
@@ -472,7 +487,8 @@
       ]
     },
     "Texts": {
-      "Eng": "teach it to hunt"
+      "Eng": "teach it to hunt",
+      "Rus": "натаскал его загонять дичь"
     }
   },
   {
@@ -483,7 +499,8 @@
       ]
     },
     "Texts": {
-      "Eng": "teach it tricksss"
+      "Eng": "teach it tricksss",
+      "Rus": "научил бы его трюкам"
     }
   },
   {
@@ -494,7 +511,8 @@
       ]
     },
     "Texts": {
-      "Eng": "think it smells weird"
+      "Eng": "think it smells weird",
+      "Rus": "он пахнет как-то странно"
     }
   },
   {
@@ -505,7 +523,8 @@
       ]
     },
     "Texts": {
-      "Eng": "why not look around the"
+      "Eng": "why not look around the",
+      "Rus": "почему бы не начать с"
     }
   },
   {
@@ -516,7 +535,8 @@
       ]
     },
     "Texts": {
-      "Eng": "you could try looking around the"
+      "Eng": "you could try looking around the",
+      "Rus": "можешь попробовать побродить у"
     }
   },
   {
@@ -527,7 +547,8 @@
       ]
     },
     "Texts": {
-      "Eng": "you should try looking near the"
+      "Eng": "you should try looking near the",
+      "Rus": "для начала стоит осмотреться около"
     }
   }
 ]
