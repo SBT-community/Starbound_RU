@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Кактус! Легко растить, легко ухаживать."
+    ],
     "Files": {
       "objects/generic/cactiflowerpot/cactiflowerpot.object": [
         "/humanDescription"
@@ -15,7 +17,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Это растение выглядит опасно. Лучше не прикасаться."
+    ],
     "Files": {
       "objects/generic/cactiflowerpot/cactiflowerpot.object": [
         "/hylotlDescription"
@@ -30,7 +34,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Кактус в горшке. Не кажется привлекательным."
+    ],
     "Files": {
       "objects/generic/cactiflowerpot/cactiflowerpot.object": [
         "/apexDescription"
@@ -45,7 +51,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Колючее растение с маленьким красивым цветком."
+    ],
     "Files": {
       "objects/generic/cactiflowerpot/cactiflowerpot.object": [
         "/avianDescription"
@@ -56,11 +64,13 @@
     },
     "Texts": {
       "Eng": "A thorny plant with a small colourful flower.",
-      "Rus": "Колючее растение с маленьким красивым цветком."
+      "Rus": "Колючее растение с маленьким ярким цветочком."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Экзотического вида кактус в цветочном горшке."
+    ],
     "Files": {
       "objects/generic/cactiflowerpot/cactiflowerpot.object": [
         "/description"
@@ -75,7 +85,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Такой, как этот кактус почти не требует воды для поддержания жизни."
+    ],
     "Files": {
       "objects/generic/cactiflowerpot/cactiflowerpot.object": [
         "/glitchDescription/glitchEmotedText"
@@ -90,7 +102,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Не могу объяснить, но мне очень нравится этот кактус."
+    ],
     "Files": {
       "objects/generic/cactiflowerpot/cactiflowerpot.object": [
         "/novakidDescription"
@@ -105,7 +119,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Сссуккулент имеет сссамозащиту."
+    ],
     "Files": {
       "objects/generic/cactiflowerpot/cactiflowerpot.object": [
         "/floranDescription"

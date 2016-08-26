@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Отменить"
+    ],
     "Files": {
       "interface/windowconfig/questlog.config": [
         "/paneLayout/btnAbandon/caption"

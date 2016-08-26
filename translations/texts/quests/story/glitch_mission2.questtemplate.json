@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Отыщи ^orange;артефакт^reset; в ^orange;старом поместье Глитчей^reset;"
+    ],
     "Files": {
       "quests/story/glitch_mission2.questtemplate": [
         "/scriptConfig/descriptions/artifact"
@@ -24,7 +26,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я получила координаты^orange;Ставки Барона^reset;. ^green;Используй корабельный компьютер^reset;, чтобы попасть на место."
+    ],
     "Files": {
       "quests/story/glitch_mission2.questtemplate": [
         "/scriptConfig/missionRadioMessage/text"
@@ -48,7 +52,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "^orange;Артефакт Глитчей^reset;под охраной, мягко говоря, немного странного Глитча^green;Мог бы ты поговорить с ним^reset;, дорогуша?"
+    ],
     "Files": {
       "quests/story/glitch_mission2.questtemplate": [
         "/text"

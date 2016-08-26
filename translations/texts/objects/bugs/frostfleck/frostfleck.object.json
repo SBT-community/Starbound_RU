@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Этикетка гласит \"Легко случайно перепутать этого жука со снежинкой.\""
+    ],
     "Files": {
       "objects/bugs/frostfleck/frostfleck.object": [
         "/description"

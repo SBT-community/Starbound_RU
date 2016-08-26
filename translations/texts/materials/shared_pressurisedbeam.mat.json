@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Поддерживающая балка сделана для герметизации."
+    ],
     "Files": {
       "items/materials/pressurisedbeam.matitem": [
         "/description"
@@ -15,7 +17,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Прессованная балка "
+    ],
     "Files": {
       "items/materials/pressurisedbeam.matitem": [
         "/shortdescription"
@@ -30,7 +34,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Прочная металличессская балка."
+    ],
     "Files": {
       "items/materials/pressurisedbeam.matitem": [
         "/florandescription"
@@ -41,11 +47,13 @@
     },
     "Texts": {
       "Eng": "Sstrong metal beam.",
-      "Rus": "Прочная металличессская балка."
+      "Rus": "Прочная металлическая балка."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Эта балка специально разработана для герметизации."
+    ],
     "Files": {
       "items/materials/pressurisedbeam.matitem": [
         "/glitchdescription/glitchEmotedText"

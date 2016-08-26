@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Нападение случилось. Без оружия. Кто-нибудь помоги!"
+    ],
     "Files": {
       "dialog/fenerox.config": [
         "/helpthem/default/default/1"

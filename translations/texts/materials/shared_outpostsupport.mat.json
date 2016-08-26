@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Такие балки обычно используются при строительстве форпостов."
+    ],
     "Files": {
       "items/materials/outpostsupport.matitem": [
         "/glitchdescription/glitchEmotedText"
@@ -15,7 +17,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Усиленные поддерживающие опоры."
+    ],
     "Files": {
       "items/materials/outpostsupport.matitem": [
         "/description"
@@ -30,7 +34,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Как по мне, так это большая металлическая бандурина."
+    ],
     "Files": {
       "items/materials/outpostsupport.matitem": [
         "/novakiddescription"
@@ -45,7 +51,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Опора форпоста",
+      "Опоры форпоста"
+    ],
     "Files": {
       "items/materials/outpostsupport.matitem": [
         "/shortdescription"
@@ -56,7 +65,7 @@
     },
     "Texts": {
       "Eng": "Outpost Support Beam",
-      "Rus": "Опора форпоста"
+      "Rus": "Опорная балка Форпоста"
     }
   },
   {

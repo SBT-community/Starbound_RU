@@ -931,7 +931,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я остановлюсь здесь, капитан."
+    ],
     "Files": {
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/unfollow/default/default/2"

@@ -24,7 +24,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Музыка Большого Эйпа"
+    ],
     "Files": {
       "objects/apex/apexpainting3/apexpainting3.object": [
         "/shortdescription"
@@ -32,11 +34,13 @@
     },
     "Texts": {
       "Eng": "Big Ape Record",
-      "Rus": "Музыка Большого Эйпа"
+      "Rus": "Запись Большого Эйпа"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Чёрный круг."
+    ],
     "Files": {
       "objects/apex/apexpainting3/apexpainting3.object": [
         "/floranDescription"
@@ -44,7 +48,7 @@
     },
     "Texts": {
       "Eng": "Black shiny circle.",
-      "Rus": "Чёрный круг."
+      "Rus": "Чёрный блестящий круг."
     }
   },
   {
@@ -79,7 +83,8 @@
       ]
     },
     "Texts": {
-      "Eng": "There are grooves in the disc."
+      "Eng": "There are grooves in the disc.",
+      "Rus": "В этом диске какие-то канавки."
     }
   },
   {
@@ -90,7 +95,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This disc has a subtle pattern."
+      "Eng": "This disc has a subtle pattern.",
+      "Rus": "На этом диске едва различимый узор."
     }
   },
   {

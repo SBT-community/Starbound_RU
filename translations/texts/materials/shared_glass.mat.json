@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флоран красиво сссмотрится в сссстекле."
+    ],
     "Files": {
       "items/materials/glass.matitem": [
         "/florandescription"
@@ -30,7 +32,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я могу ясно видеть через это прозрачное стелко."
+    ],
     "Files": {
       "items/materials/glass.matitem": [
         "/glitchdescription/glitchEmotedText"

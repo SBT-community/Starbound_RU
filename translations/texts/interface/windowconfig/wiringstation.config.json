@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Электромонтажная Станция"
+    ],
     "Files": {
       "interface/windowconfig/wiringstation.config": [
         "/paneLayout/windowtitle/title"

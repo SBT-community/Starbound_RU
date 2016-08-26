@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Твёрдый металлический стол."
+    ],
     "Files": {
       "objects/human/bunkertable2/bunkertable2.object": [
         "/description"
@@ -20,7 +22,7 @@
     },
     "Texts": {
       "Eng": "A solid metal table.",
-      "Rus": "Твёрдый металлический стол."
+      "Rus": "Прочный металлический стол."
     }
   },
   {
@@ -32,7 +34,7 @@
     },
     "Texts": {
       "Eng": "I ain't a professional table judge, but this is a rather borin' table.",
-      "Rus": ""
+      "Rus": "Я, канешн, не профессионал в области судейства столов, но энтот - реально скучный."
     }
   },
   {
@@ -48,7 +50,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Прочный металлический стол"
+    ],
     "Files": {
       "objects/human/bunkertable2/bunkertable2.object": [
         "/shortdescription"
@@ -72,7 +76,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Это третий наиболее стандартный стол который я когда-либо видел."
+    ],
     "Files": {
       "objects/human/bunkertable2/bunkertable2.object": [
         "/humanDescription"

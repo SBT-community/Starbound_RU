@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Статическая Ячейка"
+    ],
     "Files": {
       "items/generic/crafting/monsterdrops/staticcell.item": [
         "/shortdescription"

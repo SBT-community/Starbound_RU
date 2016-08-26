@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Земляной блок"
+    ],
     "Files": {
       "items/materials/dirt.matitem": [
         "/shortdescription"
@@ -15,7 +17,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Грязно выглядящая грязь."
+    ],
     "Files": {
       "items/materials/dirt.matitem": [
         "/novakiddescription"
@@ -48,7 +52,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Грязная грязь!"
+    ],
     "Files": {
       "items/materials/dirt.matitem": [
         "/florandescription"

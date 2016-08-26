@@ -1,6 +1,7 @@
 [
   {
     "DeniedAlternatives": [
+      "<craftedItems> пригодятся мне. Флоран благодарит тебя за твою работу.",
       "<crafteditems> очень полезная вещщь. Флоран ссскажет ссспасибо, если ты принесешшь это."
     ],
     "Files": {
@@ -15,7 +16,8 @@
   },
   {
     "DeniedAlternatives": [
-      "Флорану нужна ^orange;<crafteditems>.^green; Это может быть сделано из ^orange;<ingredients>. ^white;Можешь помочь?"
+      "Флорану нужна ^orange;<crafteditems>.^green; Это может быть сделано из ^orange;<ingredients>. ^white;Можешь помочь?",
+      "Флорану нужны ^orange;<craftedItems>.^green; Это может быть сделано из ^orange;<ingredients>.  ^white;Можешь помочь?"
     ],
     "Files": {
       "quests/generated/templates/craft.questtemplate": [
@@ -43,7 +45,8 @@
   },
   {
     "DeniedAlternatives": [
-      "Следующее что вам нужно это ^green;собрать^orange;<crafteditems>^white;. У вас есть возможность ^green;использовать ^orange;<ingredients>^white; что вы собрали ранее."
+      "Следующее что вам нужно это ^green;собрать^orange;<crafteditems>^white;. У вас есть возможность ^green;использовать ^orange;<ingredients>^white; что вы собрали ранее.",
+      "Следующее, что вам нужно это ^green;собрать^orange;<craftedItems>^white;. Вы можете ^green;использовать ^orange;<ingredients>^white; что вы собрали ранее."
     ],
     "Files": {
       "quests/generated/templates/craft.questtemplate": [
@@ -71,7 +74,8 @@
   },
   {
     "DeniedAlternatives": [
-      "Теперь у тебя есть все ингридиенты для создания. ^green;Флорану нужна ^orange;<crafteditems>."
+      "Теперь у тебя есть все ингридиенты для создания. ^green;Флорану нужна ^orange;<crafteditems>.",
+      "Теперь у тебя есть все ингридиенты. ^green;Сделай Флорану ^orange;<craftedItems>."
     ],
     "Files": {
       "quests/generated/templates/craft.questtemplate": [
@@ -84,7 +88,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Умело сссоздано, <player>! Теперь у Флорана есть другая просьба."
+    ],
     "Files": {
       "quests/generated/templates/craft.questtemplate": [
         "/scriptConfig/generatedText/completionText/default/floran/0"
@@ -97,7 +103,8 @@
   },
   {
     "DeniedAlternatives": [
-      "Следующий шаг требует  ^green;соединения вместе ^orange;<crafteditems>^white;. Я бы сделал это сам, но ничего в этом не смыслю. Можете взять это на себе, у вас должно быть всё что нужно."
+      "Следующий шаг требует  ^green;соединения вместе ^orange;<crafteditems>^white;. Я бы сделал это сам, но ничего в этом не смыслю. Можете взять это на себе, у вас должно быть всё что нужно.",
+      "Следующий шаг требует ^green;соединения вместе ^orange;<craftedItems>^white;. Я бы сделал(а) это сам(а), но ничего в этом не смыслю. Можешь взять это на себя, у тебя должно быть всё что нужно."
     ],
     "Files": {
       "quests/generated/templates/craft.questtemplate": [
@@ -122,7 +129,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Вау, хорошо сконструировано! Спасибо тебе, это пригодится для моих планов."
+    ],
     "Files": {
       "quests/generated/templates/craft.questtemplate": [
         "/scriptConfig/generatedText/completionText/default/default/0"
@@ -134,7 +143,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ты сделал(а) это так легко! Подозреваю ты занимался(ась) этим раньше. С этим я наконец-то могу продвинуться вперед. Спасибо!"
+    ],
     "Files": {
       "quests/generated/templates/craft.questtemplate": [
         "/scriptConfig/generatedText/completionText/default/default/1"

@@ -10,7 +10,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran likessss pretty granite."
+      "Eng": "Floran likessss pretty granite.",
+      "Rus": "Флорану нравится прелестный гранит."
     }
   },
   {
@@ -24,7 +25,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Looks t'me like some basic granite."
+      "Eng": "Looks t'me like some basic granite.",
+      "Rus": "Як по мне, так это обычный гранит."
     }
   },
   {
@@ -42,7 +44,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Сложенные гранитные кирпичи."
+    ],
     "Files": {
       "items/materials/rock14.matitem": [
         "/description"

@@ -10,7 +10,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A layered roofing piece made outta straw."
+      "Eng": "A layered roofing piece made outta straw.",
+      "Rus": "Часть слоёв от этой вот кровли сделана из соломы."
     }
   },
   {
@@ -24,11 +25,14 @@
       ]
     },
     "Texts": {
-      "Eng": "Dry sstraw roofing."
+      "Eng": "Dry sstraw roofing.",
+      "Rus": "Сссухая сссоломенная кровля."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Соломенная крыша"
+    ],
     "Files": {
       "items/materials/thatch.matitem": [
         "/shortdescription"
@@ -53,7 +57,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This thatch reminds me of a more simple time."
+      "Eng": "This thatch reminds me of a more simple time.",
+      "Rus": "Эта соломенная крыша напоминает мне старые-добрые времена."
     }
   },
   {

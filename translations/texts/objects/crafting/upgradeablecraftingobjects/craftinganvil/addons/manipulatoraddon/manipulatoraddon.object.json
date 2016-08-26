@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Модуль добавляющий дополнительную высокотехнологичную броню и оружие в репликатор."
+    ],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/manipulatoraddon/manipulatoraddon.object": [
         "/description"
@@ -12,7 +14,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Как полезно, это добавит дополнительную высокотехнологичную броню и оружие в репликатор."
+    ],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/manipulatoraddon/manipulatoraddon.object": [
         "/apexDescription"
@@ -24,7 +28,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Полезный модуль, добавляющий дополнительную высокотехнологичную броню и оружие в репликатор."
+    ],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/manipulatoraddon/manipulatoraddon.object": [
         "/hylotlDescription"
@@ -36,7 +42,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Используя этот модуль можно добавить дополнительную высокотехнологичную броню и оружие в репликатор!"
+    ],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/manipulatoraddon/manipulatoraddon.object": [
         "/humanDescription"
@@ -48,7 +56,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Используя этот модуль можно добавить дополнительную высокотехнологичную броню и оружие в репликатор."
+    ],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/manipulatoraddon/manipulatoraddon.object": [
         "/glitchDescription/glitchEmotedText"
@@ -60,7 +70,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "^orange;Дополнение Манипулятора^white; "
+    ],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/manipulatoraddon/manipulatoraddon.object": [
         "/shortdescription"

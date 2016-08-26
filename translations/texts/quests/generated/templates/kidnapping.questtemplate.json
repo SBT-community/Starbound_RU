@@ -1,7 +1,8 @@
 [
   {
     "DeniedAlternatives": [
-      "<victim.pronoun.capitalsubject> и я - отличная команда!"
+      "<victim.pronoun.capitalsubject> и я - отличная команда!",
+      "<victim.pronoun.capitalsubject> и я очень благодарны!"
     ],
     "Files": {
       "quests/generated/templates/kidnapping.questtemplate": [
@@ -26,7 +27,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Друг Флорана по имени <friendfloran> ^orange;<victimNpcType>^white; должен был быть здессь для <activityfloran> <earlier>, но Флоран не видел его! Флоран слышал что есть некие ^orange;<enemy>^white; рыскающие у ^orange;<spawnPoint>^white;<spawnPoint.direction> - Флоран думает что они причастны к исчезновению <involvedfloran>. ^green;Сможешь помочь Флорану^white;?"
+    ],
     "Files": {
       "quests/generated/templates/kidnapping.questtemplate": [
         "/scriptConfig/generatedText/text/default/floran/0"
@@ -207,7 +210,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Верни <victimNpcType> в полной сохранности"
+    ],
     "Files": {
       "quests/generated/templates/kidnapping.questtemplate": [
         "/scriptConfig/objectives/2/text"
@@ -232,6 +237,7 @@
   },
   {
     "DeniedAlternatives": [
+      "Спасибо за спасение <victimNpcType> от этих <enemy>. <appreciation>",
       "Спасибо за спасение <victimnpctype> от этих <enemy>. <appreciation>"
     ],
     "Files": {
@@ -247,6 +253,7 @@
   },
   {
     "DeniedAlternatives": [
+      "Ты нашел <victimNpcType>? Флоран благодарен за помощщь!",
       "Ты нашел <victimnpctype>? Флоран уважает помощщь!"
     ],
     "Files": {
@@ -261,6 +268,7 @@
   },
   {
     "DeniedAlternatives": [
+      "Ты нашел <victimNpcType>? Сспасибо! Ну, если бы у Флорана было оружие, Флоран бы ссам это ссделал...",
       "Ты нашел <victimnpctype>? Сспасибо! Ну, если бы у Флорана было оружие, Флоран бы ссам это ссделал..."
     ],
     "Files": {
@@ -275,6 +283,7 @@
   },
   {
     "DeniedAlternatives": [
+      "Ты спас <victimNpcType>? <appreciation>",
       "Ты спас <victimnpctype>? <appreciation>"
     ],
     "Files": {
@@ -289,6 +298,7 @@
   },
   {
     "DeniedAlternatives": [
+      "Ты сумел спасти <victimNpcType>? <appreciation>",
       "Ты сумел спасти <victimnpctype>? <appreciation>"
     ],
     "Files": {

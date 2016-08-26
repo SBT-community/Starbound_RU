@@ -14,7 +14,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Кажется что свет вьётся внутри этого фиолетового кристалла."
+    ],
     "Files": {
       "items/materials/purplecrystal.matitem": [
         "/description"
@@ -39,11 +41,14 @@
       ]
     },
     "Texts": {
-      "Eng": "Pretty purple crysstal."
+      "Eng": "Pretty purple crysstal.",
+      "Rus": "Красивый фиолетовый кристалл."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Фиолетовый кристальный блок"
+    ],
     "Files": {
       "items/materials/purplecrystal.matitem": [
         "/shortdescription"

@@ -1,6 +1,7 @@
 [
   {
     "DeniedAlternatives": [
+      "Замшелая плотная грязь.",
       "Мшистая грязь"
     ],
     "Files": {
@@ -17,7 +18,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Спрессованная грязь покрытая рассстущим мхом."
+    ],
     "Files": {
       "items/materials/mossypackeddirt.matitem": [
         "/florandescription"
@@ -33,7 +36,8 @@
   },
   {
     "DeniedAlternatives": [
-      "Пакет грязи покрытый мхом."
+      "Пакет грязи покрытый мхом.",
+      "Спрессованная грязь покрытая мхом."
     ],
     "Files": {
       "items/materials/mossypackeddirt.matitem": [
@@ -64,7 +68,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Этот пакет грязи покрыт растущим мхом."
+    ],
     "Files": {
       "items/materials/mossypackeddirt.matitem": [
         "/glitchdescription/glitchEmotedText"
@@ -75,7 +81,7 @@
     },
     "Texts": {
       "Eng": "This packed dirt has moss growing on it.",
-      "Rus": "Этот пакет грязи покрыт растущим мхом."
+      "Rus": "Эта спрессованная  грязь покрыта растущим мхом."
     }
   }
 ]

@@ -31,11 +31,14 @@
       ]
     },
     "Texts": {
-      "Eng": "Defacin' a Big Ape poster is a daring move. I bet someone paid the price."
+      "Eng": "Defacin' a Big Ape poster is a daring move. I bet someone paid the price.",
+      "Rus": "Размалевать плакат Большого Эйпа это дерзкий поступок. Держу пари, кто-то за это заплатит."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Знак неповиновения."
+    ],
     "Files": {
       "objects/apex/apexmocksign/apexmocksign.object": [
         "/shortdescription"
@@ -43,7 +46,7 @@
     },
     "Texts": {
       "Eng": "Disobey Sign",
-      "Rus": "Знак неповиновения."
+      "Rus": "Знак неповиновения"
     }
   },
   {
@@ -66,11 +69,14 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran find monkey funny!"
+      "Eng": "Floran find monkey funny!",
+      "Rus": "Флоран находит обезьяну забавной!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Видимо, кто-то не боится Министерства"
+    ],
     "Files": {
       "objects/apex/apexmocksign/apexmocksign.object": [
         "/humanDescription"
@@ -78,7 +84,7 @@
     },
     "Texts": {
       "Eng": "Looks like someone isn't afraid of the Miniknog.",
-      "Rus": "Видимо, кто-то не боится Министерства"
+      "Rus": "Видимо, кто-то не боится Министерства."
     }
   },
   {

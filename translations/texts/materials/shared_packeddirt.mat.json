@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Кирпичи, сссделанные из ссспрессованной грязи."
+    ],
     "Files": {
       "items/materials/packeddirt.matitem": [
         "/florandescription"
@@ -15,7 +17,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Спрессованная грязь"
+    ],
     "Files": {
       "items/materials/packeddirt.matitem": [
         "/shortdescription"
@@ -30,7 +34,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Хлипкие на вид кирпичи, слепленные из грязи."
+    ],
     "Files": {
       "items/materials/packeddirt.matitem": [
         "/novakiddescription"
@@ -45,7 +51,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Грязь спрессованная в небольшие кирпичи."
+    ],
     "Files": {
       "items/materials/packeddirt.matitem": [
         "/description"
@@ -60,7 +68,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Эти кирпичи - это просто грязь, которой придали форму и утрамбовали."
+    ],
     "Files": {
       "items/materials/packeddirt.matitem": [
         "/glitchdescription/glitchEmotedText"

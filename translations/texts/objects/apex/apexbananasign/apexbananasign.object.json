@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A picture of a banana. It also says 'BANANA', in case we'd miss it."
+      "Eng": "A picture of a banana. It also says 'BANANA', in case we'd miss it.",
+      "Rus": "Изображение банана. А ещё на ней написано 'БАНАН', если не догнал, что это."
     }
   },
   {
@@ -42,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I believe this to be Apex sustenance."
+      "Eng": "I believe this to be Apex sustenance.",
+      "Rus": "Похоже на пищу Апексов."
     }
   },
   {
@@ -58,7 +60,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Какая ужасссная еда."
+    ],
     "Files": {
       "objects/apex/apexbananasign/apexbananasign.object": [
         "/floranDescription"
@@ -66,7 +70,7 @@
     },
     "Texts": {
       "Eng": "Sssuch horrible food.",
-      "Rus": "Какая ужасссная еда."
+      "Rus": "Какая ужасная еда."
     }
   },
   {

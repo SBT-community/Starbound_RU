@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Сломанный торговый автомат"
+    ],
     "Files": {
       "objects/protectorate/objects/protectoratebrokenvending/protectoratebrokenvending.object": [
         "/description"
@@ -8,7 +10,7 @@
     },
     "Texts": {
       "Eng": "A broken vending machine.",
-      "Rus": "Сломанный торговый автомат"
+      "Rus": "Сломанный торговый автомат."
     }
   },
   {
@@ -31,7 +33,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran will mourn for dead vending machine later."
+      "Eng": "Floran will mourn for dead vending machine later.",
+      "Rus": "Флоран будет горевать о мертвом автомате позже."
     }
   },
   {
@@ -42,7 +45,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I could go for an energy drink, but this machine is definitely out of order."
+      "Eng": "I could go for an energy drink, but this machine is definitely out of order.",
+      "Rus": "Я бы купил энергетический напиток, но этот автомат определённо не работает."
     }
   },
   {
@@ -53,7 +57,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I hope I fare better than this poor vending machine."
+      "Eng": "I hope I fare better than this poor vending machine.",
+      "Rus": "Надеюсь моя жизнь будет лучше чем у этого несчастного автомата по продаже. "
     }
   },
   {
@@ -64,7 +69,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I remember buying drinks from this machine... those were better days."
+      "Eng": "I remember buying drinks from this machine... those were better days.",
+      "Rus": "Я помню, как покупал напитки из этого автомата... то были прекрасные деньки."
     }
   },
   {
@@ -75,7 +81,8 @@
       ]
     },
     "Texts": {
-      "Eng": "If I don't escape this place soon, I could share this vending machine's fate."
+      "Eng": "If I don't escape this place soon, I could share this vending machine's fate.",
+      "Rus": "Если вскоре я не смогу сбежать, я могу разделить судьбу этого автомата. "
     }
   },
   {
@@ -86,7 +93,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This machine's busted up real good."
+      "Eng": "This machine's busted up real good.",
+      "Rus": "Эт\" автомат прилично раздолбан."
     }
   },
   {
@@ -97,7 +105,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This vending machine once sold delicious drinks."
+      "Eng": "This vending machine once sold delicious drinks.",
+      "Rus": "Этот автомат когда-то продавал вкуснейшие напитки."
     }
   }
 ]

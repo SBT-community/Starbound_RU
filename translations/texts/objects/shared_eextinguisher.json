@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Огнетушитель. "
+    ],
     "Files": {
       "objects/outpost/fireextinguisher/fireextinguisher.object": [
         "/apexDescription"
@@ -11,7 +13,7 @@
     },
     "Texts": {
       "Eng": "A fire extinguisher.",
-      "Rus": "Огнетушитель. "
+      "Rus": "Огнетушитель."
     }
   }
 ]

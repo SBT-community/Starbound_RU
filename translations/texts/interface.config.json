@@ -108,7 +108,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Апгрейд М.М.",
+      "М. М. Улучшение"
+    ],
     "Files": {
       "interface.config": [
         "/cursorTooltip/mmUpgradeText"
@@ -116,7 +119,7 @@
     },
     "Texts": {
       "Eng": "M.M. Upgrade",
-      "Rus": "М. М. Улучшение"
+      "Rus": "Улучшение М. М."
     }
   },
   {

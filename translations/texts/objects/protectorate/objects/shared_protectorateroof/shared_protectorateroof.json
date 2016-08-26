@@ -31,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A roof top vent from the Protectorate Academy."
+      "Eng": "A roof top vent from the Protectorate Academy.",
+      "Rus": "Вентиляционное отверстие на крыше Академии Протектората."
     }
   },
   {
@@ -66,11 +67,14 @@
       ]
     },
     "Texts": {
-      "Eng": "A standard ventilation system."
+      "Eng": "A standard ventilation system.",
+      "Rus": "Стандартная вентиляционная система."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Это отдушина."
+    ],
     "Files": {
       "objects/protectorate/objects/protectorateroofdetail01/protectorateroofdetail01.object": [
         "/humanDescription"
@@ -101,7 +105,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I think it's a vent. But who cares?"
+      "Eng": "I think it's a vent. But who cares?",
+      "Rus": "Я думаю это отдушина. Но кому есть до этого дело?"
     }
   },
   {
@@ -136,7 +141,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Protectorate Roof Top Vent"
+      "Eng": "Protectorate Roof Top Vent",
+      "Rus": "Верхний вентилятор крыши Протектората"
     }
   },
   {
@@ -171,7 +177,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Some sort of ventilation."
+      "Eng": "Some sort of ventilation.",
+      "Rus": "Вроде вентиляционное отверстие."
     }
   },
   {
@@ -206,7 +213,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This is a vent."
+      "Eng": "This is a vent.",
+      "Rus": "Это отдушина."
     }
   },
   {
@@ -238,7 +246,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Thisss thing is ventilation."
+      "Eng": "Thisss thing is ventilation.",
+      "Rus": "Эта штука явно отдушина."
     }
   }
 ]

@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я смогу починить корабль, но потребуется 20 ^orange;эркиевых кристаллов^reset;... Лучше ^green;отправляйся в Шахту добычи эркиевых кристаллов^reset;. Я переслал координаты ^green;твоему К.Э.П.^reset;."
+    ],
     "Files": {
       "quests/story/human_mission1.questtemplate": [
         "/text"
@@ -8,7 +10,7 @@
     },
     "Texts": {
       "Eng": "I can repair that ship, but it's gonna take 20 ^orange;Erchius Crystals^reset;... You'd better ^green;get yerself over to the Erchius Mining Facility^reset;. I've sent the location coordinates to ^green;yer ship's SAIL^reset;.",
-      "Rus": "Я смогу починить корабль, но потребуется 20 ^orange;эркиевых кристаллов^reset;... Лучше ^green;отправляйся в Шахту добычи эркиевых кристаллов^reset;. Я переслал координаты ^green;твоему К.Э.П.^reset;."
+      "Rus": "Я смогу починить корабль, но потребуется 20 ^orange;эркиевых кристаллов^reset;... Лучше ^green;отправляйся в Шахту добычи эркиевых кристаллов^reset;. Я переслал координаты ^green;твоему К.Э.П.у^reset;."
     }
   },
   {
@@ -24,7 +26,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Идеально! Это мне пригодится. Сейчас починю твой корабль."
+    ],
     "Files": {
       "quests/story/human_mission1.questtemplate": [
         "/completionText"
@@ -32,7 +36,7 @@
     },
     "Texts": {
       "Eng": "Perfect! These'll do the job. I'll go ahead and fix up yer ship right now.",
-      "Rus": "Идеально! Это мне пригодится. Сейчас починю твой корабль."
+      "Rus": "Идеально! Это то, что нужно. Сейчас починю твой корабль."
     }
   },
   {

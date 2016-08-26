@@ -48,7 +48,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Теперь, дорогуша, когда ты знаком со сканированием, ^green;нам нужно найти эти ^orange;артефакты^white;. Да, первые Флоране... Их колонии содержат важные ^orange;улики^reset; для их поиска. Флоране живут где угодно, но предпочитают густые ^orange;леса^white; на планетах вокруг ^orange;спокойных звёзд^white;. Удачи, дорогуша, и спасибо."
+    ],
     "Files": {
       "quests/story/floran_mission1.questtemplate": [
         "/text"

@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Посетить шахту добычи эркиевых кристаллов"
+    ],
     "Files": {
       "ai/missionhuman1.aimission": [
         "/speciesText/default/repeatButtonText"

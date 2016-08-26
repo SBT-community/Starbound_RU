@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "наверху"
+    ],
     "Files": {
       "quests/quests.config": [
         "/directions/0/descriptions/0"
@@ -8,11 +10,13 @@
     },
     "Texts": {
       "Eng": " above",
-      "Rus": "наверху"
+      "Rus": " наверху"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "над нами"
+    ],
     "Files": {
       "quests/quests.config": [
         "/directions/0/descriptions/1"
@@ -20,11 +24,13 @@
     },
     "Texts": {
       "Eng": " above us",
-      "Rus": "над нами"
+      "Rus": " над нами"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "снизу"
+    ],
     "Files": {
       "quests/quests.config": [
         "/directions/2/descriptions/0"
@@ -32,11 +38,13 @@
     },
     "Texts": {
       "Eng": " below",
-      "Rus": "снизу"
+      "Rus": " снизу"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "под нами"
+    ],
     "Files": {
       "quests/quests.config": [
         "/directions/2/descriptions/1"
@@ -44,11 +52,13 @@
     },
     "Texts": {
       "Eng": " below us",
-      "Rus": "под нами"
+      "Rus": " под нами"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "прямо внизу"
+    ],
     "Files": {
       "quests/quests.config": [
         "/directions/2/descriptions/2"
@@ -56,11 +66,13 @@
     },
     "Texts": {
       "Eng": " down below",
-      "Rus": "прямо внизу"
+      "Rus": " прямо внизу"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "на востоке отсюда"
+    ],
     "Files": {
       "quests/quests.config": [
         "/directions/1/descriptions/1"
@@ -68,11 +80,13 @@
     },
     "Texts": {
       "Eng": " east from here",
-      "Rus": "на востоке отсюда"
+      "Rus": " на востоке отсюда"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "на востоке от нас"
+    ],
     "Files": {
       "quests/quests.config": [
         "/directions/1/descriptions/2"
@@ -80,11 +94,13 @@
     },
     "Texts": {
       "Eng": " east of us",
-      "Rus": "на востоке от нас"
+      "Rus": " на востоке от нас"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "на восток"
+    ],
     "Files": {
       "quests/quests.config": [
         "/directions/1/descriptions/0"
@@ -92,11 +108,13 @@
     },
     "Texts": {
       "Eng": " to the east",
-      "Rus": "на восток"
+      "Rus": " на востоке"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " на западе"
+    ],
     "Files": {
       "quests/quests.config": [
         "/directions/3/descriptions/0"
@@ -108,7 +126,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "прямо наверху"
+    ],
     "Files": {
       "quests/quests.config": [
         "/directions/0/descriptions/2"
@@ -116,7 +136,7 @@
     },
     "Texts": {
       "Eng": " up above",
-      "Rus": "прямо наверху"
+      "Rus": " прямо наверху"
     }
   },
   {
@@ -132,7 +152,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " на западе от нас"
+    ],
     "Files": {
       "quests/quests.config": [
         "/directions/3/descriptions/2"
@@ -169,7 +191,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " её"
+    ],
     "Files": {
       "quests/quests.config": [
         "/pronouns/female/capitalObject",
@@ -182,7 +206,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " её"
+    ],
     "Files": {
       "quests/quests.config": [
         "/pronouns/female/capitalPossessive"
@@ -194,7 +220,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " её"
+    ],
     "Files": {
       "quests/quests.config": [
         "/pronouns/female/capitalReflexive"
@@ -206,7 +234,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " его"
+    ],
     "Files": {
       "quests/quests.config": [
         "/pronouns/male/capitalObject"
@@ -218,7 +248,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " ему самому"
+    ],
     "Files": {
       "quests/quests.config": [
         "/pronouns/male/capitalReflexive"
@@ -230,7 +262,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " его"
+    ],
     "Files": {
       "quests/quests.config": [
         "/pronouns/male/capitalPossessive",
@@ -255,7 +289,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " она"
+    ],
     "Files": {
       "quests/quests.config": [
         "/pronouns/female/capitalSubject"
@@ -267,7 +303,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " их"
+    ],
     "Files": {
       "quests/quests.config": [
         "/pronouns/neutral/capitalPossessiveDet"
@@ -279,7 +317,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " их"
+    ],
     "Files": {
       "quests/quests.config": [
         "/pronouns/neutral/capitalPossessive"
@@ -291,7 +331,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " им"
+    ],
     "Files": {
       "quests/quests.config": [
         "/pronouns/neutral/capitalObject"
@@ -303,7 +345,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "самим"
+    ],
     "Files": {
       "quests/quests.config": [
         "/pronouns/neutral/capitalReflexive"
@@ -315,7 +359,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " они"
+    ],
     "Files": {
       "quests/quests.config": [
         "/pronouns/neutral/capitalSubject"
@@ -339,7 +385,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " он"
+    ],
     "Files": {
       "quests/quests.config": [
         "/pronouns/male/subject"
@@ -351,7 +399,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " он"
+    ],
     "Files": {
       "quests/quests.config": [
         "/pronouns/male/copulativePast"
@@ -363,7 +413,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " он "
+    ],
     "Files": {
       "quests/quests.config": [
         "/pronouns/male/copulative"
@@ -375,7 +427,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " её"
+    ],
     "Files": {
       "quests/quests.config": [
         "/pronouns/female/object",
@@ -388,7 +442,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " её"
+    ],
     "Files": {
       "quests/quests.config": [
         "/pronouns/female/possessive"
@@ -400,7 +456,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " ей самой"
+    ],
     "Files": {
       "quests/quests.config": [
         "/pronouns/female/reflexive"
@@ -412,7 +470,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " его"
+    ],
     "Files": {
       "quests/quests.config": [
         "/pronouns/male/object"
@@ -424,7 +484,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " ему самому"
+    ],
     "Files": {
       "quests/quests.config": [
         "/pronouns/male/reflexive"
@@ -436,7 +498,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " его"
+    ],
     "Files": {
       "quests/quests.config": [
         "/pronouns/male/possessive",
@@ -449,7 +513,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " она"
+    ],
     "Files": {
       "quests/quests.config": [
         "/pronouns/female/subject"
@@ -461,7 +527,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " она"
+    ],
     "Files": {
       "quests/quests.config": [
         "/pronouns/female/copulativePast"
@@ -473,7 +541,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " она"
+    ],
     "Files": {
       "quests/quests.config": [
         "/pronouns/female/copulative"
@@ -485,7 +555,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " их"
+    ],
     "Files": {
       "quests/quests.config": [
         "/pronouns/neutral/possessiveDet"
@@ -497,7 +569,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " их "
+    ],
     "Files": {
       "quests/quests.config": [
         "/pronouns/neutral/possessive"
@@ -509,7 +583,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " им"
+    ],
     "Files": {
       "quests/quests.config": [
         "/pronouns/neutral/object"
@@ -521,7 +597,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " им самим"
+    ],
     "Files": {
       "quests/quests.config": [
         "/pronouns/neutral/reflexive"
@@ -533,7 +611,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " они"
+    ],
     "Files": {
       "quests/quests.config": [
         "/pronouns/neutral/subject"
@@ -545,7 +625,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " они"
+    ],
     "Files": {
       "quests/quests.config": [
         "/pronouns/neutral/copulative"
@@ -557,7 +639,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "у них есть"
+    ],
     "Files": {
       "quests/quests.config": [
         "/pronouns/neutral/copulativePast"

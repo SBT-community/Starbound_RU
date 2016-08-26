@@ -42,7 +42,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Каменный Щебень"
+    ],
     "Files": {
       "items/materials/stonerubble.matitem": [
         "/shortdescription"
@@ -53,11 +55,13 @@
     },
     "Texts": {
       "Eng": "Stone Rubble",
-      "Rus": "Каменный Щебень"
+      "Rus": "Каменный щебень"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Каменный Щебень. Похоже, это останки древних строений."
+    ],
     "Files": {
       "items/materials/stonerubble.matitem": [
         "/description"
@@ -68,7 +72,7 @@
     },
     "Texts": {
       "Eng": "Stone rubble which appears to be debris from an old structure.",
-      "Rus": "Каменный Щебень. Похоже, это останки древних строений."
+      "Rus": "Каменный щебень, который видимо остался от старого здания."
     }
   }
 ]

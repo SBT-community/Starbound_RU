@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Неуклюже пляшущий свет."
+    ],
     "Files": {
       "objects/human/alertlight/alertlight.object": [
         "/hylotlDescription"
@@ -36,7 +38,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Свет Мигалки"
+    ],
     "Files": {
       "objects/human/alertlight/alertlight.object": [
         "/shortdescription"
@@ -44,7 +48,7 @@
     },
     "Texts": {
       "Eng": "Alert Light",
-      "Rus": "Свет Мигалки"
+      "Rus": "Тревожная мигалка"
     }
   },
   {
@@ -60,7 +64,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Этот мигающий свет должен сигнализировать что здесь произошла какая-то авария."
+    ],
     "Files": {
       "objects/human/alertlight/alertlight.object": [
         "/description"
@@ -68,11 +74,14 @@
     },
     "Texts": {
       "Eng": "The flashing light is meant to signal that there's been some sort of emergency...",
-      "Rus": "Этот мигающий свет должен сигнализировать что здесь произошла какая-то авария."
+      "Rus": "Этот мигающий свет должен сигнализировать что здесь произошла какая-то авария..."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Машина, кричащая как птица.",
+      "Эта машина, кричит как птица."
+    ],
     "Files": {
       "objects/human/alertlight/alertlight.object": [
         "/avianDescription"
@@ -80,11 +89,13 @@
     },
     "Texts": {
       "Eng": "The machine, it squawks like a bird.",
-      "Rus": "Эта машина, кричит как птица."
+      "Rus": "Эта машина кричит как птица."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Эти мигалки - обычная вещь в зданиях Апексов, сигнализирующая о непростительном поведении."
+    ],
     "Files": {
       "objects/human/alertlight/alertlight.object": [
         "/apexDescription"
@@ -92,11 +103,13 @@
     },
     "Texts": {
       "Eng": "These alarms were common in Apex housing, signalling unacceptable behaviour.",
-      "Rus": "Эти мигалки - обычная вещь в зданиях Апексов, сигнализирующая о непростительном поведении."
+      "Rus": "Эти мигалки - обычная вещь в зданиях Апексов, сигнализирующая о неподобающем поведении."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Эти штуки кричат о опасности."
+    ],
     "Files": {
       "objects/human/alertlight/alertlight.object": [
         "/humanDescription"
@@ -104,7 +117,7 @@
     },
     "Texts": {
       "Eng": "These things scream danger.",
-      "Rus": "Эти штуки кричат о опасности."
+      "Rus": "Эти штуки кричат об опасности."
     }
   }
 ]

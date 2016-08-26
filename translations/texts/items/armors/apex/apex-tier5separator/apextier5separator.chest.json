@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Нагрудник Ассассина"
+    ],
     "Files": {
       "items/armors/apex/apex-tier5separator/apextier5separator.chest": [
         "/shortdescription"
@@ -20,7 +22,7 @@
     },
     "Texts": {
       "Eng": "Assassin's Chestguard",
-      "Rus": "Нагрудник Ассассина"
+      "Rus": "Нагрудник Ассасина"
     }
   }
 ]

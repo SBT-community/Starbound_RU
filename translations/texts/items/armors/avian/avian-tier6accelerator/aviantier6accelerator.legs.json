@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Эти тонкие, резные поножи, переплетены с чистой солариевой нитью для дополнительной прочности."
+    ],
     "Files": {
       "items/armors/avian/avian-tier6accelerator/aviantier6accelerator.legs": [
         "/description"
@@ -20,7 +22,7 @@
     },
     "Texts": {
       "Eng": "These slim-cut leggings are interwoven with pure solarium thread for added durability.",
-      "Rus": "Эти тонкие, резные поножи, переплетены с чистой солариевой нитью для дополнительной прочности."
+      "Rus": "Эти тонкие резные поножи переплетены с чистой солариевой нитью для дополнительной прочности."
     }
   }
 ]

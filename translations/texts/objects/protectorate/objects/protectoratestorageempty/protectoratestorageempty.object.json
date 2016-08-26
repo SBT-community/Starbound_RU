@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A large storage unit. It's empty."
+      "Eng": "A large storage unit. It's empty.",
+      "Rus": "Большое отделение для хранения. Сейчас тут пусто."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A storage unit. It's currently not being used for anything."
+      "Eng": "A storage unit. It's currently not being used for anything.",
+      "Rus": "Отделение для хранения. В данный момент не используется."
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An empty storage unit."
+      "Eng": "An empty storage unit.",
+      "Rus": "Пустое место хранения."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An industrial looking storage unit."
+      "Eng": "An industrial looking storage unit.",
+      "Rus": "На вид индустриальное место хранения."
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Big shelves."
+      "Eng": "Big shelves.",
+      "Rus": "Большие полки."
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Empty Storage Unit"
+      "Eng": "Empty Storage Unit",
+      "Rus": "Пустое место хранения"
     }
   },
   {
@@ -73,11 +79,14 @@
       ]
     },
     "Texts": {
-      "Eng": "It's a boring storage unit. It's empty."
+      "Eng": "It's a boring storage unit. It's empty.",
+      "Rus": "Скучное хранилище. Оно пустое."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Это пустое место хранения."
+    ],
     "Files": {
       "objects/protectorate/objects/protectoratestorageempty/protectoratestorageempty.object": [
         "/avianDescription",
@@ -85,7 +94,8 @@
       ]
     },
     "Texts": {
-      "Eng": "It's an empty storage unit."
+      "Eng": "It's an empty storage unit.",
+      "Rus": "Это пустое место для хранения."
     }
   }
 ]

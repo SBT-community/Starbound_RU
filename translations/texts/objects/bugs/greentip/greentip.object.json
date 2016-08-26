@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Этикетка гласит \"Жук выглядит так, будто носит крохотные зелёные башмачки.\""
+    ],
     "Files": {
       "objects/bugs/greentip/greentip.object": [
         "/description"

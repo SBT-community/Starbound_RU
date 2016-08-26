@@ -36,7 +36,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ноль."
+    ],
     "Files": {
       "objects/outpost/number0/number0.object": [
         "/shortdescription"
@@ -44,7 +46,7 @@
     },
     "Texts": {
       "Eng": "Zero",
-      "Rus": "Ноль."
+      "Rus": "Ноль"
     }
   },
   {

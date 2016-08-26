@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Кровельные покрытия из меди"
+    ],
     "Files": {
       "items/materials/copperroofing.matitem": [
         "/novakiddescription"
@@ -32,7 +34,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Кровельные покрытия из меди"
+    ],
     "Files": {
       "items/materials/copperroofing.matitem": [
         "/florandescription"
@@ -48,7 +52,8 @@
   },
   {
     "DeniedAlternatives": [
-      "Кровельные покрытия из меди"
+      "Кровельные покрытия из меди",
+      "Кровля, сложенная из медных пластин."
     ],
     "Files": {
       "items/materials/copperroofing.matitem": [

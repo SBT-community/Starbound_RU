@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Грубая и необработанная, эта древесина имеет цветастую сердцевину."
+    ],
     "Files": {
       "tiles/materials/rainbowwood.material": [
         "/description"
@@ -12,7 +14,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Необработанная радужная древесина"
+    ],
     "Files": {
       "tiles/materials/rainbowwood.material": [
         "/shortdescription"

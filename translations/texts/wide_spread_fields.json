@@ -678,7 +678,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " Он"
+    ],
     "Files": {
       "quests/quests.config": [
         "/pronouns/male/capitalSubject"
@@ -1231,7 +1233,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Обеспокоен"
+    ],
     "Files": {
       "npcs/statuses.config": [
         "/statuses/anxious/1"
@@ -1242,7 +1246,7 @@
     },
     "Texts": {
       "Eng": "Worried",
-      "Rus": "Обеспокоен"
+      "Rus": "Обеспокоенно"
     }
   },
   {

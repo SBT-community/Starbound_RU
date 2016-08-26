@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Приятный мягкий свет"
+    ],
     "Files": {
       "objects/tiered/tier1spotlight/tier1spotlight.object": [
         "/hylotlDescription"
@@ -8,11 +10,13 @@
     },
     "Texts": {
       "Eng": "A pleasant, soft light.",
-      "Rus": "Приятный мягкий свет"
+      "Rus": "Приятный мягкий свет."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Мягкий свет"
+    ],
     "Files": {
       "objects/tiered/tier1spotlight/tier1spotlight.object": [
         "/avianDescription"
@@ -20,11 +24,13 @@
     },
     "Texts": {
       "Eng": "A soft light.",
-      "Rus": "Мягкий свет"
+      "Rus": "Мягкий свет."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Металлический прожектор"
+    ],
     "Files": {
       "objects/tiered/tier1spotlight/tier1spotlight.object": [
         "/shortdescription"
@@ -32,7 +38,7 @@
     },
     "Texts": {
       "Eng": "Iron Spotlight",
-      "Rus": "Металлический прожектор"
+      "Rus": "Железный прожектор"
     }
   },
   {

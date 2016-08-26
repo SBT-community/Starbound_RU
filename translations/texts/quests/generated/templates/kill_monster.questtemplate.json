@@ -48,7 +48,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флоран знал что ты справишься! <player> охотник на <monster>! Клево звучит, да? И теперь у Флорана есть вс1 что ему нужно."
+    ],
     "Files": {
       "quests/generated/templates/kill_monster.questtemplate": [
         "/scriptConfig/generatedText/completionText/first/floran/1"
@@ -116,7 +118,7 @@
     },
     "Texts": {
       "Eng": "I was attacked by a fierce ^orange;<monster> at the <spawnPoint>^white;<spawnPoint.direction>, and it swallowed my possessions in the struggle. It took ^orange;<items>, ^white;could you ^green;hunt it down and retrieve my things^white; for me?",
-      "Rus": ""
+      "Rus": "На меня напал свирепый ^orange;<monster>  около <spawnPoint>^white;<spawnPoint.direction>. Он проглотил в бою всё моё имущество. Он взял  ^orange;<items>, ^white;, поэтому не мог бы ты ^green; выследить эту тварь и вернуть мои вещи^white; обратно?"
     }
   },
   {
@@ -128,7 +130,7 @@
     },
     "Texts": {
       "Eng": "I was recently attacked by a fierce ^orange;<monster>, ^white;which made off with my ^orange;<items>^white. It went towards the ^orange;<spawnPoint>^white<spawnPoint.direction>. Could you ^green;hunt the creature down for me?^white; It couldn't have gotten far.",
-      "Rus": ""
+      "Rus": "Я недавно был атакован свирепым ^orange;<monster>, ^white;. Он удрал с моими ^orange;<items>^white. Он пошел прямиком к ^orange;<spawnPoint>^white<spawnPoint.direction>. Не мог бы ты ^green;выследить это создание для меня?^white; Оно не могло далеко уйти.\r\n"
     }
   },
   {
@@ -140,7 +142,7 @@
     },
     "Texts": {
       "Eng": "Impressive - you're a good hunter. Things <monster> ate are a little sssticky, but still usable.",
-      "Rus": ""
+      "Rus": "Впечатляет, ты хороший охотник. Вещи что проглотил  <monster> немного липкие, но их всё равно можно использовать."
     }
   },
   {
@@ -212,7 +214,7 @@
     },
     "Texts": {
       "Eng": "Thank you for retrieving my belongings - They are important to my plans. Hopefully any wandering beasts will learn not to antagonise us in future!",
-      "Rus": ""
+      "Rus": "Спасибо за возвращение моих принадлежностей. Они важны для моих планов. Надеюсь, любые блуждающие звери научатся не враждовать по отношению к нам!"
     }
   },
   {

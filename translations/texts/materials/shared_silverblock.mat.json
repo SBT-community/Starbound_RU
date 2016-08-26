@@ -29,7 +29,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Блок серебра"
+    ],
     "Files": {
       "items/materials/silverblock.matitem": [
         "/shortdescription"
@@ -54,7 +56,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Ssilver, sso shiny."
+      "Eng": "Ssilver, sso shiny.",
+      "Rus": "Сссеребро так блестит..."
     }
   },
   {

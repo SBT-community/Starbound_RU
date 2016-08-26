@@ -169,7 +169,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Зону посадки можно описать странной флорой, агрессивной фауной и ^red;болезненно высокой радиацией^white;. Существа населяющие ее, сильно ^#7800ff;мутировали^white;."
+    ],
     "Files": {
       "interface/cockpit/cockpit.config": [
         "/planetTypeToDescription/alien/1"
@@ -193,7 +195,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Одинокая ^#949493;луна^white; ^red;без атмосферы^white;. В чёрном небе сияют звёзды. Под землёй значительные запасы топлива. Вероятность появления чувства одиночества: 92%."
+    ],
     "Files": {
       "interface/cockpit/cockpit.config": [
         "/planetTypeToDescription/moon/0"
@@ -397,7 +401,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Зона посадки изобилует множеством деревьев и другой флорой. Эти ^#15ce02;леса^white; характерны видовым разнообразием населяющих их существ - возможно, есть и разумная жизнь."
+    ],
     "Files": {
       "interface/cockpit/cockpit.config": [
         "/planetTypeToDescription/forest/0"
@@ -637,7 +643,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Местность покрыта  ^#15ce02;лесами^white;, изобилующими пышными деревьями. По моим данным, зона пригодна для жизни, так что есть риск столкнуться с лесными обитателями."
+    ],
     "Files": {
       "interface/cockpit/cockpit.config": [
         "/planetTypeToDescription/forest/1"
@@ -841,7 +849,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Песок. По данным сканера тут песок. И немного кактусов... но в основном песок. Опираясь на это, предполагаю, что зона посадки находится в ^#e6c801;пустыне^white;."
+    ],
     "Files": {
       "interface/cockpit/cockpit.config": [
         "/planetTypeToDescription/desert/2"
@@ -937,7 +947,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Зона посадки в ^#e11212;вулканической^white; местности, где ^red;чрезвычайно горячо^white;. По первому требованию я начну расчёты вероятности немедленного испепеления после высадки..."
+    ],
     "Files": {
       "interface/cockpit/cockpit.config": [
         "/planetTypeToDescription/volcanic/0"
@@ -973,7 +985,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Зона посадки - остров в ^#00ffe4;холодном океане^white;. ^red;Температура очень низкая^white;. Существует шанс 0.025% промахнуться и высадиться прямо в воду, мгновенно став ледышкой."
+    ],
     "Files": {
       "interface/cockpit/cockpit.config": [
         "/planetTypeToDescription/arctic/1"
@@ -997,7 +1011,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Зона посадки в спокойной местности, густо населённой разными формами жизни. Имеются залежи полезных ресурсов. ^#76fe68;Изобильная^white; и приятная планета."
+    ],
     "Files": {
       "interface/cockpit/cockpit.config": [
         "/planetTypeToDescription/garden/1"
@@ -1129,7 +1145,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "^#e11212;Тёмный^white;, ^red;невероятно холодный^white; мир. Странные тёмные создания живут здесь под покровом вечной ночи."
+    ],
     "Files": {
       "interface/cockpit/cockpit.config": [
         "/planetTypeToDescription/midnight/1"
@@ -1141,7 +1159,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "^red;Чрезвычайно холодная^white; зона посадки полностью ^#61ffe3;заморожена^white;. Высока вероятность непроизвольной криоконсервации.  Защитите себя от холода."
+    ],
     "Files": {
       "interface/cockpit/cockpit.config": [
         "/planetTypeToDescription/tundra/1"
@@ -1201,7 +1221,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "^#06ff00;Токсичная^white; планета с ^red;сильным радиационным фоном^white;. Океаны из отходов смертельно ядовиты... Позволю напомнить, что в этой системе есть другие планеты."
+    ],
     "Files": {
       "interface/cockpit/cockpit.config": [
         "/planetTypeToDescription/toxic/2"
@@ -1285,7 +1307,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Пустынная ^#949493;луна^white; ^red;без атмосферы^white;, но с подземными кавернами полными топливом. Итог: полезная, но непривлекательная."
+    ],
     "Files": {
       "interface/cockpit/cockpit.config": [
         "/planetTypeToDescription/moon/2"

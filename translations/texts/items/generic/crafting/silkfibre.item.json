@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Шелковое волокно"
+    ],
     "Files": {
       "items/generic/crafting/silkfibre.item": [
         "/shortdescription"

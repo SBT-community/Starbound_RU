@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A Poptop action figure from the Protectorate."
+      "Eng": "A Poptop action figure from the Protectorate.",
+      "Rus": "Фигурка поптопа из Протектората."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A couple of toys."
+      "Eng": "A couple of toys.",
+      "Rus": "Парочка игрушек."
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Protectorate Poptop Toy"
+      "Eng": "Protectorate Poptop Toy",
+      "Rus": "Игрушечный поптоп Протектората"
     }
   },
   {
@@ -40,11 +43,14 @@
       ]
     },
     "Texts": {
-      "Eng": "Some cute toys."
+      "Eng": "Some cute toys.",
+      "Rus": "Несколько милых игрушек."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Несколько коллекционных игрушек!"
+    ],
     "Files": {
       "objects/protectorate/objects/protectoratefigures/protectoratefigures.object": [
         "/glitchDescription/glitchEmotedText",
@@ -52,7 +58,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Some nice collectors toys!"
+      "Eng": "Some nice collectors toys!",
+      "Rus": "Несколько отличных коллекционных игрушек!"
     }
   },
   {
@@ -63,7 +70,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Some toys."
+      "Eng": "Some toys.",
+      "Rus": "Какие-то игрушки."
     }
   },
   {
@@ -74,7 +82,8 @@
       ]
     },
     "Texts": {
-      "Eng": "These figures are very cute."
+      "Eng": "These figures are very cute.",
+      "Rus": "Фигурки очень милые."
     }
   },
   {
@@ -85,7 +94,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Toys ssstaring at Floran!"
+      "Eng": "Toys ssstaring at Floran!",
+      "Rus": "Игрушки сссмотрят на Флорана!"
     }
   }
 ]

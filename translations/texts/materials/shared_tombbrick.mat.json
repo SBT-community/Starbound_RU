@@ -10,7 +10,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Closer inspection suggests these bricks are quite old."
+      "Eng": "Closer inspection suggests these bricks are quite old.",
+      "Rus": "При более близком осмотре оказалось, что эти кирпичи довольно старые."
     }
   },
   {
@@ -24,11 +25,14 @@
       ]
     },
     "Texts": {
-      "Eng": "Dusssty old bricks."
+      "Eng": "Dusssty old bricks.",
+      "Rus": "Пыльные ссстарые кирпичи."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Пыльные и древние кирпичи."
+    ],
     "Files": {
       "items/materials/tombbrick.matitem": [
         "/description"
@@ -39,7 +43,7 @@
     },
     "Texts": {
       "Eng": "Dusty and ancient bricks.",
-      "Rus": "Пыльные и древние кирпичи."
+      "Rus": "Древние пыльные кирпичи."
     }
   },
   {
@@ -53,11 +57,14 @@
       ]
     },
     "Texts": {
-      "Eng": "Just some ol' dusty bricks."
+      "Eng": "Just some ol' dusty bricks.",
+      "Rus": "Всего лишь старые пыльные кирпичи."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Кирпичи из Гробницы"
+    ],
     "Files": {
       "items/materials/tombbrick.matitem": [
         "/shortdescription"
@@ -68,7 +75,7 @@
     },
     "Texts": {
       "Eng": "Tomb Brick",
-      "Rus": "Кирпичи из Гробницы"
+      "Rus": "Могильный кирпич"
     }
   }
 ]

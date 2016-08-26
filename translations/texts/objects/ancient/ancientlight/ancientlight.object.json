@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Древняя настенная лампа"
+    ],
     "Files": {
       "objects/ancient/ancientlight/ancientlight.object": [
         "/shortdescription"
@@ -8,7 +10,7 @@
     },
     "Texts": {
       "Eng": "Ancient Wall Light",
-      "Rus": "Древняя настенная лампа"
+      "Rus": "Древний настенный светильник"
     }
   }
 ]

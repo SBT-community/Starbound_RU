@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Разбойничьи Штаны."
+    ],
     "Files": {
       "items/armors/apex/apex-tier5accelerator/apextier5accelerator.legs": [
         "/shortdescription"
@@ -8,11 +10,13 @@
     },
     "Texts": {
       "Eng": "Rogue's Trousers",
-      "Rus": "Разбойничьи Штаны."
+      "Rus": "Разбойничьи Штаны"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Штаны с ботинками, лёгкими и гибкими - идеальный наряд чтобы незаметно подкрасться."
+    ],
     "Files": {
       "items/armors/apex/apex-tier5accelerator/apextier5accelerator.legs": [
         "/description"
@@ -20,7 +24,7 @@
     },
     "Texts": {
       "Eng": "Trousers and boots that are light and flexible - ideal attire for sneaking about.",
-      "Rus": "Штаны с ботинками, лёгкими и гибкими - идеальный наряд чтобы незаметно подкрасться."
+      "Rus": "Штаны с ботинками, лёгкими и гибкими - идеальный наряд, чтобы незаметно подкрасться."
     }
   }
 ]

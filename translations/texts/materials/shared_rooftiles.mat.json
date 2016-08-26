@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Черепичная кровля"
+    ],
     "Files": {
       "items/materials/rooftiles.matitem": [
         "/shortdescription"
@@ -25,7 +27,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Roofing tiless."
+      "Eng": "Roofing tiless.",
+      "Rus": "Кровельная черепица."
     }
   },
   {
@@ -39,7 +42,8 @@
       ]
     },
     "Texts": {
-      "Eng": "These roof tiles are sloped to allow for easy rain run off."
+      "Eng": "These roof tiles are sloped to allow for easy rain run off.",
+      "Rus": "Эта черепичная кровля наклонена, чтобы дождь легко с неё стекал."
     }
   },
   {
@@ -53,11 +57,14 @@
       ]
     },
     "Texts": {
-      "Eng": "These tiles look perfect for makin' a roof."
+      "Eng": "These tiles look perfect for makin' a roof.",
+      "Rus": "Эта черепица, кажись, идеально подходит для деланья крыши."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Черепица с водостоком."
+    ],
     "Files": {
       "items/materials/rooftiles.matitem": [
         "/description"
@@ -68,7 +75,7 @@
     },
     "Texts": {
       "Eng": "Weathered roof tiles. Their shape makes me feel uneasy.",
-      "Rus": "Черепица с водостоком."
+      "Rus": "Выветрившаяся черепичная кровля. Её форма заставляем меня чувствовать себя неловко."
     }
   }
 ]

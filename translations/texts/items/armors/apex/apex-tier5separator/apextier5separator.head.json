@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Маска Ассассина"
+    ],
     "Files": {
       "items/armors/apex/apex-tier5separator/apextier5separator.head": [
         "/shortdescription"
@@ -8,11 +10,13 @@
     },
     "Texts": {
       "Eng": "Assassin's Mask",
-      "Rus": "Маска Ассассина"
+      "Rus": "Маска Ассасина"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Головной убор предназначенный  для маскировки владельца."
+    ],
     "Files": {
       "items/armors/apex/apex-tier5separator/apextier5separator.head": [
         "/description"
@@ -20,7 +24,7 @@
     },
     "Texts": {
       "Eng": "Headgear designed to inconspicuously disguise the wearer.",
-      "Rus": "Головной убор предназначенный  для маскировки владельца."
+      "Rus": "Головной убор, предназначенный для маскировки владельца."
     }
   }
 ]

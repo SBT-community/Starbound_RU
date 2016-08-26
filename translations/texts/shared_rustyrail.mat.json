@@ -15,7 +15,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ржавые металлические рельсы."
+    ],
     "Files": {
       "items/materials/rustyrail.matitem": [
         "/florandescription"
@@ -30,7 +32,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Какие-то ржавые рельсы, меня прям распирает от желания по ним прокатиться."
+    ],
     "Files": {
       "items/materials/rustyrail.matitem": [
         "/novakiddescription"
@@ -45,7 +49,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Эти рельсы немного грубоваты, но ещё функционируют."
+    ],
     "Files": {
       "items/materials/rustyrail.matitem": [
         "/description"

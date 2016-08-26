@@ -96,7 +96,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "^orange;Кухонный Стол^white;"
+    ],
     "Files": {
       "objects/crafting/woodencookingtable/woodencookingtable.object": [
         "/shortdescription"

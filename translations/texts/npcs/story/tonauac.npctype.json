@@ -216,7 +216,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Они такие древние, что имён создателей мы и не помним. Но мы точно знаем, что Клюэкс обожал маски!"
+    ],
     "Files": {
       "npcs/story/tonauac.npctype": [
         "/scriptConfig/dialog/tonauac/maskDescription/default/default/1"
@@ -288,7 +290,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Добро пожаловать в храм! Приятно видеть тебя здесь. Я - ^orange;Тонауак^white;, хранитель храма."
+    ],
     "Files": {
       "npcs/story/tonauac.npctype": [
         "/scriptConfig/dialog/tonauac/start/default/default/1"

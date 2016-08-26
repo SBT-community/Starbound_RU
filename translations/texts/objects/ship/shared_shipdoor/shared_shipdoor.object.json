@@ -27,7 +27,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Дверь корабля."
+    ],
     "Files": {
       "objects/ship/apexshipdoor/apexshipdoor.object": [
         "/glitchDescription/glitchEmotedText"

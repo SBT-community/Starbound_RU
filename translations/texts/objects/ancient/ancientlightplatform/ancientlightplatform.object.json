@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Поток цельного света образует платформу."
+    ],
     "Files": {
       "objects/ancient/ancientlightplatform/ancientlightplatform.object": [
         "/description"
@@ -12,7 +14,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Древняя платформа из света"
+    ],
     "Files": {
       "objects/ancient/ancientlightplatform/ancientlightplatform.object": [
         "/shortdescription"
@@ -20,11 +24,13 @@
     },
     "Texts": {
       "Eng": "Ancient Light Platform",
-      "Rus": "Древняя платформа из света"
+      "Rus": "Древняя световая платформа"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флорану не нравитссся эта платформа."
+    ],
     "Files": {
       "objects/ancient/ancientlightplatform/ancientlightplatform.object": [
         "/floranDescription"
@@ -44,11 +50,13 @@
     },
     "Texts": {
       "Eng": "It looks as though I would fall right through this platform.",
-      "Rus": ""
+      "Rus": "Кажется, я могу провалиться через эту платформу."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Обычная голографическая платформа."
+    ],
     "Files": {
       "objects/ancient/ancientlightplatform/ancientlightplatform.object": [
         "/apexDescription"
@@ -68,11 +76,13 @@
     },
     "Texts": {
       "Eng": "Solid energy, just like us Novakid.",
-      "Rus": ""
+      "Rus": "Цельный поток энергии, прям как и мы - новакиды."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Похоже, эта платформа не выдержит мой вес."
+    ],
     "Files": {
       "objects/ancient/ancientlightplatform/ancientlightplatform.object": [
         "/avianDescription"
@@ -84,7 +94,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Этот энергетический барьер может удерживать меня!"
+    ],
     "Files": {
       "objects/ancient/ancientlightplatform/ancientlightplatform.object": [
         "/hylotlDescription"

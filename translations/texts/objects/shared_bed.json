@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Прекрасная кровать. На ней можно отлично отдохнуть."
+    ],
     "Files": {
       "objects/themed/geometric/geometricbed/geometricbed.object": [
         "/humanDescription"
@@ -24,7 +26,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флоран будет ссспать в прекрасной кровати."
+    ],
     "Files": {
       "objects/themed/geometric/geometricbed/geometricbed.object": [
         "/floranDescription"
@@ -51,7 +55,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Очень комфортное место чтобы мои перья отдохнули."
+    ],
     "Files": {
       "objects/themed/geometric/geometricbed/geometricbed.object": [
         "/avianDescription"
@@ -71,7 +77,7 @@
     },
     "Texts": {
       "Eng": "This is very comfortable place to rest my feathers.",
-      "Rus": "Очень комфортное место чтобы мои перья отдохнули."
+      "Rus": "Это очень комфортное место для того, чтобы дать отдохнуть моим пёрышкам."
     }
   }
 ]

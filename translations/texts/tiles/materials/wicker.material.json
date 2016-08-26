@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Плетёный Блок"
+    ],
     "Files": {
       "tiles/materials/wicker.material": [
         "/shortdescription"
@@ -8,7 +10,7 @@
     },
     "Texts": {
       "Eng": "Wicker Block",
-      "Rus": "Плетёный Блок"
+      "Rus": "Плетёный блок"
     }
   }
 ]

@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Напоминает мне о стенах медицинского центра."
+    ],
     "Files": {
       "items/materials/plate.matitem": [
         "/description"
@@ -11,11 +13,13 @@
     },
     "Texts": {
       "Eng": "Reminds me of the inside of a medical centre.",
-      "Rus": "Напоминает мне о стенах медицинского центра."
+      "Rus": "Навевает воспоминания о больнице."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Обшивочный блок"
+    ],
     "Files": {
       "items/materials/plate.matitem": [
         "/shortdescription"
@@ -41,11 +45,14 @@
     },
     "Texts": {
       "Eng": "Some smooth lookin' wall plates.",
-      "Rus": ""
+      "Rus": "Какие-та гладкие настенные плитки."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Гладкие блессстящие металличеccские плиты.",
+      "Гладкие блестящие металлические плитки."
+    ],
     "Files": {
       "items/materials/plate.matitem": [
         "/florandescription"
@@ -56,11 +63,13 @@
     },
     "Texts": {
       "Eng": "Ssmooth sshiny metal platess.",
-      "Rus": "Гладкие блессстящие металличеccские плиты."
+      "Rus": "Гладкие блестящие металлические плиты."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Эти металлические плитки  тщательно отполированы."
+    ],
     "Files": {
       "items/materials/plate.matitem": [
         "/glitchdescription/glitchEmotedText"

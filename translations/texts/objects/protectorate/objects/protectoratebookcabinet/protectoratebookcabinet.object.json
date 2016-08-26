@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A book cabinet."
+      "Eng": "A book cabinet.",
+      "Rus": "Книжный шкап."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A book cabinet. You can borrow books for free."
+      "Eng": "A book cabinet. You can borrow books for free.",
+      "Rus": "Книжный шкаф. Бесплатные книги."
     }
   },
   {
@@ -29,11 +31,14 @@
       ]
     },
     "Texts": {
-      "Eng": "Protectorate Book Cabinet"
+      "Eng": "Protectorate Book Cabinet",
+      "Rus": "Книжный шкаф Протектората"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Так много книг, так мало времени."
+    ],
     "Files": {
       "objects/protectorate/objects/protectoratebookcabinet/protectoratebookcabinet.object": [
         "/description",
@@ -41,7 +46,8 @@
       ]
     },
     "Texts": {
-      "Eng": "So many books, so little time!"
+      "Eng": "So many books, so little time!",
+      "Rus": "Так много книг и так мало времени!"
     }
   },
   {
@@ -52,7 +58,8 @@
       ]
     },
     "Texts": {
-      "Eng": "These books are communal."
+      "Eng": "These books are communal.",
+      "Rus": "Эти книги общие."
     }
   },
   {
@@ -63,7 +70,8 @@
       ]
     },
     "Texts": {
-      "Eng": "We can borrow books from here."
+      "Eng": "We can borrow books from here.",
+      "Rus": "Мы можем брать книги отсюда."
     }
   }
 ]

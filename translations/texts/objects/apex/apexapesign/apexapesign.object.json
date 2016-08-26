@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Все видели? Некоторые вещи лучше не видеть."
+    ],
     "Files": {
       "objects/apex/apexapesign/apexapesign.object": [
         "/novakidDescription"
@@ -96,7 +98,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я бы исследовал этот организм чтобы понять как он видит"
+    ],
     "Files": {
       "objects/apex/apexapesign/apexapesign.object": [
         "/glitchDescription/glitchEmotedText"
@@ -104,7 +108,7 @@
     },
     "Texts": {
       "Eng": "I would like to examine this life form and investigate its optics.",
-      "Rus": "Я бы исследовал этот организм чтобы понять как он видит"
+      "Rus": "Я бы исследовал этот организм чтобы понять как он видит."
     }
   }
 ]

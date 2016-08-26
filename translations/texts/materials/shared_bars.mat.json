@@ -18,7 +18,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Такие металлические решетки могут быть найдены в подземельях Глитчей."
+    ],
     "Files": {
       "items/materials/bars.matitem": [
         "/glitchdescription/glitchEmotedText"
@@ -48,7 +50,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Крепкие металличессские решетки."
+    ],
     "Files": {
       "items/materials/bars.matitem": [
         "/florandescription"

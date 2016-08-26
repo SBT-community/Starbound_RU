@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флоран обожает цветущщщие растения."
+    ],
     "Files": {
       "items/materials/petalblock.matitem": [
         "/florandescription"
@@ -15,7 +17,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Благоухающие темные листья и цветы."
+    ],
     "Files": {
       "items/materials/petalblock.matitem": [
         "/description"
@@ -30,7 +34,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Здесь растут и вправду хорошие цветы."
+    ],
     "Files": {
       "items/materials/petalblock.matitem": [
         "/novakiddescription"

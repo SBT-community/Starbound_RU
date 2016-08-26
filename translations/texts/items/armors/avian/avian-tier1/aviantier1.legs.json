@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Набедренная повязка, укреплённая железными вставками. Выглядит легкой, но на самом деле это не так."
+    ],
     "Files": {
       "items/armors/avian/avian-tier1/aviantier1.legs": [
         "/description"
@@ -8,7 +10,7 @@
     },
     "Texts": {
       "Eng": "An iron-girded loincloth. It looks feather-light, but it really isn't.",
-      "Rus": "Набедренная повязка, укреплённая железными вставками. Выглядит легкой, но на самом деле это не так."
+      "Rus": "Набедренная повязка, укреплённая железными вставками. Выглядит легкой, но, на самом деле, это не так."
     }
   },
   {

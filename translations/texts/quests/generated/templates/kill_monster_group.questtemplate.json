@@ -48,7 +48,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я признателен за то, что ты сделал для меня. Пожалуйста, прими этот дар."
+    ],
     "Files": {
       "quests/generated/templates/kill_monster_group.questtemplate": [
         "/scriptConfig/generatedText/fluff/18/1/1"
@@ -227,7 +229,7 @@
     },
     "Texts": {
       "Eng": "angry",
-      "Rus": "злых"
+      "Rus": "разозлен<questGiver.pronoun.verbEnding>"
     }
   },
   {

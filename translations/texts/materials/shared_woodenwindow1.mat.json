@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Окно с деревянными панелями."
+    ],
     "Files": {
       "items/materials/woodenwindow1.matitem": [
         "/description"
@@ -11,7 +13,7 @@
     },
     "Texts": {
       "Eng": "A window with wooden panes.",
-      "Rus": "Окно с деревянными панелями."
+      "Rus": "Окно с деревянной рамой."
     }
   },
   {
@@ -57,7 +59,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Деревянные окно"
+    ],
     "Files": {
       "items/materials/woodenwindow1.matitem": [
         "/shortdescription"
@@ -68,7 +72,7 @@
     },
     "Texts": {
       "Eng": "Wooden Window",
-      "Rus": "Деревянные окно"
+      "Rus": "Деревянное окно"
     }
   }
 ]

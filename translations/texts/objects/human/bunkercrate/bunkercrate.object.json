@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ящик сделанный из металла."
+    ],
     "Files": {
       "objects/human/bunkercrate/bunkercrate.object": [
         "/avianDescription"
@@ -8,11 +10,13 @@
     },
     "Texts": {
       "Eng": "A crate made of metal.",
-      "Rus": "Ящик сделанный из металла."
+      "Rus": "Ящик изготовленный из металла."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Тяжело выглядящий металлический ящик."
+    ],
     "Files": {
       "objects/human/bunkercrate/bunkercrate.object": [
         "/hylotlDescription"
@@ -20,7 +24,7 @@
     },
     "Texts": {
       "Eng": "A heavy-looking metal crate.",
-      "Rus": "Тяжело выглядящий металлический ящик."
+      "Rus": "На вид тяжёлая, металлическая коробка."
     }
   },
   {
@@ -61,7 +65,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Обыкновенный металлический ящик."
+    ],
     "Files": {
       "objects/human/bunkercrate/bunkercrate.object": [
         "/novakidDescription"
@@ -86,7 +92,8 @@
   },
   {
     "DeniedAlternatives": [
-      "Металличессская коробка."
+      "Металличессская коробка.",
+      "Металличессский ящик."
     ],
     "Files": {
       "objects/human/bunkercrate/bunkercrate.object": [
@@ -95,7 +102,7 @@
     },
     "Texts": {
       "Eng": "Metal box.",
-      "Rus": "Металличессский ящик."
+      "Rus": "Металлическая коробка."
     }
   }
 ]

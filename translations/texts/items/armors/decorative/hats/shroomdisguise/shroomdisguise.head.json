@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Будьте уверены, что надев эту маску, вы станете просто неотличимы от простого гриба."
+    ],
     "Files": {
       "items/armors/decorative/hats/shroomdisguise/shroomdisguise.head": [
         "/description"
@@ -12,7 +14,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Будьте уверены, что надев эту маску, вы станете просто неотличимы от простого гриба."
+    ],
     "Files": {
       "items/armors/decorative/hats/shroomdisguise/shroomdisguise.head": [
         "/shortdescription"
@@ -20,7 +24,7 @@
     },
     "Texts": {
       "Eng": "Shroom Disguise Mask",
-      "Rus": "Будьте уверены, что надев эту маску, вы станете просто неотличимы от простого гриба."
+      "Rus": "Маскировка под гриб"
     }
   }
 ]

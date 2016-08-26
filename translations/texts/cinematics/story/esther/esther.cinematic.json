@@ -36,7 +36,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Здравствуй, дорогуша! Это и есть тот самый Манипулятор Материи? Отлично, значит ты действительно Протектор. "
+    ],
     "Files": {
       "cinematics/story/esther/esther.cinematic": [
         "/panels/5/text"
@@ -120,7 +122,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Меня зовут ^orange;Эстер Брайт^white;, я Великий Протектор в отставке."
+    ],
     "Files": {
       "cinematics/story/esther/esther.cinematic": [
         "/panels/8/text"

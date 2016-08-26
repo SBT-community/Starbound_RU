@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Стандартный стол."
+    ],
     "Files": {
       "objects/human/bunkertable1/bunkertable1.object": [
         "/avianDescription"
@@ -8,7 +10,7 @@
     },
     "Texts": {
       "Eng": "A basic table.",
-      "Rus": "Стандартный стол."
+      "Rus": "Обычный стол."
     }
   },
   {
@@ -48,7 +50,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Это второй наиболее стандартный стол который я когда-либо видел."
+    ],
     "Files": {
       "objects/human/bunkertable1/bunkertable1.object": [
         "/humanDescription"
@@ -60,7 +64,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Этот ссстол будет удобен для нарезания мяссса."
+    ],
     "Files": {
       "objects/human/bunkertable1/bunkertable1.object": [
         "/floranDescription"

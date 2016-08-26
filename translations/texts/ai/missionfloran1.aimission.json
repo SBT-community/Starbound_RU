@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Посетить Церемониальные Охотничьи Пещеры"
+    ],
     "Files": {
       "ai/missionfloran1.aimission": [
         "/speciesText/default/repeatButtonText"

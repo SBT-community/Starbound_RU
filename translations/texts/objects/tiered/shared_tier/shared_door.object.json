@@ -70,7 +70,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Эта дверь обеспечивает относительную безопасность."
+    ],
     "Files": {
       "objects/tiered/tier1door/tier1door.object": [
         "/apexDescription"

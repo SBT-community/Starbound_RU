@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Разбитая лампа освещения едва мерцает."
+    ],
     "Files": {
       "objects/generic/flickeringfluorescentlight/flickeringfluorescentlight.object": [
         "/humanDescription"
@@ -13,7 +15,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A broken light that flickers faintly."
+      "Eng": "A broken light that flickers faintly.",
+      "Rus": "Сломанный светильник, едва мерцающий."
     }
   },
   {
@@ -27,7 +30,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A light meant to draw attention to an area."
+      "Eng": "A light meant to draw attention to an area.",
+      "Rus": "Свет, по идее, должен приковывать внимание к определённому месту."
     }
   },
   {
@@ -41,7 +45,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A perfectly ordinary spotlight."
+      "Eng": "A perfectly ordinary spotlight.",
+      "Rus": "Совершенно обычный светильник."
     }
   },
   {
@@ -56,7 +61,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A spotlight."
+      "Eng": "A spotlight.",
+      "Rus": "Это светильник."
     }
   },
   {
@@ -139,7 +145,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An ordinary spotlight."
+      "Eng": "An ordinary spotlight.",
+      "Rus": "Обычный светильник."
     }
   },
   {
@@ -162,7 +169,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Buzzy flickery light."
+      "Eng": "Buzzy flickery light.",
+      "Rus": "Жужжащий мерцающий свет."
     }
   },
   {
@@ -178,7 +186,8 @@
       ]
     },
     "Texts": {
-      "Eng": "It's a small spotlight."
+      "Eng": "It's a small spotlight.",
+      "Rus": "Это маленький фонарик."
     }
   },
   {
@@ -206,7 +215,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Ssspotlight."
+      "Eng": "Ssspotlight.",
+      "Rus": "Сссветильник."
     }
   },
   {
@@ -252,7 +262,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Эт\" разбитая лампа мерцает не лучше обыкновенной свечи."
+    ],
     "Files": {
       "objects/generic/flickeringfluorescentlight/flickeringfluorescentlight.object": [
         "/novakidDescription"
@@ -265,11 +277,14 @@
       ]
     },
     "Texts": {
-      "Eng": "This busted light ain't flickerin' more'n a candle."
+      "Eng": "This busted light ain't flickerin' more'n a candle.",
+      "Rus": "Разбитый светильник мерцает не сильнее свечи."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флюоресцентная лампа видала лучшие дни."
+    ],
     "Files": {
       "objects/generic/flickeringfluorescentlight/flickeringfluorescentlight.object": [
         "/description"
@@ -282,11 +297,14 @@
       ]
     },
     "Texts": {
-      "Eng": "This fluorescent light has seen better days."
+      "Eng": "This fluorescent light has seen better days.",
+      "Rus": "Эта лампа дневного света видала лучшие дни."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Этот флюоресцентный свет почти не функционирует. "
+    ],
     "Files": {
       "objects/generic/flickeringfluorescentlight/flickeringfluorescentlight.object": [
         "/glitchDescription/glitchEmotedText"
@@ -299,11 +317,14 @@
       ]
     },
     "Texts": {
-      "Eng": "This fluorescent light is almost non-functional."
+      "Eng": "This fluorescent light is almost non-functional.",
+      "Rus": "Этот флуоресцентный светильник практически не функционирует."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Этот светильник функционирует некорректно."
+    ],
     "Files": {
       "objects/generic/flickeringfluorescentlight/flickeringfluorescentlight.object": [
         "/hylotlDescription"
@@ -316,11 +337,14 @@
       ]
     },
     "Texts": {
-      "Eng": "This light appears to not be functioning correctly."
+      "Eng": "This light appears to not be functioning correctly.",
+      "Rus": "Похоже лампа работает не совсем корректно."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Эта лампа лишь тускло мигает. Наверняка, её ещё можно починить."
+    ],
     "Files": {
       "objects/generic/flickeringfluorescentlight/flickeringfluorescentlight.object": [
         "/apexDescription"
@@ -333,11 +357,14 @@
       ]
     },
     "Texts": {
-      "Eng": "This light has only the faintest flicker of power. Perhaps it can be repaired."
+      "Eng": "This light has only the faintest flicker of power. Perhaps it can be repaired.",
+      "Rus": "Лампа лишь тускло мерцает. Возможно её ещё можно починить."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Эта лампа практически полностью сломана."
+    ],
     "Files": {
       "objects/generic/flickeringfluorescentlight/flickeringfluorescentlight.object": [
         "/avianDescription"
@@ -350,7 +377,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This light is almost completely broken."
+      "Eng": "This light is almost completely broken.",
+      "Rus": "Лампа практически полностью сломана."
     }
   }
 ]

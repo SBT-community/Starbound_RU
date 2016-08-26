@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Часть самого жёсткого материала в галактике!"
+    ],
     "Files": {
       "items/generic/crafting/prisilitestar.item": [
         "/description"
@@ -8,7 +10,7 @@
     },
     "Texts": {
       "Eng": "It's a prisilite star! Some of the toughest stuff in the galaxy!",
-      "Rus": "Часть самого жёсткого материала в галактике!"
+      "Rus": "Призилитовая звезда! Осколок самого жёсткого материала в галактике!"
     }
   },
   {

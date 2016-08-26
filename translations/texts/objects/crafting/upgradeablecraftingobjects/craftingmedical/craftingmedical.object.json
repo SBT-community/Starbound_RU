@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Медицинская станция"
+    ],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftingmedical/craftingmedical.object": [
         "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title"
@@ -171,7 +173,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "^orange;Apothecary^white;"
+    ],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftingmedical/craftingmedical.object": [
         "/shortdescription",
@@ -184,7 +188,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "^orange;Медицинская станция^white;"
+    ],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftingmedical/craftingmedical.object": [
         "/upgradeStages/1/itemSpawnParameters/shortdescription"

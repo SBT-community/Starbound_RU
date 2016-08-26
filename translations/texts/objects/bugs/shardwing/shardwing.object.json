@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Этикетка гласит \"Крылья этого жука переливаются как лёд.\""
+    ],
     "Files": {
       "objects/bugs/shardwing/shardwing.object": [
         "/description"

@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Этикетка гласит \"Там где мороз, там и морозные слепни.\""
+    ],
     "Files": {
       "objects/bugs/frostfly/frostfly.object": [
         "/description"

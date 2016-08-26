@@ -78,7 +78,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Спасибо тебе <player>, я уверен из тебя повар намного лучше чем из Флорана."
+    ],
     "Files": {
       "quests/generated/templates/cooking.questtemplate": [
         "/scriptConfig/generatedText/completionText/default/floran/1"

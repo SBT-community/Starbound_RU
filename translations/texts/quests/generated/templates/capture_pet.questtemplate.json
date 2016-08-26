@@ -24,7 +24,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флоран надеется что тебе нравится <tradedMonster>!"
+    ],
     "Files": {
       "quests/generated/templates/capture_pet.questtemplate": [
         "/scriptConfig/generatedText/fluff/8/1/0"
@@ -36,7 +38,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Доставьте <monster> <questGiver>"
+    ],
     "Files": {
       "quests/generated/templates/capture_pet.questtemplate": [
         "/scriptConfig/objectives/1/text"
@@ -144,7 +148,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ох, тебе удалось найти <monster>?"
+    ],
     "Files": {
       "quests/generated/templates/capture_pet.questtemplate": [
         "/scriptConfig/generatedText/fluff/6/1/2"
@@ -156,7 +162,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Приручите <monster>"
+    ],
     "Files": {
       "quests/generated/templates/capture_pet.questtemplate": [
         "/scriptConfig/generatedText/title/default/0"
@@ -192,7 +200,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Этот <tradedMonster> может стать твоим партнером по охоте!"
+    ],
     "Files": {
       "quests/generated/templates/capture_pet.questtemplate": [
         "/scriptConfig/generatedText/fluff/8/1/1"
@@ -204,7 +214,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Вы привели Флорану <monster>? <floranappreciation>"
+    ],
     "Files": {
       "quests/generated/templates/capture_pet.questtemplate": [
         "/scriptConfig/generatedText/completionText/default/floran/0"
@@ -216,7 +228,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ты привел мне <monster>?! Спасибо!"
+    ],
     "Files": {
       "quests/generated/templates/capture_pet.questtemplate": [
         "/scriptConfig/generatedText/fluff/6/1/0"
@@ -228,7 +242,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ты привел(а) мне моего собственного <monster>?! Спасибо!"
+    ],
     "Files": {
       "quests/generated/templates/capture_pet.questtemplate": [
         "/scriptConfig/generatedText/fluff/6/1/3"
@@ -240,7 +256,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Тебе удалось поймать <monster>? Чудесно!"
+    ],
     "Files": {
       "quests/generated/templates/capture_pet.questtemplate": [
         "/scriptConfig/generatedText/fluff/6/1/1"
@@ -264,7 +282,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "^cyan;Флоран хочет <monster>, и ему требуется помощь в поимке."
+    ],
     "Files": {
       "quests/generated/templates/capture_pet.questtemplate": [
         "/scriptConfig/generatedText/goalText/floran/0"
@@ -276,7 +296,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "^cyan;Я хочу <monster> для компании."
+    ],
     "Files": {
       "quests/generated/templates/capture_pet.questtemplate": [
         "/scriptConfig/generatedText/goalText/default/0"

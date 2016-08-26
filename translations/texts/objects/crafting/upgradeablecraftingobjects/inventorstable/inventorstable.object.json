@@ -116,7 +116,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Стол архитектора  используется для создания различных верстаков."
+    ],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/inventorstable/inventorstable.object": [
         "/upgradeStages/2/itemSpawnParameters/description"

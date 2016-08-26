@@ -10,11 +10,14 @@
       ]
     },
     "Texts": {
-      "Eng": "A torn Protectorate banner..."
+      "Eng": "A torn Protectorate banner...",
+      "Rus": "Разорванное знамя Протектората..."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Растерзанный стяг Протектората из Академии."
+    ],
     "Files": {
       "objects/protectorate/objects/protectoratefbannertorn1/protectoratefbannertorn1.object": [
         "/description"
@@ -24,11 +27,14 @@
       ]
     },
     "Texts": {
-      "Eng": "A torn Protectorate wallbanner from the Protectorate academy."
+      "Eng": "A torn Protectorate wallbanner from the Protectorate academy.",
+      "Rus": "Растерзанное знамя Протектората из Академии."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Разорванный стяг! Ужасающе!"
+    ],
     "Files": {
       "objects/protectorate/objects/protectoratefbannertorn1/protectoratefbannertorn1.object": [
         "/avianDescription"
@@ -38,7 +44,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A torn banner! Devastating!"
+      "Eng": "A torn banner! Devastating!",
+      "Rus": "Растерзанный флаг! Ужасающе!"
     }
   },
   {
@@ -52,11 +59,14 @@
       ]
     },
     "Texts": {
-      "Eng": "This banner is torn..."
+      "Eng": "This banner is torn...",
+      "Rus": "Знамя растерзано..."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Растерзанный Стяг Протектората"
+    ],
     "Files": {
       "objects/protectorate/objects/protectoratefbannertorn1/protectoratefbannertorn1.object": [
         "/shortdescription"
@@ -66,7 +76,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Torn Protectorate Wall Banner"
+      "Eng": "Torn Protectorate Wall Banner",
+      "Rus": "Разорванное знамя Протектората"
     }
   }
 ]

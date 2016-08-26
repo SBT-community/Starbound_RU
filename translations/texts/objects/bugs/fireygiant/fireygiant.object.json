@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Этикетка гласит \"Исполинский жук. Способен выдерживать сильную жару.\""
+    ],
     "Files": {
       "objects/bugs/fireygiant/fireygiant.object": [
         "/description"

@@ -60,7 +60,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Может ли быть что-нибудь еще здесь?"
+    ],
     "Files": {
       "objects/wreck/wreckcrate1/wreckcrate1.object": [
         "/avianDescription"

@@ -24,7 +24,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я провел предполетную проверку. Забирайтесь на борт!"
+    ],
     "Files": {
       "radiomessages/intro.radiomessages": [
         "/protectorateShipPlatform/text"
@@ -32,7 +34,7 @@
     },
     "Texts": {
       "Eng": "I have bypassed the preflight checks. Get aboard!",
-      "Rus": "Я провел предполетную проверку. Забирайтесь на борт!"
+      "Rus": "Я обошёл предполетную проверку. Забирайтесь на борт!"
     }
   },
   {
@@ -144,7 +146,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Поторопитесь. Я советую спрыгнуть с платформы. ^#71f2f6Держите S, чтобы присесть, и затем нажмите пробел^white;."
+    ],
     "Files": {
       "radiomessages/intro.radiomessages": [
         "/protectorateDuctPester/text"

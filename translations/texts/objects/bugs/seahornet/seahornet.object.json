@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Этикетка гласит \"Рыльцем жук напоминает морского коньяка.\""
+    ],
     "Files": {
       "objects/bugs/seahornet/seahornet.object": [
         "/description"

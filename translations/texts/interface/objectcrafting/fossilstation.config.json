@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Археологическая машина"
+    ],
     "Files": {
       "interface/objectcrafting/fossilstation.config": [
         "/paneLayout/windowtitle/title"
@@ -12,7 +14,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Археологическая машина, снабжённая дисплеем."
+    ],
     "Files": {
       "interface/objectcrafting/fossilstation.config": [
         "/paneLayout/windowtitle/subtitle"

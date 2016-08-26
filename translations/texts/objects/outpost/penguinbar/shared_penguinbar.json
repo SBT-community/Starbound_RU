@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Бар подходящий для пингвина."
+    ],
     "Files": {
       "objects/outpost/penguinbar/penguinbarbottom.object": [
         "/description"
@@ -10,7 +12,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A bar fit for a penguin."
+      "Eng": "A bar fit for a penguin.",
+      "Rus": "Бар подходящий для пингвинов."
     }
   }
 ]

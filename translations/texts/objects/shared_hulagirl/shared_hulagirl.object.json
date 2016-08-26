@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Гавайская танцовщица. Алоха!"
+    ],
     "Files": {
       "objects/protectorate/objects/protectoratehulagirl/protectoratehulagirl.object": [
         "/description"
@@ -30,7 +32,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Это напоминает мне о белых песках и голубых морях."
+    ],
     "Files": {
       "objects/protectorate/objects/protectoratehulagirl/protectoratehulagirl.object": [
         "/hylotlDescription"
@@ -41,7 +45,7 @@
     },
     "Texts": {
       "Eng": "It reminds me of white sands and blue seas.",
-      "Rus": "Это напоминает мне о белых песках и голубых морях."
+      "Rus": "Напоминает мне о белых песках и голубых океанах."
     }
   },
   {
@@ -56,11 +60,13 @@
     },
     "Texts": {
       "Eng": "Look at her, strummin' away on her teeny ukulele.",
-      "Rus": ""
+      "Rus": "Посмотрите-ка на неё, бренчит на своей крохотной гитарке."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Этот шатающийся человечек похоже играет на укулеле."
+    ],
     "Files": {
       "objects/protectorate/objects/protectoratehulagirl/protectoratehulagirl.object": [
         "/apexDescription"
@@ -75,7 +81,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Шатающиеся движения имеют почти гипнотический эффект."
+    ],
     "Files": {
       "objects/protectorate/objects/protectoratehulagirl/protectoratehulagirl.object": [
         "/glitchDescription/glitchEmotedText"
@@ -90,7 +98,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Танцующая девушка в юбке из травы."
+    ],
     "Files": {
       "objects/protectorate/objects/protectoratehulagirl/protectoratehulagirl.object": [
         "/avianDescription"

@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Владелец Beak Easy попросил о помощи. Нужно победить Ужаснокрыла."
+    ],
     "Files": {
       "ai/missionpenguin1.aimission": [
         "/speciesText/default/selectSpeech/text"
@@ -20,7 +22,7 @@
     },
     "Texts": {
       "Eng": "The proprietor of the Beak Easy requires assistance. Defeat Dreadwing.",
-      "Rus": "Владелец Beak Easy попросил о помощи. Нужно победить Ужаснокрыла."
+      "Rus": "Владелец \"Beakeasy\" попросил о помощи. Нужно победить Ужаснокрыла."
     }
   }
 ]

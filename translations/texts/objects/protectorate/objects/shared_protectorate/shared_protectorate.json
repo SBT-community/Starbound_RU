@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Портрет предшествующего Великого Протектора."
+    ],
     "Files": {
       "objects/protectorate/objects/protectoratebrokenportrait2/protectoratebrokenportrait2.object": [
         "/description"
@@ -22,11 +24,14 @@
       ]
     },
     "Texts": {
-      "Eng": "A portrait of a former Grand Protector."
+      "Eng": "A portrait of a former Grand Protector.",
+      "Rus": "Портрет бывшего Великого Протектора."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Сломанная флуоресцентная лампа"
+    ],
     "Files": {
       "objects/protectorate/objects/protectoratebrokenlight/protectoratebrokenlight.object": [
         "/shortdescription"
@@ -36,7 +41,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Broken Fluorescent Light"
+      "Eng": "Broken Fluorescent Light",
+      "Rus": "Сломанная лампа дневного света"
     }
   },
   {
@@ -68,7 +74,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Grand Protector Portrait"
+      "Eng": "Grand Protector Portrait",
+      "Rus": "Портрет Великого Протектора"
     }
   }
 ]

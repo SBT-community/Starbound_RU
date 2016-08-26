@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Есть корабль? Тебе стоит заглянуть в Пингвиний Отсек с той стороны Форпоста! Там частенько можно найти полезные принадлежности для путешественников."
+    ],
     "Files": {
       "npcs/outpost/outpostpenguinpromoter.npctype": [
         "/scriptConfig/dialog/converse/default/default/0"

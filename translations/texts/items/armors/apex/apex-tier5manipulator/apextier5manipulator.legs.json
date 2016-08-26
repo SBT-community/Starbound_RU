@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Гибкие штаны укреплённые ферозиумом, чтобы тот, кто носит их был стремительным, тихим и невредимым."
+    ],
     "Files": {
       "items/armors/apex/apex-tier5manipulator/apextier5manipulator.legs": [
         "/description"
@@ -20,7 +22,7 @@
     },
     "Texts": {
       "Eng": "These flexible trousers are toughened with ferozium, so the wearer will be swift, silent and safe.",
-      "Rus": "Гибкие штаны укреплённые ферозиумом, чтобы тот, кто носит их был стремительным, тихим и невредимым."
+      "Rus": "Гибкие штаны, укреплённые ферозиумом, чтобы тот, кто носит их, был стремительным, тихим и невредимым."
     }
   }
 ]

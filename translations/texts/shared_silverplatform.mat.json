@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Полированные платформы созданные из чистого серебра."
+    ],
     "Files": {
       "items/materials/silverplatform.matitem": [
         "/description"
@@ -15,7 +17,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я могу увидеть своё отражение в этой серебряной платформе."
+    ],
     "Files": {
       "items/materials/silverplatform.matitem": [
         "/glitchdescription/glitchEmotedText"
@@ -26,11 +30,13 @@
     },
     "Texts": {
       "Eng": "I can see my reflection in these silver platforms.",
-      "Rus": "Я могу увидеть своё отражение в этой серебряной платформе."
+      "Rus": "Я могу видеть своё отражение в этих серебряных  платформах."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я считаю, эта платформа стоит на вес серебра."
+    ],
     "Files": {
       "items/materials/silverplatform.matitem": [
         "/novakiddescription"
@@ -45,7 +51,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Платформа из ссеребра."
+    ],
     "Files": {
       "items/materials/silverplatform.matitem": [
         "/florandescription"
@@ -56,7 +64,7 @@
     },
     "Texts": {
       "Eng": "Platformss made from ssilver.",
-      "Rus": "Платформа из ссеребра."
+      "Rus": "Платформы ссделаны из ссеребра."
     }
   },
   {

@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Приветливый. Привет незнакомец! Добро пожаловать в мою Ставку!"
+    ],
     "Files": {
       "npcs/story/baron.npctype": [
         "/scriptConfig/dialog/baron/start/default/default/0"
@@ -12,7 +14,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Внимательный. Что это? У вас есть просьба? Вещь позади меня? Оу, эта..."
+    ],
     "Files": {
       "npcs/story/baron.npctype": [
         "/scriptConfig/dialog/baron/start/default/default/2"
@@ -60,7 +64,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я ожидал вас...С того момента как вы вошли через дверь! Ха ха ха!"
+    ],
     "Files": {
       "npcs/story/baron.npctype": [
         "/scriptConfig/dialog/baron/start/default/default/1"
@@ -72,7 +78,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Властный. Что ж! Тогда прощай, странный человек!"
+    ],
     "Files": {
       "npcs/story/baron.npctype": [
         "/scriptConfig/dialog/baron/showRelic/default/default/1"
@@ -84,7 +92,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Впечатлен. Отличная работа! Я сомневаюсь, что мне придется еще раз терпеть их визиты... Хм, ты напомнил мне меня в молодости."
+    ],
     "Files": {
       "npcs/story/baron.npctype": [
         "/scriptConfig/dialog/baron/finalWaveComplete/default/default/0"
@@ -96,7 +106,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ободренный. Выход в великое неизвестное!"
+    ],
     "Files": {
       "npcs/story/baron.npctype": [
         "/scriptConfig/dialog/baron/beamOut/default/default/0"
@@ -108,7 +120,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Задумчивый. Также здесь довольно скучно."
+    ],
     "Files": {
       "npcs/story/baron.npctype": [
         "/scriptConfig/dialog/baron/missionComplete/default/default/2"
@@ -120,7 +134,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Шокирован. Что это такое в небе?"
+    ],
     "Files": {
       "npcs/story/baron.npctype": [
         "/scriptConfig/dialog/baron/finalWaveComplete/default/default/2"
@@ -144,7 +160,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Пораженный. Ты слышал это?"
+    ],
     "Files": {
       "npcs/story/baron.npctype": [
         "/scriptConfig/dialog/baron/alerted/default/default/0"

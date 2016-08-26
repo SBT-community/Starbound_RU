@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Этикетка гласит \"Жёлто-коричневые крылья делают этого жука незаметным на деревьях.\""
+    ],
     "Files": {
       "objects/bugs/fawnfly/fawnfly.object": [
         "/description"

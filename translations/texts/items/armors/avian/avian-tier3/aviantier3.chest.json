@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Слегка-зудящая титановая пластина, которую носили Авианы-простолюдины по всей галактике."
+    ],
     "Files": {
       "items/armors/avian/avian-tier3/aviantier3.chest": [
         "/description"
@@ -20,7 +22,7 @@
     },
     "Texts": {
       "Eng": "Slightly-itchy titanium plate, worn by Avian commoners around the galaxy.",
-      "Rus": "Слегка-зудящая титановая пластина, которую носили Авианы-простолюдины по всей галактике."
+      "Rus": "Слегка зудящая титановая пластина, которую носили Авиане-простолюдины по всей галактике."
     }
   }
 ]

@@ -1,6 +1,9 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флоран использует это, чтобы добавить новые штуки в репликатор.",
+      "Флоране используют это чтобы добавить больше шшштук к репликатору."
+    ],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/acceleratoraddon/acceleratoraddon.object": [
         "/floranDescription"
@@ -11,11 +14,13 @@
     },
     "Texts": {
       "Eng": "Floran use thisss to add more thingss to replicator.",
-      "Rus": "Флоране используют это чтобы добавить больше шшштук к репликатору."
+      "Rus": "Флоран использует это, чтобы добавить новые шшштуки в репликатор."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Используется для добавления дополнительной брони и оружия в репликатор."
+    ],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/acceleratoraddon/acceleratoraddon.object": [
         "/avianDescription"
@@ -33,7 +38,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "С помощью этого можно добавить еще модулей к репликатору."
+    ],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/acceleratoraddon/acceleratoraddon.object": [
         "/novakidDescription"
@@ -47,7 +54,7 @@
     },
     "Texts": {
       "Eng": "This handy ol' module will add even more to the replicator.",
-      "Rus": "С помощью этого можно добавить еще модулей к репликатору."
+      "Rus": "Полезный модуль улучшения, добавит новых возможностей в репликатор."
     }
   }
 ]

@@ -24,7 +24,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Думаю, что я знаю, где находится Артефакт Глитчей! ^#71f2f6; Возвращайтесь в Ковчег, когда будете готовы^white;, дорогуша, и я расскажу тебе больше."
+    ],
     "Files": {
       "quests/story/glitch_mission1.questtemplate": [
         "/scriptConfig/radioMessages/complete/text"
@@ -36,7 +38,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Теперь нам надо найти ^orange;артефакт Глитчей^reset;. Глитчи предпочитают обитать на планетах с большой ^orange;вулканической активностью^reset; (им, похоже, нравится это). Вулканические планеты располагаются вокруг ^orange;огненных звезд^reset;. ^green;Лучше там поискать ^orange;улики^white;. Я знаю, что Глитчи немного эксцентричны, но не стоит их недооценивать: будь осторожен, дорогуша."
+    ],
     "Files": {
       "quests/story/glitch_mission1.questtemplate": [
         "/text"
@@ -96,7 +100,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Эта статуэтка...Кажется, мне знакомо, чья она! Было ли это где-то в книге? Надо поискать..."
+    ],
     "Files": {
       "quests/story/glitch_mission1.questtemplate": [
         "/scriptConfig/radioMessages/uniqueProgress/glitchbaronfigure/text"

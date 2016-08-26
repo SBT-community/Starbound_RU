@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Не так давно я видел(а) ^orange;<target>^white; показывающего <target.pronoun.possessiveDet> новенький ^orange;<item>. ^white;К счастью для нас, нам именно и нужна эта вещь. Сходи и ^green;спроси <target.pronoun.object> , можем ли мы одолжить это."
+    ],
     "Files": {
       "quests/generated/templates/borrow.questtemplate": [
         "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
@@ -92,7 +94,7 @@
     },
     "Texts": {
       "Eng": "Great, you got it! Let's hope <target> understandss Floran's meaning of borrow...",
-      "Rus": ""
+      "Rus": "Отлично, это у тебя! Будем надеяться, что <target> понимает Флоранское ззначение слова одолжить..."
     }
   },
   {
@@ -104,7 +106,7 @@
     },
     "Texts": {
       "Eng": "I think ^orange;<target>^white; has a nice ^orange;<item>^white; that we could use. Why don't you ^green;go and ask <target.pronoun.object> if we can borrow it indefinitely?^white; Actually, leave out the indefinitely part...",
-      "Rus": ""
+      "Rus": "Я думаю что у ^orange;<target>^white; есть ^orange;<item>^white; , и он мог бы нам пригодится. Почему бы тебе ^green;не сходить и  не попросить <target.pronoun.object>одолжить нам это на неопределённое время?^white; На самом деле, неопределённое время не важно..."
     }
   },
   {
@@ -127,7 +129,7 @@
     },
     "Texts": {
       "Eng": "Next, we need a shiny ^orange;<item>^white;. Floran sssaw ^orange;<target>^white; with one, ^green;you should asssk to borrow it.",
-      "Rus": ""
+      "Rus": "Затем, нам нужен сверкающий ^orange;<item>^white;. Флоран видел, что у ^orange;<target>^white; есть один. ^green;одолжите один."
     }
   },
   {
@@ -139,7 +141,7 @@
     },
     "Texts": {
       "Eng": "Now we need to find ourselves one ^orange;<item>. ^white;You should ^green;go and ask ^orange;<target>^green; if we can borrow <target.pronoun.possessive>. ^white;No need to mention that we won't be able to return it. ",
-      "Rus": ""
+      "Rus": "Теперь нам нужно найти себе ^orange;<item>. ^white;Вы должны ^green;пойти и спросить у <target.pronoun.possessive> ^white;сможем ли мы это одолжить. Не думаю, что нам стоит упоминать о том, что мы не сможем это вернуть."
     }
   },
   {
@@ -217,7 +219,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Нам нужно поговорить с ^orange;<target>^white; next. ^green;. Сходи и попроси <target.pronoun.possessiveDet> ^orange;<item>^white;, <target.pronoun.subject> не будет возражать, если Флоран позаимствует это."
+    ],
     "Files": {
       "quests/generated/templates/borrow.questtemplate": [
         "/scriptConfig/generatedText/text/default/floran/0"
@@ -237,7 +241,7 @@
     },
     "Texts": {
       "Eng": "We'll need a nice ^orange;<item>^white; to begin with. I seem to remember seeing ^orange;<target> ^white;with one quite recently. Why don't you ^green;go and ask if we can borrow it for a while? ^white;We can tell <target.pronoun.object> we lost it later if <target.pronoun.subject> asks for it back. ",
-      "Rus": ""
+      "Rus": "Нам нужен хороший ^orange;<item>^white; для начала. Кажется я помню, что недавно видел его у ^orange;<target> ^white;. Почему бы тебе ^green;не сходить и  не одолжить это ненадолго? А когда  <target.pronoun.object> потребует обратно, мы скажем что это потерялось."
     }
   },
   {
@@ -261,7 +265,7 @@
     },
     "Texts": {
       "Eng": "We’ll need to ^green;borrow^orange; <target>’s <item> ^white;next. <target.pronoun.capitalSubject>’ll not have a problem handing it over if you ^green;tell <target.pronoun.object> I sent you.",
-      "Rus": ""
+      "Rus": "Нам надо ^green;одолжить ^orange;<item> у <target>. ^white;<target.pronoun.capitalSubject> отдаст ^orange;<item> ^white;если вы ^green;скажете, что пришли от меня."
     }
   },
   {
@@ -297,7 +301,7 @@
     },
     "Texts": {
       "Eng": "You got the <item>! It's nice that <target> trustsss us with it. I can't promisse that we'll give it back though.",
-      "Rus": ""
+      "Rus": "Ты досстал <item>! Хорошо, что <target> верит нам. Я не могу обещщщать, что мы вернем это."
     }
   }
 ]

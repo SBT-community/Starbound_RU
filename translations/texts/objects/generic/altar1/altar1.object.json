@@ -19,11 +19,14 @@
       ]
     },
     "Texts": {
-      "Eng": "An altar. It's blank of carvings."
+      "Eng": "An altar. It's blank of carvings.",
+      "Rus": "Алтарь. На нём нет какой-либо резьбы."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Алтарь. Надо встать на колени?"
+    ],
     "Files": {
       "objects/generic/altar1/altar1.object": [
         "/humanDescription"
@@ -42,7 +45,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An altar. Such piety is not the way forwards."
+      "Eng": "An altar. Such piety is not the way forwards.",
+      "Rus": "Алтарь. Такая набожность - не путь вперёд."
     }
   },
   {
@@ -58,7 +62,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Каменный стол хорош для нарезки."
+    ],
     "Files": {
       "objects/generic/altar1/altar1.object": [
         "/floranDescription"
@@ -66,11 +72,13 @@
     },
     "Texts": {
       "Eng": "Ssstone table good for cutting.",
-      "Rus": "Каменный стол хорош для нарезки."
+      "Rus": "Каменный ссстол хорош для нарезки."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Каменный Алтарь"
+    ],
     "Files": {
       "objects/generic/altar1/altar1.object": [
         "/shortdescription"
@@ -78,7 +86,7 @@
     },
     "Texts": {
       "Eng": "Stone Altar",
-      "Rus": "Каменный Алтарь"
+      "Rus": "Каменный алтарь"
     }
   },
   {
@@ -89,7 +97,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This altar appears to be entirely without decoration."
+      "Eng": "This altar appears to be entirely without decoration.",
+      "Rus": "Похоже, что этот алтарь совсем не украшен."
     }
   },
   {
@@ -100,7 +109,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This altar is uncarved. Flightless can worship here."
+      "Eng": "This altar is uncarved. Flightless can worship here.",
+      "Rus": "На этом алтаре нет резьбы. Непарящие могут поклоняться здесь."
     }
   }
 ]
