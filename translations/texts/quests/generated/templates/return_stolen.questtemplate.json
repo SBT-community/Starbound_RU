@@ -104,7 +104,7 @@
     },
     "Texts": {
       "Eng": "Everything else is in place! It’s time for some vigilante style burglary. I’ll be your lookout while you^green; grab the stolen ^orange;<item>^green; from ^orange;<thief>’s^green;place. Then sneak it back into ^orange;<victim>’s^green; home.",
-      "Rus": ""
+      "Rus": "Видел, что дома, где живёт ^orange;<thief>^white;, стоит ^orange;<item>^white; - так вот, эта вещь ворованная. Раньше ей владел<victim.pronoun.verbEnding> ^orange;<victim>^white;. Как насчёт того, чтобы совершить немного правосудия со взломом и ^green;вернуть вещь прежнему владельцу^white;?"
     }
   },
   {
@@ -140,7 +140,7 @@
     },
     "Texts": {
       "Eng": "Finally, I know that ^orange;<thief>^white; recently stole <victim>'s ^orange;<item>.^white; I bet if you ^green;retrieved it and put it back in ^orange;<victim>'s^green; house,^white; <victim.pronoun.subject> would be very grateful, and favour me in future.",
-      "Rus": ""
+      "Rus": "Слушай, я знаю, что ^orange;<thief>^white; - вор. Это я понял<questGiver.pronoun.verbEnding>, когда увидел<questGiver.pronoun.verbEnding>, что в <thief.pronoun.reflexive> доме стоит ^orange;<item>^white; - и эта вещь явно взята из дома, где живёт ^orange;<victim>^white;. Ты должен ^green;вернуть её настоящему владельцу^white;."
     }
   },
   {
@@ -152,7 +152,7 @@
     },
     "Texts": {
       "Eng": "Finally, time for some vigilante justice! ^green;Remove the stolen ^orange;<item>^green; from ^orange;<thief>'s^green; home, and ^green;place it back in ^orange;<victim>'s^green; house.^white; I'll be the lookout.",
-      "Rus": ""
+      "Rus": "Время для установления справедливости! Всё, что тебе нужно сделать - это забраться в дом, где живёт ^orange;<thief>^white;, и найти где там ^orange;<item>^white;. Эту вещь следует ^green;вернуть прежнему владельцу^white;, коим является ^orange;<victim>^white;."
     }
   },
   {
