@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Даёт вам использовать рывок в воздухе, выбирая направление в момент прыжка!"
+    ],
     "Files": {
       "tech/jump/rocketjump.tech": [
         "/description"

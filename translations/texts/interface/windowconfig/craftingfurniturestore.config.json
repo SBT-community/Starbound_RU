@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "МОЖЕШЬ ПОЗВОЛИТЬ СЕБЕ"
+    ],
     "Files": {
       "interface/windowconfig/craftingfurniturestore.config": [
         "/paneLayout/lblProduct/value"
@@ -60,7 +62,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "^#b9b5b2;фИЛЬТР"
+    ],
     "Files": {
       "interface/windowconfig/craftingfurniturestore.config": [
         "/paneLayout/lblFilters/value"

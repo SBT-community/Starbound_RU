@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Не рубить м\"газин грибка! Рубить!"
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/encourage/default/default/0"
@@ -12,7 +14,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "П\"жаловать!"
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/tout/default/default/1"
@@ -36,7 +40,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Щёлкозверь помож\"ш с цветочком в г\"ршке?"
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/hail/floran/glitch/7/glitchEmotedText"
@@ -48,7 +54,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Щелкозверь! Если резать, ты встр\"тишь к\"нец."
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/hail/floran/glitch/4"
@@ -60,7 +68,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Клинк! П\"жаловать!"
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/tout/default/default/0"
@@ -84,7 +94,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Фанфум! Делать клинк х\"рошо!"
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/end/default/default/1"
@@ -108,7 +120,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Фум. Клинк ждать т\"бя."
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/end/default/default/0"
@@ -120,7 +134,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Сп\"сибо помощь мой маг\"зин!"
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/rent/default/default/0"
@@ -156,7 +172,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Хабахум, помж\"ш резать рыбаськин дом!"
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/hail/floran/floran/5"
@@ -168,7 +186,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Халалалхум, д\"лать дом как цветок на вид!"
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/hail/floran/floran/4"
@@ -192,7 +212,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Хахахахум! Щупалец не нр\"вится вы мясные."
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/hail/floran/human/7"
@@ -216,7 +238,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Халахалахум, цветочек! \r\nМ\"няться з\"лотые пиксели! Руби клинк!"
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/start/default/floran/0"
@@ -228,7 +252,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Хахахалахум, рад встр\"тить птичку с обл\"ков."
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/hail/floran/avian/2"
@@ -253,6 +279,8 @@
   },
   {
     "DeniedAlternatives": [
+      "Халахум мегаклинкер. Моя самый р\"ботать!",
+      "Халхум мегаклинкер! П\"жаловать м\"газин!",
       "Халхум мегаклинкер! П'жаловать м'газин!"
     ],
     "Files": {
@@ -267,7 +295,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Пр\"вет не красть бить вор!"
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/accuse/default/default/2"
@@ -279,7 +309,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Халахум глупоклюв. Не бить дом, ин\"че грибок д\"шить тебя."
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/hail/floran/avian/1"
@@ -291,7 +323,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Гладкий человече! Не Резать стол, к\"рабля к\"смоса картография!"
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/hail/floran/human/2"
@@ -303,7 +337,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Халахум! Не бояца цветочек в г\"ршке!"
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/hail/floran/floran/1"
@@ -315,7 +351,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Пр\"вет, апесьян. П\"жлста не кр\"шить."
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/hail/floran/apex/3"
@@ -327,7 +365,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ладно, п\"жаловать. Нет резать, это что? Птиц?"
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/hail/floran/glitch/1"
@@ -339,7 +379,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ухааах, п\"ла циркулярная х\"оршо!"
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/hail/floran/human/5"
@@ -351,7 +393,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Хум щелкозверь. Сам спр\"вишься?"
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/hail/floran/glitch/5"
@@ -363,7 +407,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Хум клинкер. Моя м\"газин пр\"ходи купить нада?"
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/start/default/default/1"
@@ -424,7 +470,8 @@
   },
   {
     "DeniedAlternatives": [
-      "Хум! Грибки жить тут!"
+      "Хум! Грибки жить тут!",
+      "Хум! Это место грибков ж\"лище."
     ],
     "Files": {
       "dialog/shroom.config": [
@@ -462,7 +509,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Хум! Хум хум! Резать грибенить если место л\"мать, клювастик!"
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/hail/floran/avian/5"
@@ -474,7 +523,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Хум. Ты п\"могать рыбасикам, я т\"бя резать!",
+      "Хум. Ты пмгать рыбасикам, я т'бя резать!"
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/hail/floran/apex/7"
@@ -482,11 +534,13 @@
     },
     "Texts": {
       "Eng": "Hoom! Hop chop, hairthing! Halb squishfish?",
-      "Rus": "Хум. Ты пмгать рыбасикам, я т'бя резать!"
+      "Rus": "Хум! Ты пмогать рыбасикам, я т'бя резать!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Хум! Мясной не нрав\"ца!"
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/hail/floran/human/0"
@@ -498,7 +552,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Хум! Не резать Большой Апесьян, п\"жаловать?"
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/hail/floran/apex/2"
@@ -510,7 +566,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Хум, щёлкозверь. Наб картографии грибка к\"рабль к\"смоса."
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/hail/floran/glitch/0"
@@ -522,7 +580,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Хум, я не бояться цветочек! С\"бирай пиксели, б\"дем дел\"ть клинк клинк."
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/start/default/floran/1"
@@ -534,7 +594,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Хум, рыбаська! Наб лмать дом клинкер. Х\"ршо?"
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/start/default/hylotl/2"
@@ -546,7 +608,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Хум. Щелкозверь я нр\"вится твой дом, грибочек п\"мгать."
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/hail/floran/glitch/3/glitchEmotedText"
@@ -570,7 +634,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Хум. Пом\"щ х\"рошо, наб л\"мать."
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/hail/floran/floran/2"
@@ -594,7 +660,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Хум. Не уб\"вать тебя, п\"жаловать."
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/hail/floran/apex/6"
@@ -606,7 +674,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Хум. Я не см\"лый, рыбаська."
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/hail/floran/hylotl/5"
@@ -618,7 +688,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Хуум. Цветочек не л\"мать лавку, п\"жлста?"
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/start/default/floran/2"
@@ -630,7 +702,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Хум. Стреча х\"рошо апеcьян."
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/hail/floran/apex/0"
@@ -642,7 +716,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Хум? Обнимаца буд\"м?"
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/hail/floran/avian/7"
@@ -666,7 +742,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "П\"рвет, хлоп! Корб\"ль и п\"шистий клюф на брт\"у! Н\"конец-то!"
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/hail/floran/avian/3"
@@ -714,7 +792,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Цветульки убить твой грибок, рыбаська. Угр\"жать!"
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/hail/floran/hylotl/3"
@@ -750,7 +830,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Наб клинк, иди сюда м\"газин!"
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/follow/default/default/1"
@@ -762,7 +844,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Наб п\"мгать, рыбаська! Тр\"нешь хатка, я резать т\"бя!"
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/hail/floran/hylotl/2"
@@ -810,7 +894,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Нет клинк! Нет довол\"н!"
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/severe/default/default/0"
@@ -822,7 +908,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Нет фум, нова м\"газин, менять м\"сто!"
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/final/default/default/0"
@@ -846,7 +934,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Чинить м\"газин! Чинить!"
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/enclosedArea/default/default/0"
@@ -858,7 +948,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Зачем п\"ставить ещё Колонизат\"р? Нет довол\"н!"
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/otherDeed/default/default/0"
@@ -870,7 +962,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Не рубить м\"газин грибка!"
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/helpme/default/default/0"
@@ -882,7 +976,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Трогать м\"газин грибка наб!? Наб Наб!"
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/tagCriteria/default/default/0"
@@ -906,7 +1002,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Цветочек хум! Флораны резать, помож\"ш?!"
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/hail/floran/floran/6"
@@ -918,7 +1016,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Р\"д стрече, я р\"ботать х\"ршо."
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/hail/floran/apex/5"
@@ -978,7 +1078,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Писк. Хум наб."
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/hail/floran/hylotl/4"
@@ -990,7 +1092,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Рыбаська. Не рубить кр\"пкий клинкер."
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/start/default/hylotl/1"
@@ -1002,7 +1106,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Не п\"жаловать воры, хум!"
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/accuse/default/default/1"
@@ -1014,7 +1120,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Воры не п\"жаловать!"
+    ],
     "Files": {
       "dialog/shroom.config": [
         "/alert/default/default/1"

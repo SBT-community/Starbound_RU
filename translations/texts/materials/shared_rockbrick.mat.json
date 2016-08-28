@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Грубо сделанные каменные кирпичи."
+    ],
     "Files": {
       "items/materials/rockbrick.matitem": [
         "/description"
@@ -11,11 +13,13 @@
     },
     "Texts": {
       "Eng": "A crudely produced set of rock bricks.",
-      "Rus": "Грубо сделанные каменные кирпичи."
+      "Rus": "Грубо изготовленные каменные кирпичи."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Каменные Кирпичи"
+    ],
     "Files": {
       "items/materials/rockbrick.matitem": [
         "/shortdescription"
@@ -26,7 +30,7 @@
     },
     "Texts": {
       "Eng": "Rock Bricks",
-      "Rus": "Каменные Кирпичи"
+      "Rus": "Каменные кирпичи"
     }
   },
   {
@@ -40,7 +44,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Sstacked rockss."
+      "Eng": "Sstacked rockss.",
+      "Rus": "Сссложенные камни."
     }
   },
   {
@@ -54,7 +59,8 @@
       ]
     },
     "Texts": {
-      "Eng": "These are simply rocks stacked like bricks"
+      "Eng": "These are simply rocks stacked like bricks",
+      "Rus": "Обычные камни, сложенные как кирпичи."
     }
   },
   {
@@ -68,7 +74,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This ain't nothin' more'n a pile of rocks."
+      "Eng": "This ain't nothin' more'n a pile of rocks.",
+      "Rus": "Всё лишь куча камней, ничё более."
     }
   }
 ]

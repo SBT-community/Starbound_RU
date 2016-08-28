@@ -10,7 +10,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Big ol' pile of dusty silt."
+      "Eng": "Big ol' pile of dusty silt.",
+      "Rus": "Большая старая куча пыльного ила."
     }
   },
   {
@@ -24,11 +25,14 @@
       ]
     },
     "Texts": {
-      "Eng": "It is difficult to keep silt from seeping into my components."
+      "Eng": "It is difficult to keep silt from seeping into my components.",
+      "Rus": "Держать ил довольно трудно, он просачивается в мои детали."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Песок. Очень песочный."
+    ],
     "Files": {
       "items/materials/sand.matitem": [
         "/description"
@@ -39,11 +43,13 @@
     },
     "Texts": {
       "Eng": "It's Silt. It's very silty.",
-      "Rus": "Песок. Очень песочный."
+      "Rus": "Ил. Очень илистый."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Сыпучий песок"
+    ],
     "Files": {
       "items/materials/sand.matitem": [
         "/shortdescription"
@@ -54,7 +60,7 @@
     },
     "Texts": {
       "Eng": "Loose Silt",
-      "Rus": "Сыпучий песок"
+      "Rus": "Рыхлый ил"
     }
   },
   {
@@ -68,7 +74,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Silt. It's so dussty."
+      "Eng": "Silt. It's so dussty.",
+      "Rus": "Ил. Он такой пыльный."
     }
   }
 ]

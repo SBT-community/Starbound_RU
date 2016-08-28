@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Деревянный Верстак"
+    ],
     "Files": {
       "interface/windowconfig/craftingfurniture.config": [
         "/paneLayout/windowtitle/title"

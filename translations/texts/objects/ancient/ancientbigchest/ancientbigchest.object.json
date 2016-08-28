@@ -20,11 +20,13 @@
     },
     "Texts": {
       "Eng": "A fearsome ancient chest ornamented with a lidless eye.",
-      "Rus": ""
+      "Rus": "Внушающий страх сундук, украшенный глазом без век."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Древний Большой Сундук"
+    ],
     "Files": {
       "objects/ancient/ancientbigchest/ancientbigchest.object": [
         "/shortdescription"
@@ -44,7 +46,7 @@
     },
     "Texts": {
       "Eng": "I don't care much for the way this chest is lookin' at me.",
-      "Rus": ""
+      "Rus": "Не нравится мне, как этот сундук на меня уставился."
     }
   },
   {
@@ -60,7 +62,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "С-с-страшный сундук делает Флоран нервными.",
+      "Ссстрашный сундук делает Флоран нервными."
+    ],
     "Files": {
       "objects/ancient/ancientbigchest/ancientbigchest.object": [
         "/floranDescription"
@@ -68,11 +73,13 @@
     },
     "Texts": {
       "Eng": "Ssscary chessst makes Floran nervousss.",
-      "Rus": "С-с-страшный сундук делает Флоран нервными."
+      "Rus": "Ссстрашный сссундук нервирует Флоран."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Похоже, что глаз на этом сундуке будет судить меня."
+    ],
     "Files": {
       "objects/ancient/ancientbigchest/ancientbigchest.object": [
         "/glitchDescription/glitchEmotedText"
@@ -80,7 +87,7 @@
     },
     "Texts": {
       "Eng": "The eye adorning this chest seems to be judging me.",
-      "Rus": "Похоже, что глаз на этом сундуке будет судить меня."
+      "Rus": "Глаз, украшающий сундук, будто осуждает меня."
     }
   },
   {

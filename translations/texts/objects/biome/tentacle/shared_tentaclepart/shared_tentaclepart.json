@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Не знаю что эт\". И знать не хочу."
+    ],
     "Files": {
       "objects/biome/tentacle/tentaclepart1/tentaclepart1.object": [
         "/novakidDescription"
@@ -36,7 +38,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Кажется это что-то органическое.",
+      "Похоже это что-то органическое."
+    ],
     "Files": {
       "objects/biome/tentacle/tentaclepart1/tentaclepart1.object": [
         "/glitchDescription/glitchEmotedText"
@@ -50,11 +55,13 @@
     },
     "Texts": {
       "Eng": "It seems to be something organic.",
-      "Rus": "Кажется это что-то органическое."
+      "Rus": "Похоже, это что-то органическое."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Какая-то крайне отталкивающая органическая структура."
+    ],
     "Files": {
       "objects/biome/tentacle/tentaclepart1/tentaclepart1.object": [
         "/hylotlDescription"
@@ -68,11 +75,13 @@
     },
     "Texts": {
       "Eng": "Some utterly repulsive, organic structure.",
-      "Rus": "Какая-то крайне отталкивающая органическая структура."
+      "Rus": "Чрезвычайно омерзительная, органическая структура."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Нечто склизкое и органическое..."
+    ],
     "Files": {
       "objects/biome/tentacle/tentaclepart1/tentaclepart1.object": [
         "/description"
@@ -90,7 +99,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Cccлизистое."
+    ],
     "Files": {
       "objects/biome/tentacle/tentaclepart1/tentaclepart1.object": [
         "/floranDescription"
@@ -126,7 +137,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Это нервирует. "
+    ],
     "Files": {
       "objects/biome/tentacle/tentaclepart1/tentaclepart1.object": [
         "/apexDescription"
@@ -144,7 +157,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ик. Да что это вообще такое?"
+    ],
     "Files": {
       "objects/biome/tentacle/tentaclepart1/tentaclepart1.object": [
         "/humanDescription"

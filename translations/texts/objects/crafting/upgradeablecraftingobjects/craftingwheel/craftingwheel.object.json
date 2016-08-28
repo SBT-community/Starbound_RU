@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Швейная машина"
+    ],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftingwheel/craftingwheel.object": [
         "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title"
@@ -12,7 +14,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ткацкий станок"
+    ],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftingwheel/craftingwheel.object": [
         "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title"
@@ -24,7 +28,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "^#b9b5b2;Ткани и красители"
+    ],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftingwheel/craftingwheel.object": [
         "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
@@ -37,7 +43,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Швейная машина. Инструмент для портных."
+    ],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftingwheel/craftingwheel.object": [
         "/upgradeStages/1/itemSpawnParameters/apexDescription"
@@ -49,7 +57,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Швейная машина. Не так уж и плохо."
+    ],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftingwheel/craftingwheel.object": [
         "/upgradeStages/1/itemSpawnParameters/humanDescription"
@@ -61,7 +71,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Прялка. Для портных незаменима."
+    ],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftingwheel/craftingwheel.object": [
         "/apexDescription",
@@ -70,11 +82,13 @@
     },
     "Texts": {
       "Eng": "A spinning wheel. A tool for tailors.",
-      "Rus": "Прялка. Для портных незаменима."
+      "Rus": "Ткацкий станок. Инструмент для портных."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Станок для портного."
+    ],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftingwheel/craftingwheel.object": [
         "/glitchDescription/glitchEmotedText",
@@ -83,11 +97,13 @@
     },
     "Texts": {
       "Eng": "A tailoring tool.",
-      "Rus": "Станок для портного."
+      "Rus": "Инструмент для работы с тканью."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Инструмент для работы с тканями."
+    ],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftingwheel/craftingwheel.object": [
         "/avianDescription",
@@ -101,7 +117,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Деревянный ткацкий станок. Это так старомодно."
+    ],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftingwheel/craftingwheel.object": [
         "/humanDescription",
@@ -114,7 +132,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Улучшенный станок для портного."
+    ],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftingwheel/craftingwheel.object": [
         "/upgradeStages/1/itemSpawnParameters/glitchDescription/glitchEmotedText"
@@ -122,7 +142,7 @@
     },
     "Texts": {
       "Eng": "An advanced tailoring tool.",
-      "Rus": "Улучшенный станок для портного."
+      "Rus": "Инструмент для работы с тканью."
     }
   },
   {
@@ -151,7 +171,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Может работать на швейной машине не так традиционно, как на ткацком станке, но намного эффективней."
+    ],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftingwheel/craftingwheel.object": [
         "/upgradeStages/1/itemSpawnParameters/hylotlDescription"
@@ -177,7 +199,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Колесо прялки подобно колесу сансары - на глубоком метафорическом уровне."
+    ],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftingwheel/craftingwheel.object": [
         "/hylotlDescription",
@@ -186,11 +210,13 @@
     },
     "Texts": {
       "Eng": "The Hylotl consider spinning yarn an art-form.",
-      "Rus": "Колесо прялки подобно колесу сансары - на глубоком метафорическом уровне."
+      "Rus": "Хилотлы относятся к работе с пряжей, как к искусству."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Швейная машина используется для производства одежды, тканей и других ингредиентов для крафта."
+    ],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftingwheel/craftingwheel.object": [
         "/upgradeStages/1/itemSpawnParameters/description"
@@ -202,7 +228,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ткацкий станок используется для производства одежды, тканей и других ингредиентов для крафта.",
+      "Ткацкий станок используется для производства одежды, тканей и других ингридиентов для крафта."
+    ],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftingwheel/craftingwheel.object": [
         "/description",
@@ -215,7 +244,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "^orange;Швейная машина^white; "
+    ],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftingwheel/craftingwheel.object": [
         "/upgradeStages/1/itemSpawnParameters/shortdescription"
@@ -227,7 +258,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "^orange;Ткацкий станок^white; "
+    ],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftingwheel/craftingwheel.object": [
         "/shortdescription",

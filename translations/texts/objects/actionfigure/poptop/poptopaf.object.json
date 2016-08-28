@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Фигурка Поптопа"
+    ],
     "Files": {
       "objects/actionfigure/poptop/poptopaf.object": [
         "/shortdescription"
@@ -8,11 +10,13 @@
     },
     "Texts": {
       "Eng": "Poptop Figurine",
-      "Rus": "Фигурка Поптопа"
+      "Rus": "Фигурка поптопа"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Табличка гласит: \"Поптоп красиво жужжит, чтобы обескуражить своих врагов.\""
+    ],
     "Files": {
       "objects/actionfigure/poptop/poptopaf.object": [
         "/description"

@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Этикетка гласит \"Очень модный жук, обладающий золотистыми крыльями.\""
+    ],
     "Files": {
       "objects/bugs/goldbuck/goldbuck.object": [
         "/description"

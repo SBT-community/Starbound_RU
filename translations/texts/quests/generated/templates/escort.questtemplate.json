@@ -24,7 +24,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Сопровождение <targetNpcType>"
+    ],
     "Files": {
       "quests/generated/templates/escort.questtemplate": [
         "/scriptConfig/generatedText/title/default/0"
@@ -48,7 +50,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Тревожно"
+    ],
     "Files": {
       "quests/generated/templates/escort.questtemplate": [
         "/scriptConfig/generatedText/fluff/6/1/0"
@@ -72,7 +76,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Сопровождение <targetNpcType>"
+    ],
     "Files": {
       "quests/generated/templates/escort.questtemplate": [
         "/scriptConfig/generatedText/title/default/1"
@@ -84,7 +90,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Найдите <targetNpcType> - друга <questGiver>"
+    ],
     "Files": {
       "quests/generated/templates/escort.questtemplate": [
         "/scriptConfig/objectives/0/text"
@@ -96,7 +104,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Друг Флорана ^orange;<targetNpcType>^white; должен был встретить Флорана <activityfloran> <earlier>. <targetNpcType> наверное потерялся... последний раз, когда Флоран видел друга, был у ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Можешь помочь Флорану найти <targetNpcType.pronoun.object>^white;?"
+    ],
     "Files": {
       "quests/generated/templates/escort.questtemplate": [
         "/scriptConfig/generatedText/text/default/floran/0"
@@ -166,7 +176,7 @@
     },
     "Texts": {
       "Eng": "My <friend> ^orange;<targetNpcType>^white; was meant to meet me so we could <activity1> <earlier>. <targetNpcType.pronoun.capitalSubject> probably got lost getting here - the last place I saw <targetNpcType.pronoun.object> was the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Could you go there and bring <targetNpcType.pronoun.object> back here to me^white;?",
-      "Rus": "Мой <friend>, ^orange;<targetNpcType>^white;, <earlier> долж<targetNpcType.pronoun.verb2Ending>  был<targetNpcType.pronoun.verbEnding> встретиться с мной, чтобы <activity1>. <targetNpcType.pronoun.capitalSubject> наверное потерял<targetNpcType.pronoun.verb3Ending> по пути - в последний раз когда я <targetNpcType.pronoun.reflexive> видел<questGiber.pronoun.verbEnding>, <targetNpcType.pronoun.subject> был<targetNpcType.pronoun.verbEnding> у ^orange;<spawnPoint>^white; <spawnPoint.direction>. ^green;Можешь сходить туда и привести  <targetNpcType.pronoun.reflexive> обратно^white;?"
+      "Rus": "Мой <friend>, ^orange;<targetNpcType>^white;, <earlier> долж<targetNpcType.pronoun.verb2Ending>  был<targetNpcType.pronoun.verbEnding> встретиться с мной, чтобы <activity1>. <targetNpcType.pronoun.capitalSubject> наверное потерял<targetNpcType.pronoun.verb3Ending> по пути - в последний раз когда я <targetNpcType.pronoun.reflexive> видел<questGiver.pronoun.verbEnding>, <targetNpcType.pronoun.subject> был<targetNpcType.pronoun.verbEnding> у ^orange;<spawnPoint>^white; <spawnPoint.direction>. ^green;Можешь сходить туда и привести  <targetNpcType.pronoun.reflexive> обратно^white;?"
     }
   },
   {
@@ -182,7 +192,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Паникуя"
+    ],
     "Files": {
       "quests/generated/templates/escort.questtemplate": [
         "/scriptConfig/generatedText/fluff/6/1/2"
@@ -206,7 +218,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Возьми это как знак моей благодарности."
+    ],
     "Files": {
       "quests/generated/templates/escort.questtemplate": [
         "/scriptConfig/generatedText/fluff/7/1/1"
@@ -242,7 +256,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Спасибо что привел(а) <targetNpcType> обратно  к Флорану!"
+    ],
     "Files": {
       "quests/generated/templates/escort.questtemplate": [
         "/scriptConfig/generatedText/completionText/default/floran/0"
@@ -298,7 +314,7 @@
     },
     "Texts": {
       "Eng": "^cyan;My friend <targetNpcType> hasn't arrived yet.",
-      "Rus": "^cyan;<glitchworry2>. Мой друг <targetNpcType> ещё не явил<targetNpcType.pronoun.verb3Ending>."
+      "Rus": "^cyan;Мой друг <targetNpcType> ещё не явил<targetNpcType.pronoun.verb3Ending>."
     }
   },
   {
@@ -327,7 +343,9 @@
   },
   {
     "Comment": "Предложный падеж",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " кошках"
+    ],
     "Files": {
       "quests/generated/templates/escort.questtemplate": [
         "/scriptConfig/generatedText/fluff/3/1/7"
@@ -340,7 +358,9 @@
   },
   {
     "Comment": "Предложный падеж",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " классической литературе"
+    ],
     "Files": {
       "quests/generated/templates/escort.questtemplate": [
         "/scriptConfig/generatedText/fluff/3/1/11"
@@ -353,7 +373,9 @@
   },
   {
     "Comment": "Предложный падеж",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " комиксах"
+    ],
     "Files": {
       "quests/generated/templates/escort.questtemplate": [
         "/scriptConfig/generatedText/fluff/3/1/9"
@@ -390,7 +412,9 @@
   },
   {
     "Comment": "Предложный падеж",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " экзотических фруктах"
+    ],
     "Files": {
       "quests/generated/templates/escort.questtemplate": [
         "/scriptConfig/generatedText/fluff/3/1/10"
@@ -403,7 +427,9 @@
   },
   {
     "Comment": "Предложный падеж",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " лесных пожарах"
+    ],
     "Files": {
       "quests/generated/templates/escort.questtemplate": [
         "/scriptConfig/generatedText/fluff/3/1/12"
@@ -416,7 +442,9 @@
   },
   {
     "Comment": "Предложный падеж",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " руках"
+    ],
     "Files": {
       "quests/generated/templates/escort.questtemplate": [
         "/scriptConfig/generatedText/fluff/3/1/13"
@@ -441,7 +469,9 @@
   },
   {
     "Comment": "Предложный падеж",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " "
+    ],
     "Files": {
       "quests/generated/templates/escort.questtemplate": [
         "/scriptConfig/generatedText/fluff/3/1/6"
@@ -454,7 +484,9 @@
   },
   {
     "Comment": "Предложный падеж",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " пиратах"
+    ],
     "Files": {
       "quests/generated/templates/escort.questtemplate": [
         "/scriptConfig/generatedText/fluff/3/1/2"
@@ -486,12 +518,14 @@
     },
     "Texts": {
       "Eng": "plan a piece of art inspired by <activity2>",
-      "Rus": "получить вдохновение от материалов про <activity2>"
+      "Rus": "набраться вдохновения от материалов про <activity2>"
     }
   },
   {
     "Comment": "Предложный падеж",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " скелетах"
+    ],
     "Files": {
       "quests/generated/templates/escort.questtemplate": [
         "/scriptConfig/generatedText/fluff/3/1/4"
@@ -503,7 +537,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "для небольшой практики с копьем"
+    ],
     "Files": {
       "quests/generated/templates/escort.questtemplate": [
         "/scriptConfig/generatedText/fluff/4/1/3"
@@ -528,7 +564,9 @@
   },
   {
     "Comment": "Предложный падеж",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " золотом веке космического пиратства"
+    ],
     "Files": {
       "quests/generated/templates/escort.questtemplate": [
         "/scriptConfig/generatedText/fluff/3/1/14"
@@ -541,7 +579,9 @@
   },
   {
     "Comment": "Предложный падеж",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " маленьких лодках"
+    ],
     "Files": {
       "quests/generated/templates/escort.questtemplate": [
         "/scriptConfig/generatedText/fluff/3/1/15"
@@ -554,7 +594,9 @@
   },
   {
     "Comment": "Предложный падеж",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " выращивании овощей"
+    ],
     "Files": {
       "quests/generated/templates/escort.questtemplate": [
         "/scriptConfig/generatedText/fluff/3/1/5"
@@ -567,7 +609,9 @@
   },
   {
     "Comment": "Предложный падеж",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " видеоиграх"
+    ],
     "Files": {
       "quests/generated/templates/escort.questtemplate": [
         "/scriptConfig/generatedText/fluff/3/1/8"

@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Индустриальный верстак"
+    ],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftingfurniture/craftingfurniture.object": [
         "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title"
@@ -144,7 +146,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Промышленный Верстак используется для производства материалов и предметов, необходимых для развития поселения."
+    ],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftingfurniture/craftingfurniture.object": [
         "/upgradeStages/1/itemSpawnParameters/description"
@@ -168,7 +172,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "^orange;Индустриальный верстак^white; "
+    ],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftingfurniture/craftingfurniture.object": [
         "/upgradeStages/1/itemSpawnParameters/shortdescription"

@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Этикетка гласит \"Этот жучок, как ни странно, любит солнце.\""
+    ],
     "Files": {
       "objects/bugs/sunskipper/sunskipper.object": [
         "/description"

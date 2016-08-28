@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Круть, теперь я могу собрать свою армию злых пчёл"
+    ],
     "Files": {
       "objects/crafting/capturestation/capturestation.object": [
         "/humanDescription"
@@ -48,7 +50,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Станция Питомцев"
+    ],
     "Files": {
       "objects/crafting/capturestation/capturestation.object": [
         "/interactData/paneLayoutOverride/windowtitle/title"

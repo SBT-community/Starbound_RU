@@ -32,7 +32,7 @@
     },
     "Texts": {
       "Eng": "Coloured glass like this can be used to make stylish sunglasses.",
-      "Rus": ""
+      "Rus": "Цветное стекло можно использовать для изготовления стильных солнцезащитных очков."
     }
   },
   {
@@ -44,11 +44,13 @@
     },
     "Texts": {
       "Eng": "Coloured glass. Very pretty.",
-      "Rus": ""
+      "Rus": "Очень красивое. Цветное стекло. "
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Стеклянная Панель"
+    ],
     "Files": {
       "objects/human/glasspanel/glasspanel.object": [
         "/shortdescription"
@@ -80,7 +82,7 @@
     },
     "Texts": {
       "Eng": "Pretty glassss serves as bad hiding place.",
-      "Rus": ""
+      "Rus": "Cccтекло это плохое укрытие."
     }
   },
   {
@@ -92,7 +94,7 @@
     },
     "Texts": {
       "Eng": "This glass sparkles like colourful sea shells.",
-      "Rus": ""
+      "Rus": "Это стекло сверкает как яркие морские ракушки."
     }
   },
   {
@@ -104,7 +106,7 @@
     },
     "Texts": {
       "Eng": "This glass sparkles like jewels.",
-      "Rus": ""
+      "Rus": "Это стекло сверкает, как драгоценные камни."
     }
   }
 ]

@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Канализационная труба использующаяся для транспортировки отходов."
+    ],
     "Files": {
       "items/materials/sewerpipe.matitem": [
         "/description"

@@ -48,7 +48,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Деревянный шкаф с раковиной установлен."
+    ],
     "Files": {
       "objects/generic/woodensink/woodensink.object": [
         "/description"
@@ -56,11 +58,13 @@
     },
     "Texts": {
       "Eng": "A wooden cabinet with a sink installed.",
-      "Rus": "Деревянный шкаф с раковиной установлен."
+      "Rus": "Деревянный шкаф с установленной раковиной."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Горячая и холодная вода, для вашего удобства."
+    ],
     "Files": {
       "objects/generic/woodensink/woodensink.object": [
         "/glitchDescription/glitchEmotedText"
@@ -72,7 +76,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Интересно, если вода пресная."
+    ],
     "Files": {
       "objects/generic/woodensink/woodensink.object": [
         "/hylotlDescription"
@@ -80,11 +86,13 @@
     },
     "Texts": {
       "Eng": "I wonder if the water is fresh.",
-      "Rus": "Интересно, если вода пресная."
+      "Rus": "Интересно, чистая ли вода."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Повернуть ручку, вода польется."
+    ],
     "Files": {
       "objects/generic/woodensink/woodensink.object": [
         "/floranDescription"
@@ -96,7 +104,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Деревянная Раковина"
+    ],
     "Files": {
       "objects/generic/woodensink/woodensink.object": [
         "/shortdescription"
@@ -104,7 +114,7 @@
     },
     "Texts": {
       "Eng": "Wooden Sink",
-      "Rus": "Деревянная Раковина"
+      "Rus": "Деревянная раковина"
     }
   }
 ]

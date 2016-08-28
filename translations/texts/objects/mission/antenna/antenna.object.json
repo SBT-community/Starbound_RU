@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A device to pick up signals."
+      "Eng": "A device to pick up signals.",
+      "Rus": "Устройство для приёма сигналов."
     }
   },
   {
@@ -60,7 +61,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флоран мог бы использовать это что бы колоть врага.",
+      "Флоран могли бы использовать её что бы дратьсся."
+    ],
     "Files": {
       "objects/mission/antenna/antenna.object": [
         "/floranDescription"
@@ -68,11 +72,13 @@
     },
     "Texts": {
       "Eng": "Floran could use this to ssstab.",
-      "Rus": "Флоран могли бы использовать её что бы дратьсся."
+      "Rus": "Флоран мог бы использовать её чтобы дратьсся."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "\"Есть кто на другом конце? Хотя нет. Не хочу знать."
+    ],
     "Files": {
       "objects/mission/antenna/antenna.object": [
         "/humanDescription"
@@ -80,7 +86,7 @@
     },
     "Texts": {
       "Eng": "Is there anybody out there? Wait, I don't wanna know.",
-      "Rus": "\"Есть кто на другом конце? Хотя нет. Не хочу знать."
+      "Rus": "Есть кто на другом конце? Хотя нет. Не хочу знать."
     }
   },
   {
@@ -91,7 +97,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This antenna is playing havoc with my sensors."
+      "Eng": "This antenna is playing havoc with my sensors.",
+      "Rus": "Эта антенна нарушает работу моих сенсоров."
     }
   }
 ]

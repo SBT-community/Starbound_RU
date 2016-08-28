@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A hazardous ice mechanism."
+      "Eng": "A hazardous ice mechanism.",
+      "Rus": "Опасный ледяной механизм."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Ancient Ice Trap"
+      "Eng": "Ancient Ice Trap",
+      "Rus": "Древняя ледяная ловушка"
     }
   },
   {
@@ -29,11 +31,14 @@
       ]
     },
     "Texts": {
-      "Eng": "Ice can be dangeroussss."
+      "Eng": "Ice can be dangeroussss.",
+      "Rus": "Лед может быть опасным."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Это смертельная ледяная ловушка."
+    ],
     "Files": {
       "objects/traps/ancienticetrap/ancienticetrap.object": [
         "/apexDescription",
@@ -41,7 +46,8 @@
       ]
     },
     "Texts": {
-      "Eng": "It's a deadly ice trap."
+      "Eng": "It's a deadly ice trap.",
+      "Rus": "Смертельная ледяная ловушка."
     }
   },
   {
@@ -52,7 +58,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This frost trap could freeze the paws off a brass monkey."
+      "Eng": "This frost trap could freeze the paws off a brass monkey.",
+      "Rus": "От этой ловушки такой холод! Зуб на зуб не попадает!"
     }
   },
   {
@@ -63,7 +70,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This trap spews frost to deter invaders."
+      "Eng": "This trap spews frost to deter invaders.",
+      "Rus": "Эта ловушка испускает холод для отпугивания вторженцев."
     }
   },
   {
@@ -74,7 +82,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Watch out for the deadly ice blast."
+      "Eng": "Watch out for the deadly ice blast.",
+      "Rus": "Нужно остерегаться холода из этой ловушки."
     }
   }
 ]

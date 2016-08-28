@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Один."
+    ],
     "Files": {
       "objects/outpost/number1/number1.object": [
         "/shortdescription"
@@ -52,7 +54,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Заоccстренный шшшип."
+    ],
     "Files": {
       "objects/outpost/number1/number1.object": [
         "/floranDescription"
@@ -60,7 +64,7 @@
     },
     "Texts": {
       "Eng": "Pointy one.",
-      "Rus": "Заоccстренный шшшип."
+      "Rus": "Заостренный шшшип."
     }
   }
 ]

@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Сфера, движущаяся быстрее в жидкостях! ^green;[F]"
+    ],
     "Files": {
       "tech/distortionsphere/aquasphere.tech": [
         "/description"

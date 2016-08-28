@@ -1,6 +1,9 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Нельзя терять времени, открывайся!",
+      "Нет времени, надо его открыть!"
+    ],
     "Files": {
       "objects/generic/podchest/podchest.object": [
         "/glitchDescription/glitchEmotedText"
@@ -11,7 +14,7 @@
     },
     "Texts": {
       "Eng": "No time to waste, open it up!",
-      "Rus": "Нельзя терять времени, открывайся!"
+      "Rus": "Некогда объяснять, открывай!"
     }
   },
   {
@@ -26,7 +29,7 @@
     },
     "Texts": {
       "Eng": "Presents are most exciting when they're still wrapped.",
-      "Rus": ""
+      "Rus": "Подарки вызывают особый восторг, когда они ещё не открыты."
     }
   }
 ]

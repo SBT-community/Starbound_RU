@@ -10,11 +10,14 @@
       ]
     },
     "Texts": {
-      "Eng": "A simple table."
+      "Eng": "A simple table.",
+      "Rus": "Обычный стол."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Стол. ничем не примечательный."
+    ],
     "Files": {
       "objects/human/bunkertable1/bunkertable1.object": [
         "/hylotlDescription"
@@ -24,7 +27,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A table. Unremarkable."
+      "Eng": "A table. Unremarkable.",
+      "Rus": "Ничем не примечательный стол."
     }
   }
 ]

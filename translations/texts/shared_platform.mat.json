@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Просто платформа из дерева."
+    ],
     "Files": {
       "items/materials/platform.matitem": [
         "/novakiddescription"
@@ -15,7 +17,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Проссстая деревянная платформа."
+    ],
     "Files": {
       "items/materials/platform.matitem": [
         "/florandescription"
@@ -26,11 +30,13 @@
     },
     "Texts": {
       "Eng": "Ssimple wood platformsss.",
-      "Rus": "Проссстая деревянная платформа."
+      "Rus": "Простые деревянные платформы."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Обычная деревянная платформа."
+    ],
     "Files": {
       "items/materials/platform.matitem": [
         "/glitchdescription/glitchEmotedText"

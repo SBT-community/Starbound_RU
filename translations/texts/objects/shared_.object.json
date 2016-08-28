@@ -15,7 +15,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Потолочная лампа."
+    ],
     "Files": {
       "objects/human/bunkerceilinglight1/bunkerceilinglight1.object": [
         "/avianDescription"
@@ -29,7 +31,7 @@
     },
     "Texts": {
       "Eng": "A ceiling light.",
-      "Rus": "Потолочная лампа."
+      "Rus": "Потолочный светильник."
     }
   },
   {
@@ -65,11 +67,13 @@
     },
     "Texts": {
       "Eng": "A light fixture.",
-      "Rus": ""
+      "Rus": "Осветительный прибор."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Потолочная металлическая лампа."
+    ],
     "Files": {
       "objects/human/bunkerceilinglight1/bunkerceilinglight1.object": [
         "/description"
@@ -83,7 +87,7 @@
     },
     "Texts": {
       "Eng": "A metallic ceiling lamp.",
-      "Rus": "Потолочная металлическая лампа."
+      "Rus": "Металлический потолочный светильник."
     }
   },
   {
@@ -134,7 +138,7 @@
     },
     "Texts": {
       "Eng": "A plain lookin' ceilin' light.",
-      "Rus": ""
+      "Rus": "Эт\" незамысловатый на вид потолочный светильник."
     }
   },
   {
@@ -189,7 +193,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Не примечательный потолочный светильник.",
+      "Неинтересный потолочный светильник."
+    ],
     "Files": {
       "objects/human/bunkerceilinglight1/bunkerceilinglight1.object": [
         "/hylotlDescription"
@@ -203,7 +210,7 @@
     },
     "Texts": {
       "Eng": "An uninteresting ceiling light.",
-      "Rus": "Не примечательный потолочный светильник."
+      "Rus": "Непримечательный потолочный светильник."
     }
   },
   {
@@ -300,7 +307,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Подвешенная лампа."
+    ],
     "Files": {
       "objects/human/bunkerceilinglight1/bunkerceilinglight1.object": [
         "/floranDescription"
@@ -314,7 +323,7 @@
     },
     "Texts": {
       "Eng": "Hanging lamp.",
-      "Rus": "Подвешенная лампа."
+      "Rus": "Висящая лампа."
     }
   },
   {
@@ -457,7 +466,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Хранилищщще"
+    ],
     "Files": {
       "objects/apex/apexcoolcupboard/apexcoolcupboard.object": [
         "/floranDescription"

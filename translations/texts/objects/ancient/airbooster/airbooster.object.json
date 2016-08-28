@@ -36,7 +36,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Дайте мне гравитационный усилитель"
+    ],
     "Files": {
       "objects/ancient/airbooster/airbooster.object": [
         "/humanDescription"
@@ -44,7 +46,7 @@
     },
     "Texts": {
       "Eng": "Give me a gravity boost!",
-      "Rus": "Дайте мне гравитационный усилитель"
+      "Rus": "Дайте мне гравитационный усилитель!"
     }
   },
   {
@@ -60,7 +62,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Поток воздуха из воздушного клапана симулирует уменьшение гравитации"
+    ],
     "Files": {
       "objects/ancient/airbooster/airbooster.object": [
         "/apexDescription"
@@ -68,7 +72,7 @@
     },
     "Texts": {
       "Eng": "The airflow from this vent is low gravity stimulus.",
-      "Rus": "Поток воздуха из воздушного клапана симулирует уменьшение гравитации"
+      "Rus": "Поток воздуха из воздушного клапана симулирует уменьшение гравитации."
     }
   },
   {
@@ -84,7 +88,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Этот воздушный клапан симулирует ощущение полета"
+    ],
     "Files": {
       "objects/ancient/airbooster/airbooster.object": [
         "/avianDescription"
@@ -92,11 +98,13 @@
     },
     "Texts": {
       "Eng": "This vent simulates the feeling of flight!",
-      "Rus": "Этот воздушный клапан симулирует ощущение полета"
+      "Rus": "Этот воздушный клапан симулирует ощущение полета!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Воздушный клапан позволяет Флоранам немного полетать"
+    ],
     "Files": {
       "objects/ancient/airbooster/airbooster.object": [
         "/floranDescription"
@@ -104,7 +112,7 @@
     },
     "Texts": {
       "Eng": "Vent makesss Floran go fly!",
-      "Rus": "Воздушный клапан позволяет Флоранам немного полетать"
+      "Rus": "Воздушный клапан позволяет Флорану немного полетать!"
     }
   }
 ]

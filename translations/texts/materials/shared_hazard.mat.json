@@ -60,7 +60,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Этот рисунок предписывает осторожность."
+    ],
     "Files": {
       "items/materials/hazard.matitem": [
         "/description"
@@ -71,7 +73,7 @@
     },
     "Texts": {
       "Eng": "This pattern suggests caution.",
-      "Rus": "Этот рисунок предписывает осторожность."
+      "Rus": "Раскраска предупреждает быть осторожнее."
     }
   }
 ]

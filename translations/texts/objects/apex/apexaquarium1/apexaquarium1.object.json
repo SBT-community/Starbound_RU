@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Одинокая рыбка. Может, ему нужен друг?"
+    ],
     "Files": {
       "objects/apex/apexaquarium1/apexaquarium1.object": [
         "/novakidDescription"
@@ -48,7 +50,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ооо, закуска."
+    ],
     "Files": {
       "objects/apex/apexaquarium1/apexaquarium1.object": [
         "/floranDescription"
@@ -56,7 +60,7 @@
     },
     "Texts": {
       "Eng": "Ooo, a sssnack bar.",
-      "Rus": "Ооо, закуска."
+      "Rus": "Ооо, закуссска."
     }
   },
   {
@@ -84,7 +88,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Это напоминает мне о старинной человеческой ."
+    ],
     "Files": {
       "objects/apex/apexaquarium1/apexaquarium1.object": [
         "/humanDescription"

@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Осадок этого яда, не должен пропадать зря!"
+    ],
     "Files": {
       "items/generic/crafting/toxicwaste.item": [
         "/description"

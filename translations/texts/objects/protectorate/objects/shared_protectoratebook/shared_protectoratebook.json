@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Книжки со словами, ссловами и ссловами."
+    ],
     "Files": {
       "objects/protectorate/objects/protectoratebookcabinet/protectoratebookcabinet.object": [
         "/floranDescription"
@@ -13,11 +15,14 @@
       ]
     },
     "Texts": {
-      "Eng": "Books with words and words and wordsss."
+      "Eng": "Books with words and words and wordsss.",
+      "Rus": "Книги со словами, ссловами и сссловами."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Лёгкое чтение."
+    ],
     "Files": {
       "objects/protectorate/objects/protectoratebookcabinet/protectoratebookcabinet.object": [
         "/apexDescription"
@@ -30,7 +35,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Some light reading."
+      "Eng": "Some light reading.",
+      "Rus": "Лёгкое чтиво."
     }
   }
 ]

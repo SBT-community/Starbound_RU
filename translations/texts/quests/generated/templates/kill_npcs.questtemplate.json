@@ -13,7 +13,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флоран видел  ^orange;<enemy>^white;  пока Флоран <floranmotivation> <earlier>. Они были у ^orange;<spawnPoint>^white;<spawnPoint.direction>. Флоран <floransuspicious> - ^green; можешь помочь с этим^white;?"
+    ],
     "Files": {
       "quests/generated/templates/kill_npcs.questtemplate": [
         "/scriptConfig/generatedText/text/default/floran/0"
@@ -51,7 +53,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я не могу говорить с уверенностью"
+    ],
     "Files": {
       "quests/generated/templates/kill_npcs.questtemplate": [
         "/scriptConfig/generatedText/fluff/12/1/2"
@@ -63,7 +67,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Теперь я чувствую себя в безопасности. Спасибо! Возьми это в качестве благодарности за твою помощь."
+    ],
     "Files": {
       "quests/generated/templates/kill_npcs.questtemplate": [
         "/scriptConfig/generatedText/fluff/10/1/1"
@@ -99,7 +105,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я впечатлен(а)! Спасибо тебе большое!"
+    ],
     "Files": {
       "quests/generated/templates/kill_npcs.questtemplate": [
         "/scriptConfig/generatedText/fluff/10/1/0"
@@ -111,7 +119,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я не уверен"
+    ],
     "Files": {
       "quests/generated/templates/kill_npcs.questtemplate": [
         "/scriptConfig/generatedText/fluff/12/1/1"
@@ -207,7 +217,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ты разобрался(ась) с <enemy>? <appreciation>"
+    ],
     "Files": {
       "quests/generated/templates/kill_npcs.questtemplate": [
         "/scriptConfig/generatedText/completionText/default/default/0",
@@ -244,7 +256,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ты помог(ла) сделать эту планету немного безопасней!"
+    ],
     "Files": {
       "quests/generated/templates/kill_npcs.questtemplate": [
         "/scriptConfig/generatedText/fluff/10/1/2"
@@ -424,7 +438,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "обсуждая"
+    ],
     "Files": {
       "quests/generated/templates/kill_npcs.questtemplate": [
         "/scriptConfig/generatedText/fluff/13/1/0"
@@ -472,7 +488,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "будущие возможности для бизнеса"
+    ],
     "Files": {
       "quests/generated/templates/kill_npcs.questtemplate": [
         "/scriptConfig/generatedText/fluff/14/1/6"
@@ -484,7 +502,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "будущие преступления, которые они планировали"
+    ],
     "Files": {
       "quests/generated/templates/kill_npcs.questtemplate": [
         "/scriptConfig/generatedText/fluff/14/1/4"
@@ -520,7 +540,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "прогуливался"
+    ],
     "Files": {
       "quests/generated/templates/kill_npcs.questtemplate": [
         "/scriptConfig/generatedText/fluff/16/1/3"
@@ -532,7 +554,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "пушки"
+    ],
     "Files": {
       "quests/generated/templates/kill_npcs.questtemplate": [
         "/scriptConfig/generatedText/fluff/14/1/0"
@@ -544,7 +568,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "не имеет при себе оружия"
+    ],
     "Files": {
       "quests/generated/templates/kill_npcs.questtemplate": [
         "/scriptConfig/generatedText/fluff/18/1/0"
@@ -556,7 +582,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "историческую литературу"
+    ],
     "Files": {
       "quests/generated/templates/kill_npcs.questtemplate": [
         "/scriptConfig/generatedText/fluff/14/1/7"
@@ -616,7 +644,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "не готов сссражаться"
+    ],
     "Files": {
       "quests/generated/templates/kill_npcs.questtemplate": [
         "/scriptConfig/generatedText/fluff/18/1/3"
@@ -640,7 +670,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "ссслишком волнуется"
+    ],
     "Files": {
       "quests/generated/templates/kill_npcs.questtemplate": [
         "/scriptConfig/generatedText/fluff/18/1/2"
@@ -688,7 +720,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "искал еду"
+    ],
     "Files": {
       "quests/generated/templates/kill_npcs.questtemplate": [
         "/scriptConfig/generatedText/fluff/16/1/0"
@@ -700,7 +734,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "искал места где можно спрятаться"
+    ],
     "Files": {
       "quests/generated/templates/kill_npcs.questtemplate": [
         "/scriptConfig/generatedText/fluff/16/1/1"
@@ -784,7 +820,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "размышлял о всяком"
+    ],
     "Files": {
       "quests/generated/templates/kill_npcs.questtemplate": [
         "/scriptConfig/generatedText/fluff/16/1/4"
@@ -844,7 +882,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " науку"
+    ],
     "Files": {
       "quests/generated/templates/kill_npcs.questtemplate": [
         "/scriptConfig/generatedText/fluff/14/1/1"
@@ -856,7 +896,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "секретные планы"
+    ],
     "Files": {
       "quests/generated/templates/kill_npcs.questtemplate": [
         "/scriptConfig/generatedText/fluff/14/1/2"
@@ -880,7 +922,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "нечто плохое"
+    ],
     "Files": {
       "quests/generated/templates/kill_npcs.questtemplate": [
         "/scriptConfig/generatedText/fluff/14/1/5"
@@ -952,7 +996,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "их методы приготовления пищи"
+    ],
     "Files": {
       "quests/generated/templates/kill_npcs.questtemplate": [
         "/scriptConfig/generatedText/fluff/14/1/8"
@@ -964,7 +1010,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "их чувства"
+    ],
     "Files": {
       "quests/generated/templates/kill_npcs.questtemplate": [
         "/scriptConfig/generatedText/fluff/14/1/3"
@@ -988,7 +1036,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "думает что ты разберешшшься с этим лучше"
+    ],
     "Files": {
       "quests/generated/templates/kill_npcs.questtemplate": [
         "/scriptConfig/generatedText/fluff/18/1/1"
@@ -1000,7 +1050,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "думает что мы можем быть в опасности"
+    ],
     "Files": {
       "quests/generated/templates/kill_npcs.questtemplate": [
         "/scriptConfig/generatedText/fluff/17/1/3"
@@ -1096,7 +1148,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "пытался быть скрытным"
+    ],
     "Files": {
       "quests/generated/templates/kill_npcs.questtemplate": [
         "/scriptConfig/generatedText/fluff/16/1/2"

@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Старый, покрытый ржавчиной металл."
+    ],
     "Files": {
       "items/materials/rustymetal.matitem": [
         "/description"
@@ -25,7 +27,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Russst covered metal."
+      "Eng": "Russst covered metal.",
+      "Rus": "Покрытый ржавчиной металл."
     }
   },
   {
@@ -54,7 +57,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Some ol' metal covered in thick rust."
+      "Eng": "Some ol' metal covered in thick rust.",
+      "Rus": "Старый металл, покрытый толстенным слоем ржавчины."
     }
   },
   {
@@ -68,7 +72,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The rust on this metal makes me very uncomfortable."
+      "Eng": "The rust on this metal makes me very uncomfortable.",
+      "Rus": "От ржавчины на этом металле мне становится дурно."
     }
   }
 ]

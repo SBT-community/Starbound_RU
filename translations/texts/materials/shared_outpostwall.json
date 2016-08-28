@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Тёмный бетон, специально разработан для форпостов."
+    ],
     "Files": {
       "items/materials/outpostwall.matitem": [
         "/description"
@@ -15,7 +17,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флорана не уссстраивает холодный жесткий бетон."
+    ],
     "Files": {
       "items/materials/outpostwall.matitem": [
         "/florandescription"
@@ -30,7 +34,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Бетон Форпоста"
+    ],
     "Files": {
       "items/materials/outpostwall.matitem": [
         "/shortdescription"
@@ -45,7 +51,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Этот бетон кажется ну ооочень жёстким."
+    ],
     "Files": {
       "items/materials/outpostwall.matitem": [
         "/novakiddescription"
@@ -60,7 +68,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Этот специально разработанный быстросохнущий бетон."
+    ],
     "Files": {
       "items/materials/outpostwall.matitem": [
         "/glitchdescription/glitchEmotedText"

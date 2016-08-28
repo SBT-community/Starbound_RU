@@ -638,10 +638,12 @@
     "DeniedAlternatives": [
       "Доволен.",
       "Довольно.",
+      "Изумленно.",
       "Насмешливо.",
       "Позабавило.",
       "Развлечённо.",
-      "Удивленно."
+      "Удивленно.",
+      "Удивлённо."
     ],
     "Files": {
       "dialog/converse.config": [
@@ -788,7 +790,7 @@
     },
     "Texts": {
       "Eng": "Amused.",
-      "Rus": "Изумленно."
+      "Rus": "Изумлённо."
     }
   },
   {
@@ -989,7 +991,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Надоедливо."
+    ],
     "Files": {
       "dialog/oremerchant.config": [
         "/severe/glitch/default/0/glitchEmote"
@@ -1012,7 +1016,7 @@
     },
     "Texts": {
       "Eng": "Annoyed.",
-      "Rus": "Надоедливо."
+      "Rus": "Раздражённо."
     }
   },
   {
@@ -1058,7 +1062,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Anxious."
+      "Eng": "Anxious.",
+      "Rus": "Тревожно."
     }
   },
   {
@@ -1122,7 +1127,8 @@
   {
     "DeniedAlternatives": [
       "Благодарно.",
-      "Благодарный."
+      "Благодарный.",
+      "Удовлетворительно."
     ],
     "Files": {
       "dialog/arrivedhome.config": [
@@ -1437,7 +1443,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Стыдно."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/glitch/generic/68/glitchEmote"
@@ -1477,7 +1485,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Изумлённо."
+    ],
     "Files": {
       "dialog/flee.config": [
         "/helpme/glitch/default/2/glitchEmote"
@@ -1494,7 +1504,7 @@
     },
     "Texts": {
       "Eng": "Astounded.",
-      "Rus": "Изумлённо."
+      "Rus": "Обескураженно."
     }
   },
   {
@@ -1748,6 +1758,7 @@
   },
   {
     "DeniedAlternatives": [
+      "Скучающе.",
       "Скучающий."
     ],
     "Files": {
@@ -2446,7 +2457,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Cheerful."
+      "Eng": "Cheerful.",
+      "Rus": "Бодро."
     }
   },
   {
@@ -2587,7 +2599,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Concern."
+      "Eng": "Concern.",
+      "Rus": "Concern."
     }
   },
   {
@@ -2877,13 +2890,15 @@
       ]
     },
     "Texts": {
-      "Eng": "Conflicted."
+      "Eng": "Conflicted.",
+      "Rus": "Противоречиво."
     }
   },
   {
     "DeniedAlternatives": [
       "В замешательстве.",
       "Недоумевающе.",
+      "Озадаченно.",
       "Растеряно.",
       "Рестерянно.",
       "Смущенно.",
@@ -3170,6 +3185,7 @@
   },
   {
     "DeniedAlternatives": [
+      "Content.",
       "Содержание."
     ],
     "Files": {
@@ -4431,7 +4447,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Destructive."
+      "Eng": "Destructive.",
+      "Rus": "Разрушительно."
     }
   },
   {
@@ -4505,7 +4522,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Devastated."
+      "Eng": "Devastated.",
+      "Rus": "Опустошённо."
     }
   },
   {
@@ -5168,6 +5186,7 @@
   },
   {
     "DeniedAlternatives": [
+      "Огорченно.",
       "Проблемно."
     ],
     "Files": {
@@ -5252,7 +5271,7 @@
     },
     "Texts": {
       "Eng": "Distressed.",
-      "Rus": "Огорченно."
+      "Rus": "Огорчённо."
     }
   },
   {
@@ -5318,7 +5337,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Disturbed."
+      "Eng": "Disturbed.",
+      "Rus": "Беспокойно."
     }
   },
   {
@@ -5381,6 +5401,7 @@
     "DeniedAlternatives": [
       "В предвкушении.",
       "Взволнованно.",
+      "Зависть.",
       "Нетерпеливо.",
       "Нетерпеливый.",
       "С азартом.",
@@ -5680,7 +5701,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Encouraged."
+      "Eng": "Encouraged.",
+      "Rus": "Encouraged."
     }
   },
   {
@@ -5873,7 +5895,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Entranced."
+      "Eng": "Entranced.",
+      "Rus": "Зачарованно."
     }
   },
   {
@@ -5943,7 +5966,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Exasperated."
+      "Eng": "Exasperated.",
+      "Rus": "Раздраженно."
     }
   },
   {
@@ -5967,7 +5991,8 @@
       "Восторжен.",
       "Восторженно.",
       "Восторженный.",
-      "Восхищённо."
+      "Восхищённо.",
+      "Постройте дом, и ^green;разместите внутри ^orange;3 ^green;<tag>."
     ],
     "Files": {
       "dialog/combat.config": [
@@ -6265,7 +6290,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Explanation."
+      "Eng": "Explanation.",
+      "Rus": "Объяснение."
     }
   },
   {
@@ -6285,7 +6311,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Exuberant."
+      "Eng": "Exuberant.",
+      "Rus": "Энергично."
     }
   },
   {
@@ -6323,7 +6350,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Facinated."
+      "Eng": "Facinated.",
+      "Rus": "Очарованно."
     }
   },
   {
@@ -6370,7 +6398,8 @@
   {
     "DeniedAlternatives": [
       "Восхищённо.",
-      "Заворожен."
+      "Заворожен.",
+      "Очаровано."
     ],
     "Files": {
       "dialog/converse.config": [
@@ -6976,7 +7005,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Grieving."
+      "Eng": "Grieving.",
+      "Rus": "Огорчённо."
     }
   },
   {
@@ -7269,7 +7299,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hopeful."
+      "Eng": "Hopeful.",
+      "Rus": "Оптимистично."
     }
   },
   {
@@ -7554,11 +7585,14 @@
   },
   {
     "DeniedAlternatives": [
+      "Impressed.",
+      "Восхищенно.",
       "Восхищён.",
       "Восхищённо.",
       "Впечатлен.",
       "Впечатляюще.",
-      "Впечатлён."
+      "Впечатлён.",
+      "Удивленно."
     ],
     "Files": {
       "dialog/converse.config": [
@@ -8185,6 +8219,7 @@
   {
     "DeniedAlternatives": [
       "Информирован.",
+      "Осведомлёно.",
       "Сообщение."
     ],
     "Files": {
@@ -8302,7 +8337,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Insincere."
+    ],
     "Files": {
       "dialog/guard.config": [
         "/hail/glitch/default/7/glitchEmote"
@@ -8671,7 +8708,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Испуганно.",
+      "Устрашённо."
+    ],
     "Files": {
       "dialog/outpost.config": [
         "/flee/helpme/glitch/default/1/glitchEmote",
@@ -8692,7 +8732,7 @@
     },
     "Texts": {
       "Eng": "Intimidated.",
-      "Rus": "Устрашённо."
+      "Rus": "Запуганно."
     }
   },
   {
@@ -9496,7 +9536,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Хулигански."
+    ],
     "Files": {
       "objects/apex/classicplate/classicplate.object": [
         "/glitchDescription/glitchEmote"
@@ -9531,11 +9573,13 @@
     },
     "Texts": {
       "Eng": "Mischievous.",
-      "Rus": "Хулигански."
+      "Rus": "Шаловливо."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Mistrust."
+    ],
     "Files": {
       "objects/spawner/spawners/spawner_wizard.object": [
         "/glitchDescription/glitchEmote"
@@ -10314,6 +10358,7 @@
   },
   {
     "DeniedAlternatives": [
+      "Изучающе.",
       "Наблюдательно.",
       "Наблюдательность.",
       "Наблюдательный.",
@@ -11086,7 +11131,7 @@
     },
     "Texts": {
       "Eng": "Obsessive.",
-      "Rus": ""
+      "Rus": "Навязчиво."
     }
   },
   {
@@ -11408,7 +11453,7 @@
   },
   {
     "DeniedAlternatives": [
-      "Ошеломленно.",
+      "Недоумевающе.",
       "Растерянно."
     ],
     "Files": {
@@ -11492,7 +11537,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Philosophical."
+    ],
     "Files": {
       "objects/farmables/beakseed/beakseedseed.object": [
         "/glitchDescription/glitchEmote"
@@ -11928,7 +11975,7 @@
     },
     "Texts": {
       "Eng": "Pondering.",
-      "Rus": ""
+      "Rus": "Pondering."
     }
   },
   {
@@ -12248,7 +12295,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Questioning."
+    ],
     "Files": {
       "objects/apex/apexstatue/apexstatue.object": [
         "/glitchDescription/glitchEmote"
@@ -12503,6 +12552,7 @@
   },
   {
     "DeniedAlternatives": [
+      "Облегчение.",
       "Облегченно.",
       "Обрадовавшийся.",
       "Освобождёно.",
@@ -12665,7 +12715,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Resentful."
+      "Eng": "Resentful.",
+      "Rus": "Возмущённо."
     }
   },
   {
@@ -12950,6 +13001,7 @@
   {
     "DeniedAlternatives": [
       "Доволен.",
+      "Довольно.",
       "Удовлетворенно.",
       "Удовлетворён."
     ],
@@ -13057,7 +13109,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Satisfied."
+      "Eng": "Satisfied.",
+      "Rus": "Удовлетворённо."
     }
   },
   {
@@ -13566,7 +13619,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Spontaneous."
+      "Eng": "Spontaneous.",
+      "Rus": "Спонтанно."
     }
   },
   {
@@ -14184,7 +14238,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Stressed."
+      "Eng": "Stressed.",
+      "Rus": "Напряжённо."
     }
   },
   {
@@ -14532,7 +14587,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Благожелательно."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/glitch/human/1/glitchEmote"
@@ -15418,7 +15475,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Бескорыстно.",
+      "Незаинтересованно."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/glitch/avian/19/glitchEmote"
@@ -15483,7 +15543,7 @@
     },
     "Texts": {
       "Eng": "Uninterested.",
-      "Rus": "Незаинтересованно."
+      "Rus": "Безразлично."
     }
   },
   {
@@ -15723,6 +15783,7 @@
   },
   {
     "DeniedAlternatives": [
+      "Гостеприимно.",
       "Приветствуя."
     ],
     "Files": {
@@ -15878,7 +15939,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Волнуюсь.",
+      "Обеспокоен."
+    ],
     "Files": {
       "dialog/clues.config": [
         "/glitch/default/default/8/glitchEmote"
@@ -15955,7 +16019,7 @@
     },
     "Texts": {
       "Eng": "Worried.",
-      "Rus": "Волнуюсь."
+      "Rus": "Встревоженно."
     }
   }
 ]

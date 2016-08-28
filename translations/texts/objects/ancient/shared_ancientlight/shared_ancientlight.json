@@ -10,7 +10,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A large and unsightly light."
+      "Eng": "A large and unsightly light.",
+      "Rus": "Крупный неприглядный светильник."
     }
   },
   {
@@ -24,7 +25,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I'd expect a wall lamp this large to give off more light."
+      "Eng": "I'd expect a wall lamp this large to give off more light.",
+      "Rus": "У меня были ожидания, что такой большой светильник давал бы больше света."
     }
   },
   {
@@ -38,7 +40,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Large ugly old light."
+      "Eng": "Large ugly old light.",
+      "Rus": "Большой уродливый ссстарый светильник."
     }
   },
   {
@@ -52,11 +55,14 @@
       ]
     },
     "Texts": {
-      "Eng": "There is nothing remarkable about this light."
+      "Eng": "There is nothing remarkable about this light.",
+      "Rus": "Нет ничего выдающегося в этом светильнике."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Этот свет испускает теплый жар."
+    ],
     "Files": {
       "objects/ancient/ancientlight/ancientlight.object": [
         "/novakidDescription"
@@ -67,7 +73,7 @@
     },
     "Texts": {
       "Eng": "This light gives off a warm glow.",
-      "Rus": "Этот свет испускает теплый жар."
+      "Rus": "Этот светильник испускает теплый свет."
     }
   },
   {
@@ -81,7 +87,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This light has probably been on for millenia."
+      "Eng": "This light has probably been on for millenia.",
+      "Rus": "Наверное этому светильнику уже тысячелетия."
     }
   },
   {
@@ -95,7 +102,8 @@
       ]
     },
     "Texts": {
-      "Eng": "What has been supplying this light's power for so many years?"
+      "Eng": "What has been supplying this light's power for so many years?",
+      "Rus": "Что поддерживает свет в этом светильнике на протяжении стольких лет?"
     }
   }
 ]

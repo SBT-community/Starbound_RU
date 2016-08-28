@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Этикетка гласит \"Потирая задними лапками, жук сыпет искрами из них.\""
+    ],
     "Files": {
       "objects/bugs/phoenixfly/phoenixfly.object": [
         "/description"

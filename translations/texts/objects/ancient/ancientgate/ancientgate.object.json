@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Необычайное строение, манящее меня. Осмелюсь ли я увидеть, что за ними?"
+    ],
     "Files": {
       "objects/ancient/ancientgate/ancientgate.object": [
         "/hylotlDescription"
@@ -56,7 +58,7 @@
     },
     "Texts": {
       "Eng": "A strange gate that's jus' beggin' me to walk through it.",
-      "Rus": ""
+      "Rus": "Дивные ворота, прям умоляющие меня пройти через них."
     }
   },
   {
@@ -72,7 +74,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флорану интересно, что за странные сущщщества создали эту дверь."
+    ],
     "Files": {
       "objects/ancient/ancientgate/ancientgate.object": [
         "/floranDescription"
@@ -80,7 +84,7 @@
     },
     "Texts": {
       "Eng": "Floran wonder which ssstrange creature make door.",
-      "Rus": "Флорану интересно, что за странные сущщщества создали эту дверь."
+      "Rus": "Флорану интересно, что за ссстранное сссущество сделало такую дверь."
     }
   },
   {

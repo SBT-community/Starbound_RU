@@ -72,7 +72,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "<enemy.pronoun.subject> затопил целый город лавой"
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/1/1/14"
@@ -84,7 +86,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "<enemy.pronoun.subject> был обвинен в нелегальном пингвиньем рэстлинге"
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/1/1/8"
@@ -108,7 +112,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "<enemy.pronoun.subject> рыл норы в домах людей, пока они спали"
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/1/1/13"
@@ -120,7 +126,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "<enemy.pronoun.subject> выпустил всех животных в зоопарке"
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/1/1/5"
@@ -168,7 +176,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "<enemy.pronoun.subject> украл всю мебель из города"
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/1/1/12"
@@ -180,7 +190,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "<enemy.pronoun.subject> украл с планеты все запасы <valuable>"
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/1/1/6"
@@ -192,7 +204,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "<enemy.pronoun.subject> попытался украсть целый океан"
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/1/1/11"
@@ -228,7 +242,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "<enemy.pronoun.subject> не переставал воровать кровлю с крыш домов"
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/1/1/15"
@@ -252,7 +268,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Разбойник на свободе! Ходят слухи, что ^orange;<adjective> <enemy.name>, <enemy>^white; сейчас в ^orange;<spawnPoint>^white;<spawnPoint.direction>. Похоже, <enemy.pronoun.copulativePast> был в бегах, с тех пор, как <crime>. ^green;Можете пойти туда и <request>^white;? Сделайте это место безопасней."
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/text/default/default/0",
@@ -289,7 +307,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Каллокс"
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/2/1/2"
@@ -362,7 +382,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Вы покончили с разбоем <enemy.name>? <appreciation>"
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/completionText/default/default/0",
@@ -471,7 +493,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "принц Глитчей"
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/3/1/2"
@@ -483,7 +507,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "принцесса Глитчей"
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/3/1/1"
@@ -507,7 +533,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Граксус"
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/2/1/3"
@@ -519,7 +547,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Отлично! Нам тут не нужны проблемы."
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/7/1/1"
@@ -531,7 +561,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Вы слышали об одном разбойнике, <adjective> <enemy.name>, <enemy>^white;? Я слышал, что <enemy.pronoun.copulative> залег на дно, тут неподалеку, после того, как <crime>. Нам не нужны такие проблемы. ^green;Можете отправится в ^orange;<spawnPoint>^green;<spawnPoint.direction> and <request>^white;?"
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
@@ -543,7 +575,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я так рад, что вы были рядом, чтобы помочь!"
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/7/1/3"
@@ -567,7 +601,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Убейте <adjective> <enemy.name> "
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/objectives/1/text"
@@ -603,7 +639,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Манатикон"
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/2/1/0"
@@ -615,7 +653,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Министерство"
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/2/1/9"
@@ -639,7 +679,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Некроликс"
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/2/1/6"
@@ -651,7 +693,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ротик"
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/2/1/1"
@@ -663,7 +707,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Шэйд Ко."
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/2/1/5"
@@ -723,7 +769,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Теклаки"
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/2/1/7"
@@ -735,7 +783,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Земной Протекторат"
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/2/1/8"
@@ -771,7 +821,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "У меня <problem>! Вы слышали об одном разбойнике, <adjective> <enemy.name>, <enemy>^white;? Я слышал, что <enemy.pronoun.copulative> залег на дно, тут неподалеку, после того, как <crime>. Нам не нужны такие проблемы. ^green;Можете отправится в ^orange;<spawnPoint>^green;<spawnPoint.direction> and <request>^white;?"
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/text/default/default/1"
@@ -783,7 +835,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Кому нужны охранники, если Вы рядом? Спасибо за помощь!"
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/7/1/2"
@@ -795,7 +849,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Киа-Ли"
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/2/1/4"
@@ -891,7 +947,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "бандит, с сильными связями"
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/3/1/5"
@@ -903,7 +961,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "куриц"
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/4/1/4"
@@ -915,7 +975,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "разобраться с <enemy.pronoun.object>"
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/5/1/2"
@@ -927,7 +989,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "брилиантов"
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/4/1/3"
@@ -975,7 +1039,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "сильный Звездочет Авиан"
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/3/1/7"
@@ -999,7 +1065,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "известный поэт Хилотлов"
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/3/1/3"
@@ -1011,7 +1079,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "серебряных изделий"
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/4/1/1"
@@ -1035,7 +1105,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "разобраться с <enemy.pronoun.object>"
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/5/1/1"
@@ -1047,7 +1119,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "разобраться с этим ради Флорана."
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/9/1/2"
@@ -1059,7 +1133,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "вырубить <enemy.pronoun.object>"
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/5/1/0"
@@ -1071,7 +1147,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "припадать <enemy.pronoun.object> урок"
+    ],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/5/1/3"

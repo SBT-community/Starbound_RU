@@ -24,7 +24,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Это исходный ^orange;Мастер Манипулятор^white; - и так уж получилось, что он является артефактом, дарованным людям."
+    ],
     "Files": {
       "cinematics/story/opengate/opengate.cinematic": [
         "/panels/41/text"

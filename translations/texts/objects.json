@@ -212,7 +212,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я думаю, там что-то есть. Я наверное могу вломиться."
+    ],
     "Files": {
       "objects/biome/tentacle/tentaclepopbig/tentaclepopbig.object": [
         "/humanDescription"
@@ -244,7 +246,7 @@
     },
     "Texts": {
       "Eng": "I think there's something in there. I can probably break it open.",
-      "Rus": "Я думаю, там что-то есть. Я наверное могу вломиться."
+      "Rus": "Я думаю внутри что-то есть. Вероятно я могу её сломать, чтобы открыть."
     }
   },
   {
@@ -922,7 +924,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Иногда сила может даровать награду."
+    ],
     "Files": {
       "objects/biome/tentacle/tentaclepopbig/tentaclepopbig.object": [
         "/hylotlDescription"
@@ -949,7 +953,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Крушить пока не откроется! Взять всё что внутри!"
+    ],
     "Files": {
       "objects/biome/tentacle/tentaclepopbig/tentaclepopbig.object": [
         "/floranDescription"

@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Толстый тип стены разработан для использования в экстремальных условиях."
+    ],
     "Files": {
       "items/materials/outpostwall2.matitem": [
         "/description"
@@ -15,7 +17,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Никакая сила не подвинет эту могучую стену."
+    ],
     "Files": {
       "items/materials/outpostwall2.matitem": [
         "/novakiddescription"
@@ -30,7 +34,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ничто не сможет сдвинуть эту конструктивно усиленную стену."
+    ],
     "Files": {
       "items/materials/outpostwall2.matitem": [
         "/glitchdescription/glitchEmotedText"
@@ -45,7 +51,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Толстая стена Форпоста"
+    ],
     "Files": {
       "items/materials/outpostwall2.matitem": [
         "/shortdescription"
@@ -60,7 +68,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Эта ссстена очень прочная."
+    ],
     "Files": {
       "items/materials/outpostwall2.matitem": [
         "/florandescription"

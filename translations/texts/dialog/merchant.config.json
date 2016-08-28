@@ -96,7 +96,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Но это мой магазин, я не могу его с кем-то делить."
+    ],
     "Files": {
       "dialog/merchant.config": [
         "/otherDeed/glitch/default/1/glitchEmotedText"

@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Роб Ремонтник"
+    ],
     "Files": {
       "interface/scripted/vehiclerepair/vehiclerepairgui.config": [
         "/gui/windowtitle/title"

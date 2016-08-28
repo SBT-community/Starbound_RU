@@ -1,6 +1,9 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ящик  сделан из дерева.",
+      "Ящик сделанный из дерева. "
+    ],
     "Files": {
       "objects/generic/box1/box1.object": [
         "/avianDescription"
@@ -8,11 +11,13 @@
     },
     "Texts": {
       "Eng": "A box made out of wood.",
-      "Rus": "Ящик сделанный из дерева. "
+      "Rus": "Ящик, сделанный из дерева."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ящик из ободранной плоти дерева."
+    ],
     "Files": {
       "objects/generic/box1/box1.object": [
         "/floranDescription"
@@ -24,7 +29,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ящик сделанный из маленьких деревянных досок."
+    ],
     "Files": {
       "objects/generic/box1/box1.object": [
         "/humanDescription"
@@ -32,7 +39,7 @@
     },
     "Texts": {
       "Eng": "A crate made of small wood planks.",
-      "Rus": "Ящик сделанный из маленьких деревянных досок."
+      "Rus": "Ящик, сделанный из маленьких деревянных дощечек."
     }
   },
   {
@@ -44,7 +51,7 @@
     },
     "Texts": {
       "Eng": "A simple lookin' crate made from wood.",
-      "Rus": ""
+      "Rus": "Просто выглядящий ящик сделанный из дерева."
     }
   },
   {
@@ -72,7 +79,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Деревянный ящик. Не очень красивый, но своими обязанностями справляется."
+    ],
     "Files": {
       "objects/generic/box1/box1.object": [
         "/hylotlDescription"
@@ -84,7 +93,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Этот деревянный ящик простой, но эффективный."
+    ],
     "Files": {
       "objects/generic/box1/box1.object": [
         "/glitchDescription/glitchEmotedText"

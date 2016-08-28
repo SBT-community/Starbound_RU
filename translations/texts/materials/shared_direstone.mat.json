@@ -35,7 +35,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Черви в этом камне живут для того, чтобы поддерживать его жесткость."
+    ],
     "Files": {
       "items/materials/direstone.matitem": [
         "/glitchdescription/glitchEmotedText"
@@ -65,7 +67,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Волнистые каменные черви!"
+    ],
     "Files": {
       "items/materials/direstone.matitem": [
         "/florandescription"

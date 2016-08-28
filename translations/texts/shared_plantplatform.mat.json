@@ -1,6 +1,9 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флоран поссскальзывается из-за мха покрывающего платформу.",
+      "Флоран сcкатываетсся вдоль сскользкой мшисстой платформы."
+    ],
     "Files": {
       "items/materials/plantplatform.matitem": [
         "/florandescription"
@@ -11,7 +14,7 @@
     },
     "Texts": {
       "Eng": "Floran sslide along sslimy mosss platform.",
-      "Rus": "Флоран поссскальзывается из-за мха покрывающего платформу."
+      "Rus": "Флоран ссскользит по ссскользкой мшистой платформе."
     }
   },
   {
@@ -32,7 +35,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Платформа, покрытая скользкой слизью и мхом. Лучше быть осторожным и не подскользнуться на ней!"
+    ],
     "Files": {
       "items/materials/plantplatform.matitem": [
         "/description"
@@ -47,7 +52,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Этот мох делает платформу скользкой."
+    ],
     "Files": {
       "items/materials/plantplatform.matitem": [
         "/novakiddescription"
@@ -62,7 +69,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Платформа, вся облепленная мхом да травами."
+    ],
     "Files": {
       "items/materials/plantplatform.matitem": [
         "/glitchdescription/glitchEmotedText"
@@ -73,7 +82,7 @@
     },
     "Texts": {
       "Eng": "This mossy platform is slimy and slippery.",
-      "Rus": "Платформа, вся облепленная мхом да травами."
+      "Rus": "Эта мшистая платформа скользкая."
     }
   }
 ]

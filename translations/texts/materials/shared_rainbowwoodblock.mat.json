@@ -10,7 +10,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran lovess colourful rainbow plankss."
+      "Eng": "Floran lovess colourful rainbow plankss.",
+      "Rus": "Флоран любит красочные радужные доски."
     }
   },
   {
@@ -24,11 +25,14 @@
       ]
     },
     "Texts": {
-      "Eng": "Planks made from some mighty colourful wood."
+      "Eng": "Planks made from some mighty colourful wood.",
+      "Rus": "Доски сделаны из какого-то разноцветного дерева."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Радужные деревянные доски"
+    ],
     "Files": {
       "items/materials/rainbowwoodblock.matitem": [
         "/shortdescription"
@@ -43,7 +47,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Просто сказочно."
+    ],
     "Files": {
       "items/materials/rainbowwoodblock.matitem": [
         "/description"
@@ -68,7 +74,8 @@
       ]
     },
     "Texts": {
-      "Eng": "These colourful planks are bright and cheerful."
+      "Eng": "These colourful planks are bright and cheerful.",
+      "Rus": "Эти красочные доски яркие и светлые."
     }
   }
 ]

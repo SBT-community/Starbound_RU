@@ -60,7 +60,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Порубленные досски."
+    ],
     "Files": {
       "items/materials/darkwood.matitem": [
         "/florandescription"

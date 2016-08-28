@@ -1,6 +1,9 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Темный кирпич сделанный из неизвестного камня.",
+      "Тёмный кирпич сделанный из неизвестного камня."
+    ],
     "Files": {
       "items/materials/darksmoothstone.matitem": [
         "/glitchdescription/glitchEmotedText"
@@ -11,7 +14,7 @@
     },
     "Texts": {
       "Eng": "A dark brick made from an unknown stone.",
-      "Rus": "Тёмный кирпич сделанный из неизвестного камня."
+      "Rus": "Тёмный кирпич, сделанный из неизвестного камня."
     }
   },
   {

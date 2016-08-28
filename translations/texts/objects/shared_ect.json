@@ -18,7 +18,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Это отдушина."
+    ],
     "Files": {
       "objects/generic/barvent/barvent.object": [
         "/glitchDescription/glitchEmotedText"
@@ -66,7 +68,7 @@
     },
     "Texts": {
       "Eng": "A vent.",
-      "Rus": ""
+      "Rus": "Отдушина."
     }
   },
   {
@@ -91,11 +93,14 @@
     },
     "Texts": {
       "Eng": "An airlock.",
-      "Rus": ""
+      "Rus": "Воздушный шлюз."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Чарующая. Невозможно отвести взгляд.",
+      "Это чарующе. Невозможно отвести взгляд."
+    ],
     "Files": {
       "objects/human/lavalamp1/lavalamp1.object": [
         "/description"
@@ -116,7 +121,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Похоже на отдушину."
+    ],
     "Files": {
       "objects/generic/barvent/barvent.object": [
         "/humanDescription"

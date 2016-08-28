@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Этикетка гласит \"Чем теплее становится, чем ярче он светится.\""
+    ],
     "Files": {
       "objects/bugs/glowbug/glowbug.object": [
         "/description"

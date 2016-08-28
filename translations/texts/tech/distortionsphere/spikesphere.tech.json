@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Эта сфера может карабкаться по стенам! ^green;[F]"
+    ],
     "Files": {
       "tech/distortionsphere/spikesphere.tech": [
         "/description"

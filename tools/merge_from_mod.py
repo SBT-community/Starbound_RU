@@ -8,7 +8,7 @@ from shutil import copy
 from utils import get_answer
 from bisect import insort_left
 
-mod_dir = "./mod_old"
+mod_dir = "./mod"
 root_dir = "./translations"
 
 def parseFile(filename):

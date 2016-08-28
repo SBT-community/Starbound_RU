@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Этикетка гласит \"Горячий на ощупь и сверкает как огонь.\""
+    ],
     "Files": {
       "objects/bugs/flameroach/flameroach.object": [
         "/description"

@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "<questGiver>у надо выделяться"
+    ],
     "Files": {
       "quests/generated/templates/helmet.questtemplate": [
         "/scriptConfig/generatedText/title/default/0"
@@ -12,7 +14,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "<questGiver>,  <adjective> охранник"
+    ],
     "Files": {
       "quests/generated/templates/helmet.questtemplate": [
         "/scriptConfig/generatedText/title/default/1"
@@ -84,7 +88,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я не смог(ла) помочь <questGiver> выглядеть по-новому. Мне и так нравится как выглядит <questGiver.pronoun.subject>. "
+    ],
     "Files": {
       "quests/generated/templates/helmet.questtemplate": [
         "/scriptConfig/generatedText/failureText/default/1"
@@ -108,7 +114,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я не сумел(а) достать <questGiver> нечто новое из одежды. Мне и так нравится как выглядит <questGiver> ."
+    ],
     "Files": {
       "quests/generated/templates/helmet.questtemplate": [
         "/scriptConfig/generatedText/failureText/default/0"
@@ -240,7 +248,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "^cyan;Стражники так же хорошо выглядящие как и я должны выделяться! Сможешь помочь мне выглядеть <adjective>?"
+    ],
     "Files": {
       "quests/generated/templates/helmet.questtemplate": [
         "/scriptConfig/generatedText/goalText/default/1"
@@ -252,7 +262,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "^cyan;Я хочу выделяться среди прочих стражников! Ты сможешь помочь мне найти что-то, что сделает меня  <adjective>?"
+    ],
     "Files": {
       "quests/generated/templates/helmet.questtemplate": [
         "/scriptConfig/generatedText/goalText/default/0"

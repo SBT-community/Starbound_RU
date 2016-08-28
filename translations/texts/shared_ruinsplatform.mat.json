@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Старая и пыльная деревянная платформа. Кажется что разваливается на части."
+    ],
     "Files": {
       "items/materials/ruinsplatform.matitem": [
         "/description"
@@ -15,7 +17,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Надо быть аккуратным, эта старая платформа вот вот развалится"
+    ],
     "Files": {
       "items/materials/ruinsplatform.matitem": [
         "/novakiddescription"
@@ -30,7 +34,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Гниющщая и небезопасная. Флоран одобряет."
+    ],
     "Files": {
       "items/materials/ruinsplatform.matitem": [
         "/florandescription"
@@ -62,7 +68,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Старая деревянная платформа, гнилая по структуре."
+    ],
     "Files": {
       "items/materials/ruinsplatform.matitem": [
         "/glitchdescription/glitchEmotedText"

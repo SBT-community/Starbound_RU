@@ -55,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Rowdy birds sellin' dodgy gear. Just my kinda place."
+      "Eng": "Rowdy birds sellin' dodgy gear. Just my kinda place.",
+      "Rus": "Шумные птицы барыжат левым товаром. Прям как я люблю."
     }
   },
   {
@@ -66,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Sssquishy crunchy penguins with goods to ssell!"
+      "Eng": "Sssquishy crunchy penguins with goods to ssell!",
+      "Rus": "Сссочные хрустящие пингвинчики с товарами на продажу."
     }
   },
   {
@@ -77,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Suspicious birds and their black market goods."
+      "Eng": "Suspicious birds and their black market goods.",
+      "Rus": "Подозрительные птицы и их чёрный рынок товаров."
     }
   },
   {
@@ -100,11 +103,14 @@
       ]
     },
     "Texts": {
-      "Eng": "These tiny penguins are smugglers."
+      "Eng": "These tiny penguins are smugglers.",
+      "Rus": "Эти крошки пингвины настоящие контрабандисты."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Место, для продажи поддельных прав на корабль."
+    ],
     "Files": {
       "objects/outpost/penguinbay/penguinbay.object": [
         "/description"
@@ -112,7 +118,7 @@
     },
     "Texts": {
       "Eng": "This place is selling counterfeit ship licenses.",
-      "Rus": "Место, для продажи поддельных прав на корабль."
+      "Rus": "Место, для продажи поддельных корабельных лицензий."
     }
   },
   {
@@ -123,7 +129,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Uncouth, criminal birds."
+      "Eng": "Uncouth, criminal birds.",
+      "Rus": "Неуклюжие, криминальные птицы."
     }
   }
 ]

@@ -7,18 +7,22 @@
       ]
     },
     "Texts": {
-      "Eng": "A plain table."
+      "Eng": "A plain table.",
+      "Rus": "Простой стол."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Твёрдый металлический стол."
+    ],
     "Files": {
       "objects/human/bunkertable2/bunkertable2.object": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "A solid metal table."
+      "Eng": "A solid metal table.",
+      "Rus": "Прочный металлический стол."
     }
   },
   {
@@ -29,7 +33,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I ain't a professional table judge, but this is a rather borin' table."
+      "Eng": "I ain't a professional table judge, but this is a rather borin' table.",
+      "Rus": "Я, канешн, не профессионал в области судейства столов, но энтот - реально скучный."
     }
   },
   {
@@ -40,18 +45,22 @@
       ]
     },
     "Texts": {
-      "Eng": "It's just a table."
+      "Eng": "It's just a table.",
+      "Rus": "Всего лишь стол."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Прочный металлический стол"
+    ],
     "Files": {
       "objects/human/bunkertable2/bunkertable2.object": [
         "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Solid Metal Table"
+      "Eng": "Solid Metal Table",
+      "Rus": "Крепкий металлический стол"
     }
   },
   {
@@ -62,18 +71,22 @@
       ]
     },
     "Texts": {
-      "Eng": "Techy looking table."
+      "Eng": "Techy looking table.",
+      "Rus": ""
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Это третий наиболее стандартный стол который я когда-либо видел."
+    ],
     "Files": {
       "objects/human/bunkertable2/bunkertable2.object": [
         "/humanDescription"
       ]
     },
     "Texts": {
-      "Eng": "This is the third most generic table I've ever seen."
+      "Eng": "This is the third most generic table I've ever seen.",
+      "Rus": "Из всех столов, которые я видел, этот по степени обычности стоит на третьем месте."
     }
   }
 ]

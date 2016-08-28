@@ -47,7 +47,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Гллладкая глина."
+    ],
     "Files": {
       "items/materials/clay.matitem": [
         "/florandescription"
@@ -58,7 +60,7 @@
     },
     "Texts": {
       "Eng": "Sssmooth clay.",
-      "Rus": "Гллладкая глина."
+      "Rus": "Гладкая глина."
     }
   },
   {

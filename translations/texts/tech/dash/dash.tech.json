@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Быстрый рывок! (дважды ^green;[A]^white; или ^green;[D] ^white;). Перезарядка: 0.8с"
+    ],
     "Files": {
       "tech/dash/dash.tech": [
         "/description"

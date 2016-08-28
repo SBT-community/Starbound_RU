@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Блок цельной платины"
+    ],
     "Files": {
       "items/materials/platinumblock.matitem": [
         "/description"
@@ -15,7 +17,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флоран любит блессстящую платину.",
+      "Флорану нравится блестящщщая платина"
+    ],
     "Files": {
       "items/materials/platinumblock.matitem": [
         "/florandescription"
@@ -26,7 +31,7 @@
     },
     "Texts": {
       "Eng": "Floran likess shiny platinum.",
-      "Rus": "Флоран любит блессстящую платину."
+      "Rus": "Флорану нравится блестящая платина."
     }
   },
   {
@@ -45,7 +50,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Блок платины"
+    ],
     "Files": {
       "items/materials/platinumblock.matitem": [
         "/shortdescription"

@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Воздушная Эмблема Авиан"
+    ],
     "Files": {
       "objects/avian/airemblem/airemblem.object": [
         "/shortdescription"
@@ -20,7 +22,7 @@
     },
     "Texts": {
       "Eng": "Avian Air Emblem",
-      "Rus": "Воздушная Эмблема Авиан"
+      "Rus": "Авианская эмблема воздуха"
     }
   },
   {

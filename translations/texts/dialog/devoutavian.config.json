@@ -119,7 +119,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Благослови тебя, да обретёшь ты силу."
+    ],
     "Files": {
       "dialog/devoutavian.config": [
         "/converse/avian/hylotl/10"
@@ -131,7 +133,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Благослови тебя, красавчик."
+    ],
     "Files": {
       "dialog/devoutavian.config": [
         "/converse/avian/floran/12"
@@ -1562,7 +1566,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "А на земле были храмы Клюэкса?"
+    ],
     "Files": {
       "dialog/devoutavian.config": [
         "/converse/avian/human/5"
@@ -1570,7 +1576,7 @@
     },
     "Texts": {
       "Eng": "Were there any temples to Kluex on Earth?",
-      "Rus": "А на земле были храмы Клюэкса?"
+      "Rus": "А на Земле были храмы Клюэкса?"
     }
   },
   {

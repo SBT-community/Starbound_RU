@@ -31,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A dumpin' place for unwanted bits n' pieces."
+      "Eng": "A dumpin' place for unwanted bits n' pieces.",
+      "Rus": "Место, куда можно выкинуть всякий хлам."
     }
   },
   {
@@ -71,7 +72,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флоран хочет ссспать в красной коробке."
+    ],
     "Files": {
       "objects/mission/miningskip/miningskip.object": [
         "/floranDescription"

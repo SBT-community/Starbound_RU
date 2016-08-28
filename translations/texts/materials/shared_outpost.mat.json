@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Жесткая металличессские ссстена форпоссста."
+    ],
     "Files": {
       "items/materials/outpost.matitem": [
         "/florandescription"
@@ -15,7 +17,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я видел как этот материал раньше использовали в космических форпостах."
+    ],
     "Files": {
       "items/materials/outpost.matitem": [
         "/glitchdescription/glitchEmotedText"
@@ -30,7 +34,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Стена Форпоста"
+    ],
     "Files": {
       "items/materials/outpost.matitem": [
         "/shortdescription"
@@ -45,7 +51,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Какая-то форпостовская стена."
+    ],
     "Files": {
       "items/materials/outpost.matitem": [
         "/novakiddescription"

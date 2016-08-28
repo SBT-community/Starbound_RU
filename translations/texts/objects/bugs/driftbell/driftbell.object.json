@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Этикетка гласит \"При полёте этот жук издает слабый звон.\""
+    ],
     "Files": {
       "objects/bugs/driftbell/driftbell.object": [
         "/description"

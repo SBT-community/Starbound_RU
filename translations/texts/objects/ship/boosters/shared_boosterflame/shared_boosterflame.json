@@ -54,7 +54,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ускоритель. Когда такие штуки неисправны - они могут взорваться."
+    ],
     "Files": {
       "objects/ship/boosters/bigboosterflame/bigboosterflame.object": [
         "/apexDescription"

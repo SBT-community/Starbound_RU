@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Беспорядочная карта для определения местонахождения Большого Эйпа. Кто-бы её не нарисовал, он был очень зол."
+    ],
     "Files": {
       "objects/clues/apex/bigapetargetmap/bigapetargetmap.object": [
         "/description"
@@ -8,11 +10,13 @@
     },
     "Texts": {
       "Eng": "A disorganised map for locating Big Ape. Whoever drew it was very angry.",
-      "Rus": "Беспорядочная карта для определения местонахождения Большого Эйпа. Кто-бы её не нарисовал, он был очень зол."
+      "Rus": "Сделанная на скорую руку карта с местоположением Большого Эйпа. Кто бы это не нарисовал, он был очень зол."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Карта с обозначением Большого Эйпа"
+    ],
     "Files": {
       "objects/clues/apex/bigapetargetmap/bigapetargetmap.object": [
         "/shortdescription"
@@ -24,7 +28,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флоран не уверен для чего эта карта."
+    ],
     "Files": {
       "objects/clues/apex/bigapetargetmap/bigapetargetmap.object": [
         "/floranDescription"
@@ -36,7 +42,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Похоже что эта карта содержит информацию о местонахождении Большого Эйпа, который по факту является лидером всего народа Апексов."
+    ],
     "Files": {
       "objects/clues/apex/bigapetargetmap/bigapetargetmap.object": [
         "/glitchDescription/glitchEmotedText"
@@ -44,7 +52,7 @@
     },
     "Texts": {
       "Eng": "This map appears to contain information on locating Big Ape, de facto leader of the Apex population.",
-      "Rus": "Похоже что эта карта содержит информацию о местонахождении Большого Эйпа, который по факту является лидером всего народа Апексов."
+      "Rus": " По видимому, эта карта содержит информацию о местонахождении Большого Эйпа, де-факто лидера Апексов."
     }
   },
   {
@@ -60,7 +68,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Эта карта сплошь покрыта заметками и направлениями о возможном местонахождении Большого Эйпа."
+    ],
     "Files": {
       "objects/clues/apex/bigapetargetmap/bigapetargetmap.object": [
         "/apexDescription"
@@ -68,7 +78,7 @@
     },
     "Texts": {
       "Eng": "This map is covered with scrawling notes and directions about Big Ape's probable whereabouts.",
-      "Rus": "Эта карта сплошь покрыта заметками и направлениями о возможном местонахождении Большого Эйпа."
+      "Rus": "Эта карта покрыта заметками и указаниями о вероятном местоположении Большого Эйпа."
     }
   },
   {

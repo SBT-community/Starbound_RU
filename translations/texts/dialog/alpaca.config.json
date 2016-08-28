@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Always have a wee nap when ye can!"
+      "Eng": "Always have a wee nap when ye can!",
+      "Rus": "Не отказывайте себе в удовольствии поспать, всякий раз, когда обстоятельства благоволят!"
     }
   },
   {
@@ -22,7 +23,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Так ты воин или воришк' ?"
+    ],
     "Files": {
       "dialog/alpaca.config": [
         "/converse/default/default/2"
@@ -30,11 +33,13 @@
     },
     "Texts": {
       "Eng": "Are ye a fighter, or a craven?",
-      "Rus": "Так ты воин или воришк' ?"
+      "Rus": "Вы дуэлянт или всего лишь пустослов?"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ты пытаешьс' меня обокрасть?"
+    ],
     "Files": {
       "dialog/alpaca.config": [
         "/accuse/default/default/0"
@@ -42,7 +47,7 @@
     },
     "Texts": {
       "Eng": "Are ye tryin' tae steal from me?",
-      "Rus": "Ты пытаешьс' меня обокрасть?"
+      "Rus": "Вы пытаетесь нас обокрасть, сударь?"
     }
   },
   {
@@ -64,11 +69,14 @@
       ]
     },
     "Texts": {
-      "Eng": "Be keepin' merry, friend!"
+      "Eng": "Be keepin' merry, friend!",
+      "Rus": "Сударь! Не вешать нос!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Поможешь разобратьс' со стеной снаруж'?"
+    ],
     "Files": {
       "dialog/alpaca.config": [
         "/enclosedArea/default/default/1"
@@ -76,7 +84,7 @@
     },
     "Texts": {
       "Eng": "Could ye sort out the wall in here?",
-      "Rus": "Поможешь разобратьс' со стеной снаруж'?"
+      "Rus": "Не окажите ли помощь со стеной снаружи?"
     }
   },
   {
@@ -87,7 +95,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Courage is better than keenest durasteel."
+      "Eng": "Courage is better than keenest durasteel.",
+      "Rus": "Храбрость важнее, чем острота шпаги."
     }
   },
   {
@@ -102,7 +111,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Не создавай нам проблем и мы будем относитьс' к тебе с почтением!"
+    ],
     "Files": {
       "dialog/alpaca.config": [
         "/converse/default/default/15"
@@ -110,7 +121,7 @@
     },
     "Texts": {
       "Eng": "Dinnae cause trouble and we'll treat ye like kin!",
-      "Rus": "Не создавай нам проблем и мы будем относитьс' к тебе с почтением!"
+      "Rus": "Извольте не создавать проблем, и к Вам проявят почтение!"
     }
   },
   {
@@ -136,7 +147,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Похож', что я в костюме? Не имею ничег' ввиду, прост' спрашиваю."
+    ],
     "Files": {
       "dialog/alpaca.config": [
         "/converse/default/default/11"
@@ -144,7 +157,7 @@
     },
     "Texts": {
       "Eng": "Do I look like I'm in a costume? Just askin', it dinnae mean anything...",
-      "Rus": "Похож', что я в костюме? Не имею ничег' ввиду, прост' спрашиваю."
+      "Rus": "Заставляет ли мой внешний вид думать, будто бы я в костюме? Ах, не берите в голову, я просто спросил."
     }
   },
   {
@@ -155,11 +168,14 @@
       ]
     },
     "Texts": {
-      "Eng": "Do ye get many that look like ye?"
+      "Eng": "Do ye get many that look like ye?",
+      "Rus": "Много ли имеете знакомцев, вроде Вас?"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "У теб' есть ко мне какое-т' дело?"
+    ],
     "Files": {
       "dialog/alpaca.config": [
         "/beacon/default/default/1"
@@ -167,11 +183,13 @@
     },
     "Texts": {
       "Eng": "Do ye need me for something?",
-      "Rus": "У теб' есть ко мне какое-т' дело?"
+      "Rus": "Хотите заключить сделку али союз?"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ты думашь я не виж' как ты воруешь?"
+    ],
     "Files": {
       "dialog/alpaca.config": [
         "/accuse/default/default/1"
@@ -179,11 +197,13 @@
     },
     "Texts": {
       "Eng": "Do ye think I cannae see you stealin'?",
-      "Rus": "Ты думашь я не виж' как ты воруешь?"
+      "Rus": "Вы думаете, никто не видит вашего воровства?"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Хочешь хорошо дратьс' - хорошо обедай!"
+    ],
     "Files": {
       "dialog/alpaca.config": [
         "/converse/default/default/9"
@@ -191,7 +211,7 @@
     },
     "Texts": {
       "Eng": "Eat well if ye want te fight well!",
-      "Rus": "Хочешь хорошо дратьс' - хорошо обедай!"
+      "Rus": "Для хорошей дуэли - хороший обед!"
     }
   },
   {
@@ -217,7 +237,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ты здесь что-т' передвинул'?"
+    ],
     "Files": {
       "dialog/alpaca.config": [
         "/tagCriteria/default/default/0"
@@ -225,7 +247,7 @@
     },
     "Texts": {
       "Eng": "Has something been moved around in here?",
-      "Rus": "Ты здесь что-т' передвинул'?"
+      "Rus": "Вы передвинули здесь что-то?"
     }
   },
   {
@@ -273,7 +295,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ты что-т' здесь трогал?"
+    ],
     "Files": {
       "dialog/alpaca.config": [
         "/tagCriteria/default/default/1"
@@ -281,11 +305,13 @@
     },
     "Texts": {
       "Eng": "Have ye moved something around?",
-      "Rus": "Ты что-т' здесь трогал?"
+      "Rus": "Вы что-нибудь здесь трогали?"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Эт' подарок за твою помощь."
+    ],
     "Files": {
       "dialog/alpaca.config": [
         "/rent/default/default/0"
@@ -293,7 +319,7 @@
     },
     "Texts": {
       "Eng": "Here's a gift for all ye help.",
-      "Rus": "Эт' подарок за твою помощь."
+      "Rus": "Это презент за Вашу помощь."
     }
   },
   {
@@ -315,7 +341,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I dinnae care what ye look like, as long as ye strong of heart!"
+      "Eng": "I dinnae care what ye look like, as long as ye strong of heart!",
+      "Rus": "Пока Вы храбры сердцем, неважно, сколь новым выглядит ваш камзол!"
     }
   },
   {
@@ -326,11 +353,14 @@
       ]
     },
     "Texts": {
-      "Eng": "I dinnae see many like ye around, I tell ye that!"
+      "Eng": "I dinnae see many like ye around, I tell ye that!",
+      "Rus": "Я раньше не видел незнакомцев, похожих на Вас. Определенно!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Даж' не представляю, как тут еще можн' жить!"
+    ],
     "Files": {
       "dialog/alpaca.config": [
         "/severe/default/default/0"
@@ -338,7 +368,7 @@
     },
     "Texts": {
       "Eng": "I dinnae think I can live here any longer!",
-      "Rus": "Даж' не представляю, как тут еще можн' жить!"
+      "Rus": "Сложно помыслить, кому может понравиться жить в таких условиях!"
     }
   },
   {
@@ -349,11 +379,14 @@
       ]
     },
     "Texts": {
-      "Eng": "I had some wee traveller ask me if this was a costume..."
+      "Eng": "I had some wee traveller ask me if this was a costume...",
+      "Rus": "Многие странники спрашивают о моем внешнем виде. Вы не поверите - они помышляют, будто бы я в костюме..."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Думаю, с тобой достаточн'!"
+    ],
     "Files": {
       "dialog/alpaca.config": [
         "/severe/default/default/2"
@@ -361,11 +394,13 @@
     },
     "Texts": {
       "Eng": "I think I've had enough with ye!",
-      "Rus": "Думаю, с тобой достаточн'!"
+      "Rus": "Думаю, нам с Вами не по пути!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Кажетс' мой дом немножк' сломан. Мож'шь эт' исправить?"
+    ],
     "Files": {
       "dialog/alpaca.config": [
         "/enclosedArea/default/default/2"
@@ -373,11 +408,13 @@
     },
     "Texts": {
       "Eng": "I think there's a wee break in my home! Can ye fix it?",
-      "Rus": "Кажетс' мой дом немножк' сломан. Мож'шь эт' исправить?"
+      "Rus": "Наши апартаменты переживают не лучшие времена. Изволите помочь с этим?"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Мы закончили! Я переселяюсь!"
+    ],
     "Files": {
       "dialog/alpaca.config": [
         "/final/default/default/0"
@@ -385,7 +422,7 @@
     },
     "Texts": {
       "Eng": "I'm done with ye! I'm flitting!",
-      "Rus": "Мы закончили! Я переселяюсь!"
+      "Rus": "Мы окончили! Засим откланяюсь!"
     }
   },
   {
@@ -396,7 +433,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I'm itching for a wee fight."
+      "Eng": "I'm itching for a wee fight.",
+      "Rus": "Наше сердце жаждет дуэли."
     }
   },
   {
@@ -407,11 +445,14 @@
       ]
     },
     "Texts": {
-      "Eng": "I'm itching tae batter some beasties."
+      "Eng": "I'm itching tae batter some beasties.",
+      "Rus": "Я жажду славной охоты."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я не могу так жить!"
+    ],
     "Files": {
       "dialog/alpaca.config": [
         "/final/default/default/2"
@@ -419,11 +460,13 @@
     },
     "Texts": {
       "Eng": "I'm nae living like this!",
-      "Rus": "Я не могу так жить!"
+      "Rus": "Мы не можем так жить!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я больш' не могу жить в таких условиях!"
+    ],
     "Files": {
       "dialog/alpaca.config": [
         "/final/default/default/1"
@@ -431,7 +474,7 @@
     },
     "Texts": {
       "Eng": "I'm not living with ye conditions any longer!",
-      "Rus": "Я больш' не могу жить в таких условиях!"
+      "Rus": "Более худших условий для жизни трудно помыслить!"
     }
   },
   {
@@ -453,7 +496,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I've been a warrior since I was a wee Alpaca."
+      "Eng": "I've been a warrior since I was a wee Alpaca.",
+      "Rus": "Мы знатный дуэлянт с самых малых лет."
     }
   },
   {
@@ -464,7 +508,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Keep the heid!"
+      "Eng": "Keep the heid!",
+      "Rus": "Оберегайте голову!"
     }
   },
   {
@@ -479,7 +524,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ой! Я виж' как ты воруешь. Тебе лучш' не делать эт'!"
+    ],
     "Files": {
       "dialog/alpaca.config": [
         "/accuse/default/default/3"
@@ -487,7 +534,7 @@
     },
     "Texts": {
       "Eng": "Oy! I see ye stealin'. Ye better stop that!",
-      "Rus": "Ой! Я виж' как ты воруешь. Тебе лучш' не делать эт'!"
+      "Rus": "Сударь! Я вижу, вы намереваетесь свершить кражу. Извольте прекратить!"
     }
   },
   {
@@ -502,7 +549,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Немног' мебели из прочного камня делает Альпак счастливыми. Точн' тебе говорю!"
+    ],
     "Files": {
       "dialog/alpaca.config": [
         "/converse/default/default/16"
@@ -510,11 +559,13 @@
     },
     "Texts": {
       "Eng": "Some hardy stone furniture makes an Alpaca happy, I tell ye!",
-      "Rus": "Немног' мебели из прочного камня делает Альпак счастливыми. Точн' тебе говорю!"
+      "Rus": "Немного мебели из прочного камня делает Альпак счастливыми. Определенно так!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Что-т' здесь не так..."
+    ],
     "Files": {
       "dialog/alpaca.config": [
         "/tagCriteria/default/default/2"
@@ -522,11 +573,13 @@
     },
     "Texts": {
       "Eng": "Something is nae right in here...",
-      "Rus": "Что-т' здесь не так..."
+      "Rus": "Что-то нынче не то и не так..."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Держ' эт', мой маленький помощник!"
+    ],
     "Files": {
       "dialog/alpaca.config": [
         "/rent/default/default/1"
@@ -534,7 +587,7 @@
     },
     "Texts": {
       "Eng": "Take this, ye wee helper of mine!",
-      "Rus": "Держ' эт', мой маленький помощник!"
+      "Rus": "Возьмите это сударь, Вы мой прелестный подручный!"
     }
   },
   {
@@ -549,7 +602,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Тут больш' ничего не над' делать!"
+    ],
     "Files": {
       "dialog/alpaca.config": [
         "/otherDeed/default/default/0"
@@ -557,11 +612,13 @@
     },
     "Texts": {
       "Eng": "There should nae be another deed in here!",
-      "Rus": "Тут больш' ничего не над' делать!"
+      "Rus": "У Вас нет явных причин размещать ещё один Колонизатор!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Тут надо кое-чт' неможк' поправить."
+    ],
     "Files": {
       "dialog/alpaca.config": [
         "/enclosedArea/default/default/0"
@@ -569,11 +626,13 @@
     },
     "Texts": {
       "Eng": "There's a wee draft in here...",
-      "Rus": "Тут надо кое-чт' неможк' поправить."
+      "Rus": "Здесь нужно навести немного лоска..."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Эт' дом не подходит для Альпаки!"
+    ],
     "Files": {
       "dialog/alpaca.config": [
         "/severe/default/default/1"
@@ -581,11 +640,13 @@
     },
     "Texts": {
       "Eng": "This is not a proper home for an Alpaca!",
-      "Rus": "Эт' дом не подходит для Альпаки!"
+      "Rus": "Эти апартаменты совершенно не подходят для Альпаки!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Мы тут не любим трусливых вориш'к!"
+    ],
     "Files": {
       "dialog/alpaca.config": [
         "/accuse/default/default/4"
@@ -593,11 +654,13 @@
     },
     "Texts": {
       "Eng": "We dinnae like craven thieves around here!",
-      "Rus": "Мы тут не любим трусливых вориш'к!"
+      "Rus": "Мы презираем трусливых воришек!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Мы не любим когд' здесь кто-т' ворует!"
+    ],
     "Files": {
       "dialog/alpaca.config": [
         "/accuse/default/default/5"
@@ -605,7 +668,7 @@
     },
     "Texts": {
       "Eng": "We dinnae take well to thievery around these parts!",
-      "Rus": "Мы не любим когд' здесь кто-т' ворует!"
+      "Rus": "Нам досадно, когда здесь кто-нибудь свершает кражу."
     }
   },
   {
@@ -631,7 +694,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Тебе лучш' прекратить красть!"
+    ],
     "Files": {
       "dialog/alpaca.config": [
         "/accuse/default/default/2"
@@ -639,7 +704,7 @@
     },
     "Texts": {
       "Eng": "Ye better stop ye thievin'!",
-      "Rus": "Тебе лучш' прекратить красть!"
+      "Rus": "Извольте прекратить попытки кражи!"
     }
   },
   {
@@ -665,7 +730,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ты не похож на труса. Я уважаю эт'."
+    ],
     "Files": {
       "dialog/alpaca.config": [
         "/converse/default/default/17"
@@ -673,11 +740,13 @@
     },
     "Texts": {
       "Eng": "Ye dinnae look like a coward. I respect that.",
-      "Rus": "Ты не похож на труса. Я уважаю эт'."
+      "Rus": "Вы не похожи на труса, сударь. Это вызывает уважение."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я тебе нужен?"
+    ],
     "Files": {
       "dialog/alpaca.config": [
         "/beacon/default/default/0"
@@ -685,7 +754,7 @@
     },
     "Texts": {
       "Eng": "Ye have need of me?",
-      "Rus": "Я тебе нужен?"
+      "Rus": "Мы Вам понадобились?"
     }
   },
   {
@@ -696,7 +765,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Ye must be cold without a fur coat like me."
+      "Eng": "Ye must be cold without a fur coat like me.",
+      "Rus": "Вам определенно должно быть холодно без меха под сюртуком."
     }
   },
   {

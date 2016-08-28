@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Этикетка гласит \"Жук, который никогда не прекращает есть.\""
+    ],
     "Files": {
       "objects/bugs/hivehog/hivehog.object": [
         "/description"

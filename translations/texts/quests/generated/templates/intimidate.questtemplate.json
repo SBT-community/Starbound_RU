@@ -11,7 +11,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Наденьте <item>"
+    ],
     "Files": {
       "quests/generated/templates/intimidate.questtemplate": [
         "/scriptConfig/objectives/0/text"
@@ -410,7 +412,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Now that <target> fears for <target.pronoun.possessiveDet> life, <target.pronoun.subject>'ll do whatever I say! I should intimidate people more often!"
+      "Eng": "Now that <target> fears for <target.pronoun.possessiveDet> life, <target.pronoun.subject>'ll do whatever I say! I should intimidate people more often!",
+      "Rus": "Теперь когда <target> боится за жизнь <target.pronoun.possessiveDet>, <target.pronoun.subject> сделает всё что я скажу! Мне надо запугивать других почаще!"
     }
   },
   {
@@ -436,7 +439,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Вернитесь с докладом к <questGiver>"
+    ],
     "Files": {
       "quests/generated/templates/intimidate.questtemplate": [
         "/scriptConfig/objectives/2/text"
@@ -555,7 +560,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Threaten someone for <questGiver>"
+      "Eng": "Threaten someone for <questGiver>",
+      "Rus": "Запугайте кого-нибудь для <questGiver>"
     }
   },
   {
@@ -592,7 +598,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ты выполнил(а) эту часть плана превосходно! Давай перейдём к ссследующей!"
+    ],
     "Files": {
       "quests/generated/templates/intimidate.questtemplate": [
         "/scriptConfig/generatedText/completionText/next/floran/1"

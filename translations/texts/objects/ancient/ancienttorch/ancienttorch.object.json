@@ -19,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A old torch which has been lit for a great, undetermined amount of time."
+      "Eng": "A old torch which has been lit for a great, undetermined amount of time.",
+      "Rus": "Старый факел, который был зажжен, наверное, очень давно."
     }
   },
   {
@@ -30,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An ancient ol' torch lightin' up it's surroundings. For how long has it been burning?"
+      "Eng": "An ancient ol' torch lightin' up it's surroundings. For how long has it been burning?",
+      "Rus": "Древний старый факел освещает всё вокруг. Как жеж долго он горит?"
     }
   },
   {
@@ -46,7 +48,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Древний факел. Я удивлён, что он горит так долго."
+    ],
     "Files": {
       "objects/ancient/ancienttorch/ancienttorch.object": [
         "/humanDescription"
@@ -54,7 +58,7 @@
     },
     "Texts": {
       "Eng": "An ancient torch. I wonder how long this has been lit.",
-      "Rus": "Древний факел. Я удивлён, что он горит так долго."
+      "Rus": "Древний факел. Интересно, как давно он горит?"
     }
   },
   {
@@ -65,7 +69,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An ancient torch. It's age is unknown and power source long lasting."
+      "Eng": "An ancient torch. It's age is unknown and power source long lasting.",
+      "Rus": "Древний факел. Его возраст неизвестен и источник питания давно потерян."
     }
   },
   {

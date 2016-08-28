@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Чуть более питательна, чем просто варёный жемчугорох."
+    ],
     "Files": {
       "items/generic/food/tier1/pearlpeabroth.consumable": [
         "/description"
@@ -12,7 +14,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Похлёбка из жемчугороха"
+    ],
     "Files": {
       "items/generic/food/tier1/pearlpeabroth.consumable": [
         "/shortdescription"

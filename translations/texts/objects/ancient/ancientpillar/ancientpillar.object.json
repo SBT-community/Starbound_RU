@@ -19,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An ancient glowing pillar. I am in awe."
+      "Eng": "An ancient glowing pillar. I am in awe.",
+      "Rus": "Древняя сияющая колонна. Я прямо трепещу."
     }
   },
   {
@@ -30,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An ancient pillar found near the gates. It produces light."
+      "Eng": "An ancient pillar found near the gates. It produces light.",
+      "Rus": "Древняя колонна, обнаруженная возле ворот. от неё исходит свет."
     }
   },
   {
@@ -41,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Ancient Pillar"
+      "Eng": "Ancient Pillar",
+      "Rus": "Древняя колонна"
     }
   },
   {
@@ -52,11 +55,14 @@
       ]
     },
     "Texts": {
-      "Eng": "It's like an ancient lamppost!"
+      "Eng": "It's like an ancient lamppost!",
+      "Rus": "Прямо как древний фонарный столб!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Блестящий камень! Он напоминает Флоран закат солнца."
+    ],
     "Files": {
       "objects/ancient/ancientpillar/ancientpillar.object": [
         "/floranDescription"
@@ -75,7 +81,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This ethereal glow is produced by a substance I do not recognise."
+      "Eng": "This ethereal glow is produced by a substance I do not recognise.",
+      "Rus": "Этот неземной свет происходит от вещества, которое я не могу опознать."
     }
   },
   {
@@ -86,7 +93,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This glowin' stone reminds me of a distant moon."
+      "Eng": "This glowin' stone reminds me of a distant moon.",
+      "Rus": "Этот блестючий камень напоминает мне далёкую луну."
     }
   },
   {
@@ -97,7 +105,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This towering pillar must have seen a lot of history."
+      "Eng": "This towering pillar must have seen a lot of history.",
+      "Rus": "Наверное, эти возвышающиеся колонны повидали многое."
     }
   }
 ]

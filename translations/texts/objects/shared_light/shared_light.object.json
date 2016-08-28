@@ -46,7 +46,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флоран чувссствует сссебя в центре внимания."
+    ],
     "Files": {
       "objects/hoard/mysteriouslight/mysteriouslight.object": [
         "/floranDescription"
@@ -60,11 +62,13 @@
     },
     "Texts": {
       "Eng": "Floran feelss like centre of attention.",
-      "Rus": "Флоран чувссствует сссебя в центре внимания."
+      "Rus": "Флоран чувствует сссебя в центре внимания."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Всегда хотел быть в свете софитов"
+    ],
     "Files": {
       "objects/hoard/mysteriouslight/mysteriouslight.object": [
         "/humanDescription"
@@ -78,7 +82,7 @@
     },
     "Texts": {
       "Eng": "I've always wanted to be in the spotlight.",
-      "Rus": "Всегда хотел быть в свете софитов"
+      "Rus": "Всегда хотел быть в свете софитов."
     }
   },
   {
@@ -95,11 +99,14 @@
       ]
     },
     "Texts": {
-      "Eng": "Ship Light"
+      "Eng": "Ship Light",
+      "Rus": "Корабельная лампа"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Эти прожектора использовались Министерством для допросов. Прожектора или будет хуже..."
+    ],
     "Files": {
       "objects/hoard/mysteriouslight/mysteriouslight.object": [
         "/apexDescription"

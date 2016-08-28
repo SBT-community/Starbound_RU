@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Эй, чемпион! Парень вызывал меня на ^orange;арену гладиаторов^white;, но я думаю, ты должен пойти вмесссто меня. Если ты чувствуешь себя достаточно крепким, ^green;поговори со мной, и я ссмогу отправить тебя на первый раунд ^white;!"
+    ],
     "Files": {
       "quests/outpost/floranarena1.questtemplate": [
         "/text"

@@ -22,7 +22,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A Protector..."
+      "Eng": "A Protector...",
+      "Rus": "Протектор..."
     }
   },
   {
@@ -48,7 +49,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Good lord..."
+      "Eng": "Good lord...",
+      "Rus": "О Боже..."
     }
   },
   {
@@ -74,7 +76,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I can't look..."
+      "Eng": "I can't look...",
+      "Rus": "Я не могу смотреть..."
     }
   },
   {
@@ -100,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I don't want to look..."
+      "Eng": "I don't want to look...",
+      "Rus": "Я не хочу смотреть..."
     }
   },
   {
@@ -126,7 +130,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I have no words..."
+      "Eng": "I have no words...",
+      "Rus": "У меня нет слов..."
     }
   },
   {
@@ -152,11 +157,14 @@
       ]
     },
     "Texts": {
-      "Eng": "I'm so sorry..."
+      "Eng": "I'm so sorry...",
+      "Rus": "Мне так жаль..."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Нет! Этого не может быть'."
+    ],
     "Files": {
       "objects/protectorate/objects/protectorateincap1/protectorateincap1.object": [
         "/novakidDescription"
@@ -178,11 +186,14 @@
       ]
     },
     "Texts": {
-      "Eng": "No! This can't be happenin'."
+      "Eng": "No! This can't be happenin'.",
+      "Rus": "Нет! Этого не может быть."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Тело Протектора"
+    ],
     "Files": {
       "objects/protectorate/objects/protectorateincap1/protectorateincap1.object": [
         "/shortdescription"
@@ -204,7 +215,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Protectorate Body"
+      "Eng": "Protectorate Body",
+      "Rus": "Тело протектора"
     }
   },
   {
@@ -230,7 +242,8 @@
       ]
     },
     "Texts": {
-      "Eng": "So sssad..."
+      "Eng": "So sssad...",
+      "Rus": "Так грустно..."
     }
   }
 ]

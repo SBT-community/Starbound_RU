@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Привлекает моль. Моль производит шёлк!"
+    ],
     "Files": {
       "objects/farmables/mothtrap/mothtrap.object": [
         "/description"
@@ -8,11 +10,13 @@
     },
     "Texts": {
       "Eng": "Attracts moths. Moths produce silk!",
-      "Rus": "Привлекает моль. Моль производит шёлк!"
+      "Rus": "Привлекает мотыльков. А мотыльки производит шёлк!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Глитчи выращивают моль для производства лучшего шёлка."
+    ],
     "Files": {
       "objects/farmables/mothtrap/mothtrap.object": [
         "/glitchDescription/glitchEmotedText"
@@ -20,11 +24,13 @@
     },
     "Texts": {
       "Eng": "Glitch farm moths to make the finest silk.",
-      "Rus": "Глитчи выращивают моль для производства лучшего шёлка."
+      "Rus": "Глитчи делают такие фермы, что бы производить тончайший шёлк."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я могу это использовать для производства шёлкового волокна."
+    ],
     "Files": {
       "objects/farmables/mothtrap/mothtrap.object": [
         "/avianDescription"
@@ -32,11 +38,13 @@
     },
     "Texts": {
       "Eng": "I can use this to collect silk fibre.",
-      "Rus": "Я могу это использовать для производства шёлкового волокна."
+      "Rus": "Я могу использовать её для того, чтобы получать шёлковое волокно."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Не так ли это странно, что такой шикарный материал создаётся от простой моли?"
+    ],
     "Files": {
       "objects/farmables/mothtrap/mothtrap.object": [
         "/humanDescription"
@@ -44,11 +52,13 @@
     },
     "Texts": {
       "Eng": "Isn't it weird that such a fancy material starts with these little moths?",
-      "Rus": "Не так ли это странно, что такой шикарный материал создаётся от простой моли?"
+      "Rus": "Разве не странно что такой прекрасный материал производиться с помощью этих маленьких мотыльков?"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ловушка для моли"
+    ],
     "Files": {
       "objects/farmables/mothtrap/mothtrap.object": [
         "/shortdescription"
@@ -56,7 +66,7 @@
     },
     "Texts": {
       "Eng": "Moth Trap",
-      "Rus": "Ловушка для моли"
+      "Rus": "Ловушка для мотыльков"
     }
   },
   {
@@ -68,11 +78,14 @@
     },
     "Texts": {
       "Eng": "Silk is a bit fancy for the likes of me, but I can sell it!",
-      "Rus": ""
+      "Rus": "Я не очень люблю работать с шелком, но его же можно продать!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Глупая моль оставляет тут драгоценное шшшёлковое волокно.",
+      "Глупые мотыльки оставляют драгоценное шшшелковое волокно."
+    ],
     "Files": {
       "objects/farmables/mothtrap/mothtrap.object": [
         "/floranDescription"
@@ -80,11 +93,13 @@
     },
     "Texts": {
       "Eng": "Sssilly moths, leaving behind preciousss sssilk fibre.",
-      "Rus": "Глупая моль оставляет тут драгоценное шшшёлковое волокно."
+      "Rus": "Глупые мотыльки оставляют драгоценное шшшёлковое волокно."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Она используется для производства шелкового волокна."
+    ],
     "Files": {
       "objects/farmables/mothtrap/mothtrap.object": [
         "/apexDescription"
@@ -104,7 +119,7 @@
     },
     "Texts": {
       "Eng": "Using this I can collect silk fibre to weave into silk cloth, a most luxurious material.",
-      "Rus": ""
+      "Rus": "С помощью неё я могу собирать шелковое волокно из которого делается шёлк, самый роскошный материал."
     }
   }
 ]

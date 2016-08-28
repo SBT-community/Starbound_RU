@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Вы только что создал инженерный стол? По моим подсчетам ваши шансы на выживание повысились на 7.2%."
+    ],
     "Files": {
       "radiomessages/tutorial.radiomessages": [
         "/pickupinventorstable/text"
@@ -192,7 +194,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Вы нашли растительное волокно. Его можно переработать в ткань на ткацком станке."
+    ],
     "Files": {
       "radiomessages/tutorial.radiomessages": [
         "/pickupplantfibre/text"

@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Грубый лифт."
+    ],
     "Files": {
       "objects/biome/foundry/foundryelevator/foundryelevatorlong.object": [
         "/apexDescription"
@@ -21,7 +23,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Лифт для перемещения между верхними и нижними этажами."
+    ],
     "Files": {
       "objects/biome/foundry/foundryelevator/foundryelevatorlong.object": [
         "/humanDescription"
@@ -38,7 +42,7 @@
     },
     "Texts": {
       "Eng": "An elevator for getting up and down levels.",
-      "Rus": "Лифт для перемещения между верхними и нижними этажами."
+      "Rus": "Лифт для перемещения между этажами."
     }
   },
   {
@@ -63,7 +67,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Лифт идёт вверх и вниз."
+    ],
     "Files": {
       "objects/biome/foundry/foundryelevator/foundryelevatorlong.object": [
         "/floranDescription"
@@ -101,11 +107,13 @@
     },
     "Texts": {
       "Eng": "Some kinda elevator, useful!",
-      "Rus": ""
+      "Rus": "Вроде как подъёмник, пригодится!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Самый лёгкий путь по многоэтажному заводу."
+    ],
     "Files": {
       "objects/biome/foundry/foundryelevator/foundryelevatorlong.object": [
         "/avianDescription"

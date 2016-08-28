@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Примерное такой плетёный материал."
+    ],
     "Files": {
       "items/materials/wicker.matitem": [
         "/description"
@@ -11,7 +13,7 @@
     },
     "Texts": {
       "Eng": "A roughly woven wicker material.",
-      "Rus": "Примерное такой плетёный материал."
+      "Rus": "Грубо сплетённый материал."
     }
   },
   {

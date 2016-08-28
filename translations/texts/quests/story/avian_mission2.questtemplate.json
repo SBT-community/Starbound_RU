@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Принесите Авианский Артефакт"
+    ],
     "Files": {
       "quests/story/avian_mission2.questtemplate": [
         "/title"
@@ -24,7 +26,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Найдите ^orange;артефакт^reset; в ^orange;Храме Великого Государя^reset;"
+    ],
     "Files": {
       "quests/story/avian_mission2.questtemplate": [
         "/scriptConfig/descriptions/artifact"
@@ -48,7 +52,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "^green;Этот ^orange;Авианский артефакт^green; находится в ^orange;Храме Великого Государя^white;, одном из грандиозных сооружений, посвященных Клюэксу, когда-либо построенных Авианами. Эти храмы, как правило, усилено охраняются, так что будь осторожнее внутри, дорогуша."
+    ],
     "Files": {
       "quests/story/avian_mission2.questtemplate": [
         "/text"

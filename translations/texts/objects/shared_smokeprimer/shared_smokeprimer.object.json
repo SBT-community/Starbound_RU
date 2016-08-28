@@ -10,7 +10,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I see smoke, did someone leave a kettle boilin’?"
+      "Eng": "I see smoke, did someone leave a kettle boilin’?",
+      "Rus": "Я вижу дым, кто-то забыл выключить чайник?"
     }
   },
   {
@@ -24,7 +25,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Smoke billows from this point."
+      "Eng": "Smoke billows from this point.",
+      "Rus": "Дым распространяется отсюда."
     }
   },
   {
@@ -38,11 +40,14 @@
       ]
     },
     "Texts": {
-      "Eng": "Smoke seems to be coming from somewhere nearby."
+      "Eng": "Smoke seems to be coming from somewhere nearby.",
+      "Rus": "Дым похоже идёт откуда-то поблизости."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Дым без огня? Вот это загадка."
+    ],
     "Files": {
       "objects/biome/volcanic/smokeprimer/smokeprimer.object": [
         "/hylotlDescription"
@@ -67,7 +72,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This smoke is getting in my feathers!"
+      "Eng": "This smoke is getting in my feathers!",
+      "Rus": "Дым проникает мне между перьев!"
     }
   },
   {
@@ -81,7 +87,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This smoke must be coming from somewhere."
+      "Eng": "This smoke must be coming from somewhere.",
+      "Rus": "Этот дым должен идти откуда-то."
     }
   },
   {
@@ -95,7 +102,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This smoke must have a origin."
+      "Eng": "This smoke must have a origin.",
+      "Rus": "У дыма должен быть источник."
     }
   },
   {
@@ -109,7 +117,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Thiss smoke is getting in Floran's way!"
+      "Eng": "Thiss smoke is getting in Floran's way!",
+      "Rus": "Этот дым ссстоит у Флорана на пути!"
     }
   }
 ]

@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Этикетка гласит \"Летит на тепло, так как в нём нуждается.\""
+    ],
     "Files": {
       "objects/bugs/heathugger/heathugger.object": [
         "/description"

@@ -36,7 +36,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флорану любопытно... что может быть в ссстранном ящщщике?"
+    ],
     "Files": {
       "objects/ancient/ancientchest/ancientchest.object": [
         "/floranDescription"
@@ -44,11 +46,13 @@
     },
     "Texts": {
       "Eng": "Floran curiousss... what could be in ssstrange box?",
-      "Rus": "Флорану любопытно... что может быть в ссстранном ящщщике?"
+      "Rus": "Флорану любопытно... что может быть в ссстранном ящике?"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Удивительно, что спустя столько времени этот сундук еще цел."
+    ],
     "Files": {
       "objects/ancient/ancientchest/ancientchest.object": [
         "/novakidDescription"
@@ -56,7 +60,7 @@
     },
     "Texts": {
       "Eng": "It's a wonder this chest is still standin' after all this time.",
-      "Rus": "Удивительно, что спустя столько времени этот сундук еще цел."
+      "Rus": "Удивительно, что спустя столько времени этот сундук ещё цел."
     }
   },
   {

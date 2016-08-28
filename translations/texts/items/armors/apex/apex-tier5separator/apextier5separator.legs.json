@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Штаны Ассассина"
+    ],
     "Files": {
       "items/armors/apex/apex-tier5separator/apextier5separator.legs": [
         "/shortdescription"
@@ -20,7 +22,7 @@
     },
     "Texts": {
       "Eng": "Assassin's Trousers",
-      "Rus": "Штаны Ассассина"
+      "Rus": "Штаны Ассасина"
     }
   }
 ]

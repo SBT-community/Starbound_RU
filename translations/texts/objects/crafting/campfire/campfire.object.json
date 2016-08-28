@@ -48,7 +48,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Тлеющие угольки танцуют у костра, прогревая воздух. Жар может быть использован для готовки."
+    ],
     "Files": {
       "objects/crafting/campfire/campfire.object": [
         "/description"
@@ -60,7 +62,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флоран ненавидит огонь, но любит готовить. Готовка ведет к пропитанию."
+    ],
     "Files": {
       "objects/crafting/campfire/campfire.object": [
         "/floranDescription"
