@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<count> <itemName>"
+      "Eng": "<count> <itemName>",
+      "Rus": ""
     }
   },
   {
@@ -21,7 +22,7 @@
     },
     "Texts": {
       "Eng": "<questGiver>'s new friend",
-      "Rus": "Новый друг для  <questGiver>"
+      "Rus": "Новый друг для <questGiver>"
     }
   },
   {
@@ -49,7 +50,7 @@
     },
     "Texts": {
       "Eng": "All you need to do now is ^green;make a home^white; using your ^orange;<furnitureSet>, ^white;and a ^orange;Colony Deed^white;! I'll be making a new friend in no time!",
-      "Rus": "Всё что теперь тебе нужно это ^green;построить дом^white; используя ^orange;<furnitureSet>, ^white;и ^orange;колонизатор^white;. Таким образом у меня быстро появятся друзья"
+      "Rus": "Всё что теперь тебе нужно, это ^green;построить дом^white; используя ^orange;<furnitureSet>, ^white;и ^orange;колонизатор^white;. Таким образом у меня быстро появятся друзья!"
     }
   },
   {
@@ -77,7 +78,7 @@
     },
     "Texts": {
       "Eng": "Finally, ^green;make a shelter and decorate it with ^orange;<furnitureSet>.^white;! Make sssure you ^green;place a ^orange;Colony deed,^white; too. Floran hopes new friend enjoyss hunting...",
-      "Rus": "Наконец, ^green;сделай убежище и укрась его с помощью ^orange;<furnitureSet>.^white;! Убедисссь, что ты ^green;разместил ^orange;Колонизатор.^white; Флоран надеется что новым друзьям понравится охота..."
+      "Rus": "Наконец, ^green;сделай укрытие и укрась его с помощью ^orange;<furnitureSet>.^white;! Убедисссь, что ты ^green;разместил ^orange;Колонизатор.^white; Флоран надеется что новым друзьям понравится охота..."
     }
   },
   {
@@ -304,7 +305,8 @@
       ]
     },
     "Texts": {
-      "Eng": "any door"
+      "Eng": "any door",
+      "Rus": ""
     }
   },
   {
@@ -315,7 +317,8 @@
       ]
     },
     "Texts": {
-      "Eng": "any light source"
+      "Eng": "any light source",
+      "Rus": ""
     }
   }
 ]

@@ -61,7 +61,7 @@
     },
     "Texts": {
       "Eng": "Acquire <item> from <target>",
-      "Rus": "Получите <item> от <target>"
+      "Rus": "<target> долж<target.pronoun.verb2Ending> отдать предмет (<item>)"
     }
   },
   {
@@ -144,7 +144,7 @@
     },
     "Texts": {
       "Eng": "Give <gift> to <target>",
-      "Rus": "Отдайте <gift> <target>"
+      "Rus": "<target> ждёт подарок (<gift>)"
     }
   },
   {
@@ -161,7 +161,7 @@
     },
     "Texts": {
       "Eng": "Give <tradedItems> to <target>",
-      "Rus": "Отдайте <tradedItems> <target>"
+      "Rus": "<target> ждёт предметы (<tradedItems>)"
     }
   },
   {
@@ -317,7 +317,7 @@
     },
     "Texts": {
       "Eng": "Oops, I wasn't able to help <questGiver>.",
-      "Rus": "Ой, я не смог(ла) помочь <questGiver>"
+      "Rus": "<questGiver> остал<questGiver.pronoun.verb3Ending> без моей помощи."
     }
   },
   {
@@ -395,7 +395,7 @@
     },
     "Texts": {
       "Eng": "Return parcel to <questGiver>",
-      "Rus": "Верните свёрток <questGiver>"
+      "Rus": "<questGiver> ждёт пакет"
     }
   },
   {

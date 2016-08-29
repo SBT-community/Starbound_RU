@@ -8,7 +8,7 @@
     },
     "Texts": {
       "Eng": "A lone ^orange;<monster> ^white;ambushed me at the ^orange;<spawnPoint>^white;<spawnPoint.direction> and took ^orange;<items>^white;! Can you ^green;hunt the creature and retrieve my possessions for me?",
-      "Rus": "Одинокий ^orange;<monster> ^white;напал на меня из засады у ^orange;<spawnPoint>^white;<spawnPoint.direction> и забрал ^orange;<items>^white;! Можешь ^green;отыскать существо и вернуть мою собственность?"
+      "Rus": "Одинокий ^orange;<monster>^white; напал на меня из засады у ^orange;<spawnPoint>^white; <spawnPoint.direction> и утащил мои вещи (^orange;<items>^white;)! Можешь ^green;отыскать эту тварь и вернуть мою собственность^white;?"
     }
   },
   {
@@ -20,7 +20,7 @@
     },
     "Texts": {
       "Eng": "Bring the <items> to <questGiver>",
-      "Rus": "Принеси <items> к <questGiver> "
+      "Rus": "<questGiver> ждёт потерянные вещи (<items>)"
     }
   },
   {
@@ -32,7 +32,7 @@
     },
     "Texts": {
       "Eng": "Firsst, we need Floran's ^orange;<items>^white;. Not hard to find. Lone <monster> near ^orange;<spawnPoint>^white;<spawnPoint.direction> ate them. ^green;Hunt the ^orange;<monster> ^green;and bring Floran's thingsss back!",
-      "Rus": "Сссначала, нам нужны Флоранские ^orange;<items>^white;. Не так уж и трудно их найти. Одинокий <monster> возле ^orange;<spawnPoint>^white;<spawnPoint.direction> съел их. ^green;Отыщи ^orange;<monster> ^green;и принеси вещи Флорана обратно!"
+      "Rus": "Итак, нам нужны вещи Флорана (^orange;<items>^white;). Не так уж и трудно их найти. Одинокий <monster> возле ^orange;<spawnPoint>^white; <spawnPoint.direction> ссъел их. ^green;Отыщи, где бродит ^orange;<monster>^green;, и принеси вещи Флорана обратно!"
     }
   },
   {
@@ -44,7 +44,7 @@
     },
     "Texts": {
       "Eng": "First sstep, Floran need you to go on a little hunt. Floran sssaw ^orange;<monster> ^white;nearby swallow ^orange;<items> near ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^white;Greedy <monster>! ^green;Hunt it and bring Floran the stuff from inssside.",
-      "Rus": "Во первых, Флорану нужно, чтобы ты отправился на небольшую охоту. Флоран видел как ^orange;<monster> ^white;слопал ^orange;<items> возле ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^white;Вот прожора! ^green;Отыщщщи его и принеси вещи из его внутренностей."
+      "Rus": "Во-первых, Флорану нужно, чтобы ты отправился на небольшую охоту. Флоран видел как ^orange;<monster> ^white;слопал вещи (^orange;<items>^white;) возле ^orange;<spawnPoint>^white; <spawnPoint.direction>. ^white;Вот прожора! ^green;Отыщи его и принеси вещи из его внутренносстей."
     }
   },
   {
@@ -58,7 +58,7 @@
     },
     "Texts": {
       "Eng": "Floran knew you'd do it! <player> the <monster> hunter! Sssounds good, right? And now Floran has what we need.",
-      "Rus": "Флоран знал что ты это сделаешь! <player>, охотник на <monster>! Звучит неплохо, правда? И теперь у Флорана есть то что нужно."
+      "Rus": "Флоран знал что ты это сделаешь! <player>, охотник на монстров! Звучит неплохо, правда? И теперь у Флорана есть то, что нужно."
     }
   },
   {
@@ -70,7 +70,7 @@
     },
     "Texts": {
       "Eng": "Good job! Bet <monster> regretss eating Floran's ssstuff now. Okay, let's make usse of the <items>.",
-      "Rus": ""
+      "Rus": "Хорошая работа! Наверняка <monster> пожалел, что глотал что ни попадя. "
     }
   },
   {
@@ -82,7 +82,7 @@
     },
     "Texts": {
       "Eng": "Great work! That <monster> won't be bothering anyone anymore! And we should have everything we need for phase two.",
-      "Rus": ""
+      "Rus": "Отличная работа! Этот <monster> больше никому не причинит проблем!"
     }
   },
   {
@@ -94,7 +94,7 @@
     },
     "Texts": {
       "Eng": "Hunt the <monster>",
-      "Rus": "Выследи <monster>"
+      "Rus": "Найдите, где прячется <monster>"
     }
   },
   {
@@ -106,7 +106,7 @@
     },
     "Texts": {
       "Eng": "I had just finished gathering ^orange;<items>^white; when a lone ^orange;<monster> at the <spawnPoint><spawnPoint.direction> swallowed them whole! ^white;Could you go ^green;hunt the beast and retrieve my belongings^white; for me?",
-      "Rus": ""
+      "Rus": "Я направлял<questGiver.pronoun.verb3Ending> домой, и проходил<questGiver.pronoun.verbEnding> мимо ^orange;<spawnPoint>^white; <spawnPoint.direction>, как вдруг на меня набросился ^orange;<monster>^white;! Он вцепился в мою сумку и проглотил всё, что в ней было (^orange;<items>^white;). Не мог бы ты его выпотрошить и вернуть мне мои вещи?"
     }
   },
   {
@@ -118,7 +118,7 @@
     },
     "Texts": {
       "Eng": "I was attacked by a fierce ^orange;<monster> at the <spawnPoint>^white;<spawnPoint.direction>, and it swallowed my possessions in the struggle. It took ^orange;<items>, ^white;could you ^green;hunt it down and retrieve my things^white; for me?",
-      "Rus": "На меня напал свирепый ^orange;<monster>  около <spawnPoint>^white;<spawnPoint.direction>. Он проглотил в бою всё моё имущество. Он взял  ^orange;<items>, ^white;, поэтому не мог бы ты ^green; выследить эту тварь и вернуть мои вещи^white; обратно?"
+      "Rus": "На меня напал свирепый ^orange;<monster>  около <spawnPoint>^white;<spawnPoint.direction>. Он проглотил в бою всё моё имущество (^orange;<items>^white;). Не мог бы ты ^green;выследить эту тварь и вернуть мои вещи^white; обратно?"
     }
   },
   {
@@ -130,7 +130,7 @@
     },
     "Texts": {
       "Eng": "I was recently attacked by a fierce ^orange;<monster>, ^white;which made off with my ^orange;<items>^white. It went towards the ^orange;<spawnPoint>^white<spawnPoint.direction>. Could you ^green;hunt the creature down for me?^white; It couldn't have gotten far.",
-      "Rus": "Я недавно был атакован свирепым ^orange;<monster>, ^white;. Он удрал с моими ^orange;<items>^white. Он пошел прямиком к ^orange;<spawnPoint>^white<spawnPoint.direction>. Не мог бы ты ^green;выследить это создание для меня?^white; Оно не могло далеко уйти.\r\n"
+      "Rus": "На меня напал свирепый ^orange;<monster>, ^white;. Он удрал с моими вещами (^orange;<items>^white;). Он скрылся где-то у ^orange;<spawnPoint>^white; <spawnPoint.direction>. Не мог бы ты ^green;выследить это создание ^white;? Оно не могло далеко уйти.\n"
     }
   },
   {
@@ -142,7 +142,7 @@
     },
     "Texts": {
       "Eng": "Impressive - you're a good hunter. Things <monster> ate are a little sssticky, but still usable.",
-      "Rus": "Впечатляет, ты хороший охотник. Вещи что проглотил  <monster> немного липкие, но их всё равно можно использовать."
+      "Rus": "Впечатляет, ты хороший охотник. Вещи что проглотил <monster> немного липкие, но их всё равно можно использовать."
     }
   },
   {
@@ -154,7 +154,7 @@
     },
     "Texts": {
       "Eng": "Next sstep not tricky. A ^orange;<monster> ^white;near the ^orange;<spawnPoint>^white;<spawnPoint.direction> ate Floran's ^orange;<items>. ^green;Hunt ^orange;<monster> ^white;for Floran and ^green;get stuff back.",
-      "Rus": ""
+      "Rus": "Сследующий шаг прост. Нужно походить около ^orange;<spawnPoint>^white; <spawnPoint.direction> и выследить, где прячется ^orange;<monster>^white;. Затем нужно его убить и ^green;вынуть из него вещи^white; (^orange;<items>^white;), которые он ссожрал днём ранее - Флорану они ещё пригодятся."
     }
   },
   {
@@ -166,7 +166,7 @@
     },
     "Texts": {
       "Eng": "Next you'll need to hunt down a ^orange;<monster>.^white; I was out walking by the ^orange;<spawnPoint>^white;<spawnPoint.direction> earlier and it ambushed me and took my ^orange;<items>. Would you ^green;locate the creature and return what it's taken?",
-      "Rus": ""
+      "Rus": "Нужно, чтобы огромный ^orange;<monster>^white; был убит - он довёл меня тем, что съел мои вещи (^orange;<items>^white;), когда подстерёг меня у ^orange;<spawnPoint>^white; <spawnPoint.direction>. Ты не мог бы ^green;выследить его и вернуть моё имущество^white;?"
     }
   },
   {
@@ -178,7 +178,7 @@
     },
     "Texts": {
       "Eng": "Next, ^green;I'll need you to hunt down the ^orange;<monster>^white; that swallowed my ^orange;<items>^white; and ran off the other day -- I need my stuff back. That ^orange;<monster>^white; should be near the ^orange;<spawnPoint>^white;<spawnPoint.direction>.",
-      "Rus": ""
+      "Rus": "Прошу - ^green;верни мои вещи^white; (^orange;<items>^white;). Их проглотил ^orange;<monster>^white;, который бродит у ^orange;<spawnPoint>^white; <spawnPoint.direction>. Для меня очень важно получить вещи в целости и сохранности обратно."
     }
   },
   {
@@ -190,7 +190,7 @@
     },
     "Texts": {
       "Eng": "Nice work! Floran wasn't sssure if you'd succeed. Lookss like you didn't ask <monster> nicely, Floran will clean thiss stuff before usssing.",
-      "Rus": ""
+      "Rus": "Хорошо. Флоран не думал, что ты ссправишься. Похоже, <monster> получил по заслугам."
     }
   },
   {
@@ -202,7 +202,7 @@
     },
     "Texts": {
       "Eng": "Okay, now Floran needss ^orange;<items>. ^white;Floran sssaw ^orange;<monster> ^white;near the ^orange;<spawnPoint>^white;<spawnPoint.direction> swallow the stuff we need! ^green;Hunt the ^orange;<monster> ^white;for Floran and ^green;bring back the thingsss.",
-      "Rus": ""
+      "Rus": "Ладно, Флорану нужны кое-какие вещи (^orange;<items>. ^white;) - примерно такие, какие недавно у него отнял и ссъел ^orange;<monster>^white; у ^orange;<spawnPoint>^white; <spawnPoint.direction>. ^green;Прикончи его и принеси вещи обратно^white;. "
     }
   },
   {
@@ -214,7 +214,7 @@
     },
     "Texts": {
       "Eng": "Thank you for retrieving my belongings - They are important to my plans. Hopefully any wandering beasts will learn not to antagonise us in future!",
-      "Rus": "Спасибо за возвращение моих принадлежностей. Они важны для моих планов. Надеюсь, любые блуждающие звери научатся не враждовать по отношению к нам!"
+      "Rus": "Спасибо за возвращение моего имущества. Оно мне пригодится. Надеюсь, бродячие животные на него больше не покусятся!"
     }
   },
   {
@@ -226,7 +226,7 @@
     },
     "Texts": {
       "Eng": "Thank you! That <monster> should have thought twice before running off with things that didn't belong to it.",
-      "Rus": ""
+      "Rus": "Спасибо! Этот <monster> теперь дважды подумает, прежде чем нападать на меня."
     }
   },
   {
@@ -238,7 +238,7 @@
     },
     "Texts": {
       "Eng": "That <monster> is finally gone? Thank you! Now that we've got <items> we can move forward.",
-      "Rus": ""
+      "Rus": "Этот <monster> мёртв? Спасибо! Давай сюда мои вещи скорее."
     }
   },
   {
@@ -250,7 +250,7 @@
     },
     "Texts": {
       "Eng": "The first step is ^green;finding the ^orange;<monster>^white; that's been giving me trouble. It ran off with ^orange;<items>,^white; towards the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;You don't mind hunting it down do you?",
-      "Rus": ""
+      "Rus": "Так, тебе нужно найти, где прячется ^orange;<monster>^white;. Я знаю, что это где-то около ^orange;<spawnPoint>^white; <spawnPoint.direction> - именно там он напал на меня и сожрал мои вещи (^orange;<items>^white;). ^green;Ты не мог вернуть их мне^white;?"
     }
   },
   {
@@ -262,7 +262,7 @@
     },
     "Texts": {
       "Eng": "The first thing we'll need is ^orange;<items>.^white; Unfortunately, an oversized <monster> ate my supplies. It should be lurking around near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Could you ^green;kill that ^orange;<monster>^green; and bring them back?",
-      "Rus": ""
+      "Rus": "Я прошу ^green;вернуть тебя мои вещи^white; (^orange;<items>^white;), которые в данный момент находятся кое в чьём желудке. Если конкретнее, хозяин этого желудка - ^orange;<monster>^white;-переросток, который напал на меня у ^orange;<spawnPoint>^white; <spawnPoint.direction>."
     }
   },
   {
@@ -274,7 +274,7 @@
     },
     "Texts": {
       "Eng": "You managed to defeat that <monster>!? You must be a great warrior! Thank you for your assistance.",
-      "Rus": ""
+      "Rus": "Мерзкий <monster> пал? Ты, должно быть, великий воин! Спасибо за помощь."
     }
   },
   {
@@ -286,7 +286,7 @@
     },
     "Texts": {
       "Eng": "You retrieved my belongings - even if they do smell of <monster>!",
-      "Rus": ""
+      "Rus": "Ты вернул мои вещи - пусть даже они теперь и изгрызены."
     }
   },
   {
@@ -298,7 +298,7 @@
     },
     "Texts": {
       "Eng": "You retrieved my belongings for me! Next time a cowardly <monster> ambushes me, I'll be ready.",
-      "Rus": ""
+      "Rus": "Ты вернул мои вещи! В следующий раз, когда трусливый <monster> нападёт на меня, я буду готов."
     }
   },
   {
@@ -309,7 +309,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Yuck, was this in the stomach of that <monster>?  I guess I can't complain, thanks for doing the dirty work."
+      "Eng": "Yuck, was this in the stomach of that <monster>?  I guess I can't complain, thanks for doing the dirty work.",
+      "Rus": "Так, <monster> мёртв? А это вот полупереваренное нечто было в его желудке? Нуу, хоть что-то."
     }
   }
 ]

@@ -4454,7 +4454,7 @@
           "hologram4.object.json": 0
         },
         "hologramgalaxy": {
-          "hologramgalaxy.object.json": 0
+          "hologramgalaxy.object.json": 6
         },
         "jumpbooster": {
           "jumpbooster.object.json": 9
@@ -4463,7 +4463,7 @@
           "largetentacleprop.object.json": 9
         },
         "lightstreaks": {
-          "lightstreaks.object.json": 0
+          "lightstreaks.object.json": 4
         },
         "monolithgate": {
           "monolithgate.object.json": 8
@@ -7574,13 +7574,13 @@
             "fossildisplay1.object.json": 0
           },
           "fossildisplay3": {
-            "fossildisplay3.object.json": 0
+            "fossildisplay3.object.json": 2
           },
           "fossildisplay5": {
-            "fossildisplay5.object.json": 0
+            "fossildisplay5.object.json": 2
           },
           "shared_fossildisplay": {
-            "shared_fossildisplay.json": 1
+            "shared_fossildisplay.json": 8
           }
         }
       },
@@ -12123,21 +12123,21 @@
           "helmet.questtemplate.json": 23,
           "intimidate.questtemplate.json": 9,
           "kidnapping.questtemplate.json": 88,
-          "kill_monster.questtemplate.json": 10,
+          "kill_monster.questtemplate.json": 26,
           "kill_monster_group.questtemplate.json": 81,
           "kill_monster_single.questtemplate.json": 69,
           "kill_npc.questtemplate.json": 97,
           "kill_npcs.questtemplate.json": 98,
-          "new_stock1.questtemplate.json": 0,
-          "new_stock2.questtemplate.json": 0,
-          "protect.questtemplate.json": 3,
+          "new_stock1.questtemplate.json": 22,
+          "new_stock2.questtemplate.json": 22,
+          "protect.questtemplate.json": 4,
           "recruit_guard.questtemplate.json": 3,
-          "request_craft.questtemplate.json": 0,
-          "return_stolen.questtemplate.json": 17,
+          "request_craft.questtemplate.json": 24,
+          "return_stolen.questtemplate.json": 62,
           "share_secret.questtemplate.json": 91,
           "shared_.questtemplate.json": 79,
           "shared_d.questtemplate.json": 2,
-          "shared_t.questtemplate.json": 1,
+          "shared_t.questtemplate.json": 2,
           "spread_rumors.questtemplate.json": 82,
           "steal.questtemplate.json": 25,
           "themed_build.questtemplate.json": 23
@@ -12290,8 +12290,8 @@
       "feneroxnamegen.config.json": 9,
       "floran.species.json": 6,
       "glitch.species.json": 7,
-      "glitchfemalenamegen.config.json": 0,
-      "glitchmalenamegen.config.json": 0,
+      "glitchfemalenamegen.config.json": 9,
+      "glitchmalenamegen.config.json": 10,
       "human.species.json": 4,
       "humanfemalenamegen.config.json": 138,
       "humanmalenamegen.config.json": 125,
@@ -12304,7 +12304,7 @@
       "penguinnamegen.config.json": 27,
       "shadownamegen.config.json": 1,
       "shared_.species.json": 17,
-      "shared_malenamegen.config.json": 0,
+      "shared_malenamegen.config.json": 37,
       "shared_namegen.config.json": 101
     },
     "stagehands": {

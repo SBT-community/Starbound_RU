@@ -16,7 +16,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Friendly Friend"
+      "Eng": "Friendly Friend",
+      "Rus": "Friendly Friend"
     }
   },
   {
@@ -31,7 +32,7 @@
     },
     "Texts": {
       "Eng": "Give <clothingIngredients> to <friend>",
-      "Rus": "Дайте <clothingIngredients> <friend>"
+      "Rus": "<friend> ждёт предметы (<clothingIngredients>) "
     }
   }
 ]
