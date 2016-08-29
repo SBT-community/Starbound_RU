@@ -8,7 +8,7 @@
     },
     "Texts": {
       "Eng": "<player> and <questGiver>, purveyors of vigilante justice! Sounds good, right?  You were like a ghost in there. <thief> won't know what to think! ",
-      "Rus": ""
+      "Rus": "<player> и <questGiver> на страже законности и порядка! Звучит, а? <thief> и прочие подонки будут наказаны!"
     }
   },
   {
@@ -20,7 +20,7 @@
     },
     "Texts": {
       "Eng": "<questGiver> the vigilante",
-      "Rus": ""
+      "Rus": "<questGiver> требует правосудия"
     }
   },
   {
@@ -80,7 +80,7 @@
     },
     "Texts": {
       "Eng": "Alright, I'll keep a lookout while you ^green;take the stolen ^orange;<item>^green; from ^orange;<thief>'s^green; home.^white; Once you're done, ^green;place it back in ^orange;<victim>'s^green; house. ",
-      "Rus": ""
+      "Rus": "Хорошо, я постою на стрёме, пока ты ^green;возвращаешь похищенные вещи^white; из дома, где живёт ^orange;<thief>^white;, в дом, где живёт ^orange;<victim>^white;. Основное, что нас интересует - ^orange;<item>^white;. Действуй."
     }
   },
   {
@@ -92,7 +92,7 @@
     },
     "Texts": {
       "Eng": "Crisis averted- <victim> has <victim.pronoun.possessiveDet> <item> back! Thank you for being so helpful, <player>.",
-      "Rus": ""
+      "Rus": "Кризис миновал - <victim> получил<victim.pronoun.verbEnding> свои вещи обратно. Спасибо за помощь!"
     }
   },
   {
@@ -116,7 +116,7 @@
     },
     "Texts": {
       "Eng": "Evil McThief",
-      "Rus": ""
+      "Rus": "Evil McThief"
     }
   },
   {
@@ -128,7 +128,7 @@
     },
     "Texts": {
       "Eng": "Excellent! <victim> has <victim.pronoun.possessiveDet> <item> and all is right with the universe... Almost.",
-      "Rus": ""
+      "Rus": "Отлично! <victim> снова владеет своими вещами, а это значит, что мир ещё на один шажок приблизился к всеобщему порядку..."
     }
   },
   {
@@ -176,7 +176,7 @@
     },
     "Texts": {
       "Eng": "Floran is upssset about something that happened - ^orange;<thief> ^white;shamelesssly stole from <victim>! If you could ^green;return the stolen ^orange;<item>^green; to ^orange;<victim>,^white; I'm sssure <victim.pronoun.subject>'d be grateful.",
-      "Rus": "Флоран расстроен беззаконием - ^orange;<thief>^white; обокрал<thief.pronoun.verbEnding> дом, где живёт ^orange;<victim>^white;. Это все знают, потому что ^orange;<item>^white; ни с чем не спутать - и думаю, что <victim> будет только рад<victim.pronoun.verbEnding>, ^green;получив это обратно^white;."
+      "Rus": "Флоран расстроен беззаконием - ^orange;<thief>^white; обокрал<thief.pronoun.verbEnding> дом, где живёт ^orange;<victim>^white;. Это все знают, потому что ^orange;<item>^white; в каком-то смысле уникальная вещь - и думаю, что <victim> будет только рад<victim.pronoun.verbEnding>, ^green;получив её обратно^white;."
     }
   },
   {
@@ -188,7 +188,7 @@
     },
     "Texts": {
       "Eng": "Floran thanksss you deeply for returning the <item> to <victim>. Floran knew you could be counted on!",
-      "Rus": ""
+      "Rus": "Флоран благодарен тебе за возвращение украденные вещей. Флоран знал, что на тебя можно положиться!"
     }
   },
   {
@@ -200,7 +200,7 @@
     },
     "Texts": {
       "Eng": "Good job! <victim> will be pleased with me, once <victim.pronoun.subject> sees <victim.pronoun.possessiveDet> <item> back in its rightful place.",
-      "Rus": ""
+      "Rus": "Отличная работа! <victim> обрадуется, когда увидит, что все вещи вновь на своих местах."
     }
   },
   {
@@ -212,7 +212,7 @@
     },
     "Texts": {
       "Eng": "Help out <victim>",
-      "Rus": ""
+      "Rus": "<victim> сообщает о краже"
     }
   },
   {
@@ -224,7 +224,7 @@
     },
     "Texts": {
       "Eng": "I couldn't bring justice to <victim>. Maybe it's better that I didn't get involved.",
-      "Rus": ""
+      "Rus": "Я не смог помочь. Возможно, <victim> купит вещи, которые будут ещё лучше украденных."
     }
   },
   {
@@ -236,7 +236,7 @@
     },
     "Texts": {
       "Eng": "I didn't manage to return the stolen item to <victim>. Let's hope that <victim.pronoun.subject> doesn't mind too much.",
-      "Rus": ""
+      "Rus": "Я не смог помочь вернуть похищенное. Будем надеяться, что <victim> не наложит на себя руки от горя."
     }
   },
   {
@@ -248,7 +248,7 @@
     },
     "Texts": {
       "Eng": "I failed to retrieve <victim>'s <item>. <questGiver> should have just done it <questGiver.pronoun.reflexive>.",
-      "Rus": ""
+      "Rus": "Я не смог помочь вернуть украденное. <questGiver>, возможно, попытается это сделать сам."
     }
   },
   {
@@ -260,7 +260,7 @@
     },
     "Texts": {
       "Eng": "I'm so glad you retrieved the <item> for <victim>! Once I take all the credit for helping <victim.pronoun.object> out, <victim.pronoun.subject>'ll definitely trust me!",
-      "Rus": ""
+      "Rus": "Я так рад<questGiver.pronoun.verbEnding>, что <victim> получит свои вещи обратно! А <victim.pronoun.subject> наверное будет рад<victim.pronoun.verbEnding>, узнав, что я тоже приложил<questGiver.pronoun.verbEnding> к этому руку."
     }
   },
   {
@@ -272,7 +272,7 @@
     },
     "Texts": {
       "Eng": "In a moment of desperation, ^orange;<thief>^white; robbed <victim> of <victim.pronoun.possessiveDet> ^orange;<item>^white;! If you ^green;retrieve it and put it back in ^orange;<victim>’s^green; house,^white; <victim.pronoun.subject> may never even realise it was gone. I would be grateful.",
-      "Rus": ""
+      "Rus": "^orange;<thief>^white; решил<thief.pronoun.verb3Ending> на отчаянный поступок - взломал<thief.pronoun.verbEnding> дом, в котором живёт ^orange;<victim>^white;, и похитил<thief.pronoun.verbEnding> несколько вещей. Список возглавляет ^orange;<item>^white;. Ты не мог бы восстановить справедливость и ^green;вернуть вещи настоящему владельцу^white;?"
     }
   },
   {
@@ -284,7 +284,7 @@
     },
     "Texts": {
       "Eng": "Many thanks! <victim> has <victim.pronoun.possessiveDet> <item> and <thief> knows better than to steal from <victim.pronoun.object> again!",
-      "Rus": ""
+      "Rus": "Огромное спасибо! <victim> вернул<victim.pronoun.verbEnding> свои вещи обратно, а <thief> теперь будет знать как зариться на чужое."
     }
   },
   {
@@ -296,7 +296,7 @@
     },
     "Texts": {
       "Eng": "Mission accomplished! <victim> will be so happy to have the <item> back. Thiss makes Floran happy too.",
-      "Rus": ""
+      "Rus": "Миссия выполнена! <victim> обрадуется, увидев свои вещи снова. И Флоран обрадуетсся тоже."
     }
   },
   {
@@ -308,7 +308,7 @@
     },
     "Texts": {
       "Eng": "Next, I bet it would make ^orange;<victim>^white; happy if you ^green;retrieved the ^orange;<item>^white; that ^orange;<thief>^white; stole from <victim.pronoun.object>, and ^green;put it back in <victim.pronoun.possessiveDet> house.^white; That aught to get me into <victim.pronoun.possessiveDet> good books.",
-      "Rus": "^orange;<victim>^white; ходит в полной прострации после того, как <victim.pronoun.reflexive> дом обокрали. Я случайно узнал<questGiver.pronoun.verbEnding>, что вор - это ^orange;<thief>^white;, когда увидел<questGiver.pronoun.verbEnding>, что ^orange;<item>^white; в <thief.pronoun.reflexive> доме. Ты должен ^green;вернуть украденное^white;."
+      "Rus": "^orange;<victim>^white; ходит в полной прострации после того, как <victim.pronoun.reflexive> дом обокрали. Я случайно узнал<questGiver.pronoun.verbEnding>, что вор - это ^orange;<thief>^white;, когда увидел<questGiver.pronoun.verbEnding>, что ^orange;<item>^white; в <thief.pronoun.reflexive> доме. Ты должен ^green;вернуть украденное^white;.1"
     }
   },
   {
@@ -320,7 +320,7 @@
     },
     "Texts": {
       "Eng": "Nice work returning the <item> to <victim>'s house on my behalf! You don't mind me taking all the credit, do you? Of course you don't.",
-      "Rus": ""
+      "Rus": "Отлично сработано! Ты не против, если я скажу, что всю операцию по возвращению краденного провернул<questGiver.pronoun.verbEnding> я? Конечно ты не против."
     }
   },
   {
@@ -332,7 +332,7 @@
     },
     "Texts": {
       "Eng": "Nice work! <victim> will be pretty thankful to see that I helped get <victim.pronoun.possessiveDet> <item> back. We're a daring vigilante duo now!",
-      "Rus": ""
+      "Rus": "Неплохо сработано! <victim> будет бесконечно благодар<victim.pronoun.verb2Ending> за возвращение похищенного. А из нас вышла неплохая шерифская бригада, а?"
     }
   },
   {
@@ -344,7 +344,7 @@
     },
     "Texts": {
       "Eng": "Now we can rest easssy, knowing that <victim> has been reunited with <victim.pronoun.possessiveDet> <item>. ",
-      "Rus": ""
+      "Rus": "Теперь, когда ссправедливость восстановлена, Флоран может спать спокойно."
     }
   },
   {
@@ -392,7 +392,7 @@
     },
     "Texts": {
       "Eng": "Sssuccess! <victim> will be so happy to have the <item> back. Thiss makes Floran happy too.",
-      "Rus": ""
+      "Rus": "Усспех! <victim> обрадуется, увидев свои вещи. И Флоран обрадуетсся тоже."
     }
   },
   {
@@ -416,7 +416,7 @@
     },
     "Texts": {
       "Eng": "Ssuperb! <victim> will be so grateful to have the <item> back. Now Floran needss more help.",
-      "Rus": ""
+      "Rus": "Здорово! <victim> будет благодар<victim.pronoun.verb2Ending> за возвращение вещей."
     }
   },
   {
@@ -428,7 +428,7 @@
     },
     "Texts": {
       "Eng": "Stupendouss! <victim> will be so pleased to have the <item> back! But Floran needss more help.",
-      "Rus": ""
+      "Rus": "Превоссходно! <victim> будет очень рад<victim.pronoun.verbEnding>, когда получит свои вещи обратно!"
     }
   },
   {
@@ -452,7 +452,7 @@
     },
     "Texts": {
       "Eng": "Thank you for retrieving the <item> for <victim>! I hope you don't mind me taking all the credit. I'll certainly have earned <victim>'s trust then!",
-      "Rus": ""
+      "Rus": "Спасибо за возвращение украденного! Надеюсь, ты не сильно обидишься, если я скажу, что это всё я сделал<questGiver,pronoun.verbEnding>."
     }
   },
   {
@@ -464,7 +464,7 @@
     },
     "Texts": {
       "Eng": "That swindler, <thief> has had the nerve to steal poor <victim>'s favourite ^orange;<item>.^white; We must do something about it! Would you be so kind as to ^green;retrieve it from ^orange;<thief>'s^green; home^white; and ^green;return it to ^orange;<victim>'s^green; house?",
-      "Rus": "^orange;<thief>^white; - хладнокровный грабитель. В его жилище ^orange;<item>^white; - так вот, <thief.pronoun.subject> унёс это из дома, где живёт ^orange;<victim>^white;. Ты не мог бы восстановить справедливость и ^green;вернуть похищенное^white;?"
+      "Rus": "^orange;<thief>^white; - хладнокровный грабитель. В его жилище ^orange;<item>^white; - так вот, <thief.pronoun.subject> выкрал<thief.pronoun.verbEnding> это из дома, где живёт ^orange;<victim>^white;. Ты не мог бы восстановить справедливость и ^green;вернуть похищенное^white;?"
     }
   },
   {
@@ -476,7 +476,7 @@
     },
     "Texts": {
       "Eng": "That was really impressive! I also like the way you didn't leave any fingerprints, that's smart thinking. Just wait until <victim> hears about this! ",
-      "Rus": ""
+      "Rus": "Впечатляет! Особенно то, что ты не оставил отпечатков пальцев. Теперь осталось подождать, пока <victim> не заметит этот приятный сюрприз."
     }
   },
   {
@@ -488,7 +488,7 @@
     },
     "Texts": {
       "Eng": "That wasn't as hard as I thought. You're pretty good at this stuff, aren't you? <victim> will be happy to see <victim.pronoun.possessiveDet> stuff back where it belongs.",
-      "Rus": ""
+      "Rus": "Это было не так сложно. как я предполагал. Взлом домов у тебя в крови, а? <victim> будет счастлив<victim.pronoun.verbEnding>, увидев, что <victim.pronoun.reflexive> вещи на месте."
     }
   },
   {
@@ -500,7 +500,7 @@
     },
     "Texts": {
       "Eng": "The ^orange;<item>^white; I've been looking for was stolen by ^orange;<thief>.^white; Right now it's sitting in <thief.pronoun.possessiveDet> home. ^green;Go steal it back,^white; then ^green;place it back in ^orange;<victim>'s^green; house^white; where it belongs. I'll be watching for trouble.",
-      "Rus": ""
+      "Rus": "Дело под названием \"^orange;<item>^white;: великая кража\" закрыто. Я выяснил<questGiver.pronoun.verbEnding>, что вором был<thief.pronoun.verbEnding> ^orange;<thief>^white;. Всё, что нам осталось - это ^green;вернуть похищенные вещи^white; в дом, где живёт пострадавший - ^orange;<victim>^white;. Под \"нам\" я подразумеваю \"тебе\"."
     }
   },
   {
@@ -524,7 +524,7 @@
     },
     "Texts": {
       "Eng": "These are dark timesss... Floran heard rumours of ^orange;<thief>^white; stealing ^orange;<victim>'s^white; <item>. ^white;Nowhere is safe these days! Please can you ^green;return the^orange; <item> ^green;to itsss rightful owner?",
-      "Rus": ""
+      "Rus": "Настали ссмутные времена... До Флорана дошли слухи, что ^orange;<thief>^white; ограбил дом, в котором живёт ^orange;<victim>^white;. В списке украденного, в частности - ^orange;<item>^white;. Ты можешь ^green;вернуть вещь прежнему хозяину^white;?"
     }
   },
   {
@@ -548,7 +548,7 @@
     },
     "Texts": {
       "Eng": "Well done! <victim> will be so pleased to have the <item> back. Would you be willing to do something else for me?",
-      "Rus": ""
+      "Rus": "Славно сработано! <victim> будет счастлив<victim.pronoun.verbEnding>, увидев, что вещи на месте."
     }
   },
   {
@@ -560,7 +560,7 @@
     },
     "Texts": {
       "Eng": "Wow, you made that look easy! <victim> will be pleased to see we got <victim.pronoun.possessiveDet> <item> back. Have you done this before? There's no danger of leaving fingerprints with a specialised tool like that..",
-      "Rus": ""
+      "Rus": "Ого, ловко это у тебя вышло! <victim> будет вне себя от счастья, когда увидит, что все вещи на месте."
     }
   },
   {
@@ -584,7 +584,7 @@
     },
     "Texts": {
       "Eng": "You did it! Hopefully <thief> regretsss <thief.pronoun.possessiveDet> crime. Floran will keep an eye out to make sssure it doesn't happen again! ",
-      "Rus": ""
+      "Rus": "Ты справился! Хочетсся верить, что <thief> сожалеет о ссвоём поступке. Флоран будет за <thief.pronoun.copulativePast> присматривать."
     }
   },
   {
@@ -596,7 +596,7 @@
     },
     "Texts": {
       "Eng": "You did such a good job! I can't wait to see <thief>'s face when <thief.pronoun.subject> sees <thief.pronoun.subject> got a taste of <thief.pronoun.possessiveDet> own medicine. ",
-      "Rus": ""
+      "Rus": "Отличная работа! Представляю, как себя чувствует <thief>, отведав собственного лекарства!"
     }
   },
   {
@@ -608,7 +608,7 @@
     },
     "Texts": {
       "Eng": "You have a real talent for this kind of thing, I see you even brought your own tool for the job. <victim> will be pleased to see <victim.pronoun.possessiveDet> stuff has been returned.",
-      "Rus": ""
+      "Rus": "У тебя определённо талант к таким вещам - и даже нужное снаряжение имеется. <victim> обрадуется, когда заметит, что вещи вернулись."
     }
   },
   {
@@ -620,7 +620,7 @@
     },
     "Texts": {
       "Eng": "You managed to put the <item> back in <victim>'s house - thank you! If I can convince <victim.pronoun.object> that I was responsible, I'll definitely have earned <victim.pronoun.possessiveDet> trust!",
-      "Rus": ""
+      "Rus": "Ты смог вернуть похищенное в дом, где живёт <victim>? Спасибо! Если будешь говорить с <victim.pronoun.copulativePast>, обмолвись, что это я руководил всей операцией."
     }
   },
   {
@@ -632,7 +632,7 @@
     },
     "Texts": {
       "Eng": "You returned the <item>! I'm sure that <victim> feels sssafer knowing you're here to help out!",
-      "Rus": ""
+      "Rus": "Ты вернул украденное! Флоран уверен, что <victim> вернул<victim.pronoun.verbEnding> себе уверенность в завтрашнем дне."
     }
   },
   {
@@ -656,7 +656,7 @@
     },
     "Texts": {
       "Eng": "You! Floran needss you. ^orange;<thief>^white; has stolen a fine ^orange;<item>^white; from dear friend <victim> - how ssneaky! ^green;Take it back and put it in ^orange;<victim>'s ^green;house, ^white;ok?",
-      "Rus": ""
+      "Rus": "Эй, ты! Флорану нужно, чтобы ты ^green;вернул ворованные вещи^white; - а конкретно Флорана интересует ^orange;<item>^white; из дома, где живёт ^orange;<victim>^white;. В данный момент эта вещь в доме мерзкого вора по имени ^orange;<thief>^white; - и это надо иссправить!"
     }
   },
   {
@@ -668,7 +668,7 @@
     },
     "Texts": {
       "Eng": "^cyan;<victim> was asking if I knew anyone that could help find <victim.pronoun.possessiveDet> <item>. I know where it is, but I need your help.",
-      "Rus": ""
+      "Rus": "^cyan;<victim> спрашивает у всех, не видел ли кто-нибудь <victim.pronoun.reflexive> украденных вещей. Я видел<questGiver.pronoun.verbEnding>, но мне нужна твоя помощь."
     }
   },
   {
@@ -680,7 +680,7 @@
     },
     "Texts": {
       "Eng": "^cyan;Floran has found out about shocking crime! Let's fix thisss.",
-      "Rus": ""
+      "Rus": "^cyan;Флорану сстало известно об ужасном преступлении!"
     }
   },
   {
@@ -692,7 +692,7 @@
     },
     "Texts": {
       "Eng": "^cyan;I saw that <victim> was looking for <victim.pronoun.possessiveDet> stolen <item>, and I happen to know where it is. <victim.pronoun.capitalSubject>'d be pretty thankful if we were to help return it.",
-      "Rus": ""
+      "Rus": "^cyan;Дом, где живёт <victim>, ограбили. И я знаю, кто это сделал."
     }
   },
   {
@@ -704,7 +704,7 @@
     },
     "Texts": {
       "Eng": "^cyan;Opportunistic. I have discovered that <thief> has been stealing. Help me bring <thief.pronoun.object> to justice.",
-      "Rus": ""
+      "Rus": "^cyan;Воодушевлённо. Я выявил, что среди нас вор - <thief>. С этим надо что-то делать."
     }
   },
   {
@@ -716,7 +716,7 @@
     },
     "Texts": {
       "Eng": "^cyan;Ssomeone's <item> was stolen. Help ressstore justice!",
-      "Rus": ""
+      "Rus": "^cyan;Все спрашивают друг друга - \"где <item>?\" Флоран знает, где."
     }
   },
   {
@@ -728,7 +728,7 @@
     },
     "Texts": {
       "Eng": "^cyan;Troubled. <victim> has been the victim of petty thievery! Let's help <victim.pronoun.object>!",
-      "Rus": ""
+      "Rus": "^cyan;Озабоченно. Дом, в котором живёт <victim>, ограбили. Нужно помочь!"
     }
   },
   {
@@ -740,7 +740,7 @@
     },
     "Texts": {
       "Eng": "^orange;<thief>^white; recently stole <victim>'s favourite <item>. I bet ^orange;<victim>^white; would be very grateful to whomever ^green;retrieved the ^orange;<item> ^green;and put it back in <victim.pronoun.possessiveDet> house.^white; Will you do this for me?",
-      "Rus": ""
+      "Rus": "^orange;<thief>^white; недавно выкрал<thief.pronoun,verbEnding> из дома, где живёт ^orange;<victim>^white; несколько ценных вещей. Самое главное, что пропало - это ^orange;<item>^white;. Ты можешь ^green;вернуть пропавшие вещи владельцу^white;?"
     }
   }
 ]
