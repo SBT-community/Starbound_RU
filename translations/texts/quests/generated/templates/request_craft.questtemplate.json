@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<target.pronoun.capitalSubject> really made this for me? I can really keep this? Wow!"
+      "Eng": "<target.pronoun.capitalSubject> really made this for me? I can really keep this? Wow!",
+      "Rus": "<target> действительно сделал<target.pronoun.verbEnding> это для меня? Умопомрачительно!"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Excellent, thiss <item> is perfect."
+      "Eng": "Excellent, thiss <item> is perfect.",
+      "Rus": "Отлично, <item> - насстоящее произведение искусства."
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "First, I need you to grab something for me. ^orange;<target>^white; knows how to make the best ^orange;<item>^white; in the star system, ^green;head over and ask for one.^white; We'll need it later."
+      "Eng": "First, I need you to grab something for me. ^orange;<target>^white; knows how to make the best ^orange;<item>^white; in the star system, ^green;head over and ask for one.^white; We'll need it later.",
+      "Rus": "Итак, мне нужно, чтобы ты нашёл где сейчас ^orange;<target>^white; - и ^green;передал <target.pronoun.object> просьбу изготовить предмет^white; (^orange;<item>^white;)."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran knew you could do it. With thisss <item> we are well prepared."
+      "Eng": "Floran knew you could do it. With thisss <item> we are well prepared.",
+      "Rus": "Флоран знал, что ты ссправишься - <item> Флорану хорошо послужит."
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran knowsss that ^orange;<target> can make what we need. ^green;Go get one ^orange;<item> ^white;from <target.pronoun.object>."
+      "Eng": "Floran knowsss that ^orange;<target> can make what we need. ^green;Go get one ^orange;<item> ^white;from <target.pronoun.object>.",
+      "Rus": "Флоран знает, что ^orange;<target>^white; может сделать то, что ему нужно. ^green;Не мог бы ты передать <target.pronoun.object> просьбу изготовить предмет^white; (^orange;<item> ^white;)."
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran needs your help to retrieve something sspecial from ^orange;<target>. ^green;You should go and ask for one ^orange;<item>. ^white;<target.pronoun.capitalSubject>'ll make it for us."
+      "Eng": "Floran needs your help to retrieve something sspecial from ^orange;<target>. ^green;You should go and ask for one ^orange;<item>. ^white;<target.pronoun.capitalSubject>'ll make it for us.",
+      "Rus": "Флорану нужно, чтобы ты кое-что досстал (^orange;<item>^white;). Такую вещь может ссделать только ^orange;<target>^white; - ^green;обратиссь к н<target.pronoun.object>^white;."
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Great, you got the <item>! Now we need to put it to use as part of my grand plan!"
+      "Eng": "Great, you got the <item>! Now we need to put it to use as part of my grand plan!",
+      "Rus": "Отлично, <item> у меня! Приступаю к следующей части моего плана!"
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I've never seen anyone make any <item> as fine as <target> does. This is going to be perfect for what I've got planned."
+      "Eng": "I've never seen anyone make any <item> as fine as <target> does. This is going to be perfect for what I've got planned.",
+      "Rus": "Ого, <item> непревзойдённого качества - впервые вижу такое. <target> определённо постарал<target.pronoun.verb3Ending>."
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "My friend ^orange;<target>^white; said <target.pronoun.subject> would help make the ^orange;<item>^white; I need, but <target.pronoun.subject> has not shown up.  ^green;Would you go to <target.pronoun.object> and ask <target.pronoun.object> for it?"
+      "Eng": "My friend ^orange;<target>^white; said <target.pronoun.subject> would help make the ^orange;<item>^white; I need, but <target.pronoun.subject> has not shown up.  ^green;Would you go to <target.pronoun.object> and ask <target.pronoun.object> for it?",
+      "Rus": "Мой друг, ^orange;<target>^white;, дал<target.pronoun.verbEnding> обещание изготовить для меня предмет (^orange;<item>^white;). Время прошло, а заказа нет как нет. ^green;Не мог бы ты напомнить <target.pronoun.object> о данном обещании^white;?"
     }
   },
   {
@@ -106,7 +115,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Next, run over and have ^orange;<target>^white; assemble us a custom ^orange;<item>.^white; Just ^green;mention my name, <target> knows how I like them made."
+      "Eng": "Next, run over and have ^orange;<target>^white; assemble us a custom ^orange;<item>.^white; Just ^green;mention my name, <target> knows how I like them made.",
+      "Rus": "^green;Отыщи скорее, где ^orange;<target>^white; - необходимо, чтобы <target.pronoun.subject> сделал<target.pronoun.verbEnding> для меня кое-что (^orange;<item>^white;)."
     }
   },
   {
@@ -117,7 +127,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Nice one, I knew <target> would come up trumps. That's one thing off the list..."
+      "Eng": "Nice one, I knew <target> would come up trumps. That's one thing off the list...",
+      "Rus": "Отлично, я знал<questGiver.pronoun.verbEnding>, что <target> не откажет."
     }
   },
   {
@@ -128,7 +139,8 @@
       ]
     },
     "Texts": {
-      "Eng": "No one makes them like <target>! That's one more thing sorted. Thank you!"
+      "Eng": "No one makes them like <target>! That's one more thing sorted. Thank you!",
+      "Rus": "<target> - непревзойдённый мастер! А ты - непревзойдённый курьер!"
     }
   },
   {
@@ -139,7 +151,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Now, Floran needs to asssk you to ^green;get one ^orange;<item>. ^white;Floran is ssure ^orange;<target> ^green;can make one. "
+      "Eng": "Now, Floran needs to asssk you to ^green;get one ^orange;<item>. ^white;Floran is ssure ^orange;<target> ^green;can make one. ",
+      "Rus": "Теперь Флорану нужно, чтобы ты нашёл кого-нибудь, кто мог изготовить нечто особенное (^orange;<item>^white;). ^green;Начни с мастера по имени ^orange;<target>^white;."
     }
   },
   {
@@ -150,7 +163,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Oh, the quality of this <item> is not what I had expected. I suppose it will have to do."
+      "Eng": "Oh, the quality of this <item> is not what I had expected. I suppose it will have to do.",
+      "Rus": "Мм, <item> не может похвастаться особым качеством. Впрочем, и так сойдёт."
     }
   },
   {
@@ -161,7 +175,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Thanks! <target> makes them just right, I couldn't just get any old <item> for what I've got in mind."
+      "Eng": "Thanks! <target> makes them just right, I couldn't just get any old <item> for what I've got in mind.",
+      "Rus": "Спасибо! <target> держит марку, о таком качестве я и просить не смел<questGiver.pronoun.verbEnding>."
     }
   },
   {
@@ -172,7 +187,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The first thing I'll need is one ^orange;<item>. <target>^white; is good at making them, so we'll ^green;ask <target.pronoun.object> to make one^white; specifically for us."
+      "Eng": "The first thing I'll need is one ^orange;<item>. <target>^white; is good at making them, so we'll ^green;ask <target.pronoun.object> to make one^white; specifically for us.",
+      "Rus": "Так, мне нужно, чтобы ты ^green;достал кое-что^white; (^orange;<item>^white;) - и такую вещь способ<target.pronoun.verb2Ending> изготовить только ^orange;<target>^white;."
     }
   },
   {
@@ -183,7 +199,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The next thing I need is one ^orange;<item>. <target>^white; can make just about anything, ^green;ask <target.pronoun.object> to put it together."
+      "Eng": "The next thing I need is one ^orange;<item>. <target>^white; can make just about anything, ^green;ask <target.pronoun.object> to put it together.",
+      "Rus": "Мне нужно раздобыть кое-что (^orange;<item>^white;). Но тебе не придётся это делать самому - ^orange;<target>^white; справится гораздо лучше. ^green;Найди <target.pronoun.reflexive>^white;."
     }
   },
   {
@@ -194,7 +211,8 @@
       ]
     },
     "Texts": {
-      "Eng": "To start with there's sssomething Floran needs from <target>, <target.pronoun.subject> shouldn't mind. ^green;Go ask ^orange;<target> ^green;to craft Floran one ^orange;<item>."
+      "Eng": "To start with there's sssomething Floran needs from <target>, <target.pronoun.subject> shouldn't mind. ^green;Go ask ^orange;<target> ^green;to craft Floran one ^orange;<item>.",
+      "Rus": "Флорану нужно, чтобы ^orange;<target>^white; кое-то сделал<target.pronoun.verbEnding> для него. ^green;Сходи к н<target.pronoun.object> и попроси, чтобы <target.pronoun.subject> изготовил<target.pronoun.verbEnding> предмет^white; (^orange;<item>^white;)."
     }
   },
   {
@@ -205,7 +223,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Well done; <target> is generally friendly towards me, but not always so generous. Thank you for your help."
+      "Eng": "Well done; <target> is generally friendly towards me, but not always so generous. Thank you for your help.",
+      "Rus": "Отлично сработано, <target> тут переплюнул<target.pronoun.verbEnding> самого себя. Спасибо за помощь."
     }
   },
   {
@@ -216,7 +235,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Yes! Isn't <target> the best? This <item> will be so useful in the next ssstage of our plan."
+      "Eng": "Yes! Isn't <target> the best? This <item> will be so useful in the next ssstage of our plan.",
+      "Rus": "О да! Не правда ли, что <target> - отличный масстер?"
     }
   },
   {
@@ -227,7 +247,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You got the <item>! Thisss is a good day for!"
+      "Eng": "You got the <item>! Thisss is a good day for!",
+      "Rus": "Что, <item> у тебя? Чудессный день!"
     }
   },
   {
@@ -238,7 +259,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;I need you to pay a visit^white; to ^orange;<target>^white;. The ^orange;<item>^white; <target.pronoun.subject> promised to craft for me should be ready."
+      "Eng": "^green;I need you to pay a visit^white; to ^orange;<target>^white;. The ^orange;<item>^white; <target.pronoun.subject> promised to craft for me should be ready.",
+      "Rus": "^green;Найди где сейчас ошивается ^orange;<target>^white; - пусть займётся делом и сделает для меня этот предмет (^orange;<item>^white;)."
     }
   },
   {
@@ -249,7 +271,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;If you speak to ^orange;<target>^white; <target.pronoun.subject> should give you the ^orange;<item>^white; <target.pronoun.subject> is making for me."
+      "Eng": "^green;If you speak to ^orange;<target>^white; <target.pronoun.subject> should give you the ^orange;<item>^white; <target.pronoun.subject> is making for me.",
+      "Rus": "Если ты и ^orange;<target>^white; где-нибудь встретитесь, не сочти за труд и ^green;передай мою просьбу изготовить кое-что^white; (^orange;<item>^white;) для меня."
     }
   },
   {
@@ -260,7 +283,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^orange;<target>^white; knows how to make ^orange;<item>s^white; better than I do. ^green;Please ask <target.pronoun.object> to make one for me."
+      "Eng": "^orange;<target>^white; knows how to make ^orange;<item>s^white; better than I do. ^green;Please ask <target.pronoun.object> to make one for me.",
+      "Rus": "^orange;<target>^white; извест<target.pronoun.verbEnding> тем, что делает самые лучшие предметы (^orange;<item>^white;). Мне тоже нужен один - ^green;не мог бы ты это устроить^white;?"
     }
   }
 ]
