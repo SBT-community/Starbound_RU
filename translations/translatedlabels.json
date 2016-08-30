@@ -345,7 +345,7 @@
       },
       "shared_floran.json": 1
     },
-    "codex.config.json": 3,
+    "codex.config.json": 2,
     "damage": {
       "shield.damage.json": 1
     },
@@ -356,7 +356,7 @@
       "clues.config.json": 50,
       "colourful.config.json": 13,
       "combat.config.json": 169,
-      "converse.config.json": 152,
+      "converse.config.json": 158,
       "crewmember.config.json": 40,
       "cultist.config.json": 31,
       "deadbeat.config.json": 22,
@@ -7571,7 +7571,7 @@
         },
         "displaystands": {
           "fossildisplay1": {
-            "fossildisplay1.object.json": 0
+            "fossildisplay1.object.json": 7
           },
           "fossildisplay3": {
             "fossildisplay3.object.json": 2
@@ -7580,7 +7580,7 @@
             "fossildisplay5.object.json": 2
           },
           "shared_fossildisplay": {
-            "shared_fossildisplay.json": 8
+            "shared_fossildisplay.json": 9
           }
         }
       },
@@ -12130,7 +12130,7 @@
           "kill_npcs.questtemplate.json": 98,
           "new_stock1.questtemplate.json": 22,
           "new_stock2.questtemplate.json": 22,
-          "protect.questtemplate.json": 4,
+          "protect.questtemplate.json": 51,
           "recruit_guard.questtemplate.json": 3,
           "request_craft.questtemplate.json": 24,
           "return_stolen.questtemplate.json": 62,
