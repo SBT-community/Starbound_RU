@@ -19,7 +19,7 @@ foi = {
     "^gui.+/value$", ".+Title$", "^paneLayout/.+/value$", "areYouSure/value$",
     "^threatLevelToText/[0-9]+$",  "^blueprintUnlock$",
     "^blueprintAlreadyKnown$", "^rotTimeDescriptions/.+/1$", "^messages/[a-zA-Z]+$",
-    ".+[mM]essage$", "^defaultItemConfig/category$", "^.+/hint$",
+    ".+[mM]essage$", "^.+/hint$",
     "^defaultPetNameLabel$", ".*descriptions/[0-9]+$", "^(un)?trackLabel$",
      "^modeTypeTextAndColor/[0-9]+/[0-9]+$"],
   "themes.config":["^[0-9]+/1/[0-9]+/(0|(1/)?name)$"],
