@@ -15734,7 +15734,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Why are you wearing that flesh over your chassis?"
+      "Eng": "Why are you wearing that flesh over your chassis?",
+      "Rus": ""
     }
   },
   {
@@ -15745,7 +15746,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Why are your eyesss red?"
+      "Eng": "Why are your eyesss red?",
+      "Rus": "Почему у тебя красные глаза?"
     }
   },
   {
@@ -15756,29 +15758,36 @@
       ]
     },
     "Texts": {
-      "Eng": "Why do you Glitch say these lone words before speaking?"
+      "Eng": "Why do you Glitch say these lone words before speaking?",
+      "Rus": ""
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Зачем ты пришел сюда, что ты ищешь?"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/apex/generic/31"
       ]
     },
     "Texts": {
-      "Eng": "Why have you come here, what are you looking for?"
+      "Eng": "Why have you come here, what are you looking for?",
+      "Rus": ""
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Почему готовить так сложно? Все мои блюда ужасны на вкус ."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/glitch/generic/21/glitchEmotedText"
       ]
     },
     "Texts": {
-      "Eng": "Why is cooking so hard? All my dishes taste terrible."
+      "Eng": "Why is cooking so hard? All my dishes taste terrible.",
+      "Rus": ""
     }
   },
   {
@@ -15789,7 +15798,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Why, hello!"
+      "Eng": "Why, hello!",
+      "Rus": "А? Привет."
     }
   },
   {
@@ -15800,7 +15810,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Will you eh... be here long?"
+      "Eng": "Will you eh... be here long?",
+      "Rus": ""
     }
   },
   {
@@ -15811,7 +15822,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Wish I had feathers."
+      "Eng": "Wish I had feathers.",
+      "Rus": ""
     }
   },
   {
@@ -15822,7 +15834,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Wonderful to meet you."
+      "Eng": "Wonderful to meet you.",
+      "Rus": ""
     }
   },
   {
@@ -15833,7 +15846,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Wonderful, let us celebrate your arrival!"
+      "Eng": "Wonderful, let us celebrate your arrival!",
+      "Rus": "Замечательно, давайте отпразднуем ваше прибытие!"
     }
   },
   {
@@ -15844,7 +15858,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Would you care for a banana?"
+      "Eng": "Would you care for a banana?",
+      "Rus": ""
     }
   },
   {
@@ -15855,7 +15870,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Would you consider science an art? It seems to take that place in Apex society."
+      "Eng": "Would you consider science an art? It seems to take that place in Apex society.",
+      "Rus": ""
     }
   },
   {
@@ -15866,7 +15882,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Would you like some water?"
+      "Eng": "Would you like some water?",
+      "Rus": ""
     }
   },
   {
@@ -15877,7 +15894,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Would you... would you be offended if I ran my fingers through your mane?"
+      "Eng": "Would you... would you be offended if I ran my fingers through your mane?",
+      "Rus": ""
     }
   },
   {
@@ -15888,7 +15906,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Wow, a living plant! Oh wait, this is foolish - all plants live."
+      "Eng": "Wow, a living plant! Oh wait, this is foolish - all plants live.",
+      "Rus": ""
     }
   },
   {
@@ -15899,7 +15918,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Wow, an Avian Protector!"
+      "Eng": "Wow, an Avian Protector!",
+      "Rus": ""
     }
   },
   {
@@ -15910,7 +15930,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Wow, you're pretty brightly coloured! Are you off to a festival?"
+      "Eng": "Wow, you're pretty brightly coloured! Are you off to a festival?",
+      "Rus": ""
     }
   },
   {
@@ -15922,7 +15943,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Y'all aren't from around here, are ya?"
+      "Eng": "Y'all aren't from around here, are ya?",
+      "Rus": "Ты не здешний, да?"
     }
   },
   {
@@ -15933,7 +15955,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Y'all have any experience herdin' Mooshi?"
+      "Eng": "Y'all have any experience herdin' Mooshi?",
+      "Rus": ""
     }
   },
   {
@@ -15944,7 +15967,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Yay! A new friend!"
+      "Eng": "Yay! A new friend!",
+      "Rus": "Ура! Новый друг!"
     }
   },
   {
@@ -15955,7 +15979,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Yesterday I thought I saw a pixel on the ground, but it was a shiny bug. Ah well."
+      "Eng": "Yesterday I thought I saw a pixel on the ground, but it was a shiny bug. Ah well.",
+      "Rus": ""
     }
   },
   {
@@ -15966,7 +15991,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Yesterday, today, tomorrow - things keep going from bad to worse."
+      "Eng": "Yesterday, today, tomorrow - things keep going from bad to worse.",
+      "Rus": ""
     }
   },
   {
@@ -15977,7 +16003,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Yo there, talking tree."
+      "Eng": "Yo there, talking tree.",
+      "Rus": ""
     }
   },
   {
@@ -15988,7 +16015,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You Glitch are fascinating individuals."
+      "Eng": "You Glitch are fascinating individuals.",
+      "Rus": ""
     }
   },
   {
@@ -15999,7 +16027,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You alright?"
+      "Eng": "You alright?",
+      "Rus": "Ты в порядке?"
     }
   },
   {
@@ -17664,7 +17693,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Your fur makes me sneeze."
+      "Eng": "Your fur makes me sneeze.",
+      "Rus": ""
     }
   },
   {
@@ -17675,7 +17705,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Your gaze suggests you aren't a wild animal... we hear such fearful things about the Floran."
+      "Eng": "Your gaze suggests you aren't a wild animal... we hear such fearful things about the Floran.",
+      "Rus": ""
     }
   },
   {
@@ -17686,7 +17717,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Your glow, does it ever fade?"
+      "Eng": "Your glow, does it ever fade?",
+      "Rus": ""
     }
   },
   {
@@ -17697,7 +17729,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Your glowing body is very appealing."
+      "Eng": "Your glowing body is very appealing.",
+      "Rus": ""
     }
   },
   {
@@ -17708,7 +17741,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Your hair is a rare gift, you should keep it in better condition."
+      "Eng": "Your hair is a rare gift, you should keep it in better condition.",
+      "Rus": ""
     }
   },
   {
@@ -17719,7 +17753,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Your hair is just magnificent."
+      "Eng": "Your hair is just magnificent.",
+      "Rus": ""
     }
   },
   {
@@ -17730,7 +17765,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Your kind are scary to some. Do not be offended if some Apex are wary of you."
+      "Eng": "Your kind are scary to some. Do not be offended if some Apex are wary of you.",
+      "Rus": ""
     }
   },
   {
@@ -17741,7 +17777,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Your kind is not mentioned in our Miniknog textbooks."
+      "Eng": "Your kind is not mentioned in our Miniknog textbooks.",
+      "Rus": ""
     }
   },
   {
@@ -17752,7 +17789,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Your kind is rather ugly to my Hylotl eyes."
+      "Eng": "Your kind is rather ugly to my Hylotl eyes.",
+      "Rus": ""
     }
   },
   {
@@ -17763,7 +17801,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Your kind look so charming. The Floran are creatures of duality, aren't they?"
+      "Eng": "Your kind look so charming. The Floran are creatures of duality, aren't they?",
+      "Rus": ""
     }
   },
   {
@@ -17774,7 +17813,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Your light gives me a headache."
+      "Eng": "Your light gives me a headache.",
+      "Rus": ""
     }
   },
   {
@@ -17785,7 +17825,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Your light is calming."
+      "Eng": "Your light is calming.",
+      "Rus": ""
     }
   },
   {
@@ -17796,7 +17837,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Your luminescence is amazing, how does it work?"
+      "Eng": "Your luminescence is amazing, how does it work?",
+      "Rus": ""
     }
   },
   {
@@ -17807,7 +17849,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Your metal would make good sspear headss."
+      "Eng": "Your metal would make good sspear headss.",
+      "Rus": ""
     }
   },
   {
@@ -17818,7 +17861,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Your optics are so well lit!"
+      "Eng": "Your optics are so well lit!",
+      "Rus": ""
     }
   },
   {
@@ -17829,7 +17873,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Your plumage is impressive, my friend."
+      "Eng": "Your plumage is impressive, my friend.",
+      "Rus": ""
     }
   },
   {
@@ -17840,7 +17885,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Your scent reminds me of my trips to the seaside as a young Glitch."
+      "Eng": "Your scent reminds me of my trips to the seaside as a young Glitch.",
+      "Rus": ""
     }
   },
   {
@@ -17851,7 +17897,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Your teeth won't pierce my casing!"
+      "Eng": "Your teeth won't pierce my casing!",
+      "Rus": ""
     }
   },
   {
@@ -17862,7 +17909,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Your third eye is fascinating to me. I wonder, could we Apex engineer a third eye for our kind?"
+      "Eng": "Your third eye is fascinating to me. I wonder, could we Apex engineer a third eye for our kind?",
+      "Rus": ""
     }
   },
   {
@@ -17873,7 +17921,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Your vacant stare unsettles me."
+      "Eng": "Your vacant stare unsettles me.",
+      "Rus": ""
     }
   }
 ]
