@@ -2569,27 +2569,17 @@
     "/description": "texts/items/augments/pet/shared_bombcollar.augment.json"
   },
   "items/categories.config": {
-    "/labels/assaultRifle": "texts/shared_ate.json",
-    "/labels/axe": "texts/shared_ate.json",
     "/labels/boomerang": "texts/items.json",
-    "/labels/broadsword": "texts/shared_ate.json",
     "/labels/chakram": "texts/items.json",
     "/labels/chestarmour": "texts/shared_config.json",
     "/labels/codex": "texts/wide_spread_fields.json",
     "/labels/door": "texts/wide_spread_fields.json",
     "/labels/furniture": "texts/shared_config.json",
-    "/labels/grenadeLauncher": "texts/shared_ate.json",
-    "/labels/hammer": "texts/shared_ate.json",
     "/labels/headarmour": "texts/shared_config.json",
     "/labels/legarmour": "texts/shared_config.json",
     "/labels/legwear": "texts/shared_ies.json",
-    "/labels/machinePistol": "texts/shared_ate.json",
-    "/labels/pistol": "texts/shared_ate.json",
-    "/labels/rocketLauncher": "texts/shared_ate.json",
     "/labels/sapling": "texts/wide_spread_fields.json",
     "/labels/shippingContainer": "texts/wide_spread_fields.json",
-    "/labels/shotgun": "texts/shared_ate.json",
-    "/labels/sniperRifle": "texts/shared_ate.json",
     "/labels/teleporter": "texts/wide_spread_fields.json",
     "/labels/tool": "texts/wide_spread_fields.json"
   },
@@ -23425,13 +23415,6 @@
     "/0/1/8/1/name": "texts/shared_monster.json",
     "/0/1/9/1/name": "texts/shared_monster.json"
   },
-  "quests/generated/pools/guardthemes.config": {
-    "/0/1/0/name": "texts/wide_spread_fields.json",
-    "/0/1/1/name": "texts/wide_spread_fields.json",
-    "/0/1/2/name": "texts/wide_spread_fields.json",
-    "/0/1/3/name": "texts/wide_spread_fields.json",
-    "/0/1/4/name": "texts/wide_spread_fields.json"
-  },
   "quests/generated/pools/npcthreats.config": {
     "/0/1/0/1/name": "texts/quests/generated.json",
     "/0/1/23/1/name": "texts/quests/generated.json"
@@ -23466,18 +23449,6 @@
     "/0/1/7/name": "texts/shared_monster.json",
     "/0/1/8/name": "texts/shared_monster.json",
     "/0/1/9/name": "texts/shared_monster.json"
-  },
-  "quests/generated/pools/weapon.config": {
-    "/0/1/0/name": "texts/shared_ate.json",
-    "/0/1/1/name": "texts/shared_ate.json",
-    "/0/1/2/name": "texts/shared_ate.json",
-    "/0/1/3/name": "texts/shared_ate.json",
-    "/0/1/4/name": "texts/shared_ate.json",
-    "/0/1/5/name": "texts/shared_ate.json",
-    "/0/1/6/name": "texts/shared_ate.json",
-    "/0/1/7/name": "texts/shared_ate.json",
-    "/0/1/8/name": "texts/shared_ate.json",
-    "/0/1/9/name": "texts/shared_ate.json"
   },
   "quests/generated/templates/add_object_to_house.questtemplate": {
     "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmote": "texts/glitchEmotes.json",
@@ -24576,7 +24547,6 @@
     "/gaterepair-gateOpened2/senderName": "texts/wide_spread_fields.json"
   },
   "species/apex.species": {
-    "/charCreationTooltip/title": "texts/wide_spread_fields.json",
     "/charGenTextLabels/1": "texts/species/shared_.species.json",
     "/charGenTextLabels/2": "texts/species/shared_.species.json",
     "/charGenTextLabels/3": "texts/shared_ies.json",
@@ -24587,7 +24557,6 @@
   },
   "species/avian.species": {
     "/charCreationTooltip/subTitle": "texts/wide_spread_fields.json",
-    "/charCreationTooltip/title": "texts/wide_spread_fields.json",
     "/charGenTextLabels/2": "texts/species/shared_.species.json",
     "/charGenTextLabels/3": "texts/shared_ies.json",
     "/charGenTextLabels/6": "texts/species/shared_.species.json",
@@ -24649,7 +24618,6 @@
     "/charGenTextLabels/9": "texts/species/shared_.species.json"
   },
   "species/floran.species": {
-    "/charCreationTooltip/title": "texts/wide_spread_fields.json",
     "/charGenTextLabels/0": "texts/species/shared_.species.json",
     "/charGenTextLabels/2": "texts/species/shared_.species.json",
     "/charGenTextLabels/3": "texts/shared_ies.json",
@@ -24658,7 +24626,6 @@
     "/charGenTextLabels/9": "texts/species/shared_.species.json"
   },
   "species/glitch.species": {
-    "/charCreationTooltip/title": "texts/wide_spread_fields.json",
     "/charGenTextLabels/2": "texts/species/shared_.species.json",
     "/charGenTextLabels/3": "texts/shared_ies.json",
     "/charGenTextLabels/6": "texts/species/shared_.species.json",
@@ -24750,7 +24717,6 @@
     "/names/1/2/9": "texts/species/shared_malenamegen.config.json"
   },
   "species/human.species": {
-    "/charCreationTooltip/title": "texts/wide_spread_fields.json",
     "/charGenTextLabels/0": "texts/species/shared_.species.json",
     "/charGenTextLabels/1": "texts/species/shared_.species.json",
     "/charGenTextLabels/2": "texts/species/shared_.species.json",

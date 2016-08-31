@@ -2683,7 +2683,7 @@
           "shared_bombcollar.augment.json": 1
         }
       },
-      "categories.config.json": 67,
+      "categories.config.json": 77,
       "coins": {
         "money.coinitem.json": 2
       },
@@ -12095,11 +12095,13 @@
           "buildingthemes.config.json": 10,
           "capturablemonsters.config.json": 1,
           "dungeonitems.config.json": 11,
+          "guardthemes.config.json": 5,
           "hatadjectives.config.json": 46,
           "monsterthreats.config.json": 13,
           "npcthreats.config.json": 17,
           "shared_lemonster.json": 2,
-          "singlenpcthreats.config.json": 4
+          "singlenpcthreats.config.json": 4,
+          "weapon.config.json": 10
         },
         "shared_npc.json": 1,
         "templates": {
@@ -12228,7 +12230,6 @@
     "shared_anmale.json": 1,
     "shared_ant.json": 5,
     "shared_apexshipplatform.mat.json": 5,
-    "shared_ate.json": 10,
     "shared_automato.json": 1,
     "shared_avesmingo.json": 1,
     "shared_bambooplatform.mat.json": 5,
@@ -12283,16 +12284,16 @@
     "shared_woodenplatform.mat.json": 1,
     "shared_wreckplatform.mat.json": 4,
     "species": {
-      "apex.species.json": 5,
-      "avian.species.json": 6,
+      "apex.species.json": 6,
+      "avian.species.json": 7,
       "backernamegen.config.json": 3805,
       "fenerox.species.json": 1,
       "feneroxnamegen.config.json": 9,
-      "floran.species.json": 6,
-      "glitch.species.json": 7,
+      "floran.species.json": 7,
+      "glitch.species.json": 8,
       "glitchfemalenamegen.config.json": 9,
       "glitchmalenamegen.config.json": 10,
-      "human.species.json": 4,
+      "human.species.json": 5,
       "humanfemalenamegen.config.json": 138,
       "humanmalenamegen.config.json": 125,
       "humannamegen.config.json": 13,
@@ -12561,6 +12562,6 @@
       }
     },
     "universe_server.config.json": 2,
-    "wide_spread_fields.json": 57
+    "wide_spread_fields.json": 52
   }
 }
