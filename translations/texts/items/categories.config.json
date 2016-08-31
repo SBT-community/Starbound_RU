@@ -27,6 +27,30 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/categories.config": [
+        "/labels/assaultRifle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Assault Rifle",
+      "Rus": "Штурмовая винтовка"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/axe"
+      ]
+    },
+    "Texts": {
+      "Eng": "Axe",
+      "Rus": "Топор"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
         "/labels/backwear"
       ]
     },
@@ -69,6 +93,18 @@
     "Texts": {
       "Eng": "Breakable",
       "Rus": "Хрупкое"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/broadsword"
+      ]
+    },
+    "Texts": {
+      "Eng": "Broadsword",
+      "Rus": "Длинный меч"
     }
   },
   {
@@ -315,6 +351,30 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/categories.config": [
+        "/labels/grenadeLauncher"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grenade Launcher",
+      "Rus": "Гранатомет"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/hammer"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hammer",
+      "Rus": "Молот"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
         "/labels/headwear"
       ]
     },
@@ -370,6 +430,18 @@
     "Texts": {
       "Eng": "Liquid",
       "Rus": "Жидкость"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/machinePistol"
+      ]
+    },
+    "Texts": {
+      "Eng": "Machine Pistol",
+      "Rus": "Пистолет-пулемёт"
     }
   },
   {
@@ -442,6 +514,18 @@
     "Texts": {
       "Eng": "Pet Collar",
       "Rus": "Ошейник"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/pistol"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pistol",
+      "Rus": "Пистолет"
     }
   },
   {
@@ -532,6 +616,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/categories.config": [
+        "/labels/rocketLauncher"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rocket Launcher",
+      "Rus": "Ракетница"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
         "/labels/seed"
       ]
     },
@@ -592,12 +688,36 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/categories.config": [
+        "/labels/shotgun"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shotgun",
+      "Rus": "Дробовик"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
         "/labels/smallFossil"
       ]
     },
     "Texts": {
       "Eng": "Small Fossil",
       "Rus": "Малая окаменелость"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/sniperRifle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sniper Rifle",
+      "Rus": "Снайперская винтовка"
     }
   },
   {

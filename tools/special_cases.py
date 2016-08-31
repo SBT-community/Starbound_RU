@@ -29,6 +29,8 @@ class SpecialSection():
     return False
 
 specialSections = [
+  SpecialSection("Прилагательное", [], ["^.*quests/generated/pools/guardthemes\.config$"]),
+  SpecialSection("Винительный падеж", [], ["^.*quests/generated/pools/weapon\.config$"]),
   SpecialSection("Имена персонажей", [], ["^.*namegen\.config$", "^.*\.namesource$"]),
   SpecialSection("Наречие", [], ["^.*pools/hatadjectives.config$"]),
   SpecialSection("Привязанное к полу прилагательное",

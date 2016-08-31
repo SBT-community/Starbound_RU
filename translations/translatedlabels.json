@@ -345,7 +345,7 @@
       },
       "shared_floran.json": 1
     },
-    "codex.config.json": 3,
+    "codex.config.json": 2,
     "damage": {
       "shield.damage.json": 1
     },
@@ -356,7 +356,7 @@
       "clues.config.json": 50,
       "colourful.config.json": 13,
       "combat.config.json": 169,
-      "converse.config.json": 152,
+      "converse.config.json": 158,
       "crewmember.config.json": 40,
       "cultist.config.json": 31,
       "deadbeat.config.json": 22,
@@ -2683,7 +2683,7 @@
           "shared_bombcollar.augment.json": 1
         }
       },
-      "categories.config.json": 67,
+      "categories.config.json": 77,
       "coins": {
         "money.coinitem.json": 2
       },
@@ -7036,7 +7036,7 @@
         },
         "cocoa": {
           "cocoaseed.object.json": 0,
-          "shared_cocoaseed.object.json": 0,
+          "shared_cocoaseed.object.json": 1,
           "wildcocoaseed.object.json": 0
         },
         "coffee": {
@@ -7571,7 +7571,7 @@
         },
         "displaystands": {
           "fossildisplay1": {
-            "fossildisplay1.object.json": 0
+            "fossildisplay1.object.json": 7
           },
           "fossildisplay3": {
             "fossildisplay3.object.json": 2
@@ -7580,7 +7580,7 @@
             "fossildisplay5.object.json": 2
           },
           "shared_fossildisplay": {
-            "shared_fossildisplay.json": 8
+            "shared_fossildisplay.json": 9
           }
         }
       },
@@ -10006,7 +10006,7 @@
           "bathroomhanddryer.object.json": 7
         },
         "bathroomsink": {
-          "bathroomsink.object.json": 0
+          "bathroomsink.object.json": 6
         },
         "bathroomstall": {
           "bathroomstall.object.json": 0
@@ -10015,10 +10015,10 @@
           "bathroomtrash.object.json": 0
         },
         "bathroomtrashquest": {
-          "bathroomtrashquest.object.json": 0
+          "bathroomtrashquest.object.json": 1
         },
         "bathroomurinal": {
-          "bathroomurinal.object.json": 0
+          "bathroomurinal.object.json": 7
         },
         "bench": {
           "bench.object.json": 6
@@ -10042,11 +10042,11 @@
           "floor.object.json": 0
         },
         "frogfurnishing": {
-          "frogfurnishing.object.json": 0,
-          "frogfurnishingclosed.object.json": 0
+          "frogfurnishing.object.json": 10,
+          "frogfurnishingclosed.object.json": 7
         },
         "infinityexpress": {
-          "infinityexpress.object.json": 0
+          "infinityexpress.object.json": 10
         },
         "number0": {
           "number0.object.json": 6
@@ -10224,7 +10224,7 @@
           "shared_outpostcargocrate.json": 7
         },
         "shared_outpostl": {
-          "shared_outpostl.json": 0
+          "shared_outpostl.json": 5
         },
         "shipyardcaptain": {
           "shipyardcaptain.object.json": 11
@@ -10241,28 +10241,28 @@
           "signstoreclosed.object.json": 0
         },
         "techlab": {
-          "shared_techlabconsole1.json": 0,
-          "techlab.object.json": 0,
+          "shared_techlabconsole1.json": 1,
+          "techlab.object.json": 8,
           "techlabconsole1.object.json": 1,
           "techlabconsole1offline.object.json": 0,
-          "techlabconsole2.object.json": 0,
-          "techlabhologram.object.json": 0,
-          "techlabscientist.object.json": 0,
-          "techlabscientistshop.object.json": 0
+          "techlabconsole2.object.json": 4,
+          "techlabhologram.object.json": 8,
+          "techlabscientist.object.json": 4,
+          "techlabscientistshop.object.json": 4
         },
         "teddybearplush": {
           "teddybearplush.object.json": 5
         },
         "terramart": {
-          "terramart.object.json": 0,
-          "terramartclosed.object.json": 0
+          "terramart.object.json": 8,
+          "terramartclosed.object.json": 7
         },
         "treasuredtrophies": {
-          "treasuredtrophies.object.json": 0
+          "treasuredtrophies.object.json": 9
         },
         "ursaminer": {
-          "shared_ursaminer.json": 0,
-          "ursaminer.object.json": 0
+          "shared_ursaminer.json": 8,
+          "ursaminer.object.json": 1
         },
         "watercooler": {
           "watercooler.object.json": 7
@@ -12095,11 +12095,13 @@
           "buildingthemes.config.json": 3,
           "capturablemonsters.config.json": 0,
           "dungeonitems.config.json": 11,
+          "guardthemes.config.json": 5,
           "hatadjectives.config.json": 46,
           "monsterthreats.config.json": 13,
           "npcthreats.config.json": 17,
           "shared_lemonster.json": 2,
-          "singlenpcthreats.config.json": 4
+          "singlenpcthreats.config.json": 4,
+          "weapon.config.json": 10
         },
         "shared_npc.json": 1,
         "templates": {
@@ -12118,7 +12120,7 @@
           "extort.questtemplate.json": 6,
           "farming.questtemplate.json": 13,
           "fetch.questtemplate.json": 24,
-          "gift.questtemplate.json": 1,
+          "gift.questtemplate.json": 36,
           "hat.questtemplate.json": 24,
           "helmet.questtemplate.json": 23,
           "intimidate.questtemplate.json": 9,
@@ -12130,8 +12132,8 @@
           "kill_npcs.questtemplate.json": 98,
           "new_stock1.questtemplate.json": 22,
           "new_stock2.questtemplate.json": 22,
-          "protect.questtemplate.json": 4,
-          "recruit_guard.questtemplate.json": 3,
+          "protect.questtemplate.json": 51,
+          "recruit_guard.questtemplate.json": 25,
           "request_craft.questtemplate.json": 24,
           "return_stolen.questtemplate.json": 62,
           "share_secret.questtemplate.json": 91,
@@ -12228,7 +12230,6 @@
     "shared_anmale.json": 1,
     "shared_ant.json": 5,
     "shared_apexshipplatform.mat.json": 5,
-    "shared_ate.json": 10,
     "shared_automato.json": 1,
     "shared_avesmingo.json": 1,
     "shared_bambooplatform.mat.json": 5,
@@ -12283,16 +12284,16 @@
     "shared_woodenplatform.mat.json": 1,
     "shared_wreckplatform.mat.json": 4,
     "species": {
-      "apex.species.json": 5,
-      "avian.species.json": 6,
+      "apex.species.json": 6,
+      "avian.species.json": 7,
       "backernamegen.config.json": 0,
       "fenerox.species.json": 1,
       "feneroxnamegen.config.json": 9,
-      "floran.species.json": 6,
-      "glitch.species.json": 7,
+      "floran.species.json": 7,
+      "glitch.species.json": 8,
       "glitchfemalenamegen.config.json": 9,
       "glitchmalenamegen.config.json": 10,
-      "human.species.json": 4,
+      "human.species.json": 5,
       "humanfemalenamegen.config.json": 138,
       "humanmalenamegen.config.json": 125,
       "humannamegen.config.json": 13,
@@ -12561,6 +12562,6 @@
       }
     },
     "universe_server.config.json": 2,
-    "wide_spread_fields.json": 56
+    "wide_spread_fields.json": 51
   }
 }
