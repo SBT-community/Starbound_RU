@@ -43,6 +43,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/pools/weapon.config": [
+        "/0/1/12/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dagger"
+    }
+  },
+  {
+    "Comment": "Винительный падеж",
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/pools/weapon.config": [
         "/0/1/5/name"
       ]
     },
@@ -108,6 +120,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/pools/weapon.config": [
+        "/0/1/10/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shortsword"
+    }
+  },
+  {
+    "Comment": "Винительный падеж",
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/pools/weapon.config": [
         "/0/1/2/name"
       ]
     },
@@ -127,6 +151,18 @@
     "Texts": {
       "Eng": "Sniper Rifle",
       "Rus": "снайперскую винтовку"
+    }
+  },
+  {
+    "Comment": "Винительный падеж",
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/pools/weapon.config": [
+        "/0/1/11/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spear"
     }
   }
 ]
