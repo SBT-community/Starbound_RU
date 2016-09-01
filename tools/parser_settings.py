@@ -25,7 +25,7 @@ foi = {
   "themes.config":["^[0-9]+/1/[0-9]+/(0|(1/)?name)$"],
   "dungeonitems.config":["^[0-9]+/1/[0-9]+/(0|(1/)?name)$"],
   "threats.config":["^[0-9]+/1/[0-9]+/(0|(1/)?name)$"],
-  "weapon.config":["^[0-9]/1/[0-9]/(0|(1/)?name)$"],
+  "weapon.config":["^[0-9]+/1/[0-9]+/(0|(1/)?name)$"],
   "monsters.config":["^[0-9]+/1/[0-9]+/(0|(1/)?name)$"],
   "hatadjectives.config":["^[0-9]+/1/[0-9]+/(0|(1/)?name)$"],
   "cockpit.config": [".*/displayName$"],
