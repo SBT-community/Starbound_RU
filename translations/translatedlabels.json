@@ -356,7 +356,7 @@
       "clues.config.json": 50,
       "colourful.config.json": 13,
       "combat.config.json": 169,
-      "converse.config.json": 158,
+      "converse.config.json": 206,
       "crewmember.config.json": 40,
       "cultist.config.json": 31,
       "deadbeat.config.json": 22,
@@ -7641,7 +7641,7 @@
           "capsulesmall.object.json": 0
         },
         "carbed": {
-          "carbed.object.json": 0
+          "carbed.object.json": 2
         },
         "cardboard1": {
           "cardboard1.object.json": 0
@@ -10009,10 +10009,10 @@
           "bathroomsink.object.json": 6
         },
         "bathroomstall": {
-          "bathroomstall.object.json": 0
+          "bathroomstall.object.json": 7
         },
         "bathroomtrash": {
-          "bathroomtrash.object.json": 0
+          "bathroomtrash.object.json": 1
         },
         "bathroomtrashquest": {
           "bathroomtrashquest.object.json": 1
@@ -10027,19 +10027,19 @@
           "coffeemachine.object.json": 10
         },
         "customsign": {
-          "shared_customsign.object.json": 0
+          "shared_customsign.object.json": 9
         },
         "filingcabinet": {
-          "filingcabinet.object.json": 0
+          "filingcabinet.object.json": 8
         },
         "fireextinguisher": {
-          "fireextinguisher.object.json": 0
+          "fireextinguisher.object.json": 7
         },
         "floop": {
           "floop.object.json": 0
         },
         "floor": {
-          "floor.object.json": 0
+          "floor.object.json": 5
         },
         "frogfurnishing": {
           "frogfurnishing.object.json": 10,
@@ -10079,10 +10079,10 @@
           "number9.object.json": 5
         },
         "outpostairlock": {
-          "outpostairlock.object.json": 0
+          "outpostairlock.object.json": 1
         },
         "outpostairlocklarge": {
-          "outpostairlocklarge.object.json": 0
+          "outpostairlocklarge.object.json": 1
         },
         "outpostbarstool": {
           "outpostbarstool.object.json": 0
@@ -10091,7 +10091,7 @@
           "outpostbed.object.json": 9
         },
         "outpostbutton": {
-          "outpostbutton.object.json": 0
+          "outpostbutton.object.json": 7
         },
         "outpostcabinet": {
           "outpostcabinet.object.json": 0
@@ -10243,7 +10243,7 @@
         "techlab": {
           "shared_techlabconsole1.json": 1,
           "techlab.object.json": 8,
-          "techlabconsole1.object.json": 1,
+          "techlabconsole1.object.json": 9,
           "techlabconsole1offline.object.json": 0,
           "techlabconsole2.object.json": 4,
           "techlabhologram.object.json": 8,
@@ -10953,13 +10953,13 @@
             "spaceshuttlebed.object.json": 0
           },
           "sunmodel": {
-            "sunmodel.object.json": 0
+            "sunmodel.object.json": 9
           },
           "uranusmodel": {
-            "uranusmodel.object.json": 2
+            "uranusmodel.object.json": 9
           },
           "venusmodel": {
-            "venusmodel.object.json": 8
+            "venusmodel.object.json": 9
           }
         },
         "cabin": {
@@ -11139,25 +11139,25 @@
         },
         "outdoor": {
           "lamppost1": {
-            "lamppost1.object.json": 0
+            "lamppost1.object.json": 8
           },
           "lamppost2": {
-            "lamppost2.object.json": 0
+            "lamppost2.object.json": 9
           },
           "lamppost3": {
-            "lamppost3.object.json": 0
+            "lamppost3.object.json": 9
           },
           "outdoorbench": {
-            "outdoorbench.object.json": 0
+            "outdoorbench.object.json": 9
           },
           "outdoorchair": {
-            "outdoorchair.object.json": 0
+            "outdoorchair.object.json": 8
           },
           "outdoorfountain": {
-            "outdoorfountain.object.json": 0
+            "outdoorfountain.object.json": 4
           },
           "outdoorstool": {
-            "outdoorstool.object.json": 0
+            "outdoorstool.object.json": 9
           }
         },
         "retroscifi": {
@@ -11250,7 +11250,7 @@
           "shared_chair.object.json": 2
         },
         "shared_door": {
-          "shared_door.object.json": 1
+          "shared_door.object.json": 2
         },
         "shared_eswitch": {
           "shared_eswitch.object.json": 1
@@ -11321,17 +11321,17 @@
       },
       "tiered": {
         "shared_chair": {
-          "shared_chair.object.json": 8
+          "shared_chair.object.json": 10
         },
         "shared_light": {
-          "shared_light.object.json": 4
+          "shared_light.object.json": 5
         },
         "shared_switch": {
-          "shared_switch.object.json": 5
+          "shared_switch.object.json": 8
         },
         "shared_tier": {
           "shared_bed.object.json": 11,
-          "shared_door.object.json": 1
+          "shared_door.object.json": 7
         },
         "tier1bed": {
           "tier1bed.object.json": 2
@@ -11343,7 +11343,7 @@
           "tier1door.object.json": 4
         },
         "tier1light": {
-          "tier1light.object.json": 4
+          "tier1light.object.json": 5
         },
         "tier1spotlight": {
           "tier1spotlight.object.json": 4
@@ -11352,7 +11352,7 @@
           "tier1switch.object.json": 2
         },
         "tier1table": {
-          "tier1table.object.json": 6
+          "tier1table.object.json": 8
         },
         "tier2bed": {
           "tier2bed.object.json": 2
@@ -11361,7 +11361,7 @@
           "tier2chair.object.json": 2
         },
         "tier2door": {
-          "tier2door.object.json": 3
+          "tier2door.object.json": 4
         },
         "tier2light": {
           "tier2light.object.json": 2
@@ -11370,7 +11370,7 @@
           "tier2switch.object.json": 2
         },
         "tier2table": {
-          "tier2table.object.json": 0
+          "tier2table.object.json": 8
         },
         "tier3bed": {
           "tier3bed.object.json": 2
@@ -11385,10 +11385,10 @@
           "tier3light.object.json": 2
         },
         "tier3switch": {
-          "tier3switch.object.json": 0
+          "tier3switch.object.json": 2
         },
         "tier3table": {
-          "tier3table.object.json": 0
+          "tier3table.object.json": 7
         },
         "tier4bed": {
           "tier4bed.object.json": 2
@@ -11397,16 +11397,16 @@
           "tier4chair.object.json": 2
         },
         "tier4door": {
-          "tier4door.object.json": 0
+          "tier4door.object.json": 4
         },
         "tier4light": {
           "tier4light.object.json": 2
         },
         "tier4switch": {
-          "tier4switch.object.json": 0
+          "tier4switch.object.json": 2
         },
         "tier4table": {
-          "tier4table.object.json": 0
+          "tier4table.object.json": 7
         }
       },
       "traps": {
@@ -12101,7 +12101,7 @@
           "npcthreats.config.json": 17,
           "shared_lemonster.json": 2,
           "singlenpcthreats.config.json": 4,
-          "weapon.config.json": 10
+          "weapon.config.json": 13
         },
         "shared_npc.json": 1,
         "templates": {
@@ -12123,7 +12123,7 @@
           "gift.questtemplate.json": 36,
           "hat.questtemplate.json": 24,
           "helmet.questtemplate.json": 23,
-          "intimidate.questtemplate.json": 9,
+          "intimidate.questtemplate.json": 62,
           "kidnapping.questtemplate.json": 88,
           "kill_monster.questtemplate.json": 26,
           "kill_monster_group.questtemplate.json": 81,
