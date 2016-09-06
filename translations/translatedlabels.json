@@ -356,7 +356,7 @@
       "clues.config.json": 50,
       "colourful.config.json": 13,
       "combat.config.json": 169,
-      "converse.config.json": 206,
+      "converse.config.json": 215,
       "crewmember.config.json": 40,
       "cultist.config.json": 31,
       "deadbeat.config.json": 22,
@@ -3501,7 +3501,7 @@
       "shared_purplecrystal.mat.json": 3,
       "shared_rainbowwoodblock.mat.json": 5,
       "shared_redtoyblock.mat.json": 2,
-      "shared_reed.json": 2,
+      "shared_reed.json": 5,
       "shared_ridgebrick.mat.json": 5,
       "shared_rock.json": 5,
       "shared_rock14.mat.json": 3,
@@ -7602,19 +7602,19 @@
           "arcademachine.object.json": 9
         },
         "bardoor": {
-          "bardoor.object.json": 0
+          "bardoor.object.json": 9
         },
         "barvent": {
           "barvent.object.json": 0
         },
         "biohazardsign": {
-          "biohazardsign.object.json": 0
+          "biohazardsign.object.json": 5
         },
         "birdsnest": {
           "birdsnest.object.json": 0
         },
         "bluelight": {
-          "bluelight.object.json": 0
+          "bluelight.object.json": 8
         },
         "box1": {
           "box1.object.json": 8
