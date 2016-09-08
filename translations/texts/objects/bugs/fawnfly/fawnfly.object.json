@@ -7,22 +7,20 @@
       ]
     },
     "Texts": {
-      "Eng": "Fawnfly Bug",
+      "Eng": "Fawnfly",
       "Rus": "Жук-фавн"
     }
   },
   {
-    "DeniedAlternatives": [
-      "Этикетка гласит \"Жёлто-коричневые крылья делают этого жука незаметным на деревьях.\""
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/bugs/fawnfly/fawnfly.object": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "The label reads, \"Its tawny wings make it hard to spot on trees.\"",
-      "Rus": "Этикетка гласит: \"Жёлто-коричневые крылья делают этого жука незаметным на деревьях.\""
+      "Eng": "Its tawny wings make it hard to spot on trees.",
+      "Rus": "Жёлто-коричневые крылья делают этого жука незаметным на деревьях."
     }
   }
 ]

@@ -23,6 +23,12 @@
       "interface/itemdescriptions/eppaugment.itemdescription": [
         "/priceLabel/value"
       ],
+      "interface/itemdescriptions/fishingrod.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/fishingupgrade.itemdescription": [
+        "/priceLabel/value"
+      ],
       "interface/itemdescriptions/food.itemdescription": [
         "/priceLabel/value"
       ],
@@ -75,6 +81,12 @@
         "/priceLabel/value"
       ],
       "interface/tooltips/filledcapturepod.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/fishingrod.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/fishingupgrade.tooltip": [
         "/priceLabel/value"
       ],
       "interface/tooltips/food.tooltip": [

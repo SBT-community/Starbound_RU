@@ -7,22 +7,20 @@
       ]
     },
     "Texts": {
-      "Eng": "Frostfly Bug",
+      "Eng": "Frostfly",
       "Rus": "Морозный слепень"
     }
   },
   {
-    "DeniedAlternatives": [
-      "Этикетка гласит \"Там где мороз, там и морозные слепни.\""
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/bugs/frostfly/frostfly.object": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "The label reads, \"Where there's frost, there are frostflies.\"",
-      "Rus": "Этикетка гласит: \"Там где мороз, там и морозные слепни.\""
+      "Eng": "Where there's frost, there are frostflies.",
+      "Rus": "Там где мороз, там и морозные слепни."
     }
   }
 ]

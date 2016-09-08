@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/fossils/humanoid/glitchfossil1.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fossilised Glitch. The internal wiring is rarely preserved.",
+      "Rus": "На этикетке написано \"окостеневшей глитч. Внутренняя проводка редко сохраняется\"."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/humanoid/glitchfossil1.item": [
         "/completeSetDescriptions/shortdescription"
       ]
     },
@@ -33,18 +45,6 @@
     "Texts": {
       "Eng": "Glitch Head",
       "Rus": "Голова Глитча"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/fossils/humanoid/glitchfossil1.item": [
-        "/completeSetDescriptions/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "The label reads, \"A fossilised Glitch. The internal wiring is rarely preserved.\"",
-      "Rus": "На этикетке написано \"окостеневшей глитч. Внутренняя проводка редко сохраняется\"."
     }
   }
 ]

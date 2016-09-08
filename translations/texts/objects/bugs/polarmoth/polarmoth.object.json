@@ -7,22 +7,20 @@
       ]
     },
     "Texts": {
-      "Eng": "Polarmoth Bug",
+      "Eng": "Polarmoth",
       "Rus": "Полярный мотылёк"
     }
   },
   {
-    "DeniedAlternatives": [
-      "Этикетка гласит \"Ножки жука покрыты просвечивающими волосками.\""
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/bugs/polarmoth/polarmoth.object": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "The label reads, \"This little bug's legs are covered in see-through hairs.\"",
-      "Rus": "Этикетка гласит: \"Ножки жука покрыты просвечивающими волосками.\""
+      "Eng": "This little bug's legs are covered in see-through hairs.",
+      "Rus": "Ножки жука покрыты просвечивающими волосками."
     }
   }
 ]

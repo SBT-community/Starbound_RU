@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/fossils/humanoid/froggfossil1.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An excellent example of a fossilised Frogg.",
+      "Rus": "Отличный экземпляр ископаемого Фрогга."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/humanoid/froggfossil1.item": [
         "/completeSetDescriptions/shortdescription"
       ]
     },
@@ -33,18 +45,6 @@
     "Texts": {
       "Eng": "Frogg Skull",
       "Rus": "Череп Фрогга"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/fossils/humanoid/froggfossil1.item": [
-        "/completeSetDescriptions/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "The label reads, \"An excellent example of a fossilised Frogg.\"",
-      "Rus": "Надпись гласит \"Отличный экземпляр ископаемого Фрогга.\""
     }
   }
 ]

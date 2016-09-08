@@ -172,6 +172,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
+        "/attack/novakid/default/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bang!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
         "/attack/human/default/8"
       ]
     },
@@ -383,6 +394,17 @@
     "Texts": {
       "Eng": "Everybody is in my way.",
       "Rus": "Я вижу их!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/novakid/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fill your hands!"
     }
   },
   {
@@ -810,6 +832,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
+        "/attack/novakid/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "I ain't got time for this!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
         "/reattack/glitch/default/2/glitchEmotedText"
       ]
     },
@@ -924,6 +957,17 @@
     "Texts": {
       "Eng": "I lost my adversary...",
       "Rus": "Я не вижу врага..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I need a glass o' root pop after all that."
     }
   },
   {
@@ -1086,6 +1130,28 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
+        "/killedTarget/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm a natural winner at fightin', what can I say?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/novakid/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm a sharper shot than you, friend!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
         "/attack/human/default/3"
       ]
     },
@@ -1104,6 +1170,17 @@
     "Texts": {
       "Eng": "I'm pretty good at this!",
       "Rus": "Люблю убивать! В этом я хорош!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/novakid/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you're lookin' for trouble, then I'm your huckleberry!"
     }
   },
   {
@@ -1602,6 +1679,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
+        "/attack/novakid/default/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ain't my first rodeo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
         "/reattack/glitch/default/1/glitchEmotedText"
       ]
     },
@@ -1620,6 +1708,28 @@
     "Texts": {
       "Eng": "Threat neutralised.",
       "Rus": "Угроза уничтожена."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/novakid/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Time for a ruckus!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Time for an ol'-fashioned showdown!"
     }
   },
   {
@@ -1704,6 +1814,28 @@
     "Texts": {
       "Eng": "Wasn't I fighting someone a second ago?",
       "Rus": "Я вообще дрался с кем-то только что?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/novakid/default/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "We don't want no trouble round here!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Well wasn't that a right ol' rodeo?"
     }
   },
   {
@@ -1878,6 +2010,39 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
+        "/killedTarget/novakid/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yee-haw! That was somethin'."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yee-haw, here we go!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/novakid/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yer feelin' lucky, punk?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
         "/killedTarget/default/default/10"
       ]
     },
@@ -2028,6 +2193,17 @@
     "Texts": {
       "Eng": "You're dead meat!",
       "Rus": "Ты труп!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "let's ride!"
     }
   }
 ]

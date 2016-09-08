@@ -763,13 +763,13 @@
       "objects/hylotl/index/index.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/novakid/saloondoor/saloondoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/novakid/saloontable/saloontable.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/outpost/penguinbay/penguinbay.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/themed/saloon/saloondoor/saloondoor.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/themed/saloon/saloontable/saloontable.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/themed/sea/seachair/seachair.object": [
@@ -1777,6 +1777,9 @@
       "npcs/biome/maskedguard.npctype": [
         "/scriptConfig/dialog/converse/glitch/default/2/glitchEmote"
       ],
+      "npcs/crew/crewmemberjanitor.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmote"
+      ],
       "objects/apex/apexwoodenshelves/apexwoodenshelves.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -2383,6 +2386,9 @@
       "objects/farmables/eggs/fluffaloegg/icefluffaloegg.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/novakid/frontierclock/frontierclock.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "tiles/materials/grassy.material": [
         "/glitchDescription/glitchEmote"
       ],
@@ -2754,6 +2760,9 @@
       "objects/mission/hylotlmission/librarybookcaseL2damage/librarybookcaseL2damage.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/novakid/frontiercoffin/frontiercoffin.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/outpost/outpostconsole/outpostconsole.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -2800,7 +2809,7 @@
       "objects/hoard/goldvase4/goldvase4.object": [
         "/glitchDescription/glitchEmote"
       ],
-      "objects/hoard/safe/safe.object": [
+      "objects/novakid/safe/safe.object": [
         "/glitchDescription/glitchEmote"
       ]
     },
@@ -3067,6 +3076,21 @@
       "objects/mission/templepressureplatform/templepressureplatform.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/novakid/frontierbed/frontierbed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/novakid/frontierhatrack/frontierhatrack.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/novakid/frontierpainting2/frontierpainting2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/novakid/picturestand/picturestand.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/novakid/saloonlight/saloonlight.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/outpost/techlab/techlabconsole1offline.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -3077,9 +3101,6 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/themed/retroscifi/retroscifichair/retroscifichair.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/themed/saloon/saloonlight/saloonlight.object": [
         "/glitchDescription/glitchEmote"
       ],
       "quests/generated/templates/cooking.questtemplate": [
@@ -3950,6 +3971,12 @@
       "objects/mission/secretsign/secretsign2.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/novakid/wagonwheel/wagonwheel.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/novakid/wantedposter/wantedposter.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/outpost/frogfurnishing/frogfurnishingclosed.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -3975,6 +4002,12 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/themed/farm/kitchenshelf/kitchenshelf.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/themed/pastel/pastelstool/pastelstool.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/themed/pastel/pastelwallclock/pastelwallclock.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/themed/sea/seaweedpot/seaweedpot.object": [
@@ -5650,6 +5683,9 @@
     "Files": {
       "objects/avian/goldenducky/goldenducky.object": [
         "/glitchDescription/glitchEmote"
+      ],
+      "objects/themed/pastel/pastelbunnyplush/pastelbunnyplush.object": [
+        "/glitchDescription/glitchEmote"
       ]
     },
     "Texts": {
@@ -6714,6 +6750,9 @@
         "/borrow/giftProvided/glitch/default/1/glitchEmote",
         "/collect_gift/giftProvided/glitch/default/1/glitchEmote",
         "/kill_npcs/assistantIntro/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberchemist.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmote"
       ],
       "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
         "/scriptConfig/dialog/merchant/start/glitch/default/2/glitchEmote"
@@ -7885,6 +7924,24 @@
       "objects/mission/laboratorylight/laboratorylight.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/novakid/frontierchair/frontierchair.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/novakid/frontierdoor/frontierdoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/novakid/frontierlamp/frontierlamp.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/novakid/frontierlamppost/frontierlamppost.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/novakid/frontiervault/frontiervault.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/novakid/saloonbar/saloonbar.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/outpost/frogfurnishing/frogfurnishing.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -7940,6 +7997,12 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/themed/opulent/opulentswitch/opulentswitch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/themed/pastel/pastelcabinet/pastelcabinet.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/themed/pastel/pastelwardrobe/pastelwardrobe.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/themed/retroscifi/retroscifitable/retroscifitable.object": [
@@ -8451,6 +8514,12 @@
       "objects/generic/woodencouch1/woodencouch1.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/novakid/frontierpainting1/frontierpainting1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/novakid/frontierpainting3/frontierpainting3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/protectorate/objects/protectorateposter1/protectorateposter1.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -8889,6 +8958,15 @@
       "objects/mission/lunarquestturnin/drillconsole/drillconsole.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/novakid/frontierfurnace/frontierfurnace.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/novakid/frontiergramophone/frontiergramophone.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/novakid/frontierironsymbol/frontierironsymbol.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/outpost/2stopteleshop/2stopshopclosed.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -8929,6 +9007,9 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/themed/opulent/opulentlight/opulentlight.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/themed/pastel/pastelbed/pastelbed.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/themed/steampunk/steampunkbed/steampunkbed.object": [
@@ -9680,13 +9761,12 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/themed/saloon/saloonspittoon/saloonspittoon.object": [
+      "objects/novakid/saloonspittoon/saloonspittoon.object": [
         "/glitchDescription/glitchEmote"
       ]
     },
     "Texts": {
-      "Eng": "Nauseous.",
-      "Rus": ""
+      "Eng": "Nauseous."
     }
   },
   {
@@ -10945,6 +11025,21 @@
       "objects/mission/tanktrap/tanktrap.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/novakid/frontierwaterpump/frontierwaterpump.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/novakid/frontierwindmill/frontierwindmill.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/novakid/salooncabinet/salooncabinet.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/novakid/saloonsign/saloonsign.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/novakid/saloontumbler/saloontumbler.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/outpost/signstore/signdispenser.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -10987,10 +11082,13 @@
       "objects/themed/outdoor/outdoorstool/outdoorstool.object": [
         "/glitchDescription/glitchEmote"
       ],
-      "objects/themed/retroscifi/retroscificabinet/retroscificabinet.object": [
+      "objects/themed/pastel/pastellight/pastellight.object": [
         "/glitchDescription/glitchEmote"
       ],
-      "objects/themed/saloon/salooncabinet/salooncabinet.object": [
+      "objects/themed/pastel/pasteltable/pasteltable.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/themed/retroscifi/retroscificabinet/retroscificabinet.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/traps/flametrap/flametrap.object": [
@@ -11150,13 +11248,12 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/themed/saloon/saloonseat/saloonseat.object": [
+      "objects/novakid/saloonseat/saloonseat.object": [
         "/glitchDescription/glitchEmote"
       ]
     },
     "Texts": {
-      "Eng": "Opinionated.",
-      "Rus": ""
+      "Eng": "Opinionated."
     }
   },
   {
@@ -13507,6 +13604,9 @@
       "objects/human/basicbath/basicbathdripping.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/novakid/saloonpiano/saloonpiano.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/ship/avianteleporter/avianteleporter.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -13526,9 +13626,6 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/ship/teleporter/teleporter.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/themed/saloon/saloonpiano/saloonpiano.object": [
         "/glitchDescription/glitchEmote"
       ]
     },
@@ -13669,9 +13766,6 @@
       "Утвердительно."
     ],
     "Files": {
-      "objects/bugs/testbug/testbug.object": [
-        "/glitchDescription/glitchEmote"
-      ],
       "objects/holiday/menorah/menorah.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -14472,6 +14566,9 @@
       "objects/themed/cabin/cabinornament/cabinornament.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/themed/pastel/pastelchair/pastelchair.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/themed/sea/sealamp/sealamp.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -15267,6 +15364,9 @@
     "Files": {
       "dialog/converse.config": [
         "/converse/glitch/generic/56/glitchEmote"
+      ],
+      "npcs/crew/crewmemberjanitor.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1/glitchEmote"
       ],
       "objects/hylotl/hylotlclassictable/hylotlclassictable.object": [
         "/glitchDescription/glitchEmote"

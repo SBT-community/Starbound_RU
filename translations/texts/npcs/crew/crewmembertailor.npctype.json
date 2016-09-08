@@ -137,6 +137,17 @@
     }
   },
   {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembertailor.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "If yer hurtin' to update your crew's uniform, come say howdy!"
+    }
+  },
+  {
     "DeniedAlternatives": [
       "Если вы хотите обновить униформу экипажа, просто обратитесь ко мне!"
     ],
@@ -148,6 +159,17 @@
     "Texts": {
       "Eng": "If you need to update your crew's uniform, come speak to me!",
       "Rus": "Если ты хочешь обновить униформу экипажа, просто обратись ко мне!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembertailor.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you want to change up your crew's outfit, then I'm your huckleberry!"
     }
   },
   {
@@ -215,6 +237,17 @@
     }
   },
   {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembertailor.npctype": [
+        "/scriptConfig/dialog/converse/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is a mighty fine choice of outfit, partner!"
+    }
+  },
+  {
     "DeniedAlternatives": [
       "Подающий надежды выбор формы, капитан!"
     ],
@@ -229,6 +262,17 @@
     }
   },
   {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembertailor.npctype": [
+        "/scriptConfig/dialog/converse/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This new crew uniform is sharper than a durasteel spur. Good choice, partner!"
+    }
+  },
+  {
     "DeniedAlternatives": [
       "В этой одежде ваш экипаж правда бесподобен. Хороший выбор, капитан!"
     ],
@@ -240,6 +284,17 @@
     "Texts": {
       "Eng": "This outfit will make your crew really stand out. Great choice, captain!",
       "Rus": "В этой одежде экипаж действительно бесподобен. Хороший выбор, капитан!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembertailor.npctype": [
+        "/scriptConfig/dialog/converse/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yer lookin' as sharp as a steel stirrup, partner!"
     }
   }
 ]

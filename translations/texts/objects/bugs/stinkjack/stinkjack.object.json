@@ -7,22 +7,20 @@
       ]
     },
     "Texts": {
-      "Eng": "Stinkjack Bug",
+      "Eng": "Stinkjack",
       "Rus": "Клоп-вонючка"
     }
   },
   {
-    "DeniedAlternatives": [
-      "Этикетка гласит \"Этих маленьких жучков проще унюхать, чем увидеть.\""
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/bugs/stinkjack/stinkjack.object": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "The label reads, \"You'll smell one of these little guys before you see one.\"",
-      "Rus": "Этикетка гласит: \"Этих маленьких жучков проще унюхать, чем увидеть.\""
+      "Eng": "You'll smell one of these little guys before you see one.",
+      "Rus": "Этих маленьких жучков проще унюхать, чем увидеть."
     }
   }
 ]

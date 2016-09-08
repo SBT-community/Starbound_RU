@@ -30,6 +30,20 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "objects/apex/classiclight/classiclight.object": [
+        "/humanDescription"
+      ],
+      "objects/novakid/saloonlight/saloonlight.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An electric lamp. It looks built for a flame."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "objects/hoard/mysteriouslight/mysteriouslight.object": [
         "/glitchDescription/glitchEmotedText"
       ],
@@ -88,6 +102,20 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "objects/apex/classiclight/classiclight.object": [
+        "/floranDescription"
+      ],
+      "objects/novakid/saloonlight/saloonlight.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "No fire burnsss within."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "objects/generic/invisiblelight/invisiblelight.object": [
         "/shortdescription"
       ],
@@ -121,6 +149,48 @@
     "Texts": {
       "Eng": "Such spotlights are used by the Miniknog to force people to talk. Spotlights, and worse...",
       "Rus": "Эти прожектора использовались Миникногом для допросов. Прожектора или хуже."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/classiclight/classiclight.object": [
+        "/apexDescription"
+      ],
+      "objects/novakid/saloonlight/saloonlight.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The glow of this lamp is warm and comforting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/classiclight/classiclight.object": [
+        "/avianDescription"
+      ],
+      "objects/novakid/saloonlight/saloonlight.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ironwork surpasses that of Avian spearsmiths."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/classiclight/classiclight.object": [
+        "/hylotlDescription"
+      ],
+      "objects/novakid/saloonlight/saloonlight.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The lamp appears to be designed to house a flame but is entirely electric."
     }
   },
   {

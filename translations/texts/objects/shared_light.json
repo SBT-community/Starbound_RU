@@ -123,20 +123,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/apex/classiclight/classiclight.object": [
-        "/humanDescription"
-      ],
-      "objects/themed/saloon/saloonlight/saloonlight.object": [
-        "/humanDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "An electric lamp. It looks built for a flame."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "objects/hylotl/eventlight/eventlight.object": [
         "/hylotlDescription"
       ],
@@ -193,20 +179,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/apex/classiclight/classiclight.object": [
-        "/floranDescription"
-      ],
-      "objects/themed/saloon/saloonlight/saloonlight.object": [
-        "/floranDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "No fire burnsss within."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "objects/hylotl/eventlight/eventlight.object": [
         "/floranDescription"
       ],
@@ -217,48 +189,6 @@
     "Texts": {
       "Eng": "Ssspotlight.",
       "Rus": "Сссветильник."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/classiclight/classiclight.object": [
-        "/apexDescription"
-      ],
-      "objects/themed/saloon/saloonlight/saloonlight.object": [
-        "/apexDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "The glow of this lamp is warm and comforting."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/classiclight/classiclight.object": [
-        "/avianDescription"
-      ],
-      "objects/themed/saloon/saloonlight/saloonlight.object": [
-        "/avianDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "The ironwork surpasses that of Avian spearsmiths."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/classiclight/classiclight.object": [
-        "/hylotlDescription"
-      ],
-      "objects/themed/saloon/saloonlight/saloonlight.object": [
-        "/hylotlDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "The lamp appears to be designed to house a flame but is entirely electric."
     }
   },
   {

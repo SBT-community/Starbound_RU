@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/fossils/humanoid/humanfossil1.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fossilised human, the dominant species of Earth.",
+      "Rus": "Ископаемый человек, доминирующий вид на Земле."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/humanoid/humanfossil1.item": [
         "/completeSetDescriptions/shortdescription"
       ]
     },
@@ -33,18 +45,6 @@
     "Texts": {
       "Eng": "Human Skull",
       "Rus": "Человеческий череп"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/fossils/humanoid/humanfossil1.item": [
-        "/completeSetDescriptions/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "The label reads, \"A fossilised human, the dominant species of Earth.\"",
-      "Rus": "Надпись гласит \"Ископаемый человек, доминирующий вид на Земле.\""
     }
   }
 ]

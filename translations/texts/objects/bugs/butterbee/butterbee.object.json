@@ -3,24 +3,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/bugs/butterbee/butterbee.object": [
-        "/shortdescription"
+        "/description"
       ]
     },
     "Texts": {
-      "Eng": "Butterbee Bug",
-      "Rus": "Маслокрылый роевик"
+      "Eng": "A bright yellow bug, its wings smell like butter.",
+      "Rus": "Ярко-желтый жук. Его крылья даже пахнут маслом."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/bugs/butterbee/butterbee.object": [
-        "/description"
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "The label reads, \"A bright yellow bug, its wings smell like butter.\"",
-      "Rus": "Этикетка гласит: \"Ярко-желтый жук. Его крылья даже пахнут маслом.\""
+      "Eng": "Butterbee",
+      "Rus": "Маслокрылый роевик"
     }
   }
 ]

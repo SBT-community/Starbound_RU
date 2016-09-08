@@ -3,24 +3,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/bugs/gasgiant/gasgiant.object": [
-        "/description"
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "\"These bugs float on updrafts of poisonous gases.\"",
-      "Rus": "\"Эти жуки витают в облаках отравленного газа.\""
+      "Eng": "Gasgiant",
+      "Rus": "Газовый гигант"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/bugs/gasgiant/gasgiant.object": [
-        "/shortdescription"
+        "/description"
       ]
     },
     "Texts": {
-      "Eng": "Gasgiant Bug",
-      "Rus": "Газовый гигант"
+      "Eng": "These bugs float on updrafts of poisonous gases.",
+      "Rus": "\"Эти жуки витают в облаках отравленного газа.\""
     }
   }
 ]

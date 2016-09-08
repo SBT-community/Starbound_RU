@@ -1,16 +1,14 @@
 [
   {
-    "DeniedAlternatives": [
-      "Этикетка гласит \"Показывается только в определённую фазу луны.\""
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/bugs/tidefly/tidefly.object": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "The label reads, \"Comes out only during certain phases of the moon.\"",
-      "Rus": "Этикетка гласит: \"Показывается только в определённую фазу луны.\""
+      "Eng": "Comes out only during certain phases of the moon.",
+      "Rus": "Показывается только в определённую фазу луны."
     }
   },
   {
@@ -21,7 +19,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Tidefly Bug",
+      "Eng": "Tidefly",
       "Rus": "Приливная мошка"
     }
   }

@@ -7,22 +7,20 @@
       ]
     },
     "Texts": {
-      "Eng": "Frostfleck Bug",
+      "Eng": "Frostfleck",
       "Rus": "Снежужелица"
     }
   },
   {
-    "DeniedAlternatives": [
-      "Этикетка гласит \"Легко случайно перепутать этого жука со снежинкой.\""
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/bugs/frostfleck/frostfleck.object": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "The label reads, \"This bug is easily mistaken for a snowflake.\"",
-      "Rus": "Этикетка гласит: \"Легко случайно перепутать этого жука со снежинкой.\""
+      "Eng": "This bug is easily mistaken for a snowflake.",
+      "Rus": "Легко случайно перепутать этого жука со снежинкой."
     }
   }
 ]

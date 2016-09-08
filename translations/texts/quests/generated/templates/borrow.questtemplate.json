@@ -45,8 +45,7 @@
       ]
     },
     "Texts": {
-      "Eng": "First things first, you’ll need to ^green;speak to ^orange;<target> ^white;and ^green;borrow <target.pronoun.possessiveDet> ^orange;<item>. ^white;Just tell <target.pronoun.object> I sent you, and <target.pronoun.subject>'ll be happy to lend it to you.",
-      "Rus": ""
+      "Eng": "First things first, you'll need to ^green;speak to ^orange;<target> ^white;and ^green;borrow <target.pronoun.possessiveDet> ^orange;<item>. ^white;Just tell <target.pronoun.object> I sent you, and <target.pronoun.subject>'ll be happy to lend it to you."
     }
   },
   {
@@ -248,24 +247,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/borrow.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/default/1"
+        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
       ]
     },
     "Texts": {
-      "Eng": "Well done! We probably won't be able to return this <item> to <target>, but I'm sure <target.pronoun.subject> won't miss this dusty old thing anyway. ",
-      "Rus": ""
+      "Eng": "We'll need to ^green;borrow^orange; <target>'s <item> ^white;next. <target.pronoun.capitalSubject>'ll not have a problem handing it over if you ^green;tell <target.pronoun.object> I sent you.",
+      "Rus": "Нам надо ^green;одолжить ^orange;<item> у <target>. ^white;<target.pronoun.capitalSubject> отдаст ^orange;<item> ^white;если вы ^green;скажете, что пришли от меня."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/borrow.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+        "/scriptConfig/generatedText/completionText/default/default/1"
       ]
     },
     "Texts": {
-      "Eng": "We’ll need to ^green;borrow^orange; <target>’s <item> ^white;next. <target.pronoun.capitalSubject>’ll not have a problem handing it over if you ^green;tell <target.pronoun.object> I sent you.",
-      "Rus": "Нам надо ^green;одолжить ^orange;<item> у <target>. ^white;<target.pronoun.capitalSubject> отдаст ^orange;<item> ^white;если вы ^green;скажете, что пришли от меня."
+      "Eng": "Well done! We probably won't be able to return this <item> to <target>, but I'm sure <target.pronoun.subject> won't miss this dusty old thing anyway. ",
+      "Rus": ""
     }
   },
   {

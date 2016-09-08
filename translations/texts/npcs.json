@@ -1,5 +1,20 @@
 [
   {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/novakidvillage/prisonoutlaw.npctype": [
+        "/scriptConfig/dialog/attack/human/default/3"
+      ],
+      "npcs/threats/outlawbandit.npctype": [
+        "/scriptConfig/dialog/attack/human/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you here to challenge me? Do you even know who I am?!",
+      "Rus": "Пришел бросить мне вызов? Ты хоть знаешь, кто я?!"
+    }
+  },
+  {
     "DeniedAlternatives": [
       "Под этим жёлтым костюмом моё сердце бьётся за любовь к открытию!"
     ],
@@ -38,9 +53,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Земля уничтожена, как и большинство произведений искусства!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "npcs/outpost/visitors/socialitevisitor.npctype": [
         "/scriptConfig/dialog/converse/default/default/0"
@@ -50,7 +63,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Earth is lost, and some much fine art with it!",
+      "Eng": "Earth is lost, and so much fine art with it!",
       "Rus": "Земля потеряна, как и произведения что там были!"
     }
   },
@@ -747,6 +760,51 @@
     "Texts": {
       "Eng": "You do not want to mess with us!",
       "Rus": "Не стоит тебе связываться с нами!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/novakidvillage/prisonoutlaw.npctype": [
+        "/scriptConfig/dialog/attack/human/default/1"
+      ],
+      "npcs/threats/outlawbandit.npctype": [
+        "/scriptConfig/dialog/attack/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You may have fought bandits before, but you haven't fought ME!",
+      "Rus": "Наверно, ты дрался с обычными бандитами, но не со МНОЙ!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/novakidvillage/prisonoutlaw.npctype": [
+        "/scriptConfig/dialog/attack/human/default/2"
+      ],
+      "npcs/threats/outlawbandit.npctype": [
+        "/scriptConfig/dialog/attack/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're gonna leave here full of holes!",
+      "Rus": "Ты уйдешь отсюда только похожим на дуршлаг!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/novakidvillage/prisonoutlaw.npctype": [
+        "/scriptConfig/dialog/attack/human/default/0"
+      ],
+      "npcs/threats/outlawbandit.npctype": [
+        "/scriptConfig/dialog/attack/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You've never faced a bandit like me!",
+      "Rus": "Ты не сталкивался с такими, как я!"
     }
   }
 ]

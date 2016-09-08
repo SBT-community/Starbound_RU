@@ -135,18 +135,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/crewmember.config": [
-        "/converse/novakid/default/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "Howdy!",
-      "Rus": "Привет!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/crewmember.config": [
         "/converse/penguin/default/8"
       ]
     },
@@ -156,10 +144,12 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я в душе странник, так что это работа по мне!"
+    ],
     "Files": {
       "dialog/crewmember.config": [
-        "/converse/novakid/default/1"
+        "/converse/novakid/default/2"
       ]
     },
     "Texts": {
@@ -219,7 +209,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/crewmember.config": [
-        "/converse/novakid/default/2"
+        "/converse/novakid/default/3"
       ]
     },
     "Texts": {

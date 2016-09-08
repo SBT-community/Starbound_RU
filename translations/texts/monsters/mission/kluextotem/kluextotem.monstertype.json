@@ -3,11 +3,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "monsters/mission/kluextotem/kluextotem.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A menacing marvel of ancient technology.",
+      "Rus": "Из-за его чувствительных глаз, он предпочитает темные места, такие как пещеры."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/kluextotem/kluextotem.monstertype": [
         "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "kluextotem",
+      "Eng": "Kluex Totem",
       "Rus": "Тотем Клюэкса"
     }
   }

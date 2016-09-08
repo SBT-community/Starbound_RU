@@ -7,22 +7,20 @@
       ]
     },
     "Texts": {
-      "Eng": "Sunskipper Bug",
+      "Eng": "Sunskipper",
       "Rus": "Жук-солярик"
     }
   },
   {
-    "DeniedAlternatives": [
-      "Этикетка гласит \"Этот жучок, как ни странно, любит солнце.\""
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/bugs/sunskipper/sunskipper.object": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "The label reads, \"This pretty bug loves sunshine.\"",
-      "Rus": "Этикетка гласит: \"Этот жучок, как ни странно, любит солнце.\""
+      "Eng": "This pretty bug loves sunshine.",
+      "Rus": "Этот жучок, как ни странно, любит солнце."
     }
   }
 ]

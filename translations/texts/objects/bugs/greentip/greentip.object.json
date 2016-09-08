@@ -7,22 +7,20 @@
       ]
     },
     "Texts": {
-      "Eng": "Greentip Bug",
+      "Eng": "Greentip",
       "Rus": "Зеленоножка"
     }
   },
   {
-    "DeniedAlternatives": [
-      "Этикетка гласит \"Жук выглядит так, будто носит крохотные зелёные башмачки.\""
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/bugs/greentip/greentip.object": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "The label reads, \"This bug looks like it's wearing tiny green shoes.\"",
-      "Rus": "Этикетка гласит: \"Жук выглядит так, будто носит крохотные зелёные башмачки.\""
+      "Eng": "This bug looks like it's wearing tiny green shoes.",
+      "Rus": "Жук выглядит так, будто носит крохотные зелёные башмачки."
     }
   }
 ]

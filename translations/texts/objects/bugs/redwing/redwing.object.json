@@ -3,26 +3,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/bugs/redwing/redwing.object": [
-        "/shortdescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Redwing Bug",
-      "Rus": "Краснокрыл"
-    }
-  },
-  {
-    "DeniedAlternatives": [
-      "Этикетка гласит \"Не путать с печально известным Ужаснокрылом.\""
-    ],
-    "Files": {
-      "objects/bugs/redwing/redwing.object": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "The label reads, \"Not to be confused with the infamous Dreadwing.\"",
-      "Rus": "Этикетка гласит: \"Не путать с печально известным Ужаснокрылом.\""
+      "Eng": "Not to be confused with the infamous Dreadwing.",
+      "Rus": "Не путать с печально известным Ужаснокрылом."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bugs/redwing/redwing.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Redwing",
+      "Rus": "Краснокрыл"
     }
   }
 ]

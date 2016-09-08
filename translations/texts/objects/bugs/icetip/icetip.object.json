@@ -7,22 +7,20 @@
       ]
     },
     "Texts": {
-      "Eng": "Icetip Bug",
+      "Eng": "Icetip",
       "Rus": "Ледокрылка"
     }
   },
   {
-    "DeniedAlternatives": [
-      "Этикетка гласит \"Крылья этого жука покрыты изморозью.\""
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/bugs/icetip/icetip.object": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "The label reads, \"This bug's wings are frozen over.\"",
-      "Rus": "Этикетка гласит: \"Крылья этого жука покрыты изморозью.\""
+      "Eng": "This bug's wings are frozen over.",
+      "Rus": "Крылья этого жука покрыты изморозью."
     }
   }
 ]

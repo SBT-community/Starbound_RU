@@ -7,22 +7,20 @@
       ]
     },
     "Texts": {
-      "Eng": "Shardwing Bug",
+      "Eng": "Shardwing",
       "Rus": "Кристальный слепень"
     }
   },
   {
-    "DeniedAlternatives": [
-      "Этикетка гласит \"Крылья этого жука переливаются как лёд.\""
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/bugs/shardwing/shardwing.object": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "The label reads, \"The wings of this bug are iridescent like ice.\"",
-      "Rus": "Этикетка гласит: \"Крылья этого жука переливаются как лёд.\""
+      "Eng": "The wings of this bug are iridescent like ice.",
+      "Rus": "Крылья этого жука переливаются как лёд."
     }
   }
 ]

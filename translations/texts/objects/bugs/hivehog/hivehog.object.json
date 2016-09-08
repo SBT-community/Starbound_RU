@@ -7,22 +7,20 @@
       ]
     },
     "Texts": {
-      "Eng": "Hivehog Bug",
+      "Eng": "Hivehog",
       "Rus": "Жук-обжора"
     }
   },
   {
-    "DeniedAlternatives": [
-      "Этикетка гласит \"Жук, который никогда не прекращает есть.\""
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/bugs/hivehog/hivehog.object": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "The label reads, \"This bug never stops eating.\"",
-      "Rus": "Этикетка гласит: \"Жук, который никогда не прекращает есть.\""
+      "Eng": "This bug never stops eating.",
+      "Rus": "Жук, который никогда не прекращает есть."
     }
   }
 ]

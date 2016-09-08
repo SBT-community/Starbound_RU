@@ -7,22 +7,20 @@
       ]
     },
     "Texts": {
-      "Eng": "Driftbell Bug",
+      "Eng": "Driftbell",
       "Rus": "Жук-звонарь"
     }
   },
   {
-    "DeniedAlternatives": [
-      "Этикетка гласит \"При полёте этот жук издает слабый звон.\""
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/bugs/driftbell/driftbell.object": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "The label reads, \"This bug makes a faint ringing sound as it flies through the air.\"",
-      "Rus": "Этикетка гласит: \"При полёте этот жук издает слабый звон.\""
+      "Eng": "This bug makes a faint ringing sound as it flies through the air.",
+      "Rus": "При полёте этот жук издает слабый звон."
     }
   }
 ]

@@ -1,16 +1,14 @@
 [
   {
-    "DeniedAlternatives": [
-      "Этикетка гласит \"Лапки жука выглядят как переплетающиеся лозы.\""
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/bugs/vineclimber/vineclimber.object": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "The label reads, \"Its legs look like intertwining vines.\"",
-      "Rus": "Этикетка гласит: \"Лапки жука выглядят как переплетающиеся лозы.\""
+      "Eng": "Its legs look like intertwining vines.",
+      "Rus": "Лапки жука выглядят как переплетающиеся лозы."
     }
   },
   {
@@ -21,7 +19,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Vineclimber Bug",
+      "Eng": "Vineclimber",
       "Rus": "Жук-лозоходец"
     }
   }

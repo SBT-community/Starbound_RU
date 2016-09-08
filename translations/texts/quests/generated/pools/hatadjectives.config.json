@@ -140,7 +140,7 @@
       ]
     },
     "Texts": {
-      "Eng": "creepy [Для квеста на шляпу]",
+      "Eng": "creepy",
       "Rus": "мрачно"
     }
   },
@@ -258,8 +258,20 @@
       ]
     },
     "Texts": {
-      "Eng": "fierce [Для квеста на шляпу]",
+      "Eng": "fierce",
       "Rus": "свирепо"
+    }
+  },
+  {
+    "Comment": "Наречие",
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/pools/hatadjectives.config": [
+        "/0/1/55/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "fine"
     }
   },
   {
@@ -293,7 +305,8 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/pools/hatadjectives.config": [
-        "/0/1/19/0"
+        "/0/1/19/0",
+        "/0/1/53/0"
       ]
     },
     "Texts": {
@@ -360,7 +373,8 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/pools/hatadjectives.config": [
-        "/0/1/14/0"
+        "/0/1/14/0",
+        "/0/1/56/0"
       ]
     },
     "Texts": {
@@ -442,7 +456,7 @@
       ]
     },
     "Texts": {
-      "Eng": "powerful [Для квеста на шляпу]",
+      "Eng": "powerful",
       "Rus": "могуче"
     }
   },
@@ -451,7 +465,8 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/pools/hatadjectives.config": [
-        "/0/1/15/0"
+        "/0/1/15/0",
+        "/0/1/54/0"
       ]
     },
     "Texts": {
@@ -510,6 +525,18 @@
     "Texts": {
       "Eng": "sensible",
       "Rus": "чувственно"
+    }
+  },
+  {
+    "Comment": "Наречие",
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/pools/hatadjectives.config": [
+        "/0/1/52/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "smart"
     }
   },
   {
@@ -586,7 +613,7 @@
       ]
     },
     "Texts": {
-      "Eng": "vicious [Для квеста на шляпу]",
+      "Eng": "vicious",
       "Rus": "злобно"
     }
   },

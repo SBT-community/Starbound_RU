@@ -7,22 +7,20 @@
       ]
     },
     "Texts": {
-      "Eng": "Snowskater Bug",
+      "Eng": "Snowskater",
       "Rus": "Жук-снегоступ"
     }
   },
   {
-    "DeniedAlternatives": [
-      "Этикетка гласит \"Кончики его лапок покрыты снегом.\""
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/bugs/snowskater/snowskater.object": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "The label reads, \"The tips of its legs are covered in snow.\"",
-      "Rus": "Этикетка гласит: \"Кончики его лапок покрыты снегом.\""
+      "Eng": "The tips of its legs are covered in snow.",
+      "Rus": "Кончики его лапок покрыты снегом."
     }
   }
 ]

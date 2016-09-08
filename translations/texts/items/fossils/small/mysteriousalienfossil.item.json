@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/fossils/small/mysteriousalienfossil.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange and curious life-form, now lost to time.",
+      "Rus": "Табличка гласит: \"Странный и любопытный вид, ныне ставший историей\"."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/small/mysteriousalienfossil.item": [
         "/completeSetDescriptions/shortdescription",
         "/shortdescription"
       ]
@@ -22,18 +34,6 @@
     "Texts": {
       "Eng": "The fossilised skull of an unidentified life-form.",
       "Rus": "Ископаемый череп, принадлежащий неизвестному виду."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/fossils/small/mysteriousalienfossil.item": [
-        "/completeSetDescriptions/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "The label reads, \"A strange and curious life-form, now lost to time.\"",
-      "Rus": "Табличка гласит: \"Странный и любопытный вид, ныне ставший историей\"."
     }
   }
 ]

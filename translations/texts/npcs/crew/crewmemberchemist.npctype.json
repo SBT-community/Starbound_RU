@@ -30,6 +30,28 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/crew/crewmemberchemist.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran will give you boostsss when we are on ship!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberchemist.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/novakid/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hold on partner, I can help you out!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberchemist.npctype": [
         "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3"
       ]
     },
@@ -56,12 +78,35 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/crew/crewmemberchemist.npctype": [
-        "/scriptConfig/dialog/crewmember/roleDescription/default/default/0"
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll give everyone on the ship buffs whilst we're on board!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberchemist.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmotedText"
       ]
     },
     "Texts": {
       "Eng": "I'll give you a boost whenever we're on the ship!",
       "Rus": "Я готов помочь тебе, если ты будешь на корабле!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberchemist.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll give you a boost whenever we're on the ship, partner!"
     }
   },
   {
@@ -74,6 +119,28 @@
     "Texts": {
       "Eng": "Let me give you a boost real quick!",
       "Rus": "Давай я тебе помогу!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberchemist.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks like yer fixin' for a helpin' hand!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberchemist.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks like you could use a hand, partner!"
     }
   },
   {
@@ -100,6 +167,17 @@
     "Texts": {
       "Eng": "Pharmaceutical",
       "Rus": "по фармацевтике"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberchemist.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yer lookin' like you could use a helpin' hand!"
     }
   }
 ]

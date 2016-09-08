@@ -7,22 +7,20 @@
       ]
     },
     "Texts": {
-      "Eng": "Mudstag Bug",
+      "Eng": "Mudstag",
       "Rus": "Грязежук-олень"
     }
   },
   {
-    "DeniedAlternatives": [
-      "Этикетка гласит \"Жук просто невероятно липкий. К тому же, у него два рога на голове.\""
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/bugs/mudstag/mudstag.object": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "The label reads, \"This bug is incredibly sticky. It has two long horns on its head.\"",
-      "Rus": "Этикетка гласит: \"Жук просто невероятно липкий. К тому же, у него два рога на голове.\""
+      "Eng": "This bug is incredibly sticky. It has two long horns on its head.",
+      "Rus": "Жук просто невероятно липкий. К тому же, у него два рога на голове."
     }
   }
 ]

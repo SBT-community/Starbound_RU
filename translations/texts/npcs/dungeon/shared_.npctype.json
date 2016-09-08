@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/1"
+      ],
+      "npcs/dungeon/novakidvillage/novakidblacksmith.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now then, what were ya lookin' for?",
+      "Rus": "А теперь, что ты ищешь?"
+    }
+  }
+]

@@ -27,6 +27,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
+        "/borrow/giftProvided/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "<questGiver> can borrow my <item> if they ain't gonna take if for long!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
         "/borrow/giftProvided/hylotl/default/1"
       ]
     },
@@ -210,6 +221,28 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
+        "/gift/giftAccepted/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "<questGiver> is an ace-high friend! Give them thanks on my behalf next time you can, partner!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/gift/giftAccepted2/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "<questGiver> is an ace-high friend! They've earned my respect, that's for sure!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
         "/gift/giftAccepted2/apex/default/0"
       ]
     },
@@ -294,6 +327,29 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
+        "/collect_fine/fineCollected/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alright alright, I'll pay up! Yer cornered me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/hat/crafted/novakid/default/0",
+        "/helmet/crafted/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ace-high job, if I say so myself! Could you run this parcel to <questGiver> for me, partner?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
         "/hat/crafted/hylotl/default/0",
         "/helmet/crafted/hylotl/default/0"
       ]
@@ -301,6 +357,17 @@
     "Texts": {
       "Eng": "An exquisite job, if I say so myself! Would you take this parcel to <questGiver> for me?",
       "Rus": ""
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/kidnapping/kidnappersDead/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "An' here I was, with my life flashin' before me! I thought I was a goner!"
     }
   },
   {
@@ -357,6 +424,50 @@
     },
     "Texts": {
       "Eng": "Being bribed is pretty great! Please give my thanks to <questGiver>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/kidnapping/followHome/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can you take Floran home to <questGiver>? Floran doesn't feel sssafe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/kidnapping/followHome/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can you take me back to <questGiver>? I don't feel confident in myself right now..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/kidnapping/followHome/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can you take me home to <questGiver>? Just to be on the safe side..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/kidnapping/followHome/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Could you accompany me back to <questGiver>? I ain't feel too sharp right now..."
     }
   },
   {
@@ -876,7 +987,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
-        "/kill_npc/betray/default/default/1"
+        "/kill_npc/betray/default/default/2"
       ]
     },
     "Texts": {
@@ -959,6 +1070,17 @@
     },
     "Texts": {
       "Eng": "Here are your goods, for you to enjoy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/escort_trade/provideDelivery/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here are your goods, partner."
     }
   },
   {
@@ -1181,6 +1303,28 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
+        "/collect_gift/giftProvided/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here's the <item>. Run it over to <questGiver>, if you can."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/collect_gift/giftProvided/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here's the ol' <item> - jus' for <questGiver>!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
         "/escort_trade/provideDelivery/avian/default/0",
         "/escort_trade/provideDelivery/default/default/0",
         "/escort_trade/provideDelivery/human/default/0"
@@ -1210,6 +1354,17 @@
     },
     "Texts": {
       "Eng": "Hey there! <questGiver> is a friend of mine, and wanted me to help you fight the <enemy>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/escort_trade/collectDelivery/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey, do you have the delivery?"
     }
   },
   {
@@ -1268,6 +1423,50 @@
     },
     "Texts": {
       "Eng": "How nice! Please thank <questGiver> for me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/escort/found/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Howdy there! Could you accompany me on the trail back to <questGiver>? I forgot the way."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/kill_npcs/assistantIntro/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Howdy! <questGiver> asked me to meet you here to help fight the <enemy>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/escort_trade/collectDelivery/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Howdy! I suppose you have a deliver for me?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/kill_npcs/assistantIntro/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Howdy! My ol' friend <questGiver> asked me to come an' help you fight the <enemy>."
     }
   },
   {
@@ -1531,6 +1730,28 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
+        "/kill_npc/surrender/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I know when I've been beaten! Put your weapon away, please!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/kidnapping/followHome/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I still don't know if I can make it back alone. Can you take me back to <questGiver>, partner?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
         "/kill_npc/surrender/glitch/default/1/glitchEmotedText"
       ]
     },
@@ -1575,11 +1796,44 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
+        "/kidnapping/kidnappersDead/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I thought that was the end of the line for me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
         "/borrow/giftProvided/hylotl/default/0"
       ]
     },
     "Texts": {
       "Eng": "I will gladly lend <questGiver> my <item>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/return_stolen/objectTaken/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I won that <item> in a game o' cards, it's mine! Honest!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/collect_fine/fineCollected/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I won't be a varmint, I'll pay yer fine."
     }
   },
   {
@@ -1735,6 +1989,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
+        "/kidnapping/followHome/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm still pretty shook up - can you take me home to <questGiver>?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
         "/request_craft/giftProvided/glitch/default/1/glitchEmotedText"
       ]
     },
@@ -1759,7 +2024,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
-        "/kill_npc/betray/default/default/2"
+        "/kill_npc/betray/default/default/3"
       ]
     },
     "Texts": {
@@ -1843,6 +2108,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
+        "/extort/giftProvided/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is this a holdup?! Fine, I don't wanna fight, jus' take my <item>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
         "/bribe/giftAccepted/human/default/1"
       ]
     },
@@ -1861,6 +2137,17 @@
     "Texts": {
       "Eng": "It is a mistake to trust your enemy!",
       "Rus": ""
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/return_stolen/objectTaken/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jus' to let you know, I have no idea where that <item> came from!"
     }
   },
   {
@@ -1891,6 +2178,28 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
+        "/barter/trade/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mighty fine thanks for the goods - Here's <questGiver>'s <receivedItems>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/escort/found/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "My head was in the clouds, an' I forgot the trail I took here. Could you take me bac to <questGiver>, partner?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
         "/bribe/giftAccepted/hylotl/default/0"
       ]
     },
@@ -1903,12 +2212,34 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
+        "/kill_npc/betray/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "My web of lies has ensnared you!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
         "/extort/giftProvided/avian/default/0"
       ]
     },
     "Texts": {
       "Eng": "No need to be so menacing! Just take my <item>!",
       "Rus": ""
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/extort/giftProvided/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "No need to cause a mighty scene! Jus' take my <item> if it means that much to you!"
     }
   },
   {
@@ -1955,7 +2286,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
-        "/kill_npc/surrender/default/default/1"
+        "/kill_npc/surrender/default/default/2"
       ]
     },
     "Texts": {
@@ -2372,6 +2703,28 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
+        "/kidnapping/followHome/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "That really ruffled my feathers... Could you take me back to <questGiver>?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/kidnapping/followHome/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "That was most terrifying. Could you take me back to <questGiver>?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
         "/collect_fine/fineCollected/avian/default/0"
       ]
     },
@@ -2403,6 +2756,28 @@
     "Texts": {
       "Eng": "This gift is exquisite. Would you be able to place it somewhere in my home for me?",
       "Rus": ""
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/gift/giftAccepted2/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This gift is mighty fine! <questGiver> certainly has my trust!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/gift/giftAccepted/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This gift is mighty fine! Can you thank <questGiver> for me?"
     }
   },
   {
@@ -2533,6 +2908,29 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
+        "/request_craft/giftProvided/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Well ain't you in luck? I made this <item> earlier, go ahead an' take it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/bribe/requestAdditionToHouse/novakid/default/0",
+        "/gift/requestAdditionToHouse/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Well shucks, this gift is jus' lovely! Could you place it in my home for me, partner?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
         "/gift/giftAccepted/avian/default/1"
       ]
     },
@@ -2552,6 +2950,30 @@
     "Texts": {
       "Eng": "What a lovely gift! Would you be able to place it in my home, so I can enjoy it all the time?",
       "Rus": ""
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/hat/crafted/novakid/default/1",
+        "/helmet/crafted/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "What a mighty fine craftin' job I did! Be a star an' run this down to <questGiver> for me?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/bribe/requestAdditionToHouse/novakid/default/1",
+        "/gift/requestAdditionToHouse/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "What a mighty fine gesture this gift is! Could you place it in my home for me?"
     }
   },
   {
@@ -2650,6 +3072,28 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
+        "/request_craft/giftProvided/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Y'all wanted this <item> I made? Here, take it!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/borrow/giftProvided/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yeah, I can let <questGiver> borrow my ol' <item>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
         "/kill_npc/betray/glitch/default/1/glitchEmotedText",
         "/kill_npc/betray/glitch/default/2/glitchEmotedText"
       ]
@@ -2740,6 +3184,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
+        "/hat/crafting/novakid/default/0",
+        "/helmet/crafting/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You brought the supplies? Ace-high! Now hold on a moment so I can throw this together..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
         "/return_stolen/objectTaken/floran/default/0"
       ]
     },
@@ -2814,6 +3270,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
+        "/hat/crafting/novakid/default/1",
+        "/helmet/crafting/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You got the materials, I got the skills. Hold up a moment so I can make this..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
         "/hat/crafting/glitch/default/0/glitchEmotedText",
         "/helmet/crafting/glitch/default/0/glitchEmotedText"
       ]
@@ -2821,6 +3289,17 @@
     "Texts": {
       "Eng": "You have brought me the materials! Hold on one moment...",
       "Rus": "Ты принес(ла) все материалы! Погоди-ка минутку..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/new_stock/trade/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You here to pick up <questGiver>'s parcel? Here you go, thanks for the supplies, partner!"
     }
   },
   {

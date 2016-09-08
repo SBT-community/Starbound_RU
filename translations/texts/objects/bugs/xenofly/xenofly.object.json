@@ -1,16 +1,14 @@
 [
   {
-    "DeniedAlternatives": [
-      "Этикетка гласит \"У него маленькая жутковатая мордочка.\""
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/bugs/xenofly/xenofly.object": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "The label reads, \"This guy has a creepy little face.\"",
-      "Rus": "Этикетка гласит: \"У него маленькая жутковатая мордочка.\""
+      "Eng": "This guy has a creepy little face.",
+      "Rus": "У него маленькая жутковатая мордочка."
     }
   },
   {
@@ -21,7 +19,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Xenofly Bug",
+      "Eng": "Xenofly",
       "Rus": "Ксеномух"
     }
   }

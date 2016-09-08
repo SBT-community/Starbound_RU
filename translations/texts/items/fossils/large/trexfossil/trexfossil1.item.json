@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/fossils/large/trexfossil/trexfossil1.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dinosaur once native to Earth, spread across the stars by overeager scientists.",
+      "Rus": "Динозавр земного происхождения, распространился по галактике благодаря неосторожным учёным."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/large/trexfossil/trexfossil1.item": [
         "/description"
       ]
     },
@@ -19,7 +31,7 @@
       ]
     },
     "Texts": {
-      "Eng": "T-Rex Skeleton",
+      "Eng": "T-Rex Fossil",
       "Rus": "Скелет Т-Рекса"
     }
   },
@@ -33,18 +45,6 @@
     "Texts": {
       "Eng": "T-Rex Skull",
       "Rus": "Череп Т-Рекса"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/fossils/large/trexfossil/trexfossil1.item": [
-        "/completeSetDescriptions/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "The label reads, \"A dinosaur once native to Earth, spread across the stars by overeager scientists.\"",
-      "Rus": "Табличка гласит: \"Динозавр земного происхождения, распространился по галактике благодаря неосторожным учёным.\""
     }
   }
 ]

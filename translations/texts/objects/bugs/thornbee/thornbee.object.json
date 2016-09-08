@@ -1,16 +1,14 @@
 [
   {
-    "DeniedAlternatives": [
-      "Этикетка гласит \"Крылья этого колючего товарища остры как бритва.\""
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/bugs/thornbee/thornbee.object": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "The label reads, \"This prickly little fellow has razor sharp wings.\"",
-      "Rus": "Этикетка гласит: \"Крылья этого колючего товарища остры как бритва.\""
+      "Eng": "This prickly little fellow has razor sharp wings.",
+      "Rus": "Крылья этого колючего товарища остры как бритва."
     }
   },
   {
@@ -21,7 +19,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Thornbee Bug",
+      "Eng": "Thornbee",
       "Rus": "Шмель-сенокосец"
     }
   }

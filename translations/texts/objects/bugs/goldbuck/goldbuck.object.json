@@ -3,26 +3,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/bugs/goldbuck/goldbuck.object": [
-        "/shortdescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Goldbuck Bug",
-      "Rus": "Красотел золотистый"
-    }
-  },
-  {
-    "DeniedAlternatives": [
-      "Этикетка гласит \"Очень модный жук, обладающий золотистыми крыльями.\""
-    ],
-    "Files": {
-      "objects/bugs/goldbuck/goldbuck.object": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "The label reads, \"A bug with glistening gold wings, very fancy!\"",
-      "Rus": "Этикетка гласит: \"Очень модный жук, обладающий золотистыми крыльями.\""
+      "Eng": "A bug with glistening gold wings, very fancy!",
+      "Rus": "Очень модный жук, обладающий золотистыми крыльями."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bugs/goldbuck/goldbuck.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Goldbuck",
+      "Rus": "Красотел золотистый"
     }
   }
 ]

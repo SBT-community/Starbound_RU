@@ -498,6 +498,24 @@
     }
   },
   {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/novakid/default/6"
+      ],
+      "dialog/crewmember.config": [
+        "/converse/novakid/default/0"
+      ],
+      "dialog/guard.config": [
+        "/hail/novakid/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Howdy!",
+      "Rus": "Привет!"
+    }
+  },
+  {
     "DeniedAlternatives": [
       "Я принёс подарок, чтобы отблагодарить тебя. Надеюсь, тебе понравится."
     ],
@@ -1669,6 +1687,21 @@
     "Texts": {
       "Eng": "You don't LOOK like Miniknog...",
       "Rus": "Ты не выглядишь как министерский..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/novakid/generic/17"
+      ],
+      "dialog/crewmember.config": [
+        "/converse/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You got a sharp eye. How about a shootin' match between you and I?",
+      "Rus": "Я истосковался по стрельбе. Надеюсь, скоро станет погорячее."
     }
   },
   {

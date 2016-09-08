@@ -7,22 +7,20 @@
       ]
     },
     "Texts": {
-      "Eng": "Sandclown Bug",
+      "Eng": "Sandclown",
       "Rus": "Песчаный клоп"
     }
   },
   {
-    "DeniedAlternatives": [
-      "Этикетка гласит \"Кто проживает в пустыне? Вот он.\""
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/bugs/sandclown/sandclown.object": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "The label reads, \"Who would live in the desert? This clown.\"",
-      "Rus": "Этикетка гласит: \"Кто проживает в пустыне? Вот он.\""
+      "Eng": "Who would live in the desert? This clown.",
+      "Rus": "Кто проживает в пустыне? Вот он."
     }
   }
 ]

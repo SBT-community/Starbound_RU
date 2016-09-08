@@ -7,22 +7,20 @@
       ]
     },
     "Texts": {
-      "Eng": "Dustmoth Bug",
+      "Eng": "Dustmoth",
       "Rus": "Пылеройный мотыль"
     }
   },
   {
-    "DeniedAlternatives": [
-      "Этикетка гласит \"След от этого жука будто осыпается звёздной пылью.\""
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/bugs/dustmoth/dustmoth.object": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "The label reads, \"The trail of a dustmoth looks like stardust.\"",
-      "Rus": "Этикетка гласит: \"След от этого жука будто осыпается звёздной пылью.\""
+      "Eng": "The trail of a dustmoth looks like stardust.",
+      "Rus": "След от этого жука будто осыпается звёздной пылью."
     }
   }
 ]

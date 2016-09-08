@@ -7,22 +7,20 @@
       ]
     },
     "Texts": {
-      "Eng": "Orphanfly Bug",
+      "Eng": "Orphanfly",
       "Rus": "Призрак-подёнка"
     }
   },
   {
-    "DeniedAlternatives": [
-      "Этикетка гласит \"Самое мелкое и жалкое, что я когда-либо видел.\""
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/bugs/orphanfly/orphanfly.object": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "The label reads, \"The smallest and most pathetic bug I've ever seen.\"",
-      "Rus": "Этикетка гласит: \"Самое мелкое и жалкое, что я когда-либо видел.\""
+      "Eng": "The smallest and most pathetic bug I've ever seen.",
+      "Rus": "Самое мелкое и жалкое, что я когда-либо видел."
     }
   }
 ]

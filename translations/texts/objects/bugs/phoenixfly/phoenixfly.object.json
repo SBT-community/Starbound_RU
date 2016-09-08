@@ -7,22 +7,20 @@
       ]
     },
     "Texts": {
-      "Eng": "Phoenixfly Bug",
+      "Eng": "Phoenixfly",
       "Rus": "Геростратов жук"
     }
   },
   {
-    "DeniedAlternatives": [
-      "Этикетка гласит \"Потирая задними лапками, жук сыпет искрами из них.\""
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/bugs/phoenixfly/phoenixfly.object": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "The label reads, \"This bug rubs its legs together to produce tiny sparks.\"",
-      "Rus": "Этикетка гласит: \"Потирая задними лапками, жук сыпет искрами из них.\""
+      "Eng": "This bug rubs its legs together to produce tiny sparks.",
+      "Rus": "Потирая задними лапками, жук сыпет искрами из них."
     }
   }
 ]

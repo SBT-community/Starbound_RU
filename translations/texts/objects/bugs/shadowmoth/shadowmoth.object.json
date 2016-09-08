@@ -3,26 +3,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/bugs/shadowmoth/shadowmoth.object": [
-        "/shortdescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Shadowmoth Bug",
-      "Rus": "Призрачный мотылёк"
-    }
-  },
-  {
-    "DeniedAlternatives": [
-      "Этикетка гласит \"Тяжело заметить, так как они черны как сама ночь.\""
-    ],
-    "Files": {
-      "objects/bugs/shadowmoth/shadowmoth.object": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "The label reads, \"Hard to spot, these bugs are as black as night.\"",
-      "Rus": "Этикетка гласит: \"Тяжело заметить, так как они черны как сама ночь.\""
+      "Eng": "Hard to spot, these bugs are as black as night.",
+      "Rus": "Тяжело заметить, так как они черны как сама ночь."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bugs/shadowmoth/shadowmoth.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shadowmoth",
+      "Rus": "Призрачный мотылёк"
     }
   }
 ]
