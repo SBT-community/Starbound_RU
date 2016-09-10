@@ -15,6 +15,19 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/threatLevelToText/default/7",
+        "/threatLevelToText/default/8",
+        "/threatLevelToText/default/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "***"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/guiConfig/fuelCost/value"
       ]
     },
@@ -367,6 +380,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/threatLevelToText/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dangerous"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/dayLengthText/label/text"
       ]
     },
@@ -423,6 +447,17 @@
     "Texts": {
       "Eng": "Dust Storms",
       "Rus": "Песчаные бури"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/threatLevelToText/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Extreme"
     }
   },
   {
@@ -561,6 +596,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/threatLevelToText/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inconceivable"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/displayOres/3/displayName"
       ]
     },
@@ -623,6 +669,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/threatLevelToText/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Low"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/displayWeathers/glowingrain/displayName"
       ]
     },
@@ -641,6 +698,17 @@
     "Texts": {
       "Eng": "Mist",
       "Rus": "Дымка"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/threatLevelToText/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Moderate"
     }
   },
   {
@@ -737,6 +805,17 @@
     "Texts": {
       "Eng": "Readings indicate the landing site is not unfavourable - the area is safe, and lavish with both flora and fauna. A ^#76fe68;lush ^white;and hospitable place.",
       "Rus": "Показания сканера говорят, что зона посадки безопасна и насыщена различной флорой и фауной. ^#76fe68;Изобильное^white; и гостеприимное место."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/threatLevelToText/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Risky"
     }
   },
   {
@@ -1269,6 +1348,28 @@
     "Texts": {
       "Eng": "Tungsten",
       "Rus": "Вольфрам"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/threatLevelToText/moon/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unknown"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/threatLevelToText/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unreal"
     }
   },
   {
