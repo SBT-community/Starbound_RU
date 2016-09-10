@@ -17,7 +17,7 @@ foi = {
     "^safe/.+$", "^helpme/.+$", "^final/.+$", "^worldTypeToDescription/.+$",
     "^planetTypeToDescription/.+$", "^starmapTypeDescription/.+$", "^.+Text(/value)?$",
     "^gui.+/value$", ".+Title$", "^paneLayout/.+/value$", "areYouSure/value$",
-    "^threatLevelToText/[0-9]+$",  "^blueprintUnlock$",
+    "^threatLevelToText/.+$",  "^blueprintUnlock$",
     "^blueprintAlreadyKnown$", "^rotTimeDescriptions/.+/1$", "^messages/[a-zA-Z]+$",
     ".+[mM]essage$", "^.+/hint$",
     "^defaultPetNameLabel$", ".*descriptions/[0-9]+$", "^(un)?trackLabel$",
