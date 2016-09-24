@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Разозоённо. Прочие Радужные Плуты должны услышать об этом безобразии!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/colourful.config": [
         "/severe/default/default/0"
@@ -10,13 +8,11 @@
     },
     "Texts": {
       "Eng": "Angry. The other Rainbow Rogues shall hear about this disgrace!",
-      "Rus": "Разозлёно. Прочие Разноцветные Негодяи должны услышать об этом безобразии!"
+      "Rus": "Разозлёно. Прочие Радужные Плуты должны услышать об этом безобразии!"
     }
   },
   {
-    "DeniedAlternatives": [
-      "Благодарно. Вот подарок, от имени Гильдии Радужных Плутов."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/colourful.config": [
         "/rent/default/default/0"
@@ -24,7 +20,7 @@
     },
     "Texts": {
       "Eng": "Appreciative. Here is a gift, from the Guild of the Rainbow Rogues.",
-      "Rus": "Благодарно. Вот подарок, от имени Гильдии Разноцветных Негодяев."
+      "Rus": "Благодарно. Вот твой подарок, от имени Гильдии Радужных Плутов."
     }
   },
   {
@@ -52,9 +48,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Хвастливо. Гильдия Радужных Плутов с лёгкостью оградит тебя от вреда!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/colourful.config": [
         "/converse/default/default/0"
@@ -62,13 +56,11 @@
     },
     "Texts": {
       "Eng": "Boastful. The Guild of the Rainbow Rogues shall keep you from harm with ease!",
-      "Rus": "Хвастливо. Гильдия Разноцветных Негодяев с лёгкостью оградит тебя от вреда!"
+      "Rus": "Хвастливо. Гильдия Радужных Плутов с лёгкостью оградит тебя от вреда! "
     }
   },
   {
-    "DeniedAlternatives": [
-      "Мужественно. Я, заверенный Радужный Плут, буду пресекать любые беззакония!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/colourful.config": [
         "/converse/default/default/1"
@@ -76,7 +68,7 @@
     },
     "Texts": {
       "Eng": "Courageous. I, a certified Rainbow Rogue, shall patrol for any wrong-doers!",
-      "Rus": "Мужественно. Я, настоящий Разноцветный Негодяй, буду пресекать любые беззакония!"
+      "Rus": "Мужественно. Я, настоящий Радужный Плут, буду пресекать любые беззакония!"
     }
   },
   {
@@ -88,7 +80,7 @@
     },
     "Texts": {
       "Eng": "Courageous. It is time to show the power of the Rainbow Rogues!",
-      "Rus": "Храбро. Пора показать всю мощь Разноцветных Негодяев!"
+      "Rus": "Храбро. Пора показать всю мощь Радужных Плутов!"
     }
   },
   {
@@ -104,9 +96,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Отчаянно. Я должен уйти - другие Радужные Плуты услышат об этом!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/colourful.config": [
         "/final/default/default/0"
@@ -114,7 +104,7 @@
     },
     "Texts": {
       "Eng": "Desperate. I must leave - The other Rainbow Rogues shall hear of this!",
-      "Rus": "Отчаянно. Я должен уйти - другие Разноцветные Негодяи услышат об этом!"
+      "Rus": "Отчаянно. Я должен уйти - другие Радужные Плуты услышат об этом! "
     }
   },
   {
@@ -138,7 +128,7 @@
     },
     "Texts": {
       "Eng": "Fearless. No one can defeat a Rainbow Rogue in a duel!",
-      "Rus": "Смело. Никто не справится с Разноцветными Негодяями!"
+      "Rus": "Смело. Никто не справится с Радужными Плутами!"
     }
   },
   {
@@ -236,7 +226,7 @@
     },
     "Texts": {
       "Eng": "Happy. I shall send word of this victory to my fellow Rainbow Rogues!",
-      "Rus": "Радостно. Я пошлю весть о победе Разноцветным Негодяям!"
+      "Rus": "Радостно. Я пошлю весть о победе Радужным Плутам!"
     }
   },
   {
@@ -248,7 +238,7 @@
     },
     "Texts": {
       "Eng": "Hostile. What fool brings conflict to a Rainbow Rogue?",
-      "Rus": "Враждебно. Каким дураком нужно быть, чтобы встать на пути у Разноцветных Негодяев?"
+      "Rus": "Враждебно. Каким дураком нужно быть, чтобы встать на пути у Радужных Плутов?"
     }
   },
   {
@@ -392,7 +382,7 @@
     },
     "Texts": {
       "Eng": "Victorious. Another victory for the Rainbow Rogues!",
-      "Rus": "Радостно. Еще одна победа Разноцветных Негодяев!"
+      "Rus": "Радостно. Еще одна победа Радужных Плутов!"
     }
   },
   {
@@ -404,7 +394,7 @@
     },
     "Texts": {
       "Eng": "Welcoming. What need have you of a Rainbow Rogue like myself?",
-      "Rus": "Приветственно. Что тебе нужно от самого Радужного Плута?"
+      "Rus": "Приветственно. Что тебе нужно от Радужного Плута?"
     }
   }
 ]
