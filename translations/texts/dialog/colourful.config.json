@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Разозоённо. Прочие Радужные Плуты должны услышать об этом безобразии!"
+    ],
     "Files": {
       "dialog/colourful.config": [
         "/severe/default/default/0"
@@ -8,11 +10,13 @@
     },
     "Texts": {
       "Eng": "Angry. The other Rainbow Rogues shall hear about this disgrace!",
-      "Rus": "Разозоённо. Прочие Радужные Плуты должны услышать об этом безобразии!"
+      "Rus": "Разозлёно. Прочие Разноцветные Негодяи должны услышать об этом безобразии!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Благодарно. Вот подарок, от имени Гильдии Радужных Плутов."
+    ],
     "Files": {
       "dialog/colourful.config": [
         "/rent/default/default/0"
@@ -20,7 +24,7 @@
     },
     "Texts": {
       "Eng": "Appreciative. Here is a gift, from the Guild of the Rainbow Rogues.",
-      "Rus": "Благодарно. Вот подарок, от имени Гильдии Радужных Плутов."
+      "Rus": "Благодарно. Вот подарок, от имени Гильдии Разноцветных Негодяев."
     }
   },
   {
@@ -48,7 +52,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Хвастливо. Гильдия Радужных Плутов с лёгкостью оградит тебя от вреда!"
+    ],
     "Files": {
       "dialog/colourful.config": [
         "/converse/default/default/0"
@@ -56,11 +62,13 @@
     },
     "Texts": {
       "Eng": "Boastful. The Guild of the Rainbow Rogues shall keep you from harm with ease!",
-      "Rus": "Хвастливо. Гильдия Радужных Плутов с лёгкостью оградит тебя от вреда!"
+      "Rus": "Хвастливо. Гильдия Разноцветных Негодяев с лёгкостью оградит тебя от вреда!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Мужественно. Я, заверенный Радужный Плут, буду пресекать любые беззакония!"
+    ],
     "Files": {
       "dialog/colourful.config": [
         "/converse/default/default/1"
@@ -68,7 +76,7 @@
     },
     "Texts": {
       "Eng": "Courageous. I, a certified Rainbow Rogue, shall patrol for any wrong-doers!",
-      "Rus": "Мужественно. Я, заверенный Радужный Плут, буду пресекать любые беззакония!"
+      "Rus": "Мужественно. Я, настоящий Разноцветный Негодяй, буду пресекать любые беззакония!"
     }
   },
   {
@@ -96,7 +104,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Отчаянно. Я должен уйти - другие Радужные Плуты услышат об этом!"
+    ],
     "Files": {
       "dialog/colourful.config": [
         "/final/default/default/0"
@@ -104,7 +114,7 @@
     },
     "Texts": {
       "Eng": "Desperate. I must leave - The other Rainbow Rogues shall hear of this!",
-      "Rus": "Отчаянно. Я должен уйти - другие Радужные Плуты услышат об этом!"
+      "Rus": "Отчаянно. Я должен уйти - другие Разноцветные Негодяи услышат об этом!"
     }
   },
   {
@@ -192,7 +202,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Разочарованно. Я заслуживаю более хороших условий."
+    ],
     "Files": {
       "dialog/colourful.config": [
         "/severe/default/default/1"
@@ -200,7 +212,7 @@
     },
     "Texts": {
       "Eng": "Frustrated. Someone like me does not deserve such conditions.",
-      "Rus": "Разочарованно. Я заслуживаю более хороших условий."
+      "Rus": "Разочарованно. Мне нужны лучшие условия."
     }
   },
   {
@@ -307,7 +319,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Supportive. Make our foe feel justice!"
+      "Eng": "Supportive. Make our foe feel justice!",
+      "Rus": "Ободряюще. Покажем им силу правосудия!"
     }
   },
   {
@@ -318,7 +331,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Surprised. I thought our enemy was prepared to battle?"
+      "Eng": "Surprised. I thought our enemy was prepared to battle?",
+      "Rus": "Удивленно. Я думал, мой враг готов к битве."
     }
   },
   {
@@ -329,7 +343,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Surprised. The foe has averted my rainbow gaze!"
+      "Eng": "Surprised. The foe has averted my rainbow gaze!",
+      "Rus": "Удивленно. Враг смог ускользнуть от моего взора!"
     }
   },
   {
@@ -376,7 +391,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Victorious. Another victory for the Rainbow Rogues!"
+      "Eng": "Victorious. Another victory for the Rainbow Rogues!",
+      "Rus": "Радостно. Еще одна победа Разноцветных Негодяев!"
     }
   },
   {
