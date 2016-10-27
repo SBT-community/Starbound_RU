@@ -8,7 +8,7 @@
     },
     "Texts": {
       "Eng": "Angry. The other Rainbow Rogues shall hear about this disgrace!",
-      "Rus": "Разозоённо. Прочие Радужные Плуты должны услышать об этом безобразии!"
+      "Rus": "Разозлёно. Прочие Радужные Плуты должны услышать об этом безобразии!"
     }
   },
   {
@@ -20,7 +20,7 @@
     },
     "Texts": {
       "Eng": "Appreciative. Here is a gift, from the Guild of the Rainbow Rogues.",
-      "Rus": "Благодарно. Вот подарок, от имени Гильдии Радужных Плутов."
+      "Rus": "Благодарно. Вот твой подарок, от имени Гильдии Радужных Плутов."
     }
   },
   {
@@ -56,7 +56,7 @@
     },
     "Texts": {
       "Eng": "Boastful. The Guild of the Rainbow Rogues shall keep you from harm with ease!",
-      "Rus": "Хвастливо. Гильдия Радужных Плутов с лёгкостью оградит тебя от вреда!"
+      "Rus": "Хвастливо. Гильдия Радужных Плутов с лёгкостью оградит тебя от вреда! "
     }
   },
   {
@@ -68,7 +68,7 @@
     },
     "Texts": {
       "Eng": "Courageous. I, a certified Rainbow Rogue, shall patrol for any wrong-doers!",
-      "Rus": "Мужественно. Я, заверенный Радужный Плут, буду пресекать любые беззакония!"
+      "Rus": "Мужественно. Я, настоящий Радужный Плут, буду пресекать любые беззакония!"
     }
   },
   {
@@ -80,7 +80,7 @@
     },
     "Texts": {
       "Eng": "Courageous. It is time to show the power of the Rainbow Rogues!",
-      "Rus": "Храбро. Пора показать всю мощь Разноцветных Негодяев!"
+      "Rus": "Храбро. Пора показать всю мощь Радужных Плутов!"
     }
   },
   {
@@ -104,7 +104,7 @@
     },
     "Texts": {
       "Eng": "Desperate. I must leave - The other Rainbow Rogues shall hear of this!",
-      "Rus": "Отчаянно. Я должен уйти - другие Радужные Плуты услышат об этом!"
+      "Rus": "Отчаянно. Я должен уйти - другие Радужные Плуты услышат об этом! "
     }
   },
   {
@@ -128,7 +128,7 @@
     },
     "Texts": {
       "Eng": "Fearless. No one can defeat a Rainbow Rogue in a duel!",
-      "Rus": "Смело. Никто не справится с Разноцветными Негодяями!"
+      "Rus": "Смело. Никто не справится с Радужными Плутами!"
     }
   },
   {
@@ -152,7 +152,7 @@
     },
     "Texts": {
       "Eng": "Foolhardy. This shall not take long!",
-      "Rus": ""
+      "Rus": "Храбро. Это не займет много времени!"
     }
   },
   {
@@ -176,7 +176,7 @@
     },
     "Texts": {
       "Eng": "Frustrated. Come closer so I may strike you with my Rainbow sword!",
-      "Rus": ""
+      "Rus": "Недовольно. Вернись и я покажу тебе всю мощь моего меча!"
     }
   },
   {
@@ -188,11 +188,13 @@
     },
     "Texts": {
       "Eng": "Frustrated. If only I brought a Rainbow Crossbow with me!",
-      "Rus": ""
+      "Rus": "Недовольно. Тебе повезло, что я забыл взять арбалет!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Разочарованно. Я заслуживаю более хороших условий."
+    ],
     "Files": {
       "dialog/colourful.config": [
         "/severe/default/default/1"
@@ -200,7 +202,7 @@
     },
     "Texts": {
       "Eng": "Frustrated. Someone like me does not deserve such conditions.",
-      "Rus": "Разочарованно. Я заслуживаю более хороших условий."
+      "Rus": "Разочарованно. Мне нужны лучшие условия."
     }
   },
   {
@@ -212,7 +214,7 @@
     },
     "Texts": {
       "Eng": "Gallant. The spectrum of justice strikes!",
-      "Rus": ""
+      "Rus": "Доблестно. Тебя настигнет спектр правосудия!"
     }
   },
   {
@@ -224,7 +226,7 @@
     },
     "Texts": {
       "Eng": "Happy. I shall send word of this victory to my fellow Rainbow Rogues!",
-      "Rus": ""
+      "Rus": "Радостно. Я пошлю весть о победе Радужным Плутам!"
     }
   },
   {
@@ -236,7 +238,7 @@
     },
     "Texts": {
       "Eng": "Hostile. What fool brings conflict to a Rainbow Rogue?",
-      "Rus": ""
+      "Rus": "Враждебно. Каким дураком нужно быть, чтобы встать на пути у Радужных Плутов?"
     }
   },
   {
@@ -248,7 +250,7 @@
     },
     "Texts": {
       "Eng": "Inspired. To the stage! Let the battle commence!",
-      "Rus": ""
+      "Rus": "Вдохновленно. Да начнется битва!"
     }
   },
   {
@@ -272,7 +274,7 @@
     },
     "Texts": {
       "Eng": "Pleased. The spectrum of justice has succeeded once again!",
-      "Rus": ""
+      "Rus": "Удовлетворенно. Спектр правосудия еще раз победил!"
     }
   },
   {
@@ -284,7 +286,7 @@
     },
     "Texts": {
       "Eng": "Supportive. Bring a spectrum of defeat upon our foe!",
-      "Rus": ""
+      "Rus": "Ободряюще. Несите спектр правосудия нашим врагам!"
     }
   },
   {
@@ -296,7 +298,7 @@
     },
     "Texts": {
       "Eng": "Supportive. Defeat the forces that threaten us!",
-      "Rus": ""
+      "Rus": "Ободряюще. Уничтожить всех врагов!"
     }
   },
   {
@@ -307,7 +309,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Supportive. Make our foe feel justice!"
+      "Eng": "Supportive. Make our foe feel justice!",
+      "Rus": "Ободряюще. Покажем им силу правосудия!"
     }
   },
   {
@@ -318,7 +321,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Surprised. I thought our enemy was prepared to battle?"
+      "Eng": "Surprised. I thought our enemy was prepared to battle?",
+      "Rus": "Удивленно. Я думал, мой враг готов к битве."
     }
   },
   {
@@ -329,7 +333,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Surprised. The foe has averted my rainbow gaze!"
+      "Eng": "Surprised. The foe has averted my rainbow gaze!",
+      "Rus": "Удивленно. Враг смог ускользнуть от моего взора!"
     }
   },
   {
@@ -376,7 +381,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Victorious. Another victory for the Rainbow Rogues!"
+      "Eng": "Victorious. Another victory for the Rainbow Rogues!",
+      "Rus": "Радостно. Еще одна победа Радужных Плутов!"
     }
   },
   {
@@ -388,7 +394,7 @@
     },
     "Texts": {
       "Eng": "Welcoming. What need have you of a Rainbow Rogue like myself?",
-      "Rus": "Приветственно. Что тебе нужно от самого Радужного Плута?"
+      "Rus": "Приветственно. Что тебе нужно от Радужного Плута?"
     }
   }
 ]

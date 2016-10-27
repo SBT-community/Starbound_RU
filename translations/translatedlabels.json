@@ -353,12 +353,12 @@
     },
     "dialog": {
       "airship.config.json": 46,
-      "alpaca.config.json": 41,
+      "alpaca.config.json": 43,
       "arrivedhome.config.json": 54,
       "clues.config.json": 50,
-      "colourful.config.json": 19,
+      "colourful.config.json": 33,
       "combat.config.json": 169,
-      "converse.config.json": 216,
+      "converse.config.json": 228,
       "crewmember.config.json": 39,
       "cultist.config.json": 31,
       "deadbeat.config.json": 22,
@@ -399,7 +399,7 @@
         "ai.config.json": 15
       },
       "chat": {
-        "chat.config.json": 3
+        "chat.config.json": 5
       },
       "chests": {
         "chest1.config.json": 1,
@@ -414,7 +414,7 @@
         "shared_.config.json": 2
       },
       "cockpit": {
-        "cockpit.config.json": 122
+        "cockpit.config.json": 123
       },
       "confirmation": {
         "hiremercenaryconfirmation.config.json": 2,
@@ -450,7 +450,7 @@
         "refinery.config.json": 2
       },
       "optionsmenu": {
-        "optionsmenu.config.json": 13
+        "optionsmenu.config.json": 14
       },
       "questtracker": {
         "questtracker.config.json": 1
@@ -460,7 +460,7 @@
           "ancientconsolegui.config.json": 3
         },
         "collections": {
-          "collectionsgui.config.json": 0
+          "collectionsgui.config.json": 4
         },
         "cropshipper": {
           "cropshippergui.config.json": 2
@@ -491,7 +491,7 @@
       "tooltips": {
         "eppaugment.tooltip.json": 1,
         "filledcapturepod.tooltip.json": 1,
-        "fishingupgrade.tooltip.json": 0,
+        "fishingupgrade.tooltip.json": 1,
         "petcollar.tooltip.json": 1
       },
       "warping": {
@@ -546,7 +546,7 @@
         "wiringstation.config.json": 2
       }
     },
-    "interface.config.json": 17,
+    "interface.config.json": 18,
     "interface.json": 6,
     "items": {
       "active": {
@@ -3385,7 +3385,7 @@
         "yellowflashlight.flashlight.json": 1
       }
     },
-    "items.json": 3,
+    "items.json": 4,
     "liquids": {
       "corelava.liquid.json": 1,
       "fuel.liquid.json": 1,
@@ -4670,7 +4670,7 @@
           "powerbooster.object.json": 9
         },
         "sawblade2": {
-          "sawblade2.object.json": 0
+          "sawblade2.object.json": 2
         },
         "shared_ancient": {
           "shared_console.object.json": 1
@@ -4688,7 +4688,7 @@
           "shared_hologram.json": 2
         },
         "shared_monolithstatue": {
-          "shared_monolithstatue.json": 2
+          "shared_monolithstatue.json": 8
         },
         "speedbooster": {
           "speedbooster.object.json": 9
@@ -12389,7 +12389,7 @@
           "capturablemonsters.config.json": 0,
           "dungeonitems.config.json": 11,
           "guardthemes.config.json": 5,
-          "hatadjectives.config.json": 46,
+          "hatadjectives.config.json": 48,
           "monsterthreats.config.json": 13,
           "npcthreats.config.json": 17,
           "shared_lemonster.json": 2,
