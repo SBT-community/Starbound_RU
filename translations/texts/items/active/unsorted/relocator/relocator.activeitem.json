@@ -1,24 +1,32 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Вмещает до 3 дружественных существ, находящихся анабиозе, чтобы безопасно переместить их.",
+      "Храните до 3 дружелюбных существ, находящихся анабиозе, чтобы безопасно переместить их."
+    ],
     "Files": {
       "items/active/unsorted/relocator/relocator.activeitem": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "Holds up to 3 friendly creatures in stasis in order to safely relocate them."
+      "Eng": "Holds up to 3 friendly creatures in stasis in order to safely relocate them.",
+      "Rus": ""
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Средство перемещения",
+      "Перемещатель"
+    ],
     "Files": {
       "items/active/unsorted/relocator/relocator.activeitem": [
         "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Relocator"
+      "Eng": "Relocator",
+      "Rus": ""
     }
   }
 ]
