@@ -1,13 +1,16 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Дюрасталевая удочка для рыбалки в экстремальных условиях."
+    ],
     "Files": {
       "items/active/fishingrod/durablefishingrod.activeitem": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "A durasteel rod for fishing in extreme environments."
+      "Eng": "A durasteel rod for fishing in extreme environments.",
+      "Rus": ""
     }
   },
   {
@@ -18,7 +21,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Durable Fishing Rod"
+      "Eng": "Durable Fishing Rod",
+      "Rus": "Прочная удочка"
     }
   }
 ]

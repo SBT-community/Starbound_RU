@@ -551,7 +551,7 @@
     "items": {
       "active": {
         "fishingrod": {
-          "durablefishingrod.activeitem.json": 0,
+          "durablefishingrod.activeitem.json": 1,
           "fishingrod.activeitem.json": 0
         },
         "fossil": {
@@ -2704,7 +2704,7 @@
           "shared_bombcollar.augment.json": 1
         }
       },
-      "categories.config.json": 77,
+      "categories.config.json": 79,
       "coins": {
         "money.coinitem.json": 2
       },
@@ -4049,7 +4049,7 @@
           "nutmidge.monstertype.json": 1
         },
         "nutmidgeling": {
-          "nutmidgeling.monstertype.json": 0
+          "nutmidgeling.monstertype.json": 2
         },
         "oogler": {
           "oogler.monstertype.json": 2
