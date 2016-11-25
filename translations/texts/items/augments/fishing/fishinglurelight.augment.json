@@ -1,13 +1,16 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Приманка с ярким внутренним светом для ночной рыбалки."
+    ],
     "Files": {
       "items/augments/fishing/fishinglurelight.augment": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "A lure with a bright internal light for night fishing."
+      "Eng": "A lure with a bright internal light for night fishing.",
+      "Rus": "Наживка с ярким внутренним источником света для ночной рыбалки."
     }
   },
   {
@@ -18,7 +21,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Illuminated Lure"
+      "Eng": "Illuminated Lure",
+      "Rus": "Светящаяся наживка"
     }
   }
 ]
