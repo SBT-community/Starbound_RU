@@ -2363,7 +2363,7 @@
     },
     "Texts": {
       "Eng": "Cautrious.",
-      "Rus": ""
+      "Rus": "Осторожно."
     }
   },
   {
@@ -5269,7 +5269,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Distracted."
+      "Eng": "Distracted.",
+      "Rus": "Отвлеченно."
     }
   },
   {
@@ -5280,7 +5281,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Distraught."
+      "Eng": "Distraught.",
+      "Rus": "Безумно."
     }
   },
   {
@@ -5493,7 +5495,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Dubious."
+      "Eng": "Dubious.",
+      "Rus": "Сомнительно."
     }
   },
   {
@@ -5617,7 +5620,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Ecstatic."
+      "Eng": "Ecstatic.",
+      "Rus": "Восторженно."
     }
   },
   {
@@ -5675,7 +5679,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Elated."
+      "Eng": "Elated.",
+      "Rus": "Ликующе."
     }
   },
   {
@@ -5707,7 +5712,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Emotional."
+      "Eng": "Emotional.",
+      "Rus": "Взволнованно."
     }
   },
   {
@@ -5741,7 +5747,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Enamored."
+      "Eng": "Enamored.",
+      "Rus": "Восторженно."
     }
   },
   {
@@ -5796,7 +5803,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Encouraged."
+    ],
     "Files": {
       "objects/spawner/spawners/spawner_glitch.object": [
         "/glitchDescription/glitchEmote"
@@ -5804,7 +5813,7 @@
     },
     "Texts": {
       "Eng": "Encouraged.",
-      "Rus": "Encouraged."
+      "Rus": "Ободряюще."
     }
   },
   {
