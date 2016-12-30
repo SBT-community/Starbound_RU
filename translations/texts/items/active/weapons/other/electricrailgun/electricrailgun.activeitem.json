@@ -10,5 +10,16 @@
       "Eng": "Tesla's Wrath",
       "Rus": "Гнев Теслы"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/electricrailgun/electricrailgun.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tesla's Wrath ^yellow;^reset;"
+    }
   }
 ]

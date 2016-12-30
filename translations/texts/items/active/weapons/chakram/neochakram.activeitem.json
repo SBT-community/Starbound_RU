@@ -22,5 +22,16 @@
       "Eng": "Neo Chakram",
       "Rus": "Неоновый Чакрам"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/chakram/neochakram.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neo Chakram ^yellow;^reset;"
+    }
   }
 ]

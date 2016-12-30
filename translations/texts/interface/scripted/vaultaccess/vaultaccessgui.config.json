@@ -1,0 +1,68 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/vaultaccess/vaultaccessgui.config": [
+        "/gui/lblTime/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "00:00"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/vaultaccess/vaultaccessgui.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "An extradimensional sanctuary"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/vaultaccess/vaultaccessgui.config": [
+        "/gui/closeVaultButton/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Close Vault"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/vaultaccess/vaultaccessgui.config": [
+        "/gui/enterVaultButton/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enter Vault"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/vaultaccess/vaultaccessgui.config": [
+        "/gui/lblTimeDescription/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "TIME REMAINING:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/vaultaccess/vaultaccessgui.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vault Gate"
+    }
+  }
+]

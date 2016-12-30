@@ -22,5 +22,16 @@
       "Eng": "Molten Boomerang",
       "Rus": "Огненный бумеранг"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/boomerang/fireboomerang.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Molten Boomerang ^yellow;^reset;"
+    }
   }
 ]

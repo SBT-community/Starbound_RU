@@ -112,7 +112,34 @@
       "objects/generic/pleaseget/pleaseget.object": [
         "/description"
       ],
-      "objects/wired/invisiblesound/invisiblesound.object": [
+      "objects/spawner/invisiblemonsterspawner.object": [
+        "/description"
+      ],
+      "objects/wired/logic/invisibleand.object": [
+        "/description"
+      ],
+      "objects/wired/logic/invisiblecountdowntimer.object": [
+        "/description"
+      ],
+      "objects/wired/logic/invisibledelay.object": [
+        "/description"
+      ],
+      "objects/wired/logic/invisibledlatch.object": [
+        "/description"
+      ],
+      "objects/wired/logic/invisiblenot.object": [
+        "/description"
+      ],
+      "objects/wired/logic/invisibleor.object": [
+        "/description"
+      ],
+      "objects/wired/logic/invisibletimer.object": [
+        "/description"
+      ],
+      "objects/wired/logic/invisiblexor.object": [
+        "/description"
+      ],
+      "objects/wired/persistentswitch/invisiblepersistentswitch.object": [
         "/description"
       ],
       "objects/wired/proximitysensor/invisibleproximitysensor.object": [
@@ -850,6 +877,21 @@
     "Texts": {
       "Eng": "Scaveran",
       "Rus": "Скаверан"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/keytrader/keytradergui.config": [
+        "/gui/lblTradeItemName/value"
+      ],
+      "items/generic/crafting/monsterdrops/scorchedcore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scorched Core",
+      "Rus": "Выжженное ядро"
     }
   },
   {

@@ -22,5 +22,16 @@
       "Eng": "Intestine Whip",
       "Rus": "Кнут из кишок"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/whip/intestinewhip.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intestine Whip ^yellow;^reset;"
+    }
   }
 ]

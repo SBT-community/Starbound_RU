@@ -8,8 +8,14 @@
       "interface/scripted/techupgrade/techupgradegui.config": [
         "/gui/lblChipsCount/value"
       ],
+      "interface/scripted/vaultconsole/vaultconsolegui.config": [
+        "/gui/costLabel/value"
+      ],
       "interface/scripted/vehiclerepair/vehiclerepairgui.config": [
         "/gui/chipCost/value"
+      ],
+      "interface/scripted/weaponupgrade/weaponupgradegui.config": [
+        "/gui/essenceCost/value"
       ]
     },
     "Texts": {

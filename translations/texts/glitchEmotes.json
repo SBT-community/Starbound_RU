@@ -479,6 +479,24 @@
       "items/materials/tribalplatform.matitem": [
         "/glitchdescription/glitchEmote"
       ],
+      "objects/ancient/ancientpot1/ancientpot1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ancient/ancientpot2/ancientpot2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ancient/ancientpot3/ancientpot3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ancient/ancientpot4/ancientpot4.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ancient/ancientpot5/ancientpot5.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ancient/ancientpot6/ancientpot6.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/ancient/monolithgate/monolithgate.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -1505,6 +1523,9 @@
       ],
       "items/materials/obsidian.matitem": [
         "/glitchdescription/glitchEmote"
+      ],
+      "objects/ancientvault/terraforge/terraforge.object": [
+        "/glitchDescription/glitchEmote"
       ],
       "objects/outpost/signstore/signstore.object": [
         "/glitchDescription/glitchEmote"
@@ -3614,6 +3635,9 @@
       "objects/ancient/ancientstriplight9/ancientstriplight9.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/ancient/ancientswitchhidden/ancientswitchhidden.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/ancient/monolithstatue1/monolithstatue1.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -4845,6 +4869,24 @@
       "dialog/oremerchant.config": [
         "/tagCriteria/glitch/default/1/glitchEmote"
       ],
+      "objects/ancient/ancientmural/ancientmural1/ancientmural1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ancient/ancientmural/ancientmural2/ancientmural2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ancient/ancientmural/ancientmural3/ancientmural3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ancient/ancientmural/ancientmural4/ancientmural4.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ancient/ancientmural/ancientmural5/ancientmural5.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ancient/ancientmural/ancientmural6/ancientmural6.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/floran/planttorturedevice/planttorturedevice.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -4874,7 +4916,7 @@
       "Отвратительно."
     ],
     "Files": {
-      "biomes/surface_detached/flesh/dripblood1/dripblood1.object": [
+      "objects/biome/flesh/dripblood1/dripblood1.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/biome/hive/hivechest/hivechest.object": [
@@ -4896,9 +4938,6 @@
       "С отвращением."
     ],
     "Files": {
-      "biomes/underground_detached/slimecaves/dripslime1/dripslime1.object": [
-        "/glitchDescription/glitchEmote"
-      ],
       "dialog/converse.config": [
         "/converse/glitch/human/0/glitchEmote"
       ],
@@ -4948,6 +4987,9 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/biome/slime/ceilingslime3/ceilingslime3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/biome/slimecave/dripslime1/dripslime1.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/biome/slimecave/slimeblob1/slimeblob1.object": [
@@ -6444,6 +6486,9 @@
       "items/materials/shadowblock.matitem": [
         "/glitchdescription/glitchEmote"
       ],
+      "objects/ancient/ancientbust/ancientbust.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/floran/plantbiolight/plantbiolight.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -7785,6 +7830,9 @@
       "objects/ancient/ancientsmallconsole/ancientsmallconsole.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/ancientvault/weaponupgradeanvil/weaponupgradeanvil.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/apex/apexcomfychair/apexcomfychair.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -7798,6 +7846,9 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/apex/grandfatherclock/grandfatherclock.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/apex/sandbags/sandbags.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/arttrophies/paintingapegothic/paintingapegothic.object": [
@@ -8700,6 +8751,9 @@
       ],
       "items/materials/shadowspikeblock.matitem": [
         "/glitchdescription/glitchEmote"
+      ],
+      "objects/ancient/ancientpressureplate/ancientpressureplate.object": [
+        "/glitchDescription/glitchEmote"
       ],
       "objects/apex/apexradio/apexradio.object": [
         "/glitchDescription/glitchEmote"
@@ -12960,17 +13014,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/generic/foodbowl/foodbowl.object": [
-        "/glitchDescription/glitchEmote"
-      ]
-    },
-    "Texts": {
-      "Eng": "Responsible."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "quests/generated/templates/protect.questtemplate": [
         "/scriptConfig/generatedText/text/default/glitch/1/glitchEmote"
       ],
@@ -15768,7 +15811,7 @@
       "items/materials/cheapwallpaper.matitem": [
         "/glitchdescription/glitchEmote"
       ],
-      "objects/ancient/ancientbigchest/ancientbigchest.object": [
+      "objects/ancient/essencechest/essencechest.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/biome/scorchedcity/scorchedbench/scorchedbench.object": [

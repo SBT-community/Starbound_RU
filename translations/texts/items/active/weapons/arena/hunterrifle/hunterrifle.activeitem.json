@@ -22,5 +22,16 @@
       "Eng": "Vintage Scoped Rifle",
       "Rus": "Старая снайперская винтовка"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/arena/hunterrifle/hunterrifle.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vintage Scoped Rifle ^yellow;^reset;"
+    }
   }
 ]

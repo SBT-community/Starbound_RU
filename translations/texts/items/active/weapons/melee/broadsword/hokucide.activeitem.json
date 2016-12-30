@@ -22,5 +22,16 @@
       "Eng": "Hokucide",
       "Rus": "Хайкуцид"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/hokucide.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hokucide ^yellow;^reset;"
+    }
   }
 ]

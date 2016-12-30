@@ -3,60 +3,40 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/rust/rustbush1/rustbush1.object": [
-        "/avianDescription"
+        "/description"
       ],
       "objects/biome/rust/rustbush2/rustbush2.object": [
-        "/avianDescription"
+        "/description"
       ],
       "objects/biome/rust/rustbush3/rustbush3.object": [
-        "/avianDescription"
+        "/description"
       ],
       "objects/biome/rust/rustbush4/rustbush4.object": [
-        "/avianDescription"
+        "/description"
       ]
     },
     "Texts": {
-      "Eng": "A corroded, rusty bush."
+      "Eng": "A cluster of rusted metal. Watch out for sharp edges."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/rust/rustbush1/rustbush1.object": [
-        "/humanDescription"
+        "/avianDescription"
       ],
       "objects/biome/rust/rustbush2/rustbush2.object": [
-        "/humanDescription"
+        "/avianDescription"
       ],
       "objects/biome/rust/rustbush3/rustbush3.object": [
-        "/humanDescription"
+        "/avianDescription"
       ],
       "objects/biome/rust/rustbush4/rustbush4.object": [
-        "/humanDescription"
+        "/avianDescription"
       ]
     },
     "Texts": {
-      "Eng": "A rusty bush. Now I've seen everything."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/rust/rustbush1/rustbush1.object": [
-        "/description"
-      ],
-      "objects/biome/rust/rustbush2/rustbush2.object": [
-        "/description"
-      ],
-      "objects/biome/rust/rustbush3/rustbush3.object": [
-        "/description"
-      ],
-      "objects/biome/rust/rustbush4/rustbush4.object": [
-        "/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "A rusty bush. Watch out for sharp edges."
+      "Eng": "An abandoned piece of old rusty metal."
     }
   },
   {
@@ -76,7 +56,47 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran not like ssstinky rusting bush."
+      "Eng": "Floran could ussse metal asss weapon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/rust/rustbush1/rustbush1.object": [
+        "/novakidDescription"
+      ],
+      "objects/biome/rust/rustbush2/rustbush2.object": [
+        "/novakidDescription"
+      ],
+      "objects/biome/rust/rustbush3/rustbush3.object": [
+        "/novakidDescription"
+      ],
+      "objects/biome/rust/rustbush4/rustbush4.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm sure this ol' metal could be put to some good use if you cleaned it up."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/rust/rustbush1/rustbush1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/biome/rust/rustbush2/rustbush2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/biome/rust/rustbush3/rustbush3.object": [
+        "/hylotlDescription"
+      ],
+      "objects/biome/rust/rustbush4/rustbush4.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It is simply a piece of unpleasant, rusting metal."
     }
   },
   {
@@ -123,40 +143,40 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/rust/rustbush1/rustbush1.object": [
-        "/apexDescription"
+        "/humanDescription"
       ],
       "objects/biome/rust/rustbush2/rustbush2.object": [
-        "/apexDescription"
+        "/humanDescription"
       ],
       "objects/biome/rust/rustbush3/rustbush3.object": [
-        "/apexDescription"
+        "/humanDescription"
       ],
       "objects/biome/rust/rustbush4/rustbush4.object": [
-        "/apexDescription"
+        "/humanDescription"
       ]
     },
     "Texts": {
-      "Eng": "This bush is flaking and covered in rust."
+      "Eng": "This appears to be a piece of rusted metal. Did nature make this? How is that possible?"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/rust/rustbush1/rustbush1.object": [
-        "/hylotlDescription"
+        "/apexDescription"
       ],
       "objects/biome/rust/rustbush2/rustbush2.object": [
-        "/hylotlDescription"
+        "/apexDescription"
       ],
       "objects/biome/rust/rustbush3/rustbush3.object": [
-        "/hylotlDescription"
+        "/apexDescription"
       ],
       "objects/biome/rust/rustbush4/rustbush4.object": [
-        "/hylotlDescription"
+        "/apexDescription"
       ]
     },
     "Texts": {
-      "Eng": "This bush is rusty, and unpleasant to observe."
+      "Eng": "This piece of debris has long since rusted over."
     }
   }
 ]

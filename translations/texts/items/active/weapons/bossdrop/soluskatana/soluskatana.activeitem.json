@@ -22,5 +22,16 @@
       "Eng": "Solus Katana",
       "Rus": "Катана Солнца"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/bossdrop/soluskatana/soluskatana.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Solus Katana ^yellow;^reset;"
+    }
   }
 ]

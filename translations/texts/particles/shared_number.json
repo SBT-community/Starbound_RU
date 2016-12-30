@@ -1,0 +1,59 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "particles/damagenumbers/damagenumber.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/damagenumberstrong.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/damagenumberweak.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/electricdamagenumber.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/electricdamagenumberstrong.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/electricdamagenumberweak.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/firedamagenumber.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/firedamagenumberstrong.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/firedamagenumberweak.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/icedamagenumber.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/icedamagenumberstrong.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/icedamagenumberweak.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/poisondamagenumber.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/poisondamagenumberstrong.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/poisondamagenumberweak.particle": [
+        "/definition/text"
+      ],
+      "particles/energynumber.particle": [
+        "/definition/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^shadow;$dmg$",
+      "Rus": "^shadow;$dmg$"
+    }
+  }
+]

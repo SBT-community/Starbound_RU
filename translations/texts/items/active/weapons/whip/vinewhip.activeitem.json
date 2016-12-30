@@ -22,5 +22,16 @@
       "Eng": "Vine Whip",
       "Rus": "Лоза-Хлыст"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/whip/vinewhip.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vine Whip ^yellow;^reset;"
+    }
   }
 ]

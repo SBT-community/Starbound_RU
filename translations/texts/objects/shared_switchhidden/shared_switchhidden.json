@@ -2,6 +2,43 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "objects/ancient/ancientswitchhidden/ancientswitchhidden.object": [
+        "/humanDescription"
+      ],
+      "objects/avian/avianswitchhidden/avianswitchhidden1.object": [
+        "/humanDescription"
+      ],
+      "objects/avian/avianswitchhidden/avianswitchhidden2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rattling tile."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientswitchhidden/ancientswitchhidden.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avian/avianswitchhidden/avianswitchhidden1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avian/avianswitchhidden/avianswitchhidden2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A slightly out of place tile."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientswitchhidden/ancientswitchhidden.object": [
+        "/hylotlDescription"
+      ],
       "objects/avian/avianswitchhidden/avianswitchhidden1.object": [
         "/hylotlDescription"
       ],
@@ -19,6 +56,26 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "objects/ancient/ancientswitchhidden/ancientswitchhidden.object": [
+        "/novakidDescription"
+      ],
+      "objects/avian/avianswitchhidden/avianswitchhidden1.object": [
+        "/novakidDescription"
+      ],
+      "objects/avian/avianswitchhidden/avianswitchhidden2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's somethin' wrong with this tile."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientswitchhidden/ancientswitchhidden.object": [
+        "/apexDescription"
+      ],
       "objects/avian/avianswitchhidden/avianswitchhidden1.object": [
         "/apexDescription"
       ],
@@ -36,6 +93,9 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "objects/ancient/ancientswitchhidden/ancientswitchhidden.object": [
+        "/avianDescription"
+      ],
       "objects/avian/avianswitchhidden/avianswitchhidden1.object": [
         "/avianDescription"
       ],
@@ -48,6 +108,40 @@
     },
     "Texts": {
       "Eng": "This tile is a bad fit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientswitchhidden/ancientswitchhidden.object": [
+        "/description"
+      ],
+      "objects/avian/avianswitchhidden/avianswitchhidden1.object": [
+        "/description"
+      ],
+      "objects/avian/avianswitchhidden/avianswitchhidden2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This tile looks different from the rest."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientswitchhidden/ancientswitchhidden.object": [
+        "/floranDescription"
+      ],
+      "objects/avian/avianswitchhidden/avianswitchhidden1.object": [
+        "/floranDescription"
+      ],
+      "objects/avian/avianswitchhidden/avianswitchhidden2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tile wobble."
     }
   }
 ]

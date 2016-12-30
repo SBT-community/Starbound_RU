@@ -22,5 +22,16 @@
       "Eng": "Soulseeker",
       "Rus": "Душелов"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/soulseeker/soulseeker.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soulseeker ^yellow;^reset;"
+    }
   }
 ]

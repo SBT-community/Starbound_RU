@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/keytrader/keytradergui.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Mysterious Trader"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/keytrader/keytradergui.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " Trade items for a mysterious key"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/keytrader/keytradergui.config": [
+        "/gui/lblTradeItemQuantity/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "20/20"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/keytrader/keytradergui.config": [
+        "/gui/lblOfferedTradeLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Currently offered trade:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/keytrader/keytradergui.config": [
+        "/gui/btnTrade/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trade"
+    }
+  }
+]
