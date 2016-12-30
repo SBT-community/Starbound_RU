@@ -1,24 +1,30 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Тяжелая приманка, которая быстро тонет."
+    ],
     "Files": {
       "items/augments/fishing/fishingluresinking.augment": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "A heavy lure that sinks quickly."
+      "Eng": "A heavy lure that sinks quickly.",
+      "Rus": "Тяжелая наживка, которая быстро тонет."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Тонущая приманка"
+    ],
     "Files": {
       "items/augments/fishing/fishingluresinking.augment": [
         "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Sinking Lure"
+      "Eng": "Sinking Lure",
+      "Rus": "Тонущая наживка"
     }
   }
 ]

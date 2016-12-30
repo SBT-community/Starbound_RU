@@ -149,6 +149,9 @@
       "interface/windowconfig/craftingnocategories.config": [
         "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
       ],
+      "interface/windowconfig/craftingterraforge.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
       "interface/windowconfig/craftingwheel.config": [
         "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
       ],
@@ -163,6 +166,7 @@
         "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
       ],
       "interface/windowconfig/playerinventory.config": [
+        "/paneLayout/lblEssence/value",
         "/paneLayout/lblMoney/value"
       ],
       "interface/windowconfig/vendingmachine.config": [
@@ -199,6 +203,9 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/scripted/vehiclerepair/vehiclerepairgui.config": [
+        "/gui/cancel/caption"
+      ],
+      "interface/scripted/weaponupgrade/weaponupgradegui.config": [
         "/gui/cancel/caption"
       ],
       "interface/windowconfig/charcreation.config": [
@@ -326,6 +333,9 @@
       "interface/scripted/vehiclerepair/vehiclerepairgui.config": [
         "/gui/itemScrollArea/children/itemList/schema/listTemplate/itemName/value"
       ],
+      "interface/scripted/weaponupgrade/weaponupgradegui.config": [
+        "/gui/itemScrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
       "interface/windowconfig/crafting.config": [
         "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
       ],
@@ -360,6 +370,9 @@
         "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
       ],
       "interface/windowconfig/craftingnocategories.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/craftingterraforge.config": [
         "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
       ],
       "interface/windowconfig/craftingwheel.config": [

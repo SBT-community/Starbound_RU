@@ -10,5 +10,16 @@
       "Eng": "Oculus Reaver",
       "Rus": "Окулус Ривер"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/eyesword/eyesword.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oculus Reaver ^yellow;^reset;"
+    }
   }
 ]

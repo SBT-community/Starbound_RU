@@ -22,5 +22,16 @@
       "Eng": "Frozen Boomerang",
       "Rus": "Ледяной бумеранг"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/boomerang/iceboomerang.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frozen Boomerang ^yellow;^reset;"
+    }
   }
 ]

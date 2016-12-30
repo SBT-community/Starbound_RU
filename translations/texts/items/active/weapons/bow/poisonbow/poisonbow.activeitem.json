@@ -22,5 +22,16 @@
       "Eng": "Poison Bow",
       "Rus": "Отравляющий лук"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/bow/poisonbow/poisonbow.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Poison Bow ^yellow;^reset;"
+    }
   }
 ]

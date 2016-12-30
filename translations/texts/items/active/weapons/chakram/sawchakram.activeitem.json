@@ -22,5 +22,16 @@
       "Eng": "Saw Chakram",
       "Rus": "Чакрам из лезвия пилы"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/chakram/sawchakram.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Saw Chakram ^yellow;^reset;"
+    }
   }
 ]

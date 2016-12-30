@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/vaultkey.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've arrived at an ^orange;Ancient Vault^white;! I wonder what secrets these ruins hide? I think I should take a look around..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/vaultkey.questtemplate": [
+        "/scriptConfig/portraits/questStarted/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Trader"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/vaultkey.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The winds whisper of what you have done - you have ventured far, young one. But there are still doors you have yet to open. ^green;I can trade ^orange;keys^green; with you^white;, if you wish to ^green;open the ^orange;Ancient Gates^green; scattered among the stars^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/vaultkey.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;The Final Frontier"
+    }
+  }
+]

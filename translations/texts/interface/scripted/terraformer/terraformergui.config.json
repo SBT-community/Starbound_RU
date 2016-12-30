@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/terraformer/terraformergui.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Planetary Terraformer"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/terraformer/terraformergui.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  ^#b9b5b2;Transform the whole planet using Essence!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/terraformer/terraformergui.config": [
+        "/gui/lblEssenceCount/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "0 / 0"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/terraformer/terraformergui.config": [
+        "/gui/lblCurrentStatus/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Waiting for status..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/terraformer/terraformergui.config": [
+        "/gui/lblEssenceLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;ESSENCE^white;"
+    }
+  }
+]

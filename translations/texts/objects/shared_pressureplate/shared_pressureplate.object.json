@@ -31,5 +31,19 @@
       "Eng": "Some kind of pressure plate.",
       "Rus": "Какая-то нажимная плита."
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientpressureplate/ancientpressureplate.object": [
+        "/description"
+      ],
+      "objects/avian/avianpressureplate/avianpressureplate.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Use this pressure plate wisely."
+    }
   }
 ]

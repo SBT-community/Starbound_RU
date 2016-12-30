@@ -1,0 +1,37 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Его движение определеяется температурными уровнями в атмосфере."
+    ],
+    "Files": {
+      "monsters/boss/guardianminion/collidingminion.monstertype": [
+        "/description"
+      ],
+      "monsters/boss/guardianminion/electricrangedminion.monstertype": [
+        "/description"
+      ],
+      "monsters/boss/guardianminion/firerangedminion.monstertype": [
+        "/description"
+      ],
+      "monsters/boss/guardianminion/guardianminion.monstertype": [
+        "/description"
+      ],
+      "monsters/boss/guardianminion/icerangedminion.monstertype": [
+        "/description"
+      ],
+      "monsters/boss/guardianminion/largeminion.monstertype": [
+        "/description"
+      ],
+      "monsters/boss/guardianminion/poisonrangedminion.monstertype": [
+        "/description"
+      ],
+      "monsters/ghosts/squeem/squeem.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Its movement is determined by temperature levels in the atmosphere.",
+      "Rus": "Его движение определяется температурными колебаниями в атмосфере."
+    }
+  }
+]

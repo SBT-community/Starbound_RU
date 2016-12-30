@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/weaponupgrade/weaponupgradegui.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " Upgrade your weapons here!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/weaponupgrade/weaponupgradegui.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Weapon Upgrade Anvil"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/weaponupgrade/weaponupgradegui.config": [
+        "/gui/essenceCostDescription/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "REQUIRED ESSENCE"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/weaponupgrade/weaponupgradegui.config": [
+        "/gui/btnUpgrade/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Upgrade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/weaponupgrade/weaponupgradegui.config": [
+        "/gui/emptyLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "You don't have any weapons that can be upgraded!"
+    }
+  }
+]

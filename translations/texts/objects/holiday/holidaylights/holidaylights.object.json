@@ -7,7 +7,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Fairy Lights"
+      "Eng": "Holiday Lights"
     }
   },
   {
@@ -41,6 +41,17 @@
     },
     "Texts": {
       "Eng": "These twinkling lights add much to the cheery atmosphere."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/holidaylights/holidaylights.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This string of small, twinkling holiday lights is the perfect way to get festive."
     }
   }
 ]

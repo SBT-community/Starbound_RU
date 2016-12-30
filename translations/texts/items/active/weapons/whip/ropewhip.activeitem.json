@@ -22,5 +22,16 @@
       "Eng": "Rope Whip",
       "Rus": "Верёвочный кнут"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/whip/ropewhip.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rope Whip ^yellow;^reset;"
+    }
   }
 ]

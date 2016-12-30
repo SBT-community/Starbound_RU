@@ -479,6 +479,24 @@
       "items/materials/tribalplatform.matitem": [
         "/glitchdescription/glitchEmote"
       ],
+      "objects/ancient/ancientpot1/ancientpot1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ancient/ancientpot2/ancientpot2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ancient/ancientpot3/ancientpot3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ancient/ancientpot4/ancientpot4.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ancient/ancientpot5/ancientpot5.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ancient/ancientpot6/ancientpot6.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/ancient/monolithgate/monolithgate.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -915,7 +933,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Analysis."
+      "Eng": "Analysis.",
+      "Rus": "Изучающе."
     }
   },
   {
@@ -987,7 +1006,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Animated."
+      "Eng": "Animated.",
+      "Rus": "Воодушевленно."
     }
   },
   {
@@ -1027,7 +1047,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Antagonistic."
+      "Eng": "Antagonistic.",
+      "Rus": "Враждебно."
     }
   },
   {
@@ -1041,7 +1062,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Anticipation."
+      "Eng": "Anticipation.",
+      "Rus": "Возбужденно."
     }
   },
   {
@@ -1110,7 +1132,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Appraising."
+      "Eng": "Appraising.",
+      "Rus": "Оценивая."
     }
   },
   {
@@ -1121,7 +1144,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Appreciation."
+      "Eng": "Appreciation.",
+      "Rus": "Признательно."
     }
   },
   {
@@ -1280,7 +1304,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Apprehensive."
+      "Eng": "Apprehensive.",
+      "Rus": "Тревожно."
     }
   },
   {
@@ -1428,7 +1453,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Arrogant."
+      "Eng": "Arrogant.",
+      "Rus": "Высокомерно."
     }
   },
   {
@@ -1439,7 +1465,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Artful."
+      "Eng": "Artful.",
+      "Rus": "Хитро."
     }
   },
   {
@@ -1470,7 +1497,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Astonished."
+      "Eng": "Astonished.",
+      "Rus": "Изумленно."
     }
   },
   {
@@ -1481,7 +1509,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Astonishment."
+      "Eng": "Astonishment.",
+      "Rus": "Удивленно."
     }
   },
   {
@@ -1494,6 +1523,9 @@
       ],
       "items/materials/obsidian.matitem": [
         "/glitchdescription/glitchEmote"
+      ],
+      "objects/ancientvault/terraforge/terraforge.object": [
+        "/glitchDescription/glitchEmote"
       ],
       "objects/outpost/signstore/signstore.object": [
         "/glitchDescription/glitchEmote"
@@ -1542,7 +1574,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Awed."
+      "Eng": "Awed.",
+      "Rus": "Трепетно."
     }
   },
   {
@@ -1556,7 +1589,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Awestruck."
+      "Eng": "Awestruck.",
+      "Rus": ""
     }
   },
   {
@@ -1567,7 +1601,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Baffled."
+      "Eng": "Baffled.",
+      "Rus": "Озадаченно."
     }
   },
   {
@@ -1579,7 +1614,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Bashful."
+      "Eng": "Bashful.",
+      "Rus": "Робко."
     }
   },
   {
@@ -1590,7 +1626,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Befuddled."
+      "Eng": "Befuddled.",
+      "Rus": "Озадаченно."
     }
   },
   {
@@ -1601,7 +1638,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Belligerent."
+      "Eng": "Belligerent.",
+      "Rus": "Агрессивно."
     }
   },
   {
@@ -1612,7 +1650,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Bemused."
+      "Eng": "Bemused.",
+      "Rus": "Ошеломленно."
     }
   },
   {
@@ -1674,7 +1713,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Biology."
+      "Eng": "Biology.",
+      "Rus": "Изучающе."
     }
   },
   {
@@ -1685,7 +1725,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Bitter."
+      "Eng": "Bitter.",
+      "Rus": "Мучительно."
     }
   },
   {
@@ -1696,7 +1737,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Bliss."
+      "Eng": "Bliss.",
+      "Rus": "Блаженно."
     }
   },
   {
@@ -1713,7 +1755,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Blissful."
+      "Eng": "Blissful.",
+      "Rus": "Блаженно."
     }
   },
   {
@@ -1724,7 +1767,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Blunt."
+      "Eng": "Blunt.",
+      "Rus": "Грубо."
     }
   },
   {
@@ -1753,7 +1797,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Bold."
+      "Eng": "Bold.",
+      "Rus": "Смело."
     }
   },
   {
@@ -1887,7 +1932,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Calculating."
+      "Eng": "Calculating.",
+      "Rus": "Подсчитывая."
     }
   },
   {
@@ -1901,7 +1947,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Callous."
+      "Eng": "Callous.",
+      "Rus": "Черство."
     }
   },
   {
@@ -1965,7 +2012,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Captivated."
+      "Eng": "Captivated.",
+      "Rus": "Очарованно."
     }
   },
   {
@@ -1976,7 +2024,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Carefree."
+      "Eng": "Carefree.",
+      "Rus": "Беззаботно."
     }
   },
   {
@@ -1999,7 +2048,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Caution."
+      "Eng": "Caution.",
+      "Rus": "Осторожно."
     }
   },
   {
@@ -2333,7 +2383,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Cautrious."
+      "Eng": "Cautrious.",
+      "Rus": "Осторожно."
     }
   },
   {
@@ -2344,7 +2395,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Certainty."
+      "Eng": "Certainty.",
+      "Rus": "Уверенно."
     }
   },
   {
@@ -2355,7 +2407,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Charitable."
+      "Eng": "Charitable.",
+      "Rus": "Милосердно."
     }
   },
   {
@@ -2403,7 +2456,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Charmed."
+      "Eng": "Charmed.",
+      "Rus": "Очарованно."
     }
   },
   {
@@ -2475,7 +2529,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Cheery."
+      "Eng": "Cheery.",
+      "Rus": "Весело."
     }
   },
   {
@@ -2486,7 +2541,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Comfort."
+      "Eng": "Comfort.",
+      "Rus": "Счастливо."
     }
   },
   {
@@ -2497,7 +2553,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Comfortable."
+      "Eng": "Comfortable.",
+      "Rus": "Счастливо."
     }
   },
   {
@@ -2526,7 +2583,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Comforted."
+      "Eng": "Comforted.",
+      "Rus": "Довольно."
     }
   },
   {
@@ -2537,7 +2595,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Comical."
+      "Eng": "Comical.",
+      "Rus": "Комично."
     }
   },
   {
@@ -2548,7 +2607,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Commanding."
+      "Eng": "Commanding.",
+      "Rus": "Внушительно."
     }
   },
   {
@@ -2565,7 +2625,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Compassionate."
+      "Eng": "Compassionate.",
+      "Rus": "Сострадательно."
     }
   },
   {
@@ -2576,7 +2637,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Complimentary."
+      "Eng": "Complimentary.",
+      "Rus": "Лестно."
     }
   },
   {
@@ -2814,7 +2876,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Confidence."
+      "Eng": "Confidence.",
+      "Rus": "Уверенно."
     }
   },
   {
@@ -3161,7 +3224,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Conniving."
+      "Eng": "Conniving.",
+      "Rus": "Коварно."
     }
   },
   {
@@ -3175,7 +3239,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Considering."
+      "Eng": "Considering.",
+      "Rus": "Внимательно."
     }
   },
   {
@@ -3201,7 +3266,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Contemplative."
+      "Eng": "Contemplative.",
+      "Rus": "Задумчиво."
     }
   },
   {
@@ -3270,7 +3336,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Contentment."
+      "Eng": "Contentment.",
+      "Rus": "Довольно."
     }
   },
   {
@@ -3333,7 +3400,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Creative."
+      "Eng": "Creative.",
+      "Rus": ""
     }
   },
   {
@@ -3465,7 +3533,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Curiosity."
+      "Eng": "Curiosity.",
+      "Rus": ""
     }
   },
   {
@@ -3564,6 +3633,9 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/ancient/ancientstriplight9/ancientstriplight9.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ancient/ancientswitchhidden/ancientswitchhidden.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/ancient/monolithstatue1/monolithstatue1.object": [
@@ -4084,7 +4156,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Daring."
+      "Eng": "Daring.",
+      "Rus": "Дерзко."
     }
   },
   {
@@ -4107,7 +4180,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Dazzled."
+      "Eng": "Dazzled.",
+      "Rus": "Пораженно."
     }
   },
   {
@@ -4118,7 +4192,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Decisive."
+      "Eng": "Decisive.",
+      "Rus": "Решительно."
     }
   },
   {
@@ -4159,7 +4234,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Defeated."
+      "Eng": "Defeated.",
+      "Rus": ""
     }
   },
   {
@@ -4362,7 +4438,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Depressed."
+      "Eng": "Depressed.",
+      "Rus": "Уныло."
     }
   },
   {
@@ -4373,7 +4450,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Desire."
+      "Eng": "Desire.",
+      "Rus": "Страстно."
     }
   },
   {
@@ -4492,7 +4570,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Detection."
+      "Eng": "Detection.",
+      "Rus": "Удивленно."
     }
   },
   {
@@ -4571,7 +4650,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Devious."
+      "Eng": "Devious.",
+      "Rus": "Лицемерно."
     }
   },
   {
@@ -4582,7 +4662,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Diplomatic."
+      "Eng": "Diplomatic.",
+      "Rus": "Тактично."
     }
   },
   {
@@ -4748,7 +4829,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Disarmed."
+      "Eng": "Disarmed.",
+      "Rus": "Смиренно."
     }
   },
   {
@@ -4759,7 +4841,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Disasppointed."
+      "Eng": "Disasppointed.",
+      "Rus": "Разочарованно."
     }
   },
   {
@@ -4770,7 +4853,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Discomfort."
+      "Eng": "Discomfort.",
+      "Rus": "Беспокойно."
     }
   },
   {
@@ -4784,6 +4868,24 @@
       ],
       "dialog/oremerchant.config": [
         "/tagCriteria/glitch/default/1/glitchEmote"
+      ],
+      "objects/ancient/ancientmural/ancientmural1/ancientmural1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ancient/ancientmural/ancientmural2/ancientmural2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ancient/ancientmural/ancientmural3/ancientmural3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ancient/ancientmural/ancientmural4/ancientmural4.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ancient/ancientmural/ancientmural5/ancientmural5.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ancient/ancientmural/ancientmural6/ancientmural6.object": [
+        "/glitchDescription/glitchEmote"
       ],
       "objects/floran/planttorturedevice/planttorturedevice.object": [
         "/glitchDescription/glitchEmote"
@@ -4805,7 +4907,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Disdainful."
+      "Eng": "Disdainful.",
+      "Rus": "Надменно."
     }
   },
   {
@@ -4813,7 +4916,7 @@
       "Отвратительно."
     ],
     "Files": {
-      "biomes/surface_detached/flesh/dripblood1/dripblood1.object": [
+      "objects/biome/flesh/dripblood1/dripblood1.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/biome/hive/hivechest/hivechest.object": [
@@ -4835,9 +4938,6 @@
       "С отвращением."
     ],
     "Files": {
-      "biomes/underground_detached/slimecaves/dripslime1/dripslime1.object": [
-        "/glitchDescription/glitchEmote"
-      ],
       "dialog/converse.config": [
         "/converse/glitch/human/0/glitchEmote"
       ],
@@ -4887,6 +4987,9 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/biome/slime/ceilingslime3/ceilingslime3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/biome/slimecave/dripslime1/dripslime1.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/biome/slimecave/slimeblob1/slimeblob1.object": [
@@ -4972,7 +5075,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Disintered."
+      "Eng": "Disintered.",
+      "Rus": ""
     }
   },
   {
@@ -5082,7 +5186,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Dismal."
+      "Eng": "Dismal.",
+      "Rus": "Уныло."
     }
   },
   {
@@ -5093,7 +5198,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Dismayed."
+      "Eng": "Dismayed.",
+      "Rus": "Встревоженно."
     }
   },
   {
@@ -5166,7 +5272,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Dissatisfied."
+      "Eng": "Dissatisfied.",
+      "Rus": "Недовольно."
     }
   },
   {
@@ -5177,7 +5284,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Distant."
+      "Eng": "Distant.",
+      "Rus": "Нехотя."
     }
   },
   {
@@ -5203,7 +5311,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Distracted."
+      "Eng": "Distracted.",
+      "Rus": "Отвлеченно."
     }
   },
   {
@@ -5214,7 +5323,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Distraught."
+      "Eng": "Distraught.",
+      "Rus": "Безумно."
     }
   },
   {
@@ -5427,7 +5537,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Dubious."
+      "Eng": "Dubious.",
+      "Rus": "Сомнительно."
     }
   },
   {
@@ -5551,7 +5662,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Ecstatic."
+      "Eng": "Ecstatic.",
+      "Rus": "Восторженно."
     }
   },
   {
@@ -5609,7 +5721,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Elated."
+      "Eng": "Elated.",
+      "Rus": "Ликующе."
     }
   },
   {
@@ -5641,7 +5754,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Emotional."
+      "Eng": "Emotional.",
+      "Rus": "Взволнованно."
     }
   },
   {
@@ -5675,7 +5789,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Enamored."
+      "Eng": "Enamored.",
+      "Rus": "Восторженно."
     }
   },
   {
@@ -5730,7 +5845,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Encouraged."
+    ],
     "Files": {
       "objects/spawner/spawners/spawner_glitch.object": [
         "/glitchDescription/glitchEmote"
@@ -5738,7 +5855,7 @@
     },
     "Texts": {
       "Eng": "Encouraged.",
-      "Rus": "Encouraged."
+      "Rus": "Ободряюще."
     }
   },
   {
@@ -6368,6 +6485,9 @@
       ],
       "items/materials/shadowblock.matitem": [
         "/glitchdescription/glitchEmote"
+      ],
+      "objects/ancient/ancientbust/ancientbust.object": [
+        "/glitchDescription/glitchEmote"
       ],
       "objects/floran/plantbiolight/plantbiolight.object": [
         "/glitchDescription/glitchEmote"
@@ -7710,6 +7830,9 @@
       "objects/ancient/ancientsmallconsole/ancientsmallconsole.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/ancientvault/weaponupgradeanvil/weaponupgradeanvil.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/apex/apexcomfychair/apexcomfychair.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -7723,6 +7846,9 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/apex/grandfatherclock/grandfatherclock.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/apex/sandbags/sandbags.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/arttrophies/paintingapegothic/paintingapegothic.object": [
@@ -8625,6 +8751,9 @@
       ],
       "items/materials/shadowspikeblock.matitem": [
         "/glitchdescription/glitchEmote"
+      ],
+      "objects/ancient/ancientpressureplate/ancientpressureplate.object": [
+        "/glitchDescription/glitchEmote"
       ],
       "objects/apex/apexradio/apexradio.object": [
         "/glitchDescription/glitchEmote"
@@ -12885,17 +13014,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/generic/foodbowl/foodbowl.object": [
-        "/glitchDescription/glitchEmote"
-      ]
-    },
-    "Texts": {
-      "Eng": "Responsible."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "quests/generated/templates/protect.questtemplate": [
         "/scriptConfig/generatedText/text/default/glitch/1/glitchEmote"
       ],
@@ -15693,7 +15811,7 @@
       "items/materials/cheapwallpaper.matitem": [
         "/glitchdescription/glitchEmote"
       ],
-      "objects/ancient/ancientbigchest/ancientbigchest.object": [
+      "objects/ancient/essencechest/essencechest.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/biome/scorchedcity/scorchedbench/scorchedbench.object": [

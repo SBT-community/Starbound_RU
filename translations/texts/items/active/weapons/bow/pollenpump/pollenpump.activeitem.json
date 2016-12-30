@@ -22,5 +22,16 @@
       "Eng": "Pollen Pump",
       "Rus": "Газовый опрыскиватель"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/bow/pollenpump/pollenpump.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pollen Pump ^yellow;^reset;"
+    }
   }
 ]

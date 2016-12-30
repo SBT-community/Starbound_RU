@@ -191,92 +191,6 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      " её"
-    ],
-    "Files": {
-      "quests/quests.config": [
-        "/pronouns/female/capitalObject",
-        "/pronouns/female/capitalPossessiveDet"
-      ]
-    },
-    "Texts": {
-      "Eng": "Her",
-      "Rus": "Ей"
-    }
-  },
-  {
-    "DeniedAlternatives": [
-      " её"
-    ],
-    "Files": {
-      "quests/quests.config": [
-        "/pronouns/female/capitalPossessive"
-      ]
-    },
-    "Texts": {
-      "Eng": "Hers",
-      "Rus": "Её"
-    }
-  },
-  {
-    "DeniedAlternatives": [
-      " её"
-    ],
-    "Files": {
-      "quests/quests.config": [
-        "/pronouns/female/capitalReflexive"
-      ]
-    },
-    "Texts": {
-      "Eng": "Herself",
-      "Rus": "Её"
-    }
-  },
-  {
-    "DeniedAlternatives": [
-      " его"
-    ],
-    "Files": {
-      "quests/quests.config": [
-        "/pronouns/male/capitalObject"
-      ]
-    },
-    "Texts": {
-      "Eng": "Him",
-      "Rus": "Ему"
-    }
-  },
-  {
-    "DeniedAlternatives": [
-      " ему самому"
-    ],
-    "Files": {
-      "quests/quests.config": [
-        "/pronouns/male/capitalReflexive"
-      ]
-    },
-    "Texts": {
-      "Eng": "Himself",
-      "Rus": "Его"
-    }
-  },
-  {
-    "DeniedAlternatives": [
-      " его"
-    ],
-    "Files": {
-      "quests/quests.config": [
-        "/pronouns/male/capitalPossessive",
-        "/pronouns/male/capitalPossessiveDet"
-      ]
-    },
-    "Texts": {
-      "Eng": "His",
-      "Rus": "Его"
-    }
-  },
-  {
     "DeniedAlternatives": [],
     "Files": {
       "quests/quests.config": [
@@ -286,90 +200,6 @@
     "Texts": {
       "Eng": "Investigate objects",
       "Rus": "Исследуйте объекты"
-    }
-  },
-  {
-    "DeniedAlternatives": [
-      " она"
-    ],
-    "Files": {
-      "quests/quests.config": [
-        "/pronouns/female/capitalSubject"
-      ]
-    },
-    "Texts": {
-      "Eng": "She",
-      "Rus": "Она"
-    }
-  },
-  {
-    "DeniedAlternatives": [
-      " их"
-    ],
-    "Files": {
-      "quests/quests.config": [
-        "/pronouns/neutral/capitalPossessiveDet"
-      ]
-    },
-    "Texts": {
-      "Eng": "Their",
-      "Rus": "Его"
-    }
-  },
-  {
-    "DeniedAlternatives": [
-      " их"
-    ],
-    "Files": {
-      "quests/quests.config": [
-        "/pronouns/neutral/capitalPossessive"
-      ]
-    },
-    "Texts": {
-      "Eng": "Theirs",
-      "Rus": "Его"
-    }
-  },
-  {
-    "DeniedAlternatives": [
-      " им"
-    ],
-    "Files": {
-      "quests/quests.config": [
-        "/pronouns/neutral/capitalObject"
-      ]
-    },
-    "Texts": {
-      "Eng": "Them",
-      "Rus": "Ему"
-    }
-  },
-  {
-    "DeniedAlternatives": [
-      "самим"
-    ],
-    "Files": {
-      "quests/quests.config": [
-        "/pronouns/neutral/capitalReflexive"
-      ]
-    },
-    "Texts": {
-      "Eng": "Themself",
-      "Rus": "Его"
-    }
-  },
-  {
-    "DeniedAlternatives": [
-      " они"
-    ],
-    "Files": {
-      "quests/quests.config": [
-        "/pronouns/neutral/capitalSubject"
-      ]
-    },
-    "Texts": {
-      "Eng": "They",
-      "Rus": "Он"
     }
   },
   {
@@ -428,102 +258,118 @@
   },
   {
     "DeniedAlternatives": [
-      " её"
+      " её",
+      "ей"
     ],
     "Files": {
       "quests/quests.config": [
+        "/pronouns/female/capitalObject",
+        "/pronouns/female/capitalPossessiveDet",
         "/pronouns/female/object",
         "/pronouns/female/possessiveDet"
       ]
     },
     "Texts": {
       "Eng": "her",
-      "Rus": "ей"
+      "Rus": "Ей"
     }
   },
   {
     "DeniedAlternatives": [
-      " её"
+      " её",
+      "её"
     ],
     "Files": {
       "quests/quests.config": [
+        "/pronouns/female/capitalPossessive",
         "/pronouns/female/possessive"
       ]
     },
     "Texts": {
       "Eng": "hers",
-      "Rus": "её"
+      "Rus": "Её"
     }
   },
   {
     "DeniedAlternatives": [
-      " ей самой"
+      " ей самой",
+      "её"
     ],
     "Files": {
       "quests/quests.config": [
+        "/pronouns/female/capitalReflexive",
         "/pronouns/female/reflexive"
       ]
     },
     "Texts": {
       "Eng": "herself",
-      "Rus": "её"
+      "Rus": "Её"
     }
   },
   {
     "DeniedAlternatives": [
-      " его"
+      " его",
+      "ему"
     ],
     "Files": {
       "quests/quests.config": [
+        "/pronouns/male/capitalObject",
         "/pronouns/male/object"
       ]
     },
     "Texts": {
       "Eng": "him",
-      "Rus": "ему"
+      "Rus": "Ему"
     }
   },
   {
     "DeniedAlternatives": [
-      " ему самому"
+      " ему самому",
+      "его"
     ],
     "Files": {
       "quests/quests.config": [
+        "/pronouns/male/capitalReflexive",
         "/pronouns/male/reflexive"
       ]
     },
     "Texts": {
       "Eng": "himself",
-      "Rus": "его"
+      "Rus": "Его"
     }
   },
   {
     "DeniedAlternatives": [
-      " его"
+      " его",
+      "его"
     ],
     "Files": {
       "quests/quests.config": [
+        "/pronouns/male/capitalPossessive",
+        "/pronouns/male/capitalPossessiveDet",
         "/pronouns/male/possessive",
         "/pronouns/male/possessiveDet"
       ]
     },
     "Texts": {
       "Eng": "his",
-      "Rus": "его"
+      "Rus": "Его"
     }
   },
   {
     "DeniedAlternatives": [
-      " она"
+      " она",
+      "она"
     ],
     "Files": {
       "quests/quests.config": [
+        "/pronouns/female/capitalSubject",
         "/pronouns/female/subject"
       ]
     },
     "Texts": {
       "Eng": "she",
-      "Rus": "она"
+      "Rus": "Она"
     }
   },
   {
@@ -556,72 +402,82 @@
   },
   {
     "DeniedAlternatives": [
-      " их"
+      " их",
+      "его"
     ],
     "Files": {
       "quests/quests.config": [
+        "/pronouns/neutral/capitalPossessiveDet",
         "/pronouns/neutral/possessiveDet"
       ]
     },
     "Texts": {
       "Eng": "their",
-      "Rus": "его"
+      "Rus": "Его"
     }
   },
   {
     "DeniedAlternatives": [
-      " их "
+      " их ",
+      "его"
     ],
     "Files": {
       "quests/quests.config": [
+        "/pronouns/neutral/capitalPossessive",
         "/pronouns/neutral/possessive"
       ]
     },
     "Texts": {
       "Eng": "theirs",
-      "Rus": "его"
+      "Rus": "Его"
     }
   },
   {
     "DeniedAlternatives": [
-      " им"
+      " им",
+      "ему"
     ],
     "Files": {
       "quests/quests.config": [
+        "/pronouns/neutral/capitalObject",
         "/pronouns/neutral/object"
       ]
     },
     "Texts": {
       "Eng": "them",
-      "Rus": "ему"
+      "Rus": "Ему"
     }
   },
   {
     "DeniedAlternatives": [
-      " им самим"
+      " им самим",
+      "его"
     ],
     "Files": {
       "quests/quests.config": [
+        "/pronouns/neutral/capitalReflexive",
         "/pronouns/neutral/reflexive"
       ]
     },
     "Texts": {
       "Eng": "themself",
-      "Rus": "его"
+      "Rus": "Его"
     }
   },
   {
     "DeniedAlternatives": [
-      " они"
+      " они",
+      "он"
     ],
     "Files": {
       "quests/quests.config": [
+        "/pronouns/neutral/capitalSubject",
         "/pronouns/neutral/subject"
       ]
     },
     "Texts": {
       "Eng": "they",
-      "Rus": "он"
+      "Rus": "Он"
     }
   },
   {

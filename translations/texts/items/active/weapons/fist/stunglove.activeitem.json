@@ -22,5 +22,16 @@
       "Eng": "Stun Glove",
       "Rus": "Оглушающая Перчатка"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/fist/stunglove.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stun Glove ^yellow;^reset;"
+    }
   }
 ]

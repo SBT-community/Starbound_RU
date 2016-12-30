@@ -27,6 +27,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/active/weapons/melee/broadsword/timepierce.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Time Pierce ^yellow;^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/timepierce.activeitem": [
         "/altAbility/name"
       ]
     },

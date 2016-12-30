@@ -1,5 +1,20 @@
 [
   {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/craftinganvil.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/craftingterraforge.config": [
+        "/paneLayout/btnCraft/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Forge",
+      "Rus": "Создать"
+    }
+  },
+  {
     "DeniedAlternatives": [
       "Готовить",
       "Распечатать"
@@ -52,6 +67,21 @@
     "Texts": {
       "Eng": "^#b9b5b2;RECIPE",
       "Rus": "^#b9b5b2;РЕЦЕПТ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/craftingnocategories.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/craftingterraforge.config": [
+        "/paneLayout/lblSchematics/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;SCHEMATICS",
+      "Rus": "^#b9b5b2;СХЕМЫ"
     }
   }
 ]
