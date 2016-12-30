@@ -163,7 +163,7 @@
           "esther.cinematic.json": 19
         },
         "finale": {
-          "finale.cinematic.json": 30
+          "finale.cinematic.json": 36
         },
         "opengate": {
           "opengate.cinematic.json": 6
@@ -357,7 +357,7 @@
       "devoutavian.config.json": 134,
       "eyeguard.config.json": 26,
       "eyepatch.config.json": 15,
-      "fenerox.config.json": 77,
+      "fenerox.config.json": 78,
       "flee.config.json": 43,
       "frog.config.json": 2,
       "gatherer.config.json": 15,
@@ -537,7 +537,7 @@
         "multiplayer.config.json": 5,
         "pixelcompressor.config.json": 2,
         "playerinventory.config.json": 15,
-        "popup.config.json": 0,
+        "popup.config.json": 1,
         "questcomplete.config.json": 1,
         "questfailed.config.json": 1,
         "questlog.config.json": 10,
@@ -1795,9 +1795,9 @@
               "hiker.legs.json": 2
             },
             "hotholiday": {
-              "hotholiday.chest.json": 0,
-              "hotholiday.head.json": 0,
-              "hotholiday.legs.json": 0
+              "hotholiday.chest.json": 2,
+              "hotholiday.head.json": 2,
+              "hotholiday.legs.json": 2
             },
             "hunter": {
               "hunter.back.json": 2,
@@ -1819,10 +1819,10 @@
               "moneybags.legs.json": 2
             },
             "mrclaus": {
-              "mrclaus.back.json": 1,
-              "mrclaus.chest.json": 0,
-              "mrclaus.head.json": 0,
-              "mrclaus.legs.json": 0
+              "mrclaus.back.json": 2,
+              "mrclaus.chest.json": 2,
+              "mrclaus.head.json": 2,
+              "mrclaus.legs.json": 2
             },
             "mutantminer": {
               "mutantminer.chest.json": 2,
@@ -2938,7 +2938,7 @@
             "fishstew.consumable.json": 2,
             "mashedpotato.consumable.json": 2,
             "meatdumplings.consumable.json": 2,
-            "meatpie.consumable.json": 1,
+            "meatpie.consumable.json": 2,
             "meatstew.consumable.json": 2,
             "pearlpeabroth.consumable.json": 2,
             "pearlpearisotto.consumable.json": 2,
@@ -7433,10 +7433,10 @@
           "shared_tomatoseed.object.json": 9
         },
         "toxictop": {
-          "shared_toxictopseed.object.json": 8
+          "shared_toxictopseed.object.json": 9
         },
         "wartweed": {
-          "shared_wartweedseed.object.json": 8
+          "shared_wartweedseed.object.json": 9
         },
         "wheat": {
           "shared_wheatseed.object.json": 9
@@ -8974,7 +8974,7 @@
           "holidaylights.object.json": 0
         },
         "holidaypole": {
-          "holidaypole.object.json": 8
+          "holidaypole.object.json": 9
         },
         "holly": {
           "holly.object.json": 0
@@ -11059,7 +11059,7 @@
         "shared_.object.json": 1
       },
       "shared_smokeprimer": {
-        "shared_smokeprimer.object.json": 7
+        "shared_smokeprimer.object.json": 8
       },
       "shared_statue": {
         "shared_statue.object.json": 0
