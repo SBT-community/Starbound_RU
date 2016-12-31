@@ -46,7 +46,7 @@
         "oceanmission.biome.json": 1,
         "outpost.biome.json": 1,
         "savannah.biome.json": 1,
-        "scorched.biome.json": 0,
+        "scorched.biome.json": 1,
         "scorchedcity.biome.json": 1,
         "shared_.biome.json": 1,
         "tentacle.biome.json": 1,
@@ -54,7 +54,7 @@
         "toxicoceanfloor.biome.json": 1,
         "tundra.biome.json": 1,
         "volcanic.biome.json": 1,
-        "volcanicterraform.biome.json": 0
+        "volcanicterraform.biome.json": 1
       },
       "surface_detached": {
         "alpine.biome.json": 1,
@@ -350,10 +350,10 @@
       "clues.config.json": 50,
       "colourful.config.json": 33,
       "combat.config.json": 169,
-      "converse.config.json": 332,
+      "converse.config.json": 333,
       "crewmember.config.json": 39,
       "cultist.config.json": 31,
-      "deadbeat.config.json": 22,
+      "deadbeat.config.json": 23,
       "devoutavian.config.json": 134,
       "eyeguard.config.json": 26,
       "eyepatch.config.json": 15,
@@ -369,7 +369,7 @@
       "mutantminer.config.json": 10,
       "oremerchant.config.json": 119,
       "outpost.config.json": 42,
-      "quest.config.json": 39,
+      "quest.config.json": 41,
       "rebel.config.json": 3,
       "scientist.config.json": 12,
       "shared_.config.json": 100,
@@ -458,7 +458,7 @@
           "cropshippergui.config.json": 2
         },
         "keytrader": {
-          "keytradergui.config.json": 0
+          "keytradergui.config.json": 4
         },
         "mannequin": {
           "mannequingui.config.json": 3
@@ -471,19 +471,19 @@
           "techupgradegui.config.json": 9
         },
         "terraformer": {
-          "terraformergui.config.json": 0
+          "terraformergui.config.json": 4
         },
         "vaultaccess": {
-          "vaultaccessgui.config.json": 0
+          "vaultaccessgui.config.json": 5
         },
         "vaultconsole": {
-          "vaultconsolegui.config.json": 0
+          "vaultconsolegui.config.json": 3
         },
         "vehiclerepair": {
           "vehiclerepairgui.config.json": 5
         },
         "weaponupgrade": {
-          "weaponupgradegui.config.json": 0
+          "weaponupgradegui.config.json": 5
         }
       },
       "shared_.config.json": 9,
@@ -527,7 +527,7 @@
         "craftingmedical.config.json": 2,
         "craftingmerchant.config.json": 1,
         "craftingnocategories.config.json": 2,
-        "craftingterraforge.config.json": 0,
+        "craftingterraforge.config.json": 2,
         "craftingwheel.config.json": 2,
         "deletedialog.config.json": 1,
         "editbookmark.config.json": 2,
@@ -536,7 +536,7 @@
         "merchant.config.json": 2,
         "multiplayer.config.json": 5,
         "pixelcompressor.config.json": 2,
-        "playerinventory.config.json": 15,
+        "playerinventory.config.json": 16,
         "popup.config.json": 1,
         "questcomplete.config.json": 1,
         "questfailed.config.json": 1,
@@ -617,7 +617,7 @@
             "rustyrailplatform.activeitem.json": 2
           },
           "relocator": {
-            "relocator.activeitem.json": 0
+            "relocator.activeitem.json": 2
           },
           "rewardbag": {
             "rewardbag.activeitem.json": 1
@@ -900,7 +900,7 @@
               "uncommonassaultrifle.activeitem.json": 1
             },
             "flamethrower": {
-              "flamethrower.activeitem.json": 2
+              "flamethrower.activeitem.json": 3
             },
             "grenadelauncher": {
               "commongrenadelauncher.activeitem.json": 1,
@@ -984,9 +984,9 @@
           },
           "whip": {
             "energywhip.activeitem.json": 2,
-            "intestinewhip.activeitem.json": 2,
-            "ropewhip.activeitem.json": 2,
-            "vinewhip.activeitem.json": 2
+            "intestinewhip.activeitem.json": 3,
+            "ropewhip.activeitem.json": 3,
+            "vinewhip.activeitem.json": 3
           }
         },
         "weapons.json": 1
@@ -2714,7 +2714,7 @@
           "shared_bombcollar.augment.json": 1
         }
       },
-      "categories.config.json": 79,
+      "categories.config.json": 80,
       "fossils": {
         "humanoid": {
           "alpacafossil1.item.json": 4,
@@ -3159,7 +3159,7 @@
           "translator2.item.json": 1,
           "upgrademodule.item.json": 2,
           "valentinechocolates.consumable.json": 2,
-          "vaultkey.item.json": 0,
+          "vaultkey.item.json": 1,
           "voxel10k.item.json": 2,
           "voxel1k.item.json": 2,
           "voxel2k.item.json": 2,
@@ -4282,7 +4282,7 @@
         "outpostundersideman.npctype.json": 8,
         "santa.npctype.json": 0,
         "tonauacoutpost.npctype.json": 5,
-        "vaultkeytrader.npctype.json": 0,
+        "vaultkeytrader.npctype.json": 1,
         "visitors": {
           "backervisitor.npctype.json": 6,
           "colourfulvisitor.npctype.json": 4,
@@ -4762,7 +4762,7 @@
           "smallfloorspike.object.json": 0
         },
         "terraforge": {
-          "terraforge.object.json": 0
+          "terraforge.object.json": 9
         },
         "weaponupgradeanvil": {
           "weaponupgradeanvil.object.json": 0
@@ -12533,7 +12533,7 @@
       "generated": {
         "locations.config.json": 336,
         "pools": {
-          "buildingthemes.config.json": 3,
+          "buildingthemes.config.json": 10,
           "capturablemonsters.config.json": 0,
           "dungeonitems.config.json": 11,
           "guardthemes.config.json": 5,
@@ -12627,7 +12627,7 @@
         "techscientist5.questtemplate.json": 3,
         "techscientist6.questtemplate.json": 5,
         "ursaminer1.questtemplate.json": 5,
-        "vaultkey.questtemplate.json": 0
+        "vaultkey.questtemplate.json": 4
       },
       "quests.config.json": 35,
       "shared_.questtemplate.json": 2,
@@ -12689,14 +12689,14 @@
     "shared_ies.json": 1,
     "shared_ing.json": 1,
     "shared_interface.json": 1,
-    "shared_key.json": 0,
+    "shared_key.json": 1,
     "shared_lunarbaseplatform.mat.json": 5,
     "shared_medievalladder.mat.json": 2,
     "shared_merchant..json": 1,
     "shared_modernplatform.mat.json": 4,
     "shared_monster.json": 13,
     "shared_monstert.json": 5,
-    "shared_name.json": 16,
+    "shared_name.json": 23,
     "shared_outpostplatform.mat.json": 5,
     "shared_plantplatform.mat.json": 5,
     "shared_platform.json": 2,
@@ -12775,7 +12775,7 @@
           "crash.statuseffect.json": 1
         },
         "doomed": {
-          "l6doomed.statuseffect.json": 0
+          "l6doomed.statuseffect.json": 1
         },
         "electricblock": {
           "electricblock.statuseffect.json": 1
