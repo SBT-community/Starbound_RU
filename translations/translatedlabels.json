@@ -651,7 +651,7 @@
               "flamethrowerblade.activeitem.json": 2
             },
             "hunterrifle": {
-              "hunterrifle.activeitem.json": 2
+              "hunterrifle.activeitem.json": 3
             }
           },
           "boomerang": {
@@ -814,13 +814,13 @@
           },
           "other": {
             "adaptablecrossbow": {
-              "adaptablecrossbow.activeitem.json": 2
+              "adaptablecrossbow.activeitem.json": 3
             },
             "chargegun": {
               "chargegun.activeitem.json": 2
             },
             "electricrailgun": {
-              "electricrailgun.activeitem.json": 1
+              "electricrailgun.activeitem.json": 2
             },
             "evileye": {
               "evileye.activeitem.json": 2
@@ -829,19 +829,19 @@
               "exmachina.activeitem.json": 2
             },
             "eyesword": {
-              "eyesword.activeitem.json": 1
+              "eyesword.activeitem.json": 2
             },
             "fireworkgun": {
               "fireworkgun.activeitem.json": 2
             },
             "flamingdemonsword": {
-              "flamingdemonsword.activeitem.json": 2
+              "flamingdemonsword.activeitem.json": 3
             },
             "gnomegun": {
-              "gnomegun.activeitem.json": 2
+              "gnomegun.activeitem.json": 3
             },
             "gristlegun": {
-              "gristlegun.activeitem.json": 2
+              "gristlegun.activeitem.json": 3
             },
             "magnorbs": {
               "magnorbs.activeitem.json": 2
@@ -854,11 +854,11 @@
               "remotegrenadelauncher.activeitem.json": 2
             },
             "soulseeker": {
-              "soulseeker.activeitem.json": 2
+              "soulseeker.activeitem.json": 3
             },
             "tentaclegun": {
               "tentaclegun.activeitem.json": 2,
-              "wormgun.activeitem.json": 3
+              "wormgun.activeitem.json": 4
             }
           },
           "protectorate": {
@@ -9996,19 +9996,19 @@
           "microformermushrooms.object.json": 2
         },
         "rust": {
-          "microformerrust.object.json": 0
+          "microformerrust.object.json": 2
         },
         "slimecaves": {
-          "microformerslimecaves.object.json": 0
+          "microformerslimecaves.object.json": 2
         },
         "steamspring": {
-          "microformersteamspring.object.json": 0
+          "microformersteamspring.object.json": 2
         },
         "tar": {
-          "microformertar.object.json": 0
+          "microformertar.object.json": 2
         },
         "wilderness": {
-          "microformerwilderness.object.json": 0
+          "microformerwilderness.object.json": 2
         }
       },
       "mission": {
@@ -11319,7 +11319,7 @@
           "brassteleporter.object.json": 1
         },
         "exitteleporter": {
-          "exitteleporter.object.json": 8
+          "exitteleporter.object.json": 9
         },
         "futureteleporter": {
           "futureteleporter.object.json": 1
@@ -11331,7 +11331,7 @@
           "scienceteleporter.object.json": 1
         },
         "shared_teleporter": {
-          "shared_teleporter.object.json": 6
+          "shared_teleporter.object.json": 8
         },
         "stoneteleporter": {
           "stoneteleporter.object.json": 1
@@ -11344,17 +11344,17 @@
         }
       },
       "terraformer": {
-        "terraformeralien.object.json": 0,
-        "terraformerdesert.object.json": 0,
-        "terraformerforest.object.json": 0,
-        "terraformergarden.object.json": 0,
-        "terraformerjungle.object.json": 0,
-        "terraformermidnight.object.json": 0,
-        "terraformersavannah.object.json": 0,
-        "terraformerscorched.object.json": 0,
-        "terraformersnow.object.json": 0,
-        "terraformertundra.object.json": 0,
-        "terraformervolcanic.object.json": 0
+        "terraformeralien.object.json": 2,
+        "terraformerdesert.object.json": 2,
+        "terraformerforest.object.json": 2,
+        "terraformergarden.object.json": 2,
+        "terraformerjungle.object.json": 2,
+        "terraformermidnight.object.json": 2,
+        "terraformersavannah.object.json": 2,
+        "terraformerscorched.object.json": 2,
+        "terraformersnow.object.json": 2,
+        "terraformertundra.object.json": 2,
+        "terraformervolcanic.object.json": 2
       },
       "themed": {
         "astronaut": {
