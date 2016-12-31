@@ -38,6 +38,7 @@ foi = {
   ".species": ["^charGenTextLabels/[0-9]+$"],
   ".tech": [],
   ".cinematic": [],
+  ".currency": [],
   ".liquid": [],
   ".biome": [],
   ".item": [],
