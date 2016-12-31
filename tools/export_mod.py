@@ -7,7 +7,10 @@ from json import load, dump
 from shutil import copy
 from json_tools import field_by_path
 from re import compile as regex
+from codecs import open as copen
 
+def uopen(path, mode):
+  return copen(path, mode, "utf-8")
 translations_dir = "./translations"
 mod_dir = "./new_mod"
 
@@ -81,7 +84,7 @@ for subdir, dirs, files in walk(translations_dir):
     filename = normpath(join(subdir, thefile))
     jsondata = list()
     try:
-      with open(filename, "r") as f:
+      with uopen(filename, "r") as f:
         jsondata = load(f)
     except:
       print("Cannot parse file: " + filename)
@@ -133,9 +136,9 @@ for pfile, content in patchfiles.items():
   makedirs(dirname(pfile), exist_ok = True)
   thecontent = content
   if exists(pfile):
-    with open(pfile, 'r') as f:
+    with uopen(pfile, 'r') as f:
       thecontent += load(f)
-  with open(pfile, "w") as f:
+  with uopen(pfile, "w") as f:
     dump(thecontent, f, ensure_ascii=False, indent = 2)
 
 labelsTranslatedN = 0
@@ -147,9 +150,9 @@ labelsTotalN = sum_up_counter(labelsTotal)
 labelsTranslatedN = sum_up_counter(labelsTranslated)
 
   
-with open(join(translations_dir, "translatedlabels.json"), "w") as f:
+with uopen(join(translations_dir, "translatedlabels.json"), "w") as f:
   dump(labelsTranslated, f, indent = 2, sort_keys=True)
-with open(join(translations_dir, "totallabels.json"), "w") as f:
+with uopen(join(translations_dir, "totallabels.json"), "w") as f:
   dump(labelsTotal, f, indent = 2, sort_keys=True)
 
 print("Statistics:")

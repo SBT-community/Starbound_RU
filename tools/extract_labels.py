@@ -2,7 +2,15 @@
 # A script for label extraction from unpacked game assets
 
 
-from os.path import join, dirname, exists, normpath, relpath, abspath, basename
+from os.path import join, dirname, exists, relpath, abspath, basename
+from sys import platform
+if platform == "win32":
+  from os.path import normpath as normpath_old
+  def normpath(path):
+    return normpath_old(path).replace('\\', '/')
+else:
+  from os.path import normpath
+from codecs import open as open_n_decode
 from shared_path import getSharedPath
 from json_tools import prepare, field_by_path, list_field_paths
 from re import compile as regex
@@ -41,8 +49,8 @@ def glitchDescriptionSpecialHandler(val, filename, path):
     return False
   emote = extracted.groups()[0]
   text = extracted.groups()[1]
-  t = defaultHandler(text, filename, join(path, "glitchEmotedText"))
-  e = defaultHandler(emote, filename, join(path, "glitchEmote"))
+  t = defaultHandler(text, filename, normpath(join(path, "glitchEmotedText")))
+  e = defaultHandler(emote, filename, normpath(join(path, "glitchEmote")))
   return t + e
 
 textHandlers = [
@@ -67,7 +75,7 @@ specialSharedPaths = {
 
 def parseFile(filename):
   chunk = list()
-  with open(filename, "r") as f:
+  with open_n_decode(filename, "r", "utf-8") as f:
     string = prepare(f)
     jsondata = dict()
     try:
@@ -106,10 +114,11 @@ def construct_db(assets_dir):
   db = dict()
   db[""] = dict()
   foi = list()
+  endings = tuple(files_of_interest.keys())
   for subdir, dirs, files in walk(assets_dir):
     for thefile in files:
-      if thefile.endswith(tuple(files_of_interest.keys())):
-        foi.append(join(subdir, thefile))
+      if thefile.endswith(endings):
+        foi.append(normpath(join(subdir, thefile)))
   with Pool() as p:
     r = p.imap_unordered(parseFile, foi)
     for chunk in r:
@@ -129,7 +138,7 @@ def file_by_assets(assets_fname, field, substitutions):
   if assets_fname in substitutions and field in substitutions[assets_fname]:
     return substitutions[assets_fname][field]
   else:
-    return join(texts_prefix, assets_fname) + ".json"
+    return normpath(join(texts_prefix, assets_fname)) + ".json"
 
 def process_label(combo):
   ## Creates json file structure for given label then returns
@@ -165,11 +174,11 @@ def process_label(combo):
         if thefile not in substitutions:
           substitutions[thefile] = dict()
         substitutions[thefile][field] = normpath(relpath(filename, prefix))
-      oldfile = join(prefix, file_by_assets(thefile, field, oldsubs))
+      oldfile = normpath(join(prefix, file_by_assets(thefile, field, oldsubs)))
       if exists(oldfile):
         olddata = []
         try:
-          with open(oldfile, 'r') as f:
+          with open_n_decode(oldfile, 'r', 'utf-8') as f:
             olddata = load(f)
         except:
           pass # If can not get old translation for any reason just skip it
@@ -190,7 +199,7 @@ def prepare_to_write(database):
   oldsubs = dict()
   print("Trying to merge with old data...")
   try:
-    with open(sub_file, "r") as f:
+    with open_n_decode(sub_file, "r", 'utf-8') as f:
       oldsubs = load(f)
   except:
     print("No old data found, creating new database.")
@@ -228,7 +237,7 @@ def write_file(filename, content):
     makedirs(filedir, exist_ok=True)
   else:
     raise Exception("Filename without dir: " + filename)
-  with open(filename, "w") as f:
+  with open_n_decode(filename, "w", 'utf-8') as f:
     dump(content, f, ensure_ascii=False, indent=2, sort_keys=True)
   #print("Written " + filename)
 

@@ -1,12 +1,20 @@
 #!/bin/python
 
 import os
-from os.path import dirname, join, exists, relpath, normpath, splitext
+from os.path import dirname, join, exists, relpath, splitext
 import json
 from json_tools import list_field_paths, field_by_path
 from shutil import copy
 from utils import get_answer
 from bisect import insort_left
+from codecs import open as copen
+from sys import platform
+if platform == "win32":
+  from os.path import normpath as norm
+  def normpath(path):
+    return norm(path).replace('\\', '/')
+else:
+  from os.path import normpath
 
 mod_dir = "./mod"
 root_dir = "./translations"
@@ -14,7 +22,7 @@ root_dir = "./translations"
 def parseFile(filename):
   result = []
   try:
-    with open(filename, "r") as f:
+    with copen(filename, "r", 'utf-8') as f:
       result = json.load(f)
   except:
     print("Failed to parse: " + filename)
@@ -29,7 +37,7 @@ def get_data(field, target_file, original_file):
   ## target_file - a framework file, containing the requested data
   data = ""
   try:
-    with open(target_file, "r") as f:
+    with copen(target_file, "r", 'utf-8') as f:
       data = json.load(f)
   except:
     print("Warning: can not load file " + target_file)
@@ -137,7 +145,7 @@ def replace(target_file, field, newdata, original):
         changed = True
   if changed:
     pass
-    with open(target, "w") as f:
+    with copen(target, "w", 'utf-8') as f:
       json.dump(data, f, ensure_ascii = False, indent = 2, sort_keys=True)
 
 
@@ -165,7 +173,7 @@ def handleGlitch(field, newdata, original_file, original_files):
   return True
 
 substitutions = dict()
-with open(join(root_dir ,"substitutions.json"), "r") as f:
+with copen(join(root_dir ,"substitutions.json"), "r", 'utf-8') as f:
   substitutions = json.load(f)
 
 specialHandlers = [
@@ -190,7 +198,7 @@ def process_replacement(field, newdata, original_file):
   ## field - path to field of interest inside json
   ## newdata - translated string
   ## original_file - target file of replacement in game assets
-  targetfile = join("texts", original_file + ".json")
+  targetfile = "texts/" + original_file + ".json")
   if original_file in substitutions: # We encountered shared field
     if field in substitutions[original_file]:
       targetfile = substitutions[original_file][field]
