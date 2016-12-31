@@ -15,7 +15,7 @@ foi = {
     "^follow/.+$", "^flee/.+$", "^encorage/.+$", "^severe/.+$", "^accuse/.+$",
     "^tout/.+$", "^rent/.+$", "^alert/.+$", "^welcome/.+$", "^beacon/.+$",
     "^safe/.+$", "^helpme/.+$", "^final/.+$", "^worldTypeToDescription/.+$",
-    "^planetTypeToDescription/.+$", "^starmapTypeDescription/.+$", "^.+Text(/value)?$",
+    "^planetTypeToDescription/.+$", "^terraformedPlanetDescription/.+$", "^starmapTypeDescription/.+$", "^.+Text(/value)?$",
     "^gui.+/value$", ".+Title$", "^paneLayout/.+/value$", "areYouSure/value$",
     "^threatLevelToText/.+$",  "^blueprintUnlock$",
     "^blueprintAlreadyKnown$", "^rotTimeDescriptions/.+/1$", "^messages/[a-zA-Z]+$",
