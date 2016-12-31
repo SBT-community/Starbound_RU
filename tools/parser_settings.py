@@ -84,6 +84,7 @@ foi = {
       "^.+/example/name$"],
   ".tooltip": [],
   ".itemdescription": [],
+  ".currency": [],
   "_metadata":[]
 
   }
