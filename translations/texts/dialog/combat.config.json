@@ -169,14 +169,17 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Бах!"
+    ],
     "Files": {
       "dialog/combat.config": [
         "/attack/novakid/default/10"
       ]
     },
     "Texts": {
-      "Eng": "Bang!"
+      "Eng": "Bang!",
+      "Rus": ""
     }
   },
   {
@@ -404,7 +407,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Fill your hands!"
+      "Eng": "Fill your hands!",
+      "Rus": ""
     }
   },
   {
@@ -829,14 +833,17 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "У меня нет времени на это!"
+    ],
     "Files": {
       "dialog/combat.config": [
         "/attack/novakid/default/7"
       ]
     },
     "Texts": {
-      "Eng": "I ain't got time for this!"
+      "Eng": "I ain't got time for this!",
+      "Rus": ""
     }
   },
   {
@@ -967,7 +974,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I need a glass o' root pop after all that."
+      "Eng": "I need a glass o' root pop after all that.",
+      "Rus": ""
     }
   },
   {
@@ -1134,7 +1142,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I'm a natural winner at fightin', what can I say?"
+      "Eng": "I'm a natural winner at fightin', what can I say?",
+      "Rus": ""
     }
   },
   {
@@ -1145,7 +1154,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I'm a sharper shot than you, friend!"
+      "Eng": "I'm a sharper shot than you, friend!",
+      "Rus": ""
     }
   },
   {
@@ -1180,7 +1190,8 @@
       ]
     },
     "Texts": {
-      "Eng": "If you're lookin' for trouble, then I'm your huckleberry!"
+      "Eng": "If you're lookin' for trouble, then I'm your huckleberry!",
+      "Rus": ""
     }
   },
   {
@@ -1683,7 +1694,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This ain't my first rodeo!"
+      "Eng": "This ain't my first rodeo!",
+      "Rus": ""
     }
   },
   {
@@ -1711,25 +1723,31 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Настало время пошуметь!"
+    ],
     "Files": {
       "dialog/combat.config": [
         "/attack/novakid/default/4"
       ]
     },
     "Texts": {
-      "Eng": "Time for a ruckus!"
+      "Eng": "Time for a ruckus!",
+      "Rus": ""
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Настало время для старой доброй разборки!"
+    ],
     "Files": {
       "dialog/combat.config": [
         "/attack/novakid/default/0"
       ]
     },
     "Texts": {
-      "Eng": "Time for an ol'-fashioned showdown!"
+      "Eng": "Time for an ol'-fashioned showdown!",
+      "Rus": ""
     }
   },
   {
@@ -1817,14 +1835,17 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Мы не хотим никаких проблем!"
+    ],
     "Files": {
       "dialog/combat.config": [
         "/attack/novakid/default/11"
       ]
     },
     "Texts": {
-      "Eng": "We don't want no trouble round here!"
+      "Eng": "We don't want no trouble round here!",
+      "Rus": ""
     }
   },
   {
@@ -1835,7 +1856,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Well wasn't that a right ol' rodeo?"
+      "Eng": "Well wasn't that a right ol' rodeo?",
+      "Rus": ""
     }
   },
   {
@@ -2007,14 +2029,18 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Йи-хаа! Это было что-то!",
+      "Йи-Хо! Это было нечто!"
+    ],
     "Files": {
       "dialog/combat.config": [
         "/killedTarget/novakid/default/3"
       ]
     },
     "Texts": {
-      "Eng": "Yee-haw! That was somethin'."
+      "Eng": "Yee-haw! That was somethin'.",
+      "Rus": ""
     }
   },
   {
@@ -2025,7 +2051,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Yee-haw, here we go!"
+      "Eng": "Yee-haw, here we go!",
+      "Rus": ""
     }
   },
   {
@@ -2036,7 +2063,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Yer feelin' lucky, punk?"
+      "Eng": "Yer feelin' lucky, punk?",
+      "Rus": ""
     }
   },
   {
@@ -2203,7 +2231,8 @@
       ]
     },
     "Texts": {
-      "Eng": "let's ride!"
+      "Eng": "let's ride!",
+      "Rus": ""
     }
   }
 ]
