@@ -2339,7 +2339,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Вы рыбы предпочитаете мечи или копья?"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/floran/hylotl/28"
@@ -3414,7 +3416,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran feel comfortable with monkey man."
+      "Eng": "Floran feel comfortable with monkey man.",
+      "Rus": "Флоран чувствует ссебя комфортно с обезьяной."
     }
   },
   {
@@ -3610,7 +3613,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флоран слышал, что авиане устраивают жертвоприношения. А после этого вы сьедаете мясо?"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/floran/avian/15"
@@ -3618,11 +3623,16 @@
     },
     "Texts": {
       "Eng": "Floran heard that Avians make ssacrifices. Do you eat the meat after?",
-      "Rus": ""
+      "Rus": "Флоран слышал, что авиане совершают жертвоприношения. А после этого вы сьедаете мясо?"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флоран надеется, что роботу нравится здесь.",
+      "Флоран надеетссся, что роботу нравится здесссь.",
+      "Флоран надеетссся, что роботу нравится это месссто.",
+      "Флоран надеется, что роботу нравится это место."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/floran/glitch/21"
@@ -3642,7 +3652,7 @@
     },
     "Texts": {
       "Eng": "Floran hope robot teach Floran maths. Robot good at maths, right?",
-      "Rus": ""
+      "Rus": "Флоран надеется, что робот научит флорана математике. Роботы хороши в математике, верно?"
     }
   },
   {
@@ -3670,7 +3680,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флорану ссстрашно. Вы на сстороне Флорана?",
+      "Флоран боитсся. Ты на ссстороне Флорана?"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/floran/novakid/4"
@@ -3678,11 +3691,13 @@
     },
     "Texts": {
       "Eng": "Floran is ssscared. Are you on Floran's ssside?",
-      "Rus": ""
+      "Rus": "Флорану ссстрашно. Вы на сстороне Флорана?"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флоран устал."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/floran/generic/66"
@@ -3690,11 +3705,14 @@
     },
     "Texts": {
       "Eng": "Floran is tired.",
-      "Rus": ""
+      "Rus": "Флоран уссстал."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флоран является великим охотником, может быть, лучшим на свете! А как насчет тебя?",
+      "Флораны является великими охотниками, может быть, лучшими на свете! А как насчет вас?"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/floran/floran/12"
@@ -3702,11 +3720,15 @@
     },
     "Texts": {
       "Eng": "Floran iss great hunter, maybe best ever! How about you?",
-      "Rus": ""
+      "Rus": "Флоран великий охотник, может быть даже лучший на ссвете! А как нассчёт тебя?"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флоран учился правилам этикета.",
+      "Флоран учил правила этикета.",
+      "Флоран выучил правила этикета."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/floran/generic/82"
@@ -3714,11 +3736,14 @@
     },
     "Texts": {
       "Eng": "Floran learn rules of etiquette.",
-      "Rus": ""
+      "Rus": "Флоран выучил правила этикета."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флорану нравится, как выглядят птицы.",
+      "Флорану нравится смотреть на птиц."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/floran/avian/9"
@@ -3726,7 +3751,7 @@
     },
     "Texts": {
       "Eng": "Floran like look of bird.",
-      "Rus": ""
+      "Rus": "Флорану, нравитссся, как выглядят птицы."
     }
   },
   {
