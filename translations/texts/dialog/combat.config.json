@@ -169,9 +169,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Бах!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
         "/attack/novakid/default/10"
@@ -179,7 +177,7 @@
     },
     "Texts": {
       "Eng": "Bang!",
-      "Rus": ""
+      "Rus": "Бах!"
     }
   },
   {
@@ -833,9 +831,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "У меня нет времени на это!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
         "/attack/novakid/default/7"
@@ -843,7 +839,7 @@
     },
     "Texts": {
       "Eng": "I ain't got time for this!",
-      "Rus": ""
+      "Rus": "У меня нет времени на это!"
     }
   },
   {
@@ -1155,7 +1151,7 @@
     },
     "Texts": {
       "Eng": "I'm a sharper shot than you, friend!",
-      "Rus": ""
+      "Rus": "Я стреляю пометче тебя, дружок!"
     }
   },
   {
@@ -1191,7 +1187,7 @@
     },
     "Texts": {
       "Eng": "If you're lookin' for trouble, then I'm your huckleberry!",
-      "Rus": ""
+      "Rus": "Коль ищешь лиха, ты его уже нашел."
     }
   },
   {
@@ -1723,9 +1719,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Настало время пошуметь!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
         "/attack/novakid/default/4"
@@ -1733,13 +1727,11 @@
     },
     "Texts": {
       "Eng": "Time for a ruckus!",
-      "Rus": ""
+      "Rus": "Настало время пошуметь!"
     }
   },
   {
-    "DeniedAlternatives": [
-      "Настало время для старой доброй разборки!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
         "/attack/novakid/default/0"
@@ -1747,7 +1739,7 @@
     },
     "Texts": {
       "Eng": "Time for an ol'-fashioned showdown!",
-      "Rus": ""
+      "Rus": "Настало время для старой доброй разборки!"
     }
   },
   {
@@ -1835,9 +1827,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Мы не хотим никаких проблем!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
         "/attack/novakid/default/11"
@@ -1845,7 +1835,7 @@
     },
     "Texts": {
       "Eng": "We don't want no trouble round here!",
-      "Rus": ""
+      "Rus": "Нам тут не надо проблем!"
     }
   },
   {
@@ -2064,7 +2054,7 @@
     },
     "Texts": {
       "Eng": "Yer feelin' lucky, punk?",
-      "Rus": ""
+      "Rus": "Ты везунчик, а сопляк?"
     }
   },
   {
