@@ -81,7 +81,7 @@ foi = {
   ".aimission": [".*Text$"],
   ".questtemplate": ["^.+Text(/[^0-9]+([0-9]+/1)?/[0-9]+)?$",
     "^scriptConfig/(descriptions|.+Note|parcel(Name|Description))/.+$",
-      "^.+/example/name$"],
+      "^.+/example/name$", "^scriptConfig/objectiveLists/[^/]+/[0-9]+/0$"],
   ".tooltip": [],
   ".itemdescription": [],
   "_metadata":[]
