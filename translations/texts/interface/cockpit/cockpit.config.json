@@ -948,6 +948,17 @@
     }
   },
   {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/terraformedPlanetDescription/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Terraforming has made this planet safe for habitation, though unnatural in appearance."
+    }
+  },
+  {
     "DeniedAlternatives": [
       "Зона посадки в ^#e11212;вулканической^white; местности, где ^red;чрезвычайно горячо^white;. По первому требованию я начну расчёты вероятности немедленного испепеления после высадки..."
     ],
@@ -1287,6 +1298,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/terraformedPlanetDescription/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This planet has been altered beyond recognition by extensive terraforming."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/planetTypeToDescription/toxic/0"
       ]
     },
@@ -1305,6 +1327,17 @@
     "Texts": {
       "Eng": "This planet is ^#999966;barren^white;, supporting no life of any kind. There is nothing here at all...",
       "Rus": "Эта планета представляет собой ^#999966;пустошь^white; без признаков жизни. Тут вообще ничего нет..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/terraformedPlanetDescription/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "This planet's climate and ecosystems have been dramatically altered by terraforming."
     }
   },
   {
