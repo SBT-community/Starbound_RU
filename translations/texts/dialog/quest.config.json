@@ -1525,7 +1525,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Здрасьте! Кажись, у тебя посылка для меня?"
+    ],
     "Files": {
       "dialog/quest.config": [
         "/escort_trade/collectDelivery/novakid/default/0"
@@ -1557,7 +1559,7 @@
     },
     "Texts": {
       "Eng": "I always thought I had a pretty good sense on direction... I guess not. Would you mind taking me to <questGiver>?",
-      "Rus": ""
+      "Rus": "Я всегда думал, что довольно хорошо ориентируюсь на местности... Походу, нет. Ты не мог бы отвести меня к <questGiver>?"
     }
   },
   {
