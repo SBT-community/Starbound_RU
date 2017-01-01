@@ -1757,7 +1757,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я закончил крафтить. Можешь доставить это <questGiver> за меня?"
+    ],
     "Files": {
       "dialog/quest.config": [
         "/hat/crafted/glitch/default/0/glitchEmotedText",
@@ -1766,7 +1768,7 @@
     },
     "Texts": {
       "Eng": "I have finished crafting. Can you deliver this to <questGiver> for me?",
-      "Rus": "Я закончил крафтить. Можешь доставить это <questGiver> за меня?"
+      "Rus": "Я закончил крафтить. Можешь доставить это <questGiver> для меня?"
     }
   },
   {
@@ -1791,7 +1793,7 @@
     },
     "Texts": {
       "Eng": "I have no idea how that <item> got here!",
-      "Rus": ""
+      "Rus": "<item>? Не имею ни малейшего понятия, как это сюда попало!"
     }
   },
   {
@@ -1803,7 +1805,7 @@
     },
     "Texts": {
       "Eng": "I have no idea where I am. Please take me back to <questGiver>.",
-      "Rus": ""
+      "Rus": "У меня нет ни малейшего понятия, где я нахожусь. Пожалуйста, отведи меня обратно к <questGiver>."
     }
   },
   {
