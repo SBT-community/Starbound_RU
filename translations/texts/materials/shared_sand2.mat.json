@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Сухой песок."
+    ],
     "Files": {
       "items/materials/sand2.matitem": [
         "/florandescription"
@@ -11,7 +13,7 @@
     },
     "Texts": {
       "Eng": "Dussty sand.",
-      "Rus": "Сухой песок."
+      "Rus": "Ссухой песок."
     }
   },
   {
@@ -41,7 +43,7 @@
     },
     "Texts": {
       "Eng": "Some mighty soft lookin' sand.",
-      "Rus": ""
+      "Rus": "Немного шибко мягкого на вид песка."
     }
   },
   {
