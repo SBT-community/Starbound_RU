@@ -1,24 +1,32 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Древние фрески любят быть туманными и загадочными...",
+      "Древние голограммы любят быть туманными и загадочными...",
+      "Древние голограммы любят быть туманными и таинственными..."
+    ],
     "Files": {
       "objects/ancient/hologram1/hologram1.object": [
         "/humanDescription"
       ]
     },
     "Texts": {
-      "Eng": "Ancient murals love to be vague and mysterious..."
+      "Eng": "Ancient murals love to be vague and mysterious...",
+      "Rus": ""
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Светящийся рисунок человека который помогает планетам."
+    ],
     "Files": {
       "objects/ancient/hologram1/hologram1.object": [
         "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "Glowing picture man is helping planetsss."
+      "Eng": "Glowing picture man is helping planetsss.",
+      "Rus": ""
     }
   },
   {
@@ -29,7 +37,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The hologram is a beautiful and mysterious depiction of a being."
+      "Eng": "The hologram is a beautiful and mysterious depiction of a being.",
+      "Rus": ""
     }
   },
   {
@@ -40,18 +49,22 @@
       ]
     },
     "Texts": {
-      "Eng": "This depiction of a diety reminds me of Kluex."
+      "Eng": "This depiction of a diety reminds me of Kluex.",
+      "Rus": "Это изображение божества напоминает мне о Клюэксе."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Эта голограмма, похоже, изображает древнюю фигуру с планетами."
+    ],
     "Files": {
       "objects/ancient/hologram1/hologram1.object": [
         "/apexDescription"
       ]
     },
     "Texts": {
-      "Eng": "This hologram seems to depict an ancient figure with planets."
+      "Eng": "This hologram seems to depict an ancient figure with planets.",
+      "Rus": ""
     }
   },
   {
@@ -62,7 +75,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This ol' picture shows some mysterious strange figure."
+      "Eng": "This ol' picture shows some mysterious strange figure.",
+      "Rus": ""
     }
   },
   {
@@ -73,7 +87,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This scene seems to show a being protecting planets."
+      "Eng": "This scene seems to show a being protecting planets.",
+      "Rus": "Эта картина, кажется, показывает существо, которое защищает планеты."
     }
   }
 ]
