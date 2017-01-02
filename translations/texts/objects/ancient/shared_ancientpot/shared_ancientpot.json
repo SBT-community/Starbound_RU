@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Очень обидно, разрушать такой старый горшочек..."
+    ],
     "Files": {
       "objects/ancient/ancientpot1/ancientpot1.object": [
         "/novakidDescription"
@@ -22,11 +24,15 @@
       ]
     },
     "Texts": {
-      "Eng": "Almost a shame to bust up a pot so old..."
+      "Eng": "Almost a shame to bust up a pot so old...",
+      "Rus": ""
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Древние горшки нужно разбивать.",
+      "Древние вазы нужно разбивать."
+    ],
     "Files": {
       "objects/ancient/ancientpot1/ancientpot1.object": [
         "/floranDescription"
@@ -48,11 +54,14 @@
       ]
     },
     "Texts": {
-      "Eng": "Ancient potss need ssmashing."
+      "Eng": "Ancient potss need ssmashing.",
+      "Rus": ""
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я не думаю, что эта ваза носит церемониальный характер. Интересно, что может быть внутри."
+    ],
     "Files": {
       "objects/ancient/ancientpot1/ancientpot1.object": [
         "/avianDescription"
@@ -74,7 +83,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I don't think this pot is ceremonial in nature. I wonder what could be inside."
+      "Eng": "I don't think this pot is ceremonial in nature. I wonder what could be inside.",
+      "Rus": ""
     }
   },
   {
@@ -100,7 +110,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I wonder what ancient treasures could be inside this old pot."
+      "Eng": "I wonder what ancient treasures could be inside this old pot.",
+      "Rus": "Интересно, какие древние сокровища могут быть в этой старой вазе."
     }
   },
   {
@@ -126,7 +137,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This ancient pot has managed to survive the ravages of time."
+      "Eng": "This ancient pot has managed to survive the ravages of time.",
+      "Rus": "Эта древняя ваза сумела пережить разрушительные последствия времени."
     }
   },
   {
@@ -152,7 +164,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This ancient pot is in remarkable shape considering how old it is."
+      "Eng": "This ancient pot is in remarkable shape considering how old it is.",
+      "Rus": "Эта древняя ваза хорошо сохранилась, учитывая, сколько ей лет."
     }
   },
   {
@@ -178,7 +191,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This pot looks ancient! Maybe there's something still inside it."
+      "Eng": "This pot looks ancient! Maybe there's something still inside it.",
+      "Rus": "Эта ваза выглядит древней! Может, в ней что-то есть."
     }
   },
   {
@@ -204,7 +218,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Whatever is inside this ancient pot has been long forgotten."
+      "Eng": "Whatever is inside this ancient pot has been long forgotten.",
+      "Rus": "Что бы ни было в этой древней вазе об этом уже давно забыли."
     }
   }
 ]
