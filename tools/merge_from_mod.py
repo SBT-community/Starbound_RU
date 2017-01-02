@@ -198,7 +198,7 @@ def process_replacement(field, newdata, original_file):
   ## field - path to field of interest inside json
   ## newdata - translated string
   ## original_file - target file of replacement in game assets
-  targetfile = "texts/" + original_file + ".json")
+  targetfile = "texts/" + original_file + ".json"
   if original_file in substitutions: # We encountered shared field
     if field in substitutions[original_file]:
       targetfile = substitutions[original_file][field]
