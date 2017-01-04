@@ -43,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Must be placed on a planet surface!"
+      "Eng": "Must be placed on a planet surface!",
+      "Rus": "Должен быть установлен на поверхности планеты!"
     }
   },
   {
@@ -54,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Planet already fully terraformed!"
+      "Eng": "Planet already fully terraformed!",
+      "Rus": "Планета уже полностью терраформирована!"
     }
   },
   {
@@ -65,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Target size must be larger than current size!"
+      "Eng": "Target size must be larger than current size!",
+      "Rus": "Выбранный размер должен быть больше текущего размера!"
     }
   },
   {
@@ -76,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Terraforming already in progress!"
+      "Eng": "Terraforming already in progress!",
+      "Rus": "Терраформинг уже в процессе!"
     }
   },
   {
@@ -87,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Too close to another active terraformer!"
+      "Eng": "Too close to another active terraformer!",
+      "Rus": "Слишком близко к другому активному терраформеру!"
     }
   },
   {
@@ -110,7 +115,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^gray;Terraforming stage limited to %s sectors."
+      "Eng": "^gray;Terraforming stage limited to %s sectors.",
+      "Rus": "^gray;Этап терраформирования охватит сектора в количестве %s ."
     }
   },
   {
@@ -121,7 +127,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^gray;World terraforming complete."
+      "Eng": "^gray;World terraforming complete.",
+      "Rus": "^gray;Терраформинг планеты завершен."
     }
   },
   {
@@ -144,7 +151,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^red;Insufficient Essence!"
+      "Eng": "^red;Insufficient Essence!",
+      "Rus": "^red;Недостаточно Эссенции!"
     }
   },
   {
@@ -155,7 +163,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^yellow;Connecting to terraformer..."
+      "Eng": "^yellow;Connecting to terraformer...",
+      "Rus": "^yellow;Устанавливается соединение..."
     }
   },
   {
@@ -166,7 +175,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^yellow;Terraforming in progress..."
+      "Eng": "^yellow;Terraforming in progress...",
+      "Rus": "^yellow;Терраформинг в процессе..."
     }
   }
 ]
