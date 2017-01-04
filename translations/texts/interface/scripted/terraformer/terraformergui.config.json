@@ -39,6 +39,61 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/scripted/terraformer/terraformergui.config": [
+        "/errorMessages/needSurface"
+      ]
+    },
+    "Texts": {
+      "Eng": "Must be placed on a planet surface!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/terraformer/terraformergui.config": [
+        "/errorMessages/worldComplete"
+      ]
+    },
+    "Texts": {
+      "Eng": "Planet already fully terraformed!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/terraformer/terraformergui.config": [
+        "/errorMessages/noExpansion"
+      ]
+    },
+    "Texts": {
+      "Eng": "Target size must be larger than current size!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/terraformer/terraformergui.config": [
+        "/errorMessages/alreadyActive"
+      ]
+    },
+    "Texts": {
+      "Eng": "Terraforming already in progress!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/terraformer/terraformergui.config": [
+        "/errorMessages/tooClose"
+      ]
+    },
+    "Texts": {
+      "Eng": "Too close to another active terraformer!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/terraformer/terraformergui.config": [
         "/gui/lblCurrentStatus/value"
       ]
     },
@@ -51,12 +106,67 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/scripted/terraformer/terraformergui.config": [
+        "/statusMessages/maxStepSize"
+      ]
+    },
+    "Texts": {
+      "Eng": "^gray;Terraforming stage limited to %s sectors."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/terraformer/terraformergui.config": [
+        "/statusMessages/worldComplete"
+      ]
+    },
+    "Texts": {
+      "Eng": "^gray;World terraforming complete."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/terraformer/terraformergui.config": [
         "/gui/lblEssenceLabel/value"
       ]
     },
     "Texts": {
       "Eng": "^green;ESSENCE^white;",
       "Rus": "^green;ЭССЕНЦИЯ^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/terraformer/terraformergui.config": [
+        "/statusMessages/insufficientEssence"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;Insufficient Essence!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/terraformer/terraformergui.config": [
+        "/statusMessages/connecting"
+      ]
+    },
+    "Texts": {
+      "Eng": "^yellow;Connecting to terraformer..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/terraformer/terraformergui.config": [
+        "/statusMessages/active"
+      ]
+    },
+    "Texts": {
+      "Eng": "^yellow;Terraforming in progress..."
     }
   }
 ]
