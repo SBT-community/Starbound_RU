@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Дюрасталевая панель, спроектированная для помещение, подверженных перепадам давления."
+    ],
     "Files": {
       "items/materials/pressuriseddurasteel.matitem": [
         "/description"
@@ -11,7 +13,7 @@
     },
     "Texts": {
       "Eng": "A durasteel panel, specially designed to contain pressurised environments.",
-      "Rus": "Дюрасталевая панель, спроектированная для помещение, подверженных перепадам давления."
+      "Rus": "Дюрасталевая панель, спроектированная для помещений, подверженных перепадам давления."
     }
   },
   {
@@ -25,7 +27,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A shiny lookin' durasteel panel."
+      "Eng": "A shiny lookin' durasteel panel.",
+      "Rus": "Блестящая на вид дюрасталевая панель."
     }
   },
   {
@@ -54,7 +57,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Ssstrong durassteel panelling."
+      "Eng": "Ssstrong durassteel panelling.",
+      "Rus": "Прочные дюрассталевые панели."
     }
   },
   {
@@ -68,7 +72,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This durasteel panel is designed to accommodate changes in pressurisation."
+      "Eng": "This durasteel panel is designed to accommodate changes in pressurisation.",
+      "Rus": ""
     }
   }
 ]

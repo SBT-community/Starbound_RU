@@ -18,7 +18,7 @@ foi = {
     "^planetTypeToDescription/.+$", "^terraformedPlanetDescription/.+$", "^starmapTypeDescription/.+$", "^.+Text(/value)?$",
     "^gui.+/value$", ".+Title$", "^paneLayout/.+/value$", "areYouSure/value$",
     "^threatLevelToText/.+$",  "^blueprintUnlock$",
-    "^blueprintAlreadyKnown$", "^rotTimeDescriptions/.+/1$", "^messages/[a-zA-Z]+$",
+    "^blueprintAlreadyKnown$", "^rotTimeDescriptions/.+/1$", "^[a-zA-Z]*[mM]essages/[a-zA-Z]+$",
     ".+[mM]essage$", "^.+/hint$",
     "^defaultPetNameLabel$", ".*descriptions/[0-9]+$", "^(un)?trackLabel$",
      "^modeTypeTextAndColor/[0-9]+/[0-9]+$"],
@@ -81,7 +81,7 @@ foi = {
   ".aimission": [".*Text$"],
   ".questtemplate": ["^.+Text(/[^0-9]+([0-9]+/1)?/[0-9]+)?$",
     "^scriptConfig/(descriptions|.+Note|parcel(Name|Description))/.+$",
-      "^.+/example/name$"],
+      "^.+/example/name$", "^scriptConfig/objectiveLists/[^/]+/[0-9]+/0$"],
   ".tooltip": [],
   ".itemdescription": [],
   "_metadata":[]

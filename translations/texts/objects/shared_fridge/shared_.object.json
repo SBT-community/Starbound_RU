@@ -45,7 +45,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Под водой, охлаждать легче чем на поверхности. Это устройство являются хорошей заменой охлаждению под водой.",
+      "Под водой, охлаждать легче. Это устройство очень хорошая замена океану."
+    ],
     "Files": {
       "objects/generic/ceilingfridge1/largecooler1.object": [
         "/hylotlDescription"

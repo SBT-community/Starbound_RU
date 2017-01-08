@@ -349,14 +349,14 @@
       "arrivedhome.config.json": 54,
       "clues.config.json": 50,
       "colourful.config.json": 33,
-      "combat.config.json": 169,
-      "converse.config.json": 341,
+      "combat.config.json": 178,
+      "converse.config.json": 464,
       "crewmember.config.json": 39,
       "cultist.config.json": 31,
       "deadbeat.config.json": 23,
       "devoutavian.config.json": 134,
       "eyeguard.config.json": 26,
-      "eyepatch.config.json": 15,
+      "eyepatch.config.json": 26,
       "fenerox.config.json": 78,
       "flee.config.json": 43,
       "frog.config.json": 2,
@@ -369,7 +369,7 @@
       "mutantminer.config.json": 10,
       "oremerchant.config.json": 119,
       "outpost.config.json": 42,
-      "quest.config.json": 41,
+      "quest.config.json": 76,
       "rebel.config.json": 3,
       "scientist.config.json": 12,
       "shared_.config.json": 100,
@@ -383,7 +383,7 @@
     "generic": {
       "shared_lightbulb.json": 1
     },
-    "glitchEmotes.json": 344,
+    "glitchEmotes.json": 350,
     "help.config.json": 58,
     "hunger.config.json": 15,
     "interface": {
@@ -406,7 +406,7 @@
         "shared_.config.json": 2
       },
       "cockpit": {
-        "cockpit.config.json": 123
+        "cockpit.config.json": 126
       },
       "confirmation": {
         "hiremercenaryconfirmation.config.json": 2,
@@ -471,7 +471,7 @@
           "techupgradegui.config.json": 9
         },
         "terraformer": {
-          "terraformergui.config.json": 4
+          "terraformergui.config.json": 14
         },
         "vaultaccess": {
           "vaultaccessgui.config.json": 5
@@ -655,30 +655,30 @@
             }
           },
           "boomerang": {
-            "boomerang.activeitem.json": 1,
-            "fireboomerang.activeitem.json": 2,
-            "iceboomerang.activeitem.json": 2,
-            "lunarang.activeitem.json": 2,
-            "wormerang.activeitem.json": 2
+            "boomerang.activeitem.json": 2,
+            "fireboomerang.activeitem.json": 3,
+            "iceboomerang.activeitem.json": 3,
+            "lunarang.activeitem.json": 3,
+            "wormerang.activeitem.json": 3
           },
           "bossdrop": {
             "dragonhead": {
               "dragonhead.activeitem.json": 2
             },
             "erchiuseye": {
-              "erchiuseye.activeitem.json": 2
+              "erchiuseye.activeitem.json": 3
             },
             "ixodoomclaw": {
-              "ixodoomclaw.activeitem.json": 2
+              "ixodoomclaw.activeitem.json": 3
             },
             "kluexstaff": {
-              "kluexstaff.activeitem.json": 2
+              "kluexstaff.activeitem.json": 3
             },
             "miniknoglauncher": {
               "miniknoglauncher.activeitem.json": 2
             },
             "soluskatana": {
-              "soluskatana.activeitem.json": 2
+              "soluskatana.activeitem.json": 3
             }
           },
           "bow": {
@@ -704,29 +704,29 @@
               "lightbow.activeitem.json": 2
             },
             "poisonbow": {
-              "poisonbow.activeitem.json": 2
+              "poisonbow.activeitem.json": 3
             },
             "pollenpump": {
-              "pollenpump.activeitem.json": 2
+              "pollenpump.activeitem.json": 3
             },
             "tungstenbow": {
               "tungstenbow.activeitem.json": 1
             }
           },
           "chakram": {
-            "chakram.activeitem.json": 1,
-            "hardchakram.activeitem.json": 2,
-            "neochakram.activeitem.json": 2,
-            "sawchakram.activeitem.json": 2
+            "chakram.activeitem.json": 2,
+            "hardchakram.activeitem.json": 3,
+            "neochakram.activeitem.json": 3,
+            "sawchakram.activeitem.json": 3
           },
           "fist": {
             "boxingglove.activeitem.json": 2,
             "brassknuckles.activeitem.json": 2,
-            "clawglove.activeitem.json": 2,
-            "gauntlet.activeitem.json": 2,
-            "stunglove.activeitem.json": 2,
+            "clawglove.activeitem.json": 3,
+            "gauntlet.activeitem.json": 3,
+            "stunglove.activeitem.json": 3,
             "supernovaglove.activeitem.json": 2,
-            "vinefist.activeitem.json": 2
+            "vinefist.activeitem.json": 3
           },
           "generated": {
             "shared_.activeitem.json": 1
@@ -741,11 +741,11 @@
             "broadsword": {
               "astrosabredeluxe.activeitem.json": 2,
               "commonbroadsword.activeitem.json": 1,
-              "hokucide.activeitem.json": 2,
+              "hokucide.activeitem.json": 3,
               "legendblade.activeitem.json": 2,
               "rarebroadsword.activeitem.json": 1,
               "stoneblade.activeitem.json": 2,
-              "timepierce.activeitem.json": 3,
+              "timepierce.activeitem.json": 4,
               "uncommonbroadsword.activeitem.json": 1
             },
             "dagger": {
@@ -2686,7 +2686,7 @@
           "thornsaugment.augment.json": 2
         },
         "fishing": {
-          "fishinglurecontrol.augment.json": 0,
+          "fishinglurecontrol.augment.json": 2,
           "fishinglurelight.augment.json": 2,
           "fishingluresinking.augment.json": 2,
           "fishingreelfast.augment.json": 2,
@@ -3527,7 +3527,7 @@
       "shared_plate.mat.json": 5,
       "shared_platinumblock.mat.json": 5,
       "shared_pressurisedbeam.mat.json": 4,
-      "shared_pressuriseddurasteel.mat.json": 2,
+      "shared_pressuriseddurasteel.mat.json": 4,
       "shared_pressurisedgirder.mat.json": 2,
       "shared_purplecrystal.mat.json": 3,
       "shared_rainbowwoodblock.mat.json": 5,
@@ -3541,7 +3541,7 @@
       "shared_rustyblock.mat.json": 5,
       "shared_rustymetal.mat.json": 5,
       "shared_sand.mat.json": 5,
-      "shared_sand2.mat.json": 1,
+      "shared_sand2.mat.json": 3,
       "shared_sandstone.json": 1,
       "shared_sandstoneblock.mat.json": 2,
       "shared_sewage.mat.json": 2,
@@ -3563,7 +3563,7 @@
       "shared_stonetiles.mat.json": 2,
       "shared_supermatter.mat.json": 5,
       "shared_tar.mat.json": 4,
-      "shared_techhull1.mat.json": 2,
+      "shared_techhull1.mat.json": 3,
       "shared_temple1.mat.json": 4,
       "shared_temple2.mat.json": 4,
       "shared_temple3.mat.json": 5,
@@ -3702,13 +3702,13 @@
       "fishing": {
         "large": {
           "breach": {
-            "fishingbreach.monstertype.json": 0
+            "fishingbreach.monstertype.json": 1
           },
           "chuckle": {
-            "fishingchuckle.monstertype.json": 0
+            "fishingchuckle.monstertype.json": 1
           },
           "dark": {
-            "fishingdark.monstertype.json": 0
+            "fishingdark.monstertype.json": 1
           },
           "fan": {
             "fishingfan.monstertype.json": 0
@@ -4223,7 +4223,7 @@
         "farm.npctype.json": 10,
         "gothic.npctype.json": 10,
         "island.npctype.json": 10,
-        "pastel.npctype.json": 0,
+        "pastel.npctype.json": 3,
         "retroscifi.npctype.json": 5,
         "sea.npctype.json": 10,
         "spooky.npctype.json": 10,
@@ -4284,7 +4284,7 @@
         "outposthylotlwarrior.npctype.json": 3,
         "outpostpenguinpromoter.npctype.json": 1,
         "outpostundersideman.npctype.json": 8,
-        "santa.npctype.json": 0,
+        "santa.npctype.json": 6,
         "tonauacoutpost.npctype.json": 5,
         "vaultkeytrader.npctype.json": 1,
         "visitors": {
@@ -4695,7 +4695,7 @@
           "essencechest.object.json": 8
         },
         "hologram1": {
-          "hologram1.object.json": 0
+          "hologram1.object.json": 2
         },
         "hologram2": {
           "hologram2.object.json": 0
@@ -4734,7 +4734,7 @@
           "shared_ancientlight.json": 7
         },
         "shared_ancientpot": {
-          "shared_ancientpot.json": 0
+          "shared_ancientpot.json": 5
         },
         "shared_ancientstriplight": {
           "shared_ancientstriplight.json": 9
@@ -5303,10 +5303,10 @@
           "anchor.object.json": 9
         },
         "ashjar1": {
-          "ashjar1.object.json": 0
+          "ashjar1.object.json": 9
         },
         "ashjar2": {
-          "ashjar2.object.json": 0
+          "ashjar2.object.json": 9
         },
         "ashjar3": {
           "ashjar3.object.json": 0
@@ -5315,13 +5315,13 @@
           "avianbanner1.object.json": 9
         },
         "avianbanner2": {
-          "avianbanner2.object.json": 0
+          "avianbanner2.object.json": 9
         },
         "avianbanner3": {
-          "avianbanner3.object.json": 0
+          "avianbanner3.object.json": 8
         },
         "avianbanner4": {
-          "avianbanner4.object.json": 0
+          "avianbanner4.object.json": 9
         },
         "avianbench1": {
           "avianbench1.object.json": 0
@@ -5673,7 +5673,7 @@
           "windchicken.object.json": 0
         },
         "wingedurn": {
-          "wingedurn.object.json": 8
+          "wingedurn.object.json": 9
         }
       },
       "biome": {
@@ -6995,7 +6995,7 @@
           "devstatuegeorge.object.json": 0
         },
         "tallchair": {
-          "tallchair.object.json": 8
+          "tallchair.object.json": 9
         }
       },
       "bugs": {
@@ -8139,7 +8139,7 @@
           "perfectlygenericitem.object.json": 9
         },
         "pethouse": {
-          "pethouse.object.json": 0
+          "pethouse.object.json": 1
         },
         "pillar1": {
           "pillar1.object.json": 0
@@ -8922,7 +8922,7 @@
       },
       "holiday": {
         "bigpresent": {
-          "bigpresent.object.json": 0
+          "bigpresent.object.json": 4
         },
         "decoratedtree": {
           "decoratedtree.object.json": 0
@@ -10416,17 +10416,17 @@
       "outpost": {
         "2stopteleshop": {
           "2stopshop.object.json": 10,
-          "2stopshopclosed.object.json": 7,
+          "2stopshopclosed.object.json": 8,
           "2stoptele.object.json": 9
         },
         "bathroomhanddryer": {
-          "bathroomhanddryer.object.json": 7
+          "bathroomhanddryer.object.json": 9
         },
         "bathroomsink": {
           "bathroomsink.object.json": 6
         },
         "bathroomstall": {
-          "bathroomstall.object.json": 7
+          "bathroomstall.object.json": 8
         },
         "bathroomtrash": {
           "bathroomtrash.object.json": 1
@@ -10435,10 +10435,10 @@
           "bathroomtrashquest.object.json": 1
         },
         "bathroomurinal": {
-          "bathroomurinal.object.json": 7
+          "bathroomurinal.object.json": 8
         },
         "bench": {
-          "bench.object.json": 6
+          "bench.object.json": 7
         },
         "coffeemachine": {
           "coffeemachine.object.json": 10
@@ -10502,7 +10502,7 @@
           "outpostairlocklarge.object.json": 1
         },
         "outpostbarstool": {
-          "outpostbarstool.object.json": 0
+          "outpostbarstool.object.json": 1
         },
         "outpostbed": {
           "outpostbed.object.json": 9
@@ -11021,7 +11021,7 @@
         "shared_lightBroken.object.json": 0,
         "shared_roken.object.json": 0
       },
-      "shared_light.json": 14,
+      "shared_light.json": 16,
       "shared_liquidsensor": {
         "shared_liquidsensor.object.json": 2
       },
@@ -11122,7 +11122,7 @@
           "apexshiplightBroken.object.json": 3
         },
         "apexshiplocker": {
-          "apexshiplocker.object.json": 0
+          "apexshiplocker.object.json": 5
         },
         "aviancaptainschair": {
           "aviancaptainschair.object.json": 1
@@ -12631,9 +12631,9 @@
         "techscientist5.questtemplate.json": 3,
         "techscientist6.questtemplate.json": 5,
         "ursaminer1.questtemplate.json": 5,
-        "vaultkey.questtemplate.json": 4
+        "vaultkey.questtemplate.json": 7
       },
-      "quests.config.json": 35,
+      "quests.config.json": 47,
       "shared_.questtemplate.json": 2,
       "story": {
         "apex_mission1.questtemplate.json": 11,

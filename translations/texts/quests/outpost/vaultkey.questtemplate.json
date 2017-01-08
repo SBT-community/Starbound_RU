@@ -3,6 +3,42 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/outpost/vaultkey.questtemplate": [
+        "/scriptConfig/objectiveLists/enterVault/0/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Acquire a Vault Key from the mysterious trader",
+      "Rus": "Получите Ключ Хранилища от загадочного торговца"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/vaultkey.questtemplate": [
+        "/scriptConfig/objectiveLists/obtainKey/0/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Acquire a ^orange;Vault Key^reset; from the mysterious trader",
+      "Rus": "Получите ^orange;Ключ Хранилища^reset; от загадочного торговца"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/vaultkey.questtemplate": [
+        "/scriptConfig/objectiveLists/enterVault/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enter a lone ^orange;Ancient Gateway^reset;",
+      "Rus": "Войдите в одинокие ^orange;Древние Врата^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/vaultkey.questtemplate": [
         "/completionText"
       ]
     },

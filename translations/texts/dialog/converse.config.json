@@ -3189,7 +3189,7 @@
     },
     "Texts": {
       "Eng": "Feathers would be useful - to stuff cushions, make dusters...",
-      "Rus": ""
+      "Rus": "Перья бы пригодились - для набивания подушек, изготовления щеток..."
     }
   },
   {
@@ -3613,9 +3613,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Флоран слышал, что авиане устраивают жертвоприношения. А после этого вы сьедаете мясо?"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
         "/converse/floran/avian/15"
@@ -3628,9 +3626,9 @@
   },
   {
     "DeniedAlternatives": [
-      "Флоран надеется, что роботу нравится здесь.",
       "Флоран надеетссся, что роботу нравится здесссь.",
       "Флоран надеетссся, что роботу нравится это месссто.",
+      "Флоран надеется, что роботу нравится здесь.",
       "Флоран надеется, что роботу нравится это место."
     ],
     "Files": {
@@ -3640,7 +3638,7 @@
     },
     "Texts": {
       "Eng": "Floran hope robot likes this place.",
-      "Rus": ""
+      "Rus": "Флоран надеется, что роботу нравится здесссь."
     }
   },
   {
@@ -3664,7 +3662,7 @@
     },
     "Texts": {
       "Eng": "Floran hunt better than Floran. Floran know it!",
-      "Rus": ""
+      "Rus": "Флоран охотится лучше Флорана. Флоран точно знает!"
     }
   },
   {
@@ -3676,12 +3674,11 @@
     },
     "Texts": {
       "Eng": "Floran in trouble for eating Apex.",
-      "Rus": ""
+      "Rus": "Флоран в беде из-за съеденого Апекса."
     }
   },
   {
     "DeniedAlternatives": [
-      "Флорану ссстрашно. Вы на сстороне Флорана?",
       "Флоран боитсся. Ты на ссстороне Флорана?"
     ],
     "Files": {
@@ -3725,9 +3722,8 @@
   },
   {
     "DeniedAlternatives": [
-      "Флоран учился правилам этикета.",
       "Флоран учил правила этикета.",
-      "Флоран выучил правила этикета."
+      "Флоран учился правилам этикета."
     ],
     "Files": {
       "dialog/converse.config": [
@@ -3741,8 +3737,8 @@
   },
   {
     "DeniedAlternatives": [
-      "Флорану нравится, как выглядят птицы.",
-      "Флорану нравится смотреть на птиц."
+      "Флорану нравится смотреть на птиц.",
+      "Флорану нравится, как выглядят птицы."
     ],
     "Files": {
       "dialog/converse.config": [
@@ -3823,7 +3819,7 @@
     },
     "Texts": {
       "Eng": "Floran likes to watch things grow.",
-      "Rus": ""
+      "Rus": "Флорану нравится наблюдать за ростом."
     }
   },
   {
@@ -3934,7 +3930,7 @@
     },
     "Texts": {
       "Eng": "Floran loves adventure - we are kindred sspirits.",
-      "Rus": ""
+      "Rus": "Флоран любит приключения - мы родственные души."
     }
   },
   {
@@ -3994,7 +3990,7 @@
     },
     "Texts": {
       "Eng": "Floran never lights fires, always gets ssomeone elsse to do it.",
-      "Rus": ""
+      "Rus": "Флоран никогда не разводит огонь, всегда просит кого-нибудь сссделать это."
     }
   },
   {
@@ -4030,7 +4026,7 @@
     },
     "Texts": {
       "Eng": "Floran never ssstab Glitch ever.",
-      "Rus": ""
+      "Rus": "Флоран никогда-никогда не ударит Глича."
     }
   },
   {
@@ -4054,7 +4050,7 @@
     },
     "Texts": {
       "Eng": "Floran not here to cause trouble, right?",
-      "Rus": ""
+      "Rus": "Флоран тут не для проблем, так?"
     }
   },
   {
@@ -4090,7 +4086,7 @@
     },
     "Texts": {
       "Eng": "Floran not ssstab ape for now.",
-      "Rus": ""
+      "Rus": "Флоран пока не будет бить обезьяну."
     }
   },
   {
@@ -4270,7 +4266,7 @@
     },
     "Texts": {
       "Eng": "Floran sad bird man can't fly, would make for more challenging hunt.",
-      "Rus": ""
+      "Rus": "Флорану грустно, что ходячая птица не летает, охота была бы интереснее."
     }
   },
   {
@@ -4282,7 +4278,7 @@
     },
     "Texts": {
       "Eng": "Floran show bird ssspear collection.",
-      "Rus": ""
+      "Rus": "Флоран покажет птице коллекцию копий."
     }
   },
   {
@@ -4318,7 +4314,7 @@
     },
     "Texts": {
       "Eng": "Floran smell you from far away! Be careful, makesss your kind easy to hunt!",
-      "Rus": ""
+      "Rus": "Флоран чует тебя издалека! Побереги сссебя, на твой вид легко охотиться!"
     }
   },
   {
@@ -4330,7 +4326,7 @@
     },
     "Texts": {
       "Eng": "Floran ssay hello, be friendly to big monkey.",
-      "Rus": ""
+      "Rus": "Флоран здоровается, дружелюбен к большой обезьяне."
     }
   },
   {
@@ -4342,7 +4338,7 @@
     },
     "Texts": {
       "Eng": "Floran ssee bird, laugh.",
-      "Rus": ""
+      "Rus": "Флоран видеть птицу. Сссмеяться."
     }
   },
   {
@@ -4353,7 +4349,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran ssmell Hylotl on you."
+      "Eng": "Floran ssmell Hylotl on you.",
+      "Rus": ""
     }
   },
   {
@@ -4364,7 +4361,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran sssee human ssspace craft, very envious."
+      "Eng": "Floran sssee human ssspace craft, very envious.",
+      "Rus": "Флоран видеть космический корабль человека, очень завидно."
     }
   },
   {
@@ -4375,7 +4373,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran ssstab you if you misbehave."
+      "Eng": "Floran ssstab you if you misbehave.",
+      "Rus": "Флоран тебя ссстукнет, если будешь безобразничать."
     }
   },
   {
@@ -4386,7 +4385,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran sssure we can be friendsss."
+      "Eng": "Floran sssure we can be friendsss.",
+      "Rus": "Флоран уверен, мы можем подружиться."
     }
   },
   {
@@ -4397,7 +4397,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran sstab, therefore Floran am."
+      "Eng": "Floran sstab, therefore Floran am.",
+      "Rus": ""
     }
   },
   {
@@ -4408,7 +4409,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran sstabbed ten things today!"
+      "Eng": "Floran sstabbed ten things today!",
+      "Rus": "Флоран ссстукнул десятерых сегодня!"
     }
   },
   {
@@ -4419,7 +4421,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran ssuggests we hunt together."
+      "Eng": "Floran ssuggests we hunt together.",
+      "Rus": "Флоран предлагает охотиться вместе."
     }
   },
   {
@@ -4430,7 +4433,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran ssuspicious of monkey."
+      "Eng": "Floran ssuspicious of monkey.",
+      "Rus": "Флоран подозрителен к обезьяне."
     }
   },
   {
@@ -4441,7 +4445,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran tap metal man's head, hear clunk."
+      "Eng": "Floran tap metal man's head, hear clunk.",
+      "Rus": "Флоран тронул за руку металлического человека, услышал скрежет."
     }
   },
   {
@@ -4452,7 +4457,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran teach human art of ssstabbing."
+      "Eng": "Floran teach human art of ssstabbing.",
+      "Rus": "Флоран научит человека искусству ударов."
     }
   },
   {
@@ -4463,7 +4469,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran think Apex Floran's favourite."
+      "Eng": "Floran think Apex Floran's favourite.",
+      "Rus": "Флоран считает Апекса любимчиком Флорана"
     }
   },
   {
@@ -4474,7 +4481,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran think human brave for coming here."
+      "Eng": "Floran think human brave for coming here.",
+      "Rus": "Флоран считает человек храбрый, если пришел сюда."
     }
   },
   {
@@ -4485,7 +4493,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran think monkey funny and nice."
+      "Eng": "Floran think monkey funny and nice.",
+      "Rus": "Флоран считает обезьяну милой и забавной. "
     }
   },
   {
@@ -4496,7 +4505,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran thinks metal man is funny."
+      "Eng": "Floran thinks metal man is funny.",
+      "Rus": "Флоран считает металлического человека забавным."
     }
   },
   {
@@ -4507,7 +4517,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran thinks you're pretty."
+      "Eng": "Floran thinks you're pretty.",
+      "Rus": "Флоран думает, что ты симпатичный."
     }
   },
   {
@@ -4518,7 +4529,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran thrilled to sssee bird person!"
+      "Eng": "Floran thrilled to sssee bird person!",
+      "Rus": "Флоран разволновался увидев разумную птицу!"
     }
   },
   {
@@ -4529,7 +4541,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran tougher than chimp chump."
+      "Eng": "Floran tougher than chimp chump.",
+      "Rus": "Флоран крепче обезьяньей башки."
     }
   },
   {
@@ -4540,7 +4553,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran unssure about new Floran."
+      "Eng": "Floran unssure about new Floran.",
+      "Rus": "Флоран не уверен насчет нового Флорана."
     }
   },
   {
@@ -4551,7 +4565,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran very busy today. Is bird man busy too?"
+      "Eng": "Floran very busy today. Is bird man busy too?",
+      "Rus": "Флоран сегодня очень занят. Ходячая птица тоже занята?"
     }
   },
   {
@@ -4562,7 +4577,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran want Glitch to ssstay."
+      "Eng": "Floran want Glitch to ssstay.",
+      "Rus": "Флоран хочет, чтобы Глич оссстался"
     }
   },
   {
@@ -4573,7 +4589,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran want human as best friend."
+      "Eng": "Floran want human as best friend.",
+      "Rus": "Флоран хочет быть лучшим другом человека."
     }
   },
   {
@@ -4584,7 +4601,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran want monkey clothess."
+      "Eng": "Floran want monkey clothess.",
+      "Rus": "Флоран хочет обезьянью одежду."
     }
   },
   {
@@ -4595,7 +4613,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran want to dance."
+      "Eng": "Floran want to dance.",
+      "Rus": "Флоран хочет танцевать."
     }
   },
   {
@@ -4606,7 +4625,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran want to know; what's fleas?"
+      "Eng": "Floran want to know; what's fleas?",
+      "Rus": "Флоран хочет знать: что такое блохи?"
     }
   },
   {
@@ -4617,7 +4637,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran want to pull sssilly human's hair."
+      "Eng": "Floran want to pull sssilly human's hair.",
+      "Rus": "Флоран хочет выщипать глупые человеческие волосы."
     }
   },
   {
@@ -4628,7 +4649,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran want to show human how to use ssspear properly."
+      "Eng": "Floran want to show human how to use ssspear properly.",
+      "Rus": "Флоран хочет показать человеку как правильно пользоваться копьём."
     }
   },
   {
@@ -4639,7 +4661,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran want to sstroke bird man's feathers."
+      "Eng": "Floran want to sstroke bird man's feathers.",
+      "Rus": "Флоран хочет погладить перья ходячей птицы."
     }
   },
   {
@@ -4650,7 +4673,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran wants Glitch clothes."
+      "Eng": "Floran wants Glitch clothes.",
+      "Rus": "Флоран хочет одежду Глича."
     }
   },
   {
@@ -4661,7 +4685,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran welcomess you."
+      "Eng": "Floran welcomess you.",
+      "Rus": "Флоран приветствует тебя."
     }
   },
   {
@@ -4672,7 +4697,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran will dance later. Dancing almost as good as hunting."
+      "Eng": "Floran will dance later. Dancing almost as good as hunting.",
+      "Rus": "Флоран потанцует потом. Танец почти так же хорош как охота."
     }
   },
   {
@@ -4683,7 +4709,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran will hunt today."
+      "Eng": "Floran will hunt today.",
+      "Rus": "Флоран поохотится сегодня."
     }
   },
   {
@@ -4694,7 +4721,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran wishes Floran bright as you."
+      "Eng": "Floran wishes Floran bright as you.",
+      "Rus": "Флоран хочет, чтобы Флоран был таким же ярким как ты."
     }
   },
   {
@@ -4705,7 +4733,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran wishes you good day."
+      "Eng": "Floran wishes you good day.",
+      "Rus": "Флоран желает хорошего дня."
     }
   },
   {
@@ -4716,7 +4745,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran wishes you happy hunting."
+      "Eng": "Floran wishes you happy hunting.",
+      "Rus": "Флоран желает удачной охоты."
     }
   },
   {
@@ -4727,7 +4757,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran wonder if Floran really a Floran."
+      "Eng": "Floran wonder if Floran really a Floran.",
+      "Rus": "Флорану интересно, действительно ли Флоран - Флоран."
     }
   },
   {
@@ -4738,7 +4769,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran wonder if Kluex really that tough."
+      "Eng": "Floran wonder if Kluex really that tough.",
+      "Rus": ""
     }
   },
   {
@@ -4749,7 +4781,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran wonder if monkey man like Floran."
+      "Eng": "Floran wonder if monkey man like Floran.",
+      "Rus": "Флорану интересно, нравится ли обезьяне Флоран."
     }
   },
   {
@@ -4760,7 +4793,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran wonder if you meet big prey in sspace?"
+      "Eng": "Floran wonder if you meet big prey in sspace?",
+      "Rus": "Флорану интересно, встречал ли ты большую добычу в космосе?"
     }
   },
   {
@@ -4771,7 +4805,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran wonders if robot likes Floran's foliage?"
+      "Eng": "Floran wonders if robot likes Floran's foliage?",
+      "Rus": "Флорану интересно, нравится ли роботу листва Флорана?"
     }
   },
   {
@@ -4782,7 +4817,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran would like to hunt with you sssometime."
+      "Eng": "Floran would like to hunt with you sssometime.",
+      "Rus": "Флоран хотел бы поохотиться с тобой когда-нибудь."
     }
   },
   {
@@ -4793,7 +4829,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Florans are the best!"
+      "Eng": "Florans are the best!",
+      "Rus": "Флораны лучшие!"
     }
   },
   {
@@ -4804,7 +4841,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Florans are... You are a beautiful race."
+      "Eng": "Florans are... You are a beautiful race.",
+      "Rus": "Флоране, они... Вы прекрасная раса."
     }
   },
   {
@@ -4815,7 +4853,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Florans once kill millions of Hylotl? Oops, sorry."
+      "Eng": "Florans once kill millions of Hylotl? Oops, sorry.",
+      "Rus": "Флоране однажды убивать миллионы Хилотлов? Ой, прости."
     }
   },
   {
@@ -4826,7 +4865,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Flower folk? Well ain't you the prettiest darn thing I've seen in a long while!"
+      "Eng": "Flower folk? Well ain't you the prettiest darn thing I've seen in a long while!",
+      "Rus": "Цветочный народец? Ну разве не самая чудесная штука из всех, что мне встречались за долгое время!"
     }
   },
   {
@@ -4837,7 +4877,8 @@
       ]
     },
     "Texts": {
-      "Eng": "For a moment there, I thought you were a bush."
+      "Eng": "For a moment there, I thought you were a bush.",
+      "Rus": "На мгновение ты мне привиделся кустом."
     }
   },
   {
@@ -4848,7 +4889,8 @@
       ]
     },
     "Texts": {
-      "Eng": "For some reason I thought all Glitch were knights..."
+      "Eng": "For some reason I thought all Glitch were knights...",
+      "Rus": "Почему-то мне казалось, что все Гличи были рыцарями..."
     }
   },
   {
@@ -4859,7 +4901,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Friend!"
+      "Eng": "Friend!",
+      "Rus": "Дружище!"
     }
   },
   {
@@ -4870,7 +4913,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Gah!"
+      "Eng": "Gah!",
+      "Rus": ""
     }
   },
   {
@@ -4881,7 +4925,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Gah! ...Oh sorry - I thought you where someone else."
+      "Eng": "Gah! ...Oh sorry - I thought you where someone else.",
+      "Rus": ""
     }
   },
   {
@@ -4892,7 +4937,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Give me a second, I'm playing mental chess."
+      "Eng": "Give me a second, I'm playing mental chess.",
+      "Rus": "Секундочку, я мысленно играю в шахматы."
     }
   },
   {
@@ -4903,7 +4949,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Glitch are fascinating. Fascinating."
+      "Eng": "Glitch are fascinating. Fascinating.",
+      "Rus": "Гличи очаровательны. Очаровательны."
     }
   },
   {
@@ -4914,7 +4961,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Glitch furniture lasts ten times longer than furniture made by the Hylotl."
+      "Eng": "Glitch furniture lasts ten times longer than furniture made by the Hylotl.",
+      "Rus": "Мебель Гличей служит в десять раз дольше, чем мебель, сделанная Хилотлами."
     }
   },
   {
@@ -4925,7 +4973,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Glitch have lords and kings, but no one like Big Ape."
+      "Eng": "Glitch have lords and kings, but no one like Big Ape.",
+      "Rus": "У Гличей есть короли и лорды, но нет никого похожего на Большого Эйпа."
     }
   },
   {
@@ -4936,7 +4985,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Glitch nice to Floran, Floran respect Glitch."
+      "Eng": "Glitch nice to Floran, Floran respect Glitch.",
+      "Rus": "Глич вежлив с Флораном, Флоран уважает Глича."
     }
   },
   {
@@ -4947,7 +4997,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Glitch turn up, make Floran's day."
+      "Eng": "Glitch turn up, make Floran's day.",
+      "Rus": ""
     }
   },
   {
@@ -4958,7 +5009,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Glowing is a useful property for an organism to have."
+      "Eng": "Glowing is a useful property for an organism to have.",
+      "Rus": "Свечение - полезное свойство для организма."
     }
   },
   {
@@ -4969,7 +5021,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Glowing? I bet devout Avians think you're something to do with Kluex."
+      "Eng": "Glowing? I bet devout Avians think you're something to do with Kluex.",
+      "Rus": "Свечение? Готов поспорить, набожные Авиане думают, что ты как-то связан с Клюэксом."
     }
   },
   {
@@ -4980,7 +5033,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Go forth and spread peace, my child."
+      "Eng": "Go forth and spread peace, my child.",
+      "Rus": "Ступай и неси мир, дитя моё."
     }
   },
   {
@@ -4991,7 +5045,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Go well."
+      "Eng": "Go well.",
+      "Rus": ""
     }
   },
   {
@@ -5002,7 +5057,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Good day to you bird man!"
+      "Eng": "Good day to you bird man!",
+      "Rus": "Хорошего тебе дня, ходячая птица!"
     }
   },
   {
@@ -5013,7 +5069,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Good day to you, Avian friend."
+      "Eng": "Good day to you, Avian friend.",
+      "Rus": "Хорошего тебе дня, друг Авианин."
     }
   },
   {
@@ -5025,7 +5082,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Good day to you."
+      "Eng": "Good day to you.",
+      "Rus": "Хорошего тебе дня."
     }
   },
   {
@@ -5036,7 +5094,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Good day!"
+      "Eng": "Good day!",
+      "Rus": "Добрый день!"
     }
   },
   {
@@ -5047,7 +5106,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Good day, bright one!"
+      "Eng": "Good day, bright one!",
+      "Rus": "Добрый день, сияющий!"
     }
   },
   {
@@ -5058,7 +5118,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Good day, my friend."
+      "Eng": "Good day, my friend.",
+      "Rus": "Добрый день, друг мой."
     }
   },
   {
@@ -5069,7 +5130,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Good to meet you, fish man."
+      "Eng": "Good to meet you, fish man.",
+      "Rus": "Рад встрече с тобой, ходячая рыба."
     }
   },
   {
@@ -5080,7 +5142,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Good to see you."
+      "Eng": "Good to see you.",
+      "Rus": "Рад тебя видеть."
     }
   },
   {
@@ -5091,7 +5154,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Gosh darnit, I forgot where I left my toothpick."
+      "Eng": "Gosh darnit, I forgot where I left my toothpick.",
+      "Rus": "Ёшкин кот, я забыл где оставил свою зубочистку."
     }
   },
   {
@@ -5102,7 +5166,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Gosh. An Avian."
+      "Eng": "Gosh. An Avian.",
+      "Rus": "Вот так да. Авианин."
     }
   },
   {
@@ -5113,7 +5178,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Great to see you, pal."
+      "Eng": "Great to see you, pal.",
+      "Rus": "Рад видеть тебя, приятель."
     }
   },
   {
@@ -5124,7 +5190,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Greenfinger told Floran that a Hylotl told greenfinger that Florans kill Hylotl ancestors. Sorry."
+      "Eng": "Greenfinger told Floran that a Hylotl told greenfinger that Florans kill Hylotl ancestors. Sorry.",
+      "Rus": "Древоуст сказал Флорану, что Хилотл сказал древоусту что Флоране убивать предков Хилотла. Прости."
     }
   },
   {
@@ -5135,7 +5202,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Greetings plant man."
+      "Eng": "Greetings plant man.",
+      "Rus": "Приветствую, разумное растение."
     }
   },
   {
@@ -5146,7 +5214,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Greetings, my Avian friend!"
+      "Eng": "Greetings, my Avian friend!",
+      "Rus": "Приветствую, мой Авианский друг!"
     }
   },
   {
@@ -5157,7 +5226,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Greetings, partner!"
+      "Eng": "Greetings, partner!",
+      "Rus": "Приветствую, дружище!"
     }
   },
   {
@@ -5168,7 +5238,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Greetings, stranger, and welcome."
+      "Eng": "Greetings, stranger, and welcome.",
+      "Rus": "Приветствую, незнакомец, и добро пожаловать."
     }
   },
   {
@@ -5179,7 +5250,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Gross, I just swallowed a fly."
+      "Eng": "Gross, I just swallowed a fly.",
+      "Rus": "Беее, я только что проглотил муху."
     }
   },
   {
@@ -5190,7 +5262,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Gross, you're all slimy."
+      "Eng": "Gross, you're all slimy.",
+      "Rus": "Фи, ты весь скользкий."
     }
   },
   {
@@ -5201,7 +5274,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hah, oh my, you smell funny."
+      "Eng": "Hah, oh my, you smell funny.",
+      "Rus": "Ха, о боже, ты забавно пахнешь."
     }
   },
   {
@@ -5212,7 +5286,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hail!"
+      "Eng": "Hail!",
+      "Rus": ""
     }
   },
   {
@@ -5223,7 +5298,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Happy hunting."
+      "Eng": "Happy hunting.",
+      "Rus": "Счастливой охоты."
     }
   },
   {
@@ -5234,7 +5310,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Has the Miniknog started employing Avians?"
+      "Eng": "Has the Miniknog started employing Avians?",
+      "Rus": "Министерство не начало нанимать Авиан?"
     }
   },
   {
@@ -5245,7 +5322,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Has your kind heard of vampires? What about werewolves?"
+      "Eng": "Has your kind heard of vampires? What about werewolves?",
+      "Rus": "Твой народ слышал о вампирах? А оборотнях?"
     }
   },
   {
@@ -5256,7 +5334,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have I met anyone who looks like you before, partner? I forget."
+      "Eng": "Have I met anyone who looks like you before, partner? I forget.",
+      "Rus": "Не видал ли я раньше кого-то наподобии тебя, дружище? Я забыл."
     }
   },
   {
@@ -5267,7 +5346,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have a good day, friend."
+      "Eng": "Have a good day, friend.",
+      "Rus": "Хорошего дня, друг."
     }
   },
   {
@@ -5278,7 +5358,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have a good day, stranger."
+      "Eng": "Have a good day, stranger.",
+      "Rus": "Хорошего дня, незнакомец."
     }
   },
   {
@@ -5290,7 +5371,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have a good day."
+      "Eng": "Have a good day.",
+      "Rus": "Хорошего дня."
     }
   },
   {
@@ -5301,7 +5383,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have a nice day."
+      "Eng": "Have a nice day.",
+      "Rus": "Удачного дня."
     }
   },
   {
@@ -5312,7 +5395,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have a peaceful day, glowing one!"
+      "Eng": "Have a peaceful day, glowing one!",
+      "Rus": "Да будет день твой мирным, сияющий!"
     }
   },
   {
@@ -5323,7 +5407,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have a splendid day."
+      "Eng": "Have a splendid day.",
+      "Rus": "Великолепного дня."
     }
   },
   {
@@ -5334,7 +5419,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have humans ever been ruled by somebody like Big Ape?"
+      "Eng": "Have humans ever been ruled by somebody like Big Ape?",
+      "Rus": "Правил ли когда-либо людьми кто-то вроде Большого Эйпа?"
     }
   },
   {
@@ -5345,7 +5431,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have nice day."
+      "Eng": "Have nice day.",
+      "Rus": "Удачного дня."
     }
   },
   {
@@ -5356,7 +5443,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have we met? I'd feel like I'd remember someone as feathered as you, but I ain't sure..."
+      "Eng": "Have we met? I'd feel like I'd remember someone as feathered as you, but I ain't sure...",
+      "Rus": "Мы не встречались? Чую, будто помнил кого-то столь же пернатого как ты, но не уверен..."
     }
   },
   {
@@ -5367,7 +5455,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have you been in an Avian temple? I'm not sure they'd appeal to the Hylotl aesthetic..."
+      "Eng": "Have you been in an Avian temple? I'm not sure they'd appeal to the Hylotl aesthetic...",
+      "Rus": ""
     }
   },
   {
@@ -5378,7 +5467,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have you dealt with pirates much?"
+      "Eng": "Have you dealt with pirates much?",
+      "Rus": ""
     }
   },
   {
@@ -5389,7 +5479,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have you ever attempted the delicate artistry of flower arranging?"
+      "Eng": "Have you ever attempted the delicate artistry of flower arranging?",
+      "Rus": ""
     }
   },
   {
@@ -5400,7 +5491,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have you ever been struck by lightning, metal friend?"
+      "Eng": "Have you ever been struck by lightning, metal friend?",
+      "Rus": ""
     }
   },
   {
@@ -5411,7 +5503,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have you ever been to Avos?"
+      "Eng": "Have you ever been to Avos?",
+      "Rus": ""
     }
   },
   {
@@ -5422,7 +5515,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have you ever eaten an oculemon? They're not my favourite."
+      "Eng": "Have you ever eaten an oculemon? They're not my favourite.",
+      "Rus": ""
     }
   },
   {
@@ -5433,7 +5527,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have you ever heard an Apex sing? We are not built for such activities."
+      "Eng": "Have you ever heard an Apex sing? We are not built for such activities.",
+      "Rus": ""
     }
   },
   {
@@ -5444,7 +5539,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have you ever noticed how elegant Hylotl architecture is. It makes me so proud."
+      "Eng": "Have you ever noticed how elegant Hylotl architecture is. It makes me so proud.",
+      "Rus": ""
     }
   },
   {
@@ -5455,7 +5551,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have you ever seen Big Ape?"
+      "Eng": "Have you ever seen Big Ape?",
+      "Rus": ""
     }
   },
   {
@@ -5466,7 +5563,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have you ever seen a narwhal?"
+      "Eng": "Have you ever seen a narwhal?",
+      "Rus": ""
     }
   },
   {
@@ -5477,7 +5575,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have you ever tasted an automato?"
+      "Eng": "Have you ever tasted an automato?",
+      "Rus": ""
     }
   },
   {
@@ -5488,7 +5587,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have you ever tried shaving to pass as human?"
+      "Eng": "Have you ever tried shaving to pass as human?",
+      "Rus": ""
     }
   },
   {
@@ -5499,7 +5599,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have you ever tried sunflower seeds? I think you'd love them."
+      "Eng": "Have you ever tried sunflower seeds? I think you'd love them.",
+      "Rus": ""
     }
   },
   {
@@ -5510,7 +5611,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have you had a peaceful day?"
+      "Eng": "Have you had a peaceful day?",
+      "Rus": ""
     }
   },
   {
@@ -5521,7 +5623,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have you heard the Avian sing? We're generally pretty good. Great whistlers too."
+      "Eng": "Have you heard the Avian sing? We're generally pretty good. Great whistlers too.",
+      "Rus": ""
     }
   },
   {
@@ -5532,7 +5635,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have you met Floransss before?"
+      "Eng": "Have you met Floransss before?",
+      "Rus": ""
     }
   },
   {
@@ -5543,7 +5647,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have you met the penguins?"
+      "Eng": "Have you met the penguins?",
+      "Rus": ""
     }
   },
   {
@@ -5554,7 +5659,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have you read much work by the great Hylotl thinkers?"
+      "Eng": "Have you read much work by the great Hylotl thinkers?",
+      "Rus": ""
     }
   },
   {
@@ -5565,7 +5671,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have you read the \"Daily Peel\" lately?"
+      "Eng": "Have you read the \"Daily Peel\" lately?",
+      "Rus": ""
     }
   },
   {
@@ -5576,7 +5683,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have you read the works of the great Hylotl thinkers? I often look to them for guidance."
+      "Eng": "Have you read the works of the great Hylotl thinkers? I often look to them for guidance.",
+      "Rus": ""
     }
   },
   {
@@ -5587,7 +5695,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have you seen a chicken round here?"
+      "Eng": "Have you seen a chicken round here?",
+      "Rus": ""
     }
   },
   {
@@ -5598,7 +5707,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have you seen a purple spear around here?"
+      "Eng": "Have you seen a purple spear around here?",
+      "Rus": ""
     }
   },
   {
@@ -5609,7 +5719,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have you seen many worlds, my friend?"
+      "Eng": "Have you seen many worlds, my friend?",
+      "Rus": ""
     }
   },
   {
@@ -5620,7 +5731,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have you seen my book? I put it down somewhere."
+      "Eng": "Have you seen my book? I put it down somewhere.",
+      "Rus": ""
     }
   },
   {
@@ -5631,7 +5743,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have you seen my hat? I've been looking for it for like an hour."
+      "Eng": "Have you seen my hat? I've been looking for it for like an hour.",
+      "Rus": ""
     }
   },
   {
@@ -5642,7 +5755,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have you seen my paintbrushes? They have birchwood handles and sable bristles..."
+      "Eng": "Have you seen my paintbrushes? They have birchwood handles and sable bristles...",
+      "Rus": ""
     }
   },
   {
@@ -5653,7 +5767,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have you spent much time in libraries? You seem well educated."
+      "Eng": "Have you spent much time in libraries? You seem well educated.",
+      "Rus": ""
     }
   },
   {
@@ -5664,7 +5779,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have you tried Avian wrestling?"
+      "Eng": "Have you tried Avian wrestling?",
+      "Rus": ""
     }
   },
   {
@@ -5675,7 +5791,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Heard any good jokes lately? A little laughter never hurt anyone."
+      "Eng": "Heard any good jokes lately? A little laughter never hurt anyone.",
+      "Rus": ""
     }
   },
   {
@@ -5686,7 +5803,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hehehehehe."
+      "Eng": "Hehehehehe.",
+      "Rus": ""
     }
   },
   {
@@ -5697,7 +5815,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hello Avian."
+      "Eng": "Hello Avian.",
+      "Rus": "Привет, Авианин."
     }
   },
   {
@@ -5708,7 +5827,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hello Floran friend!"
+      "Eng": "Hello Floran friend!",
+      "Rus": "Здравствуй, друг-Флоран!"
     }
   },
   {
@@ -5719,7 +5839,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hello Glitch."
+      "Eng": "Hello Glitch.",
+      "Rus": "Здравствуй, Глич."
     }
   },
   {
@@ -5730,7 +5851,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hello and welcome."
+      "Eng": "Hello and welcome.",
+      "Rus": "Здравствуй и добро пожаловать."
     }
   },
   {
@@ -5741,7 +5863,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hello bird person!"
+      "Eng": "Hello bird person!",
+      "Rus": "Здравствуй, разумная птица!"
     }
   },
   {
@@ -5752,7 +5875,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hello friend."
+      "Eng": "Hello friend.",
+      "Rus": "Привет, друг."
     }
   },
   {
@@ -5763,7 +5887,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hello my fine fellow."
+      "Eng": "Hello my fine fellow.",
+      "Rus": ""
     }
   },
   {
@@ -5774,7 +5899,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hello to you."
+      "Eng": "Hello to you.",
+      "Rus": "Привет тебе."
     }
   },
   {
@@ -5786,7 +5912,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hello!"
+      "Eng": "Hello!",
+      "Rus": "Привет!"
     }
   },
   {
@@ -5797,7 +5924,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hello! Uh, I hope that wasn't offensive."
+      "Eng": "Hello! Uh, I hope that wasn't offensive.",
+      "Rus": "Привет! Ой, надеюсь это было не оскорбительно."
     }
   },
   {
@@ -5808,7 +5936,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hello, friend."
+      "Eng": "Hello, friend.",
+      "Rus": "Привет, друг."
     }
   },
   {
@@ -5819,7 +5948,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hello, friendly person."
+      "Eng": "Hello, friendly person.",
+      "Rus": "Здравствуй, дружелюбный незнакомец."
     }
   },
   {
@@ -5831,7 +5961,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hello, human."
+      "Eng": "Hello, human.",
+      "Rus": "Здравствуй, человек."
     }
   },
   {
@@ -5842,7 +5973,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hello, sstranger."
+      "Eng": "Hello, sstranger.",
+      "Rus": "Здравствуй, чужак."
     }
   },
   {
@@ -5853,7 +5985,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hello, stranger."
+      "Eng": "Hello, stranger.",
+      "Rus": "Здравствуй, незнакомец."
     }
   },
   {
@@ -5864,7 +5997,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hello, young traveller."
+      "Eng": "Hello, young traveller.",
+      "Rus": "Здравствуй, молодой путешественник."
     }
   },
   {
@@ -5875,7 +6009,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hello. Nice to meet you."
+      "Eng": "Hello. Nice to meet you.",
+      "Rus": "Здравствуй. Рад встрече."
     }
   },
   {
@@ -5886,7 +6021,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hello..."
+      "Eng": "Hello...",
+      "Rus": "Здравствуйте..."
     }
   },
   {
@@ -5897,7 +6033,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hellooo."
+      "Eng": "Hellooo.",
+      "Rus": "Привееет."
     }
   },
   {
@@ -5908,7 +6045,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hey there, Apex!"
+      "Eng": "Hey there, Apex!",
+      "Rus": "Эй, Апекс!"
     }
   },
   {
@@ -5919,7 +6057,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hey there, Avian!"
+      "Eng": "Hey there, Avian!",
+      "Rus": "Эй, Авианин!"
     }
   },
   {
@@ -5930,7 +6069,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hey there, strange person."
+      "Eng": "Hey there, strange person.",
+      "Rus": "Эй, странный незнакомец."
     }
   },
   {
@@ -5941,7 +6081,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hey there."
+      "Eng": "Hey there.",
+      "Rus": "Эй."
     }
   },
   {
@@ -5952,7 +6093,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hey! A new friend!"
+      "Eng": "Hey! A new friend!",
+      "Rus": "Эй! Новый друг!"
     }
   },
   {
@@ -5963,7 +6105,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hey! Nice to meet you."
+      "Eng": "Hey! Nice to meet you.",
+      "Rus": "Эй! Рад встрече."
     }
   },
   {
@@ -11698,7 +11841,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Looking good, friend. I like your style."
+      "Eng": "Looking good, friend. I like your style.",
+      "Rus": ""
     }
   },
   {
@@ -11709,7 +11853,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Lovely to have you here."
+      "Eng": "Lovely to have you here.",
+      "Rus": ""
     }
   },
   {
@@ -11721,7 +11866,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Lovely to meet you."
+      "Eng": "Lovely to meet you.",
+      "Rus": ""
     }
   },
   {
@@ -11732,7 +11878,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Lovely to see a fellow Avian traveller."
+      "Eng": "Lovely to see a fellow Avian traveller.",
+      "Rus": ""
     }
   },
   {
@@ -11743,7 +11890,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Make yourself at home."
+      "Eng": "Make yourself at home.",
+      "Rus": ""
     }
   },
   {
@@ -11754,7 +11902,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Many Floran in bloom right now. Is nice sseason."
+      "Eng": "Many Floran in bloom right now. Is nice sseason.",
+      "Rus": ""
     }
   },
   {
@@ -11765,7 +11914,8 @@
       ]
     },
     "Texts": {
-      "Eng": "May I buy an egg from you? Your eggs must be quite enormous."
+      "Eng": "May I buy an egg from you? Your eggs must be quite enormous.",
+      "Rus": ""
     }
   },
   {
@@ -11776,7 +11926,8 @@
       ]
     },
     "Texts": {
-      "Eng": "May I have some of your feathers to use as artistic reference?"
+      "Eng": "May I have some of your feathers to use as artistic reference?",
+      "Rus": ""
     }
   },
   {
@@ -11787,7 +11938,8 @@
       ]
     },
     "Texts": {
-      "Eng": "May I have some of your leaves?"
+      "Eng": "May I have some of your leaves?",
+      "Rus": ""
     }
   },
   {
@@ -11798,7 +11950,8 @@
       ]
     },
     "Texts": {
-      "Eng": "May I paint you some time? Perhaps in a garden scene, amongst summer leaves?"
+      "Eng": "May I paint you some time? Perhaps in a garden scene, amongst summer leaves?",
+      "Rus": ""
     }
   },
   {
@@ -11809,7 +11962,8 @@
       ]
     },
     "Texts": {
-      "Eng": "May I paint you? The sheen of your metal is intriguing: the interplay of light and shade."
+      "Eng": "May I paint you? The sheen of your metal is intriguing: the interplay of light and shade.",
+      "Rus": ""
     }
   },
   {
@@ -11820,7 +11974,8 @@
       ]
     },
     "Texts": {
-      "Eng": "May I smell your flowers?"
+      "Eng": "May I smell your flowers?",
+      "Rus": ""
     }
   },
   {
@@ -11831,7 +11986,8 @@
       ]
     },
     "Texts": {
-      "Eng": "May peace follow you."
+      "Eng": "May peace follow you.",
+      "Rus": ""
     }
   },
   {
@@ -11842,7 +11998,8 @@
       ]
     },
     "Texts": {
-      "Eng": "May you always find peace."
+      "Eng": "May you always find peace.",
+      "Rus": ""
     }
   },
   {
@@ -11853,7 +12010,8 @@
       ]
     },
     "Texts": {
-      "Eng": "May you have a pleasant day."
+      "Eng": "May you have a pleasant day.",
+      "Rus": ""
     }
   },
   {
@@ -11864,7 +12022,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Maybe one day we will be good friends."
+      "Eng": "Maybe one day we will be good friends.",
+      "Rus": ""
     }
   },
   {
@@ -11875,7 +12034,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Maybe teach me to swim sometime?"
+      "Eng": "Maybe teach me to swim sometime?",
+      "Rus": ""
     }
   },
   {
@@ -11886,7 +12046,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Meeting a Floran is a little nerve-racking."
+      "Eng": "Meeting a Floran is a little nerve-racking.",
+      "Rus": ""
     }
   },
   {
@@ -11897,7 +12058,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Miniknog? Never heard of it. Is it a brand o' root beer or somethin'?"
+      "Eng": "Miniknog? Never heard of it. Is it a brand o' root beer or somethin'?",
+      "Rus": ""
     }
   },
   {
@@ -11908,7 +12070,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Mmm?"
+      "Eng": "Mmm?",
+      "Rus": ""
     }
   },
   {
@@ -11919,7 +12082,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Monkey come see Floran house."
+      "Eng": "Monkey come see Floran house.",
+      "Rus": ""
     }
   },
   {
@@ -11930,7 +12094,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Monkey man wear sssilly clothes."
+      "Eng": "Monkey man wear sssilly clothes.",
+      "Rus": ""
     }
   },
   {
@@ -11941,7 +12106,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Monkey man!"
+      "Eng": "Monkey man!",
+      "Rus": ""
     }
   },
   {
@@ -11952,7 +12118,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Monsters are scary."
+      "Eng": "Monsters are scary.",
+      "Rus": ""
     }
   },
   {
@@ -11963,7 +12130,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Moonlight through water is a beautiful sight - shifting shafts of iridescent light."
+      "Eng": "Moonlight through water is a beautiful sight - shifting shafts of iridescent light.",
+      "Rus": ""
     }
   },
   {
@@ -12249,7 +12417,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Never before have I come across so bright a being."
+      "Eng": "Never before have I come across so bright a being.",
+      "Rus": ""
     }
   },
   {
@@ -12260,7 +12429,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Never judge a book by its cover, that's what I say."
+      "Eng": "Never judge a book by its cover, that's what I say.",
+      "Rus": ""
     }
   },
   {
@@ -12271,7 +12441,8 @@
       ]
     },
     "Texts": {
-      "Eng": "New friend make Floran happy."
+      "Eng": "New friend make Floran happy.",
+      "Rus": ""
     }
   },
   {
@@ -12282,7 +12453,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Nice face."
+      "Eng": "Nice face.",
+      "Rus": ""
     }
   },
   {
@@ -12293,7 +12465,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Nice feathers there."
+      "Eng": "Nice feathers there.",
+      "Rus": ""
     }
   },
   {
@@ -12304,7 +12477,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Nice fins."
+      "Eng": "Nice fins.",
+      "Rus": ""
     }
   },
   {
@@ -12315,7 +12489,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Nice meeting ya!"
+      "Eng": "Nice meeting ya!",
+      "Rus": ""
     }
   },
   {
@@ -12326,7 +12501,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Nice meeting you."
+      "Eng": "Nice meeting you.",
+      "Rus": ""
     }
   },
   {
@@ -12337,7 +12513,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Nice outfit you've got there."
+      "Eng": "Nice outfit you've got there.",
+      "Rus": ""
     }
   },
   {
@@ -12348,7 +12525,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Nice outfit, where'd you get it?"
+      "Eng": "Nice outfit, where'd you get it?",
+      "Rus": ""
     }
   },
   {
@@ -12359,7 +12537,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Nice outfit."
+      "Eng": "Nice outfit.",
+      "Rus": ""
     }
   },
   {
@@ -12370,7 +12549,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Nice to cross paths with you, partner!"
+      "Eng": "Nice to cross paths with you, partner!",
+      "Rus": ""
     }
   },
   {
@@ -12381,7 +12561,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Nice to get to know you."
+      "Eng": "Nice to get to know you.",
+      "Rus": ""
     }
   },
   {
@@ -12392,7 +12573,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Nice to make a new friend."
+      "Eng": "Nice to make a new friend.",
+      "Rus": ""
     }
   },
   {
@@ -12403,7 +12585,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Nice to meat you!"
+      "Eng": "Nice to meat you!",
+      "Rus": ""
     }
   },
   {
@@ -12414,7 +12597,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Nice to meet you plant man, we have rich soil here."
+      "Eng": "Nice to meet you plant man, we have rich soil here.",
+      "Rus": ""
     }
   },
   {
@@ -12425,7 +12609,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Nice to meet you!"
+      "Eng": "Nice to meet you!",
+      "Rus": ""
     }
   },
   {
@@ -12436,7 +12621,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Nice to meet you, Hylotl."
+      "Eng": "Nice to meet you, Hylotl.",
+      "Rus": ""
     }
   },
   {
@@ -12447,7 +12633,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Nice to meet you, fish!"
+      "Eng": "Nice to meet you, fish!",
+      "Rus": ""
     }
   },
   {
@@ -12458,7 +12645,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Nice to meet you, fishface."
+      "Eng": "Nice to meet you, fishface.",
+      "Rus": ""
     }
   },
   {
@@ -12469,7 +12657,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Nice to meet you, person."
+      "Eng": "Nice to meet you, person.",
+      "Rus": ""
     }
   },
   {
@@ -12480,7 +12669,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Nice to see someone from the Protectorate."
+      "Eng": "Nice to see someone from the Protectorate.",
+      "Rus": ""
     }
   },
   {
@@ -12491,7 +12681,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Nice to see you, my furry friend."
+      "Eng": "Nice to see you, my furry friend.",
+      "Rus": ""
     }
   },
   {
@@ -12502,7 +12693,8 @@
       ]
     },
     "Texts": {
-      "Eng": "No bones about it, robots are just awesome."
+      "Eng": "No bones about it, robots are just awesome.",
+      "Rus": ""
     }
   },
   {
@@ -12513,7 +12705,8 @@
       ]
     },
     "Texts": {
-      "Eng": "No hair? You are a lucky creature."
+      "Eng": "No hair? You are a lucky creature.",
+      "Rus": ""
     }
   },
   {
@@ -13349,7 +13542,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Pleasure to meet you, tinpot."
+      "Eng": "Pleasure to meet you, tinpot.",
+      "Rus": ""
     }
   },
   {
@@ -13360,7 +13554,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Plumes and blooms are both sso nice."
+      "Eng": "Plumes and blooms are both sso nice.",
+      "Rus": ""
     }
   },
   {
@@ -13371,7 +13566,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Predator and prey are equal parts of nature - this is how balance is maintained."
+      "Eng": "Predator and prey are equal parts of nature - this is how balance is maintained.",
+      "Rus": ""
     }
   },
   {
@@ -13382,7 +13578,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Pretty little bird. Floran not ssstab."
+      "Eng": "Pretty little bird. Floran not ssstab.",
+      "Rus": ""
     }
   },
   {
@@ -13393,7 +13590,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Rain is your worst enemy when you are so hairy. You are lucky to be feathered."
+      "Eng": "Rain is your worst enemy when you are so hairy. You are lucky to be feathered.",
+      "Rus": ""
     }
   },
   {
@@ -13404,7 +13602,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Relax, stay awhile, unwind. You look tired from all this adventuring."
+      "Eng": "Relax, stay awhile, unwind. You look tired from all this adventuring.",
+      "Rus": ""
     }
   },
   {
@@ -13415,7 +13614,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Robot and Floran are friends."
+      "Eng": "Robot and Floran are friends.",
+      "Rus": ""
     }
   },
   {
@@ -13426,7 +13626,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Robot ssseems nice."
+      "Eng": "Robot ssseems nice.",
+      "Rus": ""
     }
   },
   {
@@ -13437,7 +13638,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Robot, tell me, could the Miniknog have tampered with your circuits?"
+      "Eng": "Robot, tell me, could the Miniknog have tampered with your circuits?",
+      "Rus": ""
     }
   },
   {
@@ -13448,7 +13650,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Salutations."
+      "Eng": "Salutations.",
+      "Rus": ""
     }
   },
   {
@@ -13459,7 +13662,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Science and philosophy go hand in hand."
+      "Eng": "Science and philosophy go hand in hand.",
+      "Rus": ""
     }
   },
   {
@@ -13470,7 +13674,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Seals are like dogs, but in the sea. All Hylotl should have seals."
+      "Eng": "Seals are like dogs, but in the sea. All Hylotl should have seals.",
+      "Rus": ""
     }
   },
   {
@@ -13481,7 +13686,8 @@
       ]
     },
     "Texts": {
-      "Eng": "See this? It's my poker face."
+      "Eng": "See this? It's my poker face.",
+      "Rus": ""
     }
   },
   {
@@ -13492,7 +13698,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Seeing you has cheered me up on a gloomy day."
+      "Eng": "Seeing you has cheered me up on a gloomy day.",
+      "Rus": ""
     }
   },
   {
@@ -13503,7 +13710,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Seen anything of interest lately?"
+      "Eng": "Seen anything of interest lately?",
+      "Rus": ""
     }
   },
   {
@@ -13514,7 +13722,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Settle yourself down, feathered one."
+      "Eng": "Settle yourself down, feathered one.",
+      "Rus": ""
     }
   },
   {
@@ -13525,7 +13734,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Shhh. I'm having new thoughts."
+      "Eng": "Shhh. I'm having new thoughts.",
+      "Rus": ""
     }
   },
   {
@@ -13536,7 +13746,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Skreeeeee!"
+      "Eng": "Skreeeeee!",
+      "Rus": ""
     }
   },
   {
@@ -13547,7 +13758,8 @@
       ]
     },
     "Texts": {
-      "Eng": "So I hear you like stabbing, that's nice."
+      "Eng": "So I hear you like stabbing, that's nice.",
+      "Rus": ""
     }
   },
   {
@@ -13558,7 +13770,8 @@
       ]
     },
     "Texts": {
-      "Eng": "So delightful to have you here."
+      "Eng": "So delightful to have you here.",
+      "Rus": ""
     }
   },
   {
@@ -13569,7 +13782,8 @@
       ]
     },
     "Texts": {
-      "Eng": "So is everyone like you as, uh, hairy?"
+      "Eng": "So is everyone like you as, uh, hairy?",
+      "Rus": ""
     }
   },
   {
@@ -13580,7 +13794,8 @@
       ]
     },
     "Texts": {
-      "Eng": "So little hair..."
+      "Eng": "So little hair...",
+      "Rus": ""
     }
   },
   {
@@ -13591,7 +13806,8 @@
       ]
     },
     "Texts": {
-      "Eng": "So lovely to meet you, Glitch!"
+      "Eng": "So lovely to meet you, Glitch!",
+      "Rus": ""
     }
   },
   {
@@ -13602,7 +13818,8 @@
       ]
     },
     "Texts": {
-      "Eng": "So much time, so little to do."
+      "Eng": "So much time, so little to do.",
+      "Rus": ""
     }
   },
   {
@@ -13613,7 +13830,8 @@
       ]
     },
     "Texts": {
-      "Eng": "So nice to make your acquaintance."
+      "Eng": "So nice to make your acquaintance.",
+      "Rus": ""
     }
   },
   {

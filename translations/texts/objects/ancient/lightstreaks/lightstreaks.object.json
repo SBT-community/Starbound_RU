@@ -36,7 +36,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Световые полосы"
+    ],
     "Files": {
       "objects/ancient/lightstreaks/lightstreaks.object": [
         "/shortdescription"
@@ -60,7 +62,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Свет освещает руины достаточно хорошо, чтобы в них всё было видно."
+    ],
     "Files": {
       "objects/ancient/lightstreaks/lightstreaks.object": [
         "/glitchDescription/glitchEmotedText"
@@ -84,7 +88,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Свет пронзает тьму, как солнечные лучи океан."
+    ],
     "Files": {
       "objects/ancient/lightstreaks/lightstreaks.object": [
         "/hylotlDescription"
@@ -96,7 +102,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Эти лучи света такие спокойные."
+    ],
     "Files": {
       "objects/ancient/lightstreaks/lightstreaks.object": [
         "/novakidDescription"
