@@ -36,7 +36,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Стойка с данными Минидрона"
+    ],
     "Files": {
       "objects/clues/apex/minidronerack/minidronerack.object": [
         "/shortdescription"
@@ -44,7 +46,7 @@
     },
     "Texts": {
       "Eng": "Minidrone Intel Rack",
-      "Rus": "Стойка с данными минидрона"
+      "Rus": "Стойка с данными Минидрона"
     }
   },
   {
