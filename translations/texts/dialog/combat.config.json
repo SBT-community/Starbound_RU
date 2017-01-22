@@ -2034,7 +2034,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ю-хуу, а вот и мы!"
+    ],
     "Files": {
       "dialog/combat.config": [
         "/attack/novakid/default/1"
@@ -2042,7 +2044,7 @@
     },
     "Texts": {
       "Eng": "Yee-haw, here we go!",
-      "Rus": ""
+      "Rus": "Ю-хуу, поехали!"
     }
   },
   {
