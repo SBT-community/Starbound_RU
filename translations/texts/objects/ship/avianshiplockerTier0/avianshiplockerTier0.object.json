@@ -1,13 +1,17 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Шкафчик для хранения большого количества полезных вещей. Но сейчас он сломан.",
+      "Шкафчик для хранения большого количества полезных вещей. В данный момент он сломан."
+    ],
     "Files": {
       "objects/ship/avianshiplockerTier0/avianshiplockerTier0.object": [
         "/avianDescription"
       ]
     },
     "Texts": {
-      "Eng": "A locker, for storing lots of useful items. It's broken at the moment."
+      "Eng": "A locker, for storing lots of useful items. It's broken at the moment.",
+      "Rus": ""
     }
   },
   {
@@ -18,7 +22,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An Avian storage hatch. It doesn't seem to be working."
+      "Eng": "An Avian storage hatch. It doesn't seem to be working.",
+      "Rus": ""
     }
   },
   {
@@ -29,7 +34,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Avian storage locker. It's not currently functional."
+      "Eng": "Avian storage locker. It's not currently functional.",
+      "Rus": "Авианский шкафчик для хранения. В данный момент не функционирует."
     }
   }
 ]
