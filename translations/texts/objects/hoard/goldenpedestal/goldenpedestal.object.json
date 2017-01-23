@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A basic display stand."
+      "Eng": "A basic display stand.",
+      "Rus": ""
     }
   },
   {
@@ -18,18 +19,22 @@
       ]
     },
     "Texts": {
-      "Eng": "A golden pedestal for something special."
+      "Eng": "A golden pedestal for something special.",
+      "Rus": "Золотой пьедестал для чего-то особенного."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Золотой пьедестал. Красивый."
+    ],
     "Files": {
       "objects/hoard/goldenpedestal/goldenpedestal.object": [
         "/apexDescription"
       ]
     },
     "Texts": {
-      "Eng": "A golden pedestal. Beautiful."
+      "Eng": "A golden pedestal. Beautiful.",
+      "Rus": ""
     }
   },
   {
@@ -40,7 +45,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran put favourite sssevered head on pedestal."
+      "Eng": "Floran put favourite sssevered head on pedestal.",
+      "Rus": "Флоран поссставит на пьедестал любимую отрубленную голову ."
     }
   },
   {
@@ -51,7 +57,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Golden Pedestal"
+      "Eng": "Golden Pedestal",
+      "Rus": "Золотой Пьедестал"
     }
   },
   {
@@ -62,7 +69,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I could display my old swimming certificate here."
+      "Eng": "I could display my old swimming certificate here.",
+      "Rus": ""
     }
   },
   {
@@ -73,7 +81,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Looks pretty fancy for a display stand."
+      "Eng": "Looks pretty fancy for a display stand.",
+      "Rus": ""
     }
   },
   {
@@ -84,7 +93,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Nothing says pride of place like a golden pedestal."
+      "Eng": "Nothing says pride of place like a golden pedestal.",
+      "Rus": ""
     }
   }
 ]
