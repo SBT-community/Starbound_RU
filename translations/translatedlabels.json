@@ -349,8 +349,8 @@
       "arrivedhome.config.json": 54,
       "clues.config.json": 50,
       "colourful.config.json": 33,
-      "combat.config.json": 178,
-      "converse.config.json": 530,
+      "combat.config.json": 179,
+      "converse.config.json": 674,
       "crewmember.config.json": 39,
       "cultist.config.json": 31,
       "deadbeat.config.json": 23,
@@ -383,7 +383,7 @@
     "generic": {
       "shared_lightbulb.json": 1
     },
-    "glitchEmotes.json": 350,
+    "glitchEmotes.json": 354,
     "help.config.json": 58,
     "hunger.config.json": 15,
     "interface": {
@@ -4203,7 +4203,7 @@
           "prisonbruiser.npctype.json": 15
         },
         "hylotloceancity": {
-          "chefmerchant.npctype.json": 52
+          "chefmerchant.npctype.json": 56
         },
         "novakidvillage": {
           "bartender.npctype.json": 0,
@@ -5168,9 +5168,9 @@
         "backerstatue": {
           "benjaminstatue.object.json": 0,
           "cameronstatue.object.json": 0,
-          "memorialstatue.object.json": 0,
-          "oliverstatue.object.json": 0,
-          "shared_statue.object.json": 0
+          "memorialstatue.object.json": 2,
+          "oliverstatue.object.json": 7,
+          "shared_statue.object.json": 1
         },
         "derrickstatue": {
           "derrickstatue.object.json": 0
@@ -6616,7 +6616,7 @@
             "scorchedlandmine.object.json": 2
           },
           "shared_scorchedcity": {
-            "shared_scorchedcity.json": 3
+            "shared_scorchedcity.json": 5
           },
           "shared_scorchedcitybrokenchestdrawer": {
             "shared_scorchedcitybrokenchestdrawer.json": 1
@@ -7135,24 +7135,24 @@
             "bigapetargetmap.object.json": 9
           },
           "minidronerack": {
-            "minidronerack.object.json": 0
+            "minidronerack.object.json": 8
           },
           "miniknogintel1": {
-            "miniknogintel1.object.json": 0
+            "miniknogintel1.object.json": 8
           },
           "miniknognewspaper": {
-            "miniknognewspaper.object.json": 8
+            "miniknognewspaper.object.json": 9
           }
         },
         "avian": {
           "kluexmap1": {
-            "kluexmap1.object.json": 5
+            "kluexmap1.object.json": 8
           },
           "kluexmural1": {
-            "kluexmural1.object.json": 0
+            "kluexmural1.object.json": 8
           },
           "kluexmural2": {
-            "kluexmural2.object.json": 0
+            "kluexmural2.object.json": 8
           },
           "kluexstatue1": {
             "kluexstatue1.object.json": 0
@@ -7318,7 +7318,7 @@
           "shared_chiliseed.object.json": 9
         },
         "cocoa": {
-          "cocoaseed.object.json": 0,
+          "cocoaseed.object.json": 7,
           "shared_cocoaseed.object.json": 1,
           "wildcocoaseed.object.json": 0
         },
@@ -7386,7 +7386,7 @@
           "flowerspring.object.json": 0
         },
         "floweryellow": {
-          "floweryellow.object.json": 0
+          "floweryellow.object.json": 8
         },
         "grapes": {
           "shared_grapesseed.object.json": 9
@@ -8887,7 +8887,7 @@
           "diamonddisplay.object.json": 9
         },
         "goldenpedestal": {
-          "goldenpedestal.object.json": 0
+          "goldenpedestal.object.json": 3
         },
         "goldvase1": {
           "goldvase1.object.json": 0
@@ -10508,7 +10508,7 @@
           "outpostbed.object.json": 9
         },
         "outpostbutton": {
-          "outpostbutton.object.json": 7
+          "outpostbutton.object.json": 8
         },
         "outpostcabinet": {
           "outpostcabinet.object.json": 0
@@ -11131,10 +11131,10 @@
           "avianshiphatch.object.json": 1
         },
         "avianshiplocker": {
-          "avianshiplocker.object.json": 0
+          "avianshiplocker.object.json": 1
         },
         "avianshiplockerTier0": {
-          "avianshiplockerTier0.object.json": 0
+          "avianshiplockerTier0.object.json": 1
         },
         "aviantechstation": {
           "aviantechstation.object.json": 0
