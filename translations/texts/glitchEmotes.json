@@ -4227,9 +4227,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Побеждённо."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
         "/collect_fine/fineCollected/glitch/default/0/glitchEmote"
@@ -4237,7 +4235,7 @@
     },
     "Texts": {
       "Eng": "Defeated.",
-      "Rus": "Подавлено."
+      "Rus": "Побеждённо."
     }
   },
   {
