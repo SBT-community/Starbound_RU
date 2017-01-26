@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Bunk beds are so useful for shared spaces!"
+      "Eng": "Bunk beds are so useful for shared spaces!",
+      "Rus": ""
     }
   },
   {
@@ -18,29 +19,38 @@
       ]
     },
     "Texts": {
-      "Eng": "Cabin Bunk Bed"
+      "Eng": "Cabin Bunk Bed",
+      "Rus": ""
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флорану не нравится ссспать так далеко от земли."
+    ],
     "Files": {
       "objects/themed/cabin/cabinbunkbed/cabinbunkbed.object": [
         "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "Floran doesssn't like sssleeping so far from ground."
+      "Eng": "Floran doesssn't like sssleeping so far from ground.",
+      "Rus": "Флоран не любит ссспать так далеко от земли."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я надеюсь, что она не развалится пока я буду спать.",
+      "Я надеюсь, что она не рухнет во время использования.",
+      "Я надеюсь, что она не рухнет пока я буду спать."
+    ],
     "Files": {
       "objects/themed/cabin/cabinbunkbed/cabinbunkbed.object": [
         "/glitchDescription/glitchEmotedText"
       ]
     },
     "Texts": {
-      "Eng": "I hope that it doesn't collapse while being used."
+      "Eng": "I hope that it doesn't collapse while being used.",
+      "Rus": "Я надеюсь, что она не развалится во время использования."
     }
   },
   {
@@ -51,18 +61,22 @@
       ]
     },
     "Texts": {
-      "Eng": "Is the top bed for looking for approaching enemies? I don't understand."
+      "Eng": "Is the top bed for looking for approaching enemies? I don't understand.",
+      "Rus": ""
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ну я бы предпочел спать на верхней койке, ближе к звездам."
+    ],
     "Files": {
       "objects/themed/cabin/cabinbunkbed/cabinbunkbed.object": [
         "/novakidDescription"
       ]
     },
     "Texts": {
-      "Eng": "Me, well I'd prefer to sleep on the top bunk, closer to the stars."
+      "Eng": "Me, well I'd prefer to sleep on the top bunk, closer to the stars.",
+      "Rus": "Я предпочитаю спать на верхней койке, ближе к звездам."
     }
   },
   {
@@ -73,7 +87,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The bunk bed is a beautiful invention. I'm glad it's stood the test of time."
+      "Eng": "The bunk bed is a beautiful invention. I'm glad it's stood the test of time.",
+      "Rus": "Двухъярусная кровать является прекрасным изобретением. Я рад, что она выдержала испытание временем."
     }
   },
   {
@@ -84,7 +99,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The ingenuity in this furniture is ruined by the crude bedding."
+      "Eng": "The ingenuity in this furniture is ruined by the crude bedding.",
+      "Rus": ""
     }
   },
   {
@@ -95,7 +111,8 @@
       ]
     },
     "Texts": {
-      "Eng": "What's better than a bed? Two beds!"
+      "Eng": "What's better than a bed? Two beds!",
+      "Rus": "Что лучше, чем кровать? Две кровати!"
     }
   }
 ]
