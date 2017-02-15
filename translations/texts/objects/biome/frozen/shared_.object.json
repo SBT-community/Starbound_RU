@@ -22,7 +22,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A chunk of ice."
+      "Eng": "A chunk of ice.",
+      "Rus": "Кусочек льда."
     }
   },
   {
@@ -48,7 +49,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A pointy chunk of ice."
+      "Eng": "A pointy chunk of ice.",
+      "Rus": "Заостренный кусочек льда."
     }
   },
   {
@@ -74,7 +76,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A solid shard of ice. Cold all the way to it's core."
+      "Eng": "A solid shard of ice. Cold all the way to it's core.",
+      "Rus": "Большой осколок льда. Холод до самого его ядра."
     }
   },
   {
@@ -100,11 +103,14 @@
       ]
     },
     "Texts": {
-      "Eng": "An ice shard. The perfect murder weapon."
+      "Eng": "An ice shard. The perfect murder weapon.",
+      "Rus": "Осколок льда. Отличное орудие убийства."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Морозный лёд. Флоран тоже кажется таким."
+    ],
     "Files": {
       "objects/biome/frozen/frozenmistprimer/frozenmistprimer.object": [
         "/floranDescription"
@@ -126,7 +132,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Frosssty ice. Floran feels frosty too."
+      "Eng": "Frosssty ice. Floran feels frosty too.",
+      "Rus": ""
     }
   },
   {
@@ -152,7 +159,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Frozen water."
+      "Eng": "Frozen water.",
+      "Rus": "Замёрзшая вода."
     }
   },
   {
@@ -178,7 +186,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Ice cold! If I lick it, my tongue will stick."
+      "Eng": "Ice cold! If I lick it, my tongue will stick.",
+      "Rus": "Холодный лёд! Если я его лизну, мой язык прилипнет."
     }
   }
 ]
