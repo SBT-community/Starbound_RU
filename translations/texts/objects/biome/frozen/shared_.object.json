@@ -23,7 +23,7 @@
     },
     "Texts": {
       "Eng": "A chunk of ice.",
-      "Rus": "Кусочек льда."
+      "Rus": "Осколок льда."
     }
   },
   {
@@ -77,7 +77,7 @@
     },
     "Texts": {
       "Eng": "A solid shard of ice. Cold all the way to it's core.",
-      "Rus": "Большой осколок льда. Холод до самого его ядра."
+      "Rus": "Твёрдый осколок льда. Насквозь холодный."
     }
   },
   {
@@ -108,9 +108,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Морозный лёд. Флоран тоже кажется таким."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/biome/frozen/frozenmistprimer/frozenmistprimer.object": [
         "/floranDescription"
