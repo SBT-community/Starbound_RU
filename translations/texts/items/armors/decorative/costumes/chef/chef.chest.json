@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Куртка Повара"
+    ],
     "Files": {
       "items/armors/decorative/costumes/chef/chef.chest": [
         "/shortdescription"
@@ -8,7 +10,7 @@
     },
     "Texts": {
       "Eng": "Chef Jacket",
-      "Rus": "Куртка Повара"
+      "Rus": "Китель шеф-повара"
     }
   },
   {
@@ -20,7 +22,7 @@
     },
     "Texts": {
       "Eng": "Given to every chef when they pass their chef exams.",
-      "Rus": "Выдается каждому повару после прохождения экзамена."
+      "Rus": "Выдаётся каждому повару после прохождения экзамена."
     }
   }
 ]
