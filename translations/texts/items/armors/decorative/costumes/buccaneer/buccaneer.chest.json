@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Кит пират Шубной - хорошо пахнет кит в любом случае."
+    ],
     "Files": {
       "items/armors/decorative/costumes/buccaneer/buccaneer.chest": [
         "/description"
@@ -8,7 +10,7 @@
     },
     "Texts": {
       "Eng": "A whaleskin pirate coat - well it smells like whale anyway.",
-      "Rus": "Кит пират Шубной - хорошо пахнет кит в любом случае."
+      "Rus": "Пиратское пальто из шкуры кита. Ну, китом попахивает в любом случае."
     }
   },
   {
