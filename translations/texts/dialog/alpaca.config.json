@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      ""
+    ],
     "Files": {
       "dialog/alpaca.config": [
         "/converse/default/default/6"
@@ -8,7 +10,7 @@
     },
     "Texts": {
       "Eng": "Always have a wee nap when ye can!",
-      "Rus": "Не отказывайте себе в удовольствии поспать, всякий раз, когда обстоятельства благоволят!"
+      "Rus": "Не отказывайте себе в удовольствии поспать всякий раз, когда обстоятельства благоволят!"
     }
   },
   {
@@ -34,7 +36,7 @@
     },
     "Texts": {
       "Eng": "Are ye a fighter, or a craven?",
-      "Rus": "Вы дуэлянт или всего лишь пустослов?"
+      "Rus": "Вы дуэлянт или всего-лишь пустослов?"
     }
   },
   {
@@ -60,7 +62,7 @@
     },
     "Texts": {
       "Eng": "Away with ye!",
-      "Rus": "Убирайся прочь!"
+      "Rus": "Убирайтесь прочь!"
     }
   },
   {
@@ -110,7 +112,7 @@
     },
     "Texts": {
       "Eng": "Cut 'em tae size!",
-      "Rus": ""
+      "Rus": "Настал час поставить их на место!"
     }
   },
   {
@@ -136,7 +138,7 @@
     },
     "Texts": {
       "Eng": "Dinnae come back!",
-      "Rus": ""
+      "Rus": "Не возвращайтесь!"
     }
   },
   {
@@ -148,7 +150,7 @@
     },
     "Texts": {
       "Eng": "Dinnae think ye can get away!",
-      "Rus": ""
+      "Rus": "Не могу и вообразить, что вам это под силу!"
     }
   },
   {
@@ -166,7 +168,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Много ли имеете знакомцев, вроде Вас?"
+    ],
     "Files": {
       "dialog/alpaca.config": [
         "/converse/default/default/14"
@@ -174,7 +178,7 @@
     },
     "Texts": {
       "Eng": "Do ye get many that look like ye?",
-      "Rus": "Много ли имеете знакомцев, вроде Вас?"
+      "Rus": "Много ли у вас знакомцев, похожих на вас?"
     }
   },
   {
@@ -228,7 +232,7 @@
     },
     "Texts": {
       "Eng": "Get back with ye!",
-      "Rus": ""
+      "Rus": "До встречи!"
     }
   },
   {
@@ -240,12 +244,13 @@
     },
     "Texts": {
       "Eng": "Get tae heck!",
-      "Rus": ""
+      "Rus": "Убирайтесь к чёрту!"
     }
   },
   {
     "DeniedAlternatives": [
-      "Ты здесь что-т' передвинул'?"
+      "Ты здесь что-т' передвинул'?",
+      "Вы передвинули здесь что-то?"
     ],
     "Files": {
       "dialog/alpaca.config": [
@@ -254,7 +259,7 @@
     },
     "Texts": {
       "Eng": "Has something been moved around in here?",
-      "Rus": "Вы передвинули здесь что-то?"
+      "Rus": "Вы здесь что-то передвинули?"
     }
   },
   {
@@ -266,7 +271,7 @@
     },
     "Texts": {
       "Eng": "Have at 'em!",
-      "Rus": ""
+      "Rus": "В атаку!"
     }
   },
   {
@@ -278,7 +283,7 @@
     },
     "Texts": {
       "Eng": "Have at the rotter!",
-      "Rus": ""
+      "Rus": "Атакуйте подлеца!"
     }
   },
   {
@@ -290,7 +295,7 @@
     },
     "Texts": {
       "Eng": "Have at ye!",
-      "Rus": ""
+      "Rus": "Защищайтесь!"
     }
   },
   {
@@ -302,7 +307,7 @@
     },
     "Texts": {
       "Eng": "Have oot with ye!",
-      "Rus": ""
+      "Rus": "Я с вами разберусь!"
     }
   },
   {

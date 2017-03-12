@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Шляпа Шеф-Повара"
+    ],
     "Files": {
       "items/armors/decorative/costumes/chef/chef.head": [
         "/shortdescription"
@@ -8,11 +10,13 @@
     },
     "Texts": {
       "Eng": "Chef Hat",
-      "Rus": "Шляпа Шеф-Повара"
+      "Rus": "Колпак шеф-повара"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Чтобы владелец выглядел как профессиональный шеф-повар"
+    ],
     "Files": {
       "items/armors/decorative/costumes/chef/chef.head": [
         "/description"
@@ -20,7 +24,7 @@
     },
     "Texts": {
       "Eng": "To make the wearer look like a professional chef.",
-      "Rus": "Чтобы владелец выглядел как профессиональный шеф-повар"
+      "Rus": "Придаёт одевшему вид профессионального шеф-повара."
     }
   }
 ]

@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "В шляпе моей 3 угла,  3 угла в шляпе моей!"
+    ],
     "Files": {
       "items/armors/decorative/costumes/buccaneer/buccaneer.head": [
         "/description"
@@ -8,7 +10,7 @@
     },
     "Texts": {
       "Eng": "My hat, it has three corners, three corners has my hat!",
-      "Rus": "В шляпе моей 3 угла,  3 угла в шляпе моей!"
+      "Rus": "В шляпе моей три угла, три угла в моей шляпе!"
     }
   },
   {

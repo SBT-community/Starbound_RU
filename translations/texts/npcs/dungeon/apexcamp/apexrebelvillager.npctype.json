@@ -26,7 +26,7 @@
     },
     "Texts": {
       "Eng": "Are you here to support our never-ending struggle against the Miniknog?",
-      "Rus": "Ты здесь чтобы помочь нам в бесконечной борьбе против Министерства?"
+      "Rus": "Ты здесь, чтобы помочь нам в бесконечной борьбе против Министерства?"
     }
   },
   {
@@ -62,7 +62,7 @@
     },
     "Texts": {
       "Eng": "Do you know much about the plight of the Apex, Avian?",
-      "Rus": "Много ли ты знаешь о том, как живется Апексам, Авиан?"
+      "Rus": "Много ли ты знаешь о том, каково приходится апексам, авиан?"
     }
   },
   {
@@ -74,7 +74,7 @@
     },
     "Texts": {
       "Eng": "Do you know much about the plight of the Apex, Floran?",
-      "Rus": "Много ли ты знаешь о том, как живется Апексам, Флоран?"
+      "Rus": "Много ли ты знаешь о том, каково приходится апексам, флоран?"
     }
   },
   {
@@ -86,7 +86,7 @@
     },
     "Texts": {
       "Eng": "Do you know much about the plight of the Apex, Glitch?",
-      "Rus": "Много ли ты знаешь о том, как живется Апексам, Глитч?"
+      "Rus": "Много ли ты знаешь о том, каково приходится апексам, глитч?"
     }
   },
   {
@@ -98,7 +98,7 @@
     },
     "Texts": {
       "Eng": "Do you know much about the plight of the Apex, Hylotl?",
-      "Rus": "Много ли ты знаешь о том, как живется Апексам, Хилотл?"
+      "Rus": "Много ли ты знаешь о том, каково приходится апексам, хилотл?"
     }
   },
   {
@@ -110,7 +110,7 @@
     },
     "Texts": {
       "Eng": "Do you know much about the plight of the Apex, human?",
-      "Rus": "Много ли ты знаешь о том, как живется Апексам, человек?"
+      "Rus": "Много ли ты знаешь о том, каково приходится апексам, человек?"
     }
   },
   {
@@ -122,7 +122,7 @@
     },
     "Texts": {
       "Eng": "Do you know much about the plight of the Apex? ...What kind of creature are you, anyway?",
-      "Rus": "Много ли ты знаешь о том, как живется Апексам?.. Ладно, забудь... Кто же ты такой?"
+      "Rus": "Много ли ты знаешь о том, каково приходится апексам?.. Ладно, забудь... Что ты вообще за существо?"
     }
   },
   {
@@ -182,7 +182,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я думал что Большой Эйп не такой большой."
+    ],
     "Files": {
       "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
         "/scriptConfig/dialog/converse/apex/apex/7",
@@ -196,7 +198,7 @@
     },
     "Texts": {
       "Eng": "I bet Big Ape isn't even that big.",
-      "Rus": "Я думал что Большой Эйп не такой большой."
+      "Rus": "Могу поспорить, Большой Эйп не такой уж и большой."
     }
   },
   {
@@ -230,7 +232,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Министерство заплатит за то, что сделало с нашим родом!"
+    ],
     "Files": {
       "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
         "/scriptConfig/dialog/converse/apex/apex/9"
@@ -238,7 +242,7 @@
     },
     "Texts": {
       "Eng": "The Miniknog will pay for what they have done to our kind!",
-      "Rus": "Министерство заплатит за то, что сделало с нашим родом!"
+      "Rus": "Министерство заплатит за то, что сделало с нашим народом!"
     }
   },
   {
@@ -268,7 +272,7 @@
     },
     "Texts": {
       "Eng": "We fight for the freedom of our people. What do you fight for, Avian?",
-      "Rus": "Мы боремся за свободу нашего народа. За что сражаешься ты, Авиан?"
+      "Rus": "Мы боремся за свободу нашего народа. За что сражаешься ты, авиан?"
     }
   },
   {
@@ -280,7 +284,7 @@
     },
     "Texts": {
       "Eng": "We fight for the freedom of our people. What do you fight for, Floran?",
-      "Rus": "Мы боремся за свободу нашего народа. За что сражаешься ты, Флоран?"
+      "Rus": "Мы боремся за свободу нашего народа. За что сражаешься ты, флоран?"
     }
   },
   {
@@ -292,7 +296,7 @@
     },
     "Texts": {
       "Eng": "We fight for the freedom of our people. What do you fight for, Glitch?",
-      "Rus": "Мы боремся за свободу нашего народа. За что сражаешься ты, Глитч?"
+      "Rus": "Мы боремся за свободу нашего народа. За что сражаешься ты, глитч?"
     }
   },
   {
@@ -304,7 +308,7 @@
     },
     "Texts": {
       "Eng": "We fight for the freedom of our people. What do you fight for, Hylotl?",
-      "Rus": "Мы сражаемся за свободу нашего народа. А за что сражаешься ты, Хилотл?"
+      "Rus": "Мы сражаемся за свободу нашего народа. А за что сражаешься ты, хилотл?"
     }
   },
   {

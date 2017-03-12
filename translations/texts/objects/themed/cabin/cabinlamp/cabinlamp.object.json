@@ -1,13 +1,16 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Довольно хорошая лампа. Было бы лучше, если бы она была в форме птички."
+    ],
     "Files": {
       "objects/themed/cabin/cabinlamp/cabinlamp.object": [
         "/avianDescription"
       ]
     },
     "Texts": {
-      "Eng": "A rather nice lamp. It could be nicer if it was shaped like a bird."
+      "Eng": "A rather nice lamp. It could be nicer if it was shaped like a bird.",
+      "Rus": ""
     }
   },
   {
@@ -18,7 +21,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An electric light with a hand-carved wooden stand."
+      "Eng": "An electric light with a hand-carved wooden stand.",
+      "Rus": ""
     }
   },
   {
@@ -29,7 +33,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Cabin Lamp"
+      "Eng": "Cabin Lamp",
+      "Rus": ""
     }
   },
   {
@@ -40,7 +45,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran prefersss glowing plantsss."
+      "Eng": "Floran prefersss glowing plantsss.",
+      "Rus": "Флоран предпочитает светящиеся растения."
     }
   },
   {
@@ -51,7 +57,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I guess the curved form of this lamp is meant to be appealing."
+      "Eng": "I guess the curved form of this lamp is meant to be appealing.",
+      "Rus": ""
     }
   },
   {
@@ -62,18 +69,22 @@
       ]
     },
     "Texts": {
-      "Eng": "I guess this is a modern lamp that's pretending to be old."
+      "Eng": "I guess this is a modern lamp that's pretending to be old.",
+      "Rus": ""
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я предпочитаю газовые фонари, но это тоже неплохо."
+    ],
     "Files": {
       "objects/themed/cabin/cabinlamp/cabinlamp.object": [
         "/novakidDescription"
       ]
     },
     "Texts": {
-      "Eng": "I prefer gas lights, but this works too."
+      "Eng": "I prefer gas lights, but this works too.",
+      "Rus": "Я предпочитаю газовые фонари, но это тоже работает."
     }
   },
   {
@@ -84,18 +95,24 @@
       ]
     },
     "Texts": {
-      "Eng": "If this is wood, how is it lighting up?"
+      "Eng": "If this is wood, how is it lighting up?",
+      "Rus": "Если это дерево, то откуда идет свет?"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Это похоже на разбазаривание природных ресурсов.",
+      "Это кажется неэффективное использование природных ресурсов.",
+      "Это кажется пустой тратой природных ресурсов."
+    ],
     "Files": {
       "objects/themed/cabin/cabinlamp/cabinlamp.object": [
         "/hylotlDescription"
       ]
     },
     "Texts": {
-      "Eng": "This seems like a waste of natural resources."
+      "Eng": "This seems like a waste of natural resources.",
+      "Rus": "Это похоже на пустую трату природных ресурсов."
     }
   }
 ]
