@@ -1209,7 +1209,7 @@
     },
     "Texts": {
       "Eng": "Here iss the <item> for <questGiver>, Floran doesn't mind lending it.",
-      "Rus": "Вот <item> для <questGiver>. Флоранин не против одолжить эту вещь."
+      "Rus": "Вот <item> для <questGiver>. Флоран не против одолжить эту вещь."
     }
   },
   {
@@ -1222,7 +1222,7 @@
     },
     "Texts": {
       "Eng": "Here iss thing! Take it to <questGiver>.",
-      "Rus": ""
+      "Rus": "Вот та шштука! Отнеси её <questGiver>."
     }
   },
   {
@@ -1460,7 +1460,7 @@
     },
     "Texts": {
       "Eng": "How did I get so lost? Well, I'm glad you found me. Would you take me back to <questGiver>?",
-      "Rus": "Как я так сильно заблудился? Ну что же, я рад, что ты нашёл меня. Не отведешь ли ты меня обратно к <questGiver>?"
+      "Rus": "Как я так сильно заблудился? Ну что же, я рад, что ты нашёл меня. <questGiver> наверняка ждёт, не отведешь ли ты меня обратно к <questGiver.pronoun.object>?"
     }
   },
   {
@@ -1472,7 +1472,7 @@
     },
     "Texts": {
       "Eng": "How kind of <questGiver>. Please thank them for me.",
-      "Rus": "<questGiver> так добр. Пожалуйста, отблагодари его от меня."
+      "Rus": "<questGiver> так добр. Пожалуйста, отблагодари <questGiver.pronoun.reflexive> от меня."
     }
   },
   {
@@ -1497,7 +1497,7 @@
     },
     "Texts": {
       "Eng": "How nice! Please thank <questGiver> for me!",
-      "Rus": ""
+      "Rus": "Как мило! <questGiver> заслуживает моей благодарности, пожалуйста передай <questGiver.pronoun.object>."
     }
   },
   {
