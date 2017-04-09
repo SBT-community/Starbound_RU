@@ -1318,7 +1318,7 @@
     },
     "Texts": {
       "Eng": "Been up to much mooshi herdin' recently?",
-      "Rus": ""
+      "Rus": "До недавнего времени было много домашних Му-уши?"
     }
   },
   {
@@ -3061,7 +3061,12 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я не так стар, как мой револьвер!",
+      "Не думай что я старее моего револьвера!",
+      "Я не старее этого револьвера!",
+      "Не считай меня старее этого револьвера!"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/novakid/glitch/2"
@@ -3069,7 +3074,7 @@
     },
     "Texts": {
       "Eng": "Don't go rustin' up on me like an ol' revolver!",
-      "Rus": ""
+      "Rus": "Не считай меня старее этого револьвера!"
     }
   },
   {
@@ -5456,7 +5461,7 @@
     },
     "Texts": {
       "Eng": "Have you been in an Avian temple? I'm not sure they'd appeal to the Hylotl aesthetic...",
-      "Rus": ""
+      "Rus": "Вы были в храме Авиан? Я не уверен, что они равнодушны к эстетике Хилотл..."
     }
   },
   {
@@ -5468,7 +5473,7 @@
     },
     "Texts": {
       "Eng": "Have you dealt with pirates much?",
-      "Rus": ""
+      "Rus": "Часто ли вы имели дело с пиратами?"
     }
   },
   {
@@ -5480,7 +5485,7 @@
     },
     "Texts": {
       "Eng": "Have you ever attempted the delicate artistry of flower arranging?",
-      "Rus": ""
+      "Rus": "Вы когда-нибудь пробовали себя в мастерстве флористики?"
     }
   },
   {
@@ -5492,7 +5497,7 @@
     },
     "Texts": {
       "Eng": "Have you ever been struck by lightning, metal friend?",
-      "Rus": ""
+      "Rus": "В вас когда-нибудь попадала молния, мой металлический друг?"
     }
   },
   {
@@ -5504,7 +5509,7 @@
     },
     "Texts": {
       "Eng": "Have you ever been to Avos?",
-      "Rus": ""
+      "Rus": "Вы когда-нибудь бывали на Авосе?"
     }
   },
   {
@@ -5516,7 +5521,7 @@
     },
     "Texts": {
       "Eng": "Have you ever eaten an oculemon? They're not my favourite.",
-      "Rus": ""
+      "Rus": "Вы когда-нибудь ели окулемоны? Мне они не нравятся."
     }
   },
   {
@@ -5616,7 +5621,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Вы слышали как поют Авиане? Мы в этом очень хороши. Величайшие певцы."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/avian/glitch/17"
@@ -5624,7 +5631,7 @@
     },
     "Texts": {
       "Eng": "Have you heard the Avian sing? We're generally pretty good. Great whistlers too.",
-      "Rus": ""
+      "Rus": "Вы слышали как поют Авиане? Мы в этом очень хороши. Величайшие свистуны(певцы)."
     }
   },
   {
@@ -5672,7 +5679,7 @@
     },
     "Texts": {
       "Eng": "Have you read the \"Daily Peel\" lately?",
-      "Rus": ""
+      "Rus": "Вы читали \"Дэйли Пил\" в последнее время?"
     }
   },
   {
@@ -5756,7 +5763,7 @@
     },
     "Texts": {
       "Eng": "Have you seen my paintbrushes? They have birchwood handles and sable bristles...",
-      "Rus": ""
+      "Rus": "Вы видели мои кисти? У них ручки из березовой коры, а пучок из меха соболя..."
     }
   },
   {
@@ -5780,7 +5787,7 @@
     },
     "Texts": {
       "Eng": "Have you tried Avian wrestling?",
-      "Rus": ""
+      "Rus": "Вы пробовали себя на ринге с Авианами?"
     }
   },
   {
@@ -5888,7 +5895,7 @@
     },
     "Texts": {
       "Eng": "Hello my fine fellow.",
-      "Rus": ""
+      "Rus": "Привет, товарищ."
     }
   },
   {
@@ -6239,7 +6246,7 @@
     },
     "Texts": {
       "Eng": "Hi, fellow Avian.",
-      "Rus": ""
+      "Rus": "Привет, тебе, Авиан."
     }
   },
   {
@@ -6342,7 +6349,7 @@
     },
     "Texts": {
       "Eng": "How do you cope with the jiggling of your fleshy shell?",
-      "Rus": ""
+      "Rus": "Как вы справляетесь с обвисанием вашей мясной обшивки?"
     }
   },
   {
@@ -6738,7 +6745,7 @@
     },
     "Texts": {
       "Eng": "How's thingss with you?",
-      "Rus": ""
+      "Rus": "Как у Вас дела?"
     }
   },
   {
@@ -6750,7 +6757,7 @@
     },
     "Texts": {
       "Eng": "Howdy partner! The name's <selfname>, don't forget it!",
-      "Rus": ""
+      "Rus": "Здравствуй, товарищ! Тебя зовут <selfname>, не забудь!"
     }
   },
   {
@@ -6762,7 +6769,7 @@
     },
     "Texts": {
       "Eng": "Howdy there!",
-      "Rus": ""
+      "Rus": "Здорово!"
     }
   },
   {
@@ -6774,7 +6781,7 @@
     },
     "Texts": {
       "Eng": "Howdy there, friend! Keep goin' strong, and glowin' stronger!",
-      "Rus": ""
+      "Rus": "Здорово, друже! Продолжай становиться сильнее и сиять!"
     }
   },
   {
@@ -6786,7 +6793,7 @@
     },
     "Texts": {
       "Eng": "Howdy there, new blood!",
-      "Rus": ""
+      "Rus": "Здорово, новый человек!"
     }
   },
   {
@@ -6798,7 +6805,7 @@
     },
     "Texts": {
       "Eng": "Howdy! Have we met before? I can never remember a face...",
-      "Rus": ""
+      "Rus": "Здорово! Мы раньше встречались? Я не могу вспомнить лицо ..."
     }
   },
   {
@@ -6810,7 +6817,7 @@
     },
     "Texts": {
       "Eng": "Howdy.",
-      "Rus": ""
+      "Rus": "Здорово!"
     }
   },
   {
@@ -6858,7 +6865,7 @@
     },
     "Texts": {
       "Eng": "Humans are a peaceful species, right? Sometimes an Avian's warrior side runs away with them.",
-      "Rus": ""
+      "Rus": "Люди - это мирные виды, так? Иногда воины Авиан сторона дезертируют вместе с ними."
     }
   },
   {
@@ -7062,7 +7069,7 @@
     },
     "Texts": {
       "Eng": "I am wicked hungry.",
-      "Rus": ""
+      "Rus": "Я опасно голоден."
     }
   },
   {
@@ -7170,7 +7177,7 @@
     },
     "Texts": {
       "Eng": "I bet you've got a few stories to tell!",
-      "Rus": ""
+      "Rus": "Бьюсь об заклад, у вас есть несколько историй!"
     }
   },
   {
@@ -7374,7 +7381,7 @@
     },
     "Texts": {
       "Eng": "I could totally go for a roast dinner right now.",
-      "Rus": ""
+      "Rus": "Сейчас я пойду на ужин."
     }
   },
   {
@@ -7602,7 +7609,7 @@
     },
     "Texts": {
       "Eng": "I don't remember much, except to keep my wits about me!",
-      "Rus": ""
+      "Rus": "Я многого уже не помню, оставь память обо мне!"
     }
   },
   {
@@ -7698,7 +7705,7 @@
     },
     "Texts": {
       "Eng": "I expect you polish up a treat.",
-      "Rus": ""
+      "Rus": "Я думаю, что вы получите удовольствие."
     }
   },
   {
@@ -7746,7 +7753,7 @@
     },
     "Texts": {
       "Eng": "I feel rude not offering you seeds, but I have none.",
-      "Rus": ""
+      "Rus": "Я чувствую себя грубо, не предлагая вам семена, но у меня нет ни одного."
     }
   },
   {
@@ -8059,7 +8066,7 @@
     },
     "Texts": {
       "Eng": "I have some spare feathers if you'd like to try and fit in.",
-      "Rus": ""
+      "Rus": "У меня есть запасные перья, если вы хотите попробовать оторвать парочку."
     }
   },
   {
@@ -8851,7 +8858,7 @@
     },
     "Texts": {
       "Eng": "I read some captivating poetry this morning, it absolutely transported me.",
-      "Rus": ""
+      "Rus": "Сегодня утром я прочитал увлекательные стихи, которые меня полностью преобразовали."
     }
   },
   {
@@ -8911,7 +8918,7 @@
     },
     "Texts": {
       "Eng": "I regard books as learned friends.",
-      "Rus": ""
+      "Rus": "Я отношусь к книгам, как к начитанным друзьям."
     }
   },
   {
@@ -8995,7 +9002,7 @@
     },
     "Texts": {
       "Eng": "I shut my fingers in a draw yesterday and now I can't get anything done.",
-      "Rus": ""
+      "Rus": "Я прищемил пальцы вчера, и теперь я ничего не могу сделать."
     }
   },
   {
@@ -9128,7 +9135,7 @@
     },
     "Texts": {
       "Eng": "I sure hope you don't rust up next time it's rainin'!",
-      "Rus": ""
+      "Rus": "Надеюсь, ты не заржавеешь в следующий раз, когда пойдет дождь?"
     }
   },
   {
@@ -9176,7 +9183,7 @@
     },
     "Texts": {
       "Eng": "I think I might have buried my spade.",
-      "Rus": ""
+      "Rus": "Я думаю, что я, возможно, похоронил свою лопату."
     }
   },
   {
@@ -9260,7 +9267,7 @@
     },
     "Texts": {
       "Eng": "I think you're probably my favourite.",
-      "Rus": ""
+      "Rus": "Думаю, ты, наверное, мой идеал."
     }
   },
   {
@@ -9368,7 +9375,7 @@
     },
     "Texts": {
       "Eng": "I used to assume the Hylotl had scales.",
-      "Rus": ""
+      "Rus": "Раньше я предполагал, что у Хилотл были чешуйки."
     }
   },
   {
@@ -9392,7 +9399,7 @@
     },
     "Texts": {
       "Eng": "I used to meditate, but I couldn't stand the quiet.",
-      "Rus": ""
+      "Rus": "Раньше я пытался медитировать, но не мог усидеть на одном месте. "
     }
   },
   {
@@ -9884,7 +9891,7 @@
     },
     "Texts": {
       "Eng": "I'm always rootin' for a jamboree!",
-      "Rus": ""
+      "Rus": "Я всегда болею за джамбори!"
     }
   },
   {
@@ -9932,7 +9939,7 @@
     },
     "Texts": {
       "Eng": "I'm craving a Cornish pasty right now.",
-      "Rus": ""
+      "Rus": "Сейчас я жажду корнуэльского пирога."
     }
   },
   {
@@ -10472,7 +10479,7 @@
     },
     "Texts": {
       "Eng": "I've been learning the ocarina!",
-      "Rus": ""
+      "Rus": "Я изучал окарину!"
     }
   },
   {
@@ -11724,7 +11731,7 @@
     },
     "Texts": {
       "Eng": "It's hard to capture the delicacy and diaphanousness of feathers with ink.",
-      "Rus": ""
+      "Rus": "Трудно уловить деликатность и прозрачность перьев чернилами."
     }
   },
   {
@@ -12084,7 +12091,7 @@
     },
     "Texts": {
       "Eng": "Leave, maybe.",
-      "Rus": ""
+      "Rus": "Может быть, уйду."
     }
   },
   {
@@ -12216,7 +12223,7 @@
     },
     "Texts": {
       "Eng": "Let's play clunky jacks!",
-      "Rus": ""
+      "Rus": "Давай поиграем в Кланки Джакс (Неуклюжое гнездо)"
     }
   },
   {
@@ -12288,7 +12295,7 @@
     },
     "Texts": {
       "Eng": "Lightsss! Lightsss person! Are you fire?",
-      "Rus": ""
+      "Rus": "Огонь! Сссветящийся человек! Вы горите?"
     }
   },
   {
@@ -14365,7 +14372,7 @@
     },
     "Texts": {
       "Eng": "Skreeeeee!",
-      "Rus": ""
+      "Rus": "Привет!"
     }
   },
   {
@@ -14460,7 +14467,8 @@
       ]
     },
     "Texts": {
-      "Eng": "So nice to meet you!"
+      "Eng": "So nice to meet you!",
+      "Rus": "Так приятно встретиться с вами!"
     }
   },
   {
@@ -14471,7 +14479,8 @@
       ]
     },
     "Texts": {
-      "Eng": "So pleased to meet you."
+      "Eng": "So pleased to meet you.",
+      "Rus": "Так рад с вами познакомиться."
     }
   },
   {
@@ -14482,7 +14491,8 @@
       ]
     },
     "Texts": {
-      "Eng": "So wonderful to meet you."
+      "Eng": "So wonderful to meet you.",
+      "Rus": "Так замечательно с вами познакомиться."
     }
   },
   {
@@ -14493,7 +14503,8 @@
       ]
     },
     "Texts": {
-      "Eng": "So you're bird folk, but you can't fly? You got a raw deal, friend."
+      "Eng": "So you're bird folk, but you can't fly? You got a raw deal, friend.",
+      "Rus": "Так ты птица, но ты не умеешь летать? У тебя серьезные проблемы, друг."
     }
   },
   {
@@ -14504,7 +14515,8 @@
       ]
     },
     "Texts": {
-      "Eng": "So, have you planned your next big adventure?"
+      "Eng": "So, have you planned your next big adventure?",
+      "Rus": "Итак, ты планировал свое следующее большое приключение?"
     }
   },
   {
@@ -14515,7 +14527,8 @@
       ]
     },
     "Texts": {
-      "Eng": "So, if you had to choose, what would be your favourite type of meat?"
+      "Eng": "So, if you had to choose, what would be your favourite type of meat?",
+      "Rus": "Итак, если бы вам пришлось выбирать, какой был бы ваш любимый вид мяса?"
     }
   },
   {
@@ -14526,7 +14539,8 @@
       ]
     },
     "Texts": {
-      "Eng": "So, you are not a Miniknog official in a metal suit?"
+      "Eng": "So, you are not a Miniknog official in a metal suit?",
+      "Rus": "Итак, вы не представитель Апексов в металлическом костюме?"
     }
   },
   {
@@ -14537,7 +14551,8 @@
       ]
     },
     "Texts": {
-      "Eng": "So, your species is finally integrating?"
+      "Eng": "So, your species is finally integrating?",
+      "Rus": "Итак, ваш вид окончательно объединился?"
     }
   },
   {
@@ -14548,7 +14563,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Some of the greatest Hylotl works were produced by those with adventurous spirits."
+      "Eng": "Some of the greatest Hylotl works were produced by those with adventurous spirits.",
+      "Rus": "Некоторые из величайших произведений Хилотл были созданы теми, у кого был дух авантюризма."
     }
   },
   {
@@ -14559,7 +14575,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Some of the verses in the Avian religious text are quite beautiful."
+      "Eng": "Some of the verses in the Avian religious text are quite beautiful.",
+      "Rus": "Некоторые из религиозных текстов Авеан весьма красивы."
     }
   },
   {
@@ -14570,7 +14587,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Someone squished my chicken!"
+      "Eng": "Someone squished my chicken!",
+      "Rus": "Кто-то свистнул моего цыпленка!"
     }
   },
   {
@@ -14581,7 +14599,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Something about you makes me want fish and chips. Can't put my finger on what."
+      "Eng": "Something about you makes me want fish and chips. Can't put my finger on what.",
+      "Rus": "Что-то о тебе заставляет меня хотеть рыбу и чипсы. Не могу понять, что."
     }
   },
   {
@@ -14592,7 +14611,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Something does not seem right."
+      "Eng": "Something does not seem right.",
+      "Rus": "Что-то здесь не так."
     }
   },
   {
@@ -14603,7 +14623,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Something doesn't feel right; like storm clouds are gathering."
+      "Eng": "Something doesn't feel right; like storm clouds are gathering.",
+      "Rus": "Что-то здесь не так, будто начнётся шторм."
     }
   },
   {
@@ -14614,7 +14635,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Something fishy is going on here."
+      "Eng": "Something fishy is going on here.",
+      "Rus": "Что-то подозрительное происходит здесь."
     }
   },
   {
@@ -14625,7 +14647,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Something tells me a I shouldn't have tea with you."
+      "Eng": "Something tells me a I shouldn't have tea with you.",
+      "Rus": "Что-то говорит мне, что я не должен пить чай с тобой."
     }
   },
   {
@@ -14636,7 +14659,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Something weird is going on here."
+      "Eng": "Something weird is going on here.",
+      "Rus": "Что-то странное происходит здесь."
     }
   },
   {
@@ -14647,7 +14671,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Sometimes I crave the peace that comes from living a hermitic life."
+      "Eng": "Sometimes I crave the peace that comes from living a hermitic life.",
+      "Rus": ""
     }
   },
   {
@@ -14658,7 +14683,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Sometimes I like to pretend I'm an old timey knight!"
+      "Eng": "Sometimes I like to pretend I'm an old timey knight!",
+      "Rus": "Иногда мне нравится притворяться, что я старый рыцарь!"
     }
   },
   {
@@ -14669,7 +14695,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Sometimes I miss soap operas, mostly not though."
+      "Eng": "Sometimes I miss soap operas, mostly not though.",
+      "Rus": "Иногда я скучаю по мыльным операм, хотя..."
     }
   },
   {
@@ -14680,7 +14707,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Sometimes I sit in a wood and watch the leaves fall - such grace and elegance in their dance."
+      "Eng": "Sometimes I sit in a wood and watch the leaves fall - such grace and elegance in their dance.",
+      "Rus": "Иногда я сижу в лесу и смотрю, как падают листья - такая грация и элегантность в их танцах."
     }
   },
   {
@@ -14691,7 +14719,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Sometimes I worry we Hylotl lack a sense of humour."
+      "Eng": "Sometimes I worry we Hylotl lack a sense of humour.",
+      "Rus": "Иногда я беспокоюсь, что у нас нет чувства юмора."
     }
   },
   {
@@ -14702,7 +14731,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Sometimes Lords and Ladies have hunts, but I don't think it's like FLoran hunting..."
+      "Eng": "Sometimes Lords and Ladies have hunts, but I don't think it's like FLoran hunting...",
+      "Rus": "Иногда Лорды и Леди ходят на охоту, но я не думаю, что это похоже на охоту Флоран ..."
     }
   },
   {
@@ -14713,7 +14743,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Sometimes it's fun to just yell at monsters."
+      "Eng": "Sometimes it's fun to just yell at monsters.",
+      "Rus": "Иногда забавно просто кричать на монстров."
     }
   },
   {
@@ -14724,7 +14755,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Sometimes when I try to swim I just float, but sometimes I try and I sink instead!"
+      "Eng": "Sometimes when I try to swim I just float, but sometimes I try and I sink instead!",
+      "Rus": "Иногда, когда я пытаюсь плавать, я просто плыву, но иногда я стараюсь, и я тону!"
     }
   },
   {
