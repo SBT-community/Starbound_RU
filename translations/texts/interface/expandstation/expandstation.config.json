@@ -1,0 +1,124 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/expandstation/expandstation.config": [
+        "/warningMessages/blocking"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blocks existing part"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/expandstation/expandstation.config": [
+        "/warningMessages/invalid"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can't connect to existing part"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/expandstation/expandstation.config": [
+        "/gui/selectedDescription/value",
+        "/gui/warning/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "No part selected"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/expandstation/expandstation.config": [
+        "/warningMessages/unplaceable"
+      ]
+    },
+    "Texts": {
+      "Eng": "No valid anchor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/expandstation/expandstation.config": [
+        "/warningMessages/uncraftable"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not enough materials"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/expandstation/expandstation.config": [
+        "/warningMessages/overlap"
+      ]
+    },
+    "Texts": {
+      "Eng": "Overlaps existing part"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/expandstation/expandstation.config": [
+        "/warningMessages/blocked"
+      ]
+    },
+    "Texts": {
+      "Eng": "Part blocked by entity"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/expandstation/expandstation.config": [
+        "/warningMessages/range"
+      ]
+    },
+    "Texts": {
+      "Eng": "Part outside station range"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/expandstation/expandstation.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Station Expansion Slot"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/expandstation/expandstation.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;Expand your station"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/expandstation/expandstation.config": [
+        "/gui/placeButton/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "place"
+    }
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/mechupgrade2.questtemplate": [
+        "/scriptConfig/descriptions/findGoal"
+      ]
+    },
+    "Texts": {
+      "Eng": "Complete the ^orange;advanced mech test course^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/mechupgrade2.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have a design for a new ^green;mech body^white; that fits you perfectly! I've also been making a more advanced test course in an asteroid field that, of course, needs a trial run. If you can ^green;get through the ^orange;advanced test course^green; with your own mech^white;, I can give you the blueprint. It's a win-win scenario, right?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/mechupgrade2.questtemplate": [
+        "/scriptConfig/descriptions/enterInstance"
+      ]
+    },
+    "Texts": {
+      "Eng": "Talk to ^orange;Dr. Akaggy^reset; to enter the ^orange; advanced test course^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/mechupgrade2.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You made it! I guess I didn't install enough giant sawblades. I've sent the blueprint for your new ^green;mech body part^white; to the ^green;mech part crafting table^white;. Thanks again - it sure is helpful having a lab assistant!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/mechupgrade2.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Advanced Test Drive"
+    }
+  }
+]

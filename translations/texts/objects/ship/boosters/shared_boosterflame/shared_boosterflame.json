@@ -14,6 +14,9 @@
       "objects/ship/boosters/bigboosterflame/bigboosterflamehuman.object": [
         "/avianDescription"
       ],
+      "objects/ship/boosters/bigboosterflame/encounterbigboosterflame.object": [
+        "/avianDescription"
+      ],
       "objects/ship/boosters/boosterflame/boosterflame.object": [
         "/avianDescription"
       ],
@@ -35,7 +38,19 @@
       "objects/ship/boosters/boosterflame/boosterflamenovakid.object": [
         "/avianDescription"
       ],
+      "objects/ship/boosters/boosterflame/encounterboosterflame.object": [
+        "/avianDescription"
+      ],
       "objects/ship/boosters/boosterflamehuman/boosterflamehuman.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/boosters/boosterflamehuman/encounterboosterflamehuman.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/encountersmallboosterflame.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/encountersmallboosterflame2.object": [
         "/avianDescription"
       ],
       "objects/ship/boosters/smallboosterflame/smallboosterflame.object": [
@@ -70,6 +85,9 @@
       "objects/ship/boosters/bigboosterflame/bigboosterflamehuman.object": [
         "/apexDescription"
       ],
+      "objects/ship/boosters/bigboosterflame/encounterbigboosterflame.object": [
+        "/apexDescription"
+      ],
       "objects/ship/boosters/boosterflame/boosterflame.object": [
         "/apexDescription"
       ],
@@ -91,7 +109,19 @@
       "objects/ship/boosters/boosterflame/boosterflamenovakid.object": [
         "/apexDescription"
       ],
+      "objects/ship/boosters/boosterflame/encounterboosterflame.object": [
+        "/apexDescription"
+      ],
       "objects/ship/boosters/boosterflamehuman/boosterflamehuman.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/boosters/boosterflamehuman/encounterboosterflamehuman.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/encountersmallboosterflame.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/encountersmallboosterflame2.object": [
         "/apexDescription"
       ],
       "objects/ship/boosters/smallboosterflame/smallboosterflame.object": [
@@ -163,6 +193,23 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "objects/ship/boosters/bigboosterflame/encounterbigboosterflame.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/boosterflame/encounterboosterflame.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/boosterflamehuman/encounterboosterflamehuman.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Damaging Booster Flame"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "objects/ship/boosters/bigboosterflame/bigboosterflame.object": [
         "/description"
       ],
@@ -173,6 +220,9 @@
         "/description"
       ],
       "objects/ship/boosters/bigboosterflame/bigboosterflamehuman.object": [
+        "/description"
+      ],
+      "objects/ship/boosters/bigboosterflame/encounterbigboosterflame.object": [
         "/description"
       ],
       "objects/ship/boosters/boosterflame/boosterflame.object": [
@@ -196,7 +246,19 @@
       "objects/ship/boosters/boosterflame/boosterflamenovakid.object": [
         "/description"
       ],
+      "objects/ship/boosters/boosterflame/encounterboosterflame.object": [
+        "/description"
+      ],
       "objects/ship/boosters/boosterflamehuman/boosterflamehuman.object": [
+        "/description"
+      ],
+      "objects/ship/boosters/boosterflamehuman/encounterboosterflamehuman.object": [
+        "/description"
+      ],
+      "objects/ship/boosters/smallboosterflame/encountersmallboosterflame.object": [
+        "/description"
+      ],
+      "objects/ship/boosters/smallboosterflame/encountersmallboosterflame2.object": [
         "/description"
       ],
       "objects/ship/boosters/smallboosterflame/smallboosterflame.object": [
@@ -229,6 +291,9 @@
       "objects/ship/boosters/bigboosterflame/bigboosterflamehuman.object": [
         "/hylotlDescription"
       ],
+      "objects/ship/boosters/bigboosterflame/encounterbigboosterflame.object": [
+        "/hylotlDescription"
+      ],
       "objects/ship/boosters/boosterflame/boosterflame.object": [
         "/hylotlDescription"
       ],
@@ -250,7 +315,19 @@
       "objects/ship/boosters/boosterflame/boosterflamenovakid.object": [
         "/hylotlDescription"
       ],
+      "objects/ship/boosters/boosterflame/encounterboosterflame.object": [
+        "/hylotlDescription"
+      ],
       "objects/ship/boosters/boosterflamehuman/boosterflamehuman.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/boosters/boosterflamehuman/encounterboosterflamehuman.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/encountersmallboosterflame.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/encountersmallboosterflame2.object": [
         "/hylotlDescription"
       ],
       "objects/ship/boosters/smallboosterflame/smallboosterflame.object": [
@@ -283,6 +360,9 @@
       "objects/ship/boosters/bigboosterflame/bigboosterflamehuman.object": [
         "/floranDescription"
       ],
+      "objects/ship/boosters/bigboosterflame/encounterbigboosterflame.object": [
+        "/floranDescription"
+      ],
       "objects/ship/boosters/boosterflame/boosterflame.object": [
         "/floranDescription"
       ],
@@ -304,7 +384,19 @@
       "objects/ship/boosters/boosterflame/boosterflamenovakid.object": [
         "/floranDescription"
       ],
+      "objects/ship/boosters/boosterflame/encounterboosterflame.object": [
+        "/floranDescription"
+      ],
       "objects/ship/boosters/boosterflamehuman/boosterflamehuman.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/boosters/boosterflamehuman/encounterboosterflamehuman.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/encountersmallboosterflame.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/encountersmallboosterflame2.object": [
         "/floranDescription"
       ],
       "objects/ship/boosters/smallboosterflame/smallboosterflame.object": [
@@ -337,6 +429,9 @@
       "objects/ship/boosters/bigboosterflame/bigboosterflamehuman.object": [
         "/glitchDescription/glitchEmotedText"
       ],
+      "objects/ship/boosters/bigboosterflame/encounterbigboosterflame.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
       "objects/ship/boosters/boosterflame/boosterflame.object": [
         "/glitchDescription/glitchEmotedText"
       ],
@@ -358,7 +453,19 @@
       "objects/ship/boosters/boosterflame/boosterflamenovakid.object": [
         "/glitchDescription/glitchEmotedText"
       ],
+      "objects/ship/boosters/boosterflame/encounterboosterflame.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
       "objects/ship/boosters/boosterflamehuman/boosterflamehuman.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/boosters/boosterflamehuman/encounterboosterflamehuman.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/boosters/smallboosterflame/encountersmallboosterflame.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/boosters/smallboosterflame/encountersmallboosterflame2.object": [
         "/glitchDescription/glitchEmotedText"
       ],
       "objects/ship/boosters/smallboosterflame/smallboosterflame.object": [
@@ -391,6 +498,9 @@
       "objects/ship/boosters/bigboosterflame/bigboosterflamehuman.object": [
         "/humanDescription"
       ],
+      "objects/ship/boosters/bigboosterflame/encounterbigboosterflame.object": [
+        "/humanDescription"
+      ],
       "objects/ship/boosters/boosterflame/boosterflame.object": [
         "/humanDescription"
       ],
@@ -412,7 +522,19 @@
       "objects/ship/boosters/boosterflame/boosterflamenovakid.object": [
         "/humanDescription"
       ],
+      "objects/ship/boosters/boosterflame/encounterboosterflame.object": [
+        "/humanDescription"
+      ],
       "objects/ship/boosters/boosterflamehuman/boosterflamehuman.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/boosters/boosterflamehuman/encounterboosterflamehuman.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/encountersmallboosterflame.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/encountersmallboosterflame2.object": [
         "/humanDescription"
       ],
       "objects/ship/boosters/smallboosterflame/smallboosterflame.object": [

@@ -3,13 +3,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/outpost/penguin2.questtemplate": [
-        "/scriptConfig/portraits/questComplete/title",
-        "/scriptConfig/portraits/questStarted/title"
+        "/text"
       ]
     },
     "Texts": {
-      "Eng": "Biggy",
-      "Rus": "Бигги"
+      "Eng": "A weapon distributor of mine needs a shipment from me, but I've been busy fixing up my new experimental ^orange;Shockhopper mech^white;. Naturally ^green;I'll need a budding warrior to test it against^white; - catch my drift? Speak to me when you're geared up and ready, and we can go to my ^orange;weapon testing site^white;."
     }
   },
   {
@@ -28,36 +26,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/outpost/penguin2.questtemplate": [
-        "/text"
-      ]
-    },
-    "Texts": {
-      "Eng": "Normally I'd be dealin' you some rare weapon upgrades, but my supplier has been too distracted with his ^orange;new experimental weapon^white;. If you could... Destroy it for me, then maybe he'd get back to shipping me my weapon upgrades! ^green;Speak to me when you're ready and I can send you to him^white;!",
-      "Rus": "Слушай, я бы предложил тебе редкие улучшения для оружия, но мой поставщик слишком увлечён своим ^orange;новым экспериментальным оружием^white;. Если бы ты... Уничтожил этот прототип, то тогда он, возможно, бы вернулся к работе! ^green;Поговори со мной, когда будешь готов, и я отправлю тебя к нему^white;! "
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/outpost/penguin2.questtemplate": [
-        "/scriptConfig/descriptions/turnIn"
-      ]
-    },
-    "Texts": {
-      "Eng": "Return to ^orange;Biggy^reset; at the ^orange;Outpost^reset;",
-      "Rus": "Вернитесь к ^orange;Бигги^reset; на ^orange;Форпосте^reset;"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/outpost/penguin2.questtemplate": [
         "/scriptConfig/descriptions/enterInstance"
       ]
     },
     "Texts": {
-      "Eng": "Talk to ^orange;Biggy^reset; to go to the ^orange;Testing Site^reset;",
-      "Rus": "Поговорите с ^orange;Бигги^reset;, чтобы пойти на ^orange;Испытательный Полигон^reset;"
+      "Eng": "Talk to ^orange;Dr. Akaggy^reset; to go to the ^orange;Testing Site^reset;"
     }
   },
   {
@@ -68,8 +41,7 @@
       ]
     },
     "Texts": {
-      "Eng": "You destroyed my supplier's weapon? Fantastic! Biggy's Reputable Weaponry is now back in business - ^green;come here every day to see what's new^white;!",
-      "Rus": "Ты уничтожил экспериментальное оружие моего поставщика? Превосходно! Оружейный магазин Бигги снова открыт - ^green;приходи каждый день, чтобы посмотреть, что новенького завезли^white;!"
+      "Eng": "Thanks for the intense testing session, friendo - it gave me a lot of useful data! I've also sent out a shipment to my weapon distributor - ^green;his stall should be open right here on the Outpost^white; already."
     }
   },
   {
@@ -80,7 +52,7 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;Penguin Weaponry Testing Site",
+      "Eng": "^orange;Penguin Weaponry Testing Site",
       "Rus": "^green;Полигон для Испытаний Пингвиньего Вооружения"
     }
   }

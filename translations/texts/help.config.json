@@ -79,7 +79,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /cinema cinematicPath. Plays the specified cinematic for testing.",
+      "Eng": "Usage /cinema cinematicPath [timestamp]. Plays the specified cinematic for testing, optionally starting at the specified timestamp.",
       "Rus": "Команда \"/cinema путь_к_сцене\". Проигрывает указанную сцену в целях тестирования."
     }
   },
@@ -693,6 +693,28 @@
     "Texts": {
       "Eng": "Usage /togglelayer. Toggle the visibility of the specified layer. A layer is a number between 1 and 21. They are in order: Sky, Parallax, Background, Platforms, Plant, PlantDrop, Object, CursorHintedObject, ParticlesBottom, Effect, Projectile, NPC, Player, ItemDrop, Water, ParticlesMiddle, Foreground, ParticlesTop, Nametag, InfoBars.",
       "Rus": "Команда \"/togglelayer [номер]\". Включает или отключает видимость указанного слоя. Принимает значения от 1 до 21. Список: 1. Небо, 2. Параллакс, 3. Подземный параллакс, 4. Фон, 5. Платформы, 6. Растения, 7. Продукты, 8. Объекты, 9. Используемые объекты, 10. Нижние частицы, 11. Эффекты, 12. Снаряды, 13. NPC, 14. Игрок, 15. Предметы, 16. Вода, 17. Средние частицы, 18. Передний план, 19. Верхние частицы, 20. Имена, 21. Панель показателей"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/adminCommands/unbanip"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /unbanip address. Removes entries with the specified address from temporary and permanent ban lists."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/adminCommands/unbanuuiud"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /unbanuuid uuid. Removes entries with the specified uuid from temporary and permanent ban lists."
     }
   },
   {

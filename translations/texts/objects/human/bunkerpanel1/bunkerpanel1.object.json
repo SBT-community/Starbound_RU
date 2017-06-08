@@ -3,11 +3,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkerpanel1/bunkerpanel1.object": [
-        "/apexDescription"
+        "/avianDescription"
       ]
     },
     "Texts": {
-      "Eng": "According to this data, the environment outside is inhabitable."
+      "Eng": "Data is being broadcast to this screen, which is displaying many measurements."
     }
   },
   {
@@ -18,7 +18,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Data on the surrounding environment. Much like Hylotl, humans have to be cautious about the areas which they visit."
+      "Eng": "Data on the surrounding environment. The changes measured are on a miniscule level."
     }
   },
   {
@@ -40,7 +40,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran is not very entertained by thisss data."
+      "Eng": "Floran hasss no time for tiny wordsss."
     }
   },
   {
@@ -58,22 +58,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkerpanel1/bunkerpanel1.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/humanDescription"
       ]
     },
     "Texts": {
-      "Eng": "The environment is likely fine for Glitch, regardless of what this says."
+      "Eng": "Someone was doing a lot of obscure data analysis with the aid of this screen."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkerpanel1/bunkerpanel1.object": [
-        "/humanDescription"
+        "/apexDescription"
       ]
     },
     "Texts": {
-      "Eng": "The environment outside is safe for humans. This is good to know, since I've already been hanging out there."
+      "Eng": "This appears to be a panel displaying local sub-proton changes."
     }
   },
   {
@@ -84,18 +84,18 @@
       ]
     },
     "Texts": {
-      "Eng": "This appears to be an analysis of the environment outside of the bunker."
+      "Eng": "This panel appears to monitor some obscure environmental data."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkerpanel1/bunkerpanel1.object": [
-        "/avianDescription"
+        "/glitchDescription/glitchEmotedText"
       ]
     },
     "Texts": {
-      "Eng": "This doesn't appear to be very scientific. The reading says the environment is *pretty good I guess*."
+      "Eng": "This panel is displaying extraordinarily small environmental changes. For what purpose?"
     }
   }
 ]

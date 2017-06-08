@@ -36,14 +36,36 @@
     }
   },
   {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/greenfinger.npctype": [
+        "/scriptConfig/dialog/converse/default/apex/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings, ape. I am Greenfinger <selfname>. It iss my role to guide the Floran of this tribe.",
+      "Rus": "Приветствую, Человек. Я Древоуст <selfname>. Моя роль направлять Флоранов этого племени."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/greenfinger.npctype": [
+        "/scriptConfig/dialog/converse/default/avian/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings, bird friend. I am Greenfinger <selfname>. It iss my role to guide the Floran of this tribe.",
+      "Rus": "Приветствую, Человек. Я Древоуст <selfname>. Моя роль направлять Флоранов этого племени."
+    }
+  },
+  {
     "DeniedAlternatives": [
       "Здравствуй, человек. Я Древоуст <selfname>. Моя роль направлять Флоранов этого племени.",
       "Приветствую, человек. Я Древоуст <selfname>.  Моя роль направлять Флоранов этого племени."
     ],
     "Files": {
       "npcs/biome/greenfinger.npctype": [
-        "/scriptConfig/dialog/converse/default/apex/1",
-        "/scriptConfig/dialog/converse/default/avian/1",
         "/scriptConfig/dialog/converse/default/human/1"
       ]
     },
@@ -89,14 +111,36 @@
     }
   },
   {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/greenfinger.npctype": [
+        "/scriptConfig/dialog/converse/default/apex/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hello ape, I am thisss tribe's Greenfinger. Don't blame them if they get a bit exciteable, that's jussst how Floran are!",
+      "Rus": "Привет, человек, я Древоуст этого племени. Не вини их за то, что они чересчур возбуждаемы, просто Флораны такие какие есть!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/greenfinger.npctype": [
+        "/scriptConfig/dialog/converse/default/avian/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hello bird friend, I am thisss tribe's Greenfinger. Don't blame them if they get a bit exciteable, that's jussst how Floran are!",
+      "Rus": "Привет, человек, я Древоуст этого племени. Не вини их за то, что они чересчур возбуждаемы, просто Флораны такие какие есть!"
+    }
+  },
+  {
     "DeniedAlternatives": [
       "Привет человек, я Древоуст этого племени. Не вини их за то, что они чересчур возбуждаемы, просто Флораны такие какие есть!",
       "Привет, Человек, я Древоуст этого племени. Не вини их за то, что они чересчур возбуждаемы, просто Флораны такие какие есть!"
     ],
     "Files": {
       "npcs/biome/greenfinger.npctype": [
-        "/scriptConfig/dialog/converse/default/apex/0",
-        "/scriptConfig/dialog/converse/default/avian/0",
         "/scriptConfig/dialog/converse/default/human/0"
       ]
     },
@@ -157,6 +201,30 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/biome/greenfinger.npctype": [
+        "/scriptConfig/dialog/converse/default/apex/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome to our tribe, ape. I am Greenfinger <selfname>, and we shall treat you with resspect as long as you do the sssame.",
+      "Rus": "Добро пожаловать в наше племя, человек. Я Древоуст <selfname>, и мы будем уважать тебя до тех пор, пока ты уважаешь нассс."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/greenfinger.npctype": [
+        "/scriptConfig/dialog/converse/default/avian/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome to our tribe, bird friend. I am Greenfinger <selfname>, and we shall treat you with resspect as long as you do the sssame.",
+      "Rus": "Добро пожаловать в наше племя, человек. Я Древоуст <selfname>, и мы будем уважать тебя до тех пор, пока ты уважаешь нассс."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/greenfinger.npctype": [
         "/scriptConfig/dialog/converse/default/floran/2"
       ]
     },
@@ -172,8 +240,6 @@
     ],
     "Files": {
       "npcs/biome/greenfinger.npctype": [
-        "/scriptConfig/dialog/converse/default/apex/2",
-        "/scriptConfig/dialog/converse/default/avian/2",
         "/scriptConfig/dialog/converse/default/human/2"
       ]
     },

@@ -1,0 +1,72 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/slopedhullpanel.matitem": [
+        "/description"
+      ],
+      "tiles/materials/slopedhullpanel.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cheap, resilient panelling widely used for ship and station construction."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/slopedhullpanel.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/slopedhullpanel.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hull Panel"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/slopedhullpanel.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/slopedhullpanel.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shiny sssmooth space metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/slopedhullpanel.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/slopedhullpanel.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some thick metal plating, looks mighty solid."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/slopedhullpanel.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/slopedhullpanel.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is panelling widely used for ship and station construction."
+    }
+  }
+]

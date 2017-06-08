@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/mechupgrade1.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm working on a shiny new mech weapon, but I need some help gathering some pieces. If you could ^green;go into space^white; and ^green;find me 5^orange; salvaged interface chips^white; and ^green;10 ^orange;salvaged power couplings^white;, I think that'll be enough to finish it!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/mechupgrade1.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These parts are enough for me to finish my new ^orange;Missile Rack arm^white;! As a token of my appreciation, I've sent a copy of the ^green;blueprint^white; to the ^green;mech part crafting table^white; - you can go and make your own now!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/mechupgrade1.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Parts and Labour"
+    }
+  }
+]

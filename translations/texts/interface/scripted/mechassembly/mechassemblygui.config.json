@@ -1,0 +1,145 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Mech Assembly Station"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  ^#b9b5b2;Equip and customise your personal mech!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/gui/lblSlot_body/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Body"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/gui/lblSlot_booster/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Booster"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/gui/lblPrimaryColor/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Colour 1"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/gui/lblSecondaryColor/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Colour 2"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/gui/lblSlot_horn/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Horn"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/gui/lblSlot_leftArm/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "L Arm"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/gui/lblSlot_legs/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Legs"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/gui/lblSlot_rightArm/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "R Arm"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/completeText"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Ready to Deploy!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/incompleteText"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;Configuration Incomplete"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/disabledText"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;Unauthorized User"
+    }
+  }
+]

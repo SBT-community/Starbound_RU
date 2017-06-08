@@ -35,6 +35,18 @@
       "interface/itemdescriptions/fossil.itemdescription": [
         "/priceLabel/value"
       ],
+      "interface/itemdescriptions/mecharm.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/mechbody.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/mechbooster.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/mechlegs.itemdescription": [
+        "/priceLabel/value"
+      ],
       "interface/itemdescriptions/object.itemdescription": [
         "/priceLabel/value"
       ],
@@ -95,6 +107,18 @@
       "interface/tooltips/fossil.tooltip": [
         "/priceLabel/value"
       ],
+      "interface/tooltips/mecharm.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/mechbody.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/mechbooster.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/mechlegs.tooltip": [
+        "/priceLabel/value"
+      ],
       "interface/tooltips/object.tooltip": [
         "/priceLabel/value"
       ],
@@ -137,6 +161,9 @@
       ],
       "interface/windowconfig/craftingfurniturestore.config": [
         "/paneLayout/lblPlayerMoney/value",
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/craftingmech.config": [
         "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
       ],
       "interface/windowconfig/craftingmedical.config": [
@@ -202,6 +229,25 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "interface/scripted/goodstrader/goodstradergui.config": [
+        "/gui/btnBuy/caption"
+      ],
+      "interface/windowconfig/craftingfurniturestore.config": [
+        "/paneLayout/btnCraft/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "BUY",
+      "Rus": "КУПИТЬ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/editBookmarkFrame/children/close/caption",
+        "/gui/jumpDialog/children/cancel/caption"
+      ],
       "interface/scripted/vehiclerepair/vehiclerepairgui.config": [
         "/gui/cancel/caption"
       ],
@@ -315,6 +361,9 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "interface/expandstation/expandstation.config": [
+        "/gui/partListArea/children/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
       "interface/modsmenu/modsmenu.config": [
         "/paneLayout/mods/children/list/schema/listTemplate/name/value"
       ],
@@ -323,9 +372,7 @@
       ],
       "interface/optionsmenu/optionsmenu.config": [
         "/paneLayout/musicValueLabel/value",
-        "/paneLayout/resValueLabel/value",
-        "/paneLayout/sfxValueLabel/value",
-        "/paneLayout/zoomValueLabel/value"
+        "/paneLayout/sfxValueLabel/value"
       ],
       "interface/scripted/techupgrade/techupgradegui.config": [
         "/gui/techScrollArea/children/techList/schema/listTemplate/techName/value"
@@ -363,6 +410,9 @@
       "interface/windowconfig/craftingfurniturestore.config": [
         "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
       ],
+      "interface/windowconfig/craftingmech.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
       "interface/windowconfig/craftingmedical.config": [
         "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
       ],
@@ -377,6 +427,10 @@
       ],
       "interface/windowconfig/craftingwheel.config": [
         "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/graphicsmenu.config": [
+        "/paneLayout/resValueLabel/value",
+        "/paneLayout/zoomValueLabel/value"
       ],
       "interface/windowconfig/inventorstable.config": [
         "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"

@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/electrobaton/electrobaton.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Electro Baton"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/electrobaton/electrobaton.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Electro Baton ^yellow;^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/electrobaton/electrobaton.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Originally developed for Miniknog riot police. It's shockingly effective."
+    }
+  }
+]

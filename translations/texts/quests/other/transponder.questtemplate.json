@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/other/transponder.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here is your very own ^orange;Station Transponder^white;! ^green;Use it on your ship^white; to deploy a space station in your local solar system!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/other/transponder.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Would you like to deploy your very own space station? I can craft for you your very own ^orange;Station Transponder^white;, and all it will take is some resources! \nSimply ^green;bring 50 ^orange;Titanium Bars^white;, ^green;50 ^orange;Gold Bars^white;, ^green;50 ^orange;Silver Bars^white; and ^green;1000^orange; pixels ^green;to me or any other Transponder vendor^white;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/other/transponder.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Your Very Own Space Station"
+    }
+  }
+]

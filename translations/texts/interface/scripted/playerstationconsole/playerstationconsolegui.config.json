@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/playerstationconsole/playerstationconsolegui.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " Control your station's systems"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/playerstationconsole/playerstationconsolegui.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Station Console"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/playerstationconsole/playerstationconsolegui.config": [
+        "/gui/lblGravity/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "GRAVITY"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/playerstationconsole/playerstationconsolegui.config": [
+        "/gui/lblHideExpansionSlots/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "HIDE EXPANSION SLOTS"
+    }
+  }
+]

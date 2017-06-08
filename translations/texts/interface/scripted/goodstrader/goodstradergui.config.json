@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/goodstrader/goodstradergui.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Goods Trader"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/goodstrader/goodstradergui.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " Trade goods between stations for profit"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/goodstrader/goodstradergui.config": [
+        "/gui/btnSell/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "SELL"
+    }
+  }
+]

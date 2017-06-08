@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/space/letheiamerchant.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Letheia Merchant"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/space/letheiamerchant.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Sells space furniture!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/space/letheiamerchant.npctype": [
+        "/scriptConfig/dialog/merchant/end/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Remember: \"Why live life without Letheia?\""
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/space/letheiamerchant.npctype": [
+        "/scriptConfig/dialog/merchant/tout/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome to this Letheia Corporation Consumer Branch!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/space/letheiamerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome to this Letheia Corporation Consumer Branch, how can I help?"
+    }
+  }
+]

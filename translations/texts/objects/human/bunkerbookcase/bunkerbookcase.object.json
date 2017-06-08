@@ -27,18 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkerbookcase/bunkerbookcase.object": [
-        "/humanDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "A bunch of familiar books. There's even a copy of War and Peace. Naturally, it's never been read.",
-      "Rus": "Куча знакомых книг. Тут даже копия \"Войны и мира.\" Естественно, что это никогда не было прочитано."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/bunkerbookcase/bunkerbookcase.object": [
         "/avianDescription"
       ]
     },
@@ -99,12 +87,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkerbookcase/bunkerbookcase.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's a bunch of familiar books written by humans. I wonder how many people read these?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerbookcase/bunkerbookcase.object": [
         "/hylotlDescription"
       ]
     },
     "Texts": {
-      "Eng": "Tomes rich with human history. This one chronicles the life of a man who dressed like a bat and fought crime.",
-      "Rus": "Книги, богатые человеческой историей. Вот это, например, хроника жизни человека, который одевался в костюм летучей мыши и боролся с преступностью."
+      "Eng": "Tomes rich with human history. They aren't as well-written as Hylotl books, of course."
     }
   }
 ]

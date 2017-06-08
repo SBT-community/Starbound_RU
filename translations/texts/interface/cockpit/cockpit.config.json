@@ -3,7 +3,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/guiConfig/windowtitle/title"
+        "/gui/windowtitle/title"
       ]
     },
     "Texts": {
@@ -15,234 +15,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/threatLevelToText/default/7",
-        "/threatLevelToText/default/8",
-        "/threatLevelToText/default/9"
+        "/gui/objectinfo/children/inner/children/bookmark/caption",
+        "/gui/planetinfo/children/inner/children/bookmark/caption"
       ]
     },
     "Texts": {
-      "Eng": "***",
-      "Rus": ""
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/guiConfig/fuelCost/value"
-      ]
-    },
-    "Texts": {
-      "Eng": "0000",
-      "Rus": "0000"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/satelliteNameEmptyText"
-      ]
-    },
-    "Texts": {
-      "Eng": "< no planet selected >",
-      "Rus": "< Ни одна планета не выбрана >"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/threatLevelText/value/text"
-      ]
-    },
-    "Texts": {
-      "Eng": "<value>",
-      "Rus": "<value>"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/sizeText/value/text"
-      ]
-    },
-    "Texts": {
-      "Eng": "<value> Sectors",
-      "Rus": "<value>  Сектор"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/dayLengthText/value/text"
-      ]
-    },
-    "Texts": {
-      "Eng": "<value> Sols",
-      "Rus": "<value> Сол"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/jungle/1"
-      ]
-    },
-    "Texts": {
-      "Eng": "A ^#12a003;jungle^white; landing site densely inhabited by flora and fauna of many kinds. The area is rich with resources but ^red;phenomenally high in radiation^white;.",
-      "Rus": "Зона посадки покрыта ^#12a003;джунглями^white;, изобилующими разной флорой и фауной. Планета богата ресурсами, но ^red;уровень радиации очень высок^white;."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/tundra/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "A ^#61ffe3;frozen^white; place, formed of ice - the permafrost runs deep here. Snow storms are common, and ^red;temperatures are dangerously low^white;.",
-      "Rus": "^#61ffe3;Замороженное^white; место, покрытое льдами вечной мерзлоты. Часто идут снежные бури, ^red;температура чрезвычайно низка^white;."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/desert/1"
-      ]
-    },
-    "Texts": {
-      "Eng": "A ^#e6c801;desert^white; area populated by cacti, as well as various animal life. A relatively safe landing site, so long as you avoid the sandstorms.",
-      "Rus": "^#e6c801;Пустынная^white; местность, населённая редкими животными и кактусами. Зона посадки безопасна, избегайте песчаных бурь."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/asteroids/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "A bare cluster of ^#d7711e;asteroids^white;. Readings indicate ^red;there is no atmosphere^white; or life here. Just endless nothingness, with plenty of space for construction.",
-      "Rus": "Скопление ^#d7711e;астероидов^white;. По данным сканера, ^red;атмосфера отсутствует^white;, признаков жизни нет. Лишь пустоши, пригодные для огромных построек."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/asteroids/2"
-      ]
-    },
-    "Texts": {
-      "Eng": "A clutch of ^#d7711e;asteroids^white; drifting along an elliptical orbit. Readings indicate ^red;there is no atmosphere here^white;. Or anything else for that matter...",
-      "Rus": "Несколько ^#d7711e;астероидов^white;, дрейфующих по эллиптической орбите. По данным сканеров, на них ^red;нет атмосферы^white;. Да и вообще чего-либо нет..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/worldTypeToDescription/gasgiant/1"
-      ]
-    },
-    "Texts": {
-      "Eng": "A gas giant. There is no solid substance to this planet, just a collection of swirling gases.",
-      "Rus": "Газовый гигант. Поверхность данной планеты представляет собой завихряющиеся газы, твёрдый грунт отсутствует."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/worldTypeToDescription/gasgiant/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "A giant ball of gases intermingling with one another. There is simply nothing here to land on.",
-      "Rus": "Гигантское скопление постоянно перемешивающихся газов. Приземлиться попросту некуда."
-    }
-  },
-  {
-    "DeniedAlternatives": [
-      "Зону посадки можно описать странной флорой, агрессивной фауной и ^red;болезненно высокой радиацией^white;. Существа населяющие ее, сильно ^#7800ff;мутировали^white;."
-    ],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/alien/1"
-      ]
-    },
-    "Texts": {
-      "Eng": "A landing site characterised by odd flora, aggressive fauna and ^red;sickeningly high levels of radiation^white;. The area's inhabitants are severely ^#7800ff;mutated^white;.",
-      "Rus": "Зону посадки можно описать странной флорой, агрессивной фауной и ^red;высокой радиацией^white;. Существа населяющие ее, сильно ^#7800ff;мутировали^white;."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/asteroids/1"
-      ]
-    },
-    "Texts": {
-      "Eng": "A lifeless band of ^#d7711e;asteroids^white; ^red;without atmosphere^white;: drifting through space, anchored to a distant star... A nice place to build a house.",
-      "Rus": "Кучка безжизненных ^#d7711e;астероидов^white; ^red;без атмосферы^white;, дрейфующих сквозь космос вокруг этой звезды... Отличное место, чтобы построить дом."
-    }
-  },
-  {
-    "DeniedAlternatives": [
-      "Одинокая ^#949493;луна^white; ^red;без атмосферы^white;. В чёрном небе сияют звёзды. Под землёй значительные запасы топлива. Вероятность появления чувства одиночества: 92%."
-    ],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/moon/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "A lonely ^#949493;moon^white; with ^red;no breathable atmosphere^white;; the sky is open to the stars, there is fuel below the ground. Likelihood of feeling lonesome and desolate: 92%.",
-      "Rus": "^#949493;Луна^white; ^red;без атмосферы^white;; в чёрном небе сияют звёзды. Под землёй запасы топлива. Вероятность появления чувства одиночества: 92%."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/ocean/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "A planet of deep ^#008aff;oceans^white; and small islands. My readings indicate that aquatic life is abundant and that the islets of the surface are extremely picturesque.",
-      "Rus": "Планета с глубокими ^#008aff;океанами^white; и крошечными островами. Воды полны разнообразной жизнью, а острова весьма живописны."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/arctic/2"
-      ]
-    },
-    "Texts": {
-      "Eng": "A site of ^red;dangerously low temperatures^white;. There are few animals here, and no plant-life at all - just forsaken islands in a ^#00ffe4;frigid ocean^white;.",
-      "Rus": "^red;Температура чрезвычайно низкая^white;. На планете почти отсутствует жизнь - суша представлена редкими островами в ^#00ffe4;холодных океанах^white;."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/guiConfig/addBookmark/caption"
-      ]
-    },
-    "Texts": {
-      "Eng": "ADD / EDIT BOOKMARK",
-      "Rus": "ДОБ. / ИЗМ. ЗАКЛАДКУ"
+      "Eng": "ADD BOOKMARK"
     }
   },
   {
@@ -261,36 +39,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/displayOres/8/displayName"
+        "/displayOres/aegisalt/displayName"
       ]
     },
     "Texts": {
       "Eng": "Aegisalt",
       "Rus": "Эгизальт"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/ocean/1"
-      ]
-    },
-    "Texts": {
-      "Eng": "An ^#008aff;ocean^white; covered planet spotted with islands and teeming with life. My readings indicate that there is a great deal of activity in the depths of the waters.",
-      "Rus": "Покрытая ^#008aff;океанами^white; планета с несколькими населёнными островами. Данные сканера свидетельствуют об активности глубоко под водой."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/ancientgateway/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "An ^#571cff;Ancient Gateway^white; of unknown provenance; an edifice of great power and mystery.",
-      "Rus": "^#571cff;Древние Врата^white;, неизвестного происхождения; сооружение, таящее великие силы и тайны."
     }
   },
   {
@@ -309,36 +63,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/guiConfig/showBookmarkList/caption"
-      ]
-    },
-    "Texts": {
-      "Eng": "BOOKMARKS",
-      "Rus": "ЗАКЛАДКИ"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
         "/displayWeathers/snowstorm/displayName"
       ]
     },
     "Texts": {
       "Eng": "Blizzards",
       "Rus": "Метель"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/worldTypeToDescription/gasgiant/2"
-      ]
-    },
-    "Texts": {
-      "Eng": "Can't land. The crushing pressure and tearing winds of this gas giant would kill you instantly.",
-      "Rus": "Посадка невозможна. Чудовищное давление и ураганные ветра этого газового гиганта мгновенно уничтожат вас."
     }
   },
   {
@@ -357,7 +87,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/displayOres/0/displayName"
+        "/gui/jumpDialog/children/title/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confirm FTL"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/copper/displayName"
       ]
     },
     "Texts": {
@@ -381,38 +122,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/threatLevelToText/default/3"
+        "/gui/planetinfo/children/inner/children/description/value"
       ]
     },
     "Texts": {
-      "Eng": "Dangerous",
-      "Rus": "Опасный"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/dayLengthText/label/text"
-      ]
-    },
-    "Texts": {
-      "Eng": "Day Cycle",
-      "Rus": "Суточный цикл"
-    }
-  },
-  {
-    "DeniedAlternatives": [
-      "Зона посадки изобилует множеством деревьев и другой флорой. Эти ^#15ce02;леса^white; характерны видовым разнообразием населяющих их существ - возможно, есть и разумная жизнь."
-    ],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/forest/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "Densely colonized by trees and other flora, this ^#15ce02;forest ^white;landing site is a hospitable location that supports a diversity of life - potentially including your own.",
-      "Rus": "Зона посадки изобилует множеством деревьев и другой флорой. Эти ^#15ce02;леса^white; характерны видовым разнообразием - возможно, есть и разумная жизнь."
+      "Eng": "DESCRIPTION OF THIS PLANET"
     }
   },
   {
@@ -431,7 +145,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/displayOres/6/displayName"
+        "/displayOres/durasteel/displayName"
       ]
     },
     "Texts": {
@@ -455,60 +169,34 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/threatLevelToText/default/4"
+        "/bookmarks/editTitle"
       ]
     },
     "Texts": {
-      "Eng": "Extreme",
-      "Rus": "Экстремальный"
+      "Eng": "EDIT BOOKMARK"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/ftlOfflineText/text"
+        "/gui/jumpDialog/children/text/value"
       ]
     },
     "Texts": {
-      "Eng": "FTL DRIVE OFFLINE",
-      "Rus": "ДВИГАТЕЛЬ ВЫКЛЮЧЕН"
+      "Eng": "FTL travel will consume ^green;%s fuel^reset;.\nConfirm to proceed."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/displayOres/7/displayName"
+        "/displayOres/ferozium/displayName"
       ]
     },
     "Texts": {
       "Eng": "Ferozium",
       "Rus": "Ферозий"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/starmapTypeDescription/redstar"
-      ]
-    },
-    "Texts": {
-      "Eng": "Fiery Star",
-      "Rus": "Огненная звезда"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/ocean/2"
-      ]
-    },
-    "Texts": {
-      "Eng": "Floating desert islands pepper the surface of this ^#008aff;ocean^white; planet. An environment of tropical ambiance and aesthetic.",
-      "Rus": "Пустынные острова среди ^#008aff;океана^white;. Среда по виду и проявлениям схожа с тропиками."
     }
   },
   {
@@ -527,31 +215,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/starmapTypeDescription/bluestar"
+        "/gui/coordinatesFrame/children/go/caption"
       ]
     },
     "Texts": {
-      "Eng": "Frozen Star",
-      "Rus": "Ледяная звезда"
+      "Eng": "GO"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/starmapTypeDescription/whitestar"
-      ]
-    },
-    "Texts": {
-      "Eng": "Gentle Star",
-      "Rus": "Спокойная звезда"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/oreText/text"
+        "/gui/planetinfo/children/inner/children/ores/value"
       ]
     },
     "Texts": {
@@ -563,7 +238,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/displayOres/2/displayName"
+        "/displayOres/gold/displayName"
       ]
     },
     "Texts": {
@@ -599,36 +274,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/threatLevelToText/default/5"
-      ]
-    },
-    "Texts": {
-      "Eng": "Inconceivable",
-      "Rus": "Немыслимый"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/displayOres/3/displayName"
+        "/displayOres/iron/displayName"
       ]
     },
     "Texts": {
       "Eng": "Iron",
       "Rus": "Железо"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeLabel/text"
-      ]
-    },
-    "Texts": {
-      "Eng": "Landing Site Analysis",
-      "Rus": "Анализ посадочной площадки"
     }
   },
   {
@@ -641,20 +292,6 @@
     "Texts": {
       "Eng": "Large Meteorites",
       "Rus": "Большие метеориты"
-    }
-  },
-  {
-    "DeniedAlternatives": [
-      "Местность покрыта  ^#15ce02;лесами^white;, изобилующими пышными деревьями. По моим данным, зона пригодна для жизни, так что есть риск столкнуться с лесными обитателями."
-    ],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/forest/1"
-      ]
-    },
-    "Texts": {
-      "Eng": "Leafy trees abound in this ^#15ce02;forest ^white;location. The area is hospitable to life, my database indicates that you may encounter woodland creatures.",
-      "Rus": "Местность покрыта ^#15ce02;лесами^white;, изобилующими пышными деревьями. Зона пригодна для жизни, так что есть риск столкнуться с лесными обитателями."
     }
   },
   {
@@ -673,24 +310,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/threatLevelToText/default/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "Low",
-      "Rus": "Низкий"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
         "/displayWeathers/glowingrain/displayName"
       ]
     },
     "Texts": {
       "Eng": "Luminous Rain",
       "Rus": "Люминисцентный дождь"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/clusterinfo/children/inner/children/moons/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "MANY MOONS"
     }
   },
   {
@@ -709,24 +345,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/threatLevelToText/default/1"
+        "/gui/disabledLabel/value"
       ]
     },
     "Texts": {
-      "Eng": "Moderate",
-      "Rus": "Умеренный"
+      "Eng": "NAVIGATION OFFLINE"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/starmapTypeDescription/default"
+        "/bookmarks/newTitle"
       ]
     },
     "Texts": {
-      "Eng": "Mysterious Star",
-      "Rus": "Таинственная звезда"
+      "Eng": "NEW BOOKMARK"
     }
   },
   {
@@ -745,7 +379,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/guiConfig/bookmarkList/children/bookmarkItemList/schema/listTemplate/planetName/value"
+        "/gui/systeminfo/children/inner/children/planetList/schema/listTemplate/type/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "PLANET TYPE"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/bookmarksFrame/children/bookmarkList/children/bookmarkItemList/schema/listTemplate/planetName/value"
       ]
     },
     "Texts": {
@@ -757,24 +402,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/sizeText/label/text"
+        "/gui/remoteTitle/value"
       ]
     },
     "Texts": {
-      "Eng": "Planet Size",
-      "Rus": "Размер планеты"
+      "Eng": "REMOTE SYSTEM VIEW"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/starmapTypeDescription/yellowstar"
+        "/gui/objectinfo/children/inner/children/threat/value"
       ]
     },
     "Texts": {
-      "Eng": "Radioactive Star",
-      "Rus": "Радиоактивная звезда"
+      "Eng": "REQUIRES MECH TO DEPLOY"
     }
   },
   {
@@ -793,74 +436,44 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/barren/2"
+        "/gui/transitLabel/value"
       ]
     },
     "Texts": {
-      "Eng": "Readings indicate that the landing site is of unusual hue. Also, that it is a ^#999966;barren^white; location and would be suitable for construction.",
-      "Rus": "По данным сканера, зона посадки имеет необычный цвет. В остальном, это полная ^#999966;пустошь^white;, пригодная для больших построек."
+      "Eng": "SHIP IN TRANSIT"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/garden/2"
+        "/gui/objectinfo/children/inner/children/name/value"
       ]
     },
     "Texts": {
-      "Eng": "Readings indicate the landing site is not unfavourable - the area is safe, and lavish with both flora and fauna. A ^#76fe68;lush ^white;and hospitable place.",
-      "Rus": "Показания сканера говорят, что зона посадки безопасна и насыщена различной флорой и фауной. ^#76fe68;Изобильное^white; и гостеприимное место."
+      "Eng": "SPACE OBJECT"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/threatLevelToText/default/2"
+        "/gui/systeminfo/children/inner/children/type/value"
       ]
     },
     "Texts": {
-      "Eng": "Risky",
-      "Rus": "Рискованный"
+      "Eng": "STAR TYPE"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/guiConfig/goToQuest/caption"
+        "/gui/systeminfo/children/inner/children/name/value"
       ]
     },
     "Texts": {
-      "Eng": "SHOW QUEST LOCATION",
-      "Rus": "РАСПОЛОЖЕНИЕ ЗАДАНИЯ"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/guiConfig/goToMyShip/caption"
-      ]
-    },
-    "Texts": {
-      "Eng": "SHOW SHIP LOCATION",
-      "Rus": "ВАШЕ МЕСТОПОЛОЖЕНИЕ"
-    }
-  },
-  {
-    "DeniedAlternatives": [
-      "Песок. По данным сканера тут песок. И немного кактусов... но в основном песок. Опираясь на это, предполагаю, что зона посадки находится в ^#e6c801;пустыне^white;."
-    ],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/desert/2"
-      ]
-    },
-    "Texts": {
-      "Eng": "Sand. Readings indicate sand. Also some cacti... but predominantly sand. Given the available information I speculate that the landing site is situated in a ^#e6c801;desert^white;.",
-      "Rus": "Песок. По данным сканера тут песок. И кактусы... но в основном песок. Опираясь на это, предполагаю, что зона посадки находится в ^#e6c801;пустыне^white;."
+      "Eng": "SYSTEM"
     }
   },
   {
@@ -879,18 +492,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/midnight/2"
-      ]
-    },
-    "Texts": {
-      "Eng": "Scans show that the surface is ^#e11212;dark^white;. In fact, scans show little else on account of all the darkness. However, I surmise that the surface is ^red;dangerously cold^white;.",
-      "Rus": "По данным сканера, поверхность ^#e11212;темна^white;. Кроме этой темноты сканер почти ничего не считывает. Но я предполагаю, что там ^red;чрезвычайно холодно^white;."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
         "/displayWeathers/meteorshower/displayName"
       ]
     },
@@ -903,7 +504,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/displayOres/10/displayName"
+        "/displayOres/solarium/displayName"
       ]
     },
     "Texts": {
@@ -939,12 +540,33 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/starmapTypeDescription/orangestar"
+        "/gui/clusterinfo/children/inner/children/name/value"
       ]
     },
     "Texts": {
-      "Eng": "Temperate Star",
-      "Rus": "Умеренная звезда"
+      "Eng": "THIS IS A CLUSTER"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/planetinfo/children/inner/children/name/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "THIS IS A PLANET"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/objectinfo/children/inner/children/description/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "THIS IS A VERY NICE SPACE OBJECT"
     }
   },
   {
@@ -957,342 +579,6 @@
     "Texts": {
       "Eng": "Terraforming has made this planet safe for habitation, though unnatural in appearance.",
       "Rus": "Терраформинг сделал эту планету безопасной для проживания, хоть она и выглядит неестественной."
-    }
-  },
-  {
-    "DeniedAlternatives": [
-      "Зона посадки в ^#e11212;вулканической^white; местности, где ^red;чрезвычайно горячо^white;. По первому требованию я начну расчёты вероятности немедленного испепеления после высадки..."
-    ],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/volcanic/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "The ^#e11212;volcanic^white; landing site is ^red;catastrophically hot^white;. If you wish, I can calculate your likelihood of immediately bursting into flame upon beam down...",
-      "Rus": "Зона посадки в ^#e11212;вулканической^white; местности, где ^red;чрезвычайно горячо^white;. Я начну расчёты вероятности немедленного испепеления после высадки..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/alien/2"
-      ]
-    },
-    "Texts": {
-      "Eng": "The beam location is situated in a ^#7800ff;mutated^white; landscape. The ^red;high levels of radiation^white; create a noxious environment. I advise you to avoid swimming.",
-      "Rus": "Зона посадки находится в ^#7800ff;мутагенной^white; местности. Среда опасна из-за ^red;высокого радиоактивного фона^white;. Советую воздержаться от плавания."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/scorchedcity/1"
-      ]
-    },
-    "Texts": {
-      "Eng": "The beam site is ^#b24301;scorched^white; and desolate. Little is capable of surviving here as the ^red;temperature is fatally high^white;. People live in the area, but I cannot fathom why.",
-      "Rus": "Зона высадки ^#b24301;выжжена^white; и пустынна. Лишь немногие способны выжить здесь из-за ^red;чрезвычайно высокой температуры^white;. Планета обитаема, но это ненадолго."
-    }
-  },
-  {
-    "DeniedAlternatives": [
-      "Зона посадки - остров в ^#00ffe4;холодном океане^white;. ^red;Температура очень низкая^white;. Существует шанс 0.025% промахнуться и высадиться прямо в воду, мгновенно став ледышкой."
-    ],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/arctic/1"
-      ]
-    },
-    "Texts": {
-      "Eng": "The beam site is ^red;intensely cold^white;: a tiny island in a ^#00ffe4;frigid ocean^white;. There is a 0.025% chance you will mis-beam into the water, quickly succumbing to the awful chill.",
-      "Rus": "Зона посадки - остров в ^#00ffe4;холодном океане^white;. ^red;Температура очень низкая^white;. Есть шанс 0.025% высадиться прямо в воду, мгновенно став ледышкой."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/magma/2"
-      ]
-    },
-    "Texts": {
-      "Eng": "The beam site is a tiny island isolated in a sea of ^#ff1818;magma^white;. That you would consider visiting this ^red;searingly hot^white; planet speaks volumes of your fortitude.",
-      "Rus": "Зона посадки на крошечном острове в океане ^#ff1818;магмы^white;. То, что Вы приземлитесь на этой ^red;обжигающей^white; планете, многое говорит о Вашей силе духа."
-    }
-  },
-  {
-    "DeniedAlternatives": [
-      "Зона посадки в спокойной местности, густо населённой разными формами жизни. Имеются залежи полезных ресурсов. ^#76fe68;Изобильная^white; и приятная планета."
-    ],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/garden/1"
-      ]
-    },
-    "Texts": {
-      "Eng": "The beam site is located in a tranquil area of great bio-diversity. There are resources here that you could use. A ^#76fe68;lush ^white;and pleasant land.",
-      "Rus": "Зона посадки в спокойной местности, густо населённой разными формами жизни. Имеются залежи полезных ресурсов. ^#76fe68;Изобильная^white; планета."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/volcanic/2"
-      ]
-    },
-    "Texts": {
-      "Eng": "The beam site is situated in ^#e11212;volcanic^white; terrain and is ^red;exquisitely hot^white;. Your interest in this place certainly displays your dauntless tenacity.",
-      "Rus": "Зона посадки на ^#e11212;вулканической^white; земле, ^red;температура очень высока^white;. Намерение исследовать эту планету характеризует Ваше бесстрашие."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/scorchedcity/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "The landing location is a ^#b24301;scorched^white; wasteland. The atmospheric ^red;temperature is dangerously high^white;. It is impressively brave of you to consider this destination.",
-      "Rus": "Место высадки - ^#b24301;выжженная^white; пустошь. ^red;Температура воздуха невероятно высока^white;. С Вашей стороны довольно смело исследовать эту планету."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/snow/1"
-      ]
-    },
-    "Texts": {
-      "Eng": "The landing location is cold, but not perilously so. ^#69f1fd;Snow^white; covers the area and blizzards are a possibility. A hat and gloves may be advisable.",
-      "Rus": "Местность холодна, но не слишком. Планету покрывают ^#69f1fd;снега^white;, возможны метели. Стоит надеть тёплые шапки и варежки."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/savannah/2"
-      ]
-    },
-    "Texts": {
-      "Eng": "The landing location is located in an area of ^#ffe21d;dry grassland^white;. Trees and shrubs grow sparsely in the heat. A dusty place of wide, flat vistas.",
-      "Rus": "Посадочная площадка находится в ^#ffe21d;лугах^white;, перемежающихся редкими деревьями и кустарниками. Равнинная планета."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/scorchedcity/2"
-      ]
-    },
-    "Texts": {
-      "Eng": "The landing site is ^#b24301;scorched^white; by the ^red;intense heat of the planet's surface^white;. Only a few hardy individuals remain, possibly out of pure habit.",
-      "Rus": "Посадочная площадка ^#b24301;выжжена^white; невероятно ^red;высокой температурой^white; планеты. Лишь немногие виды выжили в таких условиях."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/jungle/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "The landing site is in a dense ^#12a003;jungle^white;. A menagerie of astounding creatures live amongst the lush flora. It is a shame about the ^red;lethally high levels of radiation^white;.",
-      "Rus": "Зона посадки в глубоких джунглях. Необычная разнообразная фауна соседствует с пышной флорой. Жаль, что ^red;уровень радиации смертелен^white;."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/savannah/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "The landing site is situated in an area of ^#ffe21d;dry grassland ^white;that is hot and prone to dust storms. It is neither especially pleasant, nor especially dangerous.",
-      "Rus": "Посадочная площадка расположена в ^#ffe21d;лугах^white;, продуваемых песчаными бурями. Ничего особенного."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/magma/1"
-      ]
-    },
-    "Texts": {
-      "Eng": "The planet surface is ^red;dangerously hot^white;. Few creatures eek out an existence amongst the planet's vast oceans of ^#ff1818;magma^white;.",
-      "Rus": "Поверхность планеты ^red;крайне горяча^white;. Лишь немногие существа выживают на островках посреди океана ^#ff1818;магмы^white;."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/desert/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "There is limited flora here, but the location does support life. There is also an abundance of sand. Simply put, it is a ^#e6c801;desert^white;.",
-      "Rus": "Флора весьма скудна, но местность пригодна для жизни. Поверхность в изобилии покрыта песком. Попросту, это ^#e6c801;пустыня^white;."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/moon/1"
-      ]
-    },
-    "Texts": {
-      "Eng": "This ^#949493;moon^white; supports no life and has ^red;no atmosphere^white;. However, fuel is abundant here - scans indicate that there is a wealth of it buried below the surface. ",
-      "Rus": "Безжизненная ^#949493;луна^white;, ^red;лишённая атмосферы^white;. Тем не менее, тут в изобилии топливо - по данным сканера, залежи глубоко под поверхностью."
-    }
-  },
-  {
-    "DeniedAlternatives": [
-      "^#e11212;Тёмный^white;, ^red;невероятно холодный^white; мир. Странные тёмные создания живут здесь под покровом вечной ночи."
-    ],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/midnight/1"
-      ]
-    },
-    "Texts": {
-      "Eng": "This ^#e11212;dark^white; world is ^red;perilously cold^white;. Strange shadowy figures dwell here, hidden in the unremitting night.",
-      "Rus": "^#e11212;Тёмный^white;, ^red;невероятно холодный^white; мир. Странные тёмные создания живут тут под покровом вечной ночи."
-    }
-  },
-  {
-    "DeniedAlternatives": [
-      "^red;Чрезвычайно холодная^white; зона посадки полностью ^#61ffe3;заморожена^white;. Высока вероятность непроизвольной криоконсервации.  Защитите себя от холода."
-    ],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/tundra/1"
-      ]
-    },
-    "Texts": {
-      "Eng": "This ^red;dangerously cold.^white; landing site is ^#61ffe3;frozen^white; solid. High likelihood of accidental self-cryopreservation. Protect yourself from the cold.",
-      "Rus": "^red;Чрезвычайно холодная^white; зона посадки полностью ^#61ffe3;заморожена^white;. Высока вероятность непроизвольной криоконсервации."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/magma/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "This ^red;dangerously hot^white; planet is chiefly composed of ^#ff1818;magma^white;. Remember, your resilient spirit is admirable, but it is not flame retardant.",
-      "Rus": "^red;Крайне горячая^white; планета, в основном состоящая из ^#ff1818;магмовых океанов^white;. Помните, что Ваш дух крепок, но не огнестоек."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/toxic/1"
-      ]
-    },
-    "Texts": {
-      "Eng": "This ^red;highly radioactive^white; planet is a poisonous wilderness inhabited by irradiated lifeforms. It's luminescent surface is ^#06ff00;toxic^white;. An uninviting destination.",
-      "Rus": "Планета представляет ^red;радиоактивную^white; пустошь, в которой выжили только облучённые формы жизни. Светящая поверхность ^#06ff00;токсична^white;. Неприятное место."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/savannah/1"
-      ]
-    },
-    "Texts": {
-      "Eng": "This area of ^#ffe21d;dry grassland ^white;is sparsely populated by trees. It is not excessively inhospitable - readings indicate that there is a hare bouncing around.",
-      "Rus": "^#ffe21d;Луговая^white; местность с редкими деревьями. Данные сканера говорят, что это мирная и приятная планета."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/snow/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "This chilly landing site is laden with ^#69f1fd;snow^white;. Sundry trees grow here and various animals also thrive in the cold conditions. An excellent place to make snowballs.",
-      "Rus": "Прохладная зона посадки, покрытая ^#69f1fd;снегами^white;. Присутствуют холодостойкие деревья и животные. Отличное место для игры в снежки."
-    }
-  },
-  {
-    "DeniedAlternatives": [
-      "^#06ff00;Токсичная^white; планета с ^red;сильным радиационным фоном^white;. Океаны из отходов смертельно ядовиты... Позволю напомнить, что в этой системе есть другие планеты."
-    ],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/toxic/2"
-      ]
-    },
-    "Texts": {
-      "Eng": "This is a ^#06ff00;toxic^white; planet replete with ^red;radiation^white;. The noxious oceans are lethally poisonous... May I remind you that other destinations are available.",
-      "Rus": "^#06ff00;Токсичная^white; планета с ^red;сильным радиационным фоном^white;. Океаны из отходов смертельно ядовиты... Напоминаю, что в этой системе есть другие планеты."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/midnight/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "This is a ^#e11212;dark^white; world where the sun never rises. The surface is ^red;dangerously cold^white;. You should prepare yourself both mentally and physically before landing here.",
-      "Rus": "^#e11212;Тёмный^white; мир, над которым никогда не поднимается солнце. Поверхность ^red;чрезвычайно холодна^white;. Нужно тщательно подготовиться перед спуском."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/alien/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "This is a somewhat risky landing site - ^red;radiation levels are extremely high^white;. However, the ^#7800ff;mutated^white; terrain could be described as darkly whimsical.",
-      "Rus": "Рискованное место посадки - ^red;радиационный фон зашкаливает^white;. А ^#7800ff;мутагенная^white; земля порождает причудливые формы жизни."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/barren/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "This location is ^#999966;barren^white; and lifeless. Readings show there is nothing here. An empty, empty place.",
-      "Rus": "Местность представляет собой безжизненную ^#999966;пустошь^white;. По данным сканера тут ничего нет. Пустое, пустое место."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/snow/2"
-      ]
-    },
-    "Texts": {
-      "Eng": "This location is relatively chill, and ^#69f1fd;snow^white; lies thickly on the ground. My sensors indicate that there are critters scampering through the soft blanket of white.",
-      "Rus": "Местность относительно безопасна и покрыта ^#69f1fd;снегами^white;. По данным сканера, в снежных заносах обитают животные."
     }
   },
   {
@@ -1311,30 +597,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/toxic/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "This planet is ^#06ff00;toxic^white; - the air is putrefied and the oceans are poisonous. ^red;Radiation exceeds safe levels^white; by a factor of thousands.",
-      "Rus": "Планета ^#06ff00;токсична^white; - и земля, и воздух, и океаны. ^red;Радиация превышает безопасный уровень^white; в тысячи раз."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/barren/1"
-      ]
-    },
-    "Texts": {
-      "Eng": "This planet is ^#999966;barren^white;, supporting no life of any kind. There is nothing here at all...",
-      "Rus": "Эта планета представляет собой ^#999966;пустошь^white; без признаков жизни. Тут вообще ничего нет..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
         "/terraformedPlanetDescription/2"
       ]
     },
@@ -1344,36 +606,21 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Пустынная ^#949493;луна^white; ^red;без атмосферы^white;, но с подземными кавернами полными топливом. Итог: полезная, но непривлекательная."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/moon/2"
+        "/gui/planetinfo/children/inner/children/threatLabel/value"
       ]
     },
     "Texts": {
-      "Eng": "This vacant ^#949493;moon^white; has ^red;no breathable atmosphere^white;, but there are caverns below ground that contain vast fuel deposits. In summation: useful, but not enticing.",
-      "Rus": "Пустая ^#949493;луна^white; ^red;без атмосферы^white;, но с заполненными топливом подземными кавернами. Итог: полезная, но непривлекательная."
+      "Eng": "Threat: "
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/threatLevelText/label/text"
-      ]
-    },
-    "Texts": {
-      "Eng": "Threat",
-      "Rus": "Уровень угрозы"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/displayOres/5/displayName"
+        "/displayOres/titanium/displayName"
       ]
     },
     "Texts": {
@@ -1385,7 +632,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/displayOres/4/displayName"
+        "/displayOres/tungsten/displayName"
       ]
     },
     "Texts": {
@@ -1397,31 +644,30 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/threatLevelToText/moon/0"
+        "/gui/clusterinfo/children/inner/children/view/caption",
+        "/gui/systeminfo/children/inner/children/view/caption"
       ]
     },
     "Texts": {
-      "Eng": "Unknown",
-      "Rus": "Неизвестно"
+      "Eng": "UNEXPLORED"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/threatLevelToText/default/6"
+        "/gui/remoteDescription/value"
       ]
     },
     "Texts": {
-      "Eng": "Unreal",
-      "Rus": "Нереальный"
+      "Eng": "UNMAPPED CELESTIAL OBJECTS UNAVAILABLE"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/displayOres/9/displayName"
+        "/displayOres/violium/displayName"
       ]
     },
     "Texts": {
@@ -1433,7 +679,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/weatherText/text"
+        "/gui/planetinfo/children/inner/children/weather/value"
       ]
     },
     "Texts": {
@@ -1457,31 +703,29 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/forest/2"
+        "/gui/coordinatesFrame/children/xLabel/value"
       ]
     },
     "Texts": {
-      "Eng": "Your beam site for this planet is located in a ^#15ce02;forest^white;. Readings indicate that this wooded area is relatively tranquil.",
-      "Rus": "Посадочная площадка на этой планете расположена в ^#15ce02;лесу^white;. Сенсоры показывают, что эта лесная зона относительно спокойна."
+      "Eng": "X"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/garden/0"
+        "/gui/coordinatesFrame/children/yLabel/value"
       ]
     },
     "Texts": {
-      "Eng": "^#76fe68;Lush ^white;foothills mark this landing location. Both flora and fauna are abundant here. A beam site of immeasurable safety.",
-      "Rus": "Зона посадки находится в ^#76fe68;изобильных^white; холмах. Большое разнообразие флоры и фауны."
+      "Eng": "Y"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/guiConfig/windowtitle/subtitle"
+        "/gui/windowtitle/subtitle"
       ]
     },
     "Texts": {
@@ -1493,60 +737,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/volcanic/1"
+        "/gui/planetinfo/children/inner/children/threatValue/value"
       ]
     },
     "Texts": {
-      "Eng": "^#e11212;Volcanic^white; activity blights this planet and the beam site is in an area of particular virulence. The ^red;temperature is far beyond normally survivable levels^white;.",
-      "Rus": "На планете частая ^#e11212;вулканическая^white; активность, что относится и к зоне посадки. ^red;Температура выше возможной для жизни^white;."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/jungle/2"
-      ]
-    },
-    "Texts": {
-      "Eng": "^red;High levels of radiation^white; render this ^#12a003;jungle^white; location an extremely hostile environment and local fauna is similarly unwelcoming.",
-      "Rus": "^red;Высокий уровень радиации^white; делает эти ^#12a003;джунгли^white; очень опасной средой с враждебной фауной."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/tundra/2"
-      ]
-    },
-    "Texts": {
-      "Eng": "^red;Temperatures at the beam site are dangerously low^white;. The area is ^#61ffe3;frozen^white;, and inhabited only by flora and fauna that are extremely resistant to the cold. ",
-      "Rus": "^red;Температура в зоне посадки чрезвычайно низка^white;. Местность ^#61ffe3;заморожена^white; и населена только флорой и фауной, устойчивыми к холоду."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/arctic/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "^red;Temperatures at the landing site are dangerously low.^white; You will be beaming onto a small island surrounded by ^#00ffe4;frigid ocean^white;. I strongly advise you to wear a scarf.",
-      "Rus": "^red;Температура в зоне посадки чрезвычайно низкая^white;. Сама зона посадки - это остров, окружённый холодными океанами. Рекомендую надеть шарф."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/guiConfig/bookmarkListLabel/value"
-      ]
-    },
-    "Texts": {
-      "Eng": "^shadow;BOOKMARKS",
-      "Rus": "ЗАКЛАДКИ"
+      "Eng": "dangerous"
     }
   }
 ]

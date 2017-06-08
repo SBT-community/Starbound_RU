@@ -237,6 +237,9 @@
       "objects/generic/capsulesmall/capsulesmall.object": [
         "/humanDescription"
       ],
+      "objects/generic/capsulespace/capsulespace.object": [
+        "/humanDescription"
+      ],
       "objects/generic/claypot1/claypot1.object": [
         "/humanDescription"
       ],
@@ -948,6 +951,9 @@
       ],
       "objects/generic/capsulesmall/capsulesmall.object": [
         "/hylotlDescription"
+      ],
+      "objects/generic/capsulespace/capsulespace.object": [
+        "/hylotlDescription"
       ]
     },
     "Texts": {
@@ -976,6 +982,9 @@
         "/floranDescription"
       ],
       "objects/generic/capsulesmall/capsulesmall.object": [
+        "/floranDescription"
+      ],
+      "objects/generic/capsulespace/capsulespace.object": [
         "/floranDescription"
       ]
     },

@@ -1,0 +1,58 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/slopedscrappanel.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/slopedscrappanel.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal sssso russty, Floran wouldn't even ussse it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/slopedscrappanel.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/slopedscrappanel.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scrap Panel"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/slopedscrappanel.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/slopedscrappanel.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This metal panel is just a buncha rusted scrap."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/slopedscrappanel.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/slopedscrappanel.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This metal surface looks very jagged and rusty."
+    }
+  }
+]

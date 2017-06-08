@@ -13,6 +13,9 @@
       ],
       "objects/protectorate/objects/protectoratelobbyvending/protectoratelobbyvending.object": [
         "/interactData/paneLayoutOverride/windowtitle/title"
+      ],
+      "objects/space/stationvendingmachine/stationvendingmachine.object": [
+        "/interactData/paneLayoutOverride/windowtitle/title"
       ]
     },
     "Texts": {
@@ -115,6 +118,9 @@
       "objects/spawner/invisiblemonsterspawner.object": [
         "/description"
       ],
+      "objects/wired/invisiblesound/invisiblesound.object": [
+        "/description"
+      ],
       "objects/wired/logic/invisibleand.object": [
         "/description"
       ],
@@ -145,6 +151,9 @@
       "objects/wired/proximitysensor/invisibleproximitysensor.object": [
         "/description"
       ],
+      "objects/wired/smallwallswitch/invisiblewallswitch.object": [
+        "/description"
+      ],
       "tiles/materials/black.material": [
         "/description",
         "/floranDescription",
@@ -162,9 +171,6 @@
     "Files": {
       "interface.config": [
         "/modeTypeTextAndColor/0/0"
-      ],
-      "interface/cockpit/cockpit.config": [
-        "/guiConfig/planetTypeDescription/value"
       ],
       "interface/warping/gatewarp.config": [
         "/destinations/0/name",
@@ -442,7 +448,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/displayOres/11/displayName"
+        "/displayOres/erchius/displayName"
       ],
       "items/generic/other/solidfuel.item": [
         "/shortdescription"
@@ -928,7 +934,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/displayOres/1/displayName"
+        "/displayOres/silver/displayName"
       ],
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/0/1/3"
