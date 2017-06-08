@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "(%s, %s)"
+      "Eng": "(%s, %s)",
+      "Rus": "(%s, %s)"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "(0, 0)"
+      "Eng": "(0, 0)",
+      "Rus": "(0, 0)"
     }
   },
   {
@@ -30,7 +32,8 @@
       ]
     },
     "Texts": {
-      "Eng": "> "
+      "Eng": "> ",
+      "Rus": "> "
     }
   },
   {
@@ -41,7 +44,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Configuration"
+      "Eng": "Configuration",
+      "Rus": ""
     }
   },
   {
@@ -52,7 +56,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Connecting to S.A.I.L..."
+      "Eng": "Connecting to S.A.I.L...",
+      "Rus": "Подключение к К.Э.П.у..."
     }
   },
   {
@@ -63,7 +68,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Enter station description"
+      "Eng": "Enter station description",
+      "Rus": "Введите описание станции"
     }
   },
   {
@@ -74,7 +80,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Enter station name"
+      "Eng": "Enter station name",
+      "Rus": "Введите название станции"
     }
   },
   {
@@ -85,7 +92,8 @@
       ]
     },
     "Texts": {
-      "Eng": "SAVE"
+      "Eng": "SAVE",
+      "Rus": "СОХРАНИТЬ"
     }
   },
   {
@@ -96,7 +104,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Station Transponder Configuration"
+      "Eng": "Station Transponder Configuration",
+      "Rus": ""
     }
   },
   {
@@ -107,7 +116,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^#b9b5b2;Configure and launch your station deployment probe"
+      "Eng": "^#b9b5b2;Configure and launch your station deployment probe",
+      "Rus": ""
     }
   },
   {
@@ -118,7 +128,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;Connecting to S.A.I.L"
+      "Eng": "^green;Connecting to S.A.I.L",
+      "Rus": "^green;Подключение к К.Э.П.у"
     }
   },
   {
@@ -129,7 +140,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;High-bandwidth connection established\nTransferring system data"
+      "Eng": "^green;High-bandwidth connection established\nTransferring system data",
+      "Rus": "^green;Установлено стабильное подключение\nПередача системных данных"
     }
   },
   {
@@ -140,7 +152,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;Link established"
+      "Eng": "^green;Link established",
+      "Rus": ""
     }
   },
   {
@@ -151,7 +164,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^red;Unable to establish high-bandwidth connection to S.A.I.L\nTry again from your ship"
+      "Eng": "^red;Unable to establish high-bandwidth connection to S.A.I.L\nTry again from your ship",
+      "Rus": "^red;Не удалось установить стабильное подключение к К.Э.П.у\nПопробуйте снова с вашего корабля"
     }
   }
 ]
