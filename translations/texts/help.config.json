@@ -140,7 +140,7 @@
     },
     "Texts": {
       "Eng": "Usage /clearstagehand. Despawns any stagehands with positions close to the current cursor position.",
-      "Rus": ""
+      "Rus": "Команда \"/clearstagehand\". Удаляет все находящиеся возле курсора предметы (вне инвентаря)."
     }
   },
   {
@@ -608,7 +608,7 @@
     },
     "Texts": {
       "Eng": "Usage /spawnstagehand type [parameters]. Spawn a Stagehand of the specified type. Parameters should be specified as a JSON object enclosed by single quotes.",
-      "Rus": ""
+      "Rus": "Команда \"/spawnstagehand тип [параметры]\". Создание stagehand определённого типа с заданными параметрами (в JSON)."
     }
   },
   {
@@ -703,7 +703,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /unbanip address. Removes entries with the specified address from temporary and permanent ban lists."
+      "Eng": "Usage /unbanip address. Removes entries with the specified address from temporary and permanent ban lists.",
+      "Rus": "Команда \"/unbanip адрес\". Удаляет указанный ip адрес из временных и постоянных списков блокировок."
     }
   },
   {
@@ -714,7 +715,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /unbanuuid uuid. Removes entries with the specified uuid from temporary and permanent ban lists."
+      "Eng": "Usage /unbanuuid uuid. Removes entries with the specified uuid from temporary and permanent ban lists.",
+      "Rus": "Команда \"/unbanuuid uuid\". Удаляет указанный uuid из времменых и постоянных списков блокировок."
     }
   },
   {
