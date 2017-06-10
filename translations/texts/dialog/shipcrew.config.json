@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A fellow Avian! Hopefully the influence of the Stargazers does not spread this far..."
+      "Eng": "A fellow Avian! Hopefully the influence of the Stargazers does not spread this far...",
+      "Rus": ""
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A fellow Glitch! My name is <selfname> - it's a pleasure to make your acquaintance."
+      "Eng": "A fellow Glitch! My name is <selfname> - it's a pleasure to make your acquaintance.",
+      "Rus": ""
     }
   },
   {
@@ -30,11 +32,14 @@
       ]
     },
     "Texts": {
-      "Eng": "A life on a spacefaring vessel is a better life than oppression under the rule of Big Ape."
+      "Eng": "A life on a spacefaring vessel is a better life than oppression under the rule of Big Ape.",
+      "Rus": ""
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Посетитель? Надеюсь, вы прошли проверку на космических паразитов."
+    ],
     "Files": {
       "dialog/shipcrew.config": [
         "/converse/avian/avian/6",
@@ -42,11 +47,14 @@
       ]
     },
     "Texts": {
-      "Eng": "A visitor? I hope you've been screened for space parasites."
+      "Eng": "A visitor? I hope you've been screened for space parasites.",
+      "Rus": ""
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Одинокие среди звезд. В море бесконечной ночи. Вместе мы плывем."
+    ],
     "Files": {
       "dialog/shipcrew.config": [
         "/converse/hylotl/default/3",
@@ -54,7 +62,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Alone among stars.\nIn a sea of endless night.\nTogether we sail."
+      "Eng": "Alone among stars.\nIn a sea of endless night.\nTogether we sail.",
+      "Rus": ""
     }
   },
   {
@@ -65,7 +74,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Another Floran friend for Floran! Ssspace gets lonely, Floran should ssstay!"
+      "Eng": "Another Floran friend for Floran! Ssspace gets lonely, Floran should ssstay!",
+      "Rus": ""
     }
   },
   {
@@ -76,7 +86,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Are you a member of the Terrene Protectorate? We used to deliver shipments for them, until... Recently."
+      "Eng": "Are you a member of the Terrene Protectorate? We used to deliver shipments for them, until... Recently.",
+      "Rus": ""
     }
   },
   {
@@ -87,7 +98,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Bein' part of the crew of a cargo ship means there's a lot of liftin' to do. My flippers are tired already!"
+      "Eng": "Bein' part of the crew of a cargo ship means there's a lot of liftin' to do. My flippers are tired already!",
+      "Rus": ""
     }
   },
   {
@@ -99,7 +111,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Did you come all the way out into deep space just to meet us? That's awesome!"
+      "Eng": "Did you come all the way out into deep space just to meet us? That's awesome!",
+      "Rus": ""
     }
   },
   {
@@ -111,7 +124,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Did you come jussst to say hi to Floran?"
+      "Eng": "Did you come jussst to say hi to Floran?",
+      "Rus": ""
     }
   },
   {
@@ -122,7 +136,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Do you come in peace?"
+      "Eng": "Do you come in peace?",
+      "Rus": ""
     }
   },
   {
@@ -134,7 +149,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Do you have your own ship? That's pretty cool!"
+      "Eng": "Do you have your own ship? That's pretty cool!",
+      "Rus": ""
     }
   },
   {
@@ -145,7 +161,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Don't bump your head on the ceiling, pal!"
+      "Eng": "Don't bump your head on the ceiling, pal!",
+      "Rus": ""
     }
   },
   {
@@ -156,7 +173,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Don't think just 'cause you're taller than me that you got the drop on me!"
+      "Eng": "Don't think just 'cause you're taller than me that you got the drop on me!",
+      "Rus": ""
     }
   },
   {
@@ -168,7 +186,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran hasss steady job on ship! Floran jussst has to not eat anyone."
+      "Eng": "Floran hasss steady job on ship! Floran jussst has to not eat anyone.",
+      "Rus": ""
     }
   },
   {
@@ -179,7 +198,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran likesss new Floransss!"
+      "Eng": "Floran likesss new Floransss!",
+      "Rus": ""
     }
   },
   {
@@ -191,7 +211,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran not made for ssspace travel. Floran always feeling sssick."
+      "Eng": "Floran not made for ssspace travel. Floran always feeling sssick.",
+      "Rus": ""
     }
   },
   {
@@ -203,7 +224,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran secretly afraid of heights. Ship isss ssscary."
+      "Eng": "Floran secretly afraid of heights. Ship isss ssscary.",
+      "Rus": ""
     }
   },
   {
@@ -215,7 +237,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Gettin' closer to the stars makes me sleep better. No idea why, though..."
+      "Eng": "Gettin' closer to the stars makes me sleep better. No idea why, though...",
+      "Rus": ""
     }
   },
   {
@@ -226,7 +249,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Greetings, fellow Apex! I hope you have also escaped the gaze of the Miniknog."
+      "Eng": "Greetings, fellow Apex! I hope you have also escaped the gaze of the Miniknog.",
+      "Rus": ""
     }
   },
   {
@@ -237,7 +261,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hello there, fellow earthling! Wait, too soon?"
+      "Eng": "Hello there, fellow earthling! Wait, too soon?",
+      "Rus": ""
     }
   },
   {
@@ -248,7 +273,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hello, my equally-feathered friend!"
+      "Eng": "Hello, my equally-feathered friend!",
+      "Rus": ""
     }
   },
   {
@@ -259,7 +285,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hey there, fella! How do you like our ship?"
+      "Eng": "Hey there, fella! How do you like our ship?",
+      "Rus": ""
     }
   },
   {
@@ -270,7 +297,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hey there, ol' buddy ol' pal! ...We haven't met before, have we?"
+      "Eng": "Hey there, ol' buddy ol' pal! ...We haven't met before, have we?",
+      "Rus": ""
     }
   },
   {
@@ -282,7 +310,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hey, a visitor? We don't get many visitors way out here! Stay a while!"
+      "Eng": "Hey, a visitor? We don't get many visitors way out here! Stay a while!",
+      "Rus": ""
     }
   },
   {
@@ -293,7 +322,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hey, another shinin' face! Do you get them strange dreams about the stars as well, stranger?"
+      "Eng": "Hey, another shinin' face! Do you get them strange dreams about the stars as well, stranger?",
+      "Rus": ""
     }
   },
   {
@@ -304,7 +334,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hey, how'd you even fly out here? You got one of them space mechs?"
+      "Eng": "Hey, how'd you even fly out here? You got one of them space mechs?",
+      "Rus": ""
     }
   },
   {
@@ -316,7 +347,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Howdy there, partner! The name's <selfname>, pleasure t' make your acquaintance."
+      "Eng": "Howdy there, partner! The name's <selfname>, pleasure t' make your acquaintance.",
+      "Rus": ""
     }
   },
   {
@@ -328,7 +360,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I ain't think I was expectin' a new face up here on this ol' ship! Welcome, partner!"
+      "Eng": "I ain't think I was expectin' a new face up here on this ol' ship! Welcome, partner!",
+      "Rus": ""
     }
   },
   {
@@ -339,7 +372,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I can't chat for too long - this bird's gotta grease some axels to keep us all afloat!"
+      "Eng": "I can't chat for too long - this bird's gotta grease some axels to keep us all afloat!",
+      "Rus": ""
     }
   },
   {
@@ -351,7 +385,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I didn't know space travel even existed for many years. Isn't it exciting?"
+      "Eng": "I didn't know space travel even existed for many years. Isn't it exciting?",
+      "Rus": ""
     }
   },
   {
@@ -362,7 +397,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I got some pals lookin' for mercenary work. You should get yourself some dubloons!"
+      "Eng": "I got some pals lookin' for mercenary work. You should get yourself some dubloons!",
+      "Rus": ""
     }
   },
   {
@@ -374,7 +410,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I think I frayed a few wires after moving heavy cargo around..."
+      "Eng": "I think I frayed a few wires after moving heavy cargo around...",
+      "Rus": ""
     }
   },
   {
@@ -386,7 +423,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I think I got liquid Erchius in my feathers after refueling the ship earlier... This will stain."
+      "Eng": "I think I got liquid Erchius in my feathers after refueling the ship earlier... This will stain.",
+      "Rus": ""
     }
   },
   {
@@ -397,7 +435,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I will always be welcoming to one of my own kind."
+      "Eng": "I will always be welcoming to one of my own kind.",
+      "Rus": ""
     }
   },
   {
@@ -409,7 +448,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I would rather be here maintaining cargo than on my home planet, living under the rule of the Miniknog."
+      "Eng": "I would rather be here maintaining cargo than on my home planet, living under the rule of the Miniknog.",
+      "Rus": ""
     }
   },
   {
@@ -421,7 +461,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I'm trying to live a quiet life - maybe this way the Miniknog won't track me down."
+      "Eng": "I'm trying to live a quiet life - maybe this way the Miniknog won't track me down.",
+      "Rus": ""
     }
   },
   {
@@ -432,7 +473,8 @@
       ]
     },
     "Texts": {
-      "Eng": "It is always calming to see a friendly, three-eyed face. Make yourself at home."
+      "Eng": "It is always calming to see a friendly, three-eyed face. Make yourself at home.",
+      "Rus": ""
     }
   },
   {
@@ -444,7 +486,8 @@
       ]
     },
     "Texts": {
-      "Eng": "It is difficult to maintain a beard when you spend so long maintaining a spaceship."
+      "Eng": "It is difficult to maintain a beard when you spend so long maintaining a spaceship.",
+      "Rus": ""
     }
   },
   {
@@ -455,7 +498,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Maintaining a spaceship is mind-numbing work - I want to play a game of chess!"
+      "Eng": "Maintaining a spaceship is mind-numbing work - I want to play a game of chess!",
+      "Rus": ""
     }
   },
   {
@@ -466,7 +510,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Maintaining a spaceship is mind-numbing work - I want to play a game of clunkey jacks!"
+      "Eng": "Maintaining a spaceship is mind-numbing work - I want to play a game of clunkey jacks!",
+      "Rus": ""
     }
   },
   {
@@ -478,7 +523,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Maintaining the integrity of the hull is an important priority aboard this ship."
+      "Eng": "Maintaining the integrity of the hull is an important priority aboard this ship.",
+      "Rus": ""
     }
   },
   {
@@ -490,7 +536,8 @@
       ]
     },
     "Texts": {
-      "Eng": "My name is <selfname>. Are you visiting us for long?"
+      "Eng": "My name is <selfname>. Are you visiting us for long?",
+      "Rus": ""
     }
   },
   {
@@ -502,7 +549,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Sailing through the stars makes me feel like a fish swimming through a vast, endless ocean."
+      "Eng": "Sailing through the stars makes me feel like a fish swimming through a vast, endless ocean.",
+      "Rus": ""
     }
   },
   {
@@ -514,7 +562,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The low-moisture atmosphere on board this ship is good for preventing rust."
+      "Eng": "The low-moisture atmosphere on board this ship is good for preventing rust.",
+      "Rus": ""
     }
   },
   {
@@ -525,7 +574,8 @@
       ]
     },
     "Texts": {
-      "Eng": "They call me <selfname>. The name runs in the family."
+      "Eng": "They call me <selfname>. The name runs in the family.",
+      "Rus": ""
     }
   },
   {
@@ -536,7 +586,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This sure is the gig of a lifetime. A ship full of fine feathered folks like myself, and all the loot to boot!"
+      "Eng": "This sure is the gig of a lifetime. A ship full of fine feathered folks like myself, and all the loot to boot!",
+      "Rus": ""
     }
   },
   {
@@ -547,7 +598,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Visitors here are rare, and fellow Glitch visitors are even rarer!"
+      "Eng": "Visitors here are rare, and fellow Glitch visitors are even rarer!",
+      "Rus": ""
     }
   },
   {
@@ -559,7 +611,8 @@
       ]
     },
     "Texts": {
-      "Eng": "We don't get visitors often! Are you staying for long?"
+      "Eng": "We don't get visitors often! Are you staying for long?",
+      "Rus": ""
     }
   },
   {
@@ -571,7 +624,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Welcome to our humble spacefaring vessel!"
+      "Eng": "Welcome to our humble spacefaring vessel!",
+      "Rus": ""
     }
   },
   {
@@ -583,7 +637,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Welcome to our ol' rust bucket of a ship!"
+      "Eng": "Welcome to our ol' rust bucket of a ship!",
+      "Rus": ""
     }
   },
   {
@@ -595,7 +650,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Welcome, stranger! How kind of you to visit."
+      "Eng": "Welcome, stranger! How kind of you to visit.",
+      "Rus": ""
     }
   },
   {
@@ -606,7 +662,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Well it's a lucky thing here that you fit on our ship, huh?"
+      "Eng": "Well it's a lucky thing here that you fit on our ship, huh?",
+      "Rus": ""
     }
   },
   {
@@ -618,7 +675,8 @@
       ]
     },
     "Texts": {
-      "Eng": "What do you think waits for us, out there in the stars?"
+      "Eng": "What do you think waits for us, out there in the stars?",
+      "Rus": ""
     }
   },
   {
@@ -629,7 +687,8 @@
       ]
     },
     "Texts": {
-      "Eng": "What's with all those angry asteroid lookin' things flyin' around? Things sure ain't how they used to be."
+      "Eng": "What's with all those angry asteroid lookin' things flyin' around? Things sure ain't how they used to be.",
+      "Rus": ""
     }
   },
   {
@@ -641,7 +700,8 @@
       ]
     },
     "Texts": {
-      "Eng": "When you fly your ship out into the great unknown... There is no feeling like it, is there?"
+      "Eng": "When you fly your ship out into the great unknown... There is no feeling like it, is there?",
+      "Rus": ""
     }
   },
   {
@@ -652,7 +712,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Working on a ship can be a tough career, but it did mean I wasn't on Earth when... It happened."
+      "Eng": "Working on a ship can be a tough career, but it did mean I wasn't on Earth when... It happened.",
+      "Rus": ""
     }
   },
   {
@@ -664,7 +725,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Wow, I, uh, didn't expect to see anyone new around here."
+      "Eng": "Wow, I, uh, didn't expect to see anyone new around here.",
+      "Rus": ""
     }
   },
   {
@@ -675,7 +737,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You aren't an undercover Miniknog inspector, are you?"
+      "Eng": "You aren't an undercover Miniknog inspector, are you?",
+      "Rus": ""
     }
   },
   {
@@ -686,7 +749,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You aren't ex-USCM, are you? No? Phew."
+      "Eng": "You aren't ex-USCM, are you? No? Phew.",
+      "Rus": ""
     }
   },
   {
@@ -697,7 +761,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You come here in a mech? I think we have some mech part blueprints on this ship, now I think about it..."
+      "Eng": "You come here in a mech? I think we have some mech part blueprints on this ship, now I think about it...",
+      "Rus": ""
     }
   },
   {
@@ -709,7 +774,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You ever get the feelin' you were meant for somethin' bigger?"
+      "Eng": "You ever get the feelin' you were meant for somethin' bigger?",
+      "Rus": ""
     }
   },
   {
@@ -720,7 +786,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You got that look in your eye like you're about to loot all our crates. Don't worry pal, I won't snitch."
+      "Eng": "You got that look in your eye like you're about to loot all our crates. Don't worry pal, I won't snitch.",
+      "Rus": ""
     }
   },
   {
@@ -732,7 +799,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You here for a bit o' tradin', or just comin' to see what all the fuss is about?"
+      "Eng": "You here for a bit o' tradin', or just comin' to see what all the fuss is about?",
+      "Rus": ""
     }
   },
   {
@@ -743,7 +811,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You lookin' for friends? Nah, the glint in your eye says you're just here for some loot."
+      "Eng": "You lookin' for friends? Nah, the glint in your eye says you're just here for some loot.",
+      "Rus": ""
     }
   },
   {
@@ -755,7 +824,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You're welcome to stick around for a while, but don't make a mess - I just finished tidying."
+      "Eng": "You're welcome to stick around for a while, but don't make a mess - I just finished tidying.",
+      "Rus": ""
     }
   }
 ]
