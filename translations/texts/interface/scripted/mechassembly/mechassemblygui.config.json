@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "  Mech Assembly Station"
+      "Eng": "  Mech Assembly Station",
+      "Rus": "Станция сборки меха"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "  ^#b9b5b2;Equip and customise your personal mech!"
+      "Eng": "  ^#b9b5b2;Equip and customise your personal mech!",
+      "Rus": "  ^#b9b5b2;Снарядите и настройте своего меха!"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Body"
+      "Eng": "Body",
+      "Rus": "Корпус"
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Booster"
+      "Eng": "Booster",
+      "Rus": "Ускорители"
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Colour 1"
+      "Eng": "Colour 1",
+      "Rus": "Цвет 1"
     }
   },
   {
@@ -62,18 +67,22 @@
       ]
     },
     "Texts": {
-      "Eng": "Colour 2"
+      "Eng": "Colour 2",
+      "Rus": "Цвета 2"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Клаксон"
+    ],
     "Files": {
       "interface/scripted/mechassembly/mechassemblygui.config": [
         "/gui/lblSlot_horn/value"
       ]
     },
     "Texts": {
-      "Eng": "Horn"
+      "Eng": "Horn",
+      "Rus": "Гудок"
     }
   },
   {
@@ -84,7 +93,8 @@
       ]
     },
     "Texts": {
-      "Eng": "L Arm"
+      "Eng": "L Arm",
+      "Rus": "Л.Рука"
     }
   },
   {
@@ -95,7 +105,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Legs"
+      "Eng": "Legs",
+      "Rus": "Ноги"
     }
   },
   {
@@ -106,7 +117,8 @@
       ]
     },
     "Texts": {
-      "Eng": "R Arm"
+      "Eng": "R Arm",
+      "Rus": "П.Рука"
     }
   },
   {
@@ -117,7 +129,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Ready to Deploy!"
+      "Eng": "^cyan;Ready to Deploy!",
+      "Rus": "^cyan;Готов к высадке!"
     }
   },
   {
@@ -128,7 +141,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^red;Configuration Incomplete"
+      "Eng": "^red;Configuration Incomplete",
+      "Rus": "^red;Настройка неполная"
     }
   },
   {
@@ -139,7 +153,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^red;Unauthorized User"
+      "Eng": "^red;Unauthorized User",
+      "Rus": "^red;Несанкционированный пользователь"
     }
   }
 ]
