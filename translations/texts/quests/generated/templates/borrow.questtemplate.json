@@ -22,7 +22,7 @@
     },
     "Texts": {
       "Eng": "Ah good, you got the <item>! You'll have to remember to return it at some point, but don't worry about that for now.",
-      "Rus": ""
+      "Rus": "О, хорошо, теперь у тебя есть <item>! Не забудь вернуть его туда, где взял, но пока не беспокойся об этом."
     }
   },
   {
@@ -34,7 +34,7 @@
     },
     "Texts": {
       "Eng": "Before we can do anything elsse, we need ^orange;<item>^white;. Floran knowss that ^orange;<target>^white; will let Floran borrow <target.pronoun.possessive>. ^green;Will you go get it?",
-      "Rus": ""
+      "Rus": "Прежде чем мы продолжим, нам понадобится ^orange;<item>^white;. Флоран знает, что ^orange;<target>^white; может одолжить Флорану <item>. ^green; Не сходишь к <target.pronoun.reflexive>?"
     }
   },
   {
@@ -45,7 +45,8 @@
       ]
     },
     "Texts": {
-      "Eng": "First things first, you'll need to ^green;speak to ^orange;<target> ^white;and ^green;borrow <target.pronoun.possessiveDet> ^orange;<item>. ^white;Just tell <target.pronoun.object> I sent you, and <target.pronoun.subject>'ll be happy to lend it to you."
+      "Eng": "First things first, you'll need to ^green;speak to ^orange;<target> ^white;and ^green;borrow <target.pronoun.possessiveDet> ^orange;<item>. ^white;Just tell <target.pronoun.object> I sent you, and <target.pronoun.subject>'ll be happy to lend it to you.",
+      "Rus": "Прежде всего, тебе нужно одолжить ^orange;<item>. ^white; у кого-нибудь. Думаю ^orange;<target> ^white; будет рад<target.pronoun.verbEnding> помочь. ^green;Поговори с <target.pronoun.copulativePast>^white;, и не забудь сказать, что тебя прислал я."
     }
   },
   {
@@ -57,7 +58,7 @@
     },
     "Texts": {
       "Eng": "Floran knowss that ^orange;<target>^white; hass ^orange;<item>^white; that we need. ^green;If you ask to borrow it, that'll save usss time.",
-      "Rus": ""
+      "Rus": "Нам нужно где-то досcтать <item>. Флоран знает у кого ессть ^orange;<item>^white;. Это ^orange;<target>^white;! Если ты <target.pronoun.reflexive> попросишь, мы ссэкономим много времени."
     }
   },
   {
@@ -69,7 +70,7 @@
     },
     "Texts": {
       "Eng": "Great! <target> sure is a generous neighbour. ",
-      "Rus": ""
+      "Rus": "Отлично! <target> определённо щедрый сосед."
     }
   },
   {
@@ -81,7 +82,7 @@
     },
     "Texts": {
       "Eng": "Great! that's just what we need. I knew <target> would come through for us! Just don't do something silly like forget to hand it back to <target.pronoun.object> when we're done here. That'd be pretty embarrassing!",
-      "Rus": ""
+      "Rus": "Отлично! Как раз то что нужно. Я знал, что <target> поможет нам! Просто надо будет не забыть помочь <target.pronoun.object> в ответ, как только мы закончим. А то может получиться весьма неловко!"
     }
   },
   {
@@ -93,7 +94,7 @@
     },
     "Texts": {
       "Eng": "Great, you got it! Let's hope <target> understandss Floran's meaning of borrow...",
-      "Rus": "Отлично, это у тебя! Будем надеяться, что <target> понимает Флоранское ззначение слова одолжить..."
+      "Rus": "Отлично, ты добыл то, что нужно! Будем надеяться, что <target> понимает Флоранское ззначение слова одолжить..."
     }
   },
   {
@@ -116,7 +117,8 @@
       ]
     },
     "Texts": {
-      "Eng": "John Smith"
+      "Eng": "John Smith",
+      "Rus": ""
     }
   },
   {
@@ -152,7 +154,7 @@
     },
     "Texts": {
       "Eng": "Our first priority should be obtaining a good quality ^orange;<item>. I think it's quicker to just^green; ask ^orange;<target>^green; if we can borrow <target.pronoun.possessive>. ",
-      "Rus": ""
+      "Rus": "Сперва нам нужно добыть ^orange;<item>^white; хорошего качества. Я слышал, ^orange;<target>^white; обладает тем, что нам нужно. Думаю, будет быстрее просто ^green; спросить у н<target.pronoun.reflexive>. "
     }
   },
   {
@@ -164,7 +166,7 @@
     },
     "Texts": {
       "Eng": "That went smoothly. Let's hope <target> doesn't ask for it back.",
-      "Rus": ""
+      "Rus": "Всё прошло гладко. Будем надеяться <target> забудет об этом."
     }
   },
   {
@@ -176,7 +178,7 @@
     },
     "Texts": {
       "Eng": "That's a decent <item>. Let's hope <target> won't miss it.",
-      "Rus": ""
+      "Rus": "А вот и <item>, пусть и не лучшего качества. Будем надеяться, что <target> не будет скучать по этому хламу."
     }
   },
   {
@@ -188,7 +190,7 @@
     },
     "Texts": {
       "Eng": "This <item> will work perfectly! <target> saved us tracking one down ourselves. Make sure you don't damage it, <target.pronoun.subject> wouldn't be happy if you returned it in poor condition.",
-      "Rus": ""
+      "Rus": "Думаю, то, что ты принёс прекрасно подойдёт! <target> избавил<target.pronoun.verbEnding> нас от необходимости искать всё самим. Надеюсь ты ничего не повредил? <target.pronoun.subject> будет не в восторге, если мы вернём <item> в плохом состоянии."
     }
   },
   {
@@ -200,7 +202,7 @@
     },
     "Texts": {
       "Eng": "Thiss is a very good <item>! Floran surprised that <target> gave it up so easssily. Maybe we won't give it back so ssoon.",
-      "Rus": ""
+      "Rus": "<item>, очень хорошший! Флоран удивлён, что <target> так просссто отдал<target.pronoun.verbEnding> тебе такую ценность. Может быть мы не вернём её вссскоре."
     }
   },
   {
@@ -240,7 +242,7 @@
     },
     "Texts": {
       "Eng": "We'll need a nice ^orange;<item>^white; to begin with. I seem to remember seeing ^orange;<target> ^white;with one quite recently. Why don't you ^green;go and ask if we can borrow it for a while? ^white;We can tell <target.pronoun.object> we lost it later if <target.pronoun.subject> asks for it back. ",
-      "Rus": "Нам нужен хороший ^orange;<item>^white; для начала. Кажется я помню, что недавно видел его у ^orange;<target> ^white;. Почему бы тебе ^green;не сходить и  не одолжить это ненадолго? А когда  <target.pronoun.object> потребует обратно, мы скажем что это потерялось."
+      "Rus": "^orange;<item>^white; - вот что нам нужно для начала. Кажется я помню, что недавно видел его у ^orange;<target> ^white;. Почему бы тебе ^green;не сходить и  не одолжить это ненадолго? А когда  <target.pronoun.object> потребует обратно, мы скажем что это потерялось."
     }
   },
   {
@@ -264,7 +266,7 @@
     },
     "Texts": {
       "Eng": "Well done! We probably won't be able to return this <item> to <target>, but I'm sure <target.pronoun.subject> won't miss this dusty old thing anyway. ",
-      "Rus": ""
+      "Rus": "Прекрасно! Скорее всего <item> не вернётся к владельцу, но я уверен, что <target> не будет скучать по этому пыльному хламу."
     }
   },
   {
@@ -276,7 +278,7 @@
     },
     "Texts": {
       "Eng": "You got it! Floran thinksss we'll need <item> a little longer than <target> may like. But let'ss worry about that later.",
-      "Rus": ""
+      "Rus": "У тебя получилось! Флоран думает <target> подождёт немного дольшше, чем ожидал<target.pronoun.verbEnding>. Но давай думать об этом позже."
     }
   },
   {
@@ -288,7 +290,7 @@
     },
     "Texts": {
       "Eng": "You got it! this <item> will do nicely. It was nice of <target> to let us borrow it. Try and remember to return it when we're finished.",
-      "Rus": ""
+      "Rus": "Ты добыл то, что нужно! <item> как раз подойдёт. <target> великодушно поступил<target.pronoun.verbEnding>, одолжив нам эту штуку. Не забудь напомнить мне вернуть её когда мы закончим."
     }
   },
   {
