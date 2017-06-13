@@ -15,6 +15,162 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/clusterMoons/plural"
+      ]
+    },
+    "Texts": {
+      "Eng": "%s orbiting bodies"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/threatLevelText/default/7",
+        "/threatLevelText/default/8",
+        "/threatLevelText/default/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "***"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/jungle/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "A ^#12a003;jungle^white; landing site densely inhabited by flora and fauna of many kinds. The area is rich with resources but ^red;phenomenally high in radiation^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/tundra/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "A ^#61ffe3;frozen^white; place, formed of ice - the permafrost runs deep here. Snow storms are common, and ^red;temperatures are dangerously low^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/desert/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "A ^#e6c801;desert^white; area populated by cacti, as well as various animal life. A relatively safe landing site, so long as you avoid the sandstorms."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/asteroids/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bare cluster of ^#d7711e;asteroids^white;. Readings indicate ^red;there is no atmosphere^white; or life here. Just endless nothingness, with plenty of space for construction."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/asteroids/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "A clutch of ^#d7711e;asteroids^white; drifting along an elliptical orbit. Readings indicate ^red;there is no atmosphere here^white;. Or anything else for that matter..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/worldTypeDescription/GasGiant/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "A gas giant. There is no solid substance to this planet, just a collection of swirling gases."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/worldTypeDescription/GasGiant/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "A giant ball of gases intermingling with one another. There is simply nothing here to land on."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/alien/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "A landing site characterised by odd flora, aggressive fauna and ^red;sickeningly high levels of radiation^white;. The area's inhabitants are severely ^#7800ff;mutated^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/asteroids/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "A lifeless band of ^#d7711e;asteroids^white; ^red;without atmosphere^white;: drifting through space, anchored to a distant star... A nice place to build a house."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/moon/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "A lonely ^#949493;moon^white; with ^red;no breathable atmosphere^white;; the sky is open to the stars, there is fuel below the ground. Likelihood of feeling lonesome and desolate: 92%."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/ocean/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "A planet of deep ^#008aff;oceans^white; and small islands. My readings indicate that aquatic life is abundant and that the islets of the surface are extremely picturesque."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/arctic/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "A site of ^red;dangerously low temperatures^white;. There are few animals here, and no plant-life at all - just forsaken islands in a ^#00ffe4;frigid ocean^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/gui/objectinfo/children/inner/children/bookmark/caption",
         "/gui/planetinfo/children/inner/children/bookmark/caption",
         "/objectInfoBox/bookmarkButtonCaption/add",
@@ -48,6 +204,28 @@
     "Texts": {
       "Eng": "Aegisalt",
       "Rus": "Эгизальт"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/ocean/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ^#008aff;ocean^white; covered planet spotted with islands and teeming with life. My readings indicate that there is a great deal of activity in the depths of the waters."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/ancientgateway/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ^#571cff;Ancient Gateway^white; of unknown provenance; an edifice of great power and mystery."
     }
   },
   {
@@ -96,6 +274,17 @@
     },
     "Texts": {
       "Eng": "CANNOT BOOKMARK"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/worldTypeDescription/GasGiant/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can't land. The crushing pressure and tearing winds of this gas giant would kill you instantly."
     }
   },
   {
@@ -174,6 +363,28 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/threatLevelText/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dangerous"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/forest/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Densely colonized by trees and other flora, this ^#15ce02;forest ^white;landing site is a hospitable location that supports a diversity of life - potentially including your own."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/displayWeathers/drizzle/displayName"
       ]
     },
@@ -224,6 +435,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/threatLevelText/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Extreme"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/jumpDialog/invalid"
       ]
     },
@@ -264,6 +486,17 @@
     "Texts": {
       "Eng": "Ferozium",
       "Rus": "Ферозий"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/ocean/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floating desert islands pepper the surface of this ^#008aff;ocean^white; planet. An environment of tropical ambiance and aesthetic."
     }
   },
   {
@@ -342,6 +575,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/threatLevelText/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inconceivable"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/displayOres/iron/displayName"
       ]
     },
@@ -366,12 +610,34 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/forest/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leafy trees abound in this ^#15ce02;forest ^white;location. The area is hospitable to life, my database indicates that you may encounter woodland creatures."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/displayWeathers/lightash/displayName"
       ]
     },
     "Texts": {
       "Eng": "Light Ashfall",
       "Rus": "Легкий пепельный дождь"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/threatLevelText/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Low"
     }
   },
   {
@@ -414,6 +680,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/threatLevelText/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Moderate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/gui/disabledLabel/value"
       ]
     },
@@ -432,6 +709,28 @@
     "Texts": {
       "Eng": "NEW BOOKMARK",
       "Rus": "НОВАЯ ЗАКЛАДКА"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/clusterMoons/none"
+      ]
+    },
+    "Texts": {
+      "Eng": "No orbiting bodies"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/clusterMoons/singular"
+      ]
+    },
+    "Texts": {
+      "Eng": "One orbiting body"
     }
   },
   {
@@ -510,6 +809,39 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/barren/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Readings indicate that the landing site is of unusual hue. Also, that it is a ^#999966;barren^white; location and would be suitable for construction."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/garden/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Readings indicate the landing site is not unfavourable - the area is safe, and lavish with both flora and fauna. A ^#76fe68;lush ^white;and hospitable place."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/threatLevelText/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Risky"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/gui/transitLabel/value"
       ]
     },
@@ -558,12 +890,34 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/desert/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sand. Readings indicate sand. Also some cacti... but predominantly sand. Given the available information I speculate that the landing site is situated in a ^#e6c801;desert^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/displayWeathers/sandstorm/displayName"
       ]
     },
     "Texts": {
       "Eng": "Sandstorms",
       "Rus": "Песчаные бури"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/midnight/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scans show that the surface is ^#e11212;dark^white;. In fact, scans show little else on account of all the darkness. However, I surmise that the surface is ^red;dangerously cold^white;."
     }
   },
   {
@@ -666,6 +1020,303 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/volcanic/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ^#e11212;volcanic^white; landing site is ^red;catastrophically hot^white;. If you wish, I can calculate your likelihood of immediately bursting into flame upon beam down..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/alien/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "The beam location is situated in a ^#7800ff;mutated^white; landscape. The ^red;high levels of radiation^white; create a noxious environment. I advise you to avoid swimming."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/scorchedcity/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The beam site is ^#b24301;scorched^white; and desolate. Little is capable of surviving here as the ^red;temperature is fatally high^white;. People live in the area, but I cannot fathom why."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/arctic/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The beam site is ^red;intensely cold^white;: a tiny island in a ^#00ffe4;frigid ocean^white;. There is a 0.025% chance you will mis-beam into the water, quickly succumbing to the awful chill."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/magma/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "The beam site is a tiny island isolated in a sea of ^#ff1818;magma^white;. That you would consider visiting this ^red;searingly hot^white; planet speaks volumes of your fortitude."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/garden/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The beam site is located in a tranquil area of great bio-diversity. There are resources here that you could use. A ^#76fe68;lush ^white;and pleasant land."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/volcanic/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "The beam site is situated in ^#e11212;volcanic^white; terrain and is ^red;exquisitely hot^white;. Your interest in this place certainly displays your dauntless tenacity."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/scorchedcity/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The landing location is a ^#b24301;scorched^white; wasteland. The atmospheric ^red;temperature is dangerously high^white;. It is impressively brave of you to consider this destination."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/snow/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The landing location is cold, but not perilously so. ^#69f1fd;Snow^white; covers the area and blizzards are a possibility. A hat and gloves may be advisable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/savannah/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "The landing location is located in an area of ^#ffe21d;dry grassland^white;. Trees and shrubs grow sparsely in the heat. A dusty place of wide, flat vistas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/scorchedcity/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "The landing site is ^#b24301;scorched^white; by the ^red;intense heat of the planet's surface^white;. Only a few hardy individuals remain, possibly out of pure habit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/jungle/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The landing site is in a dense ^#12a003;jungle^white;. A menagerie of astounding creatures live amongst the lush flora. It is a shame about the ^red;lethally high levels of radiation^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/savannah/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The landing site is situated in an area of ^#ffe21d;dry grassland ^white;that is hot and prone to dust storms. It is neither especially pleasant, nor especially dangerous."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/magma/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The planet surface is ^red;dangerously hot^white;. Few creatures eek out an existence amongst the planet's vast oceans of ^#ff1818;magma^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/desert/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "There is limited flora here, but the location does support life. There is also an abundance of sand. Simply put, it is a ^#e6c801;desert^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/moon/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ^#949493;moon^white; supports no life and has ^red;no atmosphere^white;. However, fuel is abundant here - scans indicate that there is a wealth of it buried below the surface. "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/midnight/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ^#e11212;dark^white; world is ^red;perilously cold^white;. Strange shadowy figures dwell here, hidden in the unremitting night."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/tundra/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ^red;dangerously cold.^white; landing site is ^#61ffe3;frozen^white; solid. High likelihood of accidental self-cryopreservation. Protect yourself from the cold."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/magma/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ^red;dangerously hot^white; planet is chiefly composed of ^#ff1818;magma^white;. Remember, your resilient spirit is admirable, but it is not flame retardant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/toxic/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ^red;highly radioactive^white; planet is a poisonous wilderness inhabited by irradiated lifeforms. It's luminescent surface is ^#06ff00;toxic^white;. An uninviting destination."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/savannah/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This area of ^#ffe21d;dry grassland ^white;is sparsely populated by trees. It is not excessively inhospitable - readings indicate that there is a hare bouncing around."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/snow/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This chilly landing site is laden with ^#69f1fd;snow^white;. Sundry trees grow here and various animals also thrive in the cold conditions. An excellent place to make snowballs."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/toxic/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is a ^#06ff00;toxic^white; planet replete with ^red;radiation^white;. The noxious oceans are lethally poisonous... May I remind you that other destinations are available."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/midnight/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is a ^#e11212;dark^white; world where the sun never rises. The surface is ^red;dangerously cold^white;. You should prepare yourself both mentally and physically before landing here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/alien/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is a somewhat risky landing site - ^red;radiation levels are extremely high^white;. However, the ^#7800ff;mutated^white; terrain could be described as darkly whimsical."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/barren/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This location is ^#999966;barren^white; and lifeless. Readings show there is nothing here. An empty, empty place."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/snow/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "This location is relatively chill, and ^#69f1fd;snow^white; lies thickly on the ground. My sensors indicate that there are critters scampering through the soft blanket of white."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/terraformedPlanetDescription/0"
       ]
     },
@@ -678,12 +1329,45 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/toxic/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This planet is ^#06ff00;toxic^white; - the air is putrefied and the oceans are poisonous. ^red;Radiation exceeds safe levels^white; by a factor of thousands."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/barren/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This planet is ^#999966;barren^white;, supporting no life of any kind. There is nothing here at all..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/terraformedPlanetDescription/2"
       ]
     },
     "Texts": {
       "Eng": "This planet's climate and ecosystems have been dramatically altered by terraforming.",
       "Rus": "Климат и экосистема планеты были очень сильно изменены терраформингом."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/moon/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "This vacant ^#949493;moon^white; has ^red;no breathable atmosphere^white;, but there are caverns below ground that contain vast fuel deposits. In summation: useful, but not enticing."
     }
   },
   {
@@ -748,6 +1432,28 @@
     "Texts": {
       "Eng": "UNMAPPED CELESTIAL OBJECTS UNAVAILABLE",
       "Rus": "НЕИССЛЕДОВАННЫЕ КОСМИЧЕСКИЕ ТЕЛА НЕДОСТУПНЫ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/threatLevelText/moon/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unknown"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/threatLevelText/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unreal"
     }
   },
   {
@@ -850,12 +1556,78 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/forest/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your beam site for this planet is located in a ^#15ce02;forest^white;. Readings indicate that this wooded area is relatively tranquil."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/garden/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#76fe68;Lush ^white;foothills mark this landing location. Both flora and fauna are abundant here. A beam site of immeasurable safety."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/gui/windowtitle/subtitle"
       ]
     },
     "Texts": {
       "Eng": "^#b9b5b2; Select your destination",
       "Rus": "^#b9b5b2;Выберите пункт назначения"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/volcanic/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#e11212;Volcanic^white; activity blights this planet and the beam site is in an area of particular virulence. The ^red;temperature is far beyond normally survivable levels^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/jungle/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;High levels of radiation^white; render this ^#12a003;jungle^white; location an extremely hostile environment and local fauna is similarly unwelcoming."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/tundra/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;Temperatures at the beam site are dangerously low^white;. The area is ^#61ffe3;frozen^white;, and inhabited only by flora and fauna that are extremely resistant to the cold. "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/arctic/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;Temperatures at the landing site are dangerously low.^white; You will be beaming onto a small island surrounded by ^#00ffe4;frigid ocean^white;. I strongly advise you to wear a scarf."
     }
   },
   {
