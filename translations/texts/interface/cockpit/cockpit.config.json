@@ -76,6 +76,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/topLeftButtonTooltips/showBookmarkList"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bookmarks"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/displayWeathers/ember/displayName"
       ]
     },
@@ -94,6 +105,17 @@
     "Texts": {
       "Eng": "Confirm FTL",
       "Rus": "Подтверждение прыжка"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/topLeftButtonTooltips/showCoordinates"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coordinates"
     }
   },
   {
@@ -683,6 +705,28 @@
     "Texts": {
       "Eng": "UNMAPPED CELESTIAL OBJECTS UNAVAILABLE",
       "Rus": "НЕИССЛЕДОВАННЫЕ КОСМИЧЕСКИЕ ТЕЛА НЕДОСТУПНЫ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/topLeftButtonTooltips/goToQuest"
+      ]
+    },
+    "Texts": {
+      "Eng": "View quest location"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/topLeftButtonTooltips/goToShip"
+      ]
+    },
+    "Texts": {
+      "Eng": "View ship"
     }
   },
   {
