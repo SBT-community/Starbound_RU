@@ -16,7 +16,9 @@
     "Files": {
       "interface/cockpit/cockpit.config": [
         "/gui/objectinfo/children/inner/children/bookmark/caption",
-        "/gui/planetinfo/children/inner/children/bookmark/caption"
+        "/gui/planetinfo/children/inner/children/bookmark/caption",
+        "/objectInfoBox/bookmarkButtonCaption/add",
+        "/planetInfoBox/bookmarkButtonCaption/add"
       ]
     },
     "Texts": {
@@ -82,6 +84,18 @@
     "Texts": {
       "Eng": "Bookmarks",
       "Rus": "Закладки"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/objectInfoBox/bookmarkButtonCaption/disabled",
+        "/planetInfoBox/bookmarkButtonCaption/disabled"
+      ]
+    },
+    "Texts": {
+      "Eng": "CANNOT BOOKMARK"
     }
   },
   {
@@ -196,12 +210,36 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/bookmarks/editTitle"
+        "/bookmarks/editTitle",
+        "/objectInfoBox/bookmarkButtonCaption/edit",
+        "/planetInfoBox/bookmarkButtonCaption/edit"
       ]
     },
     "Texts": {
       "Eng": "EDIT BOOKMARK",
       "Rus": "ИЗМЕНИТЬ ЗАКЛАДКУ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/jumpDialog/invalid"
+      ]
+    },
+    "Texts": {
+      "Eng": "FTL travel requires ^red;%i fuel^reset;.\n Not enough fuel to proceed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/jumpDialog/valid"
+      ]
+    },
+    "Texts": {
+      "Eng": "FTL travel will consume ^green;%i fuel^reset;.\nConfirm to proceed."
     }
   },
   {
@@ -688,8 +726,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/clusterInfoBox/viewButtonCaption/disabled",
         "/gui/clusterinfo/children/inner/children/view/caption",
-        "/gui/systeminfo/children/inner/children/view/caption"
+        "/gui/systeminfo/children/inner/children/view/caption",
+        "/objectInfoBox/bookmarkButtonCaption/unexplored",
+        "/systemInfoBox/viewButtonCaption/disabled"
       ]
     },
     "Texts": {
@@ -707,6 +748,18 @@
     "Texts": {
       "Eng": "UNMAPPED CELESTIAL OBJECTS UNAVAILABLE",
       "Rus": "НЕИССЛЕДОВАННЫЕ КОСМИЧЕСКИЕ ТЕЛА НЕДОСТУПНЫ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/clusterInfoBox/viewButtonCaption/enabled",
+        "/systemInfoBox/viewButtonCaption/enabled"
+      ]
+    },
+    "Texts": {
+      "Eng": "VIEW"
     }
   },
   {
