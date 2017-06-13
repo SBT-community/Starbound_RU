@@ -28,7 +28,7 @@ foi = {
   "weapon.config":["^[0-9]+/1/[0-9]+/(0|(1/)?name)$"],
   "monsters.config":["^[0-9]+/1/[0-9]+/(0|(1/)?name)$"],
   "hatadjectives.config":["^[0-9]+/1/[0-9]+/(0|(1/)?name)$"],
-  "cockpit.config": [".*/displayName$", "^topLeftButtonTooltips/.*"],
+  "cockpit.config": [".*/displayName$", "^topLeftButtonTooltips/.*", ".+Caption/[^/]+", "^jumpDialog/[^/]+$"],
   "statuses.config":["^statuses/.+$"],
   "help.config": ["^[a-z]+Commands/.+$"],
   "hunger.config": ["^.*$"],
