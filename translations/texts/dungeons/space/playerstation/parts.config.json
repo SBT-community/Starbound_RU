@@ -178,5 +178,225 @@
     "Texts": {
       "Eng": "An east-facing station entrance, suitable for landing mechs."
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/core/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Core"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/cornerNE/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Corner N-E"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/cornerNW/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Corner N-W"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/cornerSE/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Corner S-E"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/cornerSW/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Corner S-W"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/crosswayNESW/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cross Corner N-E & S-W"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/crosswayNWSE/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cross Corner N-W & S-E"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/cross/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cross Junction"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/passage/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Horizontal Corridor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/corehuge/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Large Core"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/passageglass/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Long Horizontal Corridor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/shaftglass/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Long Vertical Shaft"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/mechassembly/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mech Assembly Room"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/mechbayR/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mech Bay East"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/mechbayL/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mech Bay West"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/tjuncNSE/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "T Junction N-S-E"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/tjuncNSW/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "T Junction N-S-W"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/tjuncNWE/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "T Junction N-W-E"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/tjuncSWE/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "T Junction S-W-E"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/shaft/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vertical Shaft"
+    }
   }
 ]

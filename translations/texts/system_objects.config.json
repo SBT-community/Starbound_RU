@@ -14,6 +14,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "system_objects.config": [
+        "/spacestation_electronics/parameters/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Electronics Station"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "system_objects.config": [
         "/spacestation_food/parameters/description"
       ]
     },
@@ -25,11 +36,70 @@
     "DeniedAlternatives": [],
     "Files": {
       "system_objects.config": [
+        "/spacestation_food/parameters/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Food Distribution Station"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "system_objects.config": [
+        "/merchantastroship/parameters/displayName",
+        "/merchantindustrialship/parameters/displayName",
+        "/penguinship/parameters/displayName",
+        "/researchship/parameters/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly Ship"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "system_objects.config": [
         "/spacestation_weapons/parameters/description"
       ]
     },
     "Texts": {
       "Eng": "From classified government programs to mad penguin scientists, space is full of people making exciting new weaponry."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "system_objects.config": [
+        "/cultistship/parameters/displayName",
+        "/pirateship/parameters/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hostile Ship"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "system_objects.config": [
+        "/spacestation_medical/parameters/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Medical Research Station"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "system_objects.config": [
+        "/playerstation/parameters/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Personal Space Station"
     }
   },
   {
@@ -77,6 +147,17 @@
     },
     "Texts": {
       "Eng": "This station takes advantage of microgravity to manufacture a variety of delicate electronic components."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "system_objects.config": [
+        "/spacestation_weapons/parameters/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weapons Trade Station"
     }
   },
   {

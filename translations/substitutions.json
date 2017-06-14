@@ -26409,6 +26409,9 @@
   "stats/effects/thorns/thorns.statuseffect": {
     "/label": "texts/shared_thorns.json"
   },
+  "system_objects.config": {
+    "/anomaly/parameters/displayName": "texts/wide_spread_fields.json"
+  },
   "tiles/materials/alienrock.material": {
     "/description": "texts/materials/shared_alienrock.mat.json",
     "/floranDescription": "texts/materials/shared_alienrock.mat.json",
