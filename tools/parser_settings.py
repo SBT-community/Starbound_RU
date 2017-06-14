@@ -28,7 +28,7 @@ foi = {
   "monsters.config":["^[0-9]+/1/[0-9]+/(0|(1/)?name)$"],
   "hatadjectives.config":["^[0-9]+/1/[0-9]+/(0|(1/)?name)$"],
   "cockpit.config": [".*/displayName$", "^topLeftButtonTooltips/.*",
-    ".+Caption/[^/]+", "^jumpDialog/[^/]+$", "^[a-zA-Z]Names/[^/]+$",
+    ".+Caption/[^/]+", "^jumpDialog/[^/]+$", "^[a-zA-Z]+Names/[^/]+$",
     "^clusterMoons/[^/]+$", "^worldTypeDescription/.+$",
     "^visitableTypeDescription/.+$", "^terraformedPlanetDescription/.+$",
     "^threatLevelText/[a-zA-Z]+/[0-9]+$"],
