@@ -303,6 +303,36 @@
     }
   },
   {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/alien.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/alien"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien",
+      "Rus": "Инопланетный"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/arctic.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/arctic"
+      ]
+    },
+    "Texts": {
+      "Eng": "Arctic",
+      "Rus": "Арктический"
+    }
+  },
+  {
     "DeniedAlternatives": [
       "Астероидное поле",
       "Пояс астероидов "
@@ -318,6 +348,21 @@
     "Texts": {
       "Eng": "Asteroid Field",
       "Rus": "Поле астероидов"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/space/asteroids.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/asteroids"
+      ]
+    },
+    "Texts": {
+      "Eng": "Asteroids",
+      "Rus": "Астероиды"
     }
   },
   {
@@ -410,6 +455,21 @@
     }
   },
   {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/barren.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/barren"
+      ]
+    },
+    "Texts": {
+      "Eng": "Barren",
+      "Rus": "Бесплодный"
+    }
+  },
+  {
     "DeniedAlternatives": [
       "Кости!"
     ],
@@ -457,6 +517,21 @@
     "Texts": {
       "Eng": "Crystal Erchius Fuel",
       "Rus": "Кристаллы эркиевого топлива"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/desert.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/desert"
+      ]
+    },
+    "Texts": {
+      "Eng": "Desert",
+      "Rus": "Пустыня"
     }
   },
   {
@@ -512,6 +587,21 @@
     "Texts": {
       "Eng": "Dreadwing",
       "Rus": "Ужаснокрыл"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/forest.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/forest"
+      ]
+    },
+    "Texts": {
+      "Eng": "Forest",
+      "Rus": "Лес"
     }
   },
   {
@@ -752,6 +842,36 @@
     }
   },
   {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/jungle.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/jungle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jungle",
+      "Rus": "Джунгли"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/magma"
+      ],
+      "items/liquids/lava.liqitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lava",
+      "Rus": "Лава"
+    }
+  },
+  {
     "DeniedAlternatives": [
       "Манипулятор Материи"
     ],
@@ -862,6 +982,21 @@
     "Texts": {
       "Eng": "Sapling",
       "Rus": "Саженец"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/savannah.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/savannah"
+      ]
+    },
+    "Texts": {
+      "Eng": "Savannah",
+      "Rus": "Саванна"
     }
   },
   {
@@ -1173,6 +1308,51 @@
     "Texts": {
       "Eng": "Tool",
       "Rus": "Инструмент"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/toxic.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/toxic"
+      ]
+    },
+    "Texts": {
+      "Eng": "Toxic",
+      "Rus": "Токсичный"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/tundra.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/tundra"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tundra",
+      "Rus": "Тундра"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/volcanic.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/volcanic"
+      ]
+    },
+    "Texts": {
+      "Eng": "Volcanic",
+      "Rus": "Вулканический"
     }
   },
   {

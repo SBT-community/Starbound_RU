@@ -510,6 +510,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/starTypeNames/redstar"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fiery Star",
+      "Rus": "Огненная звезда"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/visitableTypeDescription/ocean/2"
       ]
     },
@@ -534,12 +546,47 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/starTypeNames/bluestar"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frozen Star",
+      "Rus": "Ледяная звезда"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/gui/coordinatesFrame/children/go/caption"
       ]
     },
     "Texts": {
       "Eng": "GO",
       "Rus": "ОК"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/ancientgateway"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gateway"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/starTypeNames/whitestar"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gentle Star",
+      "Rus": "Спокойная звезда"
     }
   },
   {
@@ -678,12 +725,45 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/moon"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lunar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/garden"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lush"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/gui/clusterinfo/children/inner/children/moons/value"
       ]
     },
     "Texts": {
       "Eng": "MANY MOONS",
       "Rus": "МНОГО ЛУН"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/midnight"
+      ]
+    },
+    "Texts": {
+      "Eng": "Midnight"
     }
   },
   {
@@ -708,6 +788,18 @@
     "Texts": {
       "Eng": "Moderate",
       "Rus": "Умеренный"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/starTypeNames/default"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mysterious Star",
+      "Rus": "Таинственная звезда"
     }
   },
   {
@@ -743,6 +835,17 @@
     },
     "Texts": {
       "Eng": "No orbiting bodies"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/ocean"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oceanic"
     }
   },
   {
@@ -814,6 +917,18 @@
     "Texts": {
       "Eng": "REQUIRES MECH TO DEPLOY",
       "Rus": "ДЛЯ ВЫСАДКИ ТРЕБУЕТСЯ МЕХ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/starTypeNames/yellowstar"
+      ]
+    },
+    "Texts": {
+      "Eng": "Radioactive Star",
+      "Rus": "Радиоактивная звезда"
     }
   },
   {
@@ -952,12 +1067,34 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/scorchedcity"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scorched"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/displayWeathers/meteorshower/displayName"
       ]
     },
     "Texts": {
       "Eng": "Small Meteorites",
       "Rus": "Малые метеориты"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/snow"
+      ]
+    },
+    "Texts": {
+      "Eng": "Snowy"
     }
   },
   {
@@ -1030,6 +1167,18 @@
     "Texts": {
       "Eng": "THIS IS A VERY NICE SPACE OBJECT",
       "Rus": ""
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/starTypeNames/orangestar"
+      ]
+    },
+    "Texts": {
+      "Eng": "Temperate Star",
+      "Rus": "Умеренная звезда"
     }
   },
   {

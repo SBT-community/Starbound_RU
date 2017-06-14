@@ -2,7 +2,28 @@
   "ai/missionpenguin1.aimission": {
     "/speciesText/default/buttonText": "texts/wide_spread_fields.json"
   },
+  "biomes/space/asteroids.biome": {
+    "/friendlyName": "texts/wide_spread_fields.json"
+  },
+  "biomes/surface/alien.biome": {
+    "/friendlyName": "texts/wide_spread_fields.json"
+  },
+  "biomes/surface/arctic.biome": {
+    "/friendlyName": "texts/wide_spread_fields.json"
+  },
   "biomes/surface/asteroidfield.biome": {
+    "/friendlyName": "texts/wide_spread_fields.json"
+  },
+  "biomes/surface/barren.biome": {
+    "/friendlyName": "texts/wide_spread_fields.json"
+  },
+  "biomes/surface/desert.biome": {
+    "/friendlyName": "texts/wide_spread_fields.json"
+  },
+  "biomes/surface/forest.biome": {
+    "/friendlyName": "texts/wide_spread_fields.json"
+  },
+  "biomes/surface/jungle.biome": {
     "/friendlyName": "texts/wide_spread_fields.json"
   },
   "biomes/surface/lunarbase.biome": {
@@ -11,7 +32,19 @@
   "biomes/surface/moon.biome": {
     "/friendlyName": "texts/biomes/surface/shared_.biome.json"
   },
+  "biomes/surface/savannah.biome": {
+    "/friendlyName": "texts/wide_spread_fields.json"
+  },
   "biomes/surface/snow.biome": {
+    "/friendlyName": "texts/wide_spread_fields.json"
+  },
+  "biomes/surface/toxic.biome": {
+    "/friendlyName": "texts/wide_spread_fields.json"
+  },
+  "biomes/surface/tundra.biome": {
+    "/friendlyName": "texts/wide_spread_fields.json"
+  },
+  "biomes/surface/volcanic.biome": {
     "/friendlyName": "texts/wide_spread_fields.json"
   },
   "biomes/surface_detached/geode.biome": {
@@ -1782,7 +1815,19 @@
     "/gui/editBookmarkFrame/children/remove/caption": "texts/interface/shared_.config.json",
     "/gui/editBookmarkFrame/children/title/value": "texts/interface/shared_.config.json",
     "/gui/jumpDialog/children/cancel/caption": "texts/interface.json",
-    "/gui/jumpDialog/children/jump/caption": "texts/interface/shared_.config.json"
+    "/gui/jumpDialog/children/jump/caption": "texts/interface/shared_.config.json",
+    "/planetTypeNames/alien": "texts/wide_spread_fields.json",
+    "/planetTypeNames/arctic": "texts/wide_spread_fields.json",
+    "/planetTypeNames/asteroids": "texts/wide_spread_fields.json",
+    "/planetTypeNames/barren": "texts/wide_spread_fields.json",
+    "/planetTypeNames/desert": "texts/wide_spread_fields.json",
+    "/planetTypeNames/forest": "texts/wide_spread_fields.json",
+    "/planetTypeNames/jungle": "texts/wide_spread_fields.json",
+    "/planetTypeNames/magma": "texts/wide_spread_fields.json",
+    "/planetTypeNames/savannah": "texts/wide_spread_fields.json",
+    "/planetTypeNames/toxic": "texts/wide_spread_fields.json",
+    "/planetTypeNames/tundra": "texts/wide_spread_fields.json",
+    "/planetTypeNames/volcanic": "texts/wide_spread_fields.json"
   },
   "interface/confirmation/hiremercenaryconfirmation.config": {
     "/title": "texts/interface/confirmation/shared_confirmation.config.json"
@@ -2842,6 +2887,9 @@
   },
   "items/generic/produce/boltbulb.consumable": {
     "/description": "texts/shared_boltbulb.json"
+  },
+  "items/liquids/lava.liqitem": {
+    "/shortdescription": "texts/wide_spread_fields.json"
   },
   "items/liquids/slime.liqitem": {
     "/shortdescription": "texts/wide_spread_fields.json"

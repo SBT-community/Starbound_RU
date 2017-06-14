@@ -25,20 +25,13 @@
         "obisidiancorelayer.biome.json": 1
       },
       "space": {
-        "asteroids.biome.json": 1,
         "barrenasteroids.biome.json": 1,
         "space.biome.json": 1
       },
       "surface": {
-        "alien.biome.json": 1,
-        "arctic.biome.json": 1,
         "arcticoceanfloor.biome.json": 1,
-        "barren.biome.json": 1,
-        "desert.biome.json": 1,
         "earth.biome.json": 1,
-        "forest.biome.json": 1,
         "garden.biome.json": 1,
-        "jungle.biome.json": 1,
         "magma.biome.json": 1,
         "magmaoceanfloor.biome.json": 1,
         "midnight.biome.json": 1,
@@ -46,15 +39,11 @@
         "oceanfloor.biome.json": 1,
         "oceanmission.biome.json": 1,
         "outpost.biome.json": 1,
-        "savannah.biome.json": 1,
         "scorched.biome.json": 1,
         "scorchedcity.biome.json": 1,
         "shared_.biome.json": 1,
         "tentacle.biome.json": 1,
-        "toxic.biome.json": 1,
         "toxicoceanfloor.biome.json": 1,
-        "tundra.biome.json": 1,
-        "volcanic.biome.json": 1,
         "volcanicterraform.biome.json": 1
       },
       "surface_detached": {
@@ -420,7 +409,7 @@
         "shared_.config.json": 2
       },
       "cockpit": {
-        "cockpit.config.json": 67
+        "cockpit.config.json": 139
       },
       "confirmation": {
         "hiremercenaryconfirmation.config.json": 2,
@@ -3467,7 +3456,7 @@
       },
       "liquids": {
         "healingwater.liqitem.json": 2,
-        "lava.liqitem.json": 2,
+        "lava.liqitem.json": 1,
         "liquidfuel.liqitem.json": 2,
         "milk.liqitem.json": 2,
         "oil.liqitem.json": 2,
@@ -13527,6 +13516,6 @@
       }
     },
     "universe_server.config.json": 2,
-    "wide_spread_fields.json": 52
+    "wide_spread_fields.json": 64
   }
 }
