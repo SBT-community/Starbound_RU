@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Celestial interference prevents a detailed scan, but there are anomalous energy readings here that warrant investigation."
+      "Eng": "Celestial interference prevents a detailed scan, but there are anomalous energy readings here that warrant investigation.",
+      "Rus": "Астрономические помехи препятствуют детальному сканированию, но здесь присуствуют аномальные показания энергии, которые нужно исследовать."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Electronics Station"
+      "Eng": "Electronics Station",
+      "Rus": "Станция электроники"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Even in the vastness of space, people still gotta eat. This station produces and distributes foodstuffs to suit various alien tastes."
+      "Eng": "Even in the vastness of space, people still gotta eat. This station produces and distributes foodstuffs to suit various alien tastes.",
+      "Rus": "Даже в просторах космоса люди все еще должны питаться. Эта станция производит и распространяет продукты питания в соответствии с различными вкусами."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Food Distribution Station"
+      "Eng": "Food Distribution Station",
+      "Rus": "Станция распределения пищи"
     }
   },
   {
@@ -54,7 +58,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Friendly Ship"
+      "Eng": "Friendly Ship",
+      "Rus": "Дружеский корабль"
     }
   },
   {
@@ -65,7 +70,8 @@
       ]
     },
     "Texts": {
-      "Eng": "From classified government programs to mad penguin scientists, space is full of people making exciting new weaponry."
+      "Eng": "From classified government programs to mad penguin scientists, space is full of people making exciting new weaponry.",
+      "Rus": "От секретных правительственных программ до безумных ученых-пингвинов в космосе полно людей, создающих захватывающее новое оружие."
     }
   },
   {
@@ -77,7 +83,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hostile Ship"
+      "Eng": "Hostile Ship",
+      "Rus": "Враждебное судно"
     }
   },
   {
@@ -88,7 +95,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Medical Research Station"
+      "Eng": "Medical Research Station",
+      "Rus": "Станция медицинских исследований"
     }
   },
   {
@@ -99,7 +107,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Personal Space Station"
+      "Eng": "Personal Space Station",
+      "Rus": "Персональная космическая станция"
     }
   },
   {
@@ -110,7 +119,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Researchers in this station study the effects of microgravity on physiology in order to develop novel medicines."
+      "Eng": "Researchers in this station study the effects of microgravity on physiology in order to develop novel medicines.",
+      "Rus": "Исследователи на этой станции изучают влияние микрогравитации на физиологию, чтобы разработать новые медикаменты."
     }
   },
   {
@@ -121,11 +131,14 @@
       ]
     },
     "Texts": {
-      "Eng": "This personal space station was deployed by a fellow adventurer. They probably have good stuff to steal."
+      "Eng": "This personal space station was deployed by a fellow adventurer. They probably have good stuff to steal.",
+      "Rus": "Эта персональная космическая станция была развернута другим путешественником. Может здесь есть хорошие вещи для кражи."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Этот корабль признает наши связи и его капитан сердечно приглашает нанести визит."
+    ],
     "Files": {
       "system_objects.config": [
         "/merchantastroship/parameters/description",
@@ -135,7 +148,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This ship acknowledges our communications and her captain cordially invites us to pay a visit."
+      "Eng": "This ship acknowledges our communications and her captain cordially invites us to pay a visit.",
+      "Rus": "Этот корабль признает нас и его капитан сердечно приглашает нанести визит."
     }
   },
   {
@@ -146,7 +160,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This station takes advantage of microgravity to manufacture a variety of delicate electronic components."
+      "Eng": "This station takes advantage of microgravity to manufacture a variety of delicate electronic components.",
+      "Rus": "Эта станция использует микрогравитацию для производства разнообразных хрупких электронных компонентов."
     }
   },
   {
@@ -157,7 +172,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Weapons Trade Station"
+      "Eng": "Weapons Trade Station",
+      "Rus": "Станция торговли оружием"
     }
   },
   {
@@ -169,7 +185,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Whoever's flying this ship, we shouldn't get close without being prepared for a fight."
+      "Eng": "Whoever's flying this ship, we shouldn't get close without being prepared for a fight.",
+      "Rus": "Кто бы то ни летел на этом корабле, мы не должны приближаться к нему, не подготовясь к битве."
     }
   }
 ]
