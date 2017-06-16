@@ -1,13 +1,16 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Электродубинка"
+    ],
     "Files": {
       "items/active/weapons/other/electrobaton/electrobaton.activeitem": [
         "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Electro Baton"
+      "Eng": "Electro Baton",
+      "Rus": "Электрошоковая дубинка"
     }
   },
   {
@@ -18,7 +21,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Electro Baton ^yellow;^reset;"
+      "Eng": "Electro Baton ^yellow;^reset;",
+      "Rus": "Электрошоковая дубинка ^yellow;^reset;"
     }
   },
   {
@@ -29,7 +33,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Originally developed for Miniknog riot police. It's shockingly effective."
+      "Eng": "Originally developed for Miniknog riot police. It's shockingly effective.",
+      "Rus": "Первоначально разработан для полиции Министерства. Шокирующе эффективен."
     }
   }
 ]
