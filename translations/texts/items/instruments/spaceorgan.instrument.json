@@ -7,18 +7,22 @@
       ]
     },
     "Texts": {
-      "Eng": "Far out, man."
+      "Eng": "Far out, man.",
+      "Rus": ""
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Космический синтезатор"
+    ],
     "Files": {
       "items/instruments/spaceorgan.instrument": [
         "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Space Synth"
+      "Eng": "Space Synth",
+      "Rus": "Космосинтезатор"
     }
   }
 ]
