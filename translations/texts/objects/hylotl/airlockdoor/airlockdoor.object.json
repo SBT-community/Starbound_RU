@@ -39,18 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/airlockdoor/airlockdoor.object": [
-        "/shortdescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Airlock Door",
-      "Rus": "Дверь шлюза"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/airlockdoor/airlockdoor.object": [
         "/avianDescription"
       ]
     },
@@ -69,6 +57,18 @@
     "Texts": {
       "Eng": "Fishman build big sturdy doors! Not bad, Fishman... Not bad...",
       "Rus": "Рыболюди ссстроят большие прочные двери! Неплохо, рыболюди, неплохо..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/airlockdoor/airlockdoor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pressurised Airlock Door",
+      "Rus": "Дверь шлюза"
     }
   },
   {

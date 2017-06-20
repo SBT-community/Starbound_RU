@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/playerstationconsole/playerstationconsolegui.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " Control your station's systems",
+      "Rus": " Управляй системами своей станции"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/playerstationconsole/playerstationconsolegui.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Station Console",
+      "Rus": " Пульт станции"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/playerstationconsole/playerstationconsolegui.config": [
+        "/gui/lblGravity/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "GRAVITY",
+      "Rus": "ГРАВИТАЦИЯ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/playerstationconsole/playerstationconsolegui.config": [
+        "/gui/lblHideExpansionSlots/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "HIDE EXPANSION SLOTS",
+      "Rus": "СКРЫТЬ СЛОТЫ РАСШИРЕНИЯ"
+    }
+  }
+]

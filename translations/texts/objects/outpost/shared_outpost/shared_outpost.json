@@ -1,0 +1,110 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostairlock/outpostairlock.object": [
+        "/hylotlDescription"
+      ],
+      "objects/outpost/outpostairlocklarge/outpostairlocklarge.object": [
+        "/hylotlDescription"
+      ],
+      "objects/outpost/outposthatchlarge/outposthatchlarge.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic airlock.",
+      "Rus": "Обычный шлюз."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostairlock/outpostairlock.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/outpost/outpostairlocklarge/outpostairlocklarge.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/outpost/outposthatchlarge/outposthatchlarge.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy airlock.",
+      "Rus": "Прочный шлюз."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostairlock/outpostairlock.object": [
+        "/humanDescription"
+      ],
+      "objects/outpost/outpostairlocklarge/outpostairlocklarge.object": [
+        "/humanDescription"
+      ],
+      "objects/outpost/outposthatchlarge/outposthatchlarge.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An airlock. Useful!",
+      "Rus": "Шлюз. Полезная штука!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostairlock/outpostairlock.object": [
+        "/floranDescription"
+      ],
+      "objects/outpost/outpostairlocklarge/outpostairlocklarge.object": [
+        "/floranDescription"
+      ],
+      "objects/outpost/outposthatchlarge/outposthatchlarge.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It'ss an airlock.",
+      "Rus": "Это шшшлюз."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostairlock/outpostairlock.object": [
+        "/novakidDescription"
+      ],
+      "objects/outpost/outpostairlocklarge/outpostairlocklarge.object": [
+        "/novakidDescription"
+      ],
+      "objects/outpost/outposthatchlarge/outposthatchlarge.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks like a airlock.",
+      "Rus": "Похоже на шлюз."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostairlock/outpostairlock.object": [
+        "/description"
+      ],
+      "objects/outpost/outpostairlocklarge/outpostairlocklarge.object": [
+        "/description"
+      ],
+      "objects/outpost/outposthatchlarge/outposthatchlarge.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This automated door is made of some sort of bulletproof material.",
+      "Rus": "Эта автоматическая дверь сделана из какого-то пуленепробиваемого материала."
+    }
+  }
+]

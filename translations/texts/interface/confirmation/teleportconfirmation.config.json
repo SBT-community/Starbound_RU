@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/confirmation/teleportconfirmation.config": [
+        "/mechunlock/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "\n\nAre you ready for me to deploy you to my ^orange;mech test course^white;? I built it in an abandoned freighter I stumbled upon.",
+      "Rus": "Вы уверены, что готовы отправиться на ^orange; курс испытание Меха^white;? Оно будет проходить на заброшенном грузовом судне, которое я подготовил."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
         "/penguinmission1/message"
       ]
     },
@@ -15,11 +27,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/confirmation/teleportconfirmation.config": [
+        "/mechupgrade2/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "\n\nAre you ready for me to send you to my ^orange;advanced mech test course^white;? \n^red;You might want to assemble a strong enough mech before you go.",
+      "Rus": "Вы готовы отправится на ^orange;продвинутый курс испытаний Меха^white;?^red;Вам понадобится достаточно мощный Мех."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
         "/penguinmission2/message"
       ]
     },
     "Texts": {
-      "Eng": "\n\nAre you ready for me to send you to the Penguin Arms Testing Site to fight the Shockhopper MK I?\n^red;You'll want to have very good equipment for this.",
+      "Eng": "\n\nAre you ready for me to send you to my ^orange;arms testing site^white; to fight my Shockhopper MK I?\n^red;You'll want to have very good equipment for this.",
       "Rus": "\n\nВы уверены, что готовы отправиться на Полигон для Испытаний Пингвиньего Вооружения, чтобы сразиться с Shockhopper MK I?\n^red;Вам стоит хорошо подготовиться."
     }
   },
@@ -71,6 +95,18 @@
     "Texts": {
       "Eng": "\n\nAre you sure you're ready to enter the arena against the trio of Gladiators? Once inside the only escape is victory.",
       "Rus": "\n\nВы уверены, что готовы сразиться на арене против троих Гладиаторов? Единственной возможностью вернуться станет победа над ними."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/mechupgrade2/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Advanced Mech Test Course",
+      "Rus": "Продвинутый курс испытаний Меха"
     }
   },
   {
@@ -149,6 +185,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/confirmation/teleportconfirmation.config": [
+        "/mechunlock/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mech Test Course",
+      "Rus": "Курс испытаний Меха"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
         "/penguinmission2/subtitle"
       ]
     },
@@ -176,6 +224,8 @@
         "/arena1/title",
         "/arena2/title",
         "/arena3/title",
+        "/mechunlock/title",
+        "/mechupgrade2/title",
         "/penguinmission1/title",
         "/penguinmission2/title",
         "/techscientist_dash/title",

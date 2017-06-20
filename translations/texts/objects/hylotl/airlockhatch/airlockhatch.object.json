@@ -39,18 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/airlockhatch/airlockhatch.object": [
-        "/shortdescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Airlock Hatch",
-      "Rus": "Люк шлюза"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/airlockhatch/airlockhatch.object": [
         "/avianDescription"
       ]
     },
@@ -69,6 +57,18 @@
     "Texts": {
       "Eng": "Fishman build big sturdy hatchesss! Not bad, Fishman... Not bad...",
       "Rus": "Рыболюди ссстроят большие прочные люки! Неплохо, рыболюди, неплохо..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/airlockhatch/airlockhatch.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pressurised Airlock Hatch",
+      "Rus": "Люк шлюза"
     }
   },
   {

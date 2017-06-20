@@ -13,5 +13,20 @@
       "Eng": "Beam Down",
       "Rus": "Высадка"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/cursorTooltip/deployText"
+      ],
+      "interface/warping/shipteleporter.config": [
+        "/destinations/1/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Deploy Mech",
+      "Rus": "Высадка в Мехе"
+    }
   }
 ]

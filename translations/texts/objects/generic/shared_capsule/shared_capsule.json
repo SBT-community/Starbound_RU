@@ -10,6 +10,9 @@
       ],
       "objects/generic/capsulesmall/capsulesmall.object": [
         "/avianDescription"
+      ],
+      "objects/generic/capsulespace/capsulespace.object": [
+        "/avianDescription"
       ]
     },
     "Texts": {
@@ -27,10 +30,28 @@
       ],
       "objects/generic/capsulesmall/capsulesmall.object": [
         "/apexDescription"
+      ],
+      "objects/generic/capsulespace/capsulespace.object": [
+        "/apexDescription"
       ]
     },
     "Texts": {
       "Eng": "A capsule. These often contain supplies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/capsulebig/capsulebig.object": [
+        "/description"
+      ],
+      "objects/generic/capsulespace/capsulespace.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large breakable capsule. Wonder what's inside.",
+      "Rus": "Большая, но хрупкая капсула. Интересно, что внутри?"
     }
   },
   {
@@ -43,6 +64,9 @@
         "/glitchDescription/glitchEmotedText"
       ],
       "objects/generic/capsulesmall/capsulesmall.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/generic/capsulespace/capsulespace.object": [
         "/glitchDescription/glitchEmotedText"
       ]
     },
@@ -60,6 +84,9 @@
         "/novakidDescription"
       ],
       "objects/generic/capsulesmall/capsulesmall.object": [
+        "/novakidDescription"
+      ],
+      "objects/generic/capsulespace/capsulespace.object": [
         "/novakidDescription"
       ]
     },

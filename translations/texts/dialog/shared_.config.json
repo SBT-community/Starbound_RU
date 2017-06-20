@@ -143,6 +143,23 @@
     }
   },
   {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/shipcrew.config": [
+        "/converse/floran/default/2",
+        "/converse/floran/floran/4"
+      ],
+      "dialog/spaceconverse.config": [
+        "/converse/floran/default/3",
+        "/converse/floran/floran/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran doesssn't get to hunt much in ssspace. Sssad.",
+      "Rus": "Флоран не оссобо сссможет охотиться в космосе. Груссстно."
+    }
+  },
+  {
     "DeniedAlternatives": [
       "Флоран припас это тебе, чтобы ссказать спасибо."
     ],

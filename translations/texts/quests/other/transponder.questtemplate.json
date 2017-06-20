@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/other/transponder.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here is your very own ^orange;Station Transponder^white;! ^green;Use it on your ship^white; to deploy a space station in your local solar system!",
+      "Rus": "Теперь у тебя есть собственный ^orange;транспондер станции^white;! ^green;Используй его на своем корабле^wihte; для развертывания космической станции на орбите звезды!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/other/transponder.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Would you like to deploy your very own space station? I can craft for you your very own ^orange;Station Transponder^white;, and all it will take is some resources! \nSimply ^green;bring 50 ^orange;Titanium Bars^white;, ^green;50 ^orange;Gold Bars^white;, ^green;50 ^orange;Silver Bars^white; and ^green;1000^orange; pixels ^green;to me or any other Transponder vendor^white;!",
+      "Rus": "Хочешь ли ты развернуть свою собственную космическую станцию? Я могу сделать для тебя ^orange;транспондер станции^white;, но потребуется несколько ресурсов! Просто ^green;принеси мне или любому другому поставщику транспондеров 50 ^orange;титановых слитков^white;, ^green;50 ^orange;золотых слитков^white;, ^green;50 ^orange;серебряных слитков^white; и ^green;1000^orange; пикселей^white;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/other/transponder.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Your Very Own Space Station",
+      "Rus": "^orange;Твоя собственная космическая станция"
+    }
+  }
+]

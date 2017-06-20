@@ -1,0 +1,160 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Mech Assembly Station",
+      "Rus": "Станция сборки меха"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  ^#b9b5b2;Equip and customise your personal mech!",
+      "Rus": "  ^#b9b5b2;Снарядите и настройте своего меха!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/gui/lblSlot_body/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Body",
+      "Rus": "Корпус"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/gui/lblSlot_booster/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Booster",
+      "Rus": "Ускорители"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/gui/lblPrimaryColor/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Colour 1",
+      "Rus": "Цвет 1"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/gui/lblSecondaryColor/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Colour 2",
+      "Rus": "Цвета 2"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Клаксон"
+    ],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/gui/lblSlot_horn/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Horn",
+      "Rus": "Гудок"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/gui/lblSlot_leftArm/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "L Arm",
+      "Rus": "Л.Рука"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/gui/lblSlot_legs/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Legs",
+      "Rus": "Ноги"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/gui/lblSlot_rightArm/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "R Arm",
+      "Rus": "П.Рука"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/completeText"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Ready to Deploy!",
+      "Rus": "^cyan;Готов к высадке!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/incompleteText"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;Configuration Incomplete",
+      "Rus": "^red;Настройка неполная"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/disabledText"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;Unauthorized User",
+      "Rus": "^red;Несанкционированный пользователь"
+    }
+  }
+]

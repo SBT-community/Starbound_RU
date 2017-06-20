@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/instruments/spaceorgan.instrument": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Far out, man.",
+      "Rus": ""
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Космический синтезатор"
+    ],
+    "Files": {
+      "items/instruments/spaceorgan.instrument": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Space Synth",
+      "Rus": "Космосинтезатор"
+    }
+  }
+]

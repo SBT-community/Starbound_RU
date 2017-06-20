@@ -3,18 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkerbigpanel/bunkerbigpanel.object": [
-        "/humanDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "A bunch of arcane readouts flicker on the monitor. I'm sure someone could understand them... but not me.",
-      "Rus": "Скопление таинственных индикаторов мерцает на мониторе. Я уверен, что кого-нибудь они заинтересовали... но только не меня."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/bunkerbigpanel/bunkerbigpanel.object": [
         "/avianDescription"
       ]
     },
@@ -43,8 +31,7 @@
       ]
     },
     "Texts": {
-      "Eng": "According to these monitors, the water in this area is fresh.",
-      "Rus": "В соответствии с этими мониторами, вода в данной области чистая."
+      "Eng": "According to these monitors, the local star is not in danger of collapsing just yet."
     }
   },
   {
@@ -91,8 +78,18 @@
       ]
     },
     "Texts": {
-      "Eng": "The readouts suggest this area is inhabitable for humans.",
-      "Rus": "Показания говорят, что эта область пригодна для жизни людей."
+      "Eng": "The readings on this monitor indicate they involve the nearest star."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerbigpanel/bunkerbigpanel.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This middle screen here seems to be analysing the local star. Hint: It's very hot."
     }
   },
   {

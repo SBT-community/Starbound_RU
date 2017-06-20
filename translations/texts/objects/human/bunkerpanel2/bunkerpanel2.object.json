@@ -3,22 +3,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkerpanel2/bunkerpanel2.object": [
-        "/apexDescription"
+        "/humanDescription"
       ]
     },
     "Texts": {
-      "Eng": "A human with two hearts. Who could have such biology?"
+      "Eng": "A digital medical scan! It's all blue, because blue is the default colour of scientific technology."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkerpanel2/bunkerpanel2.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/hylotlDescription"
       ]
     },
     "Texts": {
-      "Eng": "A human with two hearts? In Glitch culture, one with such a manufacturing error would be exterminated."
+      "Eng": "A medical scan - judging by the images, it wasn't of a Hylotl."
     }
   },
   {
@@ -29,7 +29,7 @@
       ]
     },
     "Texts": {
-      "Eng": "A patient with two hearts. Perhaps humans are evolving."
+      "Eng": "A scan of what appears to be medical data."
     }
   },
   {
@@ -40,7 +40,7 @@
       ]
     },
     "Texts": {
-      "Eng": "From the looks of it, this patient had two hearts. That just ain't right."
+      "Eng": "I wonder what this information was bein' used for?"
     }
   },
   {
@@ -51,7 +51,7 @@
       ]
     },
     "Texts": {
-      "Eng": "It's a patient file. He appears to be human, but... with two hearts?"
+      "Eng": "It's a screen displaying an old medical scan."
     }
   },
   {
@@ -73,29 +73,29 @@
       ]
     },
     "Texts": {
-      "Eng": "This human has two heartsss... how greedy!"
+      "Eng": "Screen showsss flesh perssson. Floran wondersss if perssson is trapped inssside."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkerpanel2/bunkerpanel2.object": [
-        "/humanDescription"
+        "/glitchDescription/glitchEmotedText"
       ]
     },
     "Texts": {
-      "Eng": "This person has two hearts! I wonder if I have two hearts. I have a lot of love to give."
+      "Eng": "This appears to be a full-body medical scan. I wonder what was wrong with them?"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkerpanel2/bunkerpanel2.object": [
-        "/hylotlDescription"
+        "/apexDescription"
       ]
     },
     "Texts": {
-      "Eng": "Two hearts in one body. It's no wonder this person had to see a doctor."
+      "Eng": "This screen appears to display a medical diagnostic."
     }
   }
 ]

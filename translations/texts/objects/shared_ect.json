@@ -10,6 +10,9 @@
       ],
       "objects/protectorate/objects/protectoratelobbyvending/protectoratelobbyvending.object": [
         "/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ],
+      "objects/space/stationvendingmachine/stationvendingmachine.object": [
+        "/interactData/paneLayoutOverride/windowtitle/subtitle"
       ]
     },
     "Texts": {
@@ -79,6 +82,10 @@
         "/avianDescription"
       ],
       "objects/outpost/outpostairlocklarge/outpostairlocklarge.object": [
+        "/apexDescription",
+        "/avianDescription"
+      ],
+      "objects/outpost/outposthatchlarge/outposthatchlarge.object": [
         "/apexDescription",
         "/avianDescription"
       ],

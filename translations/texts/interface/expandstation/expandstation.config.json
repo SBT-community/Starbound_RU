@@ -1,0 +1,135 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/expandstation/expandstation.config": [
+        "/warningMessages/blocking"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blocks existing part",
+      "Rus": "Блокирует существующий модуль"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/expandstation/expandstation.config": [
+        "/warningMessages/invalid"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can't connect to existing part",
+      "Rus": ""
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/expandstation/expandstation.config": [
+        "/gui/selectedDescription/value",
+        "/gui/warning/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "No part selected",
+      "Rus": "Не выбран модуль"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/expandstation/expandstation.config": [
+        "/warningMessages/unplaceable"
+      ]
+    },
+    "Texts": {
+      "Eng": "No valid anchor",
+      "Rus": "Нет перехода между модулями"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/expandstation/expandstation.config": [
+        "/warningMessages/uncraftable"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not enough materials",
+      "Rus": "Недостаточно материалов"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/expandstation/expandstation.config": [
+        "/warningMessages/overlap"
+      ]
+    },
+    "Texts": {
+      "Eng": "Overlaps existing part",
+      "Rus": "Перекрытие существующего модуля"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/expandstation/expandstation.config": [
+        "/warningMessages/blocked"
+      ]
+    },
+    "Texts": {
+      "Eng": "Part blocked by entity",
+      "Rus": "Модуль блокировуется объектом"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/expandstation/expandstation.config": [
+        "/warningMessages/range"
+      ]
+    },
+    "Texts": {
+      "Eng": "Part outside station range",
+      "Rus": "Модуль вне зоны станции"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/expandstation/expandstation.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Station Expansion Slot",
+      "Rus": "Слот расширения станции"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/expandstation/expandstation.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;Expand your station",
+      "Rus": "^#b9b5b2;Расширьте вашу станцию"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/expandstation/expandstation.config": [
+        "/gui/placeButton/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "place",
+      "Rus": "разместить"
+    }
+  }
+]

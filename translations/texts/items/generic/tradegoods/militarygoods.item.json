@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/tradegoods/militarygoods.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sealed crate of weapon components, valuable for interstellar trade.",
+      "Rus": "Запечатанный ящик компонентов оружия, ценный для межзвездной торговли."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/tradegoods/militarygoods.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weapon Parts",
+      "Rus": "Оружейные компоненты"
+    }
+  }
+]

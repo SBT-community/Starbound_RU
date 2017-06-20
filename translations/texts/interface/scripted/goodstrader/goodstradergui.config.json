@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/goodstrader/goodstradergui.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Goods Trader",
+      "Rus": "Торговец товарами"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/goodstrader/goodstradergui.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " Trade goods between stations for profit",
+      "Rus": "Торгуйте разными товарами между станциями для прибыли"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/goodstrader/goodstradergui.config": [
+        "/gui/btnSell/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "SELL",
+      "Rus": "ПРОДАТЬ"
+    }
+  }
+]

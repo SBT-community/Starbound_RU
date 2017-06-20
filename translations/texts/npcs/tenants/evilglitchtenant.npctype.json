@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/evilglitchtenant.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have a lot of inner rage, that I am eager to express with my axe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/evilglitchtenant.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I haven't disconnected some heads for some time."
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/tradegoods/electronicgoods.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sealed crate of electronic components, valuable for interstellar trade.",
+      "Rus": "Запечатанный ящик электронных компонентов, ценный для межзвездной торговли."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/tradegoods/electronicgoods.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Electronic Parts",
+      "Rus": "Электронные компоненты"
+    }
+  }
+]

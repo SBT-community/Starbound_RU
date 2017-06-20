@@ -8,7 +8,7 @@
     },
     "Texts": {
       "Eng": "A magestic gate like nothing I've encountered before. Who created this wonder? And what's on the other side?",
-      "Rus": "Величественные врата, которых я никогда раньше не видел. Кто создал это чудо? И что по другую сторону?"
+      "Rus": "Величественные врата не похожи ни на что из виденного мною ранее. Кто создал это чудо? И что по другую сторону?"
     }
   },
   {
@@ -93,11 +93,13 @@
     },
     "Texts": {
       "Eng": "This is a gate of breathtaking proportion. Who built it? And where does it lead?",
-      "Rus": "Эти врата - зрелище захватывающее дух. Кто построил их? И куда они ведут?"
+      "Rus": "Размеры этих врат захватывают дух. Кто построил их? И куда они ведут?"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Сказать что это удивительно, это ничего не сказать. Эти врата должно быть построили для очень специфической цели..."
+    ],
     "Files": {
       "objects/ancient/monolithgate/monolithgate.object": [
         "/hylotlDescription"
@@ -105,7 +107,7 @@
     },
     "Texts": {
       "Eng": "This is nothing short of a magnificent creation. This gate must have been constructed for a very special purpose.",
-      "Rus": "Сказать что это удивительно, это ничего не сказать. Эти врата должно быть построили для очень специфической цели..."
+      "Rus": "Это величественное творение. Эти врата, должно быть, были построены для какой-то особой цели."
     }
   }
 ]

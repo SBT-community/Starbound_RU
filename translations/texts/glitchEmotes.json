@@ -557,6 +557,9 @@
       "objects/outpost/techlab/techlabhologram.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/space/lunarlander/lunarlander.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/themed/astronaut/jupitermodel/jupitermodel.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -642,6 +645,10 @@
       "dialog/quest.config": [
         "/barter/trade/glitch/default/0/glitchEmote",
         "/kill_npcs/assistantIntro/glitch/default/0/glitchEmote"
+      ],
+      "dialog/spaceconverse.config": [
+        "/converse/glitch/default/4/glitchEmote",
+        "/converse/glitch/glitch/5/glitchEmote"
       ],
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/unfollow/glitch/default/2/glitchEmote"
@@ -790,6 +797,9 @@
       "objects/outpost/penguinbay/penguinbay.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/space/astroserver/astroserver.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/themed/sea/seachair/seachair.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -856,6 +866,9 @@
       "objects/ship/boosters/bigboosterflame/bigboosterflamehuman.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/ship/boosters/bigboosterflame/encounterbigboosterflame.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/ship/boosters/boosterflame/boosterflame.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -877,7 +890,19 @@
       "objects/ship/boosters/boosterflame/boosterflamenovakid.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/ship/boosters/boosterflame/encounterboosterflame.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/ship/boosters/boosterflamehuman/boosterflamehuman.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/boosters/boosterflamehuman/encounterboosterflamehuman.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/boosters/smallboosterflame/encountersmallboosterflame.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/boosters/smallboosterflame/encountersmallboosterflame2.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/ship/boosters/smallboosterflame/smallboosterflame.object": [
@@ -949,6 +974,9 @@
       "objects/apex/classicglass/classicglass.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/apex/classicmug/classicmug.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/arttrophies/glitchianman/glitchianman.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -965,6 +993,12 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/mission/deathwarningmodern/deathwarningmodern.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/industrialbed/industrialbed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/industriallight/industriallight.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/teleporter/arkteleporter/arkteleporter.object": [
@@ -1239,7 +1273,16 @@
       "objects/outpost/outpostairlocklarge/outpostairlocklarge.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/outpost/outpostairlocklarge/outpostrailairlock.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/outpost/outpostchair/outpostchair.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/outpost/outposthatchlarge/outposthatchlarge.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/outpost/outposthatchlarge/outpostrailhatch.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/protectorate/objects/protectoratehologlobe/protectoratehologlobe.object": [
@@ -1493,6 +1536,9 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/plantorb/plantorb.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/generic/mechassemblystation/mechassemblystation.object": [
         "/glitchDescription/glitchEmote"
       ]
     },
@@ -1815,6 +1861,10 @@
         "/converse/glitch/generic/22/glitchEmote",
         "/converse/glitch/generic/71/glitchEmote",
         "/converse/glitch/glitch/8/glitchEmote"
+      ],
+      "dialog/shipcrew.config": [
+        "/converse/glitch/default/1/glitchEmote",
+        "/converse/glitch/glitch/3/glitchEmote"
       ],
       "npcs/biome/foundryguard.npctype": [
         "/scriptConfig/dialog/converse/glitch/default/2/glitchEmote"
@@ -2698,6 +2748,10 @@
       "dialog/quest.config": [
         "/bribe/giftAccepted2/glitch/default/1/glitchEmote"
       ],
+      "dialog/spaceconverse.config": [
+        "/converse/glitch/default/6/glitchEmote",
+        "/converse/glitch/glitch/7/glitchEmote"
+      ],
       "items/materials/rustyrail.matitem": [
         "/glitchdescription/glitchEmote"
       ],
@@ -2927,6 +2981,9 @@
       "objects/floran/plantvolcano5/plantvolcano5.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/generic/shootingtarget/shootingtarget.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "quests/generated/templates/collect_gift.questtemplate": [
         "/scriptConfig/generatedText/text/first/glitch/1/glitchEmote"
       ],
@@ -3127,6 +3184,12 @@
       "objects/holiday/wazlights/wazlights.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/human/bunkerpanel1/bunkerpanel1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/hylotl/beautifulattempt/beautifulattempt.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/hylotl/hylotlsign1b/hylotlsign1b.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -3158,6 +3221,15 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/protectorate/objects/protectoratesmokeprimer/protectoratesmokeprimer.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/astrowallpanel/astrowallpanel.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/stationpylon/stationpylon.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/stationwallpanel/stationwallpanel.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/themed/cabin/cabinlamp/cabinlamp.object": [
@@ -3571,6 +3643,12 @@
       ],
       "dialog/quest.config": [
         "/bribe/giftAccepted2/glitch/default/0/glitchEmote"
+      ],
+      "dialog/spaceconverse.config": [
+        "/converse/glitch/default/5/glitchEmote",
+        "/converse/glitch/default/8/glitchEmote",
+        "/converse/glitch/glitch/6/glitchEmote",
+        "/converse/glitch/glitch/9/glitchEmote"
       ],
       "items/materials/ash.matitem": [
         "/glitchdescription/glitchEmote"
@@ -4016,6 +4094,9 @@
       "objects/hylotl/hylotlsign3g/hylotlsign3g.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/hylotl/letheiasign/letheiasign.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/hylotl/neonhylotlhead/neonhylotlhead.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -4071,6 +4152,24 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/ship/floranshiplocker/floranshiplocker.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/astrolight/astrolight.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/astrostoragelocker/astrostoragelocker.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/spaceslideshow/spaceslideshow.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/stationceilingvent/stationceilingvent.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/stationhologram/stationhologram.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/stationmedscanner/stationmedscanner.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/themed/farm/kitchenshelf/kitchenshelf.object": [
@@ -4555,6 +4654,9 @@
       ],
       "objects/generic/capsulesmall/capsulesmall.object": [
         "/glitchDescription/glitchEmote"
+      ],
+      "objects/generic/capsulespace/capsulespace.object": [
+        "/glitchDescription/glitchEmote"
       ]
     },
     "Texts": {
@@ -4577,6 +4679,10 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "dialog/spaceconverse.config": [
+        "/converse/glitch/default/2/glitchEmote",
+        "/converse/glitch/glitch/3/glitchEmote"
+      ],
       "objects/apex/apexfridge/apexfridge.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -5215,9 +5321,6 @@
       ],
       "npcs/tenants/socialite.npctype": [
         "/scriptConfig/dialog/converse/glitch/default/0/glitchEmote"
-      ],
-      "objects/human/bunkerpanel1/bunkerpanel1.object": [
-        "/glitchDescription/glitchEmote"
       ]
     },
     "Texts": {
@@ -5234,7 +5337,7 @@
       "objects/floran/plantcabinet1/plantcabinet1.object": [
         "/glitchDescription/glitchEmote"
       ],
-      "objects/generic/flickeringfluorescentlight/flickeringfluorescentlight.object": [
+      "objects/generic/fluorescentlight/flickeringfluorescentlight.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/protectorate/objects/protectoratebrokenlight/protectoratebrokenlight.object": [
@@ -5566,6 +5669,17 @@
         "/hat/crafting/glitch/default/0/glitchEmote",
         "/helmet/crafting/glitch/default/0/glitchEmote"
       ],
+      "dialog/shipcrew.config": [
+        "/converse/glitch/default/4/glitchEmote",
+        "/converse/glitch/glitch/6/glitchEmote"
+      ],
+      "dialog/spaceconverse.config": [
+        "/converse/glitch/default/7/glitchEmote",
+        "/converse/glitch/glitch/8/glitchEmote"
+      ],
+      "items/materials/slopedrustypanel.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
       "npcs/biome/foundryworker.npctype": [
         "/scriptConfig/dialog/converse/glitch/default/2/glitchEmote"
       ],
@@ -5644,6 +5758,9 @@
       "quests/generated/templates/share_secret.questtemplate": [
         "/scriptConfig/generatedText/text/first/glitch/1/glitchEmote",
         "/scriptConfig/generatedText/text/last/glitch/0/glitchEmote"
+      ],
+      "tiles/materials/slopedrustypanel.material": [
+        "/glitchDescription/glitchEmote"
       ]
     },
     "Texts": {
@@ -5999,6 +6116,9 @@
       "objects/teleporter/futureteleporter/futureteleporter.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/teleporter/returnoutpostteleporter/remoteteleporter.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/teleporter/scienceteleporter/scienceteleporter.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -6174,6 +6294,10 @@
         "/tout/glitch/default/1/glitchEmote",
         "/welcome/glitch/default/0/glitchEmote"
       ],
+      "dialog/spaceconverse.config": [
+        "/converse/glitch/default/1/glitchEmote",
+        "/converse/glitch/glitch/2/glitchEmote"
+      ],
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/offer/glitch/default/0/glitchEmote"
       ],
@@ -6191,6 +6315,9 @@
       ],
       "npcs/dungeon/evilfortress/executioner.npctype": [
         "/scriptConfig/dialog/attack/glitch/default/2/glitchEmote"
+      ],
+      "npcs/tenants/evilglitchtenant.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/1/glitchEmote"
       ],
       "npcs/threats/glitchthief.npctype": [
         "/scriptConfig/dialog/attack/glitch/default/3/glitchEmote"
@@ -6229,6 +6356,9 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/crafting/capturestation/capturestation.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/crafting/mechcraftingtable/mechcraftingtable.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/acceleratoraddon/acceleratoraddon.object": [
@@ -6354,6 +6484,9 @@
       "objects/ship/novakidshiplocker/novakidshiplocker.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/space/telescope/telescope.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "quests/generated/templates/add_object_to_house.questtemplate": [
         "/scriptConfig/generatedText/text/default/glitch/0/glitchEmote"
       ],
@@ -6409,6 +6542,10 @@
       ],
       "dialog/converse.config": [
         "/converse/glitch/generic/33/glitchEmote"
+      ],
+      "dialog/shipcrew.config": [
+        "/converse/glitch/default/2/glitchEmote",
+        "/converse/glitch/glitch/4/glitchEmote"
       ],
       "npcs/biome/foundryworker.npctype": [
         "/scriptConfig/dialog/converse/glitch/default/0/glitchEmote"
@@ -7723,6 +7860,9 @@
       "dialog/converse.config": [
         "/converse/glitch/generic/11/glitchEmote"
       ],
+      "npcs/tenants/evilglitchtenant.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/0/glitchEmote"
+      ],
       "objects/biome/crystalcave/crystalcavebush1/crystalcavebush1.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -8117,6 +8257,21 @@
       "objects/ship/apexshiplight/apexshiplight.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/space/astrocabinet/astrocabinet.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/astroconsole/astroconsole.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/industrialcrate/industrialcrate.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/solarpanel/solarpanel.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/stationchair/stationchair.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/spawner/spawnerstation/spawnerstation.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -8371,6 +8526,9 @@
       "objects/ship/avianshiplocker/avianshiplocker.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/space/astrotable/astrotable.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "tiles/materials/dirt.material": [
         "/glitchDescription/glitchEmote"
       ]
@@ -8449,6 +8607,9 @@
       "objects/generic/cactiflowerpot/cactiflowerpot.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/generic/mechbeacon/mechbeacon.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/generic/seismograph/seismograph.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -8456,6 +8617,30 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/protectorate/objects/protectoratecactiflowerpot/protectoratecactiflowerpot.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/dockingfield/dockingfield.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/dockingfield/dockingfieldsmall.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/stationlight/stationlighth.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/stationlight/stationlightv.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/stationtradesign/stationtradesignelectronics.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/stationtradesign/stationtradesignfood.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/stationtradesign/stationtradesignmedic.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/stationtradesign/stationtradesignweapons.object": [
         "/glitchDescription/glitchEmote"
       ],
       "tiles/materials/apexshipsupport.material": [
@@ -8834,6 +9019,9 @@
       "objects/outpost/2stopteleshop/2stopshop.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/outpost/hangingbooster/hangingbooster.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/outpost/infinityexpress/infinityexpress.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -8846,6 +9034,9 @@
       "objects/outpost/shipyardjunk/shipyardjunk.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/playerstation/playerstationconsole/playerstationconsole.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/protectorate/objects/protectoratelobbytv/protectoratelobbytv.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -8853,6 +9044,27 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/protectorate/objects/protectoratestorage2/protectoratestorage2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/astrochair/astrochair.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/astrocrate/astrocrate.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/astrodoor/astrodoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/astromonitor/astromonitor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/stationconsole/stationconsole.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/stationvendingmachine/stationvendingmachine.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/wiredtarget/wiredtarget.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/themed/retroscifi/retroscifitv/retroscifitv.object": [
@@ -9064,6 +9276,9 @@
       "objects/glitch/medievalcodex/medievalcodex.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/human/bunkerpanel2/bunkerpanel2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/hylotl/hylotldrinks/hylotldrinks.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -9137,6 +9352,18 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/protectorate/objects/protectorategardenbench/protectorategardenbench.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/industrialcomputer/industrialcomputer.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/industrialdisplay/industrialdisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/industrialstoragelocker/industrialstoragelocker.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/stationdisplay/stationdisplay.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/teleporter/arkdestinationteleporter/arkdestinationteleporter.object": [
@@ -9760,6 +9987,9 @@
       "Хулигански."
     ],
     "Files": {
+      "objects/apex/classicbowl/classicbowl.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/apex/classicplate/classicplate.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -9834,18 +10064,6 @@
     },
     "Texts": {
       "Eng": "Morose.",
-      "Rus": ""
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/bunkerpanel2/bunkerpanel2.object": [
-        "/glitchDescription/glitchEmote"
-      ]
-    },
-    "Texts": {
-      "Eng": "Mortified.",
       "Rus": ""
     }
   },
@@ -10652,6 +10870,12 @@
       "items/materials/sandstone.matitem": [
         "/glitchdescription/glitchEmote"
       ],
+      "items/materials/slopedhullpanel.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "items/materials/slopedinsetpanel.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
       "items/materials/stonerubble.matitem": [
         "/glitchdescription/glitchEmote"
       ],
@@ -11179,7 +11403,16 @@
       "objects/novakid/saloontumbler/saloontumbler.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/outpost/mechsign/mechsign.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/outpost/signstore/signdispenser.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/playerstation/expansionslot/expansionslot.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/playerstation/expansionslot/expansionslothorizontal.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/protectorate/objects/protectoratebench/protectoratebench.object": [
@@ -11198,6 +11431,21 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/ship/researchstation/researchstation.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/astrovent/astrovent.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/industrialcanister/industrialcanister.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/industrialdoor/industrialdoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/stationbench/stationbench.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/stationcrate/stationcrate.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/spawner/colonydeed/colonydeed.object": [
@@ -11306,6 +11554,12 @@
         "/glitchDescription/glitchEmote"
       ],
       "tiles/materials/sandstone01.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/slopedhullpanel.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/slopedinsetpanel.material": [
         "/glitchDescription/glitchEmote"
       ],
       "tiles/materials/stonerubble.material": [
@@ -11514,6 +11768,10 @@
       ],
       "dialog/oremerchant.config": [
         "/final/glitch/default/0/glitchEmote"
+      ],
+      "dialog/shipcrew.config": [
+        "/converse/glitch/default/3/glitchEmote",
+        "/converse/glitch/glitch/5/glitchEmote"
       ],
       "objects/arttrophies/rainbowpainting/rainbowpainting.object": [
         "/glitchDescription/glitchEmote"
@@ -11876,6 +12134,15 @@
         "/helmet/crafted/glitch/default/0/glitchEmote",
         "/helmet/crafting/glitch/default/1/glitchEmote"
       ],
+      "dialog/shipcrew.config": [
+        "/converse/glitch/default/0/glitchEmote",
+        "/converse/glitch/glitch/2/glitchEmote"
+      ],
+      "dialog/spaceconverse.config": [
+        "/converse/glitch/default/0/glitchEmote",
+        "/converse/glitch/glitch/0/glitchEmote",
+        "/converse/glitch/glitch/1/glitchEmote"
+      ],
       "items/materials/brick.matitem": [
         "/glitchdescription/glitchEmote"
       ],
@@ -12063,6 +12330,9 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/ship/glitchshiplocker/glitchshiplocker.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/astroceilingmonitor/astroceilingmonitor.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/spawner/spawners/spawner_floran.object": [
@@ -12868,6 +13138,26 @@
     "Texts": {
       "Eng": "Relieved.",
       "Rus": "Облегчённо."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/stationdoor/stationdoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/stationdoor/stationdoorlarge.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/stationhatch/stationhatch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/stationhatch/stationrailhatch.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reminiscent."
     }
   },
   {
@@ -14568,6 +14858,9 @@
       "dialog/quest.config": [
         "/kill_npc/betray/glitch/default/1/glitchEmote"
       ],
+      "dialog/shipcrew.config": [
+        "/converse/glitch/glitch/0/glitchEmote"
+      ],
       "items/materials/coconutblock.matitem": [
         "/glitchdescription/glitchEmote"
       ],
@@ -15450,6 +15743,9 @@
       "objects/protectorate/objects/protectoratesecuritystation/protectoratesecuritystation.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/space/industrialchair/industrialchair.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/themed/gothic/gothicbed/gothicbed.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -15667,6 +15963,12 @@
       "objects/protectorate/objects/protectoratelobbytable/protectoratelobbytable.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/space/industrialtable/industrialtable.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/stationtable/stationtable.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/themed/retroscifi/retroscifilight/retroscifilight.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -15767,6 +16069,9 @@
       ],
       "objects/protectorate/objects/protectoratestorageempty/protectoratestorageempty.object": [
         "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/spacebar/spacebarbottom.object": [
+        "/glitchDescription/glitchEmote"
       ]
     },
     "Texts": {
@@ -15825,6 +16130,9 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/biome/scorchedcity/scorchedbench/scorchedbench.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/cultistdoor/cultistdoor.object": [
         "/glitchDescription/glitchEmote"
       ],
       "plants/bushes/ground/fleshcorpse/fleshcorpse.bush": [
@@ -16026,6 +16334,9 @@
       "dialog/merchant.config": [
         "/tout/glitch/default/2/glitchEmote"
       ],
+      "dialog/shipcrew.config": [
+        "/converse/glitch/glitch/1/glitchEmote"
+      ],
       "npcs/biome/undergroundvillager.npctype": [
         "/scriptConfig/dialog/converse/glitch/default/2/glitchEmote"
       ],
@@ -16190,6 +16501,13 @@
         "/kidnapping/followHome/glitch/default/1/glitchEmote",
         "/return_stolen/objectTaken/glitch/default/1/glitchEmote"
       ],
+      "dialog/spaceconverse.config": [
+        "/converse/glitch/default/3/glitchEmote",
+        "/converse/glitch/glitch/4/glitchEmote"
+      ],
+      "items/materials/slopedscrappanel.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
       "objects/ancient/sawblade2/sawblade2.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -16243,6 +16561,9 @@
       ],
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/text/default/glitch/0/glitchEmote"
+      ],
+      "tiles/materials/slopedscrappanel.material": [
+        "/glitchDescription/glitchEmote"
       ]
     },
     "Texts": {

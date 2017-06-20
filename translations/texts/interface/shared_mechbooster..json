@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/mechbooster.itemdescription": [
+        "/speedStatLabel/value"
+      ],
+      "interface/tooltips/mechbooster.tooltip": [
+        "/speedStatLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flight Speed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/mechbooster.itemdescription": [
+        "/controlStatLabel/value"
+      ],
+      "interface/tooltips/mechbooster.tooltip": [
+        "/controlStatLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maneuverability"
+    }
+  }
+]

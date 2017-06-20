@@ -472,6 +472,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/categories.config": [
+        "/labels/mechPart"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mech Component",
+      "Rus": "Деталь Меха"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
         "/labels/medicine"
       ]
     },
@@ -646,6 +658,18 @@
     "Texts": {
       "Eng": "Rocket Launcher",
       "Rus": "Ракетница"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/salvageComponent"
+      ]
+    },
+    "Texts": {
+      "Eng": "Salvage Component",
+      "Rus": "Трофейная деталь"
     }
   },
   {
@@ -850,6 +874,18 @@
     "Texts": {
       "Eng": "Toy",
       "Rus": "Игрушка"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/tradeGoods"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trade Goods",
+      "Rus": "Торговые товары"
     }
   },
   {

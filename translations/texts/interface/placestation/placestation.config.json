@@ -1,0 +1,171 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/coordinateText"
+      ]
+    },
+    "Texts": {
+      "Eng": "(%s, %s)",
+      "Rus": "(%s, %s)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/gui/coordinateLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "(0, 0)",
+      "Rus": "(0, 0)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/gui/descriptionLabel/value",
+        "/gui/nameLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "> ",
+      "Rus": "> "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/gui/configure/children/configureLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Configuration",
+      "Rus": "Настройка"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/gui/connectingLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Connecting to S.A.I.L...",
+      "Rus": "Подключение к К.Э.П.у..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/gui/configure/children/description/hint"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enter station description",
+      "Rus": "Описание станции"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/gui/configure/children/name/hint"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enter station name",
+      "Rus": "Название станции"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/gui/configure/children/saveButton/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "SAVE",
+      "Rus": "СОХРАНИТЬ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Station Transponder Configuration",
+      "Rus": "Настройка транспондера станции"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;Configure and launch your station deployment probe",
+      "Rus": "^#b9b5b2;Настройте и запустите зонд развертывания станции"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/connect/connectText"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Connecting to S.A.I.L",
+      "Rus": "^green;Подключение к К.Э.П.у"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/connect/successText"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;High-bandwidth connection established\nTransferring system data",
+      "Rus": "^green;Установлено стабильное подключение\nПередача системных данных"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/connectedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Link established",
+      "Rus": "^green;Соединение установлено"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/connect/failText"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;Unable to establish high-bandwidth connection to S.A.I.L\nTry again from your ship",
+      "Rus": "^red;Не удалось установить стабильное подключение к К.Э.П.у\nПопробуйте снова с вашего корабля"
+    }
+  }
+]

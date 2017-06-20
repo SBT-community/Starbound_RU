@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unrand/raygun/raygun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An odd weapon which fires oscillating energy orbs.",
+      "Rus": "Странное оружие, стреляющее колеблющимися сферами."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unrand/raygun/raygun.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ray Gun",
+      "Rus": "Лучевой пистолет"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unrand/raygun/raygun.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ray Gun ^yellow;^reset;",
+      "Rus": "Лучевой пистолет ^yellow;^reset;"
+    }
+  }
+]

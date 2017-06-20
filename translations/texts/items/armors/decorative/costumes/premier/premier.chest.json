@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Нагрудник, часто используемый людьми большой важности"
+    ],
+    "Files": {
+      "items/armors/decorative/costumes/premier/premier.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chest armour, often used for people of great importance.",
+      "Rus": "Нагрудник, часто используемый людьми, имеющих большое значение."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/costumes/premier/premier.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Premier Chestpiece",
+      "Rus": "Премьер нагрудник"
+    }
+  }
+]

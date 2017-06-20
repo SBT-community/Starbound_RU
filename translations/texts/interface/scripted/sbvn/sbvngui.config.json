@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/sbvn/sbvngui.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " SBVN",
+      "Rus": "СБВН"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/sbvn/sbvngui.config": [
+        "/gui/lblText/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "[no game loaded]",
+      "Rus": "[игра не загружена]"
+    }
+  }
+]

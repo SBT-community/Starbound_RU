@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/mechunlock.questtemplate": [
+        "/scriptConfig/descriptions/findGoal"
+      ]
+    },
+    "Texts": {
+      "Eng": "Complete the ^orange;mech test course^reset;",
+      "Rus": "Пройдите ^orange;курс испытания Меха^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/mechunlock.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey there, friendo! I'm ^orange;Dr. Akaggy^white;, and I deal in robots! So I have this experimental ^green;modular space mech^white; in need of a test drive and my usual pilots are... Indisposed. Could you do me a favor and ^green;fly it through my test course^white;? \n\nJust ^green;talk to me when you're ready to go^white;!",
+      "Rus": "Привет, дружище! Я ^orange;доктор Акаги^white;, и я занимаюсь роботами! Мне нужно провести испытания с пробным модулярным космическим Мехом, но мои пилоты... нездоровы. Можешь ли ты сделать мне одолжение и ^green;пролететь на этом Мехе мой курс испытания^white;?\n\nПросто ^green;поговори со мной, когда будешь готов идти^white;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/mechunlock.questtemplate": [
+        "/scriptConfig/descriptions/enterInstance"
+      ]
+    },
+    "Texts": {
+      "Eng": "Talk to ^orange;Dr. Akaggy^reset; to enter the ^orange;test course^reset;",
+      "Rus": "Поговори с ^orange;доктором Акаги^reset;, чтобы отправится на ^orange;курс испытаний^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/mechunlock.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You made it back! That's not surprise in my voice, it's elation! As a reward, I can give you enough ^green;spare mech components^white; for you to deploy your own mech for space travel! Head over to that ^orange;mech assembly station^white; to customise it!",
+      "Rus": "Ты вернулся! Это не удивление в моем голосе, а восторг! Как вознаграждение я дам тебе ^green;компоненты запасного Меха^white;, чтобы ты мог запускать собственный Мех в космосе! Воспользуйся этой ^orange;станцией сборки Меха^white;, чтобы настроить его!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/mechunlock.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Test Drive",
+      "Rus": "^orange;Тест-драйв"
+    }
+  }
+]

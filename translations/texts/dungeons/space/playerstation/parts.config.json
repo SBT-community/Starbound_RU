@@ -1,0 +1,438 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/tjuncNSE/description",
+        "/parts/tjuncNSW/description",
+        "/parts/tjuncNWE/description",
+        "/parts/tjuncSWE/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A T junction shaped room with expansion slots in 3 directions.",
+      "Rus": "T-образная комната со слотами расширения в 3-х направлениях."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/cornerNE/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A corner shaped passage, with north and east-facing expansion slots.",
+      "Rus": "Угловой коридор с северным и восточным слотами расширения."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/cornerSE/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A corner shaped passage, with south and east-facing expansion slots.",
+      "Rus": "Угловой коридор с южным и восточным слотами расширения."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/cornerNW/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A corner shaped passage, with west and north-facing expansion slots.",
+      "Rus": "Угловой коридор с западным и северным слотами расширения."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/cornerSW/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A corner shaped passage, with west and south-facing expansion slots.",
+      "Rus": "Угловой коридор с западным и южным слотами расширения."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/mechassembly/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A corridor with a mech assembly station and mech crafting station. It has expansion slots on both ends.",
+      "Rus": "Коридор со станцией сборки и станцией создания Меха. Слоты расширения есть на обоих концах."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/passage/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A corridor with an expansion slot on both ends.",
+      "Rus": "Коридор со слотами расширения на обоих концах."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/cross/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cross-shaped room with expansion slots in 4 directions.",
+      "Rus": "Крестообразная комната со слотами расширения в 4-х направлениях."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/corehuge/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A huge empty room with expansion slots in 4 directions.",
+      "Rus": "Большая пустая комната со слотами расширения в 4-х направлениях."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/passageglass/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A long horizontal glass corridor with a rail running through it. It has expansion slots on both ends.",
+      "Rus": "Длинный горизонтальный стеклянный коридор с проходящим через него рельсом. Слоты расширения есть на обоих концах."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/shaftglass/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A long vertical glass shaft with a rail running through it. It has expansion slots on both ends.",
+      "Rus": "Длинная вертикальная шахта с проходящим через неё рельсом. Слоты расширения есть на обоих концах."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/crosswayNESW/description",
+        "/parts/crosswayNWSE/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A room made of two unconnected tunnels, with expansion slots in 4 directions.",
+      "Rus": "Комната, состоящая из двух раздельных туннелей, со слотами расширения в 4 направлениях."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/core/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A square room with expansion slots in 4 directions.",
+      "Rus": "Квадратная комната со слотами расширения в 4-х направлениях"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/shaft/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vertical shaft with an expansion slot on both ends.",
+      "Rus": "Вертикальная шахта со слотами расширения на обоих концах."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/mechbayL/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A west-facing station entrance, suitable for landing mechs.",
+      "Rus": "Отсек с западным шлюзом, подходящим для посадочных Мехов "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/mechbayR/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An east-facing station entrance, suitable for landing mechs.",
+      "Rus": "Отсек с восточным шлюзом, подходящим для посадочных Мехов "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/core/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Core",
+      "Rus": "Центр. комната"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/cornerNE/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Corner N-E",
+      "Rus": "Угол С-В"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/cornerNW/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Corner N-W",
+      "Rus": "Угол С-З"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/cornerSE/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Corner S-E",
+      "Rus": "Угол Ю-В"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/cornerSW/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Corner S-W",
+      "Rus": "Угол Ю-З"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/crosswayNESW/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cross Corner N-E & S-W",
+      "Rus": "Пересек. углы С-В & Ю-З"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/crosswayNWSE/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cross Corner N-W & S-E",
+      "Rus": "Пересек. углы С-З & Ю-В"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/cross/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cross Junction",
+      "Rus": "Перекрестный переход"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/passage/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Horizontal Corridor",
+      "Rus": "Горизонтальный коридор"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/corehuge/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Large Core",
+      "Rus": "Большая центр. комната"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/passageglass/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Long Horizontal Corridor",
+      "Rus": "Длинный горизонтальный коридор"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/shaftglass/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Long Vertical Shaft",
+      "Rus": "Длинная вертикальная шахта"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/mechassembly/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mech Assembly Room",
+      "Rus": "Комната сборки Меха"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/mechbayR/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mech Bay East",
+      "Rus": "Восточный Мех-отсек"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/mechbayL/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mech Bay West",
+      "Rus": "Западный Мех-отсек"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/tjuncNSE/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "T Junction N-S-E",
+      "Rus": "Т переход С-Ю-В"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/tjuncNSW/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "T Junction N-S-W",
+      "Rus": "Т переход С-Ю-З"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/tjuncNWE/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "T Junction N-W-E",
+      "Rus": "Т переход С-З-В"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/tjuncSWE/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "T Junction S-W-E",
+      "Rus": "Т переход Ю-З-В"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dungeons/space/playerstation/parts.config": [
+        "/parts/shaft/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vertical Shaft",
+      "Rus": "Вертикальная шахта"
+    }
+  }
+]

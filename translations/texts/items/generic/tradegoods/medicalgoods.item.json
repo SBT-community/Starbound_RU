@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/tradegoods/medicalgoods.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sealed crate of medical supplies, valuable for interstellar trade.",
+      "Rus": "Запечатанный ящик медикаментов, ценный для межзвездный торговли."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/tradegoods/medicalgoods.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Medical Supplies",
+      "Rus": "Медикаменты"
+    }
+  }
+]

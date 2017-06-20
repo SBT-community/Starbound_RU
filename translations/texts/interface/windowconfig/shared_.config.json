@@ -90,21 +90,6 @@
     }
   },
   {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/windowconfig/deletedialog.config": [
-        "/delete/caption"
-      ],
-      "interface/windowconfig/editbookmark.config": [
-        "/paneLayout/remove/caption"
-      ]
-    },
-    "Texts": {
-      "Eng": "Delete",
-      "Rus": "Удалить"
-    }
-  },
-  {
     "DeniedAlternatives": [
       "Окей"
     ],
@@ -251,6 +236,9 @@
       "interface/windowconfig/craftingfurniture.config": [
         "/paneLayout/lblSchematics/value"
       ],
+      "interface/windowconfig/craftingmech.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
       "interface/windowconfig/craftingmedical.config": [
         "/paneLayout/lblSchematics/value"
       ],
@@ -290,6 +278,9 @@
         "/paneLayout/lblProducttitle/value"
       ],
       "interface/windowconfig/craftingfurniture.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/craftingmech.config": [
         "/paneLayout/lblProducttitle/value"
       ],
       "interface/windowconfig/craftingmedical.config": [

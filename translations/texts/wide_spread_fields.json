@@ -13,6 +13,9 @@
       ],
       "objects/protectorate/objects/protectoratelobbyvending/protectoratelobbyvending.object": [
         "/interactData/paneLayoutOverride/windowtitle/title"
+      ],
+      "objects/space/stationvendingmachine/stationvendingmachine.object": [
+        "/interactData/paneLayoutOverride/windowtitle/title"
       ]
     },
     "Texts": {
@@ -115,6 +118,9 @@
       "objects/spawner/invisiblemonsterspawner.object": [
         "/description"
       ],
+      "objects/wired/invisiblesound/invisiblesound.object": [
+        "/description"
+      ],
       "objects/wired/logic/invisibleand.object": [
         "/description"
       ],
@@ -145,6 +151,9 @@
       "objects/wired/proximitysensor/invisibleproximitysensor.object": [
         "/description"
       ],
+      "objects/wired/smallwallswitch/invisiblewallswitch.object": [
+        "/description"
+      ],
       "tiles/materials/black.material": [
         "/description",
         "/floranDescription",
@@ -163,9 +172,6 @@
       "interface.config": [
         "/modeTypeTextAndColor/0/0"
       ],
-      "interface/cockpit/cockpit.config": [
-        "/guiConfig/planetTypeDescription/value"
-      ],
       "interface/warping/gatewarp.config": [
         "/destinations/0/name",
         "/destinations/0/planetName"
@@ -173,6 +179,9 @@
       "radiomessages/quests.radiomessages": [
         "/gaterepair-gateFound1b/senderName",
         "/gaterepair-gateOpened2/senderName"
+      ],
+      "system_objects.config": [
+        "/anomaly/parameters/displayName"
       ]
     },
     "Texts": {
@@ -297,6 +306,36 @@
     }
   },
   {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/alien.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/alien"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien",
+      "Rus": "Инопланетный"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/arctic.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/arctic"
+      ]
+    },
+    "Texts": {
+      "Eng": "Arctic",
+      "Rus": "Арктический"
+    }
+  },
+  {
     "DeniedAlternatives": [
       "Астероидное поле",
       "Пояс астероидов "
@@ -312,6 +351,21 @@
     "Texts": {
       "Eng": "Asteroid Field",
       "Rus": "Поле астероидов"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/space/asteroids.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/asteroids"
+      ]
+    },
+    "Texts": {
+      "Eng": "Asteroids",
+      "Rus": "Астероиды"
     }
   },
   {
@@ -404,6 +458,21 @@
     }
   },
   {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/barren.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/barren"
+      ]
+    },
+    "Texts": {
+      "Eng": "Barren",
+      "Rus": "Бесплодный"
+    }
+  },
+  {
     "DeniedAlternatives": [
       "Кости!"
     ],
@@ -442,7 +511,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/displayOres/11/displayName"
+        "/displayOres/erchius/displayName"
       ],
       "items/generic/other/solidfuel.item": [
         "/shortdescription"
@@ -451,6 +520,21 @@
     "Texts": {
       "Eng": "Crystal Erchius Fuel",
       "Rus": "Кристаллы эркиевого топлива"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/desert.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/desert"
+      ]
+    },
+    "Texts": {
+      "Eng": "Desert",
+      "Rus": "Пустыня"
     }
   },
   {
@@ -506,6 +590,21 @@
     "Texts": {
       "Eng": "Dreadwing",
       "Rus": "Ужаснокрыл"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/forest.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/forest"
+      ]
+    },
+    "Texts": {
+      "Eng": "Forest",
+      "Rus": "Лес"
     }
   },
   {
@@ -746,6 +845,36 @@
     }
   },
   {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/jungle.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/jungle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jungle",
+      "Rus": "Джунгли"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/magma"
+      ],
+      "items/liquids/lava.liqitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lava",
+      "Rus": "Лава"
+    }
+  },
+  {
     "DeniedAlternatives": [
       "Манипулятор Материи"
     ],
@@ -861,6 +990,21 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "biomes/surface/savannah.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/savannah"
+      ]
+    },
+    "Texts": {
+      "Eng": "Savannah",
+      "Rus": "Саванна"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "monsters/walkers/scaveran/scaveran.monstertype": [
         "/shortdescription"
       ],
@@ -928,7 +1072,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/displayOres/1/displayName"
+        "/displayOres/silver/displayName"
       ],
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/0/1/3"
@@ -1167,6 +1311,51 @@
     "Texts": {
       "Eng": "Tool",
       "Rus": "Инструмент"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/toxic.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/toxic"
+      ]
+    },
+    "Texts": {
+      "Eng": "Toxic",
+      "Rus": "Токсичный"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/tundra.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/tundra"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tundra",
+      "Rus": "Тундра"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/volcanic.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/volcanic"
+      ]
+    },
+    "Texts": {
+      "Eng": "Volcanic",
+      "Rus": "Вулканический"
     }
   },
   {

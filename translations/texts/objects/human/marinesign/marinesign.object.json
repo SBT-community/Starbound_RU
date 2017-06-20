@@ -7,7 +7,7 @@
       ]
     },
     "Texts": {
-      "Eng": "A sign promoting the USCM, the human military."
+      "Eng": "A sign promoting the USCM, a disbanded human military faction."
     }
   },
   {
@@ -25,11 +25,33 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/marinesign/marinesign.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I ain't heard o' these guys, but judgin' by the state of this sign, they've been gone a while."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/marinesign/marinesign.object": [
         "/floranDescription"
       ]
     },
     "Texts": {
       "Eng": "Ssstupid, blatant sign. Floransss try to be more sssneaky about their presence."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/marinesign/marinesign.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The USCM, huh? These guys didn't like the Terrene Protectorate so much."
     }
   },
   {
@@ -51,7 +73,7 @@
       ]
     },
     "Texts": {
-      "Eng": "This area clearly had a human military presence."
+      "Eng": "This area clearly had a human military presence once."
     }
   },
   {
@@ -69,22 +91,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/marinesign/marinesign.object": [
-        "/humanDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "United! Systems! Colonial Marines! We're big! We're tough! And our guns are mean! Yeah... never singing that again."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/marinesign/marinesign.object": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "What does USCM stand for, again? Oh - United Systems Colonial Marines."
+      "Eng": "What does USCM stand for, again?"
     }
   }
 ]

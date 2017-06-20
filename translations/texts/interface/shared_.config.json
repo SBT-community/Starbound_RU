@@ -2,6 +2,9 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/editBookmarkFrame/children/ok/caption"
+      ],
       "interface/optionsmenu/optionsmenu.config": [
         "/paneLayout/acceptButton/caption"
       ],
@@ -49,7 +52,7 @@
     ],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/guiConfig/bookmarkList/children/bookmarkItemList/schema/listTemplate/name/value"
+        "/gui/bookmarksFrame/children/bookmarkList/children/bookmarkItemList/schema/listTemplate/name/value"
       ],
       "interface/windowconfig/teleportdialog.config": [
         "/paneLayout/bookmarkList/children/bookmarkItemList/schema/listTemplate/name/value"
@@ -104,6 +107,84 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/editBookmarkFrame/children/remove/caption"
+      ],
+      "interface/windowconfig/deletedialog.config": [
+        "/delete/caption"
+      ],
+      "interface/windowconfig/editbookmark.config": [
+        "/paneLayout/remove/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delete",
+      "Rus": "Удалить"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/editBookmarkFrame/children/name/hint"
+      ],
+      "interface/windowconfig/editbookmark.config": [
+        "/paneLayout/name/hint"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enter bookmark name",
+      "Rus": "Введите имя закладки"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/craftingtooltip/craftingtooltip.config": [
+        "/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/expandstation/expandstation.config": [
+        "/listTemplate/itemName/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Golden Moustache",
+      "Rus": "Золотые усы"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/craftingtooltip/craftingtooltip.config": [
+        "/title/value"
+      ],
+      "interface/expandstation/expandstation.config": [
+        "/tooltipLayout/title/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "INGREDIENTS",
+      "Rus": "ИНГРЕДИЕНТЫ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/jumpDialog/children/jump/caption"
+      ],
+      "interface/windowconfig/keybindingsmenu.config": [
+        "/keyActions/player/4/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jump",
+      "Rus": "Прыжок"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "interface/objectcrafting/fossilstation.config": [
         "/paneLayout/lblProduct/value"
       ],
@@ -123,6 +204,9 @@
         "/paneLayout/lblProduct/value"
       ],
       "interface/windowconfig/craftingfurniture.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/craftingmech.config": [
         "/paneLayout/lblProduct/value"
       ],
       "interface/windowconfig/craftingmedical.config": [
@@ -150,6 +234,21 @@
     "Texts": {
       "Eng": "MATERIALS AVAILABLE",
       "Rus": "МАТЕРИАЛЫ В НАЛИЧИИ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/editBookmarkFrame/children/title/value"
+      ],
+      "interface/windowconfig/editbookmark.config": [
+        "/paneLayout/lblTitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "New Bookmark",
+      "Rus": "Новая закладка"
     }
   },
   {
@@ -212,6 +311,9 @@
       "interface/windowconfig/craftingfurniture.config": [
         "/paneLayout/filter/hint"
       ],
+      "interface/windowconfig/craftingmech.config": [
+        "/paneLayout/filter/hint"
+      ],
       "interface/windowconfig/craftingmedical.config": [
         "/paneLayout/filter/hint"
       ],
@@ -267,6 +369,9 @@
         "/paneLayout/btnStopCraft/caption"
       ],
       "interface/windowconfig/craftingfurniture.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/craftingmech.config": [
         "/paneLayout/btnStopCraft/caption"
       ],
       "interface/windowconfig/craftingmedical.config": [

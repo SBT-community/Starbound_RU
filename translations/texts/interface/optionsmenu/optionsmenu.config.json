@@ -15,18 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/optionsmenu/optionsmenu.config": [
-        "/paneLayout/borderlessLabel/value"
-      ]
-    },
-    "Texts": {
-      "Eng": "BORDERLESS WINDOW",
-      "Rus": "ОКНО БЕЗ РАМОК"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/optionsmenu/optionsmenu.config": [
         "/paneLayout/clientIPJoinableLabel/value"
       ]
     },
@@ -51,24 +39,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/optionsmenu/optionsmenu.config": [
-        "/paneLayout/fullscreenLabel/value"
+        "/paneLayout/showGraphics/caption"
       ]
     },
     "Texts": {
-      "Eng": "FULLSCREEN",
-      "Rus": "ВО ВЕСЬ ЭКРАН"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/optionsmenu/optionsmenu.config": [
-        "/paneLayout/resLabel/value"
-      ]
-    },
-    "Texts": {
-      "Eng": "FULLSCREEN RESOLUTION",
-      "Rus": "РАЗРЕШЕНИЕ ЭКРАНА"
+      "Eng": "Graphics",
+      "Rus": "Графика"
     }
   },
   {
@@ -111,30 +87,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/optionsmenu/optionsmenu.config": [
-        "/paneLayout/speechBubbleLabel/value"
-      ]
-    },
-    "Texts": {
-      "Eng": "SPEECH BUBBLES",
-      "Rus": "ПУЗЫРИ ДИАЛОГОВ"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/optionsmenu/optionsmenu.config": [
-        "/paneLayout/interactiveHighlightLabel/value"
-      ]
-    },
-    "Texts": {
-      "Eng": "TARGET HIGHLIGHT",
-      "Rus": "ВЫДЕЛЕНИЕ ЦЕЛЕЙ"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/optionsmenu/optionsmenu.config": [
         "/paneLayout/tutorialMessagesLabel/value"
       ]
     },
@@ -153,18 +105,6 @@
     "Texts": {
       "Eng": "VOLUME",
       "Rus": "ГРОМКОСТЬ"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/optionsmenu/optionsmenu.config": [
-        "/paneLayout/zoomLabel/value"
-      ]
-    },
-    "Texts": {
-      "Eng": "ZOOM LEVEL",
-      "Rus": "МАСШТАБ"
     }
   }
 ]

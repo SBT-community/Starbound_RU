@@ -3,7 +3,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/guiConfig/windowtitle/title"
+        "/gui/windowtitle/title"
       ]
     },
     "Texts": {
@@ -15,81 +15,33 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/threatLevelToText/default/7",
-        "/threatLevelToText/default/8",
-        "/threatLevelToText/default/9"
+        "/clusterMoons/plural"
+      ]
+    },
+    "Texts": {
+      "Eng": "%s orbiting bodies",
+      "Rus": "%s спутника(ов)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/threatLevelText/default/7",
+        "/threatLevelText/default/8",
+        "/threatLevelText/default/9"
       ]
     },
     "Texts": {
       "Eng": "***",
-      "Rus": ""
+      "Rus": "***"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/guiConfig/fuelCost/value"
-      ]
-    },
-    "Texts": {
-      "Eng": "0000",
-      "Rus": "0000"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/satelliteNameEmptyText"
-      ]
-    },
-    "Texts": {
-      "Eng": "< no planet selected >",
-      "Rus": "< Ни одна планета не выбрана >"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/threatLevelText/value/text"
-      ]
-    },
-    "Texts": {
-      "Eng": "<value>",
-      "Rus": "<value>"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/sizeText/value/text"
-      ]
-    },
-    "Texts": {
-      "Eng": "<value> Sectors",
-      "Rus": "<value>  Сектор"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/dayLengthText/value/text"
-      ]
-    },
-    "Texts": {
-      "Eng": "<value> Sols",
-      "Rus": "<value> Сол"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/jungle/1"
+        "/visitableTypeDescription/jungle/1"
       ]
     },
     "Texts": {
@@ -101,7 +53,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/tundra/0"
+        "/visitableTypeDescription/tundra/0"
       ]
     },
     "Texts": {
@@ -113,7 +65,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/desert/1"
+        "/visitableTypeDescription/desert/1"
       ]
     },
     "Texts": {
@@ -125,7 +77,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/asteroids/0"
+        "/visitableTypeDescription/asteroids/0"
       ]
     },
     "Texts": {
@@ -137,7 +89,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/asteroids/2"
+        "/visitableTypeDescription/asteroids/2"
       ]
     },
     "Texts": {
@@ -149,7 +101,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/worldTypeToDescription/gasgiant/1"
+        "/worldTypeDescription/GasGiant/1"
       ]
     },
     "Texts": {
@@ -161,7 +113,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/worldTypeToDescription/gasgiant/0"
+        "/worldTypeDescription/GasGiant/0"
       ]
     },
     "Texts": {
@@ -170,12 +122,10 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Зону посадки можно описать странной флорой, агрессивной фауной и ^red;болезненно высокой радиацией^white;. Существа населяющие ее, сильно ^#7800ff;мутировали^white;."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/alien/1"
+        "/visitableTypeDescription/alien/1"
       ]
     },
     "Texts": {
@@ -187,7 +137,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/asteroids/1"
+        "/visitableTypeDescription/asteroids/1"
       ]
     },
     "Texts": {
@@ -196,12 +146,10 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Одинокая ^#949493;луна^white; ^red;без атмосферы^white;. В чёрном небе сияют звёзды. Под землёй значительные запасы топлива. Вероятность появления чувства одиночества: 92%."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/moon/0"
+        "/visitableTypeDescription/moon/0"
       ]
     },
     "Texts": {
@@ -213,7 +161,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/ocean/0"
+        "/visitableTypeDescription/ocean/0"
       ]
     },
     "Texts": {
@@ -225,7 +173,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/arctic/2"
+        "/visitableTypeDescription/arctic/2"
       ]
     },
     "Texts": {
@@ -237,12 +185,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/guiConfig/addBookmark/caption"
+        "/gui/objectinfo/children/inner/children/bookmark/caption",
+        "/gui/planetinfo/children/inner/children/bookmark/caption",
+        "/objectInfoBox/bookmarkButtonCaption/add",
+        "/planetInfoBox/bookmarkButtonCaption/add"
       ]
     },
     "Texts": {
-      "Eng": "ADD / EDIT BOOKMARK",
-      "Rus": "ДОБ. / ИЗМ. ЗАКЛАДКУ"
+      "Eng": "ADD BOOKMARK",
+      "Rus": "ДОБАВИТЬ ЗАКЛАДКУ"
     }
   },
   {
@@ -261,7 +212,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/displayOres/8/displayName"
+        "/displayOres/aegisalt/displayName"
       ]
     },
     "Texts": {
@@ -273,7 +224,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/ocean/1"
+        "/visitableTypeDescription/ocean/1"
       ]
     },
     "Texts": {
@@ -285,7 +236,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/ancientgateway/0"
+        "/visitableTypeDescription/ancientgateway/0"
       ]
     },
     "Texts": {
@@ -309,18 +260,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/guiConfig/showBookmarkList/caption"
-      ]
-    },
-    "Texts": {
-      "Eng": "BOOKMARKS",
-      "Rus": "ЗАКЛАДКИ"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
         "/displayWeathers/snowstorm/displayName"
       ]
     },
@@ -333,7 +272,32 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/worldTypeToDescription/gasgiant/2"
+        "/topLeftButtonTooltips/showBookmarkList"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bookmarks",
+      "Rus": "Закладки"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/objectInfoBox/bookmarkButtonCaption/disabled",
+        "/planetInfoBox/bookmarkButtonCaption/disabled"
+      ]
+    },
+    "Texts": {
+      "Eng": "CANNOT BOOKMARK",
+      "Rus": "ЗАКЛАДКИ НЕДОСТУПНЫ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/worldTypeDescription/GasGiant/2"
       ]
     },
     "Texts": {
@@ -357,7 +321,31 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/displayOres/0/displayName"
+        "/gui/jumpDialog/children/title/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confirm FTL",
+      "Rus": "Подтверждение прыжка"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/topLeftButtonTooltips/showCoordinates"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coordinates",
+      "Rus": "Координаты"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/copper/displayName"
       ]
     },
     "Texts": {
@@ -381,7 +369,19 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/threatLevelToText/default/3"
+        "/gui/planetinfo/children/inner/children/description/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "DESCRIPTION OF THIS PLANET",
+      "Rus": "ОПИСАНИЕ ПЛАНЕТЫ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/threatLevelText/default/3"
       ]
     },
     "Texts": {
@@ -393,21 +393,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/dayLengthText/label/text"
-      ]
-    },
-    "Texts": {
-      "Eng": "Day Cycle",
-      "Rus": "Суточный цикл"
-    }
-  },
-  {
-    "DeniedAlternatives": [
-      "Зона посадки изобилует множеством деревьев и другой флорой. Эти ^#15ce02;леса^white; характерны видовым разнообразием населяющих их существ - возможно, есть и разумная жизнь."
-    ],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/forest/0"
+        "/visitableTypeDescription/forest/0"
       ]
     },
     "Texts": {
@@ -431,7 +417,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/displayOres/6/displayName"
+        "/displayOres/durasteel/displayName"
       ]
     },
     "Texts": {
@@ -455,7 +441,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/threatLevelToText/default/4"
+        "/bookmarks/editTitle",
+        "/objectInfoBox/bookmarkButtonCaption/edit",
+        "/planetInfoBox/bookmarkButtonCaption/edit"
+      ]
+    },
+    "Texts": {
+      "Eng": "EDIT BOOKMARK",
+      "Rus": "ИЗМЕНИТЬ ЗАКЛАДКУ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/threatLevelText/default/4"
       ]
     },
     "Texts": {
@@ -467,19 +467,43 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/ftlOfflineText/text"
+        "/jumpDialog/invalid"
       ]
     },
     "Texts": {
-      "Eng": "FTL DRIVE OFFLINE",
-      "Rus": "ДВИГАТЕЛЬ ВЫКЛЮЧЕН"
+      "Eng": "FTL travel requires ^red;%i fuel^reset;.\n Not enough fuel to proceed.",
+      "Rus": "Для прыжка требуется ^red;%i топлива^reset;. Недостаточно топлива для продолжения."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/displayOres/7/displayName"
+        "/jumpDialog/valid"
+      ]
+    },
+    "Texts": {
+      "Eng": "FTL travel will consume ^green;%i fuel^reset;.\nConfirm to proceed.",
+      "Rus": "Прыжок затратит ^green;%s топлива^reset;. Потдвердите, чтобы продолжить."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/jumpDialog/children/text/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "FTL travel will consume ^green;%s fuel^reset;.\nConfirm to proceed.",
+      "Rus": "Прыжок затратит ^green;%s топлива^reset;. Потдвердите, если уверены."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/ferozium/displayName"
       ]
     },
     "Texts": {
@@ -491,7 +515,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/starmapTypeDescription/redstar"
+        "/starTypeNames/redstar"
       ]
     },
     "Texts": {
@@ -503,7 +527,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/ocean/2"
+        "/visitableTypeDescription/ocean/2"
       ]
     },
     "Texts": {
@@ -527,7 +551,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/starmapTypeDescription/bluestar"
+        "/starTypeNames/bluestar"
       ]
     },
     "Texts": {
@@ -539,7 +563,31 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/starmapTypeDescription/whitestar"
+        "/gui/coordinatesFrame/children/go/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "GO",
+      "Rus": "ОК"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/ancientgateway"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gateway",
+      "Rus": "Врата"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/starTypeNames/whitestar"
       ]
     },
     "Texts": {
@@ -551,7 +599,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/oreText/text"
+        "/gui/planetinfo/children/inner/children/ores/value"
       ]
     },
     "Texts": {
@@ -563,7 +611,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/displayOres/2/displayName"
+        "/displayOres/gold/displayName"
       ]
     },
     "Texts": {
@@ -599,7 +647,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/threatLevelToText/default/5"
+        "/threatLevelText/default/5"
       ]
     },
     "Texts": {
@@ -611,24 +659,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/displayOres/3/displayName"
+        "/displayOres/iron/displayName"
       ]
     },
     "Texts": {
       "Eng": "Iron",
       "Rus": "Железо"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeLabel/text"
-      ]
-    },
-    "Texts": {
-      "Eng": "Landing Site Analysis",
-      "Rus": "Анализ посадочной площадки"
     }
   },
   {
@@ -644,12 +680,10 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Местность покрыта  ^#15ce02;лесами^white;, изобилующими пышными деревьями. По моим данным, зона пригодна для жизни, так что есть риск столкнуться с лесными обитателями."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/forest/1"
+        "/visitableTypeDescription/forest/1"
       ]
     },
     "Texts": {
@@ -673,7 +707,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/threatLevelToText/default/0"
+        "/threatLevelText/default/0"
       ]
     },
     "Texts": {
@@ -697,6 +731,54 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/moon"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lunar",
+      "Rus": "Лунный"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/garden"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lush",
+      "Rus": "Земной"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/clusterinfo/children/inner/children/moons/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "MANY MOONS",
+      "Rus": "МНОГО ЛУН"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/midnight"
+      ]
+    },
+    "Texts": {
+      "Eng": "Midnight",
+      "Rus": "Сумеречный"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/displayWeathers/groundmist/displayName"
       ]
     },
@@ -709,7 +791,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/threatLevelToText/default/1"
+        "/threatLevelText/default/1"
       ]
     },
     "Texts": {
@@ -721,12 +803,72 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/starmapTypeDescription/default"
+        "/starTypeNames/default"
       ]
     },
     "Texts": {
       "Eng": "Mysterious Star",
       "Rus": "Таинственная звезда"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/disabledLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "NAVIGATION OFFLINE",
+      "Rus": "НАВИГАЦИЯ ОТКЛЮЧЕНА"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/bookmarks/newTitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "NEW BOOKMARK",
+      "Rus": "НОВАЯ ЗАКЛАДКА"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/clusterMoons/none"
+      ]
+    },
+    "Texts": {
+      "Eng": "No orbiting bodies",
+      "Rus": "Нет спутников"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/ocean"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oceanic",
+      "Rus": "Океанический"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/clusterMoons/singular"
+      ]
+    },
+    "Texts": {
+      "Eng": "One orbiting body",
+      "Rus": "Один спутник"
     }
   },
   {
@@ -745,7 +887,19 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/guiConfig/bookmarkList/children/bookmarkItemList/schema/listTemplate/planetName/value"
+        "/gui/systeminfo/children/inner/children/planetList/schema/listTemplate/type/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "PLANET TYPE",
+      "Rus": "ТИПЫ ПЛАНЕТ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/bookmarksFrame/children/bookmarkList/children/bookmarkItemList/schema/listTemplate/planetName/value"
       ]
     },
     "Texts": {
@@ -757,19 +911,31 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/sizeText/label/text"
+        "/gui/remoteTitle/value"
       ]
     },
     "Texts": {
-      "Eng": "Planet Size",
-      "Rus": "Размер планеты"
+      "Eng": "REMOTE SYSTEM VIEW",
+      "Rus": "ДИСТАНЦИОННЫЙ ПРОСМОТР СИСТЕМЫ"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/starmapTypeDescription/yellowstar"
+        "/gui/objectinfo/children/inner/children/threat/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "REQUIRES MECH TO DEPLOY",
+      "Rus": "ДЛЯ ВЫСАДКИ ТРЕБУЕТСЯ МЕХ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/starTypeNames/yellowstar"
       ]
     },
     "Texts": {
@@ -793,7 +959,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/barren/2"
+        "/visitableTypeDescription/barren/2"
       ]
     },
     "Texts": {
@@ -805,7 +971,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/garden/2"
+        "/visitableTypeDescription/garden/2"
       ]
     },
     "Texts": {
@@ -817,7 +983,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/threatLevelToText/default/2"
+        "/threatLevelText/default/2"
       ]
     },
     "Texts": {
@@ -829,33 +995,55 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/guiConfig/goToQuest/caption"
+        "/gui/transitLabel/value"
       ]
     },
     "Texts": {
-      "Eng": "SHOW QUEST LOCATION",
-      "Rus": "РАСПОЛОЖЕНИЕ ЗАДАНИЯ"
+      "Eng": "SHIP IN TRANSIT",
+      "Rus": "КОРАБЛЬ В ДВИЖЕНИИ"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/guiConfig/goToMyShip/caption"
+        "/gui/objectinfo/children/inner/children/name/value"
       ]
     },
     "Texts": {
-      "Eng": "SHOW SHIP LOCATION",
-      "Rus": "ВАШЕ МЕСТОПОЛОЖЕНИЕ"
+      "Eng": "SPACE OBJECT",
+      "Rus": "КОСМИЧЕСКИЙ ОБЪЕКТ"
     }
   },
   {
-    "DeniedAlternatives": [
-      "Песок. По данным сканера тут песок. И немного кактусов... но в основном песок. Опираясь на это, предполагаю, что зона посадки находится в ^#e6c801;пустыне^white;."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/desert/2"
+        "/gui/systeminfo/children/inner/children/type/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "STAR TYPE",
+      "Rus": "ТИП ЗВЕЗДЫ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/systeminfo/children/inner/children/name/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "SYSTEM",
+      "Rus": "СИСТЕМА"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/desert/2"
       ]
     },
     "Texts": {
@@ -879,12 +1067,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/midnight/2"
+        "/visitableTypeDescription/midnight/2"
       ]
     },
     "Texts": {
       "Eng": "Scans show that the surface is ^#e11212;dark^white;. In fact, scans show little else on account of all the darkness. However, I surmise that the surface is ^red;dangerously cold^white;.",
       "Rus": "По данным сканера, поверхность ^#e11212;темна^white;. Кроме этой темноты сканер почти ничего не считывает. Но я предполагаю, что там ^red;чрезвычайно холодно^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/scorchedcity"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scorched",
+      "Rus": "Выженный"
     }
   },
   {
@@ -903,7 +1103,19 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/displayOres/10/displayName"
+        "/planetTypeNames/snow"
+      ]
+    },
+    "Texts": {
+      "Eng": "Snowy",
+      "Rus": "Снежный"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/solarium/displayName"
       ]
     },
     "Texts": {
@@ -939,7 +1151,43 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/starmapTypeDescription/orangestar"
+        "/gui/clusterinfo/children/inner/children/name/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "THIS IS A CLUSTER",
+      "Rus": "ЭТО СКОПЛЕНИЕ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/planetinfo/children/inner/children/name/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "THIS IS A PLANET",
+      "Rus": "ЭТО ПЛАНЕТА"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/objectinfo/children/inner/children/description/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "THIS IS A VERY NICE SPACE OBJECT",
+      "Rus": ""
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/starTypeNames/orangestar"
       ]
     },
     "Texts": {
@@ -960,12 +1208,10 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Зона посадки в ^#e11212;вулканической^white; местности, где ^red;чрезвычайно горячо^white;. По первому требованию я начну расчёты вероятности немедленного испепеления после высадки..."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/volcanic/0"
+        "/visitableTypeDescription/volcanic/0"
       ]
     },
     "Texts": {
@@ -977,7 +1223,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/alien/2"
+        "/visitableTypeDescription/alien/2"
       ]
     },
     "Texts": {
@@ -989,7 +1235,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/scorchedcity/1"
+        "/visitableTypeDescription/scorchedcity/1"
       ]
     },
     "Texts": {
@@ -998,12 +1244,10 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Зона посадки - остров в ^#00ffe4;холодном океане^white;. ^red;Температура очень низкая^white;. Существует шанс 0.025% промахнуться и высадиться прямо в воду, мгновенно став ледышкой."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/arctic/1"
+        "/visitableTypeDescription/arctic/1"
       ]
     },
     "Texts": {
@@ -1015,7 +1259,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/magma/2"
+        "/visitableTypeDescription/magma/2"
       ]
     },
     "Texts": {
@@ -1024,12 +1268,10 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Зона посадки в спокойной местности, густо населённой разными формами жизни. Имеются залежи полезных ресурсов. ^#76fe68;Изобильная^white; и приятная планета."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/garden/1"
+        "/visitableTypeDescription/garden/1"
       ]
     },
     "Texts": {
@@ -1041,7 +1283,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/volcanic/2"
+        "/visitableTypeDescription/volcanic/2"
       ]
     },
     "Texts": {
@@ -1053,7 +1295,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/scorchedcity/0"
+        "/visitableTypeDescription/scorchedcity/0"
       ]
     },
     "Texts": {
@@ -1065,7 +1307,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/snow/1"
+        "/visitableTypeDescription/snow/1"
       ]
     },
     "Texts": {
@@ -1077,7 +1319,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/savannah/2"
+        "/visitableTypeDescription/savannah/2"
       ]
     },
     "Texts": {
@@ -1089,7 +1331,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/scorchedcity/2"
+        "/visitableTypeDescription/scorchedcity/2"
       ]
     },
     "Texts": {
@@ -1101,7 +1343,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/jungle/0"
+        "/visitableTypeDescription/jungle/0"
       ]
     },
     "Texts": {
@@ -1113,7 +1355,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/savannah/0"
+        "/visitableTypeDescription/savannah/0"
       ]
     },
     "Texts": {
@@ -1125,7 +1367,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/magma/1"
+        "/visitableTypeDescription/magma/1"
       ]
     },
     "Texts": {
@@ -1137,7 +1379,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/desert/0"
+        "/visitableTypeDescription/desert/0"
       ]
     },
     "Texts": {
@@ -1149,7 +1391,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/moon/1"
+        "/visitableTypeDescription/moon/1"
       ]
     },
     "Texts": {
@@ -1158,12 +1400,10 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "^#e11212;Тёмный^white;, ^red;невероятно холодный^white; мир. Странные тёмные создания живут здесь под покровом вечной ночи."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/midnight/1"
+        "/visitableTypeDescription/midnight/1"
       ]
     },
     "Texts": {
@@ -1172,12 +1412,10 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "^red;Чрезвычайно холодная^white; зона посадки полностью ^#61ffe3;заморожена^white;. Высока вероятность непроизвольной криоконсервации.  Защитите себя от холода."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/tundra/1"
+        "/visitableTypeDescription/tundra/1"
       ]
     },
     "Texts": {
@@ -1189,7 +1427,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/magma/0"
+        "/visitableTypeDescription/magma/0"
       ]
     },
     "Texts": {
@@ -1201,7 +1439,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/toxic/1"
+        "/visitableTypeDescription/toxic/1"
       ]
     },
     "Texts": {
@@ -1213,7 +1451,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/savannah/1"
+        "/visitableTypeDescription/savannah/1"
       ]
     },
     "Texts": {
@@ -1225,7 +1463,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/snow/0"
+        "/visitableTypeDescription/snow/0"
       ]
     },
     "Texts": {
@@ -1234,12 +1472,10 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "^#06ff00;Токсичная^white; планета с ^red;сильным радиационным фоном^white;. Океаны из отходов смертельно ядовиты... Позволю напомнить, что в этой системе есть другие планеты."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/toxic/2"
+        "/visitableTypeDescription/toxic/2"
       ]
     },
     "Texts": {
@@ -1251,7 +1487,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/midnight/0"
+        "/visitableTypeDescription/midnight/0"
       ]
     },
     "Texts": {
@@ -1263,7 +1499,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/alien/0"
+        "/visitableTypeDescription/alien/0"
       ]
     },
     "Texts": {
@@ -1275,7 +1511,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/barren/0"
+        "/visitableTypeDescription/barren/0"
       ]
     },
     "Texts": {
@@ -1287,7 +1523,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/snow/2"
+        "/visitableTypeDescription/snow/2"
       ]
     },
     "Texts": {
@@ -1311,7 +1547,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/toxic/0"
+        "/visitableTypeDescription/toxic/0"
       ]
     },
     "Texts": {
@@ -1323,7 +1559,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/barren/1"
+        "/visitableTypeDescription/barren/1"
       ]
     },
     "Texts": {
@@ -1344,12 +1580,10 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Пустынная ^#949493;луна^white; ^red;без атмосферы^white;, но с подземными кавернами полными топливом. Итог: полезная, но непривлекательная."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/moon/2"
+        "/visitableTypeDescription/moon/2"
       ]
     },
     "Texts": {
@@ -1361,19 +1595,19 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/threatLevelText/label/text"
+        "/gui/planetinfo/children/inner/children/threatLabel/value"
       ]
     },
     "Texts": {
-      "Eng": "Threat",
-      "Rus": "Уровень угрозы"
+      "Eng": "Threat: ",
+      "Rus": "Угроза:"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/displayOres/5/displayName"
+        "/displayOres/titanium/displayName"
       ]
     },
     "Texts": {
@@ -1385,7 +1619,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/displayOres/4/displayName"
+        "/displayOres/tungsten/displayName"
       ]
     },
     "Texts": {
@@ -1397,7 +1631,35 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/threatLevelToText/moon/0"
+        "/clusterInfoBox/viewButtonCaption/disabled",
+        "/gui/clusterinfo/children/inner/children/view/caption",
+        "/gui/systeminfo/children/inner/children/view/caption",
+        "/objectInfoBox/bookmarkButtonCaption/unexplored",
+        "/systemInfoBox/viewButtonCaption/disabled"
+      ]
+    },
+    "Texts": {
+      "Eng": "UNEXPLORED",
+      "Rus": "НЕИЗУЧЕНО"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/remoteDescription/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "UNMAPPED CELESTIAL OBJECTS UNAVAILABLE",
+      "Rus": "НЕИССЛЕДОВАННЫЕ КОСМИЧЕСКИЕ ТЕЛА НЕДОСТУПНЫ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/threatLevelText/moon/0"
       ]
     },
     "Texts": {
@@ -1409,7 +1671,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/threatLevelToText/default/6"
+        "/threatLevelText/default/6"
       ]
     },
     "Texts": {
@@ -1421,7 +1683,44 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/displayOres/9/displayName"
+        "/clusterInfoBox/viewButtonCaption/enabled",
+        "/systemInfoBox/viewButtonCaption/enabled"
+      ]
+    },
+    "Texts": {
+      "Eng": "VIEW",
+      "Rus": "ПЕРЕЙТИ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/topLeftButtonTooltips/goToQuest"
+      ]
+    },
+    "Texts": {
+      "Eng": "View quest location",
+      "Rus": "Расположение квеста"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/topLeftButtonTooltips/goToShip"
+      ]
+    },
+    "Texts": {
+      "Eng": "View ship",
+      "Rus": "К кораблю"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/violium/displayName"
       ]
     },
     "Texts": {
@@ -1433,7 +1732,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/weatherText/text"
+        "/gui/planetinfo/children/inner/children/weather/value"
       ]
     },
     "Texts": {
@@ -1457,7 +1756,31 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/forest/2"
+        "/gui/coordinatesFrame/children/xLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "X",
+      "Rus": "X"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/coordinatesFrame/children/yLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Y",
+      "Rus": "Y"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/forest/2"
       ]
     },
     "Texts": {
@@ -1469,7 +1792,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/garden/0"
+        "/visitableTypeDescription/garden/0"
       ]
     },
     "Texts": {
@@ -1481,7 +1804,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/guiConfig/windowtitle/subtitle"
+        "/gui/windowtitle/subtitle"
       ]
     },
     "Texts": {
@@ -1493,7 +1816,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/volcanic/1"
+        "/visitableTypeDescription/volcanic/1"
       ]
     },
     "Texts": {
@@ -1505,7 +1828,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/jungle/2"
+        "/visitableTypeDescription/jungle/2"
       ]
     },
     "Texts": {
@@ -1517,7 +1840,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/tundra/2"
+        "/visitableTypeDescription/tundra/2"
       ]
     },
     "Texts": {
@@ -1529,7 +1852,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/planetTypeToDescription/arctic/0"
+        "/visitableTypeDescription/arctic/0"
       ]
     },
     "Texts": {
@@ -1541,12 +1864,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/guiConfig/bookmarkListLabel/value"
+        "/gui/planetinfo/children/inner/children/threatValue/value"
       ]
     },
     "Texts": {
-      "Eng": "^shadow;BOOKMARKS",
-      "Rus": "ЗАКЛАДКИ"
+      "Eng": "dangerous",
+      "Rus": "опасность"
     }
   }
 ]

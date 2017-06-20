@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/mechlegs.itemdescription": [
+        "/speedStatLabel/value"
+      ],
+      "interface/tooltips/mechlegs.tooltip": [
+        "/speedStatLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ground Speed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/mechlegs.itemdescription": [
+        "/jumpStatLabel/value"
+      ],
+      "interface/tooltips/mechlegs.tooltip": [
+        "/jumpStatLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jump Power"
+    }
+  }
+]

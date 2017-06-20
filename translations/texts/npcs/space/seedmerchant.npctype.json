@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/space/seedmerchant.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Seed Merchant"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/space/seedmerchant.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Sells seeds for farming!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/space/seedmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran makesss plantsss grow in ssspace. Floran not have many cussstomers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/space/seedmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/end/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Have fun in ssspace!"
+    }
+  }
+]

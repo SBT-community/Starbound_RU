@@ -3,12 +3,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/crew/crewmembermechanic.npctype": [
-        "/scriptConfig/dialog/crewmember/shipImprovementApplied/default/default/0"
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/0"
       ]
     },
     "Texts": {
-      "Eng": "Fuel tank capacity increased, captain! Let's see if I can't add some more!",
-      "Rus": "Емкость топливного бака увеличена, капитан! Давайте посмотрим, смогу ли я добавить еще немного!"
+      "Eng": "I'll keep clearing out the carborator while I'm here. Fuel efficiency is up 10%!"
     }
   },
   {
@@ -33,18 +32,6 @@
     "Texts": {
       "Eng": "Technical",
       "Rus": "по технике"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/crew/crewmembermechanic.npctype": [
-        "/scriptConfig/dialog/crewmember/roleDescription/default/default/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "Wow, this fuel tank is tiny! I'll fix that...",
-      "Rus": "Вау, этот топливный бак крошечный! Я исправлю это..."
     }
   }
 ]
