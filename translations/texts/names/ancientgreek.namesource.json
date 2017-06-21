@@ -3470,7 +3470,7 @@
     },
     "Texts": {
       "Eng": "Dysis",
-      "Rus": ""
+      "Rus": "Дисис"
     }
   },
   {
@@ -4894,7 +4894,9 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Гесперида"
+    ],
     "Files": {
       "names/ancientgreek.namesource": [
         "/sourceNames/308"
@@ -4902,12 +4904,14 @@
     },
     "Texts": {
       "Eng": "Hesperides",
-      "Rus": "Гесперида"
+      "Rus": "Геспериды"
     }
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Гесперис"
+    ],
     "Files": {
       "names/ancientgreek.namesource": [
         "/sourceNames/388"
@@ -4915,7 +4919,7 @@
     },
     "Texts": {
       "Eng": "Hesperis",
-      "Rus": "Гесперис"
+      "Rus": "Гесперида"
     }
   },
   {
