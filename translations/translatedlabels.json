@@ -3207,20 +3207,20 @@
         },
         "mechparts": {
           "arm": {
-            "mecharmbeamdrill.item.json": 0,
-            "mecharmbeamsniper.item.json": 0,
-            "mecharmcannon.item.json": 0,
+            "mecharmbeamdrill.item.json": 2,
+            "mecharmbeamsniper.item.json": 1,
+            "mecharmcannon.item.json": 2,
             "mecharmchainsaw.item.json": 0,
             "mecharmclustermine.item.json": 0,
             "mecharmdespawn.item.json": 0,
-            "mecharmdrill.item.json": 0,
+            "mecharmdrill.item.json": 2,
             "mecharmdualrifle.item.json": 0,
             "mecharmenergyblade.item.json": 0,
             "mecharmenergyrifle.item.json": 0,
             "mecharmflakcannon.item.json": 0,
-            "mecharmgatling.item.json": 0,
+            "mecharmgatling.item.json": 2,
             "mecharmgravitymine.item.json": 0,
-            "mecharmguidedmissiles.item.json": 0,
+            "mecharmguidedmissiles.item.json": 2,
             "mecharmheatrifle.item.json": 0,
             "mecharmhomingmissile.item.json": 0,
             "mecharmmissilerack.item.json": 2,
@@ -4370,7 +4370,7 @@
       }
     },
     "names": {
-      "ancientgreek.namesource.json": 28,
+      "ancientgreek.namesource.json": 570,
       "aztec.namesource.json": 138,
       "russianfemale.namesource.json": 81,
       "russianmale.namesource.json": 73,
@@ -10371,7 +10371,7 @@
           "dirttrapdoor.object.json": 0
         },
         "drip1": {
-          "drip1.object.json": 0
+          "drip1.object.json": 2
         },
         "drip2": {
           "drip2.object.json": 2
@@ -11816,7 +11816,7 @@
           "futureteleporter.object.json": 1
         },
         "returnoutpostteleporter": {
-          "remoteteleporter.object.json": 0,
+          "remoteteleporter.object.json": 1,
           "returnoutpostteleporter.object.json": 8,
           "shared_teleporter.object.json": 1
         },
@@ -13239,7 +13239,7 @@
       "glitchfemalenamegen.config.json": 9,
       "glitchmalenamegen.config.json": 10,
       "human.species.json": 5,
-      "humanfemalenamegen.config.json": 106,
+      "humanfemalenamegen.config.json": 126,
       "humanmalenamegen.config.json": 123,
       "humannamegen.config.json": 13,
       "hylotl.species.json": 7,
