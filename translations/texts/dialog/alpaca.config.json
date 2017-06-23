@@ -815,7 +815,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ты мелкий трусливый придурок!"
+    ],
     "Files": {
       "dialog/alpaca.config": [
         "/attack/default/default/3"
@@ -823,7 +825,7 @@
     },
     "Texts": {
       "Eng": "Ye wee craven fool!",
-      "Rus": ""
+      "Rus": "Ты мелкий трусливый придурок!"
     }
   }
 ]
