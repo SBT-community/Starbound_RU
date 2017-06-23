@@ -531,7 +531,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Сделай трусливый удар!"
+    ],
     "Files": {
       "dialog/alpaca.config": [
         "/cheerOn/default/default/1"
@@ -539,7 +541,7 @@
     },
     "Texts": {
       "Eng": "Make the craven hurt!",
-      "Rus": ""
+      "Rus": "Сделай трусливый удар!"
     }
   },
   {
@@ -611,7 +613,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Это то, что вы получите!"
+    ],
     "Files": {
       "dialog/alpaca.config": [
         "/killedTarget/default/default/2"
@@ -619,7 +623,7 @@
     },
     "Texts": {
       "Eng": "That's what ye get!",
-      "Rus": ""
+      "Rus": "Это то, что вы получите!"
     }
   },
   {
@@ -731,7 +735,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ты трус!"
+    ],
     "Files": {
       "dialog/alpaca.config": [
         "/attack/default/default/4"
@@ -739,7 +745,7 @@
     },
     "Texts": {
       "Eng": "Ye craven!",
-      "Rus": ""
+      "Rus": "Ты трус!"
     }
   },
   {
@@ -795,7 +801,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Эй, мелкая тварь! Вернись!"
+    ],
     "Files": {
       "dialog/alpaca.config": [
         "/outOfSight/default/default/1"
@@ -803,7 +811,7 @@
     },
     "Texts": {
       "Eng": "Ye wee blighter! Get back!",
-      "Rus": ""
+      "Rus": "Эй, мелкая тварь! Вернись!"
     }
   },
   {
