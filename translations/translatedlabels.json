@@ -3213,14 +3213,14 @@
             "mecharmchainsaw.item.json": 0,
             "mecharmclustermine.item.json": 0,
             "mecharmdespawn.item.json": 0,
-            "mecharmdrill.item.json": 0,
+            "mecharmdrill.item.json": 2,
             "mecharmdualrifle.item.json": 0,
-            "mecharmenergyblade.item.json": 0,
+            "mecharmenergyblade.item.json": 2,
             "mecharmenergyrifle.item.json": 0,
             "mecharmflakcannon.item.json": 0,
-            "mecharmgatling.item.json": 0,
+            "mecharmgatling.item.json": 2,
             "mecharmgravitymine.item.json": 0,
-            "mecharmguidedmissiles.item.json": 0,
+            "mecharmguidedmissiles.item.json": 2,
             "mecharmheatrifle.item.json": 0,
             "mecharmhomingmissile.item.json": 0,
             "mecharmmissilerack.item.json": 2,
@@ -11001,12 +11001,12 @@
           "stationbackgroundtjuncvertical.object.json": 0
         },
         "expansionslot": {
-          "expansionslot.object.json": 0,
-          "expansionslothorizontal.object.json": 0,
-          "shared_expansionslot.json": 0
+          "expansionslot.object.json": 1,
+          "expansionslothorizontal.object.json": 1,
+          "shared_expansionslot.json": 8
         },
         "playerstationconsole": {
-          "playerstationconsole.object.json": 0
+          "playerstationconsole.object.json": 9
         }
       },
       "protectorate": {
