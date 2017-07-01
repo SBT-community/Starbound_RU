@@ -389,18 +389,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/fenerox.config": [
-        "/converse/default/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Hopefully nice. Feeling cautious!",
-      "Rus": "Надеюсь хорошая. Чувствую настороженность!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/fenerox.config": [
         "/killedTarget/default/default/1"
       ]
     },
@@ -443,18 +431,6 @@
     "Texts": {
       "Eng": "Leaving now. Being ignored. Poor home! ",
       "Rus": "Ухожу сейчас. Не слушают. Бедный дом!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/fenerox.config": [
-        "/converse/default/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Looks metal. Quite exciting!",
-      "Rus": "Выглядит железным. Весьма волнительно!"
     }
   },
   {
@@ -515,6 +491,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/fenerox.config": [
+        "/converse/default/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "New person. Looks metal. Quite exciting!",
+      "Rus": "Новая личность. Выглядит железным. Весьма волнительно!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
         "/converse/default/hylotl/0"
       ]
     },
@@ -546,6 +534,7 @@
         "/converse/default/avian/6",
         "/converse/default/default/6",
         "/converse/default/floran/6",
+        "/converse/default/glitch/6",
         "/converse/default/hylotl/6",
         "/converse/default/novakid/6"
       ]
@@ -596,18 +585,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/fenerox.config": [
-        "/converse/default/glitch/6/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Not confident. Saying hello!",
-      "Rus": "Не уверен. Говорю привет!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/fenerox.config": [
         "/safe/default/default/3"
       ]
     },
@@ -624,6 +601,7 @@
         "/converse/default/avian/1",
         "/converse/default/default/1",
         "/converse/default/floran/1",
+        "/converse/default/glitch/1",
         "/converse/default/hylotl/1",
         "/converse/default/novakid/1"
       ]
@@ -641,6 +619,7 @@
         "/converse/default/avian/4",
         "/converse/default/default/4",
         "/converse/default/floran/4",
+        "/converse/default/glitch/4",
         "/converse/default/hylotl/4",
         "/converse/default/novakid/4"
       ]
@@ -684,18 +663,6 @@
     "Texts": {
       "Eng": "Really upset. Feeling ignored. Might leave.",
       "Rus": "Очень расстроен. Чувствую невнимание. Должен уйти."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/fenerox.config": [
-        "/converse/default/glitch/4/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Saying hello. Not Fenerox?",
-      "Rus": "Говорю привет. Не Фенерокс?"
     }
   },
   {
