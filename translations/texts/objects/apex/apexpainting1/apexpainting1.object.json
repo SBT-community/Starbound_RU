@@ -20,7 +20,7 @@
     },
     "Texts": {
       "Eng": "A very flattering painting of Big Ape, Glorious Beloved Leader of the Apex.",
-      "Rus": "Очень лестное изображение Большого Эйпа, величайшего и прекраснейшего лидера апексов"
+      "Rus": "Очень лестное изображение Большого Эйпа, величайшего и прекраснейшего лидера апексов."
     }
   },
   {
@@ -68,7 +68,7 @@
     },
     "Texts": {
       "Eng": "I don't think this guy is living up to his image.",
-      "Rus": "Не думаю что чувак на этой картинке выглядит так же как в жизни."
+      "Rus": "Не думаю, что чувак на этой картинке выглядит так же, как в жизни."
     }
   },
   {
@@ -96,7 +96,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Этот апекс нарисован так, будто он бог."
+    ],
     "Files": {
       "objects/apex/apexpainting1/apexpainting1.object": [
         "/avianDescription"
@@ -104,7 +106,7 @@
     },
     "Texts": {
       "Eng": "This Ape is painted like a god.",
-      "Rus": "Этот апекс нарисован так, будто он бог."
+      "Rus": "Этот Эйп нарисован так, будто он бог."
     }
   }
 ]

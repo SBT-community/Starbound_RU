@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Грубые и необработанные, похоже они были недавно нарублены"
+    ],
     "Files": {
       "items/materials/fullwood2.matitem": [
         "/description"
@@ -11,7 +13,7 @@
     },
     "Texts": {
       "Eng": "Rough and unrefined, this wood looks freshly chopped.",
-      "Rus": "Грубые и необработанные, похоже они были недавно нарублены"
+      "Rus": "Грубые и необработанные, похоже, они были недавно нарублены"
     }
   },
   {
@@ -41,7 +43,7 @@
     },
     "Texts": {
       "Eng": "Unrefined wood.",
-      "Rus": "Необработанное дерево"
+      "Rus": "Необработанное дерево."
     }
   },
   {
