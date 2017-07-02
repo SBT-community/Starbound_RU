@@ -30,7 +30,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Отличная горячая ванна.То что доктор прописал. Только не хватает пузырьков и свечей."
+    ],
     "Files": {
       "objects/human/basicbath/basicbath.object": [
         "/humanDescription"
@@ -41,7 +43,7 @@
     },
     "Texts": {
       "Eng": "A nice hot bath. Just what the doctor ordered. Only things missing are some bubbles and candles.",
-      "Rus": "Отличная горячая ванна.То что доктор прописал. Только не хватает пузырьков и свечей."
+      "Rus": "Отличная горячая ванна. То, что доктор прописал. Только не хватает пузырьков и свечей."
     }
   },
   {
@@ -90,7 +92,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я люблю время от времени принять горячую ванну."
+    ],
     "Files": {
       "objects/human/basicbath/basicbath.object": [
         "/novakidDescription"
@@ -101,7 +105,7 @@
     },
     "Texts": {
       "Eng": "I do enjoy a hot bath every once in a while.",
-      "Rus": "Я люблю время от времени принять горячую ванну."
+      "Rus": "Я люблю время от времени принимать горячую ванну."
     }
   }
 ]

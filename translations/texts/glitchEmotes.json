@@ -10691,30 +10691,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "dialog/fenerox.config": [
-        "/converse/default/glitch/0/glitchEmote"
-      ]
-    },
-    "Texts": {
-      "Eng": "New person.",
-      "Rus": "Новая личность."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/fenerox.config": [
-        "/converse/default/glitch/6/glitchEmote"
-      ]
-    },
-    "Texts": {
-      "Eng": "New stranger.",
-      "Rus": "Новый незнакомец."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "objects/avian/idolsupport/idolsupport.object": [
         "/glitchDescription/glitchEmote"
       ]
@@ -11628,25 +11604,13 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "dialog/fenerox.config": [
-        "/converse/default/glitch/1/glitchEmote",
-        "/converse/default/glitch/4/glitchEmote"
-      ]
-    },
-    "Texts": {
-      "Eng": "Odd person.",
-      "Rus": "Странная личность."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "objects/novakid/saloonseat/saloonseat.object": [
         "/glitchDescription/glitchEmote"
       ]
     },
     "Texts": {
-      "Eng": "Opinionated."
+      "Eng": "Opinionated.",
+      "Rus": ""
     }
   },
   {
@@ -11821,7 +11785,7 @@
     },
     "Texts": {
       "Eng": "Paranoid.",
-      "Rus": "Параноидальный."
+      "Rus": "Параноидально."
     }
   },
   {
@@ -11839,7 +11803,7 @@
     },
     "Texts": {
       "Eng": "Patient.",
-      "Rus": "Терпеливый."
+      "Rus": "Терпеливо."
     }
   },
   {

@@ -8,7 +8,7 @@
     },
     "Texts": {
       "Eng": "A display commemorating the spear of a Floran who won a hunting ceremony.",
-      "Rus": "Витрина копья Флорана, который победил в охотничьей церемонии"
+      "Rus": "Витрина копья Флорана, который победил в охотничьей церемонии."
     }
   },
   {
@@ -44,11 +44,13 @@
     },
     "Texts": {
       "Eng": "If the inscriptions are to be believed, this spear once belonged to a victorious Floran hunter.",
-      "Rus": "Если верить надписям, это копье когда-то принадлежало победившему Флоранскому охотнику"
+      "Rus": "Если верить надписям, это копьё когда-то принадлежало победившему Флоранскому охотнику."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Копье принадлежавшее сссильному охотнику Флорану."
+    ],
     "Files": {
       "objects/clues/floran/championspeardisplay/championspeardisplay.object": [
         "/floranDescription"
@@ -56,11 +58,13 @@
     },
     "Texts": {
       "Eng": "Ssspear musst have belonged to sstrong Floran hunter.",
-      "Rus": "Копье принадлежавшее сссильному охотнику Флорану"
+      "Rus": "Копьё принадлежавшее сссильному охотнику Флорану."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Похоже что Флораны чтят победивших охотником такими стендами."
+    ],
     "Files": {
       "objects/clues/floran/championspeardisplay/championspeardisplay.object": [
         "/avianDescription"
@@ -68,11 +72,13 @@
     },
     "Texts": {
       "Eng": "The Florans appear to honour victorious hunters with displays like this.",
-      "Rus": "Похоже что Флораны чтят победивших охотником такими стендами."
+      "Rus": "Похоже, что Флораны чтят победивших охотником такими стендами."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Похоже на копье, которое использовал чемпион охоты Флоранов в далеких временах."
+    ],
     "Files": {
       "objects/clues/floran/championspeardisplay/championspeardisplay.object": [
         "/apexDescription"
@@ -80,7 +86,7 @@
     },
     "Texts": {
       "Eng": "This appears to be a spear used by a champion Floran hunter of times long since past.",
-      "Rus": "Похоже на копье, которое использовал чемпион охоты Флоранов в далеких временах."
+      "Rus": "Похоже на копьё, которое использовал чемпион охоты Флоранов в далеких временах."
     }
   },
   {
@@ -91,11 +97,14 @@
       ]
     },
     "Texts": {
-      "Eng": "This sharp lookin' spear looks t'have belonged to an ol' hunter"
+      "Eng": "This sharp lookin' spear looks t'have belonged to an ol' hunter",
+      "Rus": ""
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Это копье принадлежало сильному воину Флорану, который победил в какой-то великой охоте."
+    ],
     "Files": {
       "objects/clues/floran/championspeardisplay/championspeardisplay.object": [
         "/glitchDescription/glitchEmotedText"
@@ -103,7 +112,7 @@
     },
     "Texts": {
       "Eng": "This spear belonged to a mighty Floran warrior who won some sort of grand hunt.",
-      "Rus": "Это копье принадлежало сильному воину Флорану, который победил в какой-то великой охоте."
+      "Rus": "Это копьё принадлежало сильному воину Флорану, который победил в какой-то великой охоте."
     }
   }
 ]

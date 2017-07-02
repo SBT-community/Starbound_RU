@@ -8,7 +8,7 @@
     },
     "Texts": {
       "Eng": "A computer displaying information downloaded from the drone on top.",
-      "Rus": "Компьютер показывающий данные загруженные с дрона сверху."
+      "Rus": "Компьютер, показывающий данные, загруженные с дрона сверху."
     }
   },
   {
@@ -20,7 +20,7 @@
     },
     "Texts": {
       "Eng": "Computer sscreen showing thingsss from machine.",
-      "Rus": "Экран компьютера показывает всякое из машшшины."
+      "Rus": "Экран компьютера показывает всякое из машины."
     }
   },
   {
@@ -36,9 +36,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Стойка с данными Минидрона"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/clues/apex/minidronerack/minidronerack.object": [
         "/shortdescription"
@@ -82,7 +80,7 @@
     },
     "Texts": {
       "Eng": "This computer is attached to the robotic drone. I wonder what information it has found from it?",
-      "Rus": "Этот компьютер прикреплен к роботизированному дрону. Интересно, какую информацию он нашел?"
+      "Rus": "Этот компьютер прикреплён к роботизированному дрону. Интересно, какую информацию он нашёл?"
     }
   },
   {
@@ -98,7 +96,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Этот компьютер подключен к дрону наверху. Интересно, кто его сделал, и какая информация может быть добыта с него?"
+    ],
     "Files": {
       "objects/clues/apex/minidronerack/minidronerack.object": [
         "/humanDescription"
@@ -106,7 +106,7 @@
     },
     "Texts": {
       "Eng": "This computer is hooked up to the drone on top. I wonder who made it, and what information can be found from it?",
-      "Rus": "Этот компьютер подключен к дрону наверзу. Интересно, кто его сделал, и какая информация может быть добыта с него?"
+      "Rus": "Этот компьютер подключён к дрону наверху. Интересно, кто его сделал, и какая информация может быть добыта с него?"
     }
   }
 ]

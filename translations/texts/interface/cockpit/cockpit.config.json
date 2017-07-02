@@ -381,6 +381,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/objectThreatText/available/3",
         "/threatLevelText/default/3"
       ]
     },
@@ -455,6 +456,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/objectThreatText/available/4",
         "/threatLevelText/default/4"
       ]
     },
@@ -707,6 +709,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/objectThreatText/available/1",
         "/threatLevelText/default/0"
       ]
     },
@@ -791,6 +794,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/objectThreatText/available/2",
         "/threatLevelText/default/1"
       ]
     },
@@ -845,6 +849,19 @@
     "Texts": {
       "Eng": "No orbiting bodies",
       "Rus": "Нет спутников"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/objectThreatText/available/0",
+        "/objectThreatText/friendly"
+      ]
+    },
+    "Texts": {
+      "Eng": "None",
+      "Rus": "Нет"
     }
   },
   {
@@ -923,7 +940,8 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/gui/objectinfo/children/inner/children/threat/value"
+        "/gui/objectinfo/children/inner/children/threat/value",
+        "/objectThreatText/unavailable"
       ]
     },
     "Texts": {
@@ -1858,6 +1876,18 @@
     "Texts": {
       "Eng": "^red;Temperatures at the landing site are dangerously low.^white; You will be beaming onto a small island surrounded by ^#00ffe4;frigid ocean^white;. I strongly advise you to wear a scarf.",
       "Rus": "^red;Температура в зоне посадки чрезвычайно низкая^white;. Сама зона посадки - это остров, окружённый холодными океанами. Рекомендую надеть шарф."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/threatTextPrefix"
+      ]
+    },
+    "Texts": {
+      "Eng": "^white;Threat: ^reset;",
+      "Rus": "^white;Угроза: ^reset;"
     }
   },
   {
