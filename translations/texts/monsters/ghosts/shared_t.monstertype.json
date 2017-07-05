@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Когда он закрывает свои глаза, он становится неуязвимым для нападений."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "monsters/ghosts/erchiusghost/erchiusghost.monstertype": [
         "/description"
@@ -13,7 +11,7 @@
     },
     "Texts": {
       "Eng": "When it closes its eyes it becomes immune to attacks by entering a different plane of existence.",
-      "Rus": "Когда он закрывает глаза, он неуязвим для атак, входя в другую плоскость существования."
+      "Rus": "Когда он закрывает глаза, он становится невосприимчивым к атакам, входя в другую плоскость бытия."
     }
   }
 ]

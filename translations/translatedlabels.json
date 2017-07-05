@@ -163,6 +163,7 @@
         "shipupgrade.cinematic.json": 1
       }
     },
+    "client.config.json": 0,
     "codex": {
       "apex": {
         "apexhistory1.codex.json": 5,
@@ -416,9 +417,9 @@
         "recruitconfirmation.config.json": 2,
         "resetuniformconfirmation.config.json": 2,
         "setuniformconfirmation.config.json": 2,
-        "shared_confirmation.config.json": 1,
+        "shared_confirmation.config.json": 2,
         "shared_setuniformconfirmation.config.json": 1,
-        "teleportconfirmation.config.json": 22
+        "teleportconfirmation.config.json": 21
       },
       "easel": {
         "signdispenser.config.json": 2,
