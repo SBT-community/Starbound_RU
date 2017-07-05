@@ -33,6 +33,7 @@ specialSections = [
   SpecialSection("Винительный падеж", [], ["^.*quests/generated/pools/weapon\.config$"]),
   SpecialSection("Имена персонажей", [], ["^.*namegen\.config$", "^.*\.namesource$"]),
   SpecialSection("Наречие", [], ["^.*pools/hatadjectives.config$"]),
+  SpecialSection("Регулярное выражение (не для перевода, а для поддержки названий на кирилице)", ["^.*/regex$"], ["^.*\.config$"], True),
   SpecialSection("Привязанное к полу прилагательное",
     ["^.*generatedText/fluff/2/.*$"],
     ["^.*quests/generated/templates/spread_rumors.questtemplate$"], True),
