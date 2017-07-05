@@ -92,7 +92,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Error deploying probe. \nConnection lost..."
+      "Eng": "Error deploying probe. \nConnection lost...",
+      "Rus": "Ошибка запуска зонда.\nСоединение потеряно..."
     }
   },
   {
@@ -201,7 +202,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;Probe dispatched.\nProbe approaching target orbit"
+      "Eng": "^green;Probe dispatched.\nProbe approaching target orbit",
+      "Rus": "^green;Зонд запущен.\nЗонд приближается к орбите цели"
     }
   },
   {
@@ -212,7 +214,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;Probe has reached target orbit.\nDeploying station"
+      "Eng": "^green;Probe has reached target orbit.\nDeploying station",
+      "Rus": "^green;Зонд достиг орбиты цели.\nИдет развертывание станции"
     }
   },
   {
@@ -223,7 +226,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;Requesting probe dispatch"
+      "Eng": "^green;Requesting probe dispatch",
+      "Rus": "^green;Запрос запуска зонда"
     }
   },
   {
@@ -234,7 +238,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;Station deployed"
+      "Eng": "^green;Station deployed",
+      "Rus": "^green;Станция развернута"
     }
   },
   {
