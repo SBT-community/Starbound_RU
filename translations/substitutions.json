@@ -1821,47 +1821,25 @@
     "/planetTypeNames/volcanic": "texts/wide_spread_fields.json"
   },
   "interface/confirmation/hiremercenaryconfirmation.config": {
-    "/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
-    "/okCaption": "texts/interface/confirmation/shared_confirmation.config.json",
     "/title": "texts/interface/confirmation/shared_confirmation.config.json"
   },
-  "interface/confirmation/monstertradeconfirmation.config": {
-    "/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
-    "/okCaption": "texts/interface/confirmation/shared_confirmation.config.json"
-  },
   "interface/confirmation/recruitconfirmation.config": {
-    "/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
-    "/okCaption": "texts/interface/confirmation/shared_confirmation.config.json",
     "/title": "texts/interface/confirmation/shared_confirmation.config.json"
   },
   "interface/confirmation/resetuniformconfirmation.config": {
-    "/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
-    "/okCaption": "texts/interface/confirmation/shared_confirmation.config.json",
     "/subtitle": "texts/interface/confirmation/shared_setuniformconfirmation.config.json"
   },
   "interface/confirmation/setuniformconfirmation.config": {
-    "/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
-    "/okCaption": "texts/interface/confirmation/shared_confirmation.config.json",
     "/subtitle": "texts/interface/confirmation/shared_setuniformconfirmation.config.json"
   },
   "interface/confirmation/teleportconfirmation.config": {
-    "/arena1/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
     "/arena1/labels/name": "texts/shared_ion.json",
-    "/arena2/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
     "/arena2/labels/name": "texts/shared_ion.json",
-    "/arena3/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
     "/arena3/labels/name": "texts/shared_ion.json",
-    "/mechunlock/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
     "/mechunlock/labels/name": "texts/wide_spread_fields.json",
-    "/mechupgrade2/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
     "/mechupgrade2/labels/name": "texts/wide_spread_fields.json",
-    "/penguinmission1/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
     "/penguinmission1/labels/name": "texts/wide_spread_fields.json",
-    "/penguinmission2/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
-    "/penguinmission2/labels/name": "texts/wide_spread_fields.json",
-    "/techscientist_dash/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
-    "/techscientist_doublejump/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
-    "/techscientist_morphball/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json"
+    "/penguinmission2/labels/name": "texts/wide_spread_fields.json"
   },
   "interface/craftingtooltip/craftingtooltip.config": {
     "/itemList/schema/listTemplate/itemName/value": "texts/interface/shared_.config.json",
@@ -2161,10 +2139,6 @@
   "interface/warping/shipteleporter.config": {
     "/destinations/0/name": "texts/shared_interface.json",
     "/destinations/1/name": "texts/shared_interface.json"
-  },
-  "interface/windowconfig/beamupconfirmation.config": {
-    "/cancelCaption": "texts/interface.json",
-    "/okCaption": "texts/interface/windowconfig/shared_.config.json"
   },
   "interface/windowconfig/charcreation.config": {
     "/paneLayout/cancel/caption": "texts/interface.json",
