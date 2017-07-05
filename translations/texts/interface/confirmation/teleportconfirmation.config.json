@@ -185,12 +185,45 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/confirmation/teleportconfirmation.config": [
+        "/techscientist_dash/labels/name",
+        "/techscientist_doublejump/labels/name",
+        "/techscientist_morphball/labels/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elliot"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
         "/mechunlock/subtitle"
       ]
     },
     "Texts": {
       "Eng": "Mech Test Course",
       "Rus": "Курс испытаний Меха"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/arena1/cancelCaption",
+        "/arena2/cancelCaption",
+        "/arena3/cancelCaption",
+        "/mechunlock/cancelCaption",
+        "/mechupgrade2/cancelCaption",
+        "/penguinmission1/cancelCaption",
+        "/penguinmission2/cancelCaption",
+        "/techscientist_dash/cancelCaption",
+        "/techscientist_doublejump/cancelCaption",
+        "/techscientist_morphball/cancelCaption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not now"
     }
   },
   {
@@ -215,6 +248,25 @@
     "Texts": {
       "Eng": "Pulse Jump Test",
       "Rus": "Тестирование скачков"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/arena1/okCaption",
+        "/arena2/okCaption",
+        "/arena3/okCaption",
+        "/mechunlock/okCaption",
+        "/mechupgrade2/okCaption",
+        "/penguinmission2/okCaption",
+        "/techscientist_dash/okCaption",
+        "/techscientist_doublejump/okCaption",
+        "/techscientist_morphball/okCaption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ready"
     }
   },
   {

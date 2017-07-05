@@ -3,19 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/outpost/penguin1.questtemplate": [
-        "/scriptConfig/portraits/questComplete/title",
-        "/scriptConfig/portraits/questStarted/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Bartender",
-      "Rus": "Бармен"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/outpost/penguin1.questtemplate": [
         "/scriptConfig/descriptions/findGoal"
       ]
     },
