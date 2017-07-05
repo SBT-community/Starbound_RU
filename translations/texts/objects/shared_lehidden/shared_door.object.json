@@ -3,6 +3,27 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/templehiddendoor/templehiddendoor.object": [
+        "/floranDescription"
+      ],
+      "objects/avian/templehiddentrapdoor/templehiddentrapdoor.object": [
+        "/floranDescription"
+      ],
+      "objects/glitch/castlehiddendoor/castlehiddendoor.object": [
+        "/floranDescription"
+      ],
+      "objects/glitch/castlehiddentrapdoor/castlehiddentrapdoor.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Brickss ssmell different to other brickss.",
+      "Rus": "Эти кирпичи пахнут по другому, в отличие от других..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/templehiddendoor/templehiddendoor.object": [
         "/humanDescription"
       ],
       "objects/avian/templehiddentrapdoor/templehiddentrapdoor.object": [

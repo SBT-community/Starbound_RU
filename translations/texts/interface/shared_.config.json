@@ -397,5 +397,90 @@
       "Eng": "Stop",
       "Rus": "Стоп"
     }
+  },
+  {
+    "Comment": "Регулярное выражение (не для перевода, а для поддержки названий на кирилице)",
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/editBookmarkFrame/children/name/regex"
+      ],
+      "interface/windowconfig/editbookmark.config": [
+        "/paneLayout/name/regex"
+      ]
+    },
+    "Texts": {
+      "Eng": "[a-zA-Z0-9 '-?!.]{0,28}",
+      "Rus": "(Ё|\\xD0[\\x90-\\xBF]|\\xD1[\\x80-\\x8F\\x91]|[a-zA-Z0-9 '-?!.]){0,28}"
+    }
+  },
+  {
+    "Comment": "Регулярное выражение (не для перевода, а для поддержки названий на кирилице)",
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/objectcrafting/fossilstation.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/crafting.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/crafting3dprinter.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/craftinganvil.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/craftingcampfire.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/craftingfarming.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/craftingfood.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/craftingfurnace.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/craftingfurniture.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/craftingfurniturestore.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/craftingmech.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/craftingmedical.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/craftingmerchant.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/craftingnocategories.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/craftingwheel.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/inventorstable.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/merchant.config": [
+        "/paneLayout/buySellTabs/tabs/0/children/tbCount/regex"
+      ],
+      "interface/windowconfig/pixelcompressor.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/vendingmachine.config": [
+        "/paneLayout/buySellTabs/tabs/0/children/tbCount/regex"
+      ],
+      "interface/windowconfig/wiringstation.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ]
+    },
+    "Texts": {
+      "Eng": "x?\\d{0,4}"
+    }
   }
 ]

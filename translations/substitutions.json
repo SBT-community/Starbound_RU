@@ -1801,6 +1801,7 @@
     "/gui/bookmarksFrame/children/bookmarkList/children/bookmarkItemList/schema/listTemplate/name/value": "texts/interface/shared_.config.json",
     "/gui/editBookmarkFrame/children/close/caption": "texts/interface.json",
     "/gui/editBookmarkFrame/children/name/hint": "texts/interface/shared_.config.json",
+    "/gui/editBookmarkFrame/children/name/regex": "texts/interface/shared_.config.json",
     "/gui/editBookmarkFrame/children/ok/caption": "texts/interface/shared_.config.json",
     "/gui/editBookmarkFrame/children/remove/caption": "texts/interface/shared_.config.json",
     "/gui/editBookmarkFrame/children/title/value": "texts/interface/shared_.config.json",
@@ -1960,7 +1961,8 @@
     "/paneLayout/lblProducttitle/value": "texts/interface/shared_.config.json",
     "/paneLayout/lblSchematics/value": "texts/interface/shared_.config.json",
     "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value": "texts/interface.json",
-    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface.json"
+    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface.json",
+    "/paneLayout/tbSpinCount/regex": "texts/interface/shared_.config.json"
   },
   "interface/optionsmenu/optionsmenu.config": {
     "/paneLayout/acceptButton/caption": "texts/interface/shared_.config.json",
@@ -2146,7 +2148,8 @@
     "/paneLayout/lblProducttitle/value": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/lblSchematics/value": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value": "texts/interface.json",
-    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface.json"
+    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface.json",
+    "/paneLayout/tbSpinCount/regex": "texts/interface/shared_.config.json"
   },
   "interface/windowconfig/crafting3dprinter.config": {
     "/paneLayout/btnCraft/caption": "texts/interface/windowconfig/shared_crafting.json",
@@ -2156,7 +2159,8 @@
     "/paneLayout/lblProducttitle/value": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/lblSchematics/value": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value": "texts/interface.json",
-    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface.json"
+    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface.json",
+    "/paneLayout/tbSpinCount/regex": "texts/interface/shared_.config.json"
   },
   "interface/windowconfig/craftinganvil.config": {
     "/paneLayout/btnCraft/caption": "texts/interface/windowconfig/shared_crafting.json",
@@ -2166,7 +2170,8 @@
     "/paneLayout/lblProducttitle/value": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/lblSchematics/value": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value": "texts/interface.json",
-    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface.json"
+    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface.json",
+    "/paneLayout/tbSpinCount/regex": "texts/interface/shared_.config.json"
   },
   "interface/windowconfig/craftingcampfire.config": {
     "/paneLayout/btnCraft/caption": "texts/interface/windowconfig/shared_crafting.json",
@@ -2176,7 +2181,8 @@
     "/paneLayout/lblProducttitle/value": "texts/interface/windowconfig/shared_crafting.json",
     "/paneLayout/lblSchematics/value": "texts/interface/windowconfig/shared_crafting.json",
     "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value": "texts/interface.json",
-    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface.json"
+    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface.json",
+    "/paneLayout/tbSpinCount/regex": "texts/interface/shared_.config.json"
   },
   "interface/windowconfig/craftingfarming.config": {
     "/paneLayout/btnCraft/caption": "texts/interface/shared_.config.json",
@@ -2186,7 +2192,8 @@
     "/paneLayout/lblProducttitle/value": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/lblSchematics/value": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value": "texts/interface.json",
-    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface.json"
+    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface.json",
+    "/paneLayout/tbSpinCount/regex": "texts/interface/shared_.config.json"
   },
   "interface/windowconfig/craftingfood.config": {
     "/paneLayout/btnCraft/caption": "texts/interface/windowconfig/shared_crafting.json",
@@ -2196,6 +2203,7 @@
     "/paneLayout/lblSchematics/value": "texts/interface/windowconfig/shared_crafting.json",
     "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value": "texts/interface.json",
     "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface.json",
+    "/paneLayout/tbSpinCount/regex": "texts/interface/shared_.config.json",
     "/paneLayout/windowtitle/subtitle": "texts/shared_ing.json"
   },
   "interface/windowconfig/craftingfurnace.config": {
@@ -2205,7 +2213,8 @@
     "/paneLayout/lblProducttitle/value": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/lblSchematics/value": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value": "texts/interface.json",
-    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface.json"
+    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface.json",
+    "/paneLayout/tbSpinCount/regex": "texts/interface/shared_.config.json"
   },
   "interface/windowconfig/craftingfurniture.config": {
     "/paneLayout/btnCraft/caption": "texts/interface/shared_.config.json",
@@ -2215,14 +2224,16 @@
     "/paneLayout/lblProducttitle/value": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/lblSchematics/value": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value": "texts/interface.json",
-    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface.json"
+    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface.json",
+    "/paneLayout/tbSpinCount/regex": "texts/interface/shared_.config.json"
   },
   "interface/windowconfig/craftingfurniturestore.config": {
     "/paneLayout/btnCraft/caption": "texts/interface.json",
     "/paneLayout/lblFurniture/value": "texts/shared_config.json",
     "/paneLayout/lblPlayerMoney/value": "texts/interface.json",
     "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value": "texts/interface.json",
-    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface.json"
+    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface.json",
+    "/paneLayout/tbSpinCount/regex": "texts/interface/shared_.config.json"
   },
   "interface/windowconfig/craftingmech.config": {
     "/paneLayout/btnCraft/caption": "texts/interface/windowconfig/shared_crafting.json",
@@ -2232,7 +2243,8 @@
     "/paneLayout/lblProducttitle/value": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/lblSchematics/value": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value": "texts/interface.json",
-    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface.json"
+    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface.json",
+    "/paneLayout/tbSpinCount/regex": "texts/interface/shared_.config.json"
   },
   "interface/windowconfig/craftingmedical.config": {
     "/paneLayout/btnCraft/caption": "texts/interface/shared_.config.json",
@@ -2242,7 +2254,8 @@
     "/paneLayout/lblProducttitle/value": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/lblSchematics/value": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value": "texts/interface.json",
-    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface.json"
+    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface.json",
+    "/paneLayout/tbSpinCount/regex": "texts/interface/shared_.config.json"
   },
   "interface/windowconfig/craftingmerchant.config": {
     "/paneLayout/btnCraft/caption": "texts/interface/windowconfig/shared_.config.json",
@@ -2252,7 +2265,8 @@
     "/paneLayout/lblProduct/value": "texts/interface/shared_.config.json",
     "/paneLayout/lblProducttitle/value": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value": "texts/interface.json",
-    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface.json"
+    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface.json",
+    "/paneLayout/tbSpinCount/regex": "texts/interface/shared_.config.json"
   },
   "interface/windowconfig/craftingnocategories.config": {
     "/paneLayout/btnCraft/caption": "texts/interface/shared_.config.json",
@@ -2261,7 +2275,8 @@
     "/paneLayout/lblProducttitle/value": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/lblSchematics/value": "texts/interface/windowconfig/shared_crafting.json",
     "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value": "texts/interface.json",
-    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface.json"
+    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface.json",
+    "/paneLayout/tbSpinCount/regex": "texts/interface/shared_.config.json"
   },
   "interface/windowconfig/craftingterraforge.config": {
     "/paneLayout/btnCraft/caption": "texts/interface/windowconfig/shared_crafting.json",
@@ -2278,7 +2293,8 @@
     "/paneLayout/lblProducttitle/value": "texts/interface/shared_.config.json",
     "/paneLayout/lblSchematics/value": "texts/interface/shared_.config.json",
     "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value": "texts/interface.json",
-    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface.json"
+    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface.json",
+    "/paneLayout/tbSpinCount/regex": "texts/interface/shared_.config.json"
   },
   "interface/windowconfig/deletedialog.config": {
     "/cancel/caption": "texts/interface.json",
@@ -2288,6 +2304,7 @@
     "/paneLayout/close/caption": "texts/interface.json",
     "/paneLayout/lblTitle/value": "texts/interface/shared_.config.json",
     "/paneLayout/name/hint": "texts/interface/shared_.config.json",
+    "/paneLayout/name/regex": "texts/interface/shared_.config.json",
     "/paneLayout/ok/caption": "texts/interface/shared_.config.json",
     "/paneLayout/remove/caption": "texts/interface/shared_.config.json"
   },
@@ -2308,6 +2325,7 @@
     "/paneLayout/lblSchematics/value": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value": "texts/interface.json",
     "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface.json",
+    "/paneLayout/tbSpinCount/regex": "texts/interface/shared_.config.json",
     "/paneLayout/windowtitle/subtitle": "texts/shared_able.json",
     "/paneLayout/windowtitle/title": "texts/shared_able.json"
   },
@@ -2326,6 +2344,7 @@
     "/paneLayout/buySellTabs/tabs/0/children/lblBuyTotalCaption/value": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/buySellTabs/tabs/0/children/scrollArea/children/itemList/schema/listTemplate/itemName/value": "texts/interface.json",
     "/paneLayout/buySellTabs/tabs/0/children/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface.json",
+    "/paneLayout/buySellTabs/tabs/0/children/tbCount/regex": "texts/interface/shared_.config.json",
     "/paneLayout/buySellTabs/tabs/0/tabTitle": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/buySellTabs/tabs/1/children/btnSell/caption": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/buySellTabs/tabs/1/children/lblSellTotal/value": "texts/interface.json",
@@ -2355,7 +2374,8 @@
     "/paneLayout/lblProducttitle/value": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/lblSchematics/value": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value": "texts/interface.json",
-    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface.json"
+    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface.json",
+    "/paneLayout/tbSpinCount/regex": "texts/interface/shared_.config.json"
   },
   "interface/windowconfig/playerinventory.config": {
     "/paneLayout/chest/data/tooltipText": "texts/shared_config.json",
@@ -2410,6 +2430,7 @@
     "/paneLayout/buySellTabs/tabs/0/children/lblBuyTotalCaption/value": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/buySellTabs/tabs/0/children/scrollArea/children/itemList/schema/listTemplate/itemName/value": "texts/interface.json",
     "/paneLayout/buySellTabs/tabs/0/children/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface.json",
+    "/paneLayout/buySellTabs/tabs/0/children/tbCount/regex": "texts/interface/shared_.config.json",
     "/paneLayout/buySellTabs/tabs/0/tabTitle": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/buySellTabs/tabs/1/children/btnSell/caption": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/buySellTabs/tabs/1/children/lblSellTotal/value": "texts/interface.json",
@@ -2430,7 +2451,8 @@
     "/paneLayout/lblProducttitle/value": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/lblSchematics/value": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value": "texts/interface.json",
-    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface.json"
+    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface.json",
+    "/paneLayout/tbSpinCount/regex": "texts/interface/shared_.config.json"
   },
   "items/active/fishingrod/fishingrod.activeitem": {
     "/shortdescription": "texts/items.json"
@@ -2856,6 +2878,9 @@
   },
   "items/generic/dyes/yellowdye.augment": {
     "/description": "texts/items/generic/dyes/shared_dye.augment.json"
+  },
+  "items/generic/mechparts/horn/mechhornrubberduck.item": {
+    "/description": "texts/wide_spread_fields.json"
   },
   "items/generic/other/solidfuel.item": {
     "/shortdescription": "texts/wide_spread_fields.json"
@@ -5765,7 +5790,6 @@
     "/apexDescription": "texts/objects/shared_hidden/shared_.object.json",
     "/avianDescription": "texts/objects/shared_hidden/shared_.object.json",
     "/description": "texts/objects/shared_hidden/shared_.object.json",
-    "/floranDescription": "texts/objects/shared_hidden/shared_.object.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/shared_.object.json",
     "/hylotlDescription": "texts/objects/shared_hidden/shared_.object.json"
@@ -7527,7 +7551,7 @@
     "/apexDescription": "texts/objects/shared_hidden/shared_.object.json",
     "/avianDescription": "texts/objects/shared_hidden/shared_.object.json",
     "/description": "texts/objects/shared_hidden/shared_.object.json",
-    "/floranDescription": "texts/objects/shared_hidden/shared_.object.json",
+    "/floranDescription": "texts/objects/shared_lehidden/shared_door.object.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/shared_.object.json",
     "/humanDescription": "texts/objects/shared_lehidden/shared_door.object.json",
@@ -7537,7 +7561,7 @@
     "/apexDescription": "texts/objects/shared_hidden/shared_.object.json",
     "/avianDescription": "texts/objects/shared_hidden/shared_.object.json",
     "/description": "texts/objects/shared_hidden/shared_.object.json",
-    "/floranDescription": "texts/objects/shared_hidden/shared_.object.json",
+    "/floranDescription": "texts/objects/shared_lehidden/shared_door.object.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/shared_.object.json",
     "/humanDescription": "texts/objects/shared_lehidden/shared_door.object.json",
@@ -8226,7 +8250,6 @@
   },
   "objects/biome/bioluminescentcave/biovine/biovine5.object": {
     "/apexDescription": "texts/objects/biome/bioluminescentcave/biovine/shared_biovine.json",
-    "/avianDescription": "texts/objects/biome/bioluminescentcave/biovine/shared_biovine.json",
     "/description": "texts/objects/biome/bioluminescentcave/biovine/shared_biovine.json",
     "/floranDescription": "texts/objects/biome/bioluminescentcave/biovine/shared_biovine.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
@@ -11369,7 +11392,6 @@
     "/glitchDescription/glitchEmotedText": "texts/objects/biome/steamspring/boilervalve/boilervalve.object.json"
   },
   "objects/biome/steamspring/brasslamppost1/brasslamppost1.object": {
-    "/floranDescription": "texts/objects/shared_lamppost1/shared_lamppost1.object.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/biome/steamspring/brasslamppost1/brasslamppost1.object.json"
   },
@@ -15124,7 +15146,7 @@
     "/apexDescription": "texts/objects/shared_hidden/shared_.object.json",
     "/avianDescription": "texts/objects/shared_hidden/shared_.object.json",
     "/description": "texts/objects/shared_hidden/shared_.object.json",
-    "/floranDescription": "texts/objects/shared_hidden/shared_.object.json",
+    "/floranDescription": "texts/objects/shared_lehidden/shared_door.object.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/shared_.object.json",
     "/humanDescription": "texts/objects/shared_lehidden/shared_door.object.json",
@@ -15135,7 +15157,7 @@
     "/apexDescription": "texts/objects/shared_hidden/shared_.object.json",
     "/avianDescription": "texts/objects/shared_hidden/shared_.object.json",
     "/description": "texts/objects/shared_hidden/shared_.object.json",
-    "/floranDescription": "texts/objects/shared_hidden/shared_.object.json",
+    "/floranDescription": "texts/objects/shared_lehidden/shared_door.object.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/shared_.object.json",
     "/humanDescription": "texts/objects/shared_lehidden/shared_door.object.json",
@@ -19976,7 +19998,6 @@
   "objects/protectorate/objects/protectoratedoor/protectoratedoor.object": {
     "/apexDescription": "texts/objects/shared_ect.json",
     "/avianDescription": "texts/objects/shared_ect.json",
-    "/floranDescription": "texts/objects/shared_door.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/shared_ect.json",
     "/humanDescription": "texts/objects/shared_ect.json",
@@ -20612,7 +20633,8 @@
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/ship/shared_shipdoor/shared_shipdoor.object.json",
     "/humanDescription": "texts/objects/ship/shared_shipdoor/shared_shipdoor.object.json",
-    "/novakidDescription": "texts/objects/shared_door.json",
+    "/hylotlDescription": "texts/objects/ship/shared_shipdoor/shared_shipdoor.object.json",
+    "/novakidDescription": "texts/objects/ship/shared_shipdoor/shared_shipdoor.object.json",
     "/shortdescription": "texts/objects/ship/shared_apexshipdoor/shared_apexshipdoor.json"
   },
   "objects/ship/apexshipdoor/apexshiphatch.object": {
@@ -20705,7 +20727,7 @@
     "/glitchDescription/glitchEmotedText": "texts/objects/ship/shared_shipdoor/shared_shipdoor.object.json",
     "/humanDescription": "texts/objects/ship/shared_shipdoor/shared_shipdoor.object.json",
     "/hylotlDescription": "texts/objects/ship/shared_shipdoor/shared_shipdoor.object.json",
-    "/novakidDescription": "texts/objects/shared_door.json",
+    "/novakidDescription": "texts/objects/ship/shared_shipdoor/shared_shipdoor.object.json",
     "/shortdescription": "texts/objects/ship/shared_avianshipdoor/shared_avianshipdoor.json"
   },
   "objects/ship/avianshipdoor/avianshiphatch.object": {
@@ -21141,7 +21163,7 @@
     "/glitchDescription/glitchEmotedText": "texts/objects/ship/shared_shipdoor/shared_shipdoor.object.json",
     "/humanDescription": "texts/objects/ship/shared_shipdoor/shared_shipdoor.object.json",
     "/hylotlDescription": "texts/objects/ship/shared_shipdoor/shared_shipdoor.object.json",
-    "/novakidDescription": "texts/objects/shared_door.json",
+    "/novakidDescription": "texts/objects/ship/shared_shipdoor/shared_shipdoor.object.json",
     "/shortdescription": "texts/objects/ship/shared_floranshipdoor/shared_floranshipdoor.json"
   },
   "objects/ship/floranshipdoor/floranshiphatch.object": {
@@ -21274,7 +21296,7 @@
     "/glitchDescription/glitchEmotedText": "texts/objects/ship/shared_shipdoor/shared_shipdoor.object.json",
     "/humanDescription": "texts/objects/ship/shared_shipdoor/shared_shipdoor.object.json",
     "/hylotlDescription": "texts/objects/ship/shared_shipdoor/shared_shipdoor.object.json",
-    "/novakidDescription": "texts/objects/shared_door.json",
+    "/novakidDescription": "texts/objects/ship/shared_shipdoor/shared_shipdoor.object.json",
     "/shortdescription": "texts/objects/ship/shared_glitchshipdoor/shared_glitchshipdoor.json"
   },
   "objects/ship/glitchshipdoor/glitchshiphatch.object": {
@@ -21403,7 +21425,7 @@
     "/glitchDescription/glitchEmotedText": "texts/objects/ship/shared_shipdoor/shared_shipdoor.object.json",
     "/humanDescription": "texts/objects/ship/shared_shipdoor/shared_shipdoor.object.json",
     "/hylotlDescription": "texts/objects/ship/shared_shipdoor/shared_shipdoor.object.json",
-    "/novakidDescription": "texts/objects/shared_door.json",
+    "/novakidDescription": "texts/objects/ship/shared_shipdoor/shared_shipdoor.object.json",
     "/shortdescription": "texts/objects/ship/shared_humanshipdoor/shared_humanshipdoor.json"
   },
   "objects/ship/humanshipdoor/humanshiphatch.object": {
@@ -21543,7 +21565,7 @@
     "/glitchDescription/glitchEmotedText": "texts/objects/ship/shared_shipdoor/shared_shipdoor.object.json",
     "/humanDescription": "texts/objects/ship/shared_shipdoor/shared_shipdoor.object.json",
     "/hylotlDescription": "texts/objects/ship/shared_shipdoor/shared_shipdoor.object.json",
-    "/novakidDescription": "texts/objects/shared_door.json",
+    "/novakidDescription": "texts/objects/ship/shared_shipdoor/shared_shipdoor.object.json",
     "/shortdescription": "texts/objects/ship/shared_hylotlshipdoor/shared_hylotlshipdoor.json"
   },
   "objects/ship/hylotlshipdoor/hylotlshiphatch.object": {
@@ -21679,7 +21701,7 @@
     "/glitchDescription/glitchEmotedText": "texts/objects/ship/shared_shipdoor/shared_shipdoor.object.json",
     "/humanDescription": "texts/objects/ship/shared_shipdoor/shared_shipdoor.object.json",
     "/hylotlDescription": "texts/objects/ship/shared_shipdoor/shared_shipdoor.object.json",
-    "/novakidDescription": "texts/objects/shared_door.json"
+    "/novakidDescription": "texts/objects/ship/shared_shipdoor/shared_shipdoor.object.json"
   },
   "objects/ship/novakidshipdoor/novakidshiphatch.object": {
     "/apexDescription": "texts/objects/ship/shared_shipdoor/shared_shiphatch.object.json",
@@ -22621,7 +22643,6 @@
     "/glitchDescription/glitchEmotedText": "texts/objects/themed/opulent/opulenttable/opulenttable.object.json"
   },
   "objects/themed/outdoor/lamppost1/lamppost1.object": {
-    "/floranDescription": "texts/objects/shared_lamppost1/shared_lamppost1.object.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/themed/outdoor/lamppost1/lamppost1.object.json"
   },
@@ -22702,6 +22723,7 @@
     "/glitchDescription/glitchEmotedText": "texts/objects/themed/retroscifi/retroscifichair/retroscifichair.object.json"
   },
   "objects/themed/retroscifi/retroscifidresser/retroscifidresser.object": {
+    "/apexDescription": "texts/wide_spread_fields.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/themed/retroscifi/retroscifidresser/retroscifidresser.object.json"
   },
@@ -23122,9 +23144,9 @@
     "/hylotlDescription": "texts/objects/traps/shared_flametrap/shared_flametrap.object.json"
   },
   "objects/traps/ancienticetrap/ancienticetrap.object": {
+    "/floranDescription": "texts/objects/traps/shared_etrap/shared_etrap.object.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
-    "/glitchDescription/glitchEmotedText": "texts/objects/traps/ancienticetrap/ancienticetrap.object.json",
-    "/hylotlDescription": "texts/objects/traps/shared_etrap/shared_etrap.object.json"
+    "/glitchDescription/glitchEmotedText": "texts/objects/traps/ancienticetrap/ancienticetrap.object.json"
   },
   "objects/traps/arenaflametrap/arenaflametrap.object": {
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
@@ -23171,9 +23193,9 @@
     "/novakidDescription": "texts/objects/traps/shared_bouldertrap/shared_bouldertrap.object.json"
   },
   "objects/traps/freezetrap/freezetrap.object": {
+    "/floranDescription": "texts/objects/traps/shared_etrap/shared_etrap.object.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
-    "/glitchDescription/glitchEmotedText": "texts/objects/traps/freezetrap/freezetrap.object.json",
-    "/hylotlDescription": "texts/objects/traps/shared_etrap/shared_etrap.object.json"
+    "/glitchDescription/glitchEmotedText": "texts/objects/traps/freezetrap/freezetrap.object.json"
   },
   "objects/traps/wallb/wallb.object": {
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",

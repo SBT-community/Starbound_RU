@@ -2,39 +2,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/protectorate/objects/protectoratedoor/protectoratedoor.object": [
-        "/floranDescription"
-      ],
-      "objects/ship/apexshipdoor/apexshipdoor.object": [
-        "/novakidDescription"
-      ],
-      "objects/ship/avianshipdoor/avianshipdoor.object": [
-        "/novakidDescription"
-      ],
-      "objects/ship/floranshipdoor/floranshipdoor.object": [
-        "/novakidDescription"
-      ],
-      "objects/ship/glitchshipdoor/glitchshipdoor.object": [
-        "/novakidDescription"
-      ],
-      "objects/ship/humanshipdoor/humanshipdoor.object": [
-        "/novakidDescription"
-      ],
-      "objects/ship/hylotlshipdoor/hylotlshipdoor.object": [
-        "/novakidDescription"
-      ],
-      "objects/ship/novakidshipdoor/novakidshipdoor.object": [
-        "/novakidDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "A door.",
-      "Rus": "Дверь."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "objects/themed/opulent/opulentdoor/opulentdoor.object": [
         "/glitchDescription/glitchEmotedText"
       ],
