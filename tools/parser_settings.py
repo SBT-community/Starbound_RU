@@ -18,7 +18,7 @@ foi = {
     "^tout/.+$", "^rent/.+$", "^alert/.+$", "^welcome/.+$", "^beacon/.+$",
     "^safe/.+$", "^helpme/.+$", "^final/.+$", "^.+Text(/value)?$",
     "^gui.+/value$", "^paneLayout/.+/value$", "areYouSure/value$",
-    "^blueprintUnlock$", "^blueprintAlreadyKnown$",
+    "^blueprintUnlock$", "^blueprintAlreadyKnown$", "^.*Caption$",
     "^rotTimeDescriptions/.+/1$", "^[a-zA-Z]*[mM]essages/[a-zA-Z]+$",
     ".+[mM]essage$", "^.*/(hint|regex|[a-zA-Z]*(Caption|[Tt]itle))$",
     "^defaultPetNameLabel$", ".*descriptions/[0-9]+$", "^(un)?trackLabel$",
