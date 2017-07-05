@@ -3,18 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkercomputer/bunkercomputer.object": [
-        "/novakidDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": " This is a computer. I ain't sure it's relevant.",
-      "Rus": "Это компьютер. Я не уверен, что он очень важен."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/bunkercomputer/bunkercomputer.object": [
         "/humanDescription"
       ]
     },
@@ -93,6 +81,18 @@
     "Texts": {
       "Eng": "Small Computer",
       "Rus": "Маленький компьютер"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkercomputer/bunkercomputer.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is a computer. I ain't sure it's relevant.",
+      "Rus": "Это компьютер. Я не уверен, что он очень важен."
     }
   },
   {

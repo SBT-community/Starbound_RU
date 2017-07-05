@@ -2218,6 +2218,9 @@
       "objects/human/barbedwire/barbedwire.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/human/bunkerwires/bunkerwires.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/human/prisonforcecell/prisonforcecell.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -2422,18 +2425,6 @@
     },
     "Texts": {
       "Eng": "Cautious.",
-      "Rus": "Осторожно."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/bunkerwires/bunkerwires.object": [
-        "/glitchDescription/glitchEmote"
-      ]
-    },
-    "Texts": {
-      "Eng": "Cautrious.",
       "Rus": "Осторожно."
     }
   },
@@ -5784,27 +5775,21 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Делясь знанием.",
+      "Образованный."
+    ],
     "Files": {
+      "objects/avian/tribaldoor/tribaldoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/glitch/anvil/anvil.object": [
         "/glitchDescription/glitchEmote"
       ]
     },
     "Texts": {
-      "Eng": "Educate.",
-      "Rus": "Делясь знанием."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/tribaldoor/tribaldoor.object": [
-        "/glitchDescription/glitchEmote"
-      ]
-    },
-    "Texts": {
       "Eng": "Educated.",
-      "Rus": "Образованный."
+      "Rus": "Знающе."
     }
   },
   {
@@ -8575,6 +8560,7 @@
   },
   {
     "DeniedAlternatives": [
+      "Гордо.",
       "Информирован.",
       "Осведомлёно.",
       "Сообщение."
@@ -8617,6 +8603,48 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/protectorate/objects/protectoratecactiflowerpot/protectoratecactiflowerpot.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/apexshipdoor/apexshipdoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/apexshipdoor/apexshiphatch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/avianshipdoor/avianshipdoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/avianshipdoor/avianshiphatch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/floranshipdoor/floranshipdoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/floranshipdoor/floranshiphatch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/glitchshipdoor/glitchshipdoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/glitchshipdoor/glitchshiphatch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/humanshipdoor/humanshipdoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/humanshipdoor/humanshiphatch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/hylotlshipdoor/hylotlshipdoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/hylotlshipdoor/hylotlshiphatch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/novakidshipdoor/novakidshipdoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/novakidshipdoor/novakidshiphatch.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/space/dockingfield/dockingfield.object": [
@@ -12636,48 +12664,6 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/protectorate/objects/protectoratewindbanner3/protectoratewindbanner3.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/ship/apexshipdoor/apexshipdoor.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/ship/apexshipdoor/apexshiphatch.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/ship/avianshipdoor/avianshipdoor.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/ship/avianshipdoor/avianshiphatch.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/ship/floranshipdoor/floranshipdoor.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/ship/floranshipdoor/floranshiphatch.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/ship/glitchshipdoor/glitchshipdoor.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/ship/glitchshipdoor/glitchshiphatch.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/ship/humanshipdoor/humanshipdoor.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/ship/humanshipdoor/humanshiphatch.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/ship/hylotlshipdoor/hylotlshipdoor.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/ship/hylotlshipdoor/hylotlshiphatch.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/ship/novakidshipdoor/novakidshipdoor.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/ship/novakidshipdoor/novakidshiphatch.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/themed/astronaut/spaceshuttlebed/spaceshuttlebed.object": [

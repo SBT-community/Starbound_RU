@@ -1,7 +1,12 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Базовая дверь для корабля."
+    ],
     "Files": {
+      "objects/ship/apexshipdoor/apexshipdoor.object": [
+        "/hylotlDescription"
+      ],
       "objects/ship/avianshipdoor/avianshipdoor.object": [
         "/hylotlDescription"
       ],
@@ -22,65 +27,72 @@
       ]
     },
     "Texts": {
-      "Eng": "A basic spaceship door.",
+      "Eng": "A basic ship door.",
       "Rus": "Стандартная дверь космического корабля."
     }
   },
   {
-    "DeniedAlternatives": [
-      "Дверь корабля."
-    ],
-    "Files": {
-      "objects/ship/apexshipdoor/apexshipdoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/avianshipdoor/avianshipdoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/floranshipdoor/floranshipdoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/glitchshipdoor/glitchshipdoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/humanshipdoor/humanshipdoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/hylotlshipdoor/hylotlshipdoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/novakidshipdoor/novakidshipdoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A ship door.",
-      "Rus": "Корабельная дверь."
-    }
-  },
-  {
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/apexshipdoor/apexshipdoor.object": [
-        "/avianDescription"
+        "/novakidDescription"
       ],
       "objects/ship/avianshipdoor/avianshipdoor.object": [
-        "/avianDescription"
+        "/novakidDescription"
       ],
       "objects/ship/floranshipdoor/floranshipdoor.object": [
-        "/avianDescription"
+        "/novakidDescription"
       ],
       "objects/ship/glitchshipdoor/glitchshipdoor.object": [
-        "/avianDescription"
+        "/novakidDescription"
       ],
       "objects/ship/humanshipdoor/humanshipdoor.object": [
-        "/avianDescription"
+        "/novakidDescription"
       ],
       "objects/ship/hylotlshipdoor/hylotlshipdoor.object": [
-        "/avianDescription"
+        "/novakidDescription"
       ],
       "objects/ship/novakidshipdoor/novakidshipdoor.object": [
-        "/avianDescription"
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A door, the type you'd find on a ship.",
+      "Rus": "Дверь."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Классная дверь."
+    ],
+    "Files": {
+      "objects/ship/apexshipdoor/apexshipdoor.object": [
+        "/avianDescription",
+        "/humanDescription"
+      ],
+      "objects/ship/avianshipdoor/avianshipdoor.object": [
+        "/avianDescription",
+        "/humanDescription"
+      ],
+      "objects/ship/floranshipdoor/floranshipdoor.object": [
+        "/avianDescription",
+        "/humanDescription"
+      ],
+      "objects/ship/glitchshipdoor/glitchshipdoor.object": [
+        "/avianDescription",
+        "/humanDescription"
+      ],
+      "objects/ship/humanshipdoor/humanshipdoor.object": [
+        "/avianDescription",
+        "/humanDescription"
+      ],
+      "objects/ship/hylotlshipdoor/hylotlshipdoor.object": [
+        "/avianDescription",
+        "/humanDescription"
+      ],
+      "objects/ship/novakidshipdoor/novakidshipdoor.object": [
+        "/avianDescription",
+        "/humanDescription"
       ]
     },
     "Texts": {
@@ -89,35 +101,63 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Крутая дверь."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/ship/apexshipdoor/apexshipdoor.object": [
-        "/humanDescription"
+        "/glitchDescription/glitchEmotedText"
       ],
       "objects/ship/avianshipdoor/avianshipdoor.object": [
-        "/humanDescription"
+        "/glitchDescription/glitchEmotedText"
       ],
       "objects/ship/floranshipdoor/floranshipdoor.object": [
-        "/humanDescription"
+        "/glitchDescription/glitchEmotedText"
       ],
       "objects/ship/glitchshipdoor/glitchshipdoor.object": [
-        "/humanDescription"
+        "/glitchDescription/glitchEmotedText"
       ],
       "objects/ship/humanshipdoor/humanshipdoor.object": [
-        "/humanDescription"
+        "/glitchDescription/glitchEmotedText"
       ],
       "objects/ship/hylotlshipdoor/hylotlshipdoor.object": [
-        "/humanDescription"
+        "/glitchDescription/glitchEmotedText"
       ],
       "objects/ship/novakidshipdoor/novakidshipdoor.object": [
-        "/humanDescription"
+        "/glitchDescription/glitchEmotedText"
       ]
     },
     "Texts": {
-      "Eng": "Cool door.",
-      "Rus": "Классная дверь."
+      "Eng": "A standard ship door.",
+      "Rus": "Корабельная дверь."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/apexshipdoor/apexshipdoor.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/avianshipdoor/avianshipdoor.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/floranshipdoor/floranshipdoor.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/glitchshipdoor/glitchshipdoor.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/humanshipdoor/humanshipdoor.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/hylotlshipdoor/hylotlshipdoor.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/novakidshipdoor/novakidshipdoor.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Doors like this are common on ships.",
+      "Rus": "Такие двери используются на всех наших кораблях."
     }
   },
   {
@@ -148,36 +188,6 @@
     "Texts": {
       "Eng": "Ssspaceship door.",
       "Rus": "Дверь космического корабля."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/apexshipdoor/apexshipdoor.object": [
-        "/apexDescription"
-      ],
-      "objects/ship/avianshipdoor/avianshipdoor.object": [
-        "/apexDescription"
-      ],
-      "objects/ship/floranshipdoor/floranshipdoor.object": [
-        "/apexDescription"
-      ],
-      "objects/ship/glitchshipdoor/glitchshipdoor.object": [
-        "/apexDescription"
-      ],
-      "objects/ship/humanshipdoor/humanshipdoor.object": [
-        "/apexDescription"
-      ],
-      "objects/ship/hylotlshipdoor/hylotlshipdoor.object": [
-        "/apexDescription"
-      ],
-      "objects/ship/novakidshipdoor/novakidshipdoor.object": [
-        "/apexDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "These doors are used on all our ships.",
-      "Rus": "Такие двери используются на всех наших кораблях."
     }
   }
 ]

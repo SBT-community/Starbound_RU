@@ -38,6 +38,19 @@
     }
   },
   {
+    "Comment": "Регулярное выражение (не для перевода, а для поддержки названий на кирилице)",
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/coordinatesFrame/children/x/regex",
+        "/gui/coordinatesFrame/children/y/regex"
+      ]
+    },
+    "Texts": {
+      "Eng": "-?[0-9]{0,10}"
+    }
+  },
+  {
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [

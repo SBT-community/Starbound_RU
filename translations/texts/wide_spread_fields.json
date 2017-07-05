@@ -308,6 +308,20 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "items/generic/mechparts/horn/mechhornrubberduck.item": [
+        "/description"
+      ],
+      "objects/themed/retroscifi/retroscifidresser/retroscifidresser.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A timeless classic."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "biomes/surface/alien.biome": [
         "/friendlyName"
       ],

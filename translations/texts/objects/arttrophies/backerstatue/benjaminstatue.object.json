@@ -43,8 +43,31 @@
       ]
     },
     "Texts": {
-      "Eng": "This plaque is dedicated to the grand Benjamin \"Meuterion\" Deust.",
+      "Eng": "The plaque claims this is dedicated to the grand Benjamin \"Meuterion\" Deust.",
       "Rus": "Эта статуя посвящена великому Бенджамину \"Meuterion\" Деусту."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/arttrophies/backerstatue/benjaminstatue.object": [
+        "/apexDescription",
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The plaque reads \"A statue dedicated to Benjamin \"Meuterion\" Deust.\""
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/arttrophies/backerstatue/benjaminstatue.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This plaque reads \"A statue dedicated to Benjamin \"Meuterion\" Deust.\""
     }
   }
 ]

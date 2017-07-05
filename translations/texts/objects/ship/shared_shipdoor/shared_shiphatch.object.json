@@ -85,63 +85,42 @@
       ]
     },
     "Texts": {
-      "Eng": "A hatch.",
+      "Eng": "A hatch, the type you'd find on a ship.",
       "Rus": "Люк."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Классный люк."
+    ],
     "Files": {
       "objects/ship/apexshipdoor/apexshiphatch.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/avianDescription",
+        "/humanDescription"
       ],
       "objects/ship/avianshipdoor/avianshiphatch.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/avianDescription",
+        "/humanDescription"
       ],
       "objects/ship/floranshipdoor/floranshiphatch.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/avianDescription",
+        "/humanDescription"
       ],
       "objects/ship/glitchshipdoor/glitchshiphatch.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/avianDescription",
+        "/humanDescription"
       ],
       "objects/ship/humanshipdoor/humanshiphatch.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/avianDescription",
+        "/humanDescription"
       ],
       "objects/ship/hylotlshipdoor/hylotlshiphatch.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/avianDescription",
+        "/humanDescription"
       ],
       "objects/ship/novakidshipdoor/novakidshiphatch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A ship hatch.",
-      "Rus": "Корабельный люк."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/apexshipdoor/apexshiphatch.object": [
-        "/avianDescription"
-      ],
-      "objects/ship/avianshipdoor/avianshiphatch.object": [
-        "/avianDescription"
-      ],
-      "objects/ship/floranshipdoor/floranshiphatch.object": [
-        "/avianDescription"
-      ],
-      "objects/ship/glitchshipdoor/glitchshiphatch.object": [
-        "/avianDescription"
-      ],
-      "objects/ship/humanshipdoor/humanshiphatch.object": [
-        "/avianDescription"
-      ],
-      "objects/ship/hylotlshipdoor/hylotlshiphatch.object": [
-        "/avianDescription"
-      ],
-      "objects/ship/novakidshipdoor/novakidshiphatch.object": [
-        "/avianDescription"
+        "/avianDescription",
+        "/humanDescription"
       ]
     },
     "Texts": {
@@ -153,30 +132,60 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/apexshipdoor/apexshiphatch.object": [
-        "/humanDescription"
+        "/glitchDescription/glitchEmotedText"
       ],
       "objects/ship/avianshipdoor/avianshiphatch.object": [
-        "/humanDescription"
+        "/glitchDescription/glitchEmotedText"
       ],
       "objects/ship/floranshipdoor/floranshiphatch.object": [
-        "/humanDescription"
+        "/glitchDescription/glitchEmotedText"
       ],
       "objects/ship/glitchshipdoor/glitchshiphatch.object": [
-        "/humanDescription"
+        "/glitchDescription/glitchEmotedText"
       ],
       "objects/ship/humanshipdoor/humanshiphatch.object": [
-        "/humanDescription"
+        "/glitchDescription/glitchEmotedText"
       ],
       "objects/ship/hylotlshipdoor/hylotlshiphatch.object": [
-        "/humanDescription"
+        "/glitchDescription/glitchEmotedText"
       ],
       "objects/ship/novakidshipdoor/novakidshiphatch.object": [
-        "/humanDescription"
+        "/glitchDescription/glitchEmotedText"
       ]
     },
     "Texts": {
-      "Eng": "Cool hatch.",
-      "Rus": "Классный люк."
+      "Eng": "A standard ship hatch.",
+      "Rus": "Корабельный люк."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/apexshipdoor/apexshiphatch.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/avianshipdoor/avianshiphatch.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/floranshipdoor/floranshiphatch.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/glitchshipdoor/glitchshiphatch.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/humanshipdoor/humanshiphatch.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/hylotlshipdoor/hylotlshiphatch.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/novakidshipdoor/novakidshiphatch.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hatch designs like this are common on ships.",
+      "Rus": "Такие люки используются на всех наших кораблях."
     }
   },
   {
@@ -207,36 +216,6 @@
     "Texts": {
       "Eng": "Ssspaceship hatch.",
       "Rus": "Люк космического корабля."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/apexshipdoor/apexshiphatch.object": [
-        "/apexDescription"
-      ],
-      "objects/ship/avianshipdoor/avianshiphatch.object": [
-        "/apexDescription"
-      ],
-      "objects/ship/floranshipdoor/floranshiphatch.object": [
-        "/apexDescription"
-      ],
-      "objects/ship/glitchshipdoor/glitchshiphatch.object": [
-        "/apexDescription"
-      ],
-      "objects/ship/humanshipdoor/humanshiphatch.object": [
-        "/apexDescription"
-      ],
-      "objects/ship/hylotlshipdoor/hylotlshiphatch.object": [
-        "/apexDescription"
-      ],
-      "objects/ship/novakidshipdoor/novakidshiphatch.object": [
-        "/apexDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "These hatches are used on all our ships.",
-      "Rus": "Такие люки используются на всех наших кораблях."
     }
   }
 ]
