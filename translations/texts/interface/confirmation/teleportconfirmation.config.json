@@ -211,27 +211,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/confirmation/teleportconfirmation.config": [
-        "/arena1/cancelCaption",
-        "/arena2/cancelCaption",
-        "/arena3/cancelCaption",
-        "/mechunlock/cancelCaption",
-        "/mechupgrade2/cancelCaption",
-        "/penguinmission1/cancelCaption",
-        "/penguinmission2/cancelCaption",
-        "/techscientist_dash/cancelCaption",
-        "/techscientist_doublejump/cancelCaption",
-        "/techscientist_morphball/cancelCaption"
-      ]
-    },
-    "Texts": {
-      "Eng": "Not now",
-      "Rus": "Не сейчас"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/confirmation/teleportconfirmation.config": [
         "/penguinmission2/subtitle"
       ]
     },
