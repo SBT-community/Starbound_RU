@@ -8,7 +8,7 @@
     },
     "Texts": {
       "Eng": "\n\nAre you ready for me to deploy you to my ^orange;mech test course^white;? I built it in an abandoned freighter I stumbled upon.",
-      "Rus": "Вы уверены, что готовы отправиться на ^orange; курс испытание Меха^white;? Оно будет проходить на заброшенном грузовом судне, которое я подготовил."
+      "Rus": "\nВы готовы отправиться на ^orange; курс испытания мехов^white;? Я создал его в заброшенном грузовом корабле, на который я случайно наткнулся."
     }
   },
   {
@@ -20,7 +20,7 @@
     },
     "Texts": {
       "Eng": "\n\nAre you ready for me to send you to Dreadwing so you can rough him up?\n^red;You'll want to have good equipment for this.",
-      "Rus": "\n\nВы уверены, что готовы отправиться на бой с Ужаснокрылом?\n^red;Вам стоит хорошо подготовиться."
+      "Rus": "\n\nВы готовы отправиться на бой с Ужаснокрылом?\n^red;Вам стоит хорошо подготовиться."
     }
   },
   {
@@ -32,7 +32,7 @@
     },
     "Texts": {
       "Eng": "\n\nAre you ready for me to send you to my ^orange;advanced mech test course^white;? \n^red;You might want to assemble a strong enough mech before you go.",
-      "Rus": "Вы готовы отправится на ^orange;продвинутый курс испытаний Меха^white;?^red;Вам понадобится достаточно мощный Мех."
+      "Rus": "\n\nВы готовы отправится на ^orange;продвинутый курс испытаний мехов^white;? ^red;Думаю вам стоит собрать достаточно сильного меха перед отправкой."
     }
   },
   {
@@ -44,7 +44,7 @@
     },
     "Texts": {
       "Eng": "\n\nAre you ready for me to send you to my ^orange;arms testing site^white; to fight my Shockhopper MK I?\n^red;You'll want to have very good equipment for this.",
-      "Rus": "\n\nВы уверены, что готовы отправиться на Полигон для Испытаний Пингвиньего Вооружения, чтобы сразиться с Shockhopper MK I?\n^red;Вам стоит хорошо подготовиться."
+      "Rus": "\n\nВы готовы отправиться на полигон для испытаний оружия, чтобы сразиться с Шокхоппером MK I?\n^red;Вам стоит хорошенько подготовиться."
     }
   },
   {
@@ -58,7 +58,7 @@
     },
     "Texts": {
       "Eng": "\n\nAre you ready to go to the obstacle course?",
-      "Rus": "\n\nВы готовы пройти полосу препятствий?"
+      "Rus": "\n\nВы готовы отправиться на полосу препятствий?"
     }
   },
   {
@@ -82,7 +82,7 @@
     },
     "Texts": {
       "Eng": "\n\nAre you sure you're ready to enter the arena against the fire knight, Templar Inferno? Once inside the only escape is victory.",
-      "Rus": "\n\nВы уверены, что готовы сразиться на арене с Пылающим Храмовником? Единственной возможностью вернуться станет победа над ним."
+      "Rus": "\n\nВы уверены, что готовы сразиться на арене с рыцарем огня — Пылающим Храмовником? Единственной возможностью вернуться станет победа над ним."
     }
   },
   {
@@ -94,7 +94,7 @@
     },
     "Texts": {
       "Eng": "\n\nAre you sure you're ready to enter the arena against the trio of Gladiators? Once inside the only escape is victory.",
-      "Rus": "\n\nВы уверены, что готовы сразиться на арене против троих Гладиаторов? Единственной возможностью вернуться станет победа над ними."
+      "Rus": "\n\nВы уверены, что готовы сразиться на арене против трио Гладиаторов? Единственной возможностью вернуться станет победа над ними."
     }
   },
   {
@@ -106,7 +106,7 @@
     },
     "Texts": {
       "Eng": "Advanced Mech Test Course",
-      "Rus": "Продвинутый курс испытаний Меха"
+      "Rus": "Продвинутый курс испытаний мехов"
     }
   },
   {
@@ -118,7 +118,7 @@
     },
     "Texts": {
       "Eng": "Arena Battle : Pet Tamer Volo",
-      "Rus": "Арена: укротитель Воло"
+      "Rus": "Арена: Укротитель Воло"
     }
   },
   {
@@ -154,7 +154,7 @@
     },
     "Texts": {
       "Eng": "Dash Test",
-      "Rus": "Тестирование рывков"
+      "Rus": "Тестирование рывка"
     }
   },
   {
@@ -185,6 +185,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/confirmation/teleportconfirmation.config": [
+        "/techscientist_dash/labels/name",
+        "/techscientist_doublejump/labels/name",
+        "/techscientist_morphball/labels/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elliot",
+      "Rus": "Эллиотт"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
         "/mechunlock/subtitle"
       ]
     },
@@ -202,7 +216,7 @@
     },
     "Texts": {
       "Eng": "Penguin Arms Testing Site",
-      "Rus": "Полигон для Испытаний Пингвиньего Вооружения"
+      "Rus": "Полигон для испытаний Пингвиньего вооружения"
     }
   },
   {
@@ -215,6 +229,26 @@
     "Texts": {
       "Eng": "Pulse Jump Test",
       "Rus": "Тестирование скачков"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/arena1/okCaption",
+        "/arena2/okCaption",
+        "/arena3/okCaption",
+        "/mechunlock/okCaption",
+        "/mechupgrade2/okCaption",
+        "/penguinmission2/okCaption",
+        "/techscientist_dash/okCaption",
+        "/techscientist_doublejump/okCaption",
+        "/techscientist_morphball/okCaption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ready",
+      "Rus": "Готов"
     }
   },
   {

@@ -15,5 +15,74 @@
       "Eng": "Expand Your Crew",
       "Rus": "Набор в команду"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/hiremercenaryconfirmation.config": [
+        "/okCaption"
+      ],
+      "interface/confirmation/recruitconfirmation.config": [
+        "/okCaption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hire",
+      "Rus": "Нанять"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/hiremercenaryconfirmation.config": [
+        "/cancelCaption"
+      ],
+      "interface/confirmation/monstertradeconfirmation.config": [
+        "/cancelCaption"
+      ],
+      "interface/confirmation/recruitconfirmation.config": [
+        "/cancelCaption"
+      ],
+      "interface/confirmation/resetuniformconfirmation.config": [
+        "/cancelCaption"
+      ],
+      "interface/confirmation/setuniformconfirmation.config": [
+        "/cancelCaption"
+      ],
+      "interface/confirmation/teleportconfirmation.config": [
+        "/arena1/cancelCaption",
+        "/arena2/cancelCaption",
+        "/arena3/cancelCaption",
+        "/mechunlock/cancelCaption",
+        "/mechupgrade2/cancelCaption",
+        "/penguinmission1/cancelCaption",
+        "/penguinmission2/cancelCaption",
+        "/techscientist_dash/cancelCaption",
+        "/techscientist_doublejump/cancelCaption",
+        "/techscientist_morphball/cancelCaption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not now",
+      "Rus": "Не сейчас"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/monstertradeconfirmation.config": [
+        "/okCaption"
+      ],
+      "interface/confirmation/resetuniformconfirmation.config": [
+        "/okCaption"
+      ],
+      "interface/confirmation/setuniformconfirmation.config": [
+        "/okCaption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sure",
+      "Rus": "Конечно"
+    }
   }
 ]

@@ -1821,16 +1821,47 @@
     "/planetTypeNames/volcanic": "texts/wide_spread_fields.json"
   },
   "interface/confirmation/hiremercenaryconfirmation.config": {
+    "/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
+    "/okCaption": "texts/interface/confirmation/shared_confirmation.config.json",
     "/title": "texts/interface/confirmation/shared_confirmation.config.json"
   },
+  "interface/confirmation/monstertradeconfirmation.config": {
+    "/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
+    "/okCaption": "texts/interface/confirmation/shared_confirmation.config.json"
+  },
   "interface/confirmation/recruitconfirmation.config": {
+    "/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
+    "/okCaption": "texts/interface/confirmation/shared_confirmation.config.json",
     "/title": "texts/interface/confirmation/shared_confirmation.config.json"
   },
   "interface/confirmation/resetuniformconfirmation.config": {
+    "/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
+    "/okCaption": "texts/interface/confirmation/shared_confirmation.config.json",
     "/subtitle": "texts/interface/confirmation/shared_setuniformconfirmation.config.json"
   },
   "interface/confirmation/setuniformconfirmation.config": {
+    "/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
+    "/okCaption": "texts/interface/confirmation/shared_confirmation.config.json",
     "/subtitle": "texts/interface/confirmation/shared_setuniformconfirmation.config.json"
+  },
+  "interface/confirmation/teleportconfirmation.config": {
+    "/arena1/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
+    "/arena1/labels/name": "texts/shared_ion.json",
+    "/arena2/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
+    "/arena2/labels/name": "texts/shared_ion.json",
+    "/arena3/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
+    "/arena3/labels/name": "texts/shared_ion.json",
+    "/mechunlock/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
+    "/mechunlock/labels/name": "texts/wide_spread_fields.json",
+    "/mechupgrade2/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
+    "/mechupgrade2/labels/name": "texts/wide_spread_fields.json",
+    "/penguinmission1/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
+    "/penguinmission1/labels/name": "texts/wide_spread_fields.json",
+    "/penguinmission2/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
+    "/penguinmission2/labels/name": "texts/wide_spread_fields.json",
+    "/techscientist_dash/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
+    "/techscientist_doublejump/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
+    "/techscientist_morphball/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json"
   },
   "interface/craftingtooltip/craftingtooltip.config": {
     "/itemList/schema/listTemplate/itemName/value": "texts/interface/shared_.config.json",
@@ -2130,6 +2161,10 @@
   "interface/warping/shipteleporter.config": {
     "/destinations/0/name": "texts/shared_interface.json",
     "/destinations/1/name": "texts/shared_interface.json"
+  },
+  "interface/windowconfig/beamupconfirmation.config": {
+    "/cancelCaption": "texts/interface.json",
+    "/okCaption": "texts/interface/windowconfig/shared_.config.json"
   },
   "interface/windowconfig/charcreation.config": {
     "/paneLayout/cancel/caption": "texts/interface.json",
@@ -25454,17 +25489,17 @@
   },
   "quests/outpost/mechunlock.questtemplate": {
     "/scriptConfig/descriptions/turnIn": "texts/quests/outpost/shared_.questtemplate.json",
-    "/scriptConfig/portraits/questComplete/title": "texts/quests/outpost/shared_.questtemplate.json",
-    "/scriptConfig/portraits/questStarted/title": "texts/quests/outpost/shared_.questtemplate.json"
+    "/scriptConfig/portraits/questComplete/title": "texts/wide_spread_fields.json",
+    "/scriptConfig/portraits/questStarted/title": "texts/wide_spread_fields.json"
   },
   "quests/outpost/mechupgrade1.questtemplate": {
-    "/scriptConfig/portraits/questComplete/title": "texts/quests/outpost/shared_.questtemplate.json",
-    "/scriptConfig/portraits/questStarted/title": "texts/quests/outpost/shared_.questtemplate.json"
+    "/scriptConfig/portraits/questComplete/title": "texts/wide_spread_fields.json",
+    "/scriptConfig/portraits/questStarted/title": "texts/wide_spread_fields.json"
   },
   "quests/outpost/mechupgrade2.questtemplate": {
     "/scriptConfig/descriptions/turnIn": "texts/quests/outpost/shared_.questtemplate.json",
-    "/scriptConfig/portraits/questComplete/title": "texts/quests/outpost/shared_.questtemplate.json",
-    "/scriptConfig/portraits/questStarted/title": "texts/quests/outpost/shared_.questtemplate.json"
+    "/scriptConfig/portraits/questComplete/title": "texts/wide_spread_fields.json",
+    "/scriptConfig/portraits/questStarted/title": "texts/wide_spread_fields.json"
   },
   "quests/outpost/outpostclue.questtemplate": {
     "/scriptConfig/descriptions/turnIn": "texts/quests/shared_.questtemplate.json",
@@ -25485,10 +25520,14 @@
     "/scriptConfig/radioMessages/uniqueProgress/terramart/senderName": "texts/quests/shared_.questtemplate.json",
     "/scriptConfig/radioMessages/uniqueProgress/terramartclosed/senderName": "texts/quests/shared_.questtemplate.json"
   },
+  "quests/outpost/penguin1.questtemplate": {
+    "/scriptConfig/portraits/questComplete/title": "texts/wide_spread_fields.json",
+    "/scriptConfig/portraits/questStarted/title": "texts/wide_spread_fields.json"
+  },
   "quests/outpost/penguin2.questtemplate": {
     "/scriptConfig/descriptions/turnIn": "texts/quests/outpost/shared_.questtemplate.json",
-    "/scriptConfig/portraits/questComplete/title": "texts/quests/outpost/shared_.questtemplate.json",
-    "/scriptConfig/portraits/questStarted/title": "texts/quests/outpost/shared_.questtemplate.json"
+    "/scriptConfig/portraits/questComplete/title": "texts/wide_spread_fields.json",
+    "/scriptConfig/portraits/questStarted/title": "texts/wide_spread_fields.json"
   },
   "quests/outpost/shipupgrade/illegalshipupgrade1.questtemplate": {
     "/completionText": "texts/quests/outpost/shipupgrade/shared_shipupgrade1.questtemplate.json",
@@ -25752,9 +25791,13 @@
     "/scriptConfig/descriptions/turnIn": "texts/quests/story/shared__mission2.questtemplate.json"
   },
   "radiomessages/missions.radiomessages": {
+    "/avianmission04/senderName": "texts/shared_ion.json",
+    "/avianmission05/senderName": "texts/shared_ion.json",
     "/avianmission06/senderName": "texts/shared_age/shared_mission.json",
+    "/hylotlmission03b/senderName": "texts/shared_ion.json",
     "/tentaclemission-bottom2/senderName": "texts/shared_age/shared_mission.json",
-    "/tentaclemission-destruction2/senderName": "texts/shared_age/shared_mission.json"
+    "/tentaclemission-destruction2/senderName": "texts/shared_age/shared_mission.json",
+    "/tentaclemission-destruction3/senderName": "texts/shared_ion.json"
   },
   "radiomessages/quests.radiomessages": {
     "/gaterepair-gateFound1b/senderName": "texts/wide_spread_fields.json",

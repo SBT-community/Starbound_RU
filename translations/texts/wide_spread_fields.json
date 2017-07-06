@@ -316,7 +316,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A timeless classic."
+      "Eng": "A timeless classic.",
+      "Rus": "Классика любого времени."
     }
   },
   {
@@ -487,6 +488,22 @@
     }
   },
   {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/penguinmission1/labels/name"
+      ],
+      "quests/outpost/penguin1.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bartender",
+      "Rus": "Бармен"
+    }
+  },
+  {
     "DeniedAlternatives": [
       "Кости!"
     ],
@@ -589,6 +606,36 @@
     "Texts": {
       "Eng": "Door",
       "Rus": "Дверь"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/mechunlock/labels/name",
+        "/mechupgrade2/labels/name",
+        "/penguinmission2/labels/name"
+      ],
+      "quests/outpost/mechunlock.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ],
+      "quests/outpost/mechupgrade1.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ],
+      "quests/outpost/mechupgrade2.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ],
+      "quests/outpost/penguin2.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dr. Akaggy",
+      "Rus": "Доктор Акаги"
     }
   },
   {
