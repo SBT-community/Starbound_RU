@@ -1642,6 +1642,17 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "npcs/blacksmith.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/7/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bad-tempered."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "objects/human/prisonpaper1/prisonpaper1.object": [
         "/glitchDescription/glitchEmote"
       ]
@@ -10719,6 +10730,20 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "objects/generic/techchest/techchest.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/generic/techchest2/techchest2.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Non-committal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "objects/avian/idolsupport/idolsupport.object": [
         "/glitchDescription/glitchEmote"
       ]
@@ -13685,6 +13710,17 @@
     "Texts": {
       "Eng": "Secure.",
       "Rus": "Безопасно."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/glitchcastle.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/0/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Self-important."
     }
   },
   {
