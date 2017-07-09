@@ -15,18 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/blacksmith.npctype": [
-        "/scriptConfig/dialog/attack/glitch/default/7"
-      ]
-    },
-    "Texts": {
-      "Eng": "Bad-tempered. Looks like I'll have to teach ye a lesson.",
-      "Rus": "Раздражен. Похоже тебе нужно преподать урок."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/blacksmith.npctype": [
         "/scriptConfig/dialog/attack/glitch/default/3/glitchEmotedText"
       ]
     },
@@ -69,6 +57,18 @@
     "Texts": {
       "Eng": "Looks like I'll be messin' up me nice new weapon.",
       "Rus": "Так я испорчу все свое новое оружие."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/blacksmith.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/7/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks like I'll have to teach ye a lesson.",
+      "Rus": "Похоже, тебе нужно преподать урок."
     }
   },
   {

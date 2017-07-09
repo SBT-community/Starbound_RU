@@ -5105,7 +5105,9 @@
     "/scriptConfig/dialog/attack/glitch/default/5/glitchEmote": "texts/glitchEmotes.json",
     "/scriptConfig/dialog/attack/glitch/default/5/glitchEmotedText": "texts/npcs/blacksmith.npctype.json",
     "/scriptConfig/dialog/attack/glitch/default/6/glitchEmote": "texts/glitchEmotes.json",
-    "/scriptConfig/dialog/attack/glitch/default/6/glitchEmotedText": "texts/npcs/blacksmith.npctype.json"
+    "/scriptConfig/dialog/attack/glitch/default/6/glitchEmotedText": "texts/npcs/blacksmith.npctype.json",
+    "/scriptConfig/dialog/attack/glitch/default/7/glitchEmote": "texts/glitchEmotes.json",
+    "/scriptConfig/dialog/attack/glitch/default/7/glitchEmotedText": "texts/npcs/blacksmith.npctype.json"
   },
   "npcs/crew/crewmember.npctype": {
     "/scriptConfig/crew/role/field": "texts/npcs/crew/shared_crewmember.json",
@@ -5613,6 +5615,8 @@
     "/scriptConfig/dialog/converse/glitch/default/1/glitchEmotedText": "texts/npcs/tenants/evilglitchtenant.npctype.json"
   },
   "npcs/tenants/glitchcastle.npctype": {
+    "/scriptConfig/dialog/converse/glitch/default/0/glitchEmote": "texts/glitchEmotes.json",
+    "/scriptConfig/dialog/converse/glitch/default/0/glitchEmotedText": "texts/npcs/tenants/glitchcastle.npctype.json",
     "/scriptConfig/dialog/converse/glitch/default/1/glitchEmote": "texts/glitchEmotes.json",
     "/scriptConfig/dialog/converse/glitch/default/1/glitchEmotedText": "texts/npcs/tenants/glitchcastle.npctype.json",
     "/scriptConfig/dialog/converse/glitch/default/2/glitchEmote": "texts/glitchEmotes.json",
@@ -14746,7 +14750,8 @@
     "/avianDescription": "texts/objects/generic/shared_techchest/shared_techchest.json",
     "/description": "texts/objects/generic/shared_techchest/shared_techchest.json",
     "/floranDescription": "texts/objects/generic/shared_techchest/shared_techchest.json",
-    "/glitchDescription": "texts/objects/generic/shared_techchest/shared_techchest.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/generic/shared_techchest/shared_techchest.json",
     "/humanDescription": "texts/objects/generic/shared_techchest/shared_techchest.json",
     "/hylotlDescription": "texts/objects/generic/shared_techchest/shared_techchest.json",
     "/novakidDescription": "texts/objects/generic/shared_techchest/shared_techchest.json",
@@ -14757,7 +14762,8 @@
     "/avianDescription": "texts/objects/generic/shared_techchest/shared_techchest.json",
     "/description": "texts/objects/generic/shared_techchest/shared_techchest.json",
     "/floranDescription": "texts/objects/generic/shared_techchest/shared_techchest.json",
-    "/glitchDescription": "texts/objects/generic/shared_techchest/shared_techchest.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/generic/shared_techchest/shared_techchest.json",
     "/humanDescription": "texts/objects/generic/shared_techchest/shared_techchest.json",
     "/hylotlDescription": "texts/objects/generic/shared_techchest/shared_techchest.json",
     "/novakidDescription": "texts/objects/generic/shared_techchest/shared_techchest.json",
