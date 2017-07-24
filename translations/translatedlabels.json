@@ -8778,16 +8778,16 @@
           "chessking.object.json": 2
         },
         "chesskingblack": {
-          "chesskingblack.object.json": 0
+          "chesskingblack.object.json": 2
         },
         "chessknight": {
           "chessknight.object.json": 2
         },
         "chessknightblack": {
-          "chessknightblack.object.json": 0
+          "chessknightblack.object.json": 2
         },
         "chesspawn": {
-          "chesspawn.object.json": 0
+          "chesspawn.object.json": 2
         },
         "chesspawnblack": {
           "chesspawnblack.object.json": 2
@@ -8796,10 +8796,10 @@
           "chessqueen.object.json": 2
         },
         "chessqueenblack": {
-          "chessqueenblack.object.json": 0
+          "chessqueenblack.object.json": 2
         },
         "chessrook": {
-          "chessrook.object.json": 0
+          "chessrook.object.json": 2
         },
         "chessrookblack": {
           "chessrookblack.object.json": 2
@@ -8829,16 +8829,16 @@
           "glitchstoragelocker.object.json": 0
         },
         "guillotine": {
-          "guillotine.object.json": 0
+          "guillotine.object.json": 1
         },
         "haypile": {
-          "haypile.object.json": 0
+          "haypile.object.json": 5
         },
         "hayroll": {
-          "hayroll.object.json": 0
+          "hayroll.object.json": 5
         },
         "haystack": {
-          "haystack.object.json": 0
+          "haystack.object.json": 7
         },
         "hourglass": {
           "hourglass.object.json": 0
@@ -8847,7 +8847,7 @@
           "juicekeg.object.json": 9
         },
         "kitchentools": {
-          "kitchentools.object.json": 0
+          "kitchentools.object.json": 3
         },
         "largebell": {
           "largebell.object.json": 8
@@ -8940,37 +8940,37 @@
           "medievallamp.object.json": 0
         },
         "medievallargecookingpot": {
-          "medievallargecookingpot.object.json": 0
+          "medievallargecookingpot.object.json": 2
         },
         "medievalmap": {
-          "medievalmap.object.json": 0
+          "medievalmap.object.json": 2
         },
         "medievalpedestal": {
-          "medievalpedestal.object.json": 0
+          "medievalpedestal.object.json": 2
         },
         "medievalplate": {
-          "medievalplate.object.json": 0
+          "medievalplate.object.json": 7
         },
         "medievalpressureplate": {
           "medievalpressureplate.object.json": 0
         },
         "medievalregister": {
-          "medievalregister.object.json": 0
+          "medievalregister.object.json": 6
         },
         "medievalscaffolding": {
           "medievalscaffolding.object.json": 0
         },
         "medievalshelf": {
-          "medievalshelf.object.json": 0
+          "medievalshelf.object.json": 9
         },
         "medievalspikes": {
           "medievalspikes.object.json": 0
         },
         "medievalstock": {
-          "medievalstock.object.json": 0
+          "medievalstock.object.json": 1
         },
         "medievalstreetlamp": {
-          "medievalstreetlamp.object.json": 0
+          "medievalstreetlamp.object.json": 2
         },
         "medievalswitchhidden": {
           "medievalswitchhidden.object.json": 0
@@ -9021,7 +9021,7 @@
           "royalchalice.object.json": 0
         },
         "royalchest": {
-          "royalchest.object.json": 0
+          "royalchest.object.json": 1
         },
         "royaldesk": {
           "royaldesk.object.json": 0
@@ -11364,7 +11364,7 @@
         "shared_pressureplat.json": 2
       },
       "shared_pressureplate": {
-        "shared_pressureplate.object.json": 2
+        "shared_pressureplate.object.json": 3
       },
       "shared_proximity": {
         "shared_sensor.object.json": 5
