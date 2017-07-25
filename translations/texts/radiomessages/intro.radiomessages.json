@@ -20,13 +20,11 @@
     },
     "Texts": {
       "Eng": "Good morning graduate! You have overslept. ^#71f2f6;Press A or D to get out of bed^white;.",
-      "Rus": "Доброе утро, выпускник! Вы проспали.^#71f2f6; Нажмите кнопку A или D , чтобы встать с постели^white;."
+      "Rus": "Доброе утро, выпускник! Вы проспали. ^#71f2f6;Нажмите кнопку A или D, чтобы встать с постели^white;."
     }
   },
   {
-    "DeniedAlternatives": [
-      "Я провел предполетную проверку. Забирайтесь на борт!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "radiomessages/intro.radiomessages": [
         "/protectorateShipPlatform/text"
@@ -34,7 +32,7 @@
     },
     "Texts": {
       "Eng": "I have bypassed the preflight checks. Get aboard!",
-      "Rus": "Я обошёл предполетную проверку. Забирайтесь на борт!"
+      "Rus": "Я обошёл предполётную проверку. Забирайтесь на борт!"
     }
   },
   {
@@ -58,7 +56,7 @@
     },
     "Texts": {
       "Eng": "It is not safe to remain here! ^#71f2f6;Please take the Matter Manipulator^white;. You must proceed to the shuttle pad!",
-      "Rus": "Оставаться здесь небезопасно! ^#71f2f6;Пожалуйста, возьмите Манипулятор Материи^white;. Вам нужно на стартовую площадку!"
+      "Rus": "Оставаться здесь небезопасно! ^#71f2f6;Пожалуйста, возьмите Манипулятор Материи^white;. Вам нужно пройти на стартовую площадку!"
     }
   },
   {
@@ -70,7 +68,7 @@
     },
     "Texts": {
       "Eng": "Remember, you can open a door by ^#71f2f6;hovering over it with your cursor and pressing E^white;.",
-      "Rus": "Запомните, вы можете открыть дверь ^#71f2f6;,наведя на нее курсор и нажав E^white;."
+      "Rus": "Запомните, вы можете открыть дверь, ^#71f2f6;наведя на неё курсор и нажав E^white;."
     }
   },
   {
@@ -82,7 +80,7 @@
     },
     "Texts": {
       "Eng": "Scans show the room beyond this door has flooded. It would be best not to go in... I advise you find a way over it - ^#71f2f6;use spacebar to jump^white; up to higher platforms.",
-      "Rus": "Сканирование показывает, что помещение за этой дверью затопило.Было бы лучше не ходить туда.Я советую найти другой путь. ^#71f2f6;Используйте пробел^white;, чтобы запрыгивать на платформы."
+      "Rus": "Сканирование показывает, что помещение за этой дверью затопило. Было бы лучше не ходить туда. Я советую найти другой путь. ^#71f2f6;Используйте пробел^white;, чтобы запрыгивать на платформы."
     }
   },
   {
@@ -146,9 +144,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Поторопитесь. Я советую спрыгнуть с платформы. ^#71f2f6Держите S, чтобы присесть, и затем нажмите пробел^white;."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "radiomessages/intro.radiomessages": [
         "/protectorateDuctPester/text"
@@ -168,7 +164,7 @@
     },
     "Texts": {
       "Eng": "You can get past this dirt using your Matter Manipulator. ^#71f2f6;Press the R key to equip it^white;.",
-      "Rus": "Вы можете убрать эту грязь, используя Манипулятор Материи. ^#71f2f6;Нажмите клавишу R, чтобы его выбрать^white;. "
+      "Rus": "Вы можете убрать эту грязь, используя Манипулятор Материи. ^#71f2f6;Нажмите клавишу R, чтобы его выбрать^white;."
     }
   },
   {
@@ -180,7 +176,7 @@
     },
     "Texts": {
       "Eng": "You will need to destroy that tentacle in order to reach the shuttle. I suggest you retrieve a weapon from that chest.",
-      "Rus": "Вам нужно будет уничтожить это щупальце , чтобы достичь шаттла . Я предлагаю вам взять оружие из этого контейнера ."
+      "Rus": "Вам нужно будет уничтожить это щупальце, чтобы достичь шаттла. Я предлагаю вам взять оружие из этого контейнера."
     }
   },
   {
