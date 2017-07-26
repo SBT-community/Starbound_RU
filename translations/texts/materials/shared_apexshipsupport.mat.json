@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Корабельная опора используется в строительстве судов"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/materials/apexshipsupport.matitem": [
         "/description"
@@ -13,7 +11,7 @@
     },
     "Texts": {
       "Eng": "A wall support used in ship construction.",
-      "Rus": "Опора, использующаяся в постройке корабля."
+      "Rus": "Опора, используемая в постройке корабля."
     }
   },
   {
@@ -75,7 +73,7 @@
     },
     "Texts": {
       "Eng": "Supports like this are often used in ship construction.",
-      "Rus": "Опоры, подобные этой обычно используются в постройке кораблей."
+      "Rus": "Опоры, подобные этой, обычно используются в постройке кораблей."
     }
   }
 ]
