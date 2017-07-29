@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/arena1/labels/name",
+        "/arena2/labels/name",
+        "/arena3/labels/name"
+      ],
+      "radiomessages/missions.radiomessages": [
+        "/avianmission04/senderName",
+        "/avianmission05/senderName",
+        "/hylotlmission03b/senderName",
+        "/tentaclemission-destruction3/senderName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nuru",
+      "Rus": "Нуру"
+    }
+  }
+]

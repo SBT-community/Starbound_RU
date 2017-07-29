@@ -1,7 +1,0 @@
-[
-  {
-    "value": "(Ё|\\xD0[\\x90-\\xBF]|\\xD1[\\x80-\\x8F\\x91]|[a-zA-Z '-]){0,16}",
-    "op": "replace",
-    "path": "/paneLayout/name/regex"
-  }
-]

@@ -254,6 +254,9 @@
       "interface/scripted/weaponupgrade/weaponupgradegui.config": [
         "/gui/cancel/caption"
       ],
+      "interface/windowconfig/beamupconfirmation.config": [
+        "/cancelCaption"
+      ],
       "interface/windowconfig/charcreation.config": [
         "/paneLayout/cancel/caption"
       ],

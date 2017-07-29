@@ -59,20 +59,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/techchest/techchest.object": [
-        "/glitchDescription"
-      ],
-      "objects/generic/techchest2/techchest2.object": [
-        "/glitchDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Non-committal. This chest is of unknown origin."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/techchest/techchest.object": [
         "/novakidDescription"
       ],
       "objects/generic/techchest2/techchest2.object": [
@@ -109,6 +95,20 @@
     },
     "Texts": {
       "Eng": "There is amazing technology built into the chest itself."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/techchest/techchest.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/generic/techchest2/techchest2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This chest is of unknown origin."
     }
   },
   {

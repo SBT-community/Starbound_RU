@@ -2,31 +2,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "quests/outpost/mechunlock.questtemplate": [
-        "/scriptConfig/portraits/questComplete/title",
-        "/scriptConfig/portraits/questStarted/title"
-      ],
-      "quests/outpost/mechupgrade1.questtemplate": [
-        "/scriptConfig/portraits/questComplete/title",
-        "/scriptConfig/portraits/questStarted/title"
-      ],
-      "quests/outpost/mechupgrade2.questtemplate": [
-        "/scriptConfig/portraits/questComplete/title",
-        "/scriptConfig/portraits/questStarted/title"
-      ],
-      "quests/outpost/penguin2.questtemplate": [
-        "/scriptConfig/portraits/questComplete/title",
-        "/scriptConfig/portraits/questStarted/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Dr. Akaggy",
-      "Rus": "Доктор Акаги"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "quests/outpost/techscientist1.questtemplate": [
         "/scriptConfig/portraits/questComplete/title",
         "/scriptConfig/portraits/questStarted/title"

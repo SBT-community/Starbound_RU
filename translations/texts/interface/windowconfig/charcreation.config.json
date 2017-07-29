@@ -132,6 +132,19 @@
     }
   },
   {
+    "Comment": "Регулярное выражение (не для перевода, а для поддержки названий на кирилице)",
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/name/regex"
+      ]
+    },
+    "Texts": {
+      "Eng": "[a-zA-Z0-9 '-]{0,16}",
+      "Rus": "(Ё|\\xD0[\\x90-\\xBF]|\\xD1[\\x80-\\x8F\\x91]|[a-zA-Z '-]){0,16}"
+    }
+  },
+  {
     "DeniedAlternatives": [],
     "Files": {
       "interface/windowconfig/charcreation.config": [

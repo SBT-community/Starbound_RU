@@ -69,7 +69,7 @@
     },
     "Texts": {
       "Eng": "Enter station description",
-      "Rus": "Описание станции"
+      "Rus": "Введите описание станции"
     }
   },
   {
@@ -81,7 +81,19 @@
     },
     "Texts": {
       "Eng": "Enter station name",
-      "Rus": "Название станции"
+      "Rus": "Введите название станции"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/deployingText/error"
+      ]
+    },
+    "Texts": {
+      "Eng": "Error deploying probe. \nConnection lost...",
+      "Rus": "Ошибка запуска зонда.\nСоединение потеряно..."
     }
   },
   {
@@ -106,6 +118,32 @@
     "Texts": {
       "Eng": "Station Transponder Configuration",
       "Rus": "Настройка транспондера станции"
+    }
+  },
+  {
+    "Comment": "Регулярное выражение (не для перевода, а для поддержки названий на кирилице)",
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/gui/configure/children/description/regex"
+      ]
+    },
+    "Texts": {
+      "Eng": "[a-zA-Z0-9 '-?!.]{0,130}",
+      "Rus": "(Ё|\\xD0[\\x90-\\xBF]|\\xD1[\\x80-\\x8F\\x91]|[a-zA-Z0-9 '-?!.]){0,130}"
+    }
+  },
+  {
+    "Comment": "Регулярное выражение (не для перевода, а для поддержки названий на кирилице)",
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/gui/configure/children/name/regex"
+      ]
+    },
+    "Texts": {
+      "Eng": "[a-zA-Z0-9 '-?!.]{0,30}",
+      "Rus": "(Ё|\\xD0[\\x90-\\xBF]|\\xD1[\\x80-\\x8F\\x91]|[a-zA-Z0-9 '-?!.]){0,30}"
     }
   },
   {
@@ -154,6 +192,54 @@
     "Texts": {
       "Eng": "^green;Link established",
       "Rus": "^green;Соединение установлено"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/deployingText/traveling"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Probe dispatched.\nProbe approaching target orbit",
+      "Rus": "^green;Зонд запущен.\nЗонд приближается к орбите цели"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/deployingText/deploying"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Probe has reached target orbit.\nDeploying station",
+      "Rus": "^green;Зонд достиг орбиты цели.\nИдет развертывание станции"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/deployingText/dispatching"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Requesting probe dispatch",
+      "Rus": "^green;Запрос запуска зонда"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/deployingText/deployed"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Station deployed",
+      "Rus": "^green;Станция развернута"
     }
   },
   {

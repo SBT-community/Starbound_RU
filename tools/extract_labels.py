@@ -27,7 +27,7 @@ prefix = "./translations"
 texts_prefix = "texts"
 sub_file = normpath(join(prefix, "substitutions.json"))
 
-glitchEmoteExtractor = regex("^([In]{,3}\s?[A-Za-z]+\.)\s+(.*)")
+glitchEmoteExtractor = regex("^([In]{,3}\s?[A-Za-z-]+\.)\s+(.*)")
 glitchIsHere = regex("^.*[gG]litch.*")
 
 
