@@ -43,6 +43,7 @@ foi = {
   "namegen.config": ["^names/1/[0-9]+/[0-9]+$"],
   "quests.config": ["^pronouns/.+$", "^objectiveDescriptions/.+"],
   ".species": ["^charGenTextLabels/[0-9]+$"],
+  ".sbvn": ["^.+/options/[0-9]+/0$"],
   ".tech": [],
   ".cinematic": [],
   ".currency": [],
