@@ -28,10 +28,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Большой Деревянный Ящик",
-      "Большой Деревянный Ящик."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/generic/woodencrate2/woodencrate2.object": [
         "/shortdescription"
@@ -42,7 +39,7 @@
     },
     "Texts": {
       "Eng": "Large Wooden Crate",
-      "Rus": "Большой Деревянный Ящик"
+      "Rus": "Большой деревянный ящик"
     }
   }
 ]

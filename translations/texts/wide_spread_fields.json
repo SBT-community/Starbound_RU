@@ -100,6 +100,11 @@
         "/tout/default/default/0",
         "/welcome/default/default/0"
       ],
+      "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
+        "/scenes/art10/text",
+        "/scenes/art13/options/0/0",
+        "/scenes/hockey2/text"
+      ],
       "items/materials/black.matitem": [
         "/description",
         "/florandescription",
@@ -842,6 +847,21 @@
     }
   },
   {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
+        "/scenes/song1/options/0/0"
+      ],
+      "npcs/crew/crewmemberchemist.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can help!",
+      "Rus": "Я могу помочь!"
+    }
+  },
+  {
     "DeniedAlternatives": [
       "Мне нечего тебе ссказать."
     ],
@@ -903,6 +923,21 @@
     "Texts": {
       "Eng": "I've had enough of this!",
       "Rus": "С меня хватит!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "hunger.config": [
+        "/1/up/0"
+      ],
+      "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
+        "/scenes/art16/options/0/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is this a joke?",
+      "Rus": "Ты шутишь?"
     }
   },
   {
@@ -1012,7 +1047,7 @@
     },
     "Texts": {
       "Eng": "Rock Chest",
-      "Rus": "Каменный нагрудник"
+      "Rus": "Каменный сундук"
     }
   },
   {
@@ -1435,6 +1470,22 @@
     "Texts": {
       "Eng": "What have you done!?",
       "Rus": "Что ты наделал!?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/glitch/default/3/glitchEmotedText"
+      ],
+      "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
+        "/scenes/kasumi1a/options/1/0",
+        "/scenes/kasumi1b/options/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Who are you?",
+      "Rus": "Кто ты?"
     }
   },
   {

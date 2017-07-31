@@ -1176,7 +1176,7 @@
     "/hail/glitch/default/2/glitchEmote": "texts/glitchEmotes.json",
     "/hail/glitch/default/2/glitchEmotedText": "texts/dialog/guard.config.json",
     "/hail/glitch/default/3/glitchEmote": "texts/glitchEmotes.json",
-    "/hail/glitch/default/3/glitchEmotedText": "texts/dialog/guard.config.json",
+    "/hail/glitch/default/3/glitchEmotedText": "texts/wide_spread_fields.json",
     "/hail/glitch/default/4/glitchEmote": "texts/glitchEmotes.json",
     "/hail/glitch/default/4/glitchEmotedText": "texts/dialog/guard.config.json",
     "/hail/glitch/default/5/glitchEmote": "texts/glitchEmotes.json",
@@ -1749,6 +1749,9 @@
     "/alert/glitch/default/4/glitchEmote": "texts/glitchEmotes.json",
     "/alert/glitch/default/4/glitchEmotedText": "texts/dialog/thief.config.json"
   },
+  "hunger.config": {
+    "/1/up/0": "texts/wide_spread_fields.json"
+  },
   "interface.config": {
     "/cursorTooltip/beamDownText": "texts/shared_interface.json",
     "/cursorTooltip/codexText": "texts/wide_spread_fields.json",
@@ -2014,6 +2017,15 @@
   "interface/scripted/keytrader/keytradergui.config": {
     "/gui/lblKeyName/value": "texts/shared_key.json",
     "/gui/lblTradeItemName/value": "texts/wide_spread_fields.json"
+  },
+  "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": {
+    "/scenes/art10/text": "texts/wide_spread_fields.json",
+    "/scenes/art13/options/0/0": "texts/wide_spread_fields.json",
+    "/scenes/art16/options/0/0": "texts/wide_spread_fields.json",
+    "/scenes/hockey2/text": "texts/wide_spread_fields.json",
+    "/scenes/kasumi1a/options/1/0": "texts/wide_spread_fields.json",
+    "/scenes/kasumi1b/options/1/0": "texts/wide_spread_fields.json",
+    "/scenes/song1/options/0/0": "texts/wide_spread_fields.json"
   },
   "interface/scripted/techupgrade/techupgradegui.config": {
     "/gui/lblChipsCount/value": "texts/interface/scripted/shared_gui.config.json",
@@ -5105,7 +5117,9 @@
     "/scriptConfig/dialog/attack/glitch/default/5/glitchEmote": "texts/glitchEmotes.json",
     "/scriptConfig/dialog/attack/glitch/default/5/glitchEmotedText": "texts/npcs/blacksmith.npctype.json",
     "/scriptConfig/dialog/attack/glitch/default/6/glitchEmote": "texts/glitchEmotes.json",
-    "/scriptConfig/dialog/attack/glitch/default/6/glitchEmotedText": "texts/npcs/blacksmith.npctype.json"
+    "/scriptConfig/dialog/attack/glitch/default/6/glitchEmotedText": "texts/npcs/blacksmith.npctype.json",
+    "/scriptConfig/dialog/attack/glitch/default/7/glitchEmote": "texts/glitchEmotes.json",
+    "/scriptConfig/dialog/attack/glitch/default/7/glitchEmotedText": "texts/npcs/blacksmith.npctype.json"
   },
   "npcs/crew/crewmember.npctype": {
     "/scriptConfig/crew/role/field": "texts/npcs/crew/shared_crewmember.json",
@@ -5160,6 +5174,7 @@
   "npcs/crew/crewmemberchemist.npctype": {
     "/scriptConfig/dialog/crewmember/combatBenefit/default/default/1": "texts/npcs/crew/shared_crewmember.json",
     "/scriptConfig/dialog/crewmember/combatBenefit/default/default/2": "texts/npcs/crew/shared_crewmember.json",
+    "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3": "texts/wide_spread_fields.json",
     "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/1": "texts/npcs/crew/shared_crewmember.json",
     "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/2": "texts/npcs/crew/shared_crewmember.json",
     "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0/glitchEmote": "texts/glitchEmotes.json",
@@ -5613,6 +5628,8 @@
     "/scriptConfig/dialog/converse/glitch/default/1/glitchEmotedText": "texts/npcs/tenants/evilglitchtenant.npctype.json"
   },
   "npcs/tenants/glitchcastle.npctype": {
+    "/scriptConfig/dialog/converse/glitch/default/0/glitchEmote": "texts/glitchEmotes.json",
+    "/scriptConfig/dialog/converse/glitch/default/0/glitchEmotedText": "texts/npcs/tenants/glitchcastle.npctype.json",
     "/scriptConfig/dialog/converse/glitch/default/1/glitchEmote": "texts/glitchEmotes.json",
     "/scriptConfig/dialog/converse/glitch/default/1/glitchEmotedText": "texts/npcs/tenants/glitchcastle.npctype.json",
     "/scriptConfig/dialog/converse/glitch/default/2/glitchEmote": "texts/glitchEmotes.json",
@@ -14746,7 +14763,8 @@
     "/avianDescription": "texts/objects/generic/shared_techchest/shared_techchest.json",
     "/description": "texts/objects/generic/shared_techchest/shared_techchest.json",
     "/floranDescription": "texts/objects/generic/shared_techchest/shared_techchest.json",
-    "/glitchDescription": "texts/objects/generic/shared_techchest/shared_techchest.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/generic/shared_techchest/shared_techchest.json",
     "/humanDescription": "texts/objects/generic/shared_techchest/shared_techchest.json",
     "/hylotlDescription": "texts/objects/generic/shared_techchest/shared_techchest.json",
     "/novakidDescription": "texts/objects/generic/shared_techchest/shared_techchest.json",
@@ -14757,7 +14775,8 @@
     "/avianDescription": "texts/objects/generic/shared_techchest/shared_techchest.json",
     "/description": "texts/objects/generic/shared_techchest/shared_techchest.json",
     "/floranDescription": "texts/objects/generic/shared_techchest/shared_techchest.json",
-    "/glitchDescription": "texts/objects/generic/shared_techchest/shared_techchest.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/generic/shared_techchest/shared_techchest.json",
     "/humanDescription": "texts/objects/generic/shared_techchest/shared_techchest.json",
     "/hylotlDescription": "texts/objects/generic/shared_techchest/shared_techchest.json",
     "/novakidDescription": "texts/objects/generic/shared_techchest/shared_techchest.json",

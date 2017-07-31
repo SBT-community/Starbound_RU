@@ -1,9 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Авианская корабельная дверь.",
-      "Дверь с корабля Авиан"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/ship/avianshipdoor/avianshipdoor.object": [
         "/shortdescription"
@@ -14,7 +11,7 @@
     },
     "Texts": {
       "Eng": "Avian Ship Door",
-      "Rus": "Авианская корабельная дверь"
+      "Rus": "Корабельная дверь Авиан"
     }
   }
 ]
