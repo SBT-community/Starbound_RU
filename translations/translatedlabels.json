@@ -176,7 +176,7 @@
         "apexhistory7.codex.json": 4,
         "apexhistory8.codex.json": 3,
         "apexhistory9.codex.json": 3,
-        "apexspace1.codex.json": 0
+        "apexspace1.codex.json": 6
       },
       "avian": {
         "avianhistory1.codex.json": 2,
@@ -236,7 +236,7 @@
         "humanhistory7.codex.json": 4,
         "humanhistory8.codex.json": 5,
         "humanhistory9.codex.json": 3,
-        "humanspace1.codex.json": 0
+        "humanspace1.codex.json": 5
       },
       "hylotl": {
         "Hiraki Corale": {
@@ -259,7 +259,7 @@
         "hylotlhistory6.codex.json": 4,
         "hylotlhistory7.codex.json": 3,
         "hylotlhistory8.codex.json": 3,
-        "hylotlspace1.codex.json": 0
+        "hylotlspace1.codex.json": 5
       },
       "missions": {
         "apex mission": {
@@ -342,7 +342,7 @@
       "arrivedhome.config.json": 54,
       "clues.config.json": 50,
       "colourful.config.json": 33,
-      "combat.config.json": 179,
+      "combat.config.json": 185,
       "converse.config.json": 1357,
       "crewmember.config.json": 39,
       "cultist.config.json": 31,
@@ -372,7 +372,7 @@
       "shipcrew.config.json": 0,
       "shroom.config.json": 85,
       "sniper.config.json": 23,
-      "spaceconverse.config.json": 22,
+      "spaceconverse.config.json": 50,
       "spacehero.config.json": 13,
       "thief.config.json": 59
     },
@@ -578,7 +578,7 @@
       }
     },
     "interface.config.json": 18,
-    "interface.json": 8,
+    "interface.json": 9,
     "items": {
       "active": {
         "fishingrod": {
@@ -3720,43 +3720,43 @@
       "shared_platinumblock.mat.json": 5,
       "shared_pressurisedbeam.mat.json": 4,
       "shared_pressuriseddurasteel.mat.json": 5,
-      "shared_pressurisedgirder.mat.json": 2,
-      "shared_purplecrystal.mat.json": 3,
+      "shared_pressurisedgirder.mat.json": 5,
+      "shared_purplecrystal.mat.json": 5,
       "shared_rainbowwoodblock.mat.json": 5,
-      "shared_redtoyblock.mat.json": 2,
+      "shared_redtoyblock.mat.json": 5,
       "shared_reed.json": 5,
       "shared_ridgebrick.mat.json": 5,
       "shared_rock.json": 5,
-      "shared_rock14.mat.json": 3,
+      "shared_rock14.mat.json": 4,
       "shared_rockbrick.mat.json": 5,
       "shared_rooftiles.mat.json": 5,
       "shared_rustyblock.mat.json": 5,
       "shared_rustymetal.mat.json": 5,
       "shared_sand.mat.json": 5,
-      "shared_sand2.mat.json": 3,
-      "shared_sandstone.json": 1,
-      "shared_sandstoneblock.mat.json": 2,
-      "shared_sewage.mat.json": 2,
+      "shared_sand2.mat.json": 4,
+      "shared_sandstone.json": 4,
+      "shared_sandstoneblock.mat.json": 5,
+      "shared_sewage.mat.json": 5,
       "shared_sewerpipe.mat.json": 2,
       "shared_shadowblock.mat.json": 2,
       "shared_shadowspikeblock.mat.json": 3,
       "shared_shadowwallblock.mat.json": 2,
       "shared_shojiscreenpanel.mat.json": 2,
       "shared_shroomblock.mat.json": 2,
-      "shared_silverblock.mat.json": 3,
-      "shared_silverscrew.mat.json": 2,
-      "shared_slime.mat.json": 3,
-      "shared_slopedhullpanel.mat.json": 0,
-      "shared_slopedinsetpanel.mat.json": 0,
-      "shared_slopedrustypanel.mat.json": 1,
-      "shared_slopedscrappanel.mat.json": 0,
-      "shared_slush.mat.json": 2,
-      "shared_smoothmetal.mat.json": 3,
-      "shared_snow.mat.json": 1,
+      "shared_silverblock.mat.json": 5,
+      "shared_silverscrew.mat.json": 5,
+      "shared_slime.mat.json": 5,
+      "shared_slopedhullpanel.mat.json": 5,
+      "shared_slopedinsetpanel.mat.json": 5,
+      "shared_slopedrustypanel.mat.json": 5,
+      "shared_slopedscrappanel.mat.json": 4,
+      "shared_slush.mat.json": 5,
+      "shared_smoothmetal.mat.json": 5,
+      "shared_snow.mat.json": 4,
       "shared_spidersilkblock.mat.json": 2,
       "shared_stomachblock.mat.json": 5,
       "shared_stonerubble.mat.json": 2,
-      "shared_stonetiles.mat.json": 2,
+      "shared_stonetiles.mat.json": 5,
       "shared_supermatter.mat.json": 5,
       "shared_tar.mat.json": 4,
       "shared_techhull1.mat.json": 3,
@@ -3773,16 +3773,16 @@
       "shared_tombbrick4.mat.json": 3,
       "shared_tombbrick5.mat.json": 2,
       "shared_treasurehoard.mat.json": 5,
-      "shared_vine.mat.json": 2,
-      "shared_wallpaper.mat.json": 2,
+      "shared_vine.mat.json": 5,
+      "shared_wallpaper.mat.json": 5,
       "shared_waste.mat.json": 5,
-      "shared_wetdirt.mat.json": 4,
+      "shared_wetdirt.mat.json": 5,
       "shared_wicker.mat.json": 1,
       "shared_wickersupport.mat.json": 2,
       "shared_woodbridge.mat.json": 5,
-      "shared_woodenwindow1.mat.json": 3,
-      "shared_woodenwindow2.mat.json": 2,
-      "shared_woodpanelling.mat.json": 4
+      "shared_woodenwindow1.mat.json": 5,
+      "shared_woodenwindow2.mat.json": 5,
+      "shared_woodpanelling.mat.json": 5
     },
     "monsters": {
       "boss": {
@@ -5214,7 +5214,7 @@
           "apexstatue3.object.json": 6
         },
         "apexstoragelocker": {
-          "apexstoragelocker.object.json": 0
+          "apexstoragelocker.object.json": 1
         },
         "apexstoreshelf": {
           "apexstoreshelf.object.json": 0
@@ -5599,7 +5599,7 @@
           "avianpressureplate.object.json": 0
         },
         "avianstoragelocker": {
-          "avianstoragelocker.object.json": 0
+          "avianstoragelocker.object.json": 1
         },
         "avianswitchhidden": {
           "avianswitchhidden1.object.json": 0,
@@ -5619,7 +5619,7 @@
           "bigjar1.object.json": 0
         },
         "birdaltar2": {
-          "birdaltar2.object.json": 0
+          "birdaltar2.object.json": 9
         },
         "birdbed": {
           "birdbed.object.json": 0
@@ -5652,16 +5652,16 @@
           "birdthrone.object.json": 9
         },
         "chestavian": {
-          "chestavian1.object.json": 0
+          "chestavian1.object.json": 1
         },
         "chestavian2": {
-          "chestavian2.object.json": 0
+          "chestavian2.object.json": 2
         },
         "chestmedavian": {
-          "chestmedavian1.object.json": 0
+          "chestmedavian1.object.json": 1
         },
         "chestmedavian2": {
-          "chestmedavian2.object.json": 0
+          "chestmedavian2.object.json": 2
         },
         "consoletribal1": {
           "consoletribal1.object.json": 0
@@ -7500,7 +7500,7 @@
           "ironcraftingtable.object.json": 11
         },
         "mechcraftingtable": {
-          "mechcraftingtable.object.json": 0
+          "mechcraftingtable.object.json": 9
         },
         "pethealingstation": {
           "pethealingstation.object.json": 10
@@ -7868,7 +7868,7 @@
           "floransmalltable.object.json": 0
         },
         "floranstoragelocker": {
-          "floranstoragelocker.object.json": 0
+          "floranstoragelocker.object.json": 1
         },
         "floranstove": {
           "floranstove.object.json": 0
@@ -7889,7 +7889,7 @@
           "huntingbench.object.json": 4
         },
         "huntingbigstatue": {
-          "huntingbigstatue.object.json": 0
+          "huntingbigstatue.object.json": 8
         },
         "huntingdisplay1": {
           "huntingdisplay1.object.json": 0
@@ -8158,7 +8158,7 @@
           "bardoor.object.json": 9
         },
         "barvent": {
-          "barvent.object.json": 0
+          "barvent.object.json": 7
         },
         "biohazardsign": {
           "biohazardsign.object.json": 5
@@ -8167,13 +8167,13 @@
           "birdsnest.object.json": 0
         },
         "bluelight": {
-          "bluelight.object.json": 8
+          "bluelight.object.json": 9
         },
         "box1": {
           "box1.object.json": 8
         },
         "box2": {
-          "box2.object.json": 0
+          "box2.object.json": 9
         },
         "burningcoals": {
           "burningcoals.object.json": 0
@@ -8209,7 +8209,7 @@
           "cardboard3.object.json": 0
         },
         "ceilingfridge1": {
-          "largecooler1.object.json": 0
+          "largecooler1.object.json": 5
         },
         "claypot1": {
           "claypot1.object.json": 1
@@ -8230,10 +8230,10 @@
           "copperlantern.object.json": 7
         },
         "coppershelf": {
-          "coppershelf.object.json": 0
+          "coppershelf.object.json": 2
         },
         "coppersupport": {
-          "coppersupport.object.json": 0
+          "coppersupport.object.json": 2
         },
         "cropshipper": {
           "cropshipper.object.json": 9
@@ -8245,12 +8245,12 @@
           "datastation.object.json": 0
         },
         "durasteelelevator": {
-          "durasteelelevatorlong.object.json": 0,
+          "durasteelelevatorlong.object.json": 1,
           "durasteelelevatorshort.object.json": 0,
-          "shared_durasteelelevator.json": 0
+          "shared_durasteelelevator.json": 2
         },
         "eggchair": {
-          "eggchair.object.json": 0
+          "eggchair.object.json": 9
         },
         "electricdoor": {
           "electricdoor.object.json": 0
@@ -8289,7 +8289,7 @@
           "flagnovakid.object.json": 8
         },
         "floodlights": {
-          "floodlights.object.json": 0
+          "floodlights.object.json": 9
         },
         "fluorescentlight": {
           "flickeringfluorescentlight.object.json": 0,
@@ -8314,7 +8314,7 @@
           "futurelight.object.json": 0
         },
         "gunchest": {
-          "gunchest.object.json": 3
+          "gunchest.object.json": 9
         },
         "hazardmicroscope": {
           "hazardmicroscope.object.json": 0
@@ -8351,10 +8351,10 @@
           "shared_lightbulb.json": 0
         },
         "locker1": {
-          "locker1.object.json": 0
+          "locker1.object.json": 2
         },
         "locker2": {
-          "locker2.object.json": 0
+          "locker2.object.json": 2
         },
         "loudspeaker": {
           "loudspeaker.object.json": 0
@@ -8386,13 +8386,13 @@
           "mechbeacon.object.json": 0
         },
         "metalbarrel1": {
-          "metalbarrel1.object.json": 0
+          "metalbarrel1.object.json": 9
         },
         "metalchair": {
           "basicmetalchair.object.json": 9
         },
         "minifridge": {
-          "minifridge.object.json": 6
+          "minifridge.object.json": 8
         },
         "miningsupplies": {
           "miningsupplies.object.json": 0
@@ -8404,7 +8404,7 @@
           "moderntable.object.json": 0
         },
         "nanostove": {
-          "nanostove.object.json": 0
+          "nanostove.object.json": 11
         },
         "oillantern1": {
           "oillantern1.object.json": 0
@@ -8477,7 +8477,7 @@
           "shared_claypot.json": 0
         },
         "shared_flag": {
-          "shared_.object.json": 0
+          "shared_.object.json": 1
         },
         "shared_fountain": {
           "shared_fountain.json": 0
@@ -8504,10 +8504,10 @@
           "shared_.object.json": 0
         },
         "shared_sleepingbag": {
-          "shared_sleepingbag.json": 0
+          "shared_sleepingbag.json": 8
         },
         "shared_techchest": {
-          "shared_techchest.json": 0
+          "shared_techchest.json": 9
         },
         "shared_tent": {
           "shared_.object.json": 7
@@ -8528,22 +8528,22 @@
           "shared_woodenstand.json": 2
         },
         "shiplight": {
-          "shiplight.object.json": 0
+          "shiplight.object.json": 3
         },
         "shootingtarget": {
           "shootingtarget.object.json": 0
         },
         "sleepingbag": {
-          "sleepingbag.object.json": 0
+          "sleepingbag.object.json": 1
         },
         "sleepingbaggreen": {
-          "sleepingbaggreen.object.json": 0
+          "sleepingbaggreen.object.json": 1
         },
         "sleepingbagred": {
-          "sleepingbagred.object.json": 0
+          "sleepingbagred.object.json": 1
         },
         "slidingdoor": {
-          "slidingdoor.object.json": 0
+          "slidingdoor.object.json": 2
         },
         "smashcrystal": {
           "smashcrystal.object.json": 0
@@ -8558,7 +8558,7 @@
           "stepladder.object.json": 0
         },
         "stonechest": {
-          "ironchest.object.json": 0
+          "ironchest.object.json": 2
         },
         "symbiotesample": {
           "symbiotesample.object.json": 9
@@ -8600,19 +8600,19 @@
           "trophysilver.object.json": 4
         },
         "tungstenchair": {
-          "tungstenchair.object.json": 0
+          "tungstenchair.object.json": 2
         },
         "tvstation": {
           "tvstation.object.json": 0
         },
         "vent": {
-          "vent.object.json": 0
+          "vent.object.json": 6
         },
         "volcanopod": {
           "volcanopod.object.json": 0
         },
         "weaponchest": {
-          "weaponchest.object.json": 1
+          "weaponchest.object.json": 7
         },
         "wflowerpot": {
           "wflowerpot.object.json": 0
@@ -8713,7 +8713,7 @@
           "woodstool.object.json": 7
         },
         "woodsupport": {
-          "woodsupport.object.json": 0
+          "woodsupport.object.json": 2
         },
         "woodtable": {
           "woodtable.object.json": 8
@@ -8826,7 +8826,7 @@
           "garagetools.object.json": 0
         },
         "glitchstoragelocker": {
-          "glitchstoragelocker.object.json": 0
+          "glitchstoragelocker.object.json": 1
         },
         "guillotine": {
           "guillotine.object.json": 1
@@ -9009,7 +9009,7 @@
           "royalbed.object.json": 0
         },
         "royalbookcase": {
-          "royalbookcase.object.json": 0
+          "royalbookcase.object.json": 2
         },
         "royalcabinet": {
           "royalcabinet.object.json": 0
@@ -9021,7 +9021,7 @@
           "royalchalice.object.json": 0
         },
         "royalchest": {
-          "royalchest.object.json": 1
+          "royalchest.object.json": 2
         },
         "royaldesk": {
           "royaldesk.object.json": 0
@@ -9114,7 +9114,7 @@
           "toxicwastebarrel.object.json": 0
         },
         "trashbag": {
-          "trashbag.object.json": 0
+          "trashbag.object.json": 7
         },
         "trashcan": {
           "trashcan.object.json": 4
@@ -9528,7 +9528,7 @@
           "hazardtapev.object.json": 0
         },
         "humanstoragelocker": {
-          "humanstoragelocker.object.json": 0
+          "humanstoragelocker.object.json": 1
         },
         "jukebox": {
           "jukebox.object.json": 0
@@ -10042,7 +10042,7 @@
           "hylotlradio.object.json": 0
         },
         "hylotlstoragelocker": {
-          "hylotlstoragelocker.object.json": 0
+          "hylotlstoragelocker.object.json": 1
         },
         "hylotlstoreshelf": {
           "hylotlstoreshelf.object.json": 0
@@ -10318,7 +10318,7 @@
             "fistlauncher.object.json": 2
           },
           "miniknogoldsign": {
-            "miniknogoldsign.object.json": 8
+            "miniknogoldsign.object.json": 9
           }
         },
         "avianmission": {
@@ -10381,7 +10381,7 @@
           "drip2.object.json": 2
         },
         "escaperadar": {
-          "escaperadar.object.json": 0
+          "escaperadar.object.json": 6
         },
         "fallingrocks": {
           "fallingrocks.object.json": 0
@@ -10390,7 +10390,7 @@
           "fallingrocksmodern.object.json": 0
         },
         "floranchampionstatue": {
-          "huntingchampionstatue.object.json": 0
+          "huntingchampionstatue.object.json": 8
         },
         "floranmission": {
           "floranartifactaltar": {
@@ -10444,55 +10444,55 @@
           "laboratorylight.object.json": 0
         },
         "laboratoryverticaldoor": {
-          "laboratoryverticaldoor.object.json": 0
+          "laboratoryverticaldoor.object.json": 9
         },
         "lunarbasebunk": {
-          "lunarbasebunk.object.json": 0
+          "lunarbasebunk.object.json": 9
         },
         "lunarbasechair": {
-          "lunarbasechair.object.json": 0
+          "lunarbasechair.object.json": 9
         },
         "lunarbaseconsole": {
-          "lunarbaseconsole.object.json": 0
+          "lunarbaseconsole.object.json": 9
         },
         "lunarbasecrate": {
           "lunarbasecrate.object.json": 9
         },
         "lunarbasedoor": {
-          "lunarbasedoor.object.json": 0
+          "lunarbasedoor.object.json": 9
         },
         "lunarbaselantern": {
           "lunarbaselantern.object.json": 2
         },
         "lunarbaselaser": {
-          "lunarbaselaser.object.json": 0
+          "lunarbaselaser.object.json": 9
         },
         "lunarbaselocker": {
-          "lunarbaselocker.object.json": 0
+          "lunarbaselocker.object.json": 9
         },
         "lunarquestturnin": {
           "drillconsole": {
-            "drillconsole.object.json": 0
+            "drillconsole.object.json": 9
           },
-          "drillmachine.object.json": 0
+          "drillmachine.object.json": 9
         },
         "miningbelt": {
-          "miningbelt.object.json": 0
+          "miningbelt.object.json": 8
         },
         "miningchest": {
-          "miningchest.object.json": 2
+          "miningchest.object.json": 4
         },
         "miningcrusher": {
-          "miningcrusher.object.json": 0
+          "miningcrusher.object.json": 7
         },
         "miningdoor": {
-          "miningdoor.object.json": 1
+          "miningdoor.object.json": 9
         },
         "miningfence": {
-          "miningfence.object.json": 0
+          "miningfence.object.json": 8
         },
         "mininghazardsign": {
-          "mininghazardsign.object.json": 0
+          "mininghazardsign.object.json": 9
         },
         "miningpowersign": {
           "miningpowersign.object.json": 0
@@ -10501,7 +10501,7 @@
           "miningskip.object.json": 9
         },
         "miningverticaldoor": {
-          "miningverticaldoor.object.json": 0
+          "miningverticaldoor.object.json": 2
         },
         "penguinbasedoor": {
           "penguinbasedoor.object.json": 2
@@ -10510,7 +10510,7 @@
           "penguinposter1.object.json": 0
         },
         "proximitywallsensor": {
-          "proximitywallsensor.object.json": 0
+          "proximitywallsensor.object.json": 3
         },
         "redlight": {
           "redlight.object.json": 0,
@@ -10538,7 +10538,7 @@
           "shared_lltorch.object.json": 0
         },
         "shared_mining": {
-          "shared_.object.json": 0
+          "shared_.object.json": 1
         },
         "shared_mission": {
           "shared_artifactaltar": {
@@ -10626,7 +10626,7 @@
           "frontierwindmill.object.json": 0
         },
         "novakidstoragelocker": {
-          "novakidstoragelocker.object.json": 0
+          "novakidstoragelocker.object.json": 1
         },
         "picturestand": {
           "picturestand.object.json": 0
@@ -10967,8 +10967,8 @@
           "teddybearplush.object.json": 5
         },
         "terramart": {
-          "terramart.object.json": 8,
-          "terramartclosed.object.json": 7
+          "terramart.object.json": 10,
+          "terramartclosed.object.json": 8
         },
         "treasuredtrophies": {
           "treasuredtrophies.object.json": 9
@@ -11320,7 +11320,7 @@
         "shared_.object.json": 3
       },
       "shared_frog": {
-        "shared_.object.json": 0
+        "shared_.object.json": 1
       },
       "shared_generator": {
         "shared_generator.object.json": 1
@@ -11344,10 +11344,10 @@
         "shared_door.object.json": 2
       },
       "shared_light": {
-        "shared_.object.json": 0,
-        "shared_light.object.json": 10,
-        "shared_lightBroken.object.json": 0,
-        "shared_roken.object.json": 0
+        "shared_.object.json": 1,
+        "shared_light.object.json": 14,
+        "shared_lightBroken.object.json": 1,
+        "shared_roken.object.json": 5
       },
       "shared_light.json": 16,
       "shared_liquidsensor": {
@@ -11370,7 +11370,7 @@
         "shared_sensor.object.json": 5
       },
       "shared_radar": {
-        "shared_.object.json": 0
+        "shared_.object.json": 3
       },
       "shared_register.json": 7,
       "shared_root.json": 1,
@@ -11394,10 +11394,10 @@
         "shared_smokeprimer.object.json": 8
       },
       "shared_statue": {
-        "shared_statue.object.json": 0
+        "shared_statue.object.json": 1
       },
       "shared_storagelocker": {
-        "shared_storagelocker.object.json": 0
+        "shared_storagelocker.object.json": 8
       },
       "shared_storeshelf.json": 4,
       "shared_switch.json": 4,
@@ -11410,7 +11410,7 @@
       },
       "shared_table.json": 1,
       "shared_tech": {
-        "shared_console.json": 3
+        "shared_console.json": 5
       },
       "shared_tent": {
         "shared_.object.json": 1
@@ -11605,43 +11605,43 @@
       },
       "space": {
         "astrocabinet": {
-          "astrocabinet.object.json": 0
+          "astrocabinet.object.json": 2
         },
         "astroceilingmonitor": {
-          "astroceilingmonitor.object.json": 0
+          "astroceilingmonitor.object.json": 2
         },
         "astrochair": {
-          "astrochair.object.json": 0
+          "astrochair.object.json": 2
         },
         "astroconsole": {
-          "astroconsole.object.json": 0
+          "astroconsole.object.json": 2
         },
         "astrocrate": {
-          "astrocrate.object.json": 0
+          "astrocrate.object.json": 2
         },
         "astrodoor": {
-          "astrodoor.object.json": 0
+          "astrodoor.object.json": 2
         },
         "astrolight": {
-          "astrolight.object.json": 0
+          "astrolight.object.json": 2
         },
         "astromonitor": {
-          "astromonitor.object.json": 0
+          "astromonitor.object.json": 2
         },
         "astroserver": {
-          "astroserver.object.json": 0
+          "astroserver.object.json": 2
         },
         "astrostoragelocker": {
-          "astrostoragelocker.object.json": 0
+          "astrostoragelocker.object.json": 2
         },
         "astrotable": {
-          "astrotable.object.json": 0
+          "astrotable.object.json": 2
         },
         "astrovent": {
-          "astrovent.object.json": 0
+          "astrovent.object.json": 2
         },
         "astrowallpanel": {
-          "astrowallpanel.object.json": 0
+          "astrowallpanel.object.json": 2
         },
         "cultistdoor": {
           "cultistdoor.object.json": 0
@@ -11652,34 +11652,34 @@
           "shared_dockingfield.json": 0
         },
         "industrialbed": {
-          "industrialbed.object.json": 0
+          "industrialbed.object.json": 2
         },
         "industrialcanister": {
-          "industrialcanister.object.json": 0
+          "industrialcanister.object.json": 2
         },
         "industrialchair": {
-          "industrialchair.object.json": 0
+          "industrialchair.object.json": 2
         },
         "industrialcomputer": {
-          "industrialcomputer.object.json": 0
+          "industrialcomputer.object.json": 2
         },
         "industrialcrate": {
-          "industrialcrate.object.json": 0
+          "industrialcrate.object.json": 2
         },
         "industrialdisplay": {
-          "industrialdisplay.object.json": 0
+          "industrialdisplay.object.json": 2
         },
         "industrialdoor": {
-          "industrialdoor.object.json": 0
+          "industrialdoor.object.json": 2
         },
         "industriallight": {
-          "industriallight.object.json": 0
+          "industriallight.object.json": 2
         },
         "industrialstoragelocker": {
-          "industrialstoragelocker.object.json": 0
+          "industrialstoragelocker.object.json": 2
         },
         "industrialtable": {
-          "industrialtable.object.json": 0
+          "industrialtable.object.json": 2
         },
         "lunarlander": {
           "lunarlander.object.json": 0
@@ -11700,7 +11700,7 @@
           "shipgreeble4.object.json": 0
         },
         "solarpanel": {
-          "solarpanel.object.json": 0
+          "solarpanel.object.json": 2
         },
         "spacebar": {
           "spacebarbottom.object.json": 0
@@ -11709,64 +11709,64 @@
           "spaceslideshow.object.json": 0
         },
         "stationbench": {
-          "stationbench.object.json": 0
+          "stationbench.object.json": 2
         },
         "stationceilingvent": {
-          "stationceilingvent.object.json": 0
+          "stationceilingvent.object.json": 2
         },
         "stationchair": {
-          "stationchair.object.json": 0
+          "stationchair.object.json": 2
         },
         "stationconsole": {
-          "stationconsole.object.json": 0
+          "stationconsole.object.json": 2
         },
         "stationcrate": {
-          "stationcrate.object.json": 0
+          "stationcrate.object.json": 2
         },
         "stationdisplay": {
-          "stationdisplay.object.json": 0
+          "stationdisplay.object.json": 2
         },
         "stationdoor": {
           "shared_stationdoor.json": 0,
-          "stationdoor.object.json": 0,
-          "stationdoorlarge.object.json": 0
+          "stationdoor.object.json": 2,
+          "stationdoorlarge.object.json": 2
         },
         "stationhatch": {
           "shared_hatch.object.json": 0,
-          "stationhatch.object.json": 0,
-          "stationrailhatch.object.json": 0
+          "stationhatch.object.json": 2,
+          "stationrailhatch.object.json": 2
         },
         "stationhologram": {
-          "stationhologram.object.json": 0
+          "stationhologram.object.json": 2
         },
         "stationlight": {
-          "shared_stationlight.json": 0,
-          "stationlighth.object.json": 0,
-          "stationlightv.object.json": 0
+          "shared_stationlight.json": 1,
+          "stationlighth.object.json": 1,
+          "stationlightv.object.json": 1
         },
         "stationmedscanner": {
-          "stationmedscanner.object.json": 0
+          "stationmedscanner.object.json": 2
         },
         "stationpylon": {
-          "stationpylon.object.json": 0
+          "stationpylon.object.json": 2
         },
         "stationtable": {
-          "stationtable.object.json": 0
+          "stationtable.object.json": 2
         },
         "stationtradesign": {
-          "stationtradesignelectronics.object.json": 0,
-          "stationtradesignfood.object.json": 0,
-          "stationtradesignmedic.object.json": 0,
-          "stationtradesignweapons.object.json": 0
+          "stationtradesignelectronics.object.json": 2,
+          "stationtradesignfood.object.json": 2,
+          "stationtradesignmedic.object.json": 2,
+          "stationtradesignweapons.object.json": 2
         },
         "stationvendingmachine": {
-          "stationvendingmachine.object.json": 0
+          "stationvendingmachine.object.json": 2
         },
         "stationwallpanel": {
-          "stationwallpanel.object.json": 0
+          "stationwallpanel.object.json": 2
         },
         "telescope": {
-          "telescope.object.json": 0
+          "telescope.object.json": 2
         },
         "wiredtarget": {
           "wiredtarget.object.json": 0
