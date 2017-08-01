@@ -72,6 +72,17 @@
     }
   },
   {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/energyFormat"
+      ]
+    },
+    "Texts": {
+      "Eng": "Energy: %d MJ"
+    }
+  },
+  {
     "DeniedAlternatives": [
       "Клаксон"
     ],
@@ -119,6 +130,17 @@
     "Texts": {
       "Eng": "R Arm",
       "Rus": "П.Рука"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/drainFormat"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage: %.02f MJ/s"
     }
   },
   {

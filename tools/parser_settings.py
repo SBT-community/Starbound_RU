@@ -12,7 +12,7 @@ foi = {
   ".codex": ["contentPages/[0-9]+$"],
   ".matherial": [],
   ".config": ["^(.*/)?(?!generatedParameters)[a-zA-Z]+/displayName$",
-    "^(.+/)?lbl[a-zA-Z]+/value$", "^labels/.+$", "^otherDeed/.+$",
+    "^(.+/)?lbl[a-zA-Z]+/value$", "^labels/.+$", "^otherDeed/.+$", "^.*Format$",
     "^enclosedArea/.+$", "^tagCriteria/.+$", "^hail/.+$", "^converse/.+$",
     "^follow/.+$", "^flee/.+$", "^encorage/.+$", "^severe/.+$", "^accuse/.+$",
     "^tout/.+$", "^rent/.+$", "^alert/.+$", "^welcome/.+$", "^beacon/.+$",

@@ -70,21 +70,6 @@
       ]
     },
     "Texts": {
-      "Eng": "Non-committal. This chest is of unknown origin.",
-      "Rus": "Уклончиво. Происхождение сундука неизвестно."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/techchest/techchest.object": [
-        "/floranDescription"
-      ],
-      "objects/generic/techchest2/techchest2.object": [
-        "/floranDescription"
-      ]
-    },
-    "Texts": {
       "Eng": "Ooh, I bet it's chock full o' valuable technology.",
       "Rus": "Ооо, держу пари, это дорогущая технология."
     }
@@ -93,10 +78,10 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/techchest/techchest.object": [
-        "/hylotlDescription"
+        "/floranDescription"
       ],
       "objects/generic/techchest2/techchest2.object": [
-        "/hylotlDescription"
+        "/floranDescription"
       ]
     },
     "Texts": {
@@ -108,6 +93,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/techchest/techchest.object": [
+        "/hylotlDescription"
+      ],
+      "objects/generic/techchest2/techchest2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There is amazing technology built into the chest itself.",
+      "Rus": "Какая же удивительная технология встроена в этот сундук."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/techchest/techchest.object": [
         "/glitchDescription/glitchEmotedText"
       ],
       "objects/generic/techchest2/techchest2.object": [
@@ -115,8 +115,7 @@
       ]
     },
     "Texts": {
-      "Eng": "There is amazing technology built into the chest itself.",
-      "Rus": "Какая же удивительная технология встроена в этот сундук."
+      "Eng": "This chest is of unknown origin."
     }
   },
   {
