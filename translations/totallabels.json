@@ -355,7 +355,7 @@
       "frog.config.json": 2,
       "gatherer.config.json": 15,
       "grumble.config.json": 70,
-      "guard.config.json": 68,
+      "guard.config.json": 67,
       "merchant.config.json": 183,
       "miniknog.config.json": 9,
       "miniknogthreats.config.json": 7,
@@ -388,7 +388,7 @@
     },
     "glitchEmotes.json": 497,
     "help.config.json": 66,
-    "hunger.config.json": 15,
+    "hunger.config.json": 14,
     "interface": {
       "ai": {
         "ai.config.json": 15
@@ -409,7 +409,7 @@
         "shared_.config.json": 2
       },
       "cockpit": {
-        "cockpit.config.json": 158
+        "cockpit.config.json": 159
       },
       "confirmation": {
         "hiremercenaryconfirmation.config.json": 2,
@@ -482,6 +482,11 @@
           "playerstationconsolegui.config.json": 4
         },
         "sbvn": {
+          "games": {
+            "beautifulattempt": {
+              "beautifulattempt.sbvn.json": 166
+            }
+          },
           "sbvngui.config.json": 2
         },
         "shared_gui.config.json": 1,
@@ -4411,7 +4416,7 @@
       "blacksmith.npctype.json": 9,
       "crew": {
         "crewmember.npctype.json": 182,
-        "crewmemberchemist.npctype.json": 15,
+        "crewmemberchemist.npctype.json": 14,
         "crewmemberengineer.npctype.json": 3,
         "crewmemberjanitor.npctype.json": 9,
         "crewmembermechanic.npctype.json": 3,
@@ -13520,6 +13525,6 @@
       }
     },
     "universe_server.config.json": 2,
-    "wide_spread_fields.json": 68
+    "wide_spread_fields.json": 71
   }
 }

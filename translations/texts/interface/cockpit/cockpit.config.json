@@ -1075,6 +1075,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/gui/systemName/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "SYSTEM NAME",
+      "Rus": "НАЗВАНИЕ СИСТЕМЫ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/visitableTypeDescription/desert/2"
       ]
     },

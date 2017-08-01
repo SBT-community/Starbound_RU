@@ -68,7 +68,19 @@
     },
     "Texts": {
       "Eng": "Colour 2",
-      "Rus": "Цвета 2"
+      "Rus": "Цвет 2"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/energyFormat"
+      ]
+    },
+    "Texts": {
+      "Eng": "Energy: %d MJ",
+      "Rus": "Энергия: %d МДж"
     }
   },
   {
@@ -125,6 +137,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/drainFormat"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage: %.02f MJ/s",
+      "Rus": "Использ.: %.02f МДж/с"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
         "/completeText"
       ]
     },
@@ -154,7 +178,7 @@
     },
     "Texts": {
       "Eng": "^red;Unauthorized User",
-      "Rus": "^red;Несанкционированный пользователь"
+      "Rus": "^red;Неавторизованный пользователь"
     }
   }
 ]
