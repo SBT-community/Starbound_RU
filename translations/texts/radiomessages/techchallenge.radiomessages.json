@@ -8,7 +8,7 @@
     },
     "Texts": {
       "Eng": "It appears you will have to ^#71f2f6;activate your ^orange;Distortion Sphere ^#71f2f6;mid-jump^white; to get into this passageway.",
-      "Rus": "Вам нужно ^#71f2f6; активировать\r\n^orange;Технологию Свертывания, ^#71f2f6;^white; в середине прыжка, чтобы пробраться в проход."
+      "Rus": "Вам нужно ^#71f2f6;активировать\n^orange;Технологию Свертывания, ^#71f2f6;в середине прыжка^white;, чтобы пробраться в проход."
     }
   },
   {
@@ -20,7 +20,7 @@
     },
     "Texts": {
       "Eng": "Readings indicate these are ^orange;cryogenic blasters^white;. They are not lethal, but any contact will significantly slow your progress.",
-      "Rus": "Датчики засекли ^orange;криогенные бластеры^white;. Они не смертельны, но любой контакт с ними замедлит вас. "
+      "Rus": "Датчики засекли ^orange;криогенные бластеры^white;. Они несмертельны, но любой контакт с ними замедлит вас."
     }
   },
   {
@@ -32,7 +32,7 @@
     },
     "Texts": {
       "Eng": "Telemetry indicates that to make that jump you should ^#71f2f6;delay using ^orange;Pulse Jump^white; until you are level with the target platform's edge.",
-      "Rus": "Телеметрия подсказывает, что вам нужно ^#71f2f6; использовать ^orange;Импульсный Прыжок^white; для небольшой задержки у края платформы."
+      "Rus": "Телеметрия подсказывает, что вам нужно ^#71f2f6;использовать ^orange;Импульсный Прыжок^white; для небольшой задержки у края платформы."
     }
   },
   {
@@ -56,7 +56,7 @@
     },
     "Texts": {
       "Eng": "These doors only open very briefly. Perhaps you should ^#71f2f6;position yourself close to the door^white; before ^#71f2f6;operating the switch and dashing through^white;.",
-      "Rus": "Эти двери открываются на короткий промежуток времени. Возможно вам следует ^#71f2f6;встать ближе к двери^white; для того^#71f2f6;, чтобы проскочить, пока она не закрылась^white;."
+      "Rus": "Эти двери открываются на короткий промежуток времени. Возможно, вам следует ^#71f2f6;встать ближе к двери^white; для того^#71f2f6;, чтобы проскочить, пока она не закрылась^white;."
     }
   },
   {
@@ -72,7 +72,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Чтобы использовать ^orange;Импульсный прыжок^white; ^#71f2f6;нажмите пробел в воздухе.^white; Это даст вам небольшое ускорение вверх.. "
+    ],
     "Files": {
       "radiomessages/techchallenge.radiomessages": [
         "/techchallenge_doublejump1/text"
@@ -80,7 +82,7 @@
     },
     "Texts": {
       "Eng": "To use the ^orange;Pulse Jump Tech^white; ^#71f2f6;press spacebar while in the air^white;. Doing so will give you a small upwards boost.",
-      "Rus": "Чтобы использовать ^orange;Импульсный прыжок^white; ^#71f2f6;нажмите пробел в воздухе.^white; Это даст вам небольшое ускорение вверх.. "
+      "Rus": "Чтобы использовать ^orange;Импульсный прыжок^white; ^#71f2f6;нажмите пробел в воздухе^white;. Это даст вам небольшое ускорение вверх."
     }
   },
   {
@@ -92,7 +94,7 @@
     },
     "Texts": {
       "Eng": "^#71f2f6;Press F to make use of the ^orange;Distortion Sphere Tech^white; to transform in and out of a compressed form.",
-      "Rus": "^#71f2f6;Нажмите F, чтобы использовать^orange;Технологию Свертывания^white; для трансформации в шар."
+      "Rus": "^#71f2f6;Нажмите F, чтобы использовать ^orange;Технологию Свертывания^white; для трансформации в шар."
     }
   }
 ]

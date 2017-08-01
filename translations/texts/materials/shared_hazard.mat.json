@@ -26,7 +26,7 @@
     },
     "Texts": {
       "Eng": "These strips're somethin' I should pay attention to.",
-      "Rus": "Вроде как я должен обратить внимание на эти полоски."
+      "Rus": "Вроде как, я должен обратить внимание на эти полоски."
     }
   },
   {
@@ -60,9 +60,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Этот рисунок предписывает осторожность."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/materials/hazard.matitem": [
         "/description"
@@ -73,7 +71,7 @@
     },
     "Texts": {
       "Eng": "This pattern suggests caution.",
-      "Rus": "Раскраска предупреждает быть осторожнее."
+      "Rus": "Раскраска предупреждает об осторожности."
     }
   }
 ]
