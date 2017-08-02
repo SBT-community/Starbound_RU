@@ -4373,7 +4373,7 @@
       }
     },
     "names": {
-      "ancientgreek.namesource.json": 581,
+      "ancientgreek.namesource.json": 583,
       "aztec.namesource.json": 138,
       "russianfemale.namesource.json": 81,
       "russianmale.namesource.json": 73,
@@ -4412,12 +4412,12 @@
       "crew": {
         "crewmember.npctype.json": 164,
         "crewmemberchemist.npctype.json": 8,
-        "crewmemberengineer.npctype.json": 2,
-        "crewmemberjanitor.npctype.json": 3,
-        "crewmembermechanic.npctype.json": 2,
+        "crewmemberengineer.npctype.json": 3,
+        "crewmemberjanitor.npctype.json": 6,
+        "crewmembermechanic.npctype.json": 3,
         "crewmembermedic.npctype.json": 19,
         "crewmemberoutlaw.npctype.json": 49,
-        "crewmembertailor.npctype.json": 18,
+        "crewmembertailor.npctype.json": 165,
         "shared_crewmember.json": 8
       },
       "dungeon": {
@@ -4477,7 +4477,7 @@
         "floranspectator.npctype.json": 21,
         "miner.npctype.json": 79,
         "minersurvivor.npctype.json": 14,
-        "penguinscientist.npctype.json": 0,
+        "penguinscientist.npctype.json": 1,
         "protectoratecourtyardlounger.npctype.json": 4,
         "protectoratehallstaff.npctype.json": 4,
         "protectoratehallstudent1.npctype.json": 3,
@@ -4575,7 +4575,7 @@
         "militarygoodstrader.npctype.json": 1,
         "poptopfarmer.npctype.json": 0,
         "seedmerchant.npctype.json": 0,
-        "spacemerchant.npctype.json": 0
+        "spacemerchant.npctype.json": 2
       },
       "statuses.config.json": 503,
       "story": {
@@ -4870,7 +4870,7 @@
           "airbooster.object.json": 9
         },
         "ancientbust": {
-          "ancientbust.object.json": 8
+          "ancientbust.object.json": 9
         },
         "ancientchest": {
           "ancientchest.object.json": 9
@@ -4898,7 +4898,7 @@
         },
         "ancientmural": {
           "shared_ancientmural": {
-            "shared_ancientmural.json": 8
+            "shared_ancientmural.json": 9
           }
         },
         "ancientpillar": {
@@ -4976,7 +4976,7 @@
           "lightstreaks.object.json": 9
         },
         "monolithgate": {
-          "monolithgate.object.json": 8
+          "monolithgate.object.json": 9
         },
         "powerbooster": {
           "powerbooster.object.json": 9
@@ -4991,7 +4991,7 @@
           "shared_ancientlight.json": 7
         },
         "shared_ancientpot": {
-          "shared_ancientpot.json": 6
+          "shared_ancientpot.json": 8
         },
         "shared_ancientstriplight": {
           "shared_ancientstriplight.json": 9
@@ -5003,7 +5003,7 @@
           "shared_hologram.json": 2
         },
         "shared_monolithstatue": {
-          "shared_monolithstatue.json": 8
+          "shared_monolithstatue.json": 9
         },
         "speedbooster": {
           "speedbooster.object.json": 9
@@ -5049,13 +5049,13 @@
           "apexbed.object.json": 7
         },
         "apexbloodbank": {
-          "apexbloodbank.object.json": 8
+          "apexbloodbank.object.json": 9
         },
         "apexbrainjar": {
-          "apexbrainjar.object.json": 8
+          "apexbrainjar.object.json": 9
         },
         "apexbustmale": {
-          "apexbustmale.object.json": 7
+          "apexbustmale.object.json": 9
         },
         "apexceilingtv": {
           "apexceilingtv.object.json": 9
@@ -5064,7 +5064,7 @@
           "apexcomfychair.object.json": 8
         },
         "apexconsole1": {
-          "apexconsole1.object.json": 8
+          "apexconsole1.object.json": 9
         },
         "apexconsolekeyboard": {
           "apexconsolekeyboard.object.json": 7
@@ -5076,10 +5076,10 @@
           "apexcoolchair.object.json": 7
         },
         "apexcoolcomputer": {
-          "apexcoolcomputer.object.json": 7
+          "apexcoolcomputer.object.json": 9
         },
         "apexcoolcupboard": {
-          "apexcoolcupboard.object.json": 6
+          "apexcoolcupboard.object.json": 7
         },
         "apexcooldesk": {
           "apexcooldesk.object.json": 6
@@ -10384,7 +10384,7 @@
           "escaperadar.object.json": 6
         },
         "fallingrocks": {
-          "fallingrocks.object.json": 0
+          "fallingrocks.object.json": 1
         },
         "fallingrocksmodern": {
           "fallingrocksmodern.object.json": 0
@@ -11311,7 +11311,7 @@
       "shared_erceilinglight": {
         "shared_erceilinglight.json": 1
       },
-      "shared_espike.json": 0,
+      "shared_espike.json": 1,
       "shared_fountain": {
         "shared_fountain.object.json": 4
       },
@@ -11766,7 +11766,10 @@
           "stationwallpanel.object.json": 2
         },
         "telescope": {
-          "telescope.object.json": 2
+
+          "telescope.object.json": 9
+
+          "telescope.object.json": 9
         },
         "wiredtarget": {
           "wiredtarget.object.json": 0
