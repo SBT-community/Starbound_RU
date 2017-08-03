@@ -664,7 +664,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Одним из небольших преимуществ жизни в космосе является то, что блохам не легко выжить снаружи..."
+    ],
     "Files": {
       "dialog/spaceconverse.config": [
         "/converse/apex/apex/3",
@@ -673,7 +675,7 @@
     },
     "Texts": {
       "Eng": "One of the small benefits of life in space is that fleas don't survive easily out here...",
-      "Rus": "Одним из небольших преимуществ жизни в космосе является то, что блохам не легко выжить снаружи..."
+      "Rus": "Одним из небольших преимуществ жизни в космосе является то, что блохам не легко выжить здесь..."
     }
   },
   {
@@ -723,7 +725,7 @@
     },
     "Texts": {
       "Eng": "Space is the real wild country, ain't it? Bandits to hunt, bars to drink at... It sure is the life!",
-      "Rus": ""
+      "Rus": "Космос - действительно дикая страна, не так ли? Охотиться на бандитов, бухать в баре. Вот это действительно житуха!"
     }
   },
   {
@@ -735,7 +737,7 @@
     },
     "Texts": {
       "Eng": "The Apex can seek solace out here, among the stars. I welcome a quiet life.",
-      "Rus": ""
+      "Rus": "Апекс может найти утешение здесь, среди звезд. Я приветствую спокойную жизнь."
     }
   },
   {
