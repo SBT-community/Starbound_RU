@@ -343,7 +343,7 @@
       "clues.config.json": 50,
       "colourful.config.json": 33,
       "combat.config.json": 185,
-      "converse.config.json": 1357,
+      "converse.config.json": 1434,
       "crewmember.config.json": 39,
       "cultist.config.json": 31,
       "deadbeat.config.json": 23,
@@ -369,7 +369,7 @@
       "shared_at.config.json": 1,
       "shared_merchant.config.json": 20,
       "shared_t.config.json": 1,
-      "shipcrew.config.json": 0,
+      "shipcrew.config.json": 18,
       "shroom.config.json": 85,
       "sniper.config.json": 23,
       "spaceconverse.config.json": 50,
@@ -386,7 +386,7 @@
     "generic": {
       "shared_lightbulb.json": 1
     },
-    "glitchEmotes.json": 349,
+    "glitchEmotes.json": 380,
     "help.config.json": 62,
     "hunger.config.json": 15,
     "interface": {
@@ -473,7 +473,7 @@
           "mannequingui.config.json": 3
         },
         "mechassembly": {
-          "mechassemblygui.config.json": 13
+          "mechassemblygui.config.json": 15
         },
         "mmupgrade": {
           "mmupgradegui.config.json": 22
@@ -5652,7 +5652,7 @@
           "birdthrone.object.json": 9
         },
         "chestavian": {
-          "chestavian1.object.json": 1
+          "chestavian1.object.json": 2
         },
         "chestavian2": {
           "chestavian2.object.json": 2
@@ -7624,20 +7624,20 @@
         },
         "eggs": {
           "fluffaloegg": {
-            "electricfluffaloegg.object.json": 8,
+            "electricfluffaloegg.object.json": 9,
             "firefluffaloegg.object.json": 9,
-            "fluffaloegg.object.json": 8,
-            "icefluffaloegg.object.json": 4,
-            "poisonfluffaloegg.object.json": 8
+            "fluffaloegg.object.json": 9,
+            "icefluffaloegg.object.json": 9,
+            "poisonfluffaloegg.object.json": 9
           },
           "henegg": {
-            "henegg.object.json": 0
+            "henegg.object.json": 9
           },
           "mooshiegg": {
-            "mooshiegg.object.json": 0
+            "mooshiegg.object.json": 9
           },
           "robothenegg": {
-            "robothenegg.object.json": 0
+            "robothenegg.object.json": 9
           }
         },
         "eggshoot": {
@@ -11255,16 +11255,16 @@
       },
       "rails": {
         "railbumper": {
-          "railbumper.object.json": 0
+          "railbumper.object.json": 2
         },
         "railsensor": {
-          "railsensor.object.json": 0
+          "railsensor.object.json": 2
         },
         "railstop": {
-          "railstop.object.json": 0
+          "railstop.object.json": 2
         },
         "railswitch": {
-          "railswitch.object.json": 0
+          "railswitch.object.json": 2
         },
         "railtramstop": {
           "railtramstop.object.json": 0
@@ -11700,7 +11700,7 @@
           "shipgreeble4.object.json": 0
         },
         "solarpanel": {
-          "solarpanel.object.json": 2
+          "solarpanel.object.json": 8
         },
         "spacebar": {
           "spacebarbottom.object.json": 0
