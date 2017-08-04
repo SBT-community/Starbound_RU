@@ -2539,6 +2539,15 @@
   "items/active/weapons/chakram/chakram.activeitem": {
     "/shortdescription": "texts/items.json"
   },
+  "items/active/weapons/melee/abilities/broadsword/broadswordcombo.weaponability": {
+    "/ability/name": "texts/items/active/weapons/melee/abilities/shared_sword/shared_swordcombo.weaponability.json"
+  },
+  "items/active/weapons/melee/abilities/broadsword/flamethrowersword/flamethrowersword.weaponability": {
+    "/ability/name": "texts/items/active/weapons.json"
+  },
+  "items/active/weapons/melee/abilities/shortsword/shortswordcombo.weaponability": {
+    "/ability/name": "texts/items/active/weapons/melee/abilities/shared_sword/shared_swordcombo.weaponability.json"
+  },
   "items/active/weapons/melee/axe/commonaxe.activeitem": {
     "/description": "texts/items/active/weapons/shared_axe.json"
   },
@@ -2677,6 +2686,12 @@
   "items/active/weapons/other/electricrailgun/electricrailgun.activeitem": {
     "/description": "texts/items/active/weapons.json"
   },
+  "items/active/weapons/other/evileye/evileye.activeitem": {
+    "/shortdescription": "texts/items/active/weapons/other/evileye/shared_evileye..json"
+  },
+  "items/active/weapons/other/evileye/evileye.weaponability": {
+    "/ability/name": "texts/items/active/weapons/other/evileye/shared_evileye..json"
+  },
   "items/active/weapons/other/eyesword/eyesword.activeitem": {
     "/description": "texts/items/active/weapons/shared_eyesword.json"
   },
@@ -2690,6 +2705,15 @@
   "items/active/weapons/protectorate/titaniumspear.activeitem": {
     "/description": "texts/items/active/weapons/shared_spear.json"
   },
+  "items/active/weapons/ranged/abilities/flamethrower/flamethrower.weaponability": {
+    "/ability/name": "texts/items/active/weapons.json"
+  },
+  "items/active/weapons/ranged/abilities/flashlight/flashlight.weaponability": {
+    "/ability/name": "texts/items.json"
+  },
+  "items/active/weapons/ranged/abilities/grenadelauncher/grenadelauncher.weaponability": {
+    "/ability/name": "texts/items.json"
+  },
   "items/active/weapons/ranged/assaultrifle/commonassaultrifle.activeitem": {
     "/description": "texts/items/active/weapons/shared_assaultrifle.json"
   },
@@ -2698,6 +2722,9 @@
   },
   "items/active/weapons/ranged/assaultrifle/uncommonassaultrifle.activeitem": {
     "/description": "texts/items/active/weapons/shared_assaultrifle.json"
+  },
+  "items/active/weapons/ranged/flamethrower/flamethrower.activeitem": {
+    "/shortdescription": "texts/items/active/weapons.json"
   },
   "items/active/weapons/ranged/grenadelauncher/commongrenadelauncher.activeitem": {
     "/description": "texts/items/active/weapons/ranged/grenadelauncher/shared_grenadelauncher.activeitem.json"
@@ -2857,6 +2884,7 @@
     "/labels/door": "texts/wide_spread_fields.json",
     "/labels/fishingRod": "texts/items.json",
     "/labels/furniture": "texts/shared_config.json",
+    "/labels/grenadeLauncher": "texts/items.json",
     "/labels/headarmour": "texts/shared_config.json",
     "/labels/legarmour": "texts/shared_config.json",
     "/labels/legwear": "texts/shared_ies.json",
@@ -4675,10 +4703,10 @@
     "/shortdescription": "texts/shared_throwingblock..json"
   },
   "items/tools/flashlight.flashlight": {
-    "/shortdescription": "texts/items/tools/shared_flashlight.flashlight.json"
+    "/shortdescription": "texts/items.json"
   },
   "items/tools/greenflashlight.flashlight": {
-    "/shortdescription": "texts/items/tools/shared_flashlight.flashlight.json"
+    "/shortdescription": "texts/items.json"
   },
   "items/tools/inspectiontool/inspectionmode.inspectiontool": {
     "/nothingThereText/default/0": "texts/items/tools/inspectiontool/shared_nmode.inspectiontool.json",
@@ -4784,13 +4812,13 @@
     "/shortdescription": "texts/wide_spread_fields.json"
   },
   "items/tools/redflashlight.flashlight": {
-    "/shortdescription": "texts/items/tools/shared_flashlight.flashlight.json"
+    "/shortdescription": "texts/items.json"
   },
   "items/tools/wiretool.wiretool": {
     "/shortdescription": "texts/wide_spread_fields.json"
   },
   "items/tools/yellowflashlight.flashlight": {
-    "/shortdescription": "texts/items/tools/shared_flashlight.flashlight.json"
+    "/shortdescription": "texts/items.json"
   },
   "liquids/jellyliquid.liquid": {
     "/description": "texts/liquids/shared_liquid.liquid.json"

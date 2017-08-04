@@ -92,6 +92,7 @@ foi = {
       "^.+/example/name$", "^scriptConfig/objectiveLists/[^/]+/[0-9]+/0$"],
   ".tooltip": [],
   ".itemdescription": [],
+  ".weaponability": ["^ability/name$"],
   "_metadata":[]
 
   }
