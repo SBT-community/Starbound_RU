@@ -473,7 +473,7 @@
           "mannequingui.config.json": 3
         },
         "mechassembly": {
-          "mechassemblygui.config.json": 13
+          "mechassemblygui.config.json": 15
         },
         "mmupgrade": {
           "mmupgradegui.config.json": 22
@@ -720,6 +720,10 @@
             }
           },
           "bow": {
+            "abilities": {
+              "bowshot.weaponability.json": 1,
+              "zenshot.weaponability.json": 1
+            },
             "bow": {
               "bow.activeitem.json": 1
             },
@@ -770,6 +774,101 @@
             "shared_.activeitem.json": 1
           },
           "melee": {
+            "abilities": {
+              "axe": {
+                "axecleave.weaponability.json": 1
+              },
+              "broadsword": {
+                "astraltear": {
+                  "astraltear.weaponability.json": 1
+                },
+                "bladecharge": {
+                  "bladecharge.weaponability.json": 1
+                },
+                "downstab": {
+                  "downstab.weaponability.json": 1
+                },
+                "flipslash": {
+                  "flipslash.weaponability.json": 1
+                },
+                "giantsword": {
+                  "giantsword.weaponability.json": 1
+                },
+                "greatwave": {
+                  "greatwave.weaponability.json": 1
+                },
+                "kunaiblast": {
+                  "kunaiblast.weaponability.json": 1
+                },
+                "parry": {
+                  "parry.weaponability.json": 1
+                },
+                "risingslash": {
+                  "risingslash.weaponability.json": 1
+                },
+                "spinslash": {
+                  "spinslash.weaponability.json": 1,
+                  "superspinslash.weaponability.json": 1
+                },
+                "traildash": {
+                  "traildash.weaponability.json": 1
+                },
+                "travelingslash": {
+                  "travelingslash.weaponability.json": 1
+                }
+              },
+              "generic": {
+                "blinkexplosion": {
+                  "blinkexplosion.weaponability.json": 1
+                },
+                "blinkslash": {
+                  "blinkslash.weaponability.json": 1
+                },
+                "scouteye": {
+                  "scouteye.weaponability.json": 1
+                }
+              },
+              "hammer": {
+                "elementalaura": {
+                  "elementalaura.weaponability.json": 1
+                },
+                "elementalpillar": {
+                  "elementalpillar.weaponability.json": 1
+                },
+                "groundslam": {
+                  "groundslam.weaponability.json": 1
+                },
+                "hammersmash.weaponability.json": 1,
+                "shockwave": {
+                  "physicalshockwave.weaponability.json": 1,
+                  "shockwave.weaponability.json": 1
+                },
+                "uppercut": {
+                  "uppercut.weaponability.json": 1
+                }
+              },
+              "shared_sword": {
+                "shared_swordcombo.weaponability.json": 1
+              },
+              "spear": {
+                "barrier": {
+                  "barrier.weaponability.json": 1
+                },
+                "elementalspin": {
+                  "elementalspin.weaponability.json": 1
+                },
+                "flurry": {
+                  "flurry.weaponability.json": 1
+                },
+                "rocketspear": {
+                  "rocketspear.weaponability.json": 1
+                },
+                "spearstab.weaponability.json": 1,
+                "spin": {
+                  "spin.weaponability.json": 1
+                }
+              }
+            },
             "axe": {
               "commonaxe.activeitem.json": 1,
               "fryingpan.activeitem.json": 2,
@@ -852,6 +951,7 @@
           },
           "other": {
             "adaptablecrossbow": {
+              "adaptableammo.weaponability.json": 1,
               "adaptablecrossbow.activeitem.json": 3
             },
             "chargegun": {
@@ -867,7 +967,8 @@
               "electrobaton.activeitem.json": 3
             },
             "evileye": {
-              "evileye.activeitem.json": 2
+              "evileye.activeitem.json": 1,
+              "shared_evileye..json": 1
             },
             "exmachina": {
               "exmachina.activeitem.json": 2
@@ -902,6 +1003,7 @@
             },
             "tentaclegun": {
               "tentaclegun.activeitem.json": 2,
+              "tentaclegun.weaponability.json": 1,
               "wormgun.activeitem.json": 4
             }
           },
@@ -938,13 +1040,73 @@
             }
           },
           "ranged": {
+            "abilities": {
+              "bouncingshot": {
+                "bouncingshot.weaponability.json": 1
+              },
+              "burstshot": {
+                "burstshot.weaponability.json": 1
+              },
+              "chargefire": {
+                "chargefire.weaponability.json": 1
+              },
+              "deathbomb": {
+                "deathbomb.weaponability.json": 1
+              },
+              "erchiusbeam": {
+                "erchiusbeam.weaponability.json": 1
+              },
+              "erchiuslauncher": {
+                "erchiuslauncher.weaponability.json": 1
+              },
+              "explosiveburst": {
+                "explosiveburst.weaponability.json": 1
+              },
+              "explosiveshot": {
+                "explosiveshot.weaponability.json": 1
+              },
+              "fuelairtrail": {
+                "fuelairtrail.weaponability.json": 1
+              },
+              "guidedrocket": {
+                "exmachinarocket.weaponability.json": 1,
+                "guidedrocket.weaponability.json": 1
+              },
+              "homingrocket": {
+                "homingrocket.weaponability.json": 1
+              },
+              "lance": {
+                "lance.weaponability.json": 1
+              },
+              "markedshot": {
+                "markedshot.weaponability.json": 1
+              },
+              "piercingshot": {
+                "piercingshot.weaponability.json": 1
+              },
+              "rocketburst": {
+                "rocketburst.weaponability.json": 1
+              },
+              "shrapnelbomb": {
+                "shrapnelbomb.weaponability.json": 1
+              },
+              "sparkles": {
+                "sparkles.weaponability.json": 1
+              },
+              "spray": {
+                "spray.weaponability.json": 1
+              },
+              "stickyshot": {
+                "stickyshot.weaponability.json": 1
+              }
+            },
             "assaultrifle": {
               "commonassaultrifle.activeitem.json": 1,
               "rareassaultrifle.activeitem.json": 1,
               "uncommonassaultrifle.activeitem.json": 1
             },
             "flamethrower": {
-              "flamethrower.activeitem.json": 3
+              "flamethrower.activeitem.json": 2
             },
             "grenadelauncher": {
               "commongrenadelauncher.activeitem.json": 1,
@@ -1020,6 +1182,31 @@
           "shared_shotgun.json": 1,
           "shared_spear.json": 2,
           "staff": {
+            "abilities": {
+              "controlprojectile": {
+                "elementbouncer.weaponability.json": 1,
+                "elementorb.weaponability.json": 1,
+                "elementportal.weaponability.json": 1,
+                "elementrain.weaponability.json": 1,
+                "elementswarm.weaponability.json": 1,
+                "kluexshooter.weaponability.json": 1,
+                "plasmabarrage.weaponability.json": 1,
+                "plasmabladebarrage.weaponability.json": 1
+              },
+              "effectzone": {
+                "energyzone.weaponability.json": 1,
+                "forcecage.weaponability.json": 1,
+                "healingzone.weaponability.json": 1,
+                "kluexzone.weaponability.json": 1,
+                "lowgravzone.weaponability.json": 1,
+                "pullzone.weaponability.json": 1,
+                "pushzone.weaponability.json": 1,
+                "slowzone.weaponability.json": 1
+              },
+              "guidedbolt": {
+                "guidedbolt.weaponability.json": 1
+              }
+            },
             "generated": {
               "rarestaff.activeitem.json": 1
             },
@@ -1033,13 +1220,17 @@
             }
           },
           "whip": {
+            "abilities": {
+              "energyorb.weaponability.json": 1,
+              "whipcrack.weaponability.json": 1
+            },
             "energywhip.activeitem.json": 2,
             "intestinewhip.activeitem.json": 3,
             "ropewhip.activeitem.json": 3,
             "vinewhip.activeitem.json": 3
           }
         },
-        "weapons.json": 1
+        "weapons.json": 2
       },
       "armors": {
         "apex": {
@@ -2798,7 +2989,7 @@
           "shared_bombcollar.augment.json": 1
         }
       },
-      "categories.config.json": 83,
+      "categories.config.json": 82,
       "currency": {
         "essence.currency.json": 2,
         "money.currency.json": 2
@@ -3589,12 +3780,11 @@
         },
         "painttool.painttool.json": 1,
         "redflashlight.flashlight.json": 1,
-        "shared_flashlight.flashlight.json": 1,
         "wiretool.wiretool.json": 1,
         "yellowflashlight.flashlight.json": 1
       }
     },
-    "items.json": 4,
+    "items.json": 6,
     "liquids": {
       "corelava.liquid.json": 1,
       "fuel.liquid.json": 1,
