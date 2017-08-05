@@ -338,7 +338,7 @@
     },
     "dialog": {
       "airship.config.json": 46,
-      "alpaca.config.json": 58,
+      "alpaca.config.json": 63,
       "arrivedhome.config.json": 54,
       "clues.config.json": 50,
       "colourful.config.json": 33,
@@ -362,7 +362,7 @@
       "mutantminer.config.json": 10,
       "oremerchant.config.json": 119,
       "outpost.config.json": 42,
-      "quest.config.json": 100,
+      "quest.config.json": 105,
       "rebel.config.json": 3,
       "scientist.config.json": 12,
       "shared_.config.json": 101,
@@ -7647,7 +7647,7 @@
           "shared_feathercrownseed.object.json": 9
         },
         "flowerblue": {
-          "flowerblue.object.json": 4
+          "flowerblue.object.json": 9
         },
         "flowerred": {
           "flowerred.object.json": 0
@@ -11304,7 +11304,7 @@
       "shared_door": {
         "shared_door.object.json": 3
       },
-      "shared_door.json": 1,
+      "shared_door.json": 2,
       "shared_ect.json": 5,
       "shared_eextinguisher.json": 1,
       "shared_elevator.json": 6,
@@ -11597,7 +11597,7 @@
           "shared_teleporter.object.json": 7
         },
         "shared_teleporterTier0": {
-          "shared_teleporterTier0.object.json": 1
+          "shared_teleporterTier0.object.json": 2
         },
         "techstation": {
           "techstation.object.json": 0
@@ -13506,7 +13506,7 @@
         "tungsten.matmod.json": 1,
         "undergrowth.matmod.json": 1,
         "uranium.matmod.json": 1,
-        "veingrowth.matmod.json": 0,
+        "veingrowth.matmod.json": 1,
         "violium.matmod.json": 1
       },
       "platforms": {
@@ -13520,6 +13520,6 @@
       }
     },
     "universe_server.config.json": 2,
-    "wide_spread_fields.json": 67
+    "wide_spread_fields.json": 71
   }
 }
