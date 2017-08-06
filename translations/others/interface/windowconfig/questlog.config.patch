@@ -1,0 +1,27 @@
+[
+  {
+  "op": "replace",
+    "path": "/paneLayout/lblPortraitTitle/position",
+    "value": [294, 47]
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/lblPortraitTitle/charLimit",
+    "value": 30
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/imgPortrait/position",
+    "value": [294, 70]
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/imgPortrait/maxSize",
+    "value": [29, 29]
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/imgPortrait/minSize",
+    "value": [29, 29]
+  }
+]
