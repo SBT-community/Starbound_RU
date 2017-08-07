@@ -8,7 +8,7 @@
     },
     "Texts": {
       "Eng": "<item>? Here, I made one already. Feel free to take it.",
-      "Rus": "<item>? Вот, я уже сделал штуку. Бери, не стесняйся."
+      "Rus": "<item>? Вот, я уже сделал<questGiver.pronoun.verbEnding> одну. Бери, не стесняйся."
     }
   },
   {
@@ -116,7 +116,7 @@
     },
     "Texts": {
       "Eng": "<questGiver> contracted Floran to help you ssstab the <enemy>.",
-      "Rus": "<questGiver> заключил контракт с флоранами, чтобы помочь тебе заколоть <enemy>."
+      "Rus": "<questGiver> заключил<questGiver.pronoun.verbEnding> контракт с Флораном, чтобы помочь тебе."
     }
   },
   {
@@ -128,7 +128,7 @@
     },
     "Texts": {
       "Eng": "<questGiver> has a kind spirit! Please tell them for me!",
-      "Rus": "У <questGiver> добрая душа! Расскажи ему обо мне!"
+      "Rus": "<questGiver> имеет добрую душу! Расскажи <questGiver.pronoun.object> обо мне!"
     }
   },
   {
@@ -140,7 +140,7 @@
     },
     "Texts": {
       "Eng": "<questGiver> has contracted me to aid you in your battle with the <enemy>!",
-      "Rus": "<questGiver> заключил со мной контракт, чтобы помочь тебе в битве с <enemy>!"
+      "Rus": "<questGiver> заключил<questGiver.pronoun.verbEnding> со мной контракт, чтобы помочь тебе в битве!"
     }
   },
   {
@@ -152,7 +152,7 @@
     },
     "Texts": {
       "Eng": "<questGiver> has earned my true friendship.",
-      "Rus": "<questGiver> заслужил мою искреннюю дружбу."
+      "Rus": "<questGiver> заслужил<questGiver.pronoun.verbEnding> мою искреннюю дружбу."
     }
   },
   {
@@ -164,7 +164,7 @@
     },
     "Texts": {
       "Eng": "<questGiver> has my trust.",
-      "Rus": "<questGiver> заслужил моё доверие."
+      "Rus": "<questGiver> заслужил<questGiver.pronoun.verbEnding> моё доверие."
     }
   },
   {
@@ -176,7 +176,7 @@
     },
     "Texts": {
       "Eng": "<questGiver> is a good friend to me.",
-      "Rus": "<questGiver> мой хороший друг."
+      "Rus": "<questGiver> — мой хороший друг."
     }
   },
   {
@@ -189,7 +189,7 @@
     },
     "Texts": {
       "Eng": "<questGiver> is a good friend.",
-      "Rus": "<questGiver> хороший друг."
+      "Rus": "<questGiver> — хороший друг."
     }
   },
   {
@@ -203,7 +203,7 @@
     },
     "Texts": {
       "Eng": "<questGiver> is a great friend.",
-      "Rus": "<questGiver> отличный друг."
+      "Rus": "<questGiver> — отличный друг."
     }
   },
   {
@@ -215,7 +215,7 @@
     },
     "Texts": {
       "Eng": "<questGiver> is a kind person.",
-      "Rus": "<questGiver> любезная персона."
+      "Rus": "<questGiver> — любезная персона."
     }
   },
   {
@@ -227,7 +227,7 @@
     },
     "Texts": {
       "Eng": "<questGiver> is an ace-high friend! Give them thanks on my behalf next time you can, partner!",
-      "Rus": "<questGiver> отличный друг! Передавай от меня привет, когда увидитесь в следующий раз, партнер!"
+      "Rus": "<questGiver> — отличный друг! Передай от меня привет, когда увидитесь в следующий раз, партнер!"
     }
   },
   {
@@ -239,7 +239,7 @@
     },
     "Texts": {
       "Eng": "<questGiver> is an ace-high friend! They've earned my respect, that's for sure!",
-      "Rus": "<questGiver> отличный друг! Он заслужил мое уважение, точно говорю!"
+      "Rus": "<questGiver> — отличный друг! Он заслужил<questGiver.pronoun.verbEnding> мое уважение, точно говорю!"
     }
   },
   {
@@ -251,7 +251,7 @@
     },
     "Texts": {
       "Eng": "<questGiver> is clearly someone I can trust.",
-      "Rus": "<questGiver> - явно тот, кому я могу доверять."
+      "Rus": "<questGiver> — явно личность, кому я могу доверять."
     }
   },
   {
@@ -275,7 +275,7 @@
     },
     "Texts": {
       "Eng": "<questGiver> may be trying to bribe me, but I'm grateful anyway!",
-      "Rus": "Может быть <questGiver> и пытается меня подкупить, но я все равно благодарен!"
+      "Rus": "Может быть, <questGiver> и пытается меня подкупить, но я все равно благодарен!"
     }
   },
   {
@@ -287,7 +287,7 @@
     },
     "Texts": {
       "Eng": "<questGiver> may be trying to win my favour, but this is still a nice gesture!",
-      "Rus": "<questGiver> возможно ищет моего расположения, тем не менее, это приятный поступок!"
+      "Rus": "<questGiver> возможно ищет моего расположения, но тем не менее, это приятный поступок!"
     }
   },
   {
@@ -299,7 +299,7 @@
     },
     "Texts": {
       "Eng": "A bribe! Give my thanks to <questGiver>.",
-      "Rus": "О, это подкупает! Передай мою благодарность <questGiver>."
+      "Rus": "Взятка! Передай мою благодарность <questGiver>."
     }
   },
   {
@@ -323,7 +323,7 @@
     },
     "Texts": {
       "Eng": "A present for Floran! Give Floran's thanksss to <questGiver>!",
-      "Rus": "Подарок для флорана! <questGiver> должен получить ссспасибо от флорана! Ты передашь."
+      "Rus": "Подарок для флорана! <questGiver> долж<questGiver.pronoun.verb2Ending> получить ссспасибо от флорана! Ты передашь."
     }
   },
   {
@@ -617,7 +617,7 @@
     },
     "Texts": {
       "Eng": "Fine! Floran will help <questGiver>! Take Floran's <item>!",
-      "Rus": "Хорошо! <questGiver> получит помощь Флорана! Держи, вот <item>!"
+      "Rus": "Хорошо! <questGiver> получит помощь Флорана! Держи, <item> Флорана!"
     }
   },
   {
@@ -678,7 +678,7 @@
     },
     "Texts": {
       "Eng": "Fine, take back the <item> - Just don't get me into trouble!",
-      "Rus": "Хорошо, вот <item>, возьми. Только не создавай мне проблем!"
+      "Rus": "Хорошо, забирай <item>. Только не создавай мне проблем!"
     }
   },
   {
@@ -727,7 +727,7 @@
     },
     "Texts": {
       "Eng": "Floran can lend <questGiver> <item>, as long as Floran getsss it back ssoon.",
-      "Rus": "<questGiver> может получить помощщь Флорана, если вссскоре вернёт вещь назад."
+      "Rus": "<questGiver> может одолжить <item> у Флорана, но только есссли Флоран получит <item> обратно!"
     }
   },
   {
@@ -739,7 +739,7 @@
     },
     "Texts": {
       "Eng": "Floran could have won the fight if Floran had a ssspear, but Floran still appreciates help.",
-      "Rus": "Флоран мог бы сссам победить, если бы у Флорана было копьё. Но Флоран всё же благодарен за помощь."
+      "Rus": "Флоран мог бы победить в этом сссражении, если бы у Флорана было копьё. Но Флоран всё же благодарен за помощь."
     }
   },
   {
@@ -787,7 +787,7 @@
     },
     "Texts": {
       "Eng": "Floran friend of <questGiver>, here to help you fight the <enemy>.",
-      "Rus": "<questGiver> - друг Флорана. Флоран здессь чтобы помогать тебе сразить <enemy>."
+      "Rus": "<questGiver> — друг Флорана. Флоран здессь чтобы помогать тебе."
     }
   },
   {
