@@ -44,7 +44,7 @@
     },
     "Texts": {
       "Eng": "<target> liked the gift?  I don't need anything in return, it feels good just to give a friend something they can enjoy!",
-      "Rus": "<target> обрадовал<target.pronoun.verb3Ending> подарку? Отлично, это лучшая награда для меня самого!"
+      "Rus": "<target> обрадовал<target.pronoun.verb3Ending> подарку? Мне ничего не надо взамен, а просто приятно дать другу то, что <target.pronoun.object> нравится"
     }
   },
   {
@@ -56,7 +56,7 @@
     },
     "Texts": {
       "Eng": "<target> really liked the gift! Now <target.pronoun.subject>'ll spend lotsss of time with Floran, and Floran can ssmell <target.pronoun.possessiveDet> pleasant ssmells all day! Thanksss a lot!",
-      "Rus": "<target> дейсствительно оценил<target.pronoun.verbEnding> подарок! Теперь <target.pronoun.subject> проводит больше времени с Флораном, и Флоран больше времени нюхает <target.pronoun.reflexive> аппетитный запах! Сспасибо!"
+      "Rus": "<target> дейсствительно оценил<target.pronoun.verbEnding> подарок! Теперь <target.pronoun.subject> проводит больше времени с Флораном, и Флоран больше времени ощущщает <target.pronoun.reflexive> аппетитный запах! Сспасибо!"
     }
   },
   {
@@ -80,7 +80,7 @@
     },
     "Texts": {
       "Eng": "Finally, ^green;can you give the ^orange;<gift>^green; to ^orange;<target>^white;? I hope <target.pronoun.subject> likes it!",
-      "Rus": "Ты не мог бы ^green;передать подарок^white;? Адресат - ^orange;<target>^white;, содержание подарка -  ^orange;<gift>^white;, так что желательного его не кантовать."
+      "Rus": "Ты не мог бы ^green;передать подарок^white;? Адресат - ^orange;<target>^white;, содержание подарка -  ^orange;<gift>^white;. Я надеюсь <target.pronoun.subject> понравится."
     }
   },
   {
@@ -164,7 +164,7 @@
     },
     "Texts": {
       "Eng": "I failed to help <questGiver> deliver a gift to <target>. Perhaps <questGiver.pronoun.subject> should learn to make friends without giving out presents?",
-      "Rus": "Я не смог помочь. <questGiver> долж<questGiver.pronoun.verb2Ending> обратиться в курьерскую службу, если хочет доставлять подарки другим людям не самолично."
+      "Rus": "Я не сумел<player.pronoun.verbEnding> помочь. Может быть, <questGiver> долж<questGiver.pronoun.verb2Ending> научится заводить друзей без рассылки подарков?"
     }
   },
   {
@@ -224,7 +224,7 @@
     },
     "Texts": {
       "Eng": "Lastly, the final thing to impresss ^orange;<target>^white; - a hunting trophy! Floran doesn't have one right now... So thiss ^orange;<gift>^white; will have to do. Can you ^green;deliver it to <target.pronoun.object>?",
-      "Rus": "Нужно, чтобы ^orange;<target>^white; впечатлил<target.pronoun.verb3Ending> Флораном - так что стоит преподнессти <target.pronoun.object> охотничий трофей! Жаль, что у Флорана сейчас такого нет... Может ^orange;<gift>^white; сойдёт за трофей? Ты не мог бы ^green;доставить подарок^white; и объясснить при случае, кого убил Флоран, чтобы добыть это?"
+      "Rus": "Нужно, чтобы ^orange;<target>^white; впечатлил<target.pronoun.verb3Ending> Флораном - так что стоит преподнессти <target.pronoun.object> охотничий трофей! Жаль, что у Флорана сейчас такого нет... Может ^orange;<gift>^white; сойдёт за трофей? Можешь ^green;доставить подарок^white; и объясснить при случае, кого убил Флоран, чтобы добыть это?"
     }
   },
   {
@@ -260,7 +260,7 @@
     },
     "Texts": {
       "Eng": "Next, I need to ^green;win the favour of ^orange;<target>.^white; I know that <target.pronoun.subject> would like this ^orange;<gift>, ^white;could you ^green;deliver it to <target.pronoun.object> ^white;for me?",
-      "Rus": "Не мог бы ты оказать мне услугу и ^green;передать подарок^white;? Думаю, что ^orange;<target>^white; оценит мои старания - ^orange;<gift>^white; всякому придётся по вкусу."
+      "Rus": "Можешь оказать мне услугу и ^green;передать подарок^white;? Думаю, что ^orange;<target>^white; оценит мои старания - ^orange;<gift>^white; всякому придётся по вкусу."
     }
   },
   {
@@ -344,7 +344,7 @@
     },
     "Texts": {
       "Eng": "Who wouldn't love a new ^orange;<gift>?^white; I hope ^orange;<target>^white; appreciates all the hard work I had you do for this! ^green;Could you deliver it to <target.pronoun.object>?",
-      "Rus": "Все любят получать подарки - а ^orange;<gift>^white; растопит любое сердце. Даже ^orange;<target>^white; не сможет устоять. Ты не мог бы оказать мне услугу и ^green;доставить подарок <target.pronoun.object>^white;?"
+      "Rus": "Все любят получать подарки - а ^orange;<gift>^white; растопит любое сердце. Даже ^orange;<target>^white; не сможет устоять. Можешь оказать мне услугу и ^green;доставить подарок <target.pronoun.object>^white;?"
     }
   },
   {
@@ -356,7 +356,7 @@
     },
     "Texts": {
       "Eng": "^cyan;Floran likess <target>'s scent. Floran wantsss <target.pronoun.object> around more often.",
-      "Rus": "^cyan;Флорану нравитсся, как пахнет <target>. Нужно, чтобы <target.pronoun.subject> и Флоран проводили больше времени вмессте."
+      "Rus": "^cyan;Флорану нравитсся, как пахнет <target>. Флоран хочет, чтобы <target.pronoun.subject> и Флоран проводили больше времени вмессте."
     }
   },
   {
@@ -428,7 +428,7 @@
     },
     "Texts": {
       "Eng": "place <gift> in <target>'s home",
-      "Rus": "Установите предмет (<gift>) в дом, где живёт <target>"
+      "Rus": "Положите подарок (<gift>) в доме, где живёт <target>"
     }
   }
 ]
