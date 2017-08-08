@@ -10,7 +10,7 @@
     },
     "Texts": {
       "Eng": "Give <givenItems> to <target>",
-      "Rus": "<target> ждёт, когда Вы отдадите ему <givenItems>"
+      "Rus": "<target> ждёт, когда Вы отдадите <target.pronoun.object> <givenItems>"
     }
   },
   {
@@ -24,7 +24,7 @@
     },
     "Texts": {
       "Eng": "Next, Floran needsss to make a trade with travelling merchant ^orange;<target>^white; - Floran going to give them ^orange;<givenItems>^white; to get ^orange;<receivedItems>^white;. The merchant arrived near the ^orange;<spawnPoint>^white;<spawnPoint.direction> sssome time ago. ^green;Could you go make the trade for Floran^white;?",
-      "Rus": "Флорану нужно торговать со сстранствующим торговцем ^orange;<target>^white; - Флоран даст ему ^orange;<givenItems>^white;  в обмен на ^orange;<receivedItems>^white;. Торговец прибыл куда-то возле ^orange;<spawnPoint>^white;<spawnPoint.direction>  ссовсем недавно. Можешь сделать это для Флорана^white;?"
+      "Rus": "Флорану нужно торговать со сстранствующим торговцем ^orange;<target>^white; - Флоран собирается дать ^orange;<givenItems>^white; в обмен на ^orange;<receivedItems>^white;. Торговец остановился возле ^orange;<spawnPoint>^white; <spawnPoint.direction> ссовсем недавно. Можешь сделать обмен для Флорана^white;?"
     }
   },
   {
@@ -38,7 +38,7 @@
     },
     "Texts": {
       "Eng": "Next, travelling merchant <target> arrived at the ^orange;<spawnPoint>^white;<spawnPoint.direction> a short time ago. <target.pronoun.capitalSubject> has agreed to provide us with the ^orange;<receivedItems>^white; we require in exchange for the ^orange;<givenItems>^white;. Could you ^green;take the goods to ^orange;<target>^white;?",
-      "Rus": "Следующий странствующий торговец <target> прибыл в место около ^orange;<spawnPoint>^white;<spawnPoint.direction> совсем недавно. <target.pronoun.capitalSubject> согласился обеспечивать нас ^orange;<receivedItems>^white; которые он готов обменять на ^orange;<givenItems>^white;. Не могли бы вы ^green;отнести товары ^orange;<target>^white;? "
+      "Rus": "Далее, странствующий торговец <target> прибыл<target.pronoun.verbEnding> в место около ^orange;<spawnPoint>^white; <spawnPoint.direction> совсем недавно. <target.pronoun.capitalSubject> согласился обеспечивать нас ^orange;<receivedItems>^white; в обмен на ^orange;<givenItems>^white;. Можешь ^green;отнести товары ^orange;торговцу^white;? "
     }
   },
   {
@@ -52,7 +52,7 @@
     },
     "Texts": {
       "Eng": "Next, travelling merchant ^orange;<target>^white; arrived at the ^orange;<spawnPoint>^white;<spawnPoint.direction> a short time ago. <target.pronoun.capitalSubject> has agreed to provide us with the <receivedItems> we require in exchange for the ^orange;<givenItems>^white;. ^green;Could you take the goods to <target>^white;?",
-      "Rus": "Странствующий торговец ^orange;<target>^white; прибыл в место возле ^orange;<spawnPoint>^white;<spawnPoint.direction> недавно. <target.pronoun.capitalSubject> согласился обеспечивать нас <receivedItems> которые нужны нам в обмен на ^orange;<givenItems>^white;. Не мог бы ты отнести товары <target>^white;?"
+      "Rus": "Странствующий торговец ^orange;<target>^white; прибыл в место возле ^orange;<spawnPoint>^white; <spawnPoint.direction> недавно. <target.pronoun.capitalSubject> согласился обеспечивать нас <receivedItems> которые нужны нам в обмен на ^orange;<givenItems>^white;. Можешь ^green;отнести товары торговцу^white;?"
     }
   },
   {
