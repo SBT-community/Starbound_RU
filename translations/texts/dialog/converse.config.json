@@ -68,7 +68,7 @@
     },
     "Texts": {
       "Eng": "A flock of your kind came through the other day.",
-      "Rus": "Недавно тут пролетала стая подобных тебе."
+      "Rus": "Тут недавно проходили подобные тебе."
     }
   },
   {
@@ -3069,7 +3069,7 @@
     },
     "Texts": {
       "Eng": "Don't go rustin' up on me like an ol' revolver!",
-      "Rus": "Не ржавей мне тут, аки старый пистоль!"
+      "Rus": "Не ржавей мне тут, аки старый револьвер!"
     }
   },
   {
@@ -7742,7 +7742,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "У меня нет семечек, чтобы угостить тебя. Как грубо с моей стороны."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/hylotl/avian/13"
@@ -7750,7 +7752,7 @@
     },
     "Texts": {
       "Eng": "I feel rude not offering you seeds, but I have none.",
-      "Rus": "Ужасно невежливо с моей стороны даже не предложить тебе семечек, но у меня их нет."
+      "Rus": "Ужасно невежливо с моей стороны не угостить тебя семечками, но у меня их нет."
     }
   },
   {
@@ -8855,7 +8857,7 @@
     },
     "Texts": {
       "Eng": "I read some captivating poetry this morning, it absolutely transported me.",
-      "Rus": ""
+      "Rus": "Утром мне довелось прочесть потрясающие стихи. Никак не приду в себя от впечатлений."
     }
   },
   {
@@ -8991,7 +8993,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ничего не могу сделать как надо после того, как мне защемило пальцы ящиком стола.",
+      "Всё валится из рук с тех пор, как мне защемило пальцы выдвижным ящиком."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/avian/generic/43"
@@ -8999,7 +9004,7 @@
     },
     "Texts": {
       "Eng": "I shut my fingers in a draw yesterday and now I can't get anything done.",
-      "Rus": ""
+      "Rus": "Вчера мне защемило пальцы ящиком стола и всё до сих пор валится из рук."
     }
   },
   {
@@ -9132,7 +9137,7 @@
     },
     "Texts": {
       "Eng": "I sure hope you don't rust up next time it's rainin'!",
-      "Rus": ""
+      "Rus": "Дюже надеюсь, ты не поржавеешь, как дожж пойдёт!"
     }
   },
   {
@@ -9180,7 +9185,7 @@
     },
     "Texts": {
       "Eng": "I think I might have buried my spade.",
-      "Rus": ""
+      "Rus": "Кажется, моя лопата осталась под землёй."
     }
   },
   {
@@ -9396,7 +9401,7 @@
     },
     "Texts": {
       "Eng": "I used to meditate, but I couldn't stand the quiet.",
-      "Rus": ""
+      "Rus": "Я не выношу тишины, поэтому больше не медитирую."
     }
   },
   {
@@ -9880,7 +9885,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я никогда не прочь побалагурить!",
+      "Я всегда и всяко за гульбу!"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/novakid/generic/12"
@@ -9888,7 +9896,7 @@
     },
     "Texts": {
       "Eng": "I'm always rootin' for a jamboree!",
-      "Rus": ""
+      "Rus": "Уж я-то всегда и всяко за кутёж!"
     }
   },
   {
@@ -9936,7 +9944,7 @@
     },
     "Texts": {
       "Eng": "I'm craving a Cornish pasty right now.",
-      "Rus": ""
+      "Rus": "Необоримо захотелось"
     }
   },
   {
