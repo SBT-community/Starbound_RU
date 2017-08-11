@@ -13331,7 +13331,7 @@
         "vaultkey.questtemplate.json": 7
       },
       "quests.config.json": 47,
-      "shared_.questtemplate.json": 2,
+      "shared_.questtemplate.json": 1,
       "story": {
         "apex_mission1.questtemplate.json": 11,
         "apex_mission2.questtemplate.json": 5,
@@ -13358,7 +13358,7 @@
       "exploration.radiomessages.json": 7,
       "intro.radiomessages.json": 16,
       "mech.radiomessages.json": 13,
-      "missions.radiomessages.json": 55,
+      "missions.radiomessages.json": 54,
       "quests.radiomessages.json": 6,
       "ship.radiomessages.json": 3,
       "techchallenge.radiomessages.json": 8,
@@ -13366,9 +13366,6 @@
     },
     "radiomessages.config.json": 1,
     "shared_able.json": 2,
-    "shared_age": {
-      "shared_mission.json": 1
-    },
     "shared_ancientplatform.mat.json": 5,
     "shared_anfemale.json": 6,
     "shared_anmale.json": 1,
@@ -13386,12 +13383,12 @@
     "shared_cora.json": 1,
     "shared_ect.json": 1,
     "shared_eri.json": 2,
+    "shared_est.json": 1,
     "shared_goldenplatform.mat.json": 5,
     "shared_ice..json": 1,
     "shared_ies.json": 1,
     "shared_ing.json": 1,
     "shared_interface.json": 2,
-    "shared_ion.json": 1,
     "shared_key.json": 1,
     "shared_lunarbaseplatform.mat.json": 5,
     "shared_merchant..json": 1,
@@ -13450,7 +13447,7 @@
     },
     "stagehands": {
       "mission": {
-        "glitchmissionmanager.stagehand.json": 11
+        "glitchmissionmanager.stagehand.json": 10
       }
     },
     "stats": {
@@ -13714,6 +13711,6 @@
       }
     },
     "universe_server.config.json": 2,
-    "wide_spread_fields.json": 70
+    "wide_spread_fields.json": 74
   }
 }

@@ -22,6 +22,23 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "npcs/outpost/lanaoutpost.npctype": [
+        "/npcname"
+      ],
+      "npcs/story/lana.npctype": [
+        "/npcname"
+      ],
+      "npcs/story/lanafight.npctype": [
+        "/npcname"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lana"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "npcs/mission/floranpredator.npctype": [
         "/scriptConfig/dialog/attack/floran/default/7"
       ],
