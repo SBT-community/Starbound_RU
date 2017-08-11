@@ -68,7 +68,7 @@
     },
     "Texts": {
       "Eng": "A flock of your kind came through the other day.",
-      "Rus": "Недавно тут проходило стадо подобных тебе."
+      "Rus": "Недавно тут пролетала стая подобных тебе."
     }
   },
   {
@@ -224,7 +224,7 @@
     },
     "Texts": {
       "Eng": "Ace meeting you.",
-      "Rus": "Крутой приветствует тебя."
+      "Rus": "Круто встретить тебя."
     }
   },
   {
@@ -3069,7 +3069,7 @@
     },
     "Texts": {
       "Eng": "Don't go rustin' up on me like an ol' revolver!",
-      "Rus": ""
+      "Rus": "Не ржавей мне тут, аки старый пистоль!"
     }
   },
   {
@@ -6738,7 +6738,7 @@
     },
     "Texts": {
       "Eng": "How's thingss with you?",
-      "Rus": ""
+      "Rus": "Как твои дела?"
     }
   },
   {
@@ -6750,11 +6750,13 @@
     },
     "Texts": {
       "Eng": "Howdy partner! The name's <selfname>, don't forget it!",
-      "Rus": ""
+      "Rus": "Как жизнь, друже? Меня звать <selfname>, уж не забудь!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Как жизнь?"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/greeting/novakid/default/3"
@@ -6762,7 +6764,7 @@
     },
     "Texts": {
       "Eng": "Howdy there!",
-      "Rus": ""
+      "Rus": "Здорово!"
     }
   },
   {
@@ -6774,7 +6776,7 @@
     },
     "Texts": {
       "Eng": "Howdy there, friend! Keep goin' strong, and glowin' stronger!",
-      "Rus": ""
+      "Rus": "Здорово, дружище! Ступай бодрей, свети ярчей!"
     }
   },
   {
@@ -6786,7 +6788,7 @@
     },
     "Texts": {
       "Eng": "Howdy there, new blood!",
-      "Rus": ""
+      "Rus": "Приветы новоприбывшим!"
     }
   },
   {
@@ -6798,7 +6800,7 @@
     },
     "Texts": {
       "Eng": "Howdy! Have we met before? I can never remember a face...",
-      "Rus": ""
+      "Rus": "Здорово! Мы видались раньше? Совсем лиц не запоминаю..."
     }
   },
   {
@@ -6810,7 +6812,7 @@
     },
     "Texts": {
       "Eng": "Howdy.",
-      "Rus": ""
+      "Rus": "Здрасьте."
     }
   },
   {
@@ -6850,7 +6852,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Люди ведь мирная раса? Всё же, иногда авианский воинственный дух берёт в них верх."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/avian/human/5"
@@ -6858,7 +6862,7 @@
     },
     "Texts": {
       "Eng": "Humans are a peaceful species, right? Sometimes an Avian's warrior side runs away with them.",
-      "Rus": ""
+      "Rus": "Люди ведь мирная раса? Иногда их одолевает по-авиански воинственный настрой."
     }
   },
   {
