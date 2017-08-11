@@ -8,7 +8,7 @@
     },
     "Texts": {
       "Eng": "A fellow Avian! Our people may call us Grounded but we sail through the stars now, don't we?",
-      "Rus": "Собрат Авиан! Наш народ может называть нас Приземлёнными, но теперь мы ведь путешествуем среди звезд, не так ли?"
+      "Rus": "Собрат Авиан! Наш народ может называть нас Приземлёнными, но теперь мы ведь путешествуем среди звёзд, не так ли?"
     }
   },
   {
@@ -647,7 +647,7 @@
     },
     "Texts": {
       "Eng": "One day I shall explore the cosmos instead of hanging about here... But today is not that day.",
-      "Rus": ""
+      "Rus": "В один прекрасный день я стану исследовать космос вместо того, чтобы болтаться здесь... Но сегодня не тот день."
     }
   },
   {
@@ -660,11 +660,13 @@
     },
     "Texts": {
       "Eng": "One day I'll have my own ship and crew! Captain <selfname> has a nice ring to it, don't you think?",
-      "Rus": ""
+      "Rus": "Когда-нибудь у меня будет свой корабль и экипаж! Капитан <selfname>  - звучит здорово, ты так не думаешь?"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Одним из небольших преимуществ жизни в космосе является то, что блохам не легко выжить снаружи..."
+    ],
     "Files": {
       "dialog/spaceconverse.config": [
         "/converse/apex/apex/3",
@@ -673,7 +675,7 @@
     },
     "Texts": {
       "Eng": "One of the small benefits of life in space is that fleas don't survive easily out here...",
-      "Rus": ""
+      "Rus": "Одним из небольших преимуществ жизни в космосе является то, что блохам не легко выжить здесь..."
     }
   },
   {
@@ -685,7 +687,7 @@
     },
     "Texts": {
       "Eng": "Other Floran! Floran likesss similar faces.",
-      "Rus": ""
+      "Rus": "Другой флоран! Флорану нравятся подобные лица."
     }
   },
   {
@@ -697,7 +699,7 @@
     },
     "Texts": {
       "Eng": "Our people used to believe the stars were the many eyes of Kluex. Science, well, says otherwise.",
-      "Rus": ""
+      "Rus": "Наш народ верил, что звезды были многочисленными глазами Клюкэса. Наука, однако, говорит иначе."
     }
   },
   {
@@ -710,7 +712,7 @@
     },
     "Texts": {
       "Eng": "Space is an ocean of sorts. In some small way, it makes me feel at home.",
-      "Rus": ""
+      "Rus": "Космос - это своего рода океан. В каком-то смысле, это позволяет мне почувствовать себя дома."
     }
   },
   {
@@ -723,7 +725,7 @@
     },
     "Texts": {
       "Eng": "Space is the real wild country, ain't it? Bandits to hunt, bars to drink at... It sure is the life!",
-      "Rus": ""
+      "Rus": "Космос - и правда дикая страна, не так ли? Охотиться на бандитов, бухать в баре. Вот это действительно житуха!"
     }
   },
   {
@@ -735,7 +737,7 @@
     },
     "Texts": {
       "Eng": "The Apex can seek solace out here, among the stars. I welcome a quiet life.",
-      "Rus": ""
+      "Rus": "Апекс может найти утешение здесь, среди звезд. Я приветствую спокойную жизнь."
     }
   },
   {
@@ -748,7 +750,7 @@
     },
     "Texts": {
       "Eng": "The empty blackness of space is like a blank canvas. How I wish I could somehow paint upon it.",
-      "Rus": ""
+      "Rus": "Пустая чернота космоса подобна чистому холсту. Как бы хотелось как-нибудь научиться рисовать на нём."
     }
   },
   {
@@ -761,7 +763,7 @@
     },
     "Texts": {
       "Eng": "The first step towards fighting a dictatorship is to learn. The enemy can take your weapons, but never your knowledge.",
-      "Rus": ""
+      "Rus": "Первым шагом борьбы с диктатурой является обучение. Враг может забрать твоё оружие, но не твои знания."
     }
   },
   {
@@ -774,7 +776,7 @@
     },
     "Texts": {
       "Eng": "The great thing about living in space is that there's always room. Infinite room, in fact.",
-      "Rus": ""
+      "Rus": "Самое замечательное в жизни в космосе то, что здесь всегда просторно. Бесконечный простор, по факту."
     }
   },
   {
@@ -787,7 +789,7 @@
     },
     "Texts": {
       "Eng": "The low-moisture atmosphere in space is good for preventing rust.",
-      "Rus": ""
+      "Rus": "Атмосфера с низкой влажностью в космосе хороша для предотвращения ржавления."
     }
   },
   {
@@ -799,7 +801,7 @@
     },
     "Texts": {
       "Eng": "The most terrifying aspect of the Miniknog regime is that the Apex people are comfortable with the cycle of oppression.",
-      "Rus": ""
+      "Rus": "Самый ужасающий аспект режима Министерства в том, что апексы довольны угнетением."
     }
   },
   {
@@ -811,7 +813,7 @@
     },
     "Texts": {
       "Eng": "The most terrifying aspect of the Miniknog regime is that the our people are comfortable with the cycle of oppression.",
-      "Rus": ""
+      "Rus": "Самый ужасающий аспект режима Министерства в том, что наш народ доволен угнетением."
     }
   },
   {
@@ -824,7 +826,7 @@
     },
     "Texts": {
       "Eng": "The planets sail across the infinite night, like fish in a grand ocean.",
-      "Rus": ""
+      "Rus": "Планеты плывут сквозь бесконечную ночь, как рыбы в великом океане."
     }
   },
   {
@@ -837,7 +839,7 @@
     },
     "Texts": {
       "Eng": "The planets that many warmongering civilisations have fought wars over seem so small from up here, do they not?",
-      "Rus": ""
+      "Rus": "Планеты, которые многие воинствующие цивилизации повергали в войны, кажутся такими крохотными отсюда, не так ли?"
     }
   },
   {
@@ -850,7 +852,7 @@
     },
     "Texts": {
       "Eng": "The stars really call out t' me. I guess it jus' feels right bein' up here, closer to 'em.",
-      "Rus": ""
+      "Rus": "Звезды действительно взывают ка мне. Я думаю, что просто чувствую себя здесь лучше, ближе к ним."
     }
   },
   {
@@ -863,7 +865,7 @@
     },
     "Texts": {
       "Eng": "There ain't no law in space. That's purty ideal for rogues an' villains, ain't it?",
-      "Rus": ""
+      "Rus": "В космосе нет закона. Эта чистота идеально подходит для разбойников и негодяев, не так ли?"
     }
   },
   {
@@ -876,7 +878,7 @@
     },
     "Texts": {
       "Eng": "There is always new knowledge to find. I have come to space to learn more about our universe.",
-      "Rus": ""
+      "Rus": "Здесь всегда можно узнать что-то новое. Я прибыл в космос, чтобы узнать больше о нашей вселенной."
     }
   },
   {
@@ -889,7 +891,7 @@
     },
     "Texts": {
       "Eng": "To be so small compared to the great scale of all existence... Does space also make you feel insignificant?",
-      "Rus": ""
+      "Rus": "Мы такие крошечные по сравнению с огромным масштабом всего сущего... Тебя космос тоже заставляет чувствовать себя незначительным?"
     }
   },
   {
@@ -902,7 +904,7 @@
     },
     "Texts": {
       "Eng": "To fly through space on board a ship... It isn't like having real wings, but it's close!",
-      "Rus": ""
+      "Rus": "Лететь сквозь космос на борту корабля... Это не то же, что иметь настоящие крылья, но довольно близко!"
     }
   },
   {
@@ -914,7 +916,7 @@
     },
     "Texts": {
       "Eng": "To my people, space travel is viewed as a gift from Kluex to help spread our faith. To me, it is a gift for discovery and knowledge!",
-      "Rus": ""
+      "Rus": "Для моего народа космические путешествия рассматриваются как подарок от Клюэкса, чтобы помочь распространению нашей веры. Для меня это подарок для открытия и познания!"
     }
   },
   {
@@ -926,7 +928,7 @@
     },
     "Texts": {
       "Eng": "To our people, space travel is viewed as a gift from Kluex to help spread our faith. To me, it is a gift for discovery and knowledge!",
-      "Rus": ""
+      "Rus": "Для нашего народа космические путешествия рассматриваются как подарок от Клюэкса, чтобы помочь распространению нашей веры. Для меня это подарок для открытия и познания!"
     }
   },
   {
@@ -938,7 +940,7 @@
     },
     "Texts": {
       "Eng": "Us Apex can seek solace out here, among the stars. I welcome a quiet life.",
-      "Rus": ""
+      "Rus": "Мы, апексы, можем найти утешение здесь, среди звезд. Я приветствую спокойную жизнь."
     }
   },
   {
@@ -951,7 +953,7 @@
     },
     "Texts": {
       "Eng": "Welcome to... Space! Are you new here?",
-      "Rus": ""
+      "Rus": "Добро пожаловать в... Космос! Ты здесь новичок?"
     }
   },
   {
@@ -963,7 +965,7 @@
     },
     "Texts": {
       "Eng": "Welcome, fellow Glitch! I am <selfname>. I wish you well on your travels.",
-      "Rus": ""
+      "Rus": "Добро пожаловать, собрат глитч! Я <selfname>. Я желаю тебе успехов в твоих путешествиях."
     }
   },
   {
@@ -975,7 +977,7 @@
     },
     "Texts": {
       "Eng": "Welcome, friend. If you are here, then perhaps you too have evaded the clutches of the Miniknog?",
-      "Rus": ""
+      "Rus": "Добро пожаловать, друг! Если ты здесь, то, видимо, тебе тоже удалось избежать когтей Министерства?"
     }
   },
   {
@@ -987,7 +989,7 @@
     },
     "Texts": {
       "Eng": "Welcome, spacefarer! I am <selfname>. I wish you well on your travels.",
-      "Rus": ""
+      "Rus": "Добро пожаловать, космический путешественник! Я <selfname>. Я желаю тебе успехов в твоих путешествиях."
     }
   },
   {
@@ -1000,7 +1002,7 @@
     },
     "Texts": {
       "Eng": "Welcome, stranger! As sure as the suns rise shall I greet every new face with a smile.",
-      "Rus": ""
+      "Rus": "Добро пожаловать, странник! Так же, как восходит солнце, я с улыбкой буду приветствовать каждое новое лицо."
     }
   },
   {
@@ -1013,7 +1015,7 @@
     },
     "Texts": {
       "Eng": "Well ruffle my feathers - a friendly new face!",
-      "Rus": ""
+      "Rus": "Чтоб мои перья встали дыбом - новый друг!"
     }
   },
   {
@@ -1026,7 +1028,7 @@
     },
     "Texts": {
       "Eng": "What secrets are hidden among the stars? I very much desire to find out.",
-      "Rus": ""
+      "Rus": "Какие тайны скрыты среди звезд? Очень сильно хочется узнать."
     }
   },
   {
@@ -1039,7 +1041,7 @@
     },
     "Texts": {
       "Eng": "You ain't gonna look me in the eyes, partner? I'm jus' foolin' with yer - I ain't got any eyes!",
-      "Rus": ""
+      "Rus": "Ты не собираешься смотреть мне в глаза, приятель? Я просто шучу над тобой - у меня нет глаз!"
     }
   },
   {
@@ -1052,7 +1054,7 @@
     },
     "Texts": {
       "Eng": "You have a look about you - A look of... Wanderlust?",
-      "Rus": ""
+      "Rus": "Ты только посмотри на себя - взгляд полный... Страсти к путешествиям?"
     }
   },
   {
@@ -1065,7 +1067,7 @@
     },
     "Texts": {
       "Eng": "You know, it's really hard to maintain a sleep cycle when there's no days or nights.",
-      "Rus": ""
+      "Rus": "Ты знаешь, очень сложно поддерживать цикл сна, когда нет дней или ночей."
     }
   },
   {
@@ -1078,7 +1080,7 @@
     },
     "Texts": {
       "Eng": "You'd think that living offworld would get lonely, but... Well, you'd be right, actually.",
-      "Rus": ""
+      "Rus": "Думаешь, что жить вне планеты одиноко, но... Ну, на самом деле, это правда."
     }
   }
 ]
