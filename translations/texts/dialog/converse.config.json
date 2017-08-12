@@ -10484,7 +10484,7 @@
     },
     "Texts": {
       "Eng": "I've been learning the ocarina!",
-      "Rus": ""
+      "Rus": "Я немного умею играть на окарине!"
     }
   },
   {
@@ -11736,7 +11736,7 @@
     },
     "Texts": {
       "Eng": "It's hard to capture the delicacy and diaphanousness of feathers with ink.",
-      "Rus": ""
+      "Rus": "Чернилами сложно передать нежность и воздушность перьев."
     }
   },
   {
@@ -14689,7 +14689,7 @@
     },
     "Texts": {
       "Eng": "Sometimes I like to pretend I'm an old timey knight!",
-      "Rus": ""
+      "Rus": "Иногда мне нравится воображать себя рыцарем из былых времён!"
     }
   },
   {
@@ -14869,7 +14869,7 @@
     },
     "Texts": {
       "Eng": "Sssilly monkey, Floran like.",
-      "Rus": ""
+      "Rus": "Глупая обезьянка. Флорану нравитссся."
     }
   },
   {
@@ -15137,7 +15137,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Щупальца, а? Кому вообще нужны щупальца? Не, серьёзно, они ужасны."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/human/human/12"
@@ -15145,7 +15147,7 @@
     },
     "Texts": {
       "Eng": "Tentacles, eh? Who'd have 'em? Seriously though, they're the worst.",
-      "Rus": "Щупальца, хех? Кто бы их имел? Не, серьёзно, они ужасны."
+      "Rus": "Щупальца, а? Зачем они вообще? Не, серьёзно, они ужасны."
     }
   },
   {
@@ -15245,7 +15247,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Глитчи очень забавно говорят... Зато всегда по делу. "
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/human/glitch/9"
@@ -15253,7 +15257,7 @@
     },
     "Texts": {
       "Eng": "The Glitch have a funny way of talking... Cuts out the flim-flam though.",
-      "Rus": ""
+      "Rus": "У Глитчей забавная манера речи... Зато говорят всегда по делу."
     }
   },
   {
@@ -15689,7 +15693,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "О вкусах в моде не спорят..."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/glitch/generic/81/glitchEmotedText"
@@ -15697,7 +15703,7 @@
     },
     "Texts": {
       "Eng": "There's no accounting for tastes in fashion...",
-      "Rus": ""
+      "Rus": "Предпочтения в моде не требуют обоснования..."
     }
   },
   {
@@ -15901,7 +15907,7 @@
     },
     "Texts": {
       "Eng": "Tomorrow is a new day. Mind you, so was yesterday at some point, and that was not so great.",
-      "Rus": ""
+      "Rus": "Завтра новый день. Заметь, что таким же когда-то было и вчера и оно в итоге оказалось не очень."
     }
   },
   {
