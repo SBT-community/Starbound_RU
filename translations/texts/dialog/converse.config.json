@@ -9936,7 +9936,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Очень уж пирожка хочется.",
+      "Необоримо захотелось"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/human/generic/16"
@@ -9944,7 +9947,7 @@
     },
     "Texts": {
       "Eng": "I'm craving a Cornish pasty right now.",
-      "Rus": "Необоримо захотелось"
+      "Rus": "Мне вдруг страшно захотелось корнуоллского пирога."
     }
   },
   {
@@ -15681,7 +15684,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "У нас так говорят: коли муши пасутся у реки - не пей воды ниже по течению.",
+      "Есть старая поговорка: всегда пей против стада муши."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/novakid/generic/8"
@@ -15689,7 +15695,7 @@
     },
     "Texts": {
       "Eng": "There's an ol' saying - always drink upstream from the mooshi herd.",
-      "Rus": "Есть старая поговорка: всегда пей против стада муши."
+      "Rus": "Есть старинная пословица: углядел муши у реки - не пей воды ниже по течению."
     }
   },
   {
@@ -16118,7 +16124,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "У нас здесь нет жёсткой иерархии."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/avian/generic/15"
@@ -16126,7 +16134,7 @@
     },
     "Texts": {
       "Eng": "We don't have much of a pecking order here.",
-      "Rus": ""
+      "Rus": "У нас здесь не принято клевать друг друга."
     }
   },
   {
@@ -16371,7 +16379,7 @@
     },
     "Texts": {
       "Eng": "Well howdy!",
-      "Rus": ""
+      "Rus": "Здоров будь!"
     }
   },
   {
@@ -16383,7 +16391,7 @@
     },
     "Texts": {
       "Eng": "Well it's mighty fine to meet you, partner!",
-      "Rus": ""
+      "Rus": "Крепко рад знаться с тобою, дружище!"
     }
   },
   {
@@ -16395,7 +16403,7 @@
     },
     "Texts": {
       "Eng": "Well met, my feathered friend.",
-      "Rus": ""
+      "Rus": "Рад встрече, мой пернатый друг."
     }
   },
   {
@@ -16407,7 +16415,7 @@
     },
     "Texts": {
       "Eng": "Well shucks, you look kinda like me! Have we met before, partner? I can't remember...",
-      "Rus": ""
+      "Rus": "Во дела, да ты на вид прям как я! Мы, поди, знакомы, дружище? Совсем ничего не помню..."
     }
   },
   {
@@ -16527,7 +16535,7 @@
     },
     "Texts": {
       "Eng": "What a hectic day! I feel that it's time to seek tranquillity.",
-      "Rus": ""
+      "Rus": "Что за сумбурный день! Чувствую, мне пора искать умиротворения."
     }
   },
   {
@@ -16587,11 +16595,13 @@
     },
     "Texts": {
       "Eng": "What a strange encounter.",
-      "Rus": ""
+      "Rus": "Какая странная встреча."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Какое удовольствие встретить глитча."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/hylotl/glitch/17"
@@ -16599,11 +16609,13 @@
     },
     "Texts": {
       "Eng": "What a wonderful treat to meet a Glitch.",
-      "Rus": ""
+      "Rus": "Что за дивный подарок судьбы - встреча с глитчем."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Какой чудесный у тебя вид!"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/hylotl/novakid/11"
@@ -16611,7 +16623,7 @@
     },
     "Texts": {
       "Eng": "What a wondrous sight you are!",
-      "Rus": ""
+      "Rus": "Ты так чудесно выглядишь!"
     }
   },
   {
@@ -16623,7 +16635,7 @@
     },
     "Texts": {
       "Eng": "What are you doing here?",
-      "Rus": ""
+      "Rus": "Что ты здесь делаешь?"
     }
   },
   {
@@ -16635,7 +16647,7 @@
     },
     "Texts": {
       "Eng": "What are you here to do?",
-      "Rus": ""
+      "Rus": "Зачем ты здесь?"
     }
   },
   {
@@ -16647,7 +16659,7 @@
     },
     "Texts": {
       "Eng": "What are you made of?",
-      "Rus": ""
+      "Rus": "Из чего сделано твоё тело?"
     }
   },
   {
@@ -16688,7 +16700,7 @@
     },
     "Texts": {
       "Eng": "What are you? I have never seen your kind before.",
-      "Rus": ""
+      "Rus": "Что ты за существо? Впервые вижу такого, как ты."
     }
   },
   {
@@ -16700,7 +16712,7 @@
     },
     "Texts": {
       "Eng": "What brings you here bird man?",
-      "Rus": ""
+      "Rus": "Что привело тебя сюда, человек-птица?"
     }
   },
   {
@@ -16712,7 +16724,7 @@
     },
     "Texts": {
       "Eng": "What brings you here friend?",
-      "Rus": ""
+      "Rus": "Что привело тебя сюда, друг?"
     }
   },
   {
@@ -16724,7 +16736,7 @@
     },
     "Texts": {
       "Eng": "What could I have done with my hat? I just had it in my hand!",
-      "Rus": ""
+      "Rus": "Куда могла деться моя шляпа? Она только что была у меня в руке!"
     }
   },
   {
@@ -16736,7 +16748,7 @@
     },
     "Texts": {
       "Eng": "What do Hylotl do when they need to take a bath?",
-      "Rus": ""
+      "Rus": "Что делают хилотлы, когда хотят принять ванну?"
     }
   },
   {
@@ -16748,11 +16760,13 @@
     },
     "Texts": {
       "Eng": "What do the Avians do for fun?",
-      "Rus": ""
+      "Rus": "Как развлекаются авиане?"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Что Протекторат думает о воинственной культуре авиан?"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/avian/avian/7"
@@ -16760,7 +16774,7 @@
     },
     "Texts": {
       "Eng": "What do the Protectorate think of Avian warrior culture?",
-      "Rus": ""
+      "Rus": "Как в Протекторате относятся к воинственной культуре авиан?"
     }
   },
   {
@@ -16772,7 +16786,7 @@
     },
     "Texts": {
       "Eng": "What do they call you, partner?",
-      "Rus": ""
+      "Rus": "Как-бишь они тебя кличут, дружище?"
     }
   },
   {
