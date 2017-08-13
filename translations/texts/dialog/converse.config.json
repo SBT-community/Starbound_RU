@@ -16940,7 +16940,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Что такое \"угнетение\"?"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/floran/apex/13"
@@ -16948,7 +16950,7 @@
     },
     "Texts": {
       "Eng": "What is \"Oppression\"?",
-      "Rus": "Что такое \"угнетение\"?"
+      "Rus": "Что значит \"угнетение\"?"
     }
   },
   {
@@ -17012,7 +17014,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Каково быть человеком?"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/glitch/human/5/glitchEmotedText"
@@ -17020,7 +17024,7 @@
     },
     "Texts": {
       "Eng": "What is it like to be human?",
-      "Rus": "Каково быть человеком?"
+      "Rus": "Каково это - быть человеком?"
     }
   },
   {
@@ -19273,7 +19277,7 @@
     },
     "Texts": {
       "Eng": "You some sorta city-slicker?",
-      "Rus": ""
+      "Rus": "А ты стало быть, из энтих, городских?"
     }
   },
   {
@@ -19381,7 +19385,7 @@
     },
     "Texts": {
       "Eng": "You're a bird, huh? Well that's the darndest thing.",
-      "Rus": ""
+      "Rus": "Так ты птица да? Во дела...  "
     }
   },
   {
@@ -19457,7 +19461,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Здесь тебе всегда рады. Приносишь луч света в жизнь."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/apex/novakid/14"
@@ -19465,7 +19471,7 @@
     },
     "Texts": {
       "Eng": "You're a welcome sight, you brighten things up.",
-      "Rus": ""
+      "Rus": "Хорошо, что ты здесь. Делаешь будни светлее."
     }
   },
   {
@@ -19517,7 +19523,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Так ты из железа? Ну, ежели захочешь, чтоб тебе вмятины повыправили, я радо подсоблю!",
+      "Ты из железа? Ну, ежели нужен кто с молотком, чтоб тебе вмятины повыправить, я радо подсоблю!"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/novakid/glitch/5"
@@ -19525,7 +19534,7 @@
     },
     "Texts": {
       "Eng": "You're made o' metal? Well, if you need anyone to hammer out any dents in you, I'm your huckleberry!",
-      "Rus": ""
+      "Rus": "Ты из железа? Ну, ежели надо будет молотком вмятины повыправить, я радо подсоблю!"
     }
   },
   {
@@ -19585,11 +19594,13 @@
     },
     "Texts": {
       "Eng": "You're one funky little dude.",
-      "Rus": ""
+      "Rus": "Ты забавный чувачок."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "А ты скользкая личность, рыбина."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/human/hylotl/27"
@@ -19597,7 +19608,7 @@
     },
     "Texts": {
       "Eng": "You're one slick fish man.",
-      "Rus": ""
+      "Rus": "А ты та ещё скользкая рыба."
     }
   },
   {
@@ -19778,7 +19789,7 @@
     },
     "Texts": {
       "Eng": "You, uh, got a mighty fine glow about you... You doin' anythin' later?",
-      "Rus": ""
+      "Rus": "Ты э... светишься уж больно красиво... Чем займёшься опосля всех дел?"
     }
   },
   {
@@ -19790,7 +19801,7 @@
     },
     "Texts": {
       "Eng": "Your Kluex sounds like such a boorish fellow.",
-      "Rus": ""
+      "Rus": "Складывается впечатление, что этот ваш Клюэкс тот ещё грубиян."
     }
   },
   {
@@ -20178,7 +20189,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Твой отсутствующий взгляд сбивает меня с толку."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/hylotl/glitch/2"
@@ -20186,7 +20199,7 @@
     },
     "Texts": {
       "Eng": "Your vacant stare unsettles me.",
-      "Rus": ""
+      "Rus": "Твой отсутствующий взгляд заставляет меня нервничать."
     }
   }
 ]
