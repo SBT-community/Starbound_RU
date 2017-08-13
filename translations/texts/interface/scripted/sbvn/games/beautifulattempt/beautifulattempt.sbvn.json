@@ -1280,7 +1280,7 @@
     },
     "Texts": {
       "Eng": "I quickly explain to Kasumi that in my era, the library is open.",
-      "Rus": ""
+      "Rus": "Я быстро объяснил Касуми, что в моей эре, библиотека открыта."
     }
   },
   {
@@ -1328,7 +1328,7 @@
     },
     "Texts": {
       "Eng": "I turn back to her. \"Well?\" she asks. \"What do you think?\"",
-      "Rus": ""
+      "Rus": "Я вернулся к ней. \"Ну?\" - она спросила - \"Что ты думаешь?\""
     }
   },
   {
@@ -1533,7 +1533,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Открой письмо"
+    ],
     "Files": {
       "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
         "/scenes/goodEnding5/options/0/0"
@@ -1541,7 +1543,7 @@
     },
     "Texts": {
       "Eng": "Open the letter",
-      "Rus": "Открой письмо"
+      "Rus": "Открыть письмо"
     }
   },
   {
@@ -1723,7 +1725,7 @@
     },
     "Texts": {
       "Eng": "Sneak around",
-      "Rus": ""
+      "Rus": "Спрятаться"
     }
   },
   {
@@ -1760,7 +1762,7 @@
     },
     "Texts": {
       "Eng": "Starfish, in love!",
-      "Rus": ""
+      "Rus": "Влюблённая морская звезда!"
     }
   },
   {
@@ -1785,7 +1787,7 @@
     },
     "Texts": {
       "Eng": "Tell her your name",
-      "Rus": "Скажи ей своё имя"
+      "Rus": "Сказать ей своё имя"
     }
   },
   {
