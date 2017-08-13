@@ -145,7 +145,7 @@
     },
     "Texts": {
       "Eng": "\"Does this 'Air Hockey' of yours usually send people through time?\"",
-      "Rus": "\"Позволяет ли твой 'Аэрохоккей' путешествовать сквозь время?\""
+      "Rus": "\"Этот твой 'Аэрохоккей' обычно отправляет существ сквозь время?\""
     }
   },
   {
@@ -1592,7 +1592,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Она не знает что аэрохоккей вообще такое."
+    ],
     "Files": {
       "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
         "/scenes/hockey3/text"
@@ -1600,7 +1602,7 @@
     },
     "Texts": {
       "Eng": "She doesn't know what Air Hockey is.",
-      "Rus": "Она не знает что аэрохоккей вообще такое."
+      "Rus": "Она не знает что аэрохокей вообще такое."
     }
   },
   {
@@ -1770,7 +1772,7 @@
     },
     "Texts": {
       "Eng": "Tell her your name",
-      "Rus": ""
+      "Rus": "Скажи ей своё имя"
     }
   },
   {
@@ -1786,7 +1788,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Сила аэрохоккея"
+    ],
     "Files": {
       "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
         "/scenes/pagoda5/options/1/0"
@@ -1794,7 +1798,7 @@
     },
     "Texts": {
       "Eng": "The Power of Air Hockey",
-      "Rus": "Сила аэрохоккея"
+      "Rus": "Сила аэрохокея"
     }
   },
   {
@@ -1867,7 +1871,7 @@
     },
     "Texts": {
       "Eng": "There probably isn't even any Air Hockey IN this era.",
-      "Rus": ""
+      "Rus": "Скорее всего, в ту эпоху даже близко не было аэрохокея."
     }
   },
   {
@@ -1880,7 +1884,7 @@
     },
     "Texts": {
       "Eng": "To meet beautiful girls!",
-      "Rus": ""
+      "Rus": "Чтобы встретить прекрасных девушек!"
     }
   },
   {
