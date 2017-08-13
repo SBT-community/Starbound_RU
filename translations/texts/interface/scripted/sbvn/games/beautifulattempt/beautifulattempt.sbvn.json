@@ -97,7 +97,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "\"Аэрохокей? Что за 'Аэрохокей'? О чём ты?\""
+    ],
     "Files": {
       "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
         "/scenes/hockey1/text"
@@ -105,7 +107,7 @@
     },
     "Texts": {
       "Eng": "\"Air Hockey? What is this 'Air Hockey'? you speak of?\"",
-      "Rus": "\"Аэрохокей? Что за 'Аэрохокей'? О чём ты?\""
+      "Rus": "\"Аэрохоккей? Что за 'Аэрохоккей'? О чём ты?\""
     }
   },
   {
@@ -133,7 +135,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "\"Повзоляет ли твой 'Аэрохокей' путешествовать сквозь время?\""
+    ],
     "Files": {
       "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
         "/scenes/hockey6/text"
@@ -141,7 +145,7 @@
     },
     "Texts": {
       "Eng": "\"Does this 'Air Hockey' of yours usually send people through time?\"",
-      "Rus": "\"Повзоляет ли твой 'Аэрохокей' путешествовать сквозь время?\""
+      "Rus": "\"Позволяет ли твой 'Аэрохоккей' путешествовать сквозь время?\""
     }
   },
   {
@@ -687,7 +691,8 @@
       ]
     },
     "Texts": {
-      "Eng": "......"
+      "Eng": "......",
+      "Rus": "......"
     }
   },
   {
@@ -1472,7 +1477,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Not really, no"
+      "Eng": "Not really, no",
+      "Rus": ""
     }
   },
   {
@@ -1483,7 +1489,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Of course I've heard of it, it is a famous historical site, yet right now it hasn't even opened yet! THAT is why I knew I have been sent to the past!"
+      "Eng": "Of course I've heard of it, it is a famous historical site, yet right now it hasn't even opened yet! THAT is why I knew I have been sent to the past!",
+      "Rus": ""
     }
   },
   {
@@ -1494,7 +1501,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Open the letter"
+      "Eng": "Open the letter",
+      "Rus": "Открой письмо"
     }
   },
   {
@@ -1505,7 +1513,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Outside the entrance to the pagoda, I see a girl, kneeling in the sand. I gasp, unable to steel myself, and she turns to see me!"
+      "Eng": "Outside the entrance to the pagoda, I see a girl, kneeling in the sand. I gasp, unable to steel myself, and she turns to see me!",
+      "Rus": ""
     }
   },
   {
@@ -1516,7 +1525,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Paint?"
+      "Eng": "Paint?",
+      "Rus": ""
     }
   },
   {
@@ -1527,7 +1537,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Practice Air Hockey"
+      "Eng": "Practice Air Hockey",
+      "Rus": ""
     }
   },
   {
@@ -1538,7 +1549,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Presently I am in my school dormitory, studying. I am slowly working my way through a textbook titled 'The Art of Hylotl Passive-Aggressiveness'."
+      "Eng": "Presently I am in my school dormitory, studying. I am slowly working my way through a textbook titled 'The Art of Hylotl Passive-Aggressiveness'.",
+      "Rus": ""
     }
   },
   {
@@ -1549,7 +1561,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Searching for gold!"
+      "Eng": "Searching for gold!",
+      "Rus": ""
     }
   },
   {
@@ -1560,7 +1573,8 @@
       ]
     },
     "Texts": {
-      "Eng": "She doesn't know what Air Hockey is."
+      "Eng": "She doesn't know what Air Hockey is.",
+      "Rus": "Она даже не знает что аэрохоккей вообще такое."
     }
   },
   {
@@ -1571,7 +1585,8 @@
       ]
     },
     "Texts": {
-      "Eng": "She giggles. \"No, silly, it's a duck!\""
+      "Eng": "She giggles. \"No, silly, it's a duck!\"",
+      "Rus": ""
     }
   },
   {
@@ -1582,7 +1597,8 @@
       ]
     },
     "Texts": {
-      "Eng": "She ignores me entirely, contemplating for a moment before her face lights up."
+      "Eng": "She ignores me entirely, contemplating for a moment before her face lights up.",
+      "Rus": ""
     }
   },
   {
@@ -1593,7 +1609,8 @@
       ]
     },
     "Texts": {
-      "Eng": "She is taken aback by the abruptness of my statement. I panic, wondering why that would be one of the first things I would say to a girl."
+      "Eng": "She is taken aback by the abruptness of my statement. I panic, wondering why that would be one of the first things I would say to a girl.",
+      "Rus": ""
     }
   },
   {
@@ -1604,7 +1621,8 @@
       ]
     },
     "Texts": {
-      "Eng": "She nods. \"I have to come up with a song that will cleanse the land of uncivility. But I will need help coming up with ideas...\""
+      "Eng": "She nods. \"I have to come up with a song that will cleanse the land of uncivility. But I will need help coming up with ideas...\"",
+      "Rus": ""
     }
   },
   {
@@ -1615,7 +1633,8 @@
       ]
     },
     "Texts": {
-      "Eng": "She presents the scroll to me."
+      "Eng": "She presents the scroll to me.",
+      "Rus": ""
     }
   },
   {
@@ -1626,7 +1645,8 @@
       ]
     },
     "Texts": {
-      "Eng": "She replies, \"Well I'm afraid you've come to the wrong place, because the Grand Hylotl Library isn't open to the public just yet.\""
+      "Eng": "She replies, \"Well I'm afraid you've come to the wrong place, because the Grand Hylotl Library isn't open to the public just yet.\"",
+      "Rus": ""
     }
   },
   {
@@ -1637,7 +1657,8 @@
       ]
     },
     "Texts": {
-      "Eng": "She smiles, saying, \"I am an artist. I must paint for the ritual!\""
+      "Eng": "She smiles, saying, \"I am an artist. I must paint for the ritual!\"",
+      "Rus": ""
     }
   },
   {
@@ -1648,7 +1669,8 @@
       ]
     },
     "Texts": {
-      "Eng": "She thinks my name is Vaughn St. Lovecastle. If we are truly destined for one another, would she appreciate my true name? Could she ever?"
+      "Eng": "She thinks my name is Vaughn St. Lovecastle. If we are truly destined for one another, would she appreciate my true name? Could she ever?",
+      "Rus": ""
     }
   },
   {
@@ -1659,7 +1681,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Sneak around"
+      "Eng": "Sneak around",
+      "Rus": ""
     }
   },
   {
@@ -1671,7 +1694,8 @@
       ]
     },
     "Texts": {
-      "Eng": "So is the 'Tribute of song' next?"
+      "Eng": "So is the 'Tribute of song' next?",
+      "Rus": ""
     }
   },
   {
@@ -1682,7 +1706,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Some sort of dog?"
+      "Eng": "Some sort of dog?",
+      "Rus": ""
     }
   },
   {
@@ -1693,7 +1718,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Starfish, in love!"
+      "Eng": "Starfish, in love!",
+      "Rus": ""
     }
   },
   {
@@ -1704,7 +1730,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Still on my knees, I eagerly peel away at the wax seal, careful not to tear the paper. Will this be a letter from Kasumi, confessing her love?"
+      "Eng": "Still on my knees, I eagerly peel away at the wax seal, careful not to tear the paper. Will this be a letter from Kasumi, confessing her love?",
+      "Rus": ""
     }
   },
   {
@@ -1716,7 +1743,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Tell her your name"
+      "Eng": "Tell her your name",
+      "Rus": ""
     }
   },
   {
@@ -1727,7 +1755,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Hockey table... A beautiful smooth surface, perforated and varnished. It is the stone tablet upon which I enscribe my will, and the hockey paddle but a chisel of beautiful showmanship!"
+      "Eng": "The Hockey table... A beautiful smooth surface, perforated and varnished. It is the stone tablet upon which I enscribe my will, and the hockey paddle but a chisel of beautiful showmanship!",
+      "Rus": ""
     }
   },
   {
@@ -1738,7 +1767,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Power of Air Hockey"
+      "Eng": "The Power of Air Hockey",
+      "Rus": "Сила аэрохоккея"
     }
   },
   {
@@ -1799,7 +1829,7 @@
     },
     "Texts": {
       "Eng": "The village dance!",
-      "Rus": ""
+      "Rus": "Деревенский танец!"
     }
   },
   {
@@ -1860,7 +1890,7 @@
     },
     "Texts": {
       "Eng": "What do you need to do?",
-      "Rus": ""
+      "Rus": "Что тебе нужно делать?"
     }
   },
   {
@@ -1872,7 +1902,7 @@
     },
     "Texts": {
       "Eng": "What is it?",
-      "Rus": ""
+      "Rus": "Что это?"
     }
   },
   {
@@ -1896,7 +1926,7 @@
     },
     "Texts": {
       "Eng": "What's going on?!",
-      "Rus": ""
+      "Rus": "Что происходит?!"
     }
   },
   {
@@ -1909,7 +1939,7 @@
     },
     "Texts": {
       "Eng": "Where am I?",
-      "Rus": ""
+      "Rus": "Где я?"
     }
   },
   {
