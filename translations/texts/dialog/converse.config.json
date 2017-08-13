@@ -68,7 +68,7 @@
     },
     "Texts": {
       "Eng": "A flock of your kind came through the other day.",
-      "Rus": "Недавно тут проходило стадо подобных тебе."
+      "Rus": "Тут недавно проходили подобные тебе."
     }
   },
   {
@@ -224,7 +224,7 @@
     },
     "Texts": {
       "Eng": "Ace meeting you.",
-      "Rus": "Крутой приветствует тебя."
+      "Rus": "Круто встретить тебя."
     }
   },
   {
@@ -393,7 +393,7 @@
     },
     "Texts": {
       "Eng": "An Apex called me a chicken the other day. So rude.",
-      "Rus": "Однажды Апекс назвал меня курицой. Так грубо."
+      "Rus": "Однажды Апекс назвал меня курицей. Как грубо..."
     }
   },
   {
@@ -1318,7 +1318,7 @@
     },
     "Texts": {
       "Eng": "Been up to much mooshi herdin' recently?",
-      "Rus": ""
+      "Rus": "Приходилось недавно пасти муши?"
     }
   },
   {
@@ -3069,7 +3069,7 @@
     },
     "Texts": {
       "Eng": "Don't go rustin' up on me like an ol' revolver!",
-      "Rus": ""
+      "Rus": "Не ржавей мне тут, аки старый револьвер!"
     }
   },
   {
@@ -5480,7 +5480,7 @@
     },
     "Texts": {
       "Eng": "Have you ever attempted the delicate artistry of flower arranging?",
-      "Rus": ""
+      "Rus": "Тебе когда-нибудь приходилось пробовать себя в тонком искусстве выкладки цветочных композиций?"
     }
   },
   {
@@ -5756,7 +5756,7 @@
     },
     "Texts": {
       "Eng": "Have you seen my paintbrushes? They have birchwood handles and sable bristles...",
-      "Rus": ""
+      "Rus": "Ты не видел мои кисточки? У них соболиная щетина и берёзовые ручки."
     }
   },
   {
@@ -6738,7 +6738,7 @@
     },
     "Texts": {
       "Eng": "How's thingss with you?",
-      "Rus": ""
+      "Rus": "Как твои дела?"
     }
   },
   {
@@ -6750,11 +6750,13 @@
     },
     "Texts": {
       "Eng": "Howdy partner! The name's <selfname>, don't forget it!",
-      "Rus": ""
+      "Rus": "Как жизнь, друже? Меня звать <selfname>, уж не забудь!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Как жизнь?"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/greeting/novakid/default/3"
@@ -6762,7 +6764,7 @@
     },
     "Texts": {
       "Eng": "Howdy there!",
-      "Rus": ""
+      "Rus": "Здорово!"
     }
   },
   {
@@ -6774,7 +6776,7 @@
     },
     "Texts": {
       "Eng": "Howdy there, friend! Keep goin' strong, and glowin' stronger!",
-      "Rus": ""
+      "Rus": "Здорово, дружище! Ступай бодрей, свети ярчей!"
     }
   },
   {
@@ -6786,7 +6788,7 @@
     },
     "Texts": {
       "Eng": "Howdy there, new blood!",
-      "Rus": ""
+      "Rus": "Приветы новоприбывшим!"
     }
   },
   {
@@ -6798,7 +6800,7 @@
     },
     "Texts": {
       "Eng": "Howdy! Have we met before? I can never remember a face...",
-      "Rus": ""
+      "Rus": "Здорово! Мы видались раньше? Совсем лиц не запоминаю..."
     }
   },
   {
@@ -6810,7 +6812,7 @@
     },
     "Texts": {
       "Eng": "Howdy.",
-      "Rus": ""
+      "Rus": "Здрасьте."
     }
   },
   {
@@ -6850,7 +6852,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Люди ведь мирная раса? Всё же иногда авианский воинственный дух берёт в них верх."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/avian/human/5"
@@ -6858,7 +6862,7 @@
     },
     "Texts": {
       "Eng": "Humans are a peaceful species, right? Sometimes an Avian's warrior side runs away with them.",
-      "Rus": ""
+      "Rus": "Люди ведь мирная раса? Иногда их одолевает по-авиански воинственный настрой."
     }
   },
   {
@@ -7602,7 +7606,7 @@
     },
     "Texts": {
       "Eng": "I don't remember much, except to keep my wits about me!",
-      "Rus": ""
+      "Rus": "Помню я немного, но аккурат столько, чтоб голову не терять!"
     }
   },
   {
@@ -7698,7 +7702,7 @@
     },
     "Texts": {
       "Eng": "I expect you polish up a treat.",
-      "Rus": ""
+      "Rus": "Думаю, после полировки ты будешь выглядеть роскошно."
     }
   },
   {
@@ -7738,7 +7742,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "У меня нет семечек, чтобы угостить тебя. Как грубо с моей стороны."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/hylotl/avian/13"
@@ -7746,7 +7752,7 @@
     },
     "Texts": {
       "Eng": "I feel rude not offering you seeds, but I have none.",
-      "Rus": ""
+      "Rus": "Ужасно невежливо с моей стороны не угостить тебя семечками, но у меня их нет."
     }
   },
   {
@@ -8059,7 +8065,7 @@
     },
     "Texts": {
       "Eng": "I have some spare feathers if you'd like to try and fit in.",
-      "Rus": ""
+      "Rus": "У меня есть лишние перья. Могу поделиться, если не хочешь здесь выделяться."
     }
   },
   {
@@ -8851,7 +8857,7 @@
     },
     "Texts": {
       "Eng": "I read some captivating poetry this morning, it absolutely transported me.",
-      "Rus": ""
+      "Rus": "Утром мне довелось прочесть потрясающие стихи. Никак не приду в себя от впечатлений."
     }
   },
   {
@@ -8987,7 +8993,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ничего не могу сделать как надо после того, как мне защемило пальцы ящиком стола.",
+      "Всё валится из рук с тех пор, как мне защемило пальцы выдвижным ящиком."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/avian/generic/43"
@@ -8995,7 +9004,7 @@
     },
     "Texts": {
       "Eng": "I shut my fingers in a draw yesterday and now I can't get anything done.",
-      "Rus": ""
+      "Rus": "Вчера мне защемило пальцы ящиком стола и всё до сих пор валится из рук."
     }
   },
   {
@@ -9128,7 +9137,7 @@
     },
     "Texts": {
       "Eng": "I sure hope you don't rust up next time it's rainin'!",
-      "Rus": ""
+      "Rus": "Дюже надеюсь, ты не поржавеешь, как дожж пойдёт!"
     }
   },
   {
@@ -9176,7 +9185,7 @@
     },
     "Texts": {
       "Eng": "I think I might have buried my spade.",
-      "Rus": ""
+      "Rus": "Кажется, моя лопата осталась под землёй."
     }
   },
   {
@@ -9392,7 +9401,7 @@
     },
     "Texts": {
       "Eng": "I used to meditate, but I couldn't stand the quiet.",
-      "Rus": ""
+      "Rus": "А я вот больше не медитирую. Спокойствие слишком тяжело мне даётся."
     }
   },
   {
@@ -9876,7 +9885,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я никогда не прочь побалагурить!",
+      "Я всегда и всяко за гульбу!"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/novakid/generic/12"
@@ -9884,7 +9896,7 @@
     },
     "Texts": {
       "Eng": "I'm always rootin' for a jamboree!",
-      "Rus": ""
+      "Rus": "Уж я-то всегда и всяко за кутёж!"
     }
   },
   {
@@ -9924,7 +9936,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Очень уж пирожка хочется.",
+      "Необоримо захотелось"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/human/generic/16"
@@ -9932,7 +9947,7 @@
     },
     "Texts": {
       "Eng": "I'm craving a Cornish pasty right now.",
-      "Rus": ""
+      "Rus": "Мне вдруг страшно захотелось корнуоллского пирога."
     }
   },
   {
@@ -10472,7 +10487,7 @@
     },
     "Texts": {
       "Eng": "I've been learning the ocarina!",
-      "Rus": ""
+      "Rus": "Я немного умею играть на окарине!"
     }
   },
   {
@@ -11724,7 +11739,7 @@
     },
     "Texts": {
       "Eng": "It's hard to capture the delicacy and diaphanousness of feathers with ink.",
-      "Rus": ""
+      "Rus": "Чернилами сложно передать нежность и воздушность перьев."
     }
   },
   {
@@ -12216,7 +12231,7 @@
     },
     "Texts": {
       "Eng": "Let's play clunky jacks!",
-      "Rus": ""
+      "Rus": "Отчего ж не сыграть!"
     }
   },
   {
@@ -14677,7 +14692,7 @@
     },
     "Texts": {
       "Eng": "Sometimes I like to pretend I'm an old timey knight!",
-      "Rus": ""
+      "Rus": "Иногда мне нравится воображать себя рыцарем из былых времён!"
     }
   },
   {
@@ -14857,7 +14872,7 @@
     },
     "Texts": {
       "Eng": "Sssilly monkey, Floran like.",
-      "Rus": ""
+      "Rus": "Глупая обезьянка. Флорану нравитссся."
     }
   },
   {
@@ -15125,7 +15140,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Щупальца, а? Кому вообще нужны щупальца? Не, серьёзно, они ужасны."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/human/human/12"
@@ -15133,7 +15150,7 @@
     },
     "Texts": {
       "Eng": "Tentacles, eh? Who'd have 'em? Seriously though, they're the worst.",
-      "Rus": "Щупальца, хех? Кто бы их имел? Не, серьёзно, они ужасны."
+      "Rus": "Щупальца, а? Зачем они вообще? Не, серьёзно, они ужасны."
     }
   },
   {
@@ -15233,7 +15250,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Глитчи очень забавно говорят... Зато всегда по делу. "
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/human/glitch/9"
@@ -15241,7 +15260,7 @@
     },
     "Texts": {
       "Eng": "The Glitch have a funny way of talking... Cuts out the flim-flam though.",
-      "Rus": ""
+      "Rus": "У Глитчей забавная манера речи... Зато говорят всегда по делу."
     }
   },
   {
@@ -15665,7 +15684,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "У нас так говорят: коли муши пасутся у реки - не пей воды ниже по течению.",
+      "Есть старая поговорка: всегда пей против стада муши."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/novakid/generic/8"
@@ -15673,11 +15695,13 @@
     },
     "Texts": {
       "Eng": "There's an ol' saying - always drink upstream from the mooshi herd.",
-      "Rus": "Есть старая поговорка: всегда пей против стада муши."
+      "Rus": "Есть старинная пословица: углядел муши у реки - не пей воды ниже по течению."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "О вкусах в моде не спорят..."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/glitch/generic/81/glitchEmotedText"
@@ -15685,7 +15709,7 @@
     },
     "Texts": {
       "Eng": "There's no accounting for tastes in fashion...",
-      "Rus": ""
+      "Rus": "Предпочтения в моде не требуют обоснования..."
     }
   },
   {
@@ -15889,7 +15913,7 @@
     },
     "Texts": {
       "Eng": "Tomorrow is a new day. Mind you, so was yesterday at some point, and that was not so great.",
-      "Rus": ""
+      "Rus": "Завтра новый день. Заметь, что таким же когда-то было и вчера и оно в итоге оказалось не очень."
     }
   },
   {
@@ -16100,7 +16124,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "У нас здесь нет жёсткой иерархии."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/avian/generic/15"
@@ -16108,7 +16134,7 @@
     },
     "Texts": {
       "Eng": "We don't have much of a pecking order here.",
-      "Rus": ""
+      "Rus": "У нас здесь не принято клевать друг друга."
     }
   },
   {
@@ -16353,7 +16379,7 @@
     },
     "Texts": {
       "Eng": "Well howdy!",
-      "Rus": ""
+      "Rus": "Здоров будь!"
     }
   },
   {
@@ -16365,7 +16391,7 @@
     },
     "Texts": {
       "Eng": "Well it's mighty fine to meet you, partner!",
-      "Rus": ""
+      "Rus": "Крепко рад знаться с тобою, дружище!"
     }
   },
   {
@@ -16377,7 +16403,7 @@
     },
     "Texts": {
       "Eng": "Well met, my feathered friend.",
-      "Rus": ""
+      "Rus": "Рад встрече, мой пернатый друг."
     }
   },
   {
@@ -16389,7 +16415,7 @@
     },
     "Texts": {
       "Eng": "Well shucks, you look kinda like me! Have we met before, partner? I can't remember...",
-      "Rus": ""
+      "Rus": "Во дела, да ты на вид прям как я! Мы, поди, знакомы, дружище? Совсем ничего не помню..."
     }
   },
   {
@@ -16509,7 +16535,7 @@
     },
     "Texts": {
       "Eng": "What a hectic day! I feel that it's time to seek tranquillity.",
-      "Rus": ""
+      "Rus": "Что за сумбурный день! Чувствую, мне пора искать умиротворения."
     }
   },
   {
@@ -16569,11 +16595,13 @@
     },
     "Texts": {
       "Eng": "What a strange encounter.",
-      "Rus": ""
+      "Rus": "Какая странная встреча."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Какое удовольствие встретить глитча."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/hylotl/glitch/17"
@@ -16581,11 +16609,13 @@
     },
     "Texts": {
       "Eng": "What a wonderful treat to meet a Glitch.",
-      "Rus": ""
+      "Rus": "Что за дивный подарок судьбы - встреча с глитчем."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Какой чудесный у тебя вид!"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/hylotl/novakid/11"
@@ -16593,7 +16623,7 @@
     },
     "Texts": {
       "Eng": "What a wondrous sight you are!",
-      "Rus": ""
+      "Rus": "Ты так чудесно выглядишь!"
     }
   },
   {
@@ -16605,7 +16635,7 @@
     },
     "Texts": {
       "Eng": "What are you doing here?",
-      "Rus": ""
+      "Rus": "Что ты здесь делаешь?"
     }
   },
   {
@@ -16617,7 +16647,7 @@
     },
     "Texts": {
       "Eng": "What are you here to do?",
-      "Rus": ""
+      "Rus": "Зачем ты здесь?"
     }
   },
   {
@@ -16629,7 +16659,7 @@
     },
     "Texts": {
       "Eng": "What are you made of?",
-      "Rus": ""
+      "Rus": "Из чего сделано твоё тело?"
     }
   },
   {
@@ -16670,7 +16700,7 @@
     },
     "Texts": {
       "Eng": "What are you? I have never seen your kind before.",
-      "Rus": ""
+      "Rus": "Что ты за существо? Впервые вижу такого, как ты."
     }
   },
   {
@@ -16682,7 +16712,7 @@
     },
     "Texts": {
       "Eng": "What brings you here bird man?",
-      "Rus": ""
+      "Rus": "Что привело тебя сюда, разумная птица?"
     }
   },
   {
@@ -16694,7 +16724,7 @@
     },
     "Texts": {
       "Eng": "What brings you here friend?",
-      "Rus": ""
+      "Rus": "Что привело тебя сюда, друг?"
     }
   },
   {
@@ -16706,7 +16736,7 @@
     },
     "Texts": {
       "Eng": "What could I have done with my hat? I just had it in my hand!",
-      "Rus": ""
+      "Rus": "Куда могла деться моя шляпа? Она только что была у меня в руке!"
     }
   },
   {
@@ -16718,7 +16748,7 @@
     },
     "Texts": {
       "Eng": "What do Hylotl do when they need to take a bath?",
-      "Rus": ""
+      "Rus": "Что делают хилотлы, когда хотят принять ванну?"
     }
   },
   {
@@ -16730,11 +16760,13 @@
     },
     "Texts": {
       "Eng": "What do the Avians do for fun?",
-      "Rus": ""
+      "Rus": "Как развлекаются авиане?"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Что Протекторат думает о воинственной культуре авиан?"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/avian/avian/7"
@@ -16742,7 +16774,7 @@
     },
     "Texts": {
       "Eng": "What do the Protectorate think of Avian warrior culture?",
-      "Rus": ""
+      "Rus": "Как в Протекторате относятся к воинственной культуре авиан?"
     }
   },
   {
@@ -16754,7 +16786,7 @@
     },
     "Texts": {
       "Eng": "What do they call you, partner?",
-      "Rus": ""
+      "Rus": "Как-бишь они тебя кличут, дружище?"
     }
   },
   {
@@ -16766,7 +16798,7 @@
     },
     "Texts": {
       "Eng": "What do you do when darkness gathers?",
-      "Rus": ""
+      "Rus": "Что ты делаешь, когда сгущается тьма?"
     }
   },
   {
@@ -16778,7 +16810,7 @@
     },
     "Texts": {
       "Eng": "What do you think o' this place. Sorta nice, ain't it?",
-      "Rus": ""
+      "Rus": "Что думаешь о здешних местах? Славно тут, правда?"
     }
   },
   {
@@ -18604,7 +18636,7 @@
     },
     "Texts": {
       "Eng": "You look like fun, can I chassse you?",
-      "Rus": ""
+      "Rus": "Ты выглядишь забавно. Можно я погоняюсссь за тобой?"
     }
   },
   {
@@ -18616,7 +18648,7 @@
     },
     "Texts": {
       "Eng": "You look like somebody who can survive on their own. That is a good skill to have.",
-      "Rus": ""
+      "Rus": "Ты выглядишь как тот, кто может выживать своими силами. Это хороший навык."
     }
   },
   {
@@ -18640,7 +18672,7 @@
     },
     "Texts": {
       "Eng": "You look like you could cook meat with your bare handss!",
-      "Rus": ""
+      "Rus": "Ты выглядишь так, будто можешь приготовить мясссо голыми руками!"
     }
   },
   {
@@ -18664,7 +18696,7 @@
     },
     "Texts": {
       "Eng": "You look like you've been dragged through a bush backwards.",
-      "Rus": ""
+      "Rus": "Ты выглядишь будто после взрыва на макаронной фабрике."
     }
   },
   {
@@ -18676,7 +18708,7 @@
     },
     "Texts": {
       "Eng": "You look like you've been though some things lately.",
-      "Rus": ""
+      "Rus": "Ты выглядишь будто тобой недавно было пережито нечто."
     }
   },
   {
@@ -18688,7 +18720,7 @@
     },
     "Texts": {
       "Eng": "You look pretty strong, like a wrestler.",
-      "Rus": ""
+      "Rus": "Ты выглядишь весьма сильным, прямо как рестлер."
     }
   },
   {
@@ -18700,7 +18732,7 @@
     },
     "Texts": {
       "Eng": "You look so cool. I wish I was you.",
-      "Rus": ""
+      "Rus": "Ты выглядишь так круто. Я бы хотел быть тобой."
     }
   },
   {
@@ -18712,7 +18744,7 @@
     },
     "Texts": {
       "Eng": "You look so slippery.",
-      "Rus": ""
+      "Rus": "Ты выглядишь таким скользким."
     }
   },
   {
@@ -18724,7 +18756,7 @@
     },
     "Texts": {
       "Eng": "You look so warm and fluffy.",
-      "Rus": ""
+      "Rus": "Ты выглядишь таким тёплым и пушистым."
     }
   },
   {
@@ -18736,7 +18768,7 @@
     },
     "Texts": {
       "Eng": "You look strong.",
-      "Rus": ""
+      "Rus": "Ты выглядишь сильным."
     }
   },
   {
@@ -18748,7 +18780,7 @@
     },
     "Texts": {
       "Eng": "You look t'me like you got some troubles weighin' down on yer.",
-      "Rus": ""
+      "Rus": "Ты мне напоминаешь того, у кого на шее повисли кое-какие проблемы."
     }
   },
   {
@@ -18760,7 +18792,7 @@
     },
     "Texts": {
       "Eng": "You look very strong.",
-      "Rus": ""
+      "Rus": "Ты выглядишь очень сильным."
     }
   },
   {
@@ -18772,7 +18804,7 @@
     },
     "Texts": {
       "Eng": "You make me think of forests, and light through leaves.",
-      "Rus": ""
+      "Rus": "Ты напоминаешь мне о лесе и о лучах солнца, пробивающихся сквозь листву."
     }
   },
   {
@@ -18784,7 +18816,7 @@
     },
     "Texts": {
       "Eng": "You make me think of the garden I had when I was growing up on Earth.",
-      "Rus": ""
+      "Rus": "Ты напоминаешь мне о саде, что был у меня, когда я был маленьким на Земле."
     }
   },
   {
@@ -18796,7 +18828,7 @@
     },
     "Texts": {
       "Eng": "You may look mighty fleshy an' fragile, but if you can shoot fast you're still a fine type.",
-      "Rus": ""
+      "Rus": "Может ты и выглядишь хрупко и мясисто, да только покуда можешь быстро стрелять, ты останешься хорошим типом."
     }
   },
   {
@@ -18808,7 +18840,7 @@
     },
     "Texts": {
       "Eng": "You may rest here any time, ape man.",
-      "Rus": ""
+      "Rus": "Ты можешь отдыхать тут сколько захочешь, разумная обезьяна."
     }
   },
   {
@@ -18820,7 +18852,7 @@
     },
     "Texts": {
       "Eng": "You may seem civilised but I'm still uneasy around your kind...",
-      "Rus": ""
+      "Rus": "Хоть ты и кажешься цивилизованным, мне всё ещё тяжело иметь дело с такими как ты..."
     }
   },
   {
@@ -18844,7 +18876,7 @@
     },
     "Texts": {
       "Eng": "You might not know just how much my people fear the Floran.",
-      "Rus": ""
+      "Rus": "Возможно ты просто не знаешь насколько сильно мой народ боится флоран."
     }
   },
   {
@@ -18856,7 +18888,7 @@
     },
     "Texts": {
       "Eng": "You must be a skilled navigator to fly that spacecraft of yours.",
-      "Rus": ""
+      "Rus": "Должно быть ты умелый пилот, раз летаешь на своём космическом корабле."
     }
   },
   {
@@ -18868,7 +18900,7 @@
     },
     "Texts": {
       "Eng": "You must get cold without this luxuriant layer of hair.",
-      "Rus": ""
+      "Rus": "Тебе должно быть холодно без такого пышного слоя меха."
     }
   },
   {
@@ -18880,7 +18912,7 @@
     },
     "Texts": {
       "Eng": "You must never have to buy torch oil.",
-      "Rus": ""
+      "Rus": "Должно быть тебе никогда не нужно покупать масло для факела."
     }
   },
   {
@@ -18892,7 +18924,7 @@
     },
     "Texts": {
       "Eng": "You need to borrow a comb? Just ask.",
-      "Rus": ""
+      "Rus": "Одолжить расчёску? Просто попроси."
     }
   },
   {

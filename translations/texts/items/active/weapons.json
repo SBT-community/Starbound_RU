@@ -2,6 +2,24 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "items/active/weapons/melee/abilities/broadsword/flamethrowersword/flamethrowersword.weaponability": [
+        "/ability/name"
+      ],
+      "items/active/weapons/ranged/abilities/flamethrower/flamethrower.weaponability": [
+        "/ability/name"
+      ],
+      "items/active/weapons/ranged/flamethrower/flamethrower.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flamethrower",
+      "Rus": "Огнемёт"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "items/active/weapons/novakid/titaniumsniperrifle.activeitem": [
         "/description"
       ],

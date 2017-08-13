@@ -11,7 +11,7 @@
     },
     "Texts": {
       "Eng": "<craftedItems> will be very ussseful. Floran thanks you for making these.",
-      "Rus": "<craftedItems> очень полезная вещщь. Флоран ссскажет ссспасибо, если ты принесешшь это."
+      "Rus": "<craftedItems> будет очень полезно. Флоран благодарен тебе."
     }
   },
   {
@@ -26,7 +26,7 @@
     },
     "Texts": {
       "Eng": "Floran needsss ^orange;<craftedItems>.^green; They can be crafted from ^orange;<ingredients>. ^white;Can you help?",
-      "Rus": "Флорану нужна ^orange;<craftedItems>.^green; Это может быть сделано из ^orange;<ingredients>. ^white;Можешь помочь?"
+      "Rus": "Флорану требуется ^orange;<craftedItems>.^green; Это может быть сделано из ^orange;<ingredients>. ^white;Можешь помочь?"
     }
   },
   {
@@ -40,7 +40,7 @@
     },
     "Texts": {
       "Eng": "Here is the point at which I falter. My creative ability is below average,  ^green;would you be so kind as to craft ^orange;<craftedItems>^white; on my behalf? You can use the ^orange;<ingredients>^white; we obtained earlier.",
-      "Rus": "Здесь я провалился. Мои творческие способности ниже среднего, ^green;не могли бы вы создать ^orange;<craftedItems>^white; от моего имени? Ты можешь использовать ^orange;<ingredients>^white; что мы получили ранее."
+      "Rus": "Здесь я провалил<questGiver.pronoun.verb3Ending>. Мои творческие способности ниже среднего, поэтому ^green;можешь создать ^orange;<craftedItems>^white; от моего имени? Ты можешь использовать ^orange;<ingredients>^white; что мы получили ранее."
     }
   },
   {
@@ -55,7 +55,7 @@
     },
     "Texts": {
       "Eng": "Next you'll need to ^green;assemble ^orange;<craftedItems>^white;. You should be able to ^green;use the ^orange;<ingredients>^white; that you gathered earlier.",
-      "Rus": "Следующее что вам нужно это ^green;собрать^orange;<craftedItems>^white;. У вас есть возможность ^green;использовать ^orange;<ingredients>^white; что вы собрали ранее."
+      "Rus": "Следующее что тебе нужно, это ^green;собрать^orange;<craftedItems>^white;. Ты можешь ^green;использовать ^orange;<ingredients>^white;, что ты собрал<player.pronoun.verbEnding> ранее."
     }
   },
   {
@@ -69,7 +69,7 @@
     },
     "Texts": {
       "Eng": "Now for the real task at hand,  ^green;you must craft ^orange;<craftedItems>^white; for me. You already have all the materials you need, and my gratitude.",
-      "Rus": "Сейчас для поставленной задачи, ^green;вы должны создать ^orange;<craftedItems>^white;  для меня. У вас уже есть все материалы для этого, моё уважение!"
+      "Rus": "Сейчас для поставленной задачи, ^green;ты долж<player.pronoun.verb2Ending> создать ^orange;<craftedItems>^white; для меня. У тебя уже есть все нужные материалы, и моя благодарность!"
     }
   },
   {
@@ -84,7 +84,7 @@
     },
     "Texts": {
       "Eng": "Now you have the crafting ingredientsss we need. ^green;Make Floran ^orange;<craftedItems>.",
-      "Rus": "Теперь у тебя есть все ингридиенты для создания. ^green;Флорану нужна ^orange;<craftedItems>."
+      "Rus": "Теперь у тебя есть все ингредиенты, которые нам нужны. ^green;Сделай Флорану ^orange;<craftedItems>."
     }
   },
   {
@@ -98,7 +98,7 @@
     },
     "Texts": {
       "Eng": "Ssskillfully crafted, <player>! Now Floran has another request.",
-      "Rus": "Умело сссоздано, <player>! Теперь у ФЛорана есть другая просьба."
+      "Rus": "Умело сссоздано, <player>! Теперь у Флорана есть другая просьба."
     }
   },
   {
@@ -113,7 +113,7 @@
     },
     "Texts": {
       "Eng": "The next step requires ^green;putting together ^orange;<craftedItems>^white;. I would do it myself, but my crafting skills are terrible! If you want to take a shot, you should have everything you need.",
-      "Rus": "Следующий шаг требует  ^green;соединения вместе ^orange;<craftedItems>^white;. Я бы сделал это сам, но ничего в этом не смыслю. Можете взять это на себе, у вас должно быть всё что нужно."
+      "Rus": "Следующий шаг требует  ^green;создания ^orange;<craftedItems>^white;. Я бы сделал<questGiver.pronoun.verbEnding> это сам<questGiver.pronoun.verbEnding>, но ничего в этом не смыслю. Если хочешь попробовать, то у тебя есть все материалы."
     }
   },
   {
@@ -125,7 +125,7 @@
     },
     "Texts": {
       "Eng": "The wait has been agonising but at last my plans can go ahead, all thanks to you! ",
-      "Rus": "Ожидание было мучительным, но наконец-то мои планы сбудутся, спасибо тебе!"
+      "Rus": "Ожидание было мучительным, но наконец-то мои планы сбудутся, спасибо!"
     }
   },
   {
@@ -139,7 +139,7 @@
     },
     "Texts": {
       "Eng": "Wow, very well constructed. Thank you, this is going to work nicely for what I have planned.",
-      "Rus": "Вау, хорошо сконструировано! Спасибо тебе, эта вещь послужить мне хорошую службу."
+      "Rus": "Вау, неплохо сделано! Спасибо тебе, эта вещь послужит мне хорошую службу."
     }
   },
   {
@@ -153,7 +153,7 @@
     },
     "Texts": {
       "Eng": "You made that look easy! I suspect you've done some crafting before. With this we can finally move forward. Thanks!",
-      "Rus": "Ты сделал это так легко! Я подозреваю, что ты подготовился заранее. Теперь я наконец-то могу продвинуться вперед. Спасибо!"
+      "Rus": "Ты сделал<player.pronoun.verbEnding> это так легко! Я подозреваю, что ты подготовил<player.pronoun.verb3Ending> заранее. Теперь я наконец-то могу продвинуться вперед. Спасибо!"
     }
   },
   {
@@ -165,7 +165,7 @@
     },
     "Texts": {
       "Eng": "Your craftsmanship is truly splendid! I'll be sure to call on you again in future. ",
-      "Rus": "Ваше мастерство поистине великолепно! Я уверен что еще раз свяжусь с вами в будущем."
+      "Rus": "Твоё мастерство поистине великолепно! Я уверен<questGiver.pronoun.verbEnding>, что еще раз свяжусь с тобой в будущем."
     }
   }
 ]

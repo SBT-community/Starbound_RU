@@ -23,7 +23,7 @@
     },
     "Texts": {
       "Eng": "Floran sssaw ^orange;<enemy>^white; whilst Floran was <floranmotivation> <earlier>. They were at the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Floran <floransuspicious> - ^green;could you investigate^white;?",
-      "Rus": "Когда Флоран <earlier> <floranmotivation>, он видел, как ^orange;<enemy>^white; ошивались неподалёку - у ^orange;<spawnPoint>^white;<spawnPoint.direction>. Флоран <floransuspicious> - ^green;ты не мог бы разобраться^white;?"
+      "Rus": "Когда Флоран <earlier> <floranmotivation>, он видел, как ^orange;<enemy>^white; ошивались неподалёку - у ^orange;<spawnPoint>^white; <spawnPoint.direction>. Флоран <floransuspicious> - ^green;ты не мог бы разобраться^white;?"
     }
   },
   {
@@ -36,7 +36,7 @@
     },
     "Texts": {
       "Eng": "I <activity> <earlier>, when ^orange;<enemy>^white; <crime1>. I'm feeling <reaction> and <justice1>. It happened near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Could you <request>^white;?",
-      "Rus": "Я <earlier> <activity>, как вдруг какие-то ^orange;<enemy>^white; <crime1>. Я <reaction> и <justice1>. Это случилось около ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Ты можешь <request>^white;?"
+      "Rus": "Я <earlier> <activity>, как вдруг какие-то ^orange;<enemy>^white; <crime1>. Я <reaction> и <justice1>. Это случилось около ^orange;<spawnPoint>^white; \n<spawnPoint.direction>. ^green;Ты можешь <request>^white;?"
     }
   },
   {
@@ -177,7 +177,7 @@
     },
     "Texts": {
       "Eng": "Sssome ^orange;<enemy>^white; chased Floran whilst Floran was <floranmotivation> <earlier>! Floran <floransuspicious>, but Floran <floranexcuse>. It happened at the ^orange;<spawnPoint>^white;<spawnPoint.direction> -  ^green;can you <request> for Floran^white;?",
-      "Rus": "Какие-то ^orange;<enemy>^white; погнались за Флораном, когда он <earlier> <floranmotivation>! Флоран <floransuspicious>, но <floranexcuse> - поэтому ^green;ты не мог бы <request>^white;? Это случилось неподалёку от ^orange;<spawnPoint>^white;<spawnPoint.direction>."
+      "Rus": "Какие-то ^orange;<enemy>^white; погнались за Флораном, когда он <earlier> <floranmotivation>! Флоран <floransuspicious>, но <floranexcuse> - поэтому ^green;ты не мог бы <request>^white;? Это случилось неподалёку от ^orange;<spawnPoint>^white; \n<spawnPoint.direction>."
     }
   },
   {
