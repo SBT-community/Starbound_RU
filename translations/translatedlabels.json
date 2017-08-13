@@ -855,7 +855,7 @@
                   "barrier.weaponability.json": 1
                 },
                 "elementalspin": {
-                  "elementalspin.weaponability.json": 0
+                  "elementalspin.weaponability.json": 1
                 },
                 "flurry": {
                   "flurry.weaponability.json": 1
@@ -4605,7 +4605,6 @@
       "blacksmith.npctype.json": 9,
       "crew": {
         "crewmember.npctype.json": 164,
-
         "crewmemberchemist.npctype.json": 7,
         "crewmemberengineer.npctype.json": 2,
         "crewmemberjanitor.npctype.json": 3,
