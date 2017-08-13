@@ -705,7 +705,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A fun song!"
+      "Eng": "A fun song!",
+      "Rus": "Весёлая песня!"
     }
   },
   {
@@ -716,7 +717,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A lovesick octopus!"
+      "Eng": "A lovesick octopus!",
+      "Rus": "Ищущий любви осьминог!"
     }
   },
   {
@@ -727,7 +729,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A romantic song!"
+      "Eng": "A romantic song!",
+      "Rus": "Романтическая песня!"
     }
   },
   {
@@ -738,7 +741,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A sad bear!"
+      "Eng": "A sad bear!",
+      "Rus": "Грустный медведь!"
     }
   },
   {
@@ -749,7 +753,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A talking fish!"
+      "Eng": "A talking fish!",
+      "Rus": "Говорящая рыба!"
     }
   },
   {
@@ -760,7 +765,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A youth club!"
+      "Eng": "A youth club!",
+      "Rus": "Молодёжный клуб!"
     }
   },
   {
@@ -783,7 +789,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An alien of some kind?"
+      "Eng": "An alien of some kind?",
+      "Rus": "Чужой в каком-то роде?"
     }
   },
   {
@@ -838,7 +845,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Can I see?"
+      "Eng": "Can I see?",
+      "Rus": "Могу я взглянуть?"
     }
   },
   {
@@ -849,7 +857,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Continue Studying"
+      "Eng": "Continue Studying",
+      "Rus": "Продолжить обучаться"
     }
   },
   {
@@ -864,7 +873,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Кричи за помощью"
+    ],
     "Files": {
       "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
         "/scenes/intro12/options/1/0"
@@ -872,7 +883,7 @@
     },
     "Texts": {
       "Eng": "Cry for help",
-      "Rus": "Кричи за помощью"
+      "Rus": "Кричать за помощью"
     }
   },
   {
@@ -895,7 +906,7 @@
     },
     "Texts": {
       "Eng": "Find great love in the distant past",
-      "Rus": ""
+      "Rus": "Найти прекрасную любовь в далёком прошлом"
     }
   },
   {
@@ -908,7 +919,7 @@
     },
     "Texts": {
       "Eng": "Give her a romantic fake name",
-      "Rus": ""
+      "Rus": "Назвать её романтичным псевдонимом"
     }
   },
   {
@@ -944,7 +955,7 @@
     },
     "Texts": {
       "Eng": "He loves a Hylotl!",
-      "Rus": "Он любит хилотлов."
+      "Rus": "Он любит хилотлов!"
     }
   },
   {
@@ -956,7 +967,7 @@
     },
     "Texts": {
       "Eng": "His house is being foreclosed!",
-      "Rus": ""
+      "Rus": "Его дом лишён права пользования!"
     }
   },
   {
@@ -1016,7 +1027,7 @@
     },
     "Texts": {
       "Eng": "I ask her what she means.",
-      "Rus": ""
+      "Rus": "Я спросил её о том, что она имеет ввиду."
     }
   },
   {
@@ -1029,7 +1040,7 @@
     },
     "Texts": {
       "Eng": "I ask her why her ceremony wasn't complete.",
-      "Rus": ""
+      "Rus": "Я спросил её о том, почему церемония не была закончена."
     }
   },
   {
