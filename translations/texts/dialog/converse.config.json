@@ -16822,7 +16822,7 @@
     },
     "Texts": {
       "Eng": "What do you think of bananas?",
-      "Rus": ""
+      "Rus": "Что думаешь о бананах?"
     }
   },
   {
@@ -16834,7 +16834,7 @@
     },
     "Texts": {
       "Eng": "What do you think of this place?",
-      "Rus": ""
+      "Rus": "Как тебе это место?"
     }
   },
   {
@@ -16846,7 +16846,7 @@
     },
     "Texts": {
       "Eng": "What do you want to talk about?",
-      "Rus": ""
+      "Rus": "О чём хочешь поговорить?"
     }
   },
   {
@@ -16858,11 +16858,13 @@
     },
     "Texts": {
       "Eng": "What does Kluex look like?",
-      "Rus": ""
+      "Rus": "Как выглядит Клюэкс?"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Как выглядит мир, когда ты озаряешь его собственным светом? "
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/hylotl/novakid/4"
@@ -16870,11 +16872,13 @@
     },
     "Texts": {
       "Eng": "What does the world look like, when you cast your own light?",
-      "Rus": ""
+      "Rus": "Как выглядит мир, когда его озаряет твой собственный свет?"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      ""
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/novakid/hylotl/1"
@@ -16882,7 +16886,7 @@
     },
     "Texts": {
       "Eng": "What does your big ol' third eye let you see? Is it a secret?",
-      "Rus": ""
+      "Rus": "Что ты видишь энтим здоровым глазищем посерёд лба? Иль то секрет?"
     }
   },
   {
@@ -16894,7 +16898,7 @@
     },
     "Texts": {
       "Eng": "What experiment produced you?",
-      "Rus": ""
+      "Rus": "Что за эксперимент породил тебя?"
     }
   },
   {
@@ -16906,11 +16910,13 @@
     },
     "Texts": {
       "Eng": "What function does your pelt serve Ape man?",
-      "Rus": ""
+      "Rus": "Какова функция твоего шерстяного покрова, разумный примат?"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      ""
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/glitch/human/4/glitchEmotedText"
@@ -16918,7 +16924,7 @@
     },
     "Texts": {
       "Eng": "What happened to Earth was so sad.",
-      "Rus": ""
+      "Rus": "То, что случилось с Землёй, так печально."
     }
   },
   {
@@ -16930,7 +16936,7 @@
     },
     "Texts": {
       "Eng": "What if we're really just shaved Apex?",
-      "Rus": ""
+      "Rus": "Что, если мы на самом деле просто бритые апексы?"
     }
   },
   {
@@ -16942,7 +16948,7 @@
     },
     "Texts": {
       "Eng": "What is \"Oppression\"?",
-      "Rus": ""
+      "Rus": "Что такое \"угнетение\"?"
     }
   },
   {
@@ -16954,7 +16960,7 @@
     },
     "Texts": {
       "Eng": "What is \"Pacifist\"?",
-      "Rus": ""
+      "Rus": "Что такое \"пацифизм\"?"
     }
   },
   {
@@ -16966,7 +16972,7 @@
     },
     "Texts": {
       "Eng": "What is \"Romance\"?",
-      "Rus": ""
+      "Rus": "Что такое \"романтика\"?"
     }
   },
   {
@@ -16978,7 +16984,7 @@
     },
     "Texts": {
       "Eng": "What is Big Ape actually like, do you think?",
-      "Rus": ""
+      "Rus": "Как думаешь, каков Большой Эйп на самом деле?"
     }
   },
   {
@@ -16990,7 +16996,7 @@
     },
     "Texts": {
       "Eng": "What is a Miniknog?",
-      "Rus": ""
+      "Rus": "Чем занимается ваше Министерство?"
     }
   },
   {
@@ -17002,7 +17008,7 @@
     },
     "Texts": {
       "Eng": "What is happening here?",
-      "Rus": ""
+      "Rus": "Что здесь происходит?"
     }
   },
   {
@@ -17014,7 +17020,7 @@
     },
     "Texts": {
       "Eng": "What is it like to be human?",
-      "Rus": ""
+      "Rus": "Каково быть человеком?"
     }
   },
   {
@@ -17026,11 +17032,13 @@
     },
     "Texts": {
       "Eng": "What is it like to belong under the ocean?",
-      "Rus": ""
+      "Rus": "Каково это, когда твой дом на дне океана?"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Какие дела привели тебя сюда?"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/glitch/generic/0/glitchEmotedText"
@@ -17038,11 +17046,13 @@
     },
     "Texts": {
       "Eng": "What is your business here?",
-      "Rus": ""
+      "Rus": "Чем ты здесь занимаешься?"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Какой была Земля? О... наверное, я слишком рано задаю такие вопросы. Прости."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/apex/human/13"
@@ -17050,11 +17060,14 @@
     },
     "Texts": {
       "Eng": "What kind of planet was Earth? Oh... Is it too soon to ask this question? My bad.",
-      "Rus": ""
+      "Rus": "Какой была Земля? О... наверное, пока не следует задавать таких вопросов. Прости."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "На каком растении вы созреваете?",
+      "Из какого растения вы появляетесь на свет?"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/avian/floran/23"
@@ -17062,7 +17075,7 @@
     },
     "Texts": {
       "Eng": "What kind of plant did you grow from?",
-      "Rus": ""
+      "Rus": "Из какого растения вы вырастаете?"
     }
   },
   {
@@ -17074,7 +17087,7 @@
     },
     "Texts": {
       "Eng": "What kinda folk are you? You ain't even glowing... Not that I discriminate, o' course.",
-      "Rus": ""
+      "Rus": "Что ж вы за ребята такие? Даже не светитесь... Но я не глумлюсь, право слово."
     }
   },
   {
