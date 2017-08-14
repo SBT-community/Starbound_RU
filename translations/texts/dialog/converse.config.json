@@ -92,7 +92,7 @@
     },
     "Texts": {
       "Eng": "A greenfinger could figure out how you work inside.",
-      "Rus": "Древоуст мог бы разобраться, как ты устроен."
+      "Rus": "Древоуст мог бы разобраться, как ты работаешь."
     }
   },
   {
@@ -17091,7 +17091,7 @@
     },
     "Texts": {
       "Eng": "What kinda folk are you? You ain't even glowing... Not that I discriminate, o' course.",
-      "Rus": "Что ж вы за ребята такие? Даже не светитесь... Но я не глумлюсь, право слово."
+      "Rus": "Что вы за народ такой? Даже не светитесь... Но я не глумлюсь, право слово."
     }
   },
   {
@@ -18953,7 +18953,7 @@
     },
     "Texts": {
       "Eng": "You really brighten up the place.",
-      "Rus": ""
+      "Rus": "С тобой это место выглядит светлее."
     }
   },
   {
@@ -18965,11 +18965,13 @@
     },
     "Texts": {
       "Eng": "You reek of wet dog! Or, I guess, wet ape.",
-      "Rus": ""
+      "Rus": "От тебя несёт мокрой псиной! Или наверное, мокрой обезьяной."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ты напоминаешь лес, где мне однажды довелось побывать - прекрасный и безмятежный, но таящий опасность."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/hylotl/floran/12"
@@ -18977,7 +18979,7 @@
     },
     "Texts": {
       "Eng": "You remind me of a forest I once visited; serene and beautiful, but with danger within.",
-      "Rus": ""
+      "Rus": "Однажды мне довелось побывать в лесу, похожем на тебя - прекрасном и безмятежном, но таящем опасность."
     }
   },
   {
@@ -18989,7 +18991,7 @@
     },
     "Texts": {
       "Eng": "You remind me of a parrot fish I once saw.",
-      "Rus": ""
+      "Rus": "Ты напоминаешь мне рыбу-попугая, которую мне однажды довелось видеть."
     }
   },
   {
@@ -19001,7 +19003,7 @@
     },
     "Texts": {
       "Eng": "You remind me of an oculemon I once ate.",
-      "Rus": ""
+      "Rus": "Глядя на тебя, вспоминаю, как мне довелось попробовать окулемон."
     }
   },
   {
@@ -19013,11 +19015,13 @@
     },
     "Texts": {
       "Eng": "You remind me of holidays at the beach.",
-      "Rus": ""
+      "Rus": "Ты напоминаешь мне о выходных, проведённых на пляже."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Увидишь солдата Министерства, смотри в пол и не двигай руками."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/apex/generic/7"
@@ -19025,7 +19029,7 @@
     },
     "Texts": {
       "Eng": "You see a Miniknog soldier, you keep your eyes down and your hands still.",
-      "Rus": ""
+      "Rus": "Увидишь солдата Министерства, опусти глаза и держи руки на виду."
     }
   },
   {
@@ -19037,11 +19041,13 @@
     },
     "Texts": {
       "Eng": "You seem both elegant and refined.",
-      "Rus": ""
+      "Rus": "Ты выглядишь элегантно и утончённо."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Как для флорана, ты весьма неглупый собеседник. Может быть, ты и искусство ценишь?"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/hylotl/floran/27"
@@ -19049,7 +19055,7 @@
     },
     "Texts": {
       "Eng": "You seem clever for a Floran. Do you appreciate art as well?",
-      "Rus": ""
+      "Rus": "Хоть ты и флоран, но, похоже, неглупый. Может быть, ты и искусство ценишь?"
     }
   },
   {
@@ -19061,11 +19067,13 @@
     },
     "Texts": {
       "Eng": "You seem friendly.",
-      "Rus": ""
+      "Rus": "Ты выглядишь дружелюбно."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ты выглядишь интеллигентным созданием."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/human/hylotl/23"
@@ -19073,7 +19081,7 @@
     },
     "Texts": {
       "Eng": "You seem like a cultured kind of person.",
-      "Rus": ""
+      "Rus": "Ты производишь впечатление культурного существа."
     }
   },
   {
@@ -19085,11 +19093,13 @@
     },
     "Texts": {
       "Eng": "You seem like a nice sort.",
-      "Rus": ""
+      "Rus": "Думаю, с тобой приятно иметь дело."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "А ты, вижу, знаешь себе цену!"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/greeting/novakid/default/14"
@@ -19097,7 +19107,7 @@
     },
     "Texts": {
       "Eng": "You seem like an ace-high type!",
-      "Rus": ""
+      "Rus": "А ты, вижу, не промах!"
     }
   },
   {
@@ -19109,7 +19119,7 @@
     },
     "Texts": {
       "Eng": "You seem overwhelmed, do you need me to take you under my wing?",
-      "Rus": ""
+      "Rus": "Ты выглядишь подавленно. Если хочешь, я могу взять тебя под крыло."
     }
   },
   {
@@ -19325,11 +19335,13 @@
     },
     "Texts": {
       "Eng": "You sure do have some big eyes. I'm sure yer have a big heart as well!",
-      "Rus": ""
+      "Rus": "Экие у тебя глаза-то большущие. Верно и сердце у тебя тоже большое!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Твои мягкие ткани трясутся при ходьбе."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/glitch/human/14/glitchEmotedText"
@@ -19337,7 +19349,7 @@
     },
     "Texts": {
       "Eng": "You wobble when you walk.",
-      "Rus": ""
+      "Rus": "Твоё тело колеблется при ходьбе."
     }
   },
   {
@@ -19361,7 +19373,7 @@
     },
     "Texts": {
       "Eng": "You would be a terrible \"murder in the dark\" player.",
-      "Rus": ""
+      "Rus": "Ты, должно быть, отвратительно играешь в прятки."
     }
   },
   {
@@ -19385,7 +19397,7 @@
     },
     "Texts": {
       "Eng": "You're a bird, huh? Well that's the darndest thing.",
-      "Rus": "Так ты птица да? Во дела...  "
+      "Rus": "Так ты птица да? Во дела так дела...  "
     }
   },
   {
@@ -19421,7 +19433,7 @@
     },
     "Texts": {
       "Eng": "You're a metal machine, huh? Does that mean some folks made you? ...Do you know who did?",
-      "Rus": "Тыж металическая машина, а? То бишь какие-то парни тебя сделали? ... Не знаешь кто это был?"
+      "Rus": "Тыж металическая машина, а? То бишь какие-то парни тебя сделали? ...Не знаешь, кто это был?"
     }
   },
   {
@@ -19462,7 +19474,7 @@
   },
   {
     "DeniedAlternatives": [
-      "Здесь тебе всегда рады. Приносишь луч света в жизнь."
+      "Здесь тебе всегда рады. Ты приносишь луч света в жизнь.  "
     ],
     "Files": {
       "dialog/converse.config": [
@@ -19519,13 +19531,13 @@
     },
     "Texts": {
       "Eng": "You're hair is so lush - I wish I could get shampoo that good.",
-      "Rus": "Твои волосы такие пышные - я бы хотел, чтобы у меня был такой же хороший шампунь."
+      "Rus": "Твои волосы такие пышные - жаль, мне не достать такой же хороший шампунь."
     }
   },
   {
     "DeniedAlternatives": [
       "Так ты из железа? Ну, ежели захочешь, чтоб тебе вмятины повыправили, я радо подсоблю!",
-      "Ты из железа? Ну, ежели нужен кто с молотком, чтоб тебе вмятины повыправить, я радо подсоблю!"
+      "Ты из железа? Ну, ежели надо будет молотком вмятины повыправить, я радо подсоблю!"
     ],
     "Files": {
       "dialog/converse.config": [
@@ -19534,7 +19546,7 @@
     },
     "Texts": {
       "Eng": "You're made o' metal? Well, if you need anyone to hammer out any dents in you, I'm your huckleberry!",
-      "Rus": "Ты из железа? Ну, ежели надо будет молотком вмятины повыправить, я радо подсоблю!"
+      "Rus": "Ты из железа? Ну, ежели нужен кто с молотком, чтоб тебе вмятины повыправить, я радо подсоблю!"
     }
   },
   {
@@ -19632,7 +19644,7 @@
     },
     "Texts": {
       "Eng": "You're pretty awesome for a talking tuna.",
-      "Rus": "Ты весьма классный для говорящего тунца."
+      "Rus": "Ты очень классный для говорящего тунца."
     }
   },
   {
