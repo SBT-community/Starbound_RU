@@ -35,7 +35,7 @@ foi = {
     "^clusterMoons/[^/]+$", "^worldTypeDescription/.+$",
     "^visitableTypeDescription/.+$", "^terraformedPlanetDescription/.+$",
     "^threatLevelText/[a-zA-Z]+/[0-9]+$", "^threatTextPrefix$",
-    "^objectThreatText/.*$"],
+    "^objectThreatText/.*$", "^systemTooltip/exploredLabel/.+$"],
   "statuses.config":["^statuses/.+$"],
   "help.config": ["^[a-z]+Commands/.+$"],
   "hunger.config": ["^.*$"],
