@@ -152,7 +152,7 @@
     },
     "Texts": {
       "Eng": "A lot of Avians like seeds, but I prefer berries.",
-      "Rus": "Многие Авиане любят семена, но я предпочитаю ягоды."
+      "Rus": "Многие авиане любят семена, но я предпочитаю ягоды."
     }
   },
   {
@@ -188,7 +188,7 @@
     },
     "Texts": {
       "Eng": "A non-violent Floran. Can it be true? I haven't heard of that before.",
-      "Rus": "Флоран, не склонный к насилию. Это правда? Никогда о таком не слышал."
+      "Rus": "Флоран, не склонный к насилию. Это правда? Никогда о таком не слышал<self.pronoun.verbEnding>."
     }
   },
   {
@@ -369,7 +369,7 @@
     },
     "Texts": {
       "Eng": "Always nice to meet a new Glitch.",
-      "Rus": "Всегда рад встече с новым Глитчем."
+      "Rus": "Всегда рад встече с новым глитчем."
     }
   },
   {
@@ -393,7 +393,7 @@
     },
     "Texts": {
       "Eng": "An Apex called me a chicken the other day. So rude.",
-      "Rus": "Однажды Апекс назвал меня курицей. Как грубо..."
+      "Rus": "Однажды апекс назвал меня курицей. Как грубо..."
     }
   },
   {
@@ -417,7 +417,7 @@
     },
     "Texts": {
       "Eng": "Another Avian I met told me about the Celestial Towers. Chilling.",
-      "Rus": "Еще один авиан, который мне рассказывает о Небесных башнях. Круто..."
+      "Rus": "Ещё один авиан, который мне рассказывает о Небесных башнях. Круто..."
     }
   },
   {
@@ -441,7 +441,7 @@
     },
     "Texts": {
       "Eng": "Apex are so militant... this is not in the Hylotl nature.",
-      "Rus": "Апексы такие воинственные... это несвойственно Хилотлам."
+      "Rus": "Апексы такие воинственные... это несвойственно хилотлам."
     }
   },
   {
@@ -561,7 +561,7 @@
     },
     "Texts": {
       "Eng": "Are all Florans ferocious?",
-      "Rus": "Все Флораны такие свирепые?"
+      "Rus": "Все флораны такие свирепые?"
     }
   },
   {
@@ -573,7 +573,7 @@
     },
     "Texts": {
       "Eng": "Are all Glitch made of metal? Are some crafted of wood, or precious stone?",
-      "Rus": "Все Глитчи сделаны из металла? А есть те, кто изготовлен из дерева или драгоценных камней?"
+      "Rus": "Все глитчи сделаны из металла? А есть те, кто изготовлен из дерева или драгоценных камней?"
     }
   },
   {
@@ -633,7 +633,7 @@
     },
     "Texts": {
       "Eng": "Are the Apex continuously devolving? When do you get tails?",
-      "Rus": "Апексы постоянно деградируют? Когда у вас успели отрасти хвосты?"
+      "Rus": "Апексы постоянно деградируют? Когда у вас отрастут хвосты?"
     }
   },
   {
@@ -645,7 +645,7 @@
     },
     "Texts": {
       "Eng": "Are there forestss underwater?",
-      "Rus": "У вассс лессса под водой?"
+      "Rus": "А под водой есссть лессса?"
     }
   },
   {
@@ -873,7 +873,7 @@
     },
     "Texts": {
       "Eng": "Are you in the Protectorate!? That's super cool!",
-      "Rus": "Ты Протектор? Это очень круто!"
+      "Rus": "Ты из Протектората!? Это очень круто!"
     }
   },
   {
@@ -909,7 +909,7 @@
     },
     "Texts": {
       "Eng": "Are you made of metal? Well I'll be darned...",
-      "Rus": "Ты сиз металла? Я впечатлен."
+      "Rus": "Ты сделан<player.pronoun.verbEnding> из металла? Я впечатлен<self.pronoun.verbEnding>."
     }
   },
   {
@@ -945,7 +945,7 @@
     },
     "Texts": {
       "Eng": "Are you much of a cook? Or do you prefer your meals as alive as possible?",
-      "Rus": "Вы готовите пищу? Или едите ее сырой?"
+      "Rus": "Насколько хорошо ты умеешь готовить? Или вы предпочитаете вашу пищу живой, насколько возможно?"
     }
   },
   {
@@ -1053,7 +1053,7 @@
     },
     "Texts": {
       "Eng": "Are your kind descended from chickens?",
-      "Rus": "Ваш вид отличается от куриц?"
+      "Rus": "Ваш вид произошел от куриц?"
     }
   },
   {
@@ -1102,7 +1102,7 @@
     },
     "Texts": {
       "Eng": "Aren't your kind meant to be savage? You don't seem it.",
-      "Rus": "У вашего рода генетически заложено быть дикарями? Возможно, вы это даже не замечаете."
+      "Rus": "Разве ваш род не должен быть из дикарей? Ты не похож<player.pronoun.verbEnding> на них."
     }
   },
   {
@@ -1114,7 +1114,7 @@
     },
     "Texts": {
       "Eng": "Art enriches existence.",
-      "Rus": "Искусство обогащает знания."
+      "Rus": "Искусство обогащает существование."
     }
   },
   {
@@ -1234,7 +1234,7 @@
     },
     "Texts": {
       "Eng": "Avians are birds of prey! Don't hunt me!",
-      "Rus": "Авиане - хищные птицы! Хватит охотиться на меня!"
+      "Rus": "Авиане - хищные птицы! Не охоться на меня!"
     }
   },
   {
