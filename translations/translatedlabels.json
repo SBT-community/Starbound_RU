@@ -409,7 +409,7 @@
         "shared_.config.json": 2
       },
       "cockpit": {
-        "cockpit.config.json": 158
+        "cockpit.config.json": 159
       },
       "confirmation": {
         "hiremercenaryconfirmation.config.json": 2,
@@ -783,7 +783,7 @@
                   "astraltear.weaponability.json": 1
                 },
                 "bladecharge": {
-                  "bladecharge.weaponability.json": 0
+                  "bladecharge.weaponability.json": 1
                 },
                 "downstab": {
                   "downstab.weaponability.json": 0
@@ -1042,7 +1042,7 @@
           "ranged": {
             "abilities": {
               "bouncingshot": {
-                "bouncingshot.weaponability.json": 0
+                "bouncingshot.weaponability.json": 1
               },
               "burstshot": {
                 "burstshot.weaponability.json": 0
@@ -1069,14 +1069,14 @@
                 "fuelairtrail.weaponability.json": 0
               },
               "guidedrocket": {
-                "exmachinarocket.weaponability.json": 0,
+                "exmachinarocket.weaponability.json": 1,
                 "guidedrocket.weaponability.json": 1
               },
               "homingrocket": {
-                "homingrocket.weaponability.json": 0
+                "homingrocket.weaponability.json": 1
               },
               "lance": {
-                "lance.weaponability.json": 0
+                "lance.weaponability.json": 1
               },
               "markedshot": {
                 "markedshot.weaponability.json": 0
@@ -13383,7 +13383,7 @@
     "shared_cora.json": 1,
     "shared_ect.json": 1,
     "shared_eri.json": 2,
-    "shared_est.json": 1,
+    "shared_est.json": 0,
     "shared_goldenplatform.mat.json": 5,
     "shared_ice..json": 1,
     "shared_ies.json": 1,
