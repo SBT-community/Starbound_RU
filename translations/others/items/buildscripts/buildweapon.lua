@@ -189,7 +189,7 @@ function build(directory, config, parameters, level, seed)
     config.tooltipFields.primaryAbilityLabel = config.primaryAbility.name or "unknown"
   end
   if config.altAbility then
-    config.tooltipFields.altAbilityTitleLabel = "Способность:"
+    config.tooltipFields.altAbilityTitleLabel = "Умение:"
     config.tooltipFields.altAbilityLabel = config.altAbility.name or "unknown"
   end
 
