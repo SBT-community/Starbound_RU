@@ -80,11 +80,13 @@
     },
     "Texts": {
       "Eng": "I couldn't help <questGiver> finalise the deal with that travelling merchant. Hopefully business isn't too slow.",
-      "Rus": "Я не смог помочь. <questGiver> будет сам<questGiver.pronoun.verbEnding> вести дела со странствующими торговцами."
+      "Rus": "Я не сумел<player.pronoun.verbEnding> помочь. <questGiver> будет сам<questGiver.pronoun.verbEnding> вести дела со странствующими торговцами."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я не смог помочь. Возможно, <questGiver> зря пытается расширить свой магазин - в небольших лавочках тоже есть своя прелесть."
+    ],
     "Files": {
       "quests/generated/templates/new_stock1.questtemplate": [
         "/scriptConfig/generatedText/failureText/default/0"
@@ -92,7 +94,7 @@
     },
     "Texts": {
       "Eng": "I was unable to help <questGiver> acquire new stock for <questGiver.pronoun.possessiveDet> store. <questGiver.pronoun.capitalSubject> probably has enough as it is.",
-      "Rus": "Я не смог помочь. Возможно, <questGiver> зря пытается расширить свой магазин - в небольших лавочках тоже есть своя прелесть."
+      "Rus": "Я не сумел<player.pronoun.verbEnding> помочь. Возможно, <questGiver> зря пытается расширить свой магазин - в небольших лавочках тоже есть своя прелесть."
     }
   },
   {
