@@ -31,7 +31,7 @@ function build(directory, config, parameters, level, seed)
     config.tooltipFields.damageKindImage = "/interface/elements/"..config.elementalType..".png"
   end
   if config.altAbility then
-    config.tooltipFields.altAbilityTitleLabel = "Способность:"
+    config.tooltipFields.altAbilityTitleLabel = "Умение:"
     config.tooltipFields.altAbilityLabel = config.altAbility.name or "unknown"
   end
 
