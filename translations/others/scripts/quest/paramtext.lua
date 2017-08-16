@@ -2,6 +2,14 @@ function itemShortDescription(itemDescriptor)
   return root.itemConfig(itemDescriptor).config.shortdescription or itemDescriptor.name
 end
 
+local function getCountEnding(count)
+  local residue = count % 10
+  if count > 10 and count < 21 then return ""
+  elseif resudue == 1 then return "а"
+  elseif residue > 1 and residue < 5 then return "и"
+  else return "" end
+end
+
 function questParameterText(paramValue)
   if paramValue.name then return paramValue.name end
 
@@ -14,7 +22,8 @@ function questParameterText(paramValue)
       if listString ~= "" then
         listString = listString .. ", "
       end
-      listString = listString .. string.format("%s %s", item.count, itemShortDescription(item))
+      local thingEnd = getCountEnding(item.count)
+      listString = listString .. string.format("%s, %s штук%s", itemShortDescription(item), item.count, thingEnd)
     end
     return listString
   end
