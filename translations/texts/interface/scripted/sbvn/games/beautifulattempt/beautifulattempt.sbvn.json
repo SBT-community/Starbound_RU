@@ -1632,9 +1632,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Она не знает что аэрохоккей вообще такое."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
         "/scenes/hockey3/text"
@@ -1642,7 +1640,7 @@
     },
     "Texts": {
       "Eng": "She doesn't know what Air Hockey is.",
-      "Rus": "Она не знает что аэрохокей вообще такое."
+      "Rus": "Она не знает, что такое аэрохокей."
     }
   },
   {
