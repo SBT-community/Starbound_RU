@@ -228,7 +228,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "\"Я закончила!\" - объявила она. Её улыбка блестит в солнечном свете, как соблазн прекрасного морского чёрта."
+    ],
     "Files": {
       "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
         "/scenes/art7/text"
@@ -435,7 +437,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "\"Это действеительно печально! У меня в голове вертится олна песня на это счёт.\" - сказала она."
+    ],
     "Files": {
       "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
         "/scenes/song5g/text"
@@ -443,7 +447,7 @@
     },
     "Texts": {
       "Eng": "\"That is quite tragic! I have a song in mind just for this.\" she says.",
-      "Rus": "\"Это действеительно печально! У меня в голове вертится олна песня на это счёт.\" - сказала она."
+      "Rus": "\"Это весьма печально! У меня в голове вертится олна песня на это счёт.\" - сказала она."
     }
   },
   {
@@ -889,7 +893,7 @@
     },
     "Texts": {
       "Eng": "Could she truly love me? Will she be able to come to the present with me? Will that cause a rift in the space-time continuum?",
-      "Rus": "Сможет ли она правда полюбить меня? Будет ли у неё возможность вернуться со мной в настоящее? Не вызовет ли это разлом в космическо-временном континууме?"
+      "Rus": "Сможет ли она правда полюбить меня? Будет ли у неё возможность вернуться со мной в настоящее? Не вызовет ли это разлом в пространственно-временном континууме?"
     }
   },
   {
