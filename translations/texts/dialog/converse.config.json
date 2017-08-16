@@ -18122,7 +18122,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ты очень гладк<player.pronoun.adjEnding>"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/apex/human/11"
@@ -18130,7 +18132,7 @@
     },
     "Texts": {
       "Eng": "You are very smooth.",
-      "Rus": "Ты очень гладк<player.pronoun.adjEnding>"
+      "Rus": "Ты очень гладк<player.pronoun.adjEnding>."
     }
   },
   {
@@ -18142,7 +18144,7 @@
     },
     "Texts": {
       "Eng": "You away from home, partner?",
-      "Rus": ""
+      "Rus": "Ты вдали от дома, приятель?"
     }
   },
   {
@@ -18154,7 +18156,7 @@
     },
     "Texts": {
       "Eng": "You can not grow bananas under water.",
-      "Rus": ""
+      "Rus": "Под водой бананов не вырастишь."
     }
   },
   {
@@ -18166,7 +18168,7 @@
     },
     "Texts": {
       "Eng": "You can relax around us Avians, we're not big on formalities.",
-      "Rus": ""
+      "Rus": "С нами, авианами, можешь расслабиться. Мы не слишком любим формальности."
     }
   },
   {
@@ -18178,7 +18180,7 @@
     },
     "Texts": {
       "Eng": "You could do with a pruning.",
-      "Rus": ""
+      "Rus": "Тебе бы не помешало подрезать побеги."
     }
   },
   {
@@ -18190,7 +18192,7 @@
     },
     "Texts": {
       "Eng": "You do not have long-range audio recording software, do you?",
-      "Rus": ""
+      "Rus": "В тебе же не нет программ для дистанционной записи звука, правда?"
     }
   },
   {
@@ -18202,11 +18204,13 @@
     },
     "Texts": {
       "Eng": "You do not look so scary up close.",
-      "Rus": ""
+      "Rus": "Вблизи ты выглядишь не так уж и страшно."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ты не светишься, да? Вам же ж так в темноте ни зги не видать!"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/novakid/human/4"
@@ -18214,7 +18218,7 @@
     },
     "Texts": {
       "Eng": "You don't glow, huh? How do folk like you see in the dark?",
-      "Rus": ""
+      "Rus": "Ты не светишься, чтоль? Как же вы, народ, в темноте-то видите?"
     }
   },
   {
@@ -18226,7 +18230,7 @@
     },
     "Texts": {
       "Eng": "You don't happen to have a ratchet do you?",
-      "Rus": ""
+      "Rus": "У тебя, случаем, не найдётся храповика?"
     }
   },
   {
@@ -18238,7 +18242,7 @@
     },
     "Texts": {
       "Eng": "You don't have a virus do you?",
-      "Rus": ""
+      "Rus": "У тебя же  нет вирусов?"
     }
   },
   {
@@ -18250,7 +18254,7 @@
     },
     "Texts": {
       "Eng": "You don't look so good. Are you getting enough seeds?",
-      "Rus": ""
+      "Rus": "Ты неважно выглядишь. Ты точно получаешь вдоволь семечек?"
     }
   },
   {
@@ -18262,7 +18266,7 @@
     },
     "Texts": {
       "Eng": "You don't really eat people do you?",
-      "Rus": ""
+      "Rus": "Ты ведь на самом деле не ешь разумных существ, правда?"
     }
   },
   {
@@ -18274,7 +18278,7 @@
     },
     "Texts": {
       "Eng": "You don't ssmell like food... Oh well.",
-      "Rus": ""
+      "Rus": "Ты несъедобно пахнешшшь... Ахх, точно."
     }
   },
   {
@@ -18286,7 +18290,7 @@
     },
     "Texts": {
       "Eng": "You don't sssmell like Floran...",
-      "Rus": ""
+      "Rus": "Ты пахнешшшь не как флоран..."
     }
   },
   {
