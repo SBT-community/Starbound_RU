@@ -343,7 +343,7 @@
       "clues.config.json": 50,
       "colourful.config.json": 33,
       "combat.config.json": 185,
-      "converse.config.json": 1583,
+      "converse.config.json": 1598,
       "crewmember.config.json": 39,
       "cultist.config.json": 31,
       "deadbeat.config.json": 23,
@@ -362,7 +362,7 @@
       "mutantminer.config.json": 10,
       "oremerchant.config.json": 119,
       "outpost.config.json": 42,
-      "quest.config.json": 102,
+      "quest.config.json": 107,
       "rebel.config.json": 3,
       "scientist.config.json": 12,
       "shared_.config.json": 101,
@@ -776,7 +776,7 @@
           "melee": {
             "abilities": {
               "axe": {
-                "axecleave.weaponability.json": 0
+                "axecleave.weaponability.json": 1
               },
               "broadsword": {
                 "astraltear": {
@@ -801,7 +801,7 @@
                   "kunaiblast.weaponability.json": 0
                 },
                 "parry": {
-                  "parry.weaponability.json": 0
+                  "parry.weaponability.json": 1
                 },
                 "risingslash": {
                   "risingslash.weaponability.json": 0
@@ -819,13 +819,13 @@
               },
               "generic": {
                 "blinkexplosion": {
-                  "blinkexplosion.weaponability.json": 0
+                  "blinkexplosion.weaponability.json": 1
                 },
                 "blinkslash": {
-                  "blinkslash.weaponability.json": 0
+                  "blinkslash.weaponability.json": 1
                 },
                 "scouteye": {
-                  "scouteye.weaponability.json": 0
+                  "scouteye.weaponability.json": 1
                 }
               },
               "hammer": {
@@ -833,18 +833,18 @@
                   "elementalaura.weaponability.json": 1
                 },
                 "elementalpillar": {
-                  "elementalpillar.weaponability.json": 0
+                  "elementalpillar.weaponability.json": 1
                 },
                 "groundslam": {
                   "groundslam.weaponability.json": 1
                 },
                 "hammersmash.weaponability.json": 1,
                 "shockwave": {
-                  "physicalshockwave.weaponability.json": 0,
+                  "physicalshockwave.weaponability.json": 1,
                   "shockwave.weaponability.json": 1
                 },
                 "uppercut": {
-                  "uppercut.weaponability.json": 0
+                  "uppercut.weaponability.json": 1
                 }
               },
               "shared_sword": {
@@ -863,7 +863,7 @@
                 "rocketspear": {
                   "rocketspear.weaponability.json": 1
                 },
-                "spearstab.weaponability.json": 0,
+                "spearstab.weaponability.json": 1,
                 "spin": {
                   "spin.weaponability.json": 1
                 }
@@ -4107,7 +4107,7 @@
             "fishinghoop.monstertype.json": 0
           },
           "mega": {
-            "fishingmega.monstertype.json": 0
+            "fishingmega.monstertype.json": 2
           },
           "puff": {
             "fishingpuff.monstertype.json": 0
@@ -9614,7 +9614,7 @@
           "bunkerconsole3.object.json": 2
         },
         "bunkerconsole4": {
-          "bunkerconsole4.object.json": 0
+          "bunkerconsole4.object.json": 9
         },
         "bunkercorner": {
           "bunkercorner.object.json": 7
@@ -9635,7 +9635,7 @@
           "bunkerdisplay3.object.json": 0
         },
         "bunkerdisplay4": {
-          "bunkerdisplay4.object.json": 0
+          "bunkerdisplay4.object.json": 9
         },
         "bunkereyescanner": {
           "bunkereyescanner.object.json": 0

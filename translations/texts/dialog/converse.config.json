@@ -152,7 +152,7 @@
     },
     "Texts": {
       "Eng": "A lot of Avians like seeds, but I prefer berries.",
-      "Rus": "Многие Авиане любят семена, но я предпочитаю ягоды."
+      "Rus": "Многие авиане любят семена, но я предпочитаю ягоды."
     }
   },
   {
@@ -188,7 +188,7 @@
     },
     "Texts": {
       "Eng": "A non-violent Floran. Can it be true? I haven't heard of that before.",
-      "Rus": "Флоран, не склонный к насилию. Это правда? Никогда о таком не слышал."
+      "Rus": "Флоран, не склонный к насилию. Это правда? Никогда о таком не слышал<self.pronoun.verbEnding>."
     }
   },
   {
@@ -369,7 +369,7 @@
     },
     "Texts": {
       "Eng": "Always nice to meet a new Glitch.",
-      "Rus": "Всегда рад встече с новым Глитчем."
+      "Rus": "Всегда рад встече с новым глитчем."
     }
   },
   {
@@ -393,7 +393,7 @@
     },
     "Texts": {
       "Eng": "An Apex called me a chicken the other day. So rude.",
-      "Rus": "Однажды Апекс назвал меня курицей. Как грубо..."
+      "Rus": "Однажды апекс назвал меня курицей. Как грубо..."
     }
   },
   {
@@ -417,7 +417,7 @@
     },
     "Texts": {
       "Eng": "Another Avian I met told me about the Celestial Towers. Chilling.",
-      "Rus": "Еще один авиан, который мне рассказывает о Небесных башнях. Круто..."
+      "Rus": "Ещё один авиан, который мне рассказывает о Небесных башнях. Круто..."
     }
   },
   {
@@ -441,7 +441,7 @@
     },
     "Texts": {
       "Eng": "Apex are so militant... this is not in the Hylotl nature.",
-      "Rus": "Апексы такие воинственные... это несвойственно Хилотлам."
+      "Rus": "Апексы такие воинственные... это несвойственно хилотлам."
     }
   },
   {
@@ -561,7 +561,7 @@
     },
     "Texts": {
       "Eng": "Are all Florans ferocious?",
-      "Rus": "Все Флораны такие свирепые?"
+      "Rus": "Все флораны такие свирепые?"
     }
   },
   {
@@ -573,7 +573,7 @@
     },
     "Texts": {
       "Eng": "Are all Glitch made of metal? Are some crafted of wood, or precious stone?",
-      "Rus": "Все Глитчи сделаны из металла? А есть те, кто изготовлен из дерева или драгоценных камней?"
+      "Rus": "Все глитчи сделаны из металла? А есть те, кто изготовлен из дерева или драгоценных камней?"
     }
   },
   {
@@ -633,7 +633,7 @@
     },
     "Texts": {
       "Eng": "Are the Apex continuously devolving? When do you get tails?",
-      "Rus": "Апексы постоянно деградируют? Когда у вас успели отрасти хвосты?"
+      "Rus": "Апексы постоянно деградируют? Когда у вас отрастут хвосты?"
     }
   },
   {
@@ -645,7 +645,7 @@
     },
     "Texts": {
       "Eng": "Are there forestss underwater?",
-      "Rus": "У вассс лессса под водой?"
+      "Rus": "А под водой есссть лессса?"
     }
   },
   {
@@ -873,7 +873,7 @@
     },
     "Texts": {
       "Eng": "Are you in the Protectorate!? That's super cool!",
-      "Rus": "Ты Протектор? Это очень круто!"
+      "Rus": "Ты из Протектората!? Это очень круто!"
     }
   },
   {
@@ -909,7 +909,7 @@
     },
     "Texts": {
       "Eng": "Are you made of metal? Well I'll be darned...",
-      "Rus": "Ты сиз металла? Я впечатлен."
+      "Rus": "Ты сделан<player.pronoun.verbEnding> из металла? Я впечатлен<self.pronoun.verbEnding>."
     }
   },
   {
@@ -945,7 +945,7 @@
     },
     "Texts": {
       "Eng": "Are you much of a cook? Or do you prefer your meals as alive as possible?",
-      "Rus": "Вы готовите пищу? Или едите ее сырой?"
+      "Rus": "Насколько хорошо ты умеешь готовить? Или вы предпочитаете вашу пищу живой, насколько возможно?"
     }
   },
   {
@@ -1053,7 +1053,7 @@
     },
     "Texts": {
       "Eng": "Are your kind descended from chickens?",
-      "Rus": "Ваш вид отличается от куриц?"
+      "Rus": "Ваш вид произошел от куриц?"
     }
   },
   {
@@ -1102,7 +1102,7 @@
     },
     "Texts": {
       "Eng": "Aren't your kind meant to be savage? You don't seem it.",
-      "Rus": "У вашего рода генетически заложено быть дикарями? Возможно, вы это даже не замечаете."
+      "Rus": "Разве ваш род не должен быть из дикарей? Ты не похож<player.pronoun.verbEnding> на них."
     }
   },
   {
@@ -1114,7 +1114,7 @@
     },
     "Texts": {
       "Eng": "Art enriches existence.",
-      "Rus": "Искусство обогащает знания."
+      "Rus": "Искусство обогащает существование."
     }
   },
   {
@@ -1234,7 +1234,7 @@
     },
     "Texts": {
       "Eng": "Avians are birds of prey! Don't hunt me!",
-      "Rus": "Авиане - хищные птицы! Хватит охотиться на меня!"
+      "Rus": "Авиане - хищные птицы! Не охоться на меня!"
     }
   },
   {
@@ -17867,7 +17867,7 @@
     },
     "Texts": {
       "Eng": "Yesterday I thought I saw a pixel on the ground, but it was a shiny bug. Ah well.",
-      "Rus": ""
+      "Rus": "Вчера, мне показалось, что я видел<self.pronoun.verbEnding> на земле пиксель, но это был всего лишь светящийся жук. Эх..."
     }
   },
   {
@@ -17975,7 +17975,7 @@
     },
     "Texts": {
       "Eng": "You are an inspiration to us all.",
-      "Rus": ""
+      "Rus": "Ты — вдохновение для нас всех."
     }
   },
   {
@@ -18023,7 +18023,7 @@
     },
     "Texts": {
       "Eng": "You are hard to miss.",
-      "Rus": ""
+      "Rus": "Тебя трудно не заметить."
     }
   },
   {
@@ -18059,7 +18059,7 @@
     },
     "Texts": {
       "Eng": "You are like the stars above. Were you born like this?",
-      "Rus": ""
+      "Rus": "Ты как будто звезда с неба. Ты так<player.pronoun.adjEnding> с рождения?"
     }
   },
   {
@@ -18119,7 +18119,7 @@
     },
     "Texts": {
       "Eng": "You are terrifying and adorable, I like this duality.",
-      "Rus": ""
+      "Rus": "Ты внушаешь одновременно ужас и умиление. Мне нравится эта двойственность."
     }
   },
   {
@@ -18131,7 +18131,7 @@
     },
     "Texts": {
       "Eng": "You are the first human that I've met.",
-      "Rus": ""
+      "Rus": "Ты первый человек, которого я встретил<self.pronoun.verbEnding>."
     }
   },
   {
@@ -18143,11 +18143,13 @@
     },
     "Texts": {
       "Eng": "You are very nice-looking.",
-      "Rus": ""
+      "Rus": "Ты выглядишь очень симпатично."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ты очень гладк<player.pronoun.adjEnding>"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/apex/human/11"
@@ -18155,7 +18157,7 @@
     },
     "Texts": {
       "Eng": "You are very smooth.",
-      "Rus": ""
+      "Rus": "Ты очень гладк<player.pronoun.adjEnding>."
     }
   },
   {
@@ -18167,7 +18169,7 @@
     },
     "Texts": {
       "Eng": "You away from home, partner?",
-      "Rus": ""
+      "Rus": "Ты вдали от дома, приятель?"
     }
   },
   {
@@ -18179,7 +18181,7 @@
     },
     "Texts": {
       "Eng": "You can not grow bananas under water.",
-      "Rus": ""
+      "Rus": "Под водой бананов не вырастишь."
     }
   },
   {
@@ -18191,7 +18193,7 @@
     },
     "Texts": {
       "Eng": "You can relax around us Avians, we're not big on formalities.",
-      "Rus": ""
+      "Rus": "С нами, авианами, можешь расслабиться. Мы не слишком любим формальности."
     }
   },
   {
@@ -18203,7 +18205,7 @@
     },
     "Texts": {
       "Eng": "You could do with a pruning.",
-      "Rus": ""
+      "Rus": "Тебе бы не помешало подрезать побеги."
     }
   },
   {
@@ -18215,7 +18217,7 @@
     },
     "Texts": {
       "Eng": "You do not have long-range audio recording software, do you?",
-      "Rus": ""
+      "Rus": "В тебе же не нет программ для дистанционной записи звука, правда?"
     }
   },
   {
@@ -18227,11 +18229,13 @@
     },
     "Texts": {
       "Eng": "You do not look so scary up close.",
-      "Rus": ""
+      "Rus": "Вблизи ты выглядишь не так уж и страшно."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ты не светишься, да? Вам же ж так в темноте ни зги не видать!"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/novakid/human/4"
@@ -18239,7 +18243,7 @@
     },
     "Texts": {
       "Eng": "You don't glow, huh? How do folk like you see in the dark?",
-      "Rus": ""
+      "Rus": "Ты не светишься, чтоль? Как же вы, народ, в темноте-то видите?"
     }
   },
   {
@@ -18251,7 +18255,7 @@
     },
     "Texts": {
       "Eng": "You don't happen to have a ratchet do you?",
-      "Rus": ""
+      "Rus": "У тебя, случаем, не найдётся храповика?"
     }
   },
   {
@@ -18263,7 +18267,7 @@
     },
     "Texts": {
       "Eng": "You don't have a virus do you?",
-      "Rus": ""
+      "Rus": "У тебя же нет вирусов?"
     }
   },
   {
@@ -18275,7 +18279,7 @@
     },
     "Texts": {
       "Eng": "You don't look so good. Are you getting enough seeds?",
-      "Rus": ""
+      "Rus": "Ты неважно выглядишь. Ты точно получаешь вдоволь семечек?"
     }
   },
   {
@@ -18287,7 +18291,7 @@
     },
     "Texts": {
       "Eng": "You don't really eat people do you?",
-      "Rus": ""
+      "Rus": "Ты ведь на самом деле не ешь разумных существ, правда?"
     }
   },
   {
@@ -18299,7 +18303,7 @@
     },
     "Texts": {
       "Eng": "You don't ssmell like food... Oh well.",
-      "Rus": ""
+      "Rus": "Ты несъедобно пахнешшшь... Ахх, точно."
     }
   },
   {
@@ -18311,7 +18315,7 @@
     },
     "Texts": {
       "Eng": "You don't sssmell like Floran...",
-      "Rus": ""
+      "Rus": "Ты не пахнешшшь как флоран..."
     }
   },
   {
@@ -18443,11 +18447,13 @@
     },
     "Texts": {
       "Eng": "You got a look about you. You had troublin' times lately, partner?",
-      "Rus": ""
+      "Rus": "Ну и видок у тебя. Тяжко тебе нонеча приходится, приятель?"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Что-то ты напрочь раскис. Аль ценность какую потерял?"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/novakid/human/0"
@@ -18455,11 +18461,13 @@
     },
     "Texts": {
       "Eng": "You got a look o' sadness about you. You lose somethin' precious recently?",
-      "Rus": ""
+      "Rus": "Тоскливо ты выглядишь. Будто ценность какую потерямши."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Вижу, не сидится тебе на одном месте. Уж не к звёздам ли собираешься?"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/novakid/human/5"
@@ -18467,7 +18475,7 @@
     },
     "Texts": {
       "Eng": "You got a look o' wanderlust about you, partner. Are you bound for the stars?",
-      "Rus": ""
+      "Rus": "Гляжу, ты не из тех, кто сидит на одном месте. Уж не к звёздам ли собираешься?"
     }
   },
   {
@@ -18479,7 +18487,7 @@
     },
     "Texts": {
       "Eng": "You got a look of inspiration about you. Are you an artist or somethin'?",
-      "Rus": ""
+      "Rus": "Больно вдохновенный у тебя вид. Ты часом не художник иль вроде того?"
     }
   },
   {
@@ -18587,7 +18595,7 @@
     },
     "Texts": {
       "Eng": "You have such freedom, I hope that you appreciate it.",
-      "Rus": "Ты настолько свободен! Надеюсь ты ценишь это."
+      "Rus": "У тебя столько свободы! Надеюсь ты ценишь это."
     }
   },
   {
@@ -18623,7 +18631,7 @@
     },
     "Texts": {
       "Eng": "You keep on growin', and I'll keep on glowin', friend.",
-      "Rus": "Ты продолжаешь расти, да и я расту потихоньку, дружище."
+      "Rus": "Ты себе расти, да я себе свети, а дружище?"
     }
   },
   {
@@ -18659,7 +18667,7 @@
     },
     "Texts": {
       "Eng": "You look cold, you need more body hair.",
-      "Rus": "Ты выглядишь замёрзшим. Тебе нужно отрастить больше волос на теле."
+      "Rus": "На тебя холодно смотреть. Тебе нужно отрастить больше волос на теле."
     }
   },
   {
@@ -18671,7 +18679,7 @@
     },
     "Texts": {
       "Eng": "You look friendly enough, I think people have got you Floran all wrong!",
-      "Rus": "Ты выглядишь достаточно дружелюбно. Думаю вас, Флоранов, неправильно поняли."
+      "Rus": "Ты выглядишь вполне дружелюбно. Думаю вас, флоранов, просто неправильно понимают."
     }
   },
   {
@@ -18743,7 +18751,7 @@
     },
     "Texts": {
       "Eng": "You look like the travellin' type - you from over yonder?",
-      "Rus": ""
+      "Rus": "По тебе сразу видно, что скиталец. Издали, небось, пожаловал?"
     }
   },
   {
@@ -18759,7 +18767,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Похоже, тебе не помешала бы минутка тишины, чтобы успокоиться."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/hylotl/generic/79"
@@ -18767,7 +18777,7 @@
     },
     "Texts": {
       "Eng": "You look like you could use a quiet minute to compose yourself.",
-      "Rus": ""
+      "Rus": "Похоже, тебе не помешала бы минутка покоя, чтобы прийти в себя."
     }
   },
   {
@@ -18947,7 +18957,7 @@
     },
     "Texts": {
       "Eng": "You might not have wings, but you'll always be able to soar on a westbound wind in your dreams, friend.",
-      "Rus": ""
+      "Rus": "Может, крыльев у тебя и нет, но никто не запретит тебе оседлать западный ветер в своих мечтах, дружище."
     }
   },
   {
@@ -19031,7 +19041,7 @@
     },
     "Texts": {
       "Eng": "You reek of wet dog! Or, I guess, wet ape.",
-      "Rus": "От тебя несёт мокрой псиной! Или наверное, мокрой обезьяной."
+      "Rus": "От тебя несёт мокрой псиной! Или скорее мокрой обезьяной."
     }
   },
   {
@@ -19057,7 +19067,7 @@
     },
     "Texts": {
       "Eng": "You remind me of a parrot fish I once saw.",
-      "Rus": "Ты напоминаешь мне рыбу-попугая, которую мне однажды довелось видеть."
+      "Rus": "Ты напоминаешь мне рыбу-попугая, которую я однажды видел."
     }
   },
   {
@@ -19069,7 +19079,7 @@
     },
     "Texts": {
       "Eng": "You remind me of an oculemon I once ate.",
-      "Rus": "Глядя на тебя, вспоминаю, как мне довелось попробовать окулемон."
+      "Rus": "Глядя на тебя, вспоминаю, как мне довелось пробовать окулемон."
     }
   },
   {
@@ -19185,7 +19195,7 @@
     },
     "Texts": {
       "Eng": "You seem overwhelmed, do you need me to take you under my wing?",
-      "Rus": "Ты выглядишь подавленно. Если хочешь, я могу взять тебя под крыло."
+      "Rus": "Ты выглядишь подавлено. Если хочешь, я могу взять тебя под крыло."
     }
   },
   {
@@ -19209,7 +19219,7 @@
     },
     "Texts": {
       "Eng": "You seem polite, but I cannot be sure you won't try to eat me.",
-      "Rus": "Ты, похоже, воспитанное создание, но у меня нет полной уверенности, что ты не попытаешься меня съесть."
+      "Rus": "Ты, похоже, воспитанное создание, но я не уверен, что ты не попытаешься меня съесть."
     }
   },
   {
@@ -19221,7 +19231,7 @@
     },
     "Texts": {
       "Eng": "You seem quite boisterous.",
-      "Rus": ""
+      "Rus": "Вижу, ты любишь повеселиться."
     }
   },
   {
@@ -19233,7 +19243,7 @@
     },
     "Texts": {
       "Eng": "You seem very important.",
-      "Rus": "Ты кажешься очень важным."
+      "Rus": "Ты выглядишь очень важно."
     }
   },
   {
@@ -19245,7 +19255,7 @@
     },
     "Texts": {
       "Eng": "You shine like starlight.",
-      "Rus": "Ты светишься, словно свечение звёзд."
+      "Rus": "Твоё сияние напоминает звёздный свет."
     }
   },
   {
@@ -19257,7 +19267,7 @@
     },
     "Texts": {
       "Eng": "You smell briney. I like it though - I grew up by the sea.",
-      "Rus": ""
+      "Rus": "От тебя пахнет солёной водой. Но мне нравится - моё детство прошло у моря."
     }
   },
   {
@@ -19269,7 +19279,7 @@
     },
     "Texts": {
       "Eng": "You smell interesting, human.",
-      "Rus": "У тебя интересный запах, человек."
+      "Rus": "Ты интересно пахнешь, человек."
     }
   },
   {
@@ -19293,7 +19303,7 @@
     },
     "Texts": {
       "Eng": "You smell like flowers and fresh air.",
-      "Rus": "Ты пахнешь, как цветы и свежий воздух."
+      "Rus": "Ты пахнешь цветами и свежим воздухом."
     }
   },
   {
@@ -19305,7 +19315,7 @@
     },
     "Texts": {
       "Eng": "You smell like flowers! How lovely.",
-      "Rus": ""
+      "Rus": "Ты пахнешь цветами! Как мило."
     }
   },
   {
@@ -19317,7 +19327,7 @@
     },
     "Texts": {
       "Eng": "You smell like freshly-cut grass.",
-      "Rus": "Ты пахнешь, как свежескошенная трава."
+      "Rus": "Ты пахнешь свежескошенной травой."
     }
   },
   {

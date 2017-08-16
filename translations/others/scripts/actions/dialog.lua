@@ -172,7 +172,8 @@ function inspectEntity(args, board)
   local dialog = world.entityDescription(args.entity, species)
   if not dialog then return false end
 
-  context().say(dialog, {}, options)
+  local tags = makeTags(args)
+  context().say(dialog, tags, options)
   return true
 end
 
