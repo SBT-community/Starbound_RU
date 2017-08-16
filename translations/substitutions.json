@@ -1849,11 +1849,11 @@
   },
   "interface/confirmation/teleportconfirmation.config": {
     "/arena1/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
-    "/arena1/labels/name": "texts/shared_ion.json",
+    "/arena1/labels/name": "texts/wide_spread_fields.json",
     "/arena2/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
-    "/arena2/labels/name": "texts/shared_ion.json",
+    "/arena2/labels/name": "texts/wide_spread_fields.json",
     "/arena3/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
-    "/arena3/labels/name": "texts/shared_ion.json",
+    "/arena3/labels/name": "texts/wide_spread_fields.json",
     "/mechunlock/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
     "/mechunlock/labels/name": "texts/wide_spread_fields.json",
     "/mechupgrade2/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
@@ -3751,10 +3751,6 @@
     "/novakiddescription": "texts/materials/shared_matterblock.mat.json",
     "/shortdescription": "texts/shared_eri.json"
   },
-  "items/materials/medievalladder.matitem": {
-    "/glitchdescription/glitchEmote": "texts/glitchEmotes.json",
-    "/glitchdescription/glitchEmotedText": "texts/items/materials/medievalladder.matitem.json"
-  },
   "items/materials/mediummetal.matitem": {
     "/description": "texts/materials/shared_mediummetal.mat.json",
     "/florandescription": "texts/materials/shared_mediummetal.mat.json",
@@ -5507,6 +5503,15 @@
     "/scriptConfig/dialog/converse/glitch/default/1/glitchEmote": "texts/glitchEmotes.json",
     "/scriptConfig/dialog/converse/glitch/default/1/glitchEmotedText": "texts/npcs/museum/museumglitchvisitor.npctype.json"
   },
+  "npcs/outpost/koichioutpost.npctype": {
+    "/npcname": "texts/wide_spread_fields.json"
+  },
+  "npcs/outpost/lanaoutpost.npctype": {
+    "/npcname": "texts/npcs/shared_.npctype.json"
+  },
+  "npcs/outpost/nuruoutpost.npctype": {
+    "/npcname": "texts/wide_spread_fields.json"
+  },
   "npcs/outpost/outpostglitchmechanic.npctype": {
     "/scriptConfig/dialog/converse/glitch/default/0/glitchEmote": "texts/glitchEmotes.json",
     "/scriptConfig/dialog/converse/glitch/default/0/glitchEmotedText": "texts/npcs/outpost/outpostglitchmechanic.npctype.json",
@@ -5521,6 +5526,9 @@
   },
   "npcs/outpost/outpostglitchsilenttype.npctype": {
     "/scriptConfig/dialog/converse/default/default/0": "texts/wide_spread_fields.json"
+  },
+  "npcs/outpost/tonauacoutpost.npctype": {
+    "/npcname": "texts/wide_spread_fields.json"
   },
   "npcs/outpost/visitors/colourfulvisitor.npctype": {
     "/scriptConfig/dialog/converse/default/default/2": "texts/wide_spread_fields.json"
@@ -5583,8 +5591,33 @@
   "npcs/statuses.config": {
     "/statuses/anxious/1": "texts/wide_spread_fields.json"
   },
+  "npcs/story/baron.npctype": {
+    "/npcname": "texts/wide_spread_fields.json"
+  },
+  "npcs/story/esther.npctype": {
+    "/npcname": "texts/shared_est.json"
+  },
+  "npcs/story/koichi.npctype": {
+    "/npcname": "texts/wide_spread_fields.json"
+  },
+  "npcs/story/koichihologram.npctype": {
+    "/npcname": "texts/wide_spread_fields.json"
+  },
+  "npcs/story/lana.npctype": {
+    "/npcname": "texts/npcs/shared_.npctype.json"
+  },
+  "npcs/story/lanafight.npctype": {
+    "/npcname": "texts/npcs/shared_.npctype.json"
+  },
+  "npcs/story/nuru.npctype": {
+    "/npcname": "texts/wide_spread_fields.json"
+  },
   "npcs/story/nurufight.npctype": {
+    "/npcname": "texts/wide_spread_fields.json",
     "/scriptConfig/dialog/attack/default/default/0": "texts/npcs/shared_.npctype.json"
+  },
+  "npcs/story/tonauac.npctype": {
+    "/npcname": "texts/wide_spread_fields.json"
   },
   "npcs/subbiometenants/giantflower.npctype": {
     "/scriptConfig/dialog/merchant/end/default/default/0": "texts/shared_ant.json",
@@ -25550,22 +25583,22 @@
   },
   "quests/outpost/outpostclue.questtemplate": {
     "/scriptConfig/descriptions/turnIn": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/complete/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/0/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/startAlreadyComplete/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/startWithProgress/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/uniqueProgress/2stopshop/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/uniqueProgress/2stopshopclosed/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/uniqueProgress/frogfurnishing/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/uniqueProgress/frogfurnishingclosed/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/uniqueProgress/penguinbartop/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/uniqueProgress/penguinbartop2/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/uniqueProgress/shipyardcaptain/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/uniqueProgress/signstore/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/uniqueProgress/signstoreclosed/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/uniqueProgress/techlabconsole2/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/uniqueProgress/terramart/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/uniqueProgress/terramartclosed/senderName": "texts/quests/shared_.questtemplate.json"
+    "/scriptConfig/radioMessages/complete/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/genericProgress/0/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/startAlreadyComplete/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/startWithProgress/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/uniqueProgress/2stopshop/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/uniqueProgress/2stopshopclosed/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/uniqueProgress/frogfurnishing/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/uniqueProgress/frogfurnishingclosed/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/uniqueProgress/penguinbartop/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/uniqueProgress/penguinbartop2/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/uniqueProgress/shipyardcaptain/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/uniqueProgress/signstore/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/uniqueProgress/signstoreclosed/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/uniqueProgress/techlabconsole2/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/uniqueProgress/terramart/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/uniqueProgress/terramartclosed/senderName": "texts/shared_est.json"
   },
   "quests/outpost/penguin1.questtemplate": {
     "/scriptConfig/portraits/questComplete/title": "texts/wide_spread_fields.json",
@@ -25674,128 +25707,128 @@
   },
   "quests/story/apex_mission1.questtemplate": {
     "/scriptConfig/descriptions/turnIn": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/complete/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/0/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/complete/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/genericProgress/0/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/0/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/1/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/genericProgress/1/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/1/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/2/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/genericProgress/2/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/2/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/3/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/genericProgress/3/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/3/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/4/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/genericProgress/4/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/4/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/5/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/genericProgress/5/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/5/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/6/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/genericProgress/6/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/6/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/7/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/genericProgress/7/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/7/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/8/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/genericProgress/8/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/8/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/9/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/genericProgress/9/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/9/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/startAlreadyComplete/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/startWithProgress/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/startAlreadyComplete/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/startWithProgress/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/startWithProgress/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/uniqueProgress/bigapedoll/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/uniqueProgress/bigapetargetmap/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/uniqueProgress/minidronerack/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/uniqueProgress/miniknogintel1/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/uniqueProgress/miniknognewspaper/senderName": "texts/quests/shared_.questtemplate.json"
+    "/scriptConfig/radioMessages/uniqueProgress/bigapedoll/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/uniqueProgress/bigapetargetmap/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/uniqueProgress/minidronerack/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/uniqueProgress/miniknogintel1/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/uniqueProgress/miniknognewspaper/senderName": "texts/shared_est.json"
   },
   "quests/story/apex_mission2.questtemplate": {
     "/scriptConfig/descriptions/turnIn": "texts/quests/story/shared__mission2.questtemplate.json"
   },
   "quests/story/avian_mission1.questtemplate": {
     "/scriptConfig/descriptions/turnIn": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/complete/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/0/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/complete/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/genericProgress/0/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/0/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/1/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/genericProgress/1/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/1/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/2/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/3/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/genericProgress/2/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/genericProgress/3/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/3/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/4/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/genericProgress/4/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/4/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/5/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/6/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/7/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/8/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/genericProgress/5/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/genericProgress/6/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/genericProgress/7/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/genericProgress/8/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/8/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/9/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/genericProgress/9/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/9/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/startAlreadyComplete/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/startWithProgress/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/startAlreadyComplete/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/startWithProgress/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/startWithProgress/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/uniqueProgress/kluexmap1/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/uniqueProgress/kluexmural1/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/uniqueProgress/kluexmural2/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/uniqueProgress/kluexstatue1/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/uniqueProgress/kluexstatue2/senderName": "texts/quests/shared_.questtemplate.json"
+    "/scriptConfig/radioMessages/uniqueProgress/kluexmap1/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/uniqueProgress/kluexmural1/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/uniqueProgress/kluexmural2/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/uniqueProgress/kluexstatue1/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/uniqueProgress/kluexstatue2/senderName": "texts/shared_est.json"
   },
   "quests/story/avian_mission2.questtemplate": {
     "/scriptConfig/descriptions/turnIn": "texts/quests/story/shared__mission2.questtemplate.json"
   },
   "quests/story/floran_mission1.questtemplate": {
     "/scriptConfig/descriptions/turnIn": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/complete/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/0/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/complete/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/genericProgress/0/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/0/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/1/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/genericProgress/1/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/1/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/2/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/3/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/genericProgress/2/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/genericProgress/3/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/3/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/4/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/5/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/genericProgress/4/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/genericProgress/5/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/5/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/6/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/7/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/8/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/genericProgress/6/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/genericProgress/7/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/genericProgress/8/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/8/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/9/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/startAlreadyComplete/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/startWithProgress/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/genericProgress/9/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/startAlreadyComplete/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/startWithProgress/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/startWithProgress/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/uniqueProgress/championspeardisplay/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/uniqueProgress/floranhunterpainting/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/uniqueProgress/floranspinneret/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/uniqueProgress/floranwebbing/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/uniqueProgress/ixolingpike/senderName": "texts/quests/shared_.questtemplate.json"
+    "/scriptConfig/radioMessages/uniqueProgress/championspeardisplay/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/uniqueProgress/floranhunterpainting/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/uniqueProgress/floranspinneret/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/uniqueProgress/floranwebbing/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/uniqueProgress/ixolingpike/senderName": "texts/shared_est.json"
   },
   "quests/story/glitch_mission1.questtemplate": {
     "/scriptConfig/descriptions/turnIn": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/complete/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/0/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/complete/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/genericProgress/0/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/0/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/1/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/genericProgress/1/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/1/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/2/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/genericProgress/2/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/2/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/3/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/genericProgress/3/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/3/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/4/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/genericProgress/4/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/4/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/5/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/genericProgress/5/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/5/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/6/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/genericProgress/6/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/6/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/7/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/genericProgress/7/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/7/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/8/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/genericProgress/8/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/8/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/9/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/genericProgress/9/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/9/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/startAlreadyComplete/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/startWithProgress/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/startAlreadyComplete/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/startWithProgress/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/startWithProgress/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/uniqueProgress/glitchbaronfigure/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/uniqueProgress/glitchchess/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/uniqueProgress/glitchdecree/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/uniqueProgress/glitchhorndisplay/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/uniqueProgress/glitchscribe/senderName": "texts/quests/shared_.questtemplate.json"
+    "/scriptConfig/radioMessages/uniqueProgress/glitchbaronfigure/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/uniqueProgress/glitchchess/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/uniqueProgress/glitchdecree/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/uniqueProgress/glitchhorndisplay/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/uniqueProgress/glitchscribe/senderName": "texts/shared_est.json"
   },
   "quests/story/glitch_mission2.questtemplate": {
     "/scriptConfig/descriptions/turnIn": "texts/quests/story/shared__mission2.questtemplate.json"
@@ -25806,45 +25839,46 @@
   },
   "quests/story/hylotl_mission1.questtemplate": {
     "/scriptConfig/descriptions/turnIn": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/complete/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/0/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/complete/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/genericProgress/0/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/0/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/1/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/genericProgress/1/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/1/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/2/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/3/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/genericProgress/2/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/genericProgress/3/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/3/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/4/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/genericProgress/4/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/4/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/5/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/genericProgress/5/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/5/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/6/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/genericProgress/6/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/6/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/7/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/genericProgress/7/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/7/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/8/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/genericProgress/8/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/genericProgress/8/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/genericProgress/9/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/startAlreadyComplete/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/startWithProgress/senderName": "texts/quests/shared_.questtemplate.json",
+    "/scriptConfig/radioMessages/genericProgress/9/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/startAlreadyComplete/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/startWithProgress/senderName": "texts/shared_est.json",
     "/scriptConfig/radioMessages/startWithProgress/text": "texts/quests/story/shared__mission1.questtemplate.json",
-    "/scriptConfig/radioMessages/uniqueProgress/hylotllibraryposter1/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/uniqueProgress/hylotlmusicbox/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/uniqueProgress/librarycodex/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/uniqueProgress/librarymodel/senderName": "texts/quests/shared_.questtemplate.json",
-    "/scriptConfig/radioMessages/uniqueProgress/pagodaaquarium/senderName": "texts/quests/shared_.questtemplate.json"
+    "/scriptConfig/radioMessages/uniqueProgress/hylotllibraryposter1/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/uniqueProgress/hylotlmusicbox/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/uniqueProgress/librarycodex/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/uniqueProgress/librarymodel/senderName": "texts/shared_est.json",
+    "/scriptConfig/radioMessages/uniqueProgress/pagodaaquarium/senderName": "texts/shared_est.json"
   },
   "quests/story/hylotl_mission2.questtemplate": {
     "/scriptConfig/descriptions/turnIn": "texts/quests/story/shared__mission2.questtemplate.json"
   },
   "radiomessages/missions.radiomessages": {
-    "/avianmission04/senderName": "texts/shared_ion.json",
-    "/avianmission05/senderName": "texts/shared_ion.json",
-    "/avianmission06/senderName": "texts/shared_age/shared_mission.json",
-    "/hylotlmission03b/senderName": "texts/shared_ion.json",
-    "/tentaclemission-bottom2/senderName": "texts/shared_age/shared_mission.json",
-    "/tentaclemission-destruction2/senderName": "texts/shared_age/shared_mission.json",
-    "/tentaclemission-destruction3/senderName": "texts/shared_ion.json"
+    "/avianmission04/senderName": "texts/wide_spread_fields.json",
+    "/avianmission05/senderName": "texts/wide_spread_fields.json",
+    "/avianmission06/senderName": "texts/wide_spread_fields.json",
+    "/hylotlmission03b/senderName": "texts/wide_spread_fields.json",
+    "/tentaclemission-bossroom2/senderName": "texts/wide_spread_fields.json",
+    "/tentaclemission-bottom2/senderName": "texts/wide_spread_fields.json",
+    "/tentaclemission-destruction2/senderName": "texts/wide_spread_fields.json",
+    "/tentaclemission-destruction3/senderName": "texts/wide_spread_fields.json"
   },
   "radiomessages/quests.radiomessages": {
     "/gaterepair-gateFound1b/senderName": "texts/wide_spread_fields.json",
@@ -26290,7 +26324,13 @@
     "/charGenTextLabels/9": "texts/species/shared_.species.json"
   },
   "stagehands/mission/glitchmissionmanager.stagehand": {
-    "/radioMessages/reinforcements/2": "texts/shared_age/shared_mission.json"
+    "/radioMessages/additionalBallista/2": "texts/wide_spread_fields.json",
+    "/radioMessages/bossDefeated/2": "texts/wide_spread_fields.json",
+    "/radioMessages/finalWaveComplete/2": "texts/wide_spread_fields.json",
+    "/radioMessages/firstAirforce/2": "texts/wide_spread_fields.json",
+    "/radioMessages/firstBallista/2": "texts/wide_spread_fields.json",
+    "/radioMessages/reinforcements/2": "texts/wide_spread_fields.json",
+    "/radioMessages/wallAttacked/2": "texts/wide_spread_fields.json"
   },
   "stats/effects/beamburning/beamburning.statuseffect": {
     "/label": "texts/stats/effects/shared_burning/shared_burning.statuseffect.json"

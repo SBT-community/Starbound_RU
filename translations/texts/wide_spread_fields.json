@@ -480,6 +480,26 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "npcs/story/baron.npctype": [
+        "/npcname"
+      ],
+      "stagehands/mission/glitchmissionmanager.stagehand": [
+        "/radioMessages/additionalBallista/2",
+        "/radioMessages/bossDefeated/2",
+        "/radioMessages/finalWaveComplete/2",
+        "/radioMessages/firstAirforce/2",
+        "/radioMessages/firstBallista/2",
+        "/radioMessages/wallAttacked/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Baron",
+      "Rus": "Барон"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "biomes/surface/barren.biome": [
         "/friendlyName"
       ],
@@ -958,6 +978,32 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "npcs/outpost/koichioutpost.npctype": [
+        "/npcname"
+      ],
+      "npcs/story/koichi.npctype": [
+        "/npcname"
+      ],
+      "npcs/story/koichihologram.npctype": [
+        "/npcname"
+      ],
+      "radiomessages/missions.radiomessages": [
+        "/avianmission06/senderName",
+        "/tentaclemission-bottom2/senderName",
+        "/tentaclemission-destruction2/senderName"
+      ],
+      "stagehands/mission/glitchmissionmanager.stagehand": [
+        "/radioMessages/reinforcements/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Koichi",
+      "Rus": "Коичи"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "interface/cockpit/cockpit.config": [
         "/planetTypeNames/magma"
       ],
@@ -991,6 +1037,35 @@
     "Texts": {
       "Eng": "Matter Manipulator",
       "Rus": "Манипулятор материи"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/arena1/labels/name",
+        "/arena2/labels/name",
+        "/arena3/labels/name"
+      ],
+      "npcs/outpost/nuruoutpost.npctype": [
+        "/npcname"
+      ],
+      "npcs/story/nuru.npctype": [
+        "/npcname"
+      ],
+      "npcs/story/nurufight.npctype": [
+        "/npcname"
+      ],
+      "radiomessages/missions.radiomessages": [
+        "/avianmission04/senderName",
+        "/avianmission05/senderName",
+        "/hylotlmission03b/senderName",
+        "/tentaclemission-destruction3/senderName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nuru",
+      "Rus": "Нуру"
     }
   },
   {
@@ -1383,6 +1458,24 @@
     "Texts": {
       "Eng": "That's it, I give up. Time to leave!",
       "Rus": "Всё, это выше моих сил! Я ухожу!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/tonauacoutpost.npctype": [
+        "/npcname"
+      ],
+      "npcs/story/tonauac.npctype": [
+        "/npcname"
+      ],
+      "radiomessages/missions.radiomessages": [
+        "/tentaclemission-bossroom2/senderName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tonauac",
+      "Rus": "Тонауак"
     }
   },
   {
