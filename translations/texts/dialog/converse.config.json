@@ -17439,7 +17439,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Куда ты попадаешь, когда твой корабль разгоняется?"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/apex/apex/8"
@@ -17447,7 +17449,7 @@
     },
     "Texts": {
       "Eng": "Where do you go when you take off in your ship?",
-      "Rus": "Куда ты попадаешь, когда твой корабль разгоняется?"
+      "Rus": "Куда ты отправишься, когда вернёшься на свой корабль?"
     }
   },
   {
@@ -17459,7 +17461,7 @@
     },
     "Texts": {
       "Eng": "Where is your home planet? Do you even come from a planet?",
-      "Rus": ""
+      "Rus": "С какой ты планеты? И вообще с планеты ли?"
     }
   },
   {
@@ -17471,7 +17473,7 @@
     },
     "Texts": {
       "Eng": "Where were you from on Earth, then?",
-      "Rus": ""
+      "Rus": "А где именно на Земле ты жил<player.pronoun.verbEnding>?"
     }
   },
   {
@@ -17483,7 +17485,7 @@
     },
     "Texts": {
       "Eng": "Which meat is the best meat?",
-      "Rus": ""
+      "Rus": "Какое мясо самое лучшее?"
     }
   },
   {
@@ -17495,7 +17497,7 @@
     },
     "Texts": {
       "Eng": "Which of you came first? Your egg or.. ERROR",
-      "Rus": ""
+      "Rus": "Что у вас появилось раньше - яйцо или... ОШИБКА"
     }
   },
   {
@@ -17519,7 +17521,7 @@
     },
     "Texts": {
       "Eng": "While I abhor violence, I still deeply respect our warriors.",
-      "Rus": ""
+      "Rus": "Мне противно насилие, но всё же я испытываю глубокое уважение к вашим воинам."
     }
   },
   {
@@ -17531,7 +17533,7 @@
     },
     "Texts": {
       "Eng": "While things must be practical, never undervalue beauty.",
-      "Rus": ""
+      "Rus": "Хоть вещи и должны быть практичными, не стоит недооценивать красоту."
     }
   },
   {
@@ -18132,7 +18134,7 @@
     },
     "Texts": {
       "Eng": "You are nice Floran.",
-      "Rus": "Ты славный Флоран."
+      "Rus": "Ты ссславный флоран."
     }
   },
   {
