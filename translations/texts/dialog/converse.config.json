@@ -17498,7 +17498,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Who cares what people say? I think you are a nice young Floran."
+      "Eng": "Who cares what people say? I think you are a nice young Floran.",
+      "Rus": "Какая разница, что говорят другие? Лично я считаю, что ты славный юный флоран."
     }
   },
   {
@@ -17509,7 +17510,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Who created you guys, then?"
+      "Eng": "Who created you guys, then?",
+      "Rus": "Так кто вас создал?"
     }
   },
   {
@@ -17520,7 +17522,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Who is \"Big Ape\"?"
+      "Eng": "Who is \"Big Ape\"?",
+      "Rus": "Кто такой Большой Эйп?"
     }
   },
   {
@@ -17531,7 +17534,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Who is your favourite Hylotl painter? It's so difficult to choose between the masters."
+      "Eng": "Who is your favourite Hylotl painter? It's so difficult to choose between the masters.",
+      "Rus": "Кто твой любимый художник-хилотл? Так сложно выбрать лишь одного из великих творцов."
     }
   },
   {
@@ -17542,7 +17546,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Who's this Kluex I keep hearing about, then?"
+      "Eng": "Who's this Kluex I keep hearing about, then?",
+      "Rus": "Так кто этот Клюэкс, о котором я то и дело слышу?"
     }
   },
   {
@@ -17553,7 +17558,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Whoa, you're something new alright..."
+      "Eng": "Whoa, you're something new alright...",
+      "Rus": "Ого, впервые такое вижу..."
     }
   },
   {
@@ -17564,7 +17570,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Why are you bothering me?"
+      "Eng": "Why are you bothering me?",
+      "Rus": "Зачем ты меня отвлекаешь?"
     }
   },
   {
@@ -17575,7 +17582,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Why are you here?"
+      "Eng": "Why are you here?",
+      "Rus": "Зачем ты здесь?"
     }
   },
   {
@@ -17587,7 +17595,7 @@
     },
     "Texts": {
       "Eng": "Why are you wearing that flesh over your chassis?",
-      "Rus": ""
+      "Rus": "Зачем ты носишь всю эту плоть поверх шасси?"
     }
   },
   {
@@ -17603,7 +17611,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Зачем вы, глитчи, произносите эти отдельные слова перед каждой фразой?"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/apex/glitch/19"
@@ -17611,7 +17621,7 @@
     },
     "Texts": {
       "Eng": "Why do you Glitch say these lone words before speaking?",
-      "Rus": ""
+      "Rus": "Зачем вы, глитчи, произносите эти отдельные словечки прежде, чем что-то сказать?"
     }
   },
   {
@@ -17662,7 +17672,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Why, you're almost as colourful as me!"
+      "Eng": "Why, you're almost as colourful as me!",
+      "Rus": ""
     }
   },
   {
@@ -17928,7 +17939,7 @@
     },
     "Texts": {
       "Eng": "You are always welcome here.",
-      "Rus": "Тебе здесь всегда рады."
+      "Rus": "Здесь тебя всегда рады видеть."
     }
   },
   {
@@ -17940,7 +17951,7 @@
     },
     "Texts": {
       "Eng": "You are always welcome.",
-      "Rus": ""
+      "Rus": "Тебе здесь всегда рады."
     }
   },
   {
