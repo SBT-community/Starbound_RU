@@ -18,12 +18,22 @@ function questParameterText(paramValue)
 
   elseif paramValue.type == "itemList" then
     local listString = ""
+    local count = 0
     for _,item in ipairs(paramValue.items) do
       if listString ~= "" then
-        listString = listString .. ", "
+        if count > 1 then
+          listString = "; " .. listString
+        else
+          listString = " и " .. listString
+        end
       end
-      local thingEnd = getCountEnding(item.count)
-      listString = listString .. string.format("%s, %s штук%s", itemShortDescription(item), item.count, thingEnd)
+      if item.count > 1 then
+        local thingEnd = getCountEnding(item.count)
+        listString = string.format("%s, %s штук%s", itemShortDescription(item), item.count, thingEnd) .. listString
+      else
+        listString = itemShortDescription(item) .. listString
+      end
+      count = count + 1
     end
     return listString
   end
