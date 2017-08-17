@@ -338,7 +338,7 @@
     },
     "dialog": {
       "airship.config.json": 46,
-      "alpaca.config.json": 58,
+      "alpaca.config.json": 60,
       "arrivedhome.config.json": 54,
       "clues.config.json": 50,
       "colourful.config.json": 33,
@@ -484,7 +484,7 @@
         "sbvn": {
           "games": {
             "beautifulattempt": {
-              "beautifulattempt.sbvn.json": 2
+              "beautifulattempt.sbvn.json": 97
             }
           },
           "sbvngui.config.json": 2
@@ -560,7 +560,7 @@
         "deletedialog.config.json": 1,
         "error.config.json": 1,
         "graphicsmenu.config.json": 10,
-        "keybindingsmenu.config.json": 50,
+        "keybindingsmenu.config.json": 51,
         "merchant.config.json": 2,
         "multiplayer.config.json": 5,
         "pixelcompressor.config.json": 2,
@@ -1196,15 +1196,15 @@
               "effectzone": {
                 "energyzone.weaponability.json": 0,
                 "forcecage.weaponability.json": 0,
-                "healingzone.weaponability.json": 0,
+                "healingzone.weaponability.json": 1,
                 "kluexzone.weaponability.json": 0,
-                "lowgravzone.weaponability.json": 0,
+                "lowgravzone.weaponability.json": 1,
                 "pullzone.weaponability.json": 0,
                 "pushzone.weaponability.json": 0,
-                "slowzone.weaponability.json": 0
+                "slowzone.weaponability.json": 1
               },
               "guidedbolt": {
-                "guidedbolt.weaponability.json": 0
+                "guidedbolt.weaponability.json": 1
               }
             },
             "generated": {
@@ -4671,7 +4671,7 @@
         "floranspectator.npctype.json": 21,
         "miner.npctype.json": 79,
         "minersurvivor.npctype.json": 14,
-        "penguinscientist.npctype.json": 0,
+        "penguinscientist.npctype.json": 1,
         "protectoratecourtyardlounger.npctype.json": 4,
         "protectoratehallstaff.npctype.json": 4,
         "protectoratehallstudent1.npctype.json": 3,
@@ -4805,10 +4805,10 @@
         "aviantomb.npctype.json": 7,
         "creepling.npctype.json": 3,
         "electrician.npctype.json": 18,
-        "evilglitchtenant.npctype.json": 0,
+        "evilglitchtenant.npctype.json": 2,
         "floranhuntinggrounds.npctype.json": 4,
         "friendlycultist.npctype.json": 5,
-        "glitchcastle.npctype.json": 8,
+        "glitchcastle.npctype.json": 9,
         "glitchsewer.npctype.json": 6,
         "hazmat.npctype.json": 6,
         "humanbunker.npctype.json": 6,
@@ -4949,7 +4949,7 @@
           "orbideAF.object.json": 2
         },
         "parasprite": {
-          "paraspriteaf.object.json": 0
+          "paraspriteaf.object.json": 2
         },
         "paratail": {
           "paratailAF.object.json": 2
@@ -5064,7 +5064,7 @@
           "airbooster.object.json": 9
         },
         "ancientbust": {
-          "ancientbust.object.json": 8
+          "ancientbust.object.json": 9
         },
         "ancientchest": {
           "ancientchest.object.json": 9
@@ -5092,7 +5092,7 @@
         },
         "ancientmural": {
           "shared_ancientmural": {
-            "shared_ancientmural.json": 8
+            "shared_ancientmural.json": 9
           }
         },
         "ancientpillar": {
@@ -5170,7 +5170,7 @@
           "lightstreaks.object.json": 9
         },
         "monolithgate": {
-          "monolithgate.object.json": 8
+          "monolithgate.object.json": 9
         },
         "powerbooster": {
           "powerbooster.object.json": 9
@@ -5185,7 +5185,7 @@
           "shared_ancientlight.json": 7
         },
         "shared_ancientpot": {
-          "shared_ancientpot.json": 6
+          "shared_ancientpot.json": 8
         },
         "shared_ancientstriplight": {
           "shared_ancientstriplight.json": 9
@@ -5197,7 +5197,7 @@
           "shared_hologram.json": 2
         },
         "shared_monolithstatue": {
-          "shared_monolithstatue.json": 8
+          "shared_monolithstatue.json": 9
         },
         "speedbooster": {
           "speedbooster.object.json": 9
@@ -5249,7 +5249,7 @@
           "apexbrainjar.object.json": 8
         },
         "apexbustmale": {
-          "apexbustmale.object.json": 7
+          "apexbustmale.object.json": 9
         },
         "apexceilingtv": {
           "apexceilingtv.object.json": 9
@@ -5258,7 +5258,7 @@
           "apexcomfychair.object.json": 8
         },
         "apexconsole1": {
-          "apexconsole1.object.json": 8
+          "apexconsole1.object.json": 9
         },
         "apexconsolekeyboard": {
           "apexconsolekeyboard.object.json": 7
@@ -5378,7 +5378,7 @@
           "apexpod2.object.json": 5
         },
         "apexradio": {
-          "apexradio.object.json": 8
+          "apexradio.object.json": 9
         },
         "apexrecordplayer": {
           "apexrecordplayer.object.json": 6
@@ -8343,7 +8343,7 @@
         "arcadegame": {
           "arcadegameclosed.object.json": 0,
           "arcadegameobject.object.json": 2,
-          "shared_arcadegame.json": 1
+          "shared_arcadegame.json": 5
         },
         "arcademachine": {
           "arcademachine.object.json": 9
@@ -11921,7 +11921,7 @@
           "stationdisplay.object.json": 2
         },
         "stationdoor": {
-          "shared_stationdoor.json": 0,
+          "shared_stationdoor.json": 2,
           "stationdoor.object.json": 2,
           "stationdoorlarge.object.json": 2
         },
@@ -11960,7 +11960,7 @@
           "stationwallpanel.object.json": 2
         },
         "telescope": {
-          "telescope.object.json": 2
+          "telescope.object.json": 9
         },
         "wiredtarget": {
           "wiredtarget.object.json": 0
@@ -13431,7 +13431,7 @@
       "glitchfemalenamegen.config.json": 9,
       "glitchmalenamegen.config.json": 10,
       "human.species.json": 5,
-      "humanfemalenamegen.config.json": 127,
+      "humanfemalenamegen.config.json": 138,
       "humanmalenamegen.config.json": 123,
       "humannamegen.config.json": 13,
       "hylotl.species.json": 7,
