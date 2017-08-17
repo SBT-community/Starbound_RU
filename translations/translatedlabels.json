@@ -338,12 +338,12 @@
     },
     "dialog": {
       "airship.config.json": 46,
-      "alpaca.config.json": 58,
+      "alpaca.config.json": 60,
       "arrivedhome.config.json": 54,
       "clues.config.json": 50,
       "colourful.config.json": 33,
       "combat.config.json": 185,
-      "converse.config.json": 1582,
+      "converse.config.json": 1655,
       "crewmember.config.json": 39,
       "cultist.config.json": 31,
       "deadbeat.config.json": 23,
@@ -362,7 +362,7 @@
       "mutantminer.config.json": 10,
       "oremerchant.config.json": 119,
       "outpost.config.json": 42,
-      "quest.config.json": 107,
+      "quest.config.json": 112,
       "rebel.config.json": 3,
       "scientist.config.json": 12,
       "shared_.config.json": 101,
@@ -484,7 +484,7 @@
         "sbvn": {
           "games": {
             "beautifulattempt": {
-              "beautifulattempt.sbvn.json": 2
+              "beautifulattempt.sbvn.json": 95
             }
           },
           "sbvngui.config.json": 2
@@ -560,7 +560,7 @@
         "deletedialog.config.json": 1,
         "error.config.json": 1,
         "graphicsmenu.config.json": 10,
-        "keybindingsmenu.config.json": 50,
+        "keybindingsmenu.config.json": 51,
         "merchant.config.json": 2,
         "multiplayer.config.json": 5,
         "pixelcompressor.config.json": 2,
@@ -1196,15 +1196,15 @@
               "effectzone": {
                 "energyzone.weaponability.json": 0,
                 "forcecage.weaponability.json": 0,
-                "healingzone.weaponability.json": 0,
+                "healingzone.weaponability.json": 1,
                 "kluexzone.weaponability.json": 0,
-                "lowgravzone.weaponability.json": 0,
+                "lowgravzone.weaponability.json": 1,
                 "pullzone.weaponability.json": 0,
                 "pushzone.weaponability.json": 0,
-                "slowzone.weaponability.json": 0
+                "slowzone.weaponability.json": 1
               },
               "guidedbolt": {
-                "guidedbolt.weaponability.json": 0
+                "guidedbolt.weaponability.json": 1
               }
             },
             "generated": {
@@ -4606,8 +4606,8 @@
       "crew": {
         "crewmember.npctype.json": 164,
         "crewmemberchemist.npctype.json": 7,
-        "crewmemberengineer.npctype.json": 2,
-        "crewmemberjanitor.npctype.json": 3,
+        "crewmemberengineer.npctype.json": 3,
+        "crewmemberjanitor.npctype.json": 5,
         "crewmembermechanic.npctype.json": 3,
         "crewmembermedic.npctype.json": 19,
         "crewmemberoutlaw.npctype.json": 49,
@@ -4671,7 +4671,7 @@
         "floranspectator.npctype.json": 21,
         "miner.npctype.json": 79,
         "minersurvivor.npctype.json": 14,
-        "penguinscientist.npctype.json": 0,
+        "penguinscientist.npctype.json": 1,
         "protectoratecourtyardlounger.npctype.json": 4,
         "protectoratehallstaff.npctype.json": 4,
         "protectoratehallstudent1.npctype.json": 3,
@@ -4805,10 +4805,10 @@
         "aviantomb.npctype.json": 7,
         "creepling.npctype.json": 3,
         "electrician.npctype.json": 18,
-        "evilglitchtenant.npctype.json": 0,
+        "evilglitchtenant.npctype.json": 2,
         "floranhuntinggrounds.npctype.json": 4,
         "friendlycultist.npctype.json": 5,
-        "glitchcastle.npctype.json": 8,
+        "glitchcastle.npctype.json": 9,
         "glitchsewer.npctype.json": 6,
         "hazmat.npctype.json": 6,
         "humanbunker.npctype.json": 6,
@@ -4949,7 +4949,7 @@
           "orbideAF.object.json": 2
         },
         "parasprite": {
-          "paraspriteaf.object.json": 0
+          "paraspriteaf.object.json": 2
         },
         "paratail": {
           "paratailAF.object.json": 2
@@ -5064,7 +5064,7 @@
           "airbooster.object.json": 9
         },
         "ancientbust": {
-          "ancientbust.object.json": 8
+          "ancientbust.object.json": 9
         },
         "ancientchest": {
           "ancientchest.object.json": 9
@@ -5092,7 +5092,7 @@
         },
         "ancientmural": {
           "shared_ancientmural": {
-            "shared_ancientmural.json": 8
+            "shared_ancientmural.json": 9
           }
         },
         "ancientpillar": {
@@ -5170,7 +5170,7 @@
           "lightstreaks.object.json": 9
         },
         "monolithgate": {
-          "monolithgate.object.json": 8
+          "monolithgate.object.json": 9
         },
         "powerbooster": {
           "powerbooster.object.json": 9
@@ -5185,7 +5185,7 @@
           "shared_ancientlight.json": 7
         },
         "shared_ancientpot": {
-          "shared_ancientpot.json": 6
+          "shared_ancientpot.json": 8
         },
         "shared_ancientstriplight": {
           "shared_ancientstriplight.json": 9
@@ -5197,7 +5197,7 @@
           "shared_hologram.json": 2
         },
         "shared_monolithstatue": {
-          "shared_monolithstatue.json": 8
+          "shared_monolithstatue.json": 9
         },
         "speedbooster": {
           "speedbooster.object.json": 9
@@ -5249,7 +5249,7 @@
           "apexbrainjar.object.json": 8
         },
         "apexbustmale": {
-          "apexbustmale.object.json": 7
+          "apexbustmale.object.json": 9
         },
         "apexceilingtv": {
           "apexceilingtv.object.json": 9
@@ -5258,7 +5258,7 @@
           "apexcomfychair.object.json": 8
         },
         "apexconsole1": {
-          "apexconsole1.object.json": 8
+          "apexconsole1.object.json": 9
         },
         "apexconsolekeyboard": {
           "apexconsolekeyboard.object.json": 7
@@ -5378,7 +5378,7 @@
           "apexpod2.object.json": 5
         },
         "apexradio": {
-          "apexradio.object.json": 8
+          "apexradio.object.json": 9
         },
         "apexrecordplayer": {
           "apexrecordplayer.object.json": 6
@@ -5684,7 +5684,7 @@
           "paintinggothic.object.json": 0
         },
         "paintingmonalisa": {
-          "paintingmonalisa.object.json": 0
+          "paintingmonalisa.object.json": 7
         },
         "paintingpearlearring": {
           "paintingpearlearring.object.json": 0
@@ -7765,7 +7765,7 @@
           "shared_bananaseed.object.json": 9
         },
         "beakseed": {
-          "shared_beakseedseed.object.json": 8
+          "shared_beakseedseed.object.json": 9
         },
         "boltbulb": {
           "boltbulbseed.object.json": 2,
@@ -7841,13 +7841,13 @@
           "shared_feathercrownseed.object.json": 9
         },
         "flowerblue": {
-          "flowerblue.object.json": 4
+          "flowerblue.object.json": 9
         },
         "flowerred": {
-          "flowerred.object.json": 0
+          "flowerred.object.json": 8
         },
         "flowerspring": {
-          "flowerspring.object.json": 0
+          "flowerspring.object.json": 7
         },
         "floweryellow": {
           "floweryellow.object.json": 8
@@ -8343,7 +8343,7 @@
         "arcadegame": {
           "arcadegameclosed.object.json": 0,
           "arcadegameobject.object.json": 2,
-          "shared_arcadegame.json": 1
+          "shared_arcadegame.json": 5
         },
         "arcademachine": {
           "arcademachine.object.json": 9
@@ -11921,7 +11921,7 @@
           "stationdisplay.object.json": 2
         },
         "stationdoor": {
-          "shared_stationdoor.json": 0,
+          "shared_stationdoor.json": 2,
           "stationdoor.object.json": 2,
           "stationdoorlarge.object.json": 2
         },
@@ -11960,7 +11960,7 @@
           "stationwallpanel.object.json": 2
         },
         "telescope": {
-          "telescope.object.json": 2
+          "telescope.object.json": 9
         },
         "wiredtarget": {
           "wiredtarget.object.json": 0
@@ -13245,9 +13245,9 @@
           "barter.questtemplate.json": 7,
           "borrow.questtemplate.json": 24,
           "bribe.questtemplate.json": 4,
-          "build_home.questtemplate.json": 22,
+          "build_home.questtemplate.json": 24,
           "capture_pet.questtemplate.json": 46,
-          "collect_fine.questtemplate.json": 2,
+          "collect_fine.questtemplate.json": 8,
           "collect_gift.questtemplate.json": 10,
           "cooking.questtemplate.json": 12,
           "craft.questtemplate.json": 12,
@@ -13383,7 +13383,7 @@
     "shared_cora.json": 1,
     "shared_ect.json": 1,
     "shared_eri.json": 2,
-    "shared_est.json": 0,
+    "shared_est.json": 1,
     "shared_goldenplatform.mat.json": 5,
     "shared_ice..json": 1,
     "shared_ies.json": 1,
@@ -13431,7 +13431,7 @@
       "glitchfemalenamegen.config.json": 9,
       "glitchmalenamegen.config.json": 10,
       "human.species.json": 5,
-      "humanfemalenamegen.config.json": 127,
+      "humanfemalenamegen.config.json": 138,
       "humanmalenamegen.config.json": 123,
       "humannamegen.config.json": 13,
       "hylotl.species.json": 7,
