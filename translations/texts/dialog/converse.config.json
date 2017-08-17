@@ -16890,7 +16890,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Какой эксперимент породил тебя?"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/apex/novakid/3"
@@ -16898,7 +16900,7 @@
     },
     "Texts": {
       "Eng": "What experiment produced you?",
-      "Rus": "Какой эксперимент породил тебя?"
+      "Rus": "Что за эксперимент породил тебя?"
     }
   },
   {
@@ -16915,7 +16917,8 @@
   },
   {
     "DeniedAlternatives": [
-      ""
+      "",
+      "То, что случилось с Землёй, так печально."
     ],
     "Files": {
       "dialog/converse.config": [
@@ -16928,7 +16931,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "А что, если мы правда просто бритые апексы?"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/human/human/14"
@@ -16936,7 +16941,7 @@
     },
     "Texts": {
       "Eng": "What if we're really just shaved Apex?",
-      "Rus": "А что, если мы правда просто бритые апексы?"
+      "Rus": "Что, если мы на самом деле просто бритые апексы?"
     }
   },
   {
@@ -16954,7 +16959,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Что такое \"пацифизм\"?"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/floran/hylotl/9"
@@ -16966,7 +16973,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Что такое \"романс\"?"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/floran/generic/23"
@@ -16974,7 +16983,7 @@
     },
     "Texts": {
       "Eng": "What is \"Romance\"?",
-      "Rus": "Что такое \"романс\"?"
+      "Rus": "Что такое \"романтика\"?"
     }
   },
   {
@@ -16990,7 +16999,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Что за Министерство?"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/glitch/apex/11/glitchEmotedText"
@@ -16998,11 +17009,13 @@
     },
     "Texts": {
       "Eng": "What is a Miniknog?",
-      "Rus": "Что за Министерство?"
+      "Rus": "Чем занимается ваше Министерство?"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Что тут происходит?"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/glitch/generic/9/glitchEmotedText"
@@ -17010,7 +17023,7 @@
     },
     "Texts": {
       "Eng": "What is happening here?",
-      "Rus": "Что тут происходит?"
+      "Rus": "Что здесь происходит?"
     }
   },
   {
@@ -17055,7 +17068,8 @@
   },
   {
     "DeniedAlternatives": [
-      "Какой была Земля? О... наверное, я слишком рано задаю такие вопросы. Прости."
+      "Какой была Земля? О... наверное, я слишком рано задаю такие вопросы. Прости.",
+      "Какой была Земля? Ой... Слишком рано задавать этот вопрос? Моя вина."
     ],
     "Files": {
       "dialog/converse.config": [
@@ -17064,12 +17078,13 @@
     },
     "Texts": {
       "Eng": "What kind of planet was Earth? Oh... Is it too soon to ask this question? My bad.",
-      "Rus": "Какой была Земля? Ой... Слишком рано задавать этот вопрос? Моя вина."
+      "Rus": "Какой была Земля? О... наверное, пока не следует задавать таких вопросов. Прости."
     }
   },
   {
     "DeniedAlternatives": [
-      "На каком растении вы созреваете?"
+      "На каком растении вы созреваете?",
+      "Из какого растения вы появляетесь на свет?"
     ],
     "Files": {
       "dialog/converse.config": [
@@ -17114,7 +17129,7 @@
     },
     "Texts": {
       "Eng": "What metal are you made from?",
-      "Rus": "Из какого металла ты сделан?"
+      "Rus": "Из какого ты металла?"
     }
   },
   {
@@ -17660,12 +17675,13 @@
     },
     "Texts": {
       "Eng": "Why have you come here, what are you looking for?",
-      "Rus": ""
+      "Rus": "Зачем ты здесь, что тебе нужно?"
     }
   },
   {
     "DeniedAlternatives": [
-      "Почему готовить так сложно? Все мои блюда ужасны на вкус ."
+      "Почему готовить так сложно? Все мои блюда ужасны на вкус .",
+      "Почему готовить так сложно? Все мои блюда ужасны на вкус."
     ],
     "Files": {
       "dialog/converse.config": [
@@ -17674,11 +17690,13 @@
     },
     "Texts": {
       "Eng": "Why is cooking so hard? All my dishes taste terrible.",
-      "Rus": ""
+      "Rus": "Почему готовить так сложно? Все мои блюда отвратительны на вкус. "
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "А? Привет."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/greeting/glitch/default/21/glitchEmotedText"
@@ -17686,11 +17704,13 @@
     },
     "Texts": {
       "Eng": "Why, hello!",
-      "Rus": "А? Привет."
+      "Rus": "О, приветствую!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      ""
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/novakid/hylotl/6"
@@ -17698,7 +17718,7 @@
     },
     "Texts": {
       "Eng": "Why, you're almost as colourful as me!",
-      "Rus": ""
+      "Rus": "А цветом-то ты не шибко тускней меня будешь!"
     }
   },
   {
@@ -17710,7 +17730,7 @@
     },
     "Texts": {
       "Eng": "Will you eh... be here long?",
-      "Rus": ""
+      "Rus": "Ты э... надолго сюда?"
     }
   },
   {
@@ -17722,7 +17742,7 @@
     },
     "Texts": {
       "Eng": "Wish I had feathers.",
-      "Rus": ""
+      "Rus": "Вот бы у меня были перья."
     }
   },
   {
@@ -17734,11 +17754,13 @@
     },
     "Texts": {
       "Eng": "Wonderful to meet you.",
-      "Rus": ""
+      "Rus": "Безмерно рад<self.pronoun.verbEnding> знакомству."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Замечательно, давайте отпразднуем ваше прибытие!"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/hylotl/hylotl/1"
@@ -17746,7 +17768,7 @@
     },
     "Texts": {
       "Eng": "Wonderful, let us celebrate your arrival!",
-      "Rus": "Замечательно, давайте отпразднуем ваше прибытие!"
+      "Rus": "Замечательно, давай отпразднуем твоё прибытие!"
     }
   },
   {
@@ -17758,7 +17780,7 @@
     },
     "Texts": {
       "Eng": "Would you care for a banana?",
-      "Rus": ""
+      "Rus": "Не желаешь ли банан?"
     }
   },
   {
@@ -17770,7 +17792,7 @@
     },
     "Texts": {
       "Eng": "Would you consider science an art? It seems to take that place in Apex society.",
-      "Rus": ""
+      "Rus": "Считаешь ли ты науку искусством? Похоже, именно это место она занимает в обществе апексов."
     }
   },
   {
@@ -17782,7 +17804,7 @@
     },
     "Texts": {
       "Eng": "Would you like some water?",
-      "Rus": ""
+      "Rus": "Принести тебе воды?"
     }
   },
   {
@@ -17794,7 +17816,7 @@
     },
     "Texts": {
       "Eng": "Would you... would you be offended if I ran my fingers through your mane?",
-      "Rus": ""
+      "Rus": "Не... не сочтёшь ли ты оскорблением, если я поглажу тебя по гриве?"
     }
   },
   {
@@ -17806,7 +17828,7 @@
     },
     "Texts": {
       "Eng": "Wow, a living plant! Oh wait, this is foolish - all plants live.",
-      "Rus": ""
+      "Rus": "Ух ты, живое растение! Погоди, это глупо - все растения живые."
     }
   },
   {
@@ -17818,7 +17840,7 @@
     },
     "Texts": {
       "Eng": "Wow, an Avian Protector!",
-      "Rus": ""
+      "Rus": "Вот это да! Авианин из Протектората!"
     }
   },
   {
@@ -17882,7 +17904,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Вчера, сегодня, завтра, всё становится хуже и хуже."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/avian/generic/81"
@@ -17890,7 +17914,7 @@
     },
     "Texts": {
       "Eng": "Yesterday, today, tomorrow - things keep going from bad to worse.",
-      "Rus": "Вчера, сегодня, завтра, всё становится хуже и хуже."
+      "Rus": "Вчера, сегодня, завтра - всё становится только хуже."
     }
   },
   {
@@ -17956,7 +17980,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Здесь тебя всегда рады видеть."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/apex/generic/16"
@@ -17968,7 +17994,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Тебе здесь всегда рады."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/greeting/hylotl/default/14"
@@ -18040,7 +18068,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ты в Протекторате?"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/apex/generic/38"
@@ -18048,7 +18078,7 @@
     },
     "Texts": {
       "Eng": "You are in the Protectorate?",
-      "Rus": "Ты в Протекторате?"
+      "Rus": "Ты из Протектората?"
     }
   },
   {
@@ -18088,7 +18118,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ты хорошший флоран."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/floran/floran/10"
@@ -18100,7 +18132,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ты не так<player.pronoun.adjEnding> уж жутк<player.pronoun.adjEnding>."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/glitch/floran/16/glitchEmotedText"
@@ -18272,7 +18306,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "У тебя же  нет вирусов?"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/glitch/glitch/14/glitchEmotedText"
@@ -18320,7 +18356,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ты пахнешшшь не как флоран..."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/floran/novakid/19"
@@ -18356,7 +18394,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ты ешь ссемена? Ты монссстр."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/floran/avian/12"
@@ -18364,7 +18404,7 @@
     },
     "Texts": {
       "Eng": "You eat seeds? You monsster.",
-      "Rus": "Ты ешь ссемена? Ты монссстр."
+      "Rus": "Ты ешшшь семена? Ты чудовищще."
     }
   },
   {
