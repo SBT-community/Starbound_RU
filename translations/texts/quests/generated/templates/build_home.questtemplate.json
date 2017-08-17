@@ -22,7 +22,7 @@
     },
     "Texts": {
       "Eng": "<questGiver>'s new friend",
-      "Rus": "Новый друг для <questGiver>"
+      "Rus": "<questGiver> ищет нового друга"
     }
   },
   {
@@ -36,7 +36,7 @@
     },
     "Texts": {
       "Eng": "A new friend for <questGiver>",
-      "Rus": "Новый друг для <questGiver>"
+      "Rus": "<questGiver> ищет нового друга"
     }
   },
   {
@@ -120,7 +120,7 @@
     },
     "Texts": {
       "Eng": "I was unable to help <questGiver> make a new friend. <questGiver.pronoun.capitalSubject> probably has enough friends as it is.",
-      "Rus": "Я не смог помочь <questGiver> завести нового друга. <questGiver.pronoun.capitalSubject> , наверное, имеет уже достаточно друзей."
+      "Rus": "Я не смог помочь завести нового друга. <questGiver>, наверное, имеет уже достаточно друзей."
     }
   },
   {
@@ -134,7 +134,7 @@
     },
     "Texts": {
       "Eng": "I was unable to help <questGiver> make a new friend. I'm sure <questGiver.pronoun.subject>'ll get over it.",
-      "Rus": "Я не смог помочь <questGiver> завести нового друга. Я уверен, что <questGiver.pronoun.subject> переживёт это."
+      "Rus": "Я не смог помочь завести нового друга. Я уверен, что <questGiver> переживёт это."
     }
   },
   {
@@ -146,7 +146,7 @@
     },
     "Texts": {
       "Eng": "I'm always surprised how fast new homes are inhabited - I guess there's a lot of demand out there! Thank you for your help.",
-      "Rus": "Я всегда удивлялся, как быстро дома становятся обитаемыми. Я думаю на них большой спрос! Спасибо за твою помощь."
+      "Rus": "Я всегда удивляюсь, как быстро дома становятся обитаемыми. Я думаю на них большой спрос! Спасибо за твою помощь."
     }
   },
   {
@@ -158,7 +158,7 @@
     },
     "Texts": {
       "Eng": "It worked! Floran has a shiny new friend. Floran appreciatesss your help.",
-      "Rus": "Это сработало! У Флорана появился новый блессстящщщий новый друг. Флоран благодарен за помощь."
+      "Rus": "Это сработало! У Флорана появился новый блессстящщщий друг. Флоран благодарен за помощь."
     }
   },
   {
@@ -196,7 +196,7 @@
     },
     "Texts": {
       "Eng": "Vacancy filled! That didn't take long! Thanks for helping expand my social network!",
-      "Rus": "Вакансии заняты! Это не заняло много времени! Спасибо, что расширил мой социальный мир!"
+      "Rus": "Вакансия заполнена! Это не заняло много времени! Спасибо за расширение моих социальных связей!"
     }
   },
   {
@@ -282,7 +282,7 @@
     },
     "Texts": {
       "Eng": "^cyan;Introspective. I have concluded that a new friend would make me happier. Could you help me attract one?",
-      "Rus": "^cyan;Разобравшись в себе. Я пришел к выводу, что новый друг сделает меня счастливее. Не могли бы вы привлечь одного?"
+      "Rus": "^cyan;Рефлексивно. Я сделал<questGiver.pronoun.verbEnding> вывод, что новый друг сделает меня счастливее. Не мог бы ты привлечь одного?"
     }
   },
   {
@@ -294,7 +294,7 @@
     },
     "Texts": {
       "Eng": "^cyan;Lonely. I have decided I would benefit from a new friend - And you're just the person who can help me!",
-      "Rus": "^cyan;Одиноко. Я решил, что мне нужна помощь от нового друга. И ты как раз тот, кто сможет мне помочь."
+      "Rus": "^cyan;Одиноко. Я решил<questGiver.pronoun.verbEnding>, что мне нужна помощь от нового друга. И ты как раз сможешь мне помочь."
     }
   },
   {
@@ -306,7 +306,7 @@
     },
     "Texts": {
       "Eng": "any door",
-      "Rus": ""
+      "Rus": "любую дверь"
     }
   },
   {
@@ -318,7 +318,7 @@
     },
     "Texts": {
       "Eng": "any light source",
-      "Rus": ""
+      "Rus": "любой источник света"
     }
   }
 ]
