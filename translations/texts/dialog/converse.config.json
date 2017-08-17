@@ -17237,7 +17237,7 @@
     },
     "Texts": {
       "Eng": "What's it like to be a Protector?",
-      "Rus": ""
+      "Rus": "Каково это - быть Протектором?"
     }
   },
   {
@@ -17249,7 +17249,7 @@
     },
     "Texts": {
       "Eng": "What's it like to be made of metal?",
-      "Rus": ""
+      "Rus": "Каково быть сделанным из металла?"
     }
   },
   {
@@ -17261,7 +17261,7 @@
     },
     "Texts": {
       "Eng": "What's up?",
-      "Rus": ""
+      "Rus": "Как дела?"
     }
   },
   {
@@ -17273,7 +17273,7 @@
     },
     "Texts": {
       "Eng": "What'ss it like having hair?",
-      "Rus": ""
+      "Rus": "Как это, когда у тебя есссть волосы?"
     }
   },
   {
@@ -17285,7 +17285,7 @@
     },
     "Texts": {
       "Eng": "What'sss your favourite type of plant?",
-      "Rus": ""
+      "Rus": "Какое у тебя любимое рассстение?"
     }
   },
   {
@@ -17297,11 +17297,13 @@
     },
     "Texts": {
       "Eng": "When I swim my fur traps bubbles, and this makes me buoyant... It quickly becomes hard to swim down.",
-      "Rus": ""
+      "Rus": "Когда я плаваю, моя шерсть захватывает пузырьки воздуха не даёт мне тонуть... Нырять вскоре становится тяжело."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "В детстве у меня была игрушечная обезьянка, похожая на тебя."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/human/apex/23"
@@ -17321,7 +17323,7 @@
     },
     "Texts": {
       "Eng": "When I was young, my friend told me his dad punched a Glitch's head clean off. Apocryphal I'm sure.",
-      "Rus": ""
+      "Rus": "В детстве друг сказал мне, что его отец ударил глитча так сильно, что у того отпала голова. Уверен<self.pronoun.verbEnding>, просто выдумка."
     }
   },
   {
@@ -17333,11 +17335,13 @@
     },
     "Texts": {
       "Eng": "When it all seems too much I find refuge in poetry.",
-      "Rus": ""
+      "Rus": "Когда становится слишком тяжело, я нахожу убежище в поэзии."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Со сменой сезона я собираюсь уединиться в своём доме за городом."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/hylotl/generic/26"
@@ -17345,7 +17349,7 @@
     },
     "Texts": {
       "Eng": "When the season changes, I will retire to my country house.",
-      "Rus": ""
+      "Rus": "Со сменой сезона я отправлюсь в свой дом за городом, чтобы уединиться."
     }
   },
   {
@@ -17357,7 +17361,7 @@
     },
     "Texts": {
       "Eng": "When you swim you feel weightless and free; I think it's the closest I'll ever get to flying.",
-      "Rus": ""
+      "Rus": "Плавая, чувствуешь себя свободным и невесомым. Для меня это почти что полёт, раз уж мне не летать по-настоящему."
     }
   },
   {
@@ -17369,7 +17373,7 @@
     },
     "Texts": {
       "Eng": "Where Earth chickens the same as Glitch chickens?",
-      "Rus": ""
+      "Rus": "У землян куры были такими же, как у глитчей?"
     }
   },
   {
@@ -17381,7 +17385,7 @@
     },
     "Texts": {
       "Eng": "Where are you from?",
-      "Rus": ""
+      "Rus": "Откуда ты?"
     }
   },
   {
@@ -17393,7 +17397,7 @@
     },
     "Texts": {
       "Eng": "Where did you come from, friend?",
-      "Rus": ""
+      "Rus": "Откуда ты, дружище?"
     }
   },
   {
@@ -17405,7 +17409,7 @@
     },
     "Texts": {
       "Eng": "Where did you grow up? You seem familiar.",
-      "Rus": ""
+      "Rus": "Откуда ты родом? Мы как будто встречались раньше."
     }
   },
   {
@@ -17417,7 +17421,7 @@
     },
     "Texts": {
       "Eng": "Where do you call home, friend?",
-      "Rus": ""
+      "Rus": "Какие места ты зовёшь домом, друг?"
     }
   },
   {
@@ -17431,7 +17435,7 @@
     },
     "Texts": {
       "Eng": "Where do you come from?",
-      "Rus": ""
+      "Rus": "Откуда ты родом?"
     }
   },
   {
@@ -17443,7 +17447,7 @@
     },
     "Texts": {
       "Eng": "Where do you go when you take off in your ship?",
-      "Rus": ""
+      "Rus": "Куда ты попадаешь, когда твой корабль разгоняется?"
     }
   },
   {
