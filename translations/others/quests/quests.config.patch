@@ -73,5 +73,20 @@
     "op": "add",
     "path": "/pronouns/neutral/adj2Ending",
     "value": "ый"
+  },
+    {
+    "op": "add",
+    "path": "/pronouns/female/adj3Ending",
+    "value": "ая"
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/male/adj3Ending",
+    "value": "ий"
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/neutral/adj3Ending",
+    "value": "ий"
   }
 ]
