@@ -17794,7 +17794,7 @@
     },
     "Texts": {
       "Eng": "Wow, you're pretty brightly coloured! Are you off to a festival?",
-      "Rus": ""
+      "Rus": "Ух ты, какой у тебя яркий цвет! На фестиваль собираешься?"
     }
   },
   {
@@ -17818,7 +17818,7 @@
     },
     "Texts": {
       "Eng": "Y'all have any experience herdin' mooshi?",
-      "Rus": ""
+      "Rus": "Кому-нить тут доводилось пасти муши?"
     }
   },
   {
@@ -17854,7 +17854,7 @@
     },
     "Texts": {
       "Eng": "Yesterday, today, tomorrow - things keep going from bad to worse.",
-      "Rus": ""
+      "Rus": "Вчера, сегодня, завтра - всё становится только хуже."
     }
   },
   {
@@ -17866,7 +17866,7 @@
     },
     "Texts": {
       "Eng": "Yo there, talking tree.",
-      "Rus": ""
+      "Rus": "Эхей, говорящее дерево."
     }
   },
   {
@@ -17878,7 +17878,7 @@
     },
     "Texts": {
       "Eng": "You Glitch are fascinating individuals.",
-      "Rus": ""
+      "Rus": "Вы, глитчи, удивительные личности."
     }
   },
   {
@@ -17902,11 +17902,13 @@
     },
     "Texts": {
       "Eng": "You and I are birds of a feather.",
-      "Rus": ""
+      "Rus": "Мы с тобой птицы одного полёта."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Кажется, ты светишься. Может, врач мог бы что-то с этим сделать?"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/apex/novakid/1"
@@ -17914,7 +17916,7 @@
     },
     "Texts": {
       "Eng": "You appear to be glowing. Maybe a doctor can fix this.",
-      "Rus": ""
+      "Rus": "Кажется, ты светишься. Может, тебе стоит показаться врачу?"
     }
   },
   {
@@ -17926,7 +17928,7 @@
     },
     "Texts": {
       "Eng": "You are always welcome here.",
-      "Rus": ""
+      "Rus": "Тебе здесь всегда рады."
     }
   },
   {
@@ -17950,7 +17952,7 @@
     },
     "Texts": {
       "Eng": "You are an inspiration to us all.",
-      "Rus": "Ты — вдохновение для нас всех."
+      "Rus": "Ты - вдохновение для нас всех."
     }
   },
   {
@@ -17962,7 +17964,7 @@
     },
     "Texts": {
       "Eng": "You are bold and brave, friend.",
-      "Rus": ""
+      "Rus": "Поражаюсь твоей смелости и решительности, друг."
     }
   },
   {
@@ -17974,7 +17976,7 @@
     },
     "Texts": {
       "Eng": "You are civil. That is a relief.",
-      "Rus": ""
+      "Rus": "Ты дружелюбн<player.pronoun.adj2Ending>. Какое облегчение."
     }
   },
   {
@@ -17986,7 +17988,7 @@
     },
     "Texts": {
       "Eng": "You are delightful.",
-      "Rus": ""
+      "Rus": "Ты замечательн<player.pronoun.adj2Ending>."
     }
   },
   {
@@ -18022,7 +18024,7 @@
     },
     "Texts": {
       "Eng": "You are like a burning star.",
-      "Rus": ""
+      "Rus": "Ты горишь, как звезда."
     }
   },
   {
@@ -18046,7 +18048,7 @@
     },
     "Texts": {
       "Eng": "You are more civilised than the Miniknog tells us.",
-      "Rus": ""
+      "Rus": "Ты цивилизованнее, чем Министерство о вас говорит."
     }
   },
   {
@@ -18058,7 +18060,7 @@
     },
     "Texts": {
       "Eng": "You are nice Floran.",
-      "Rus": ""
+      "Rus": "Ты хорошший флоран."
     }
   },
   {
@@ -18070,7 +18072,7 @@
     },
     "Texts": {
       "Eng": "You are not so frightening.",
-      "Rus": ""
+      "Rus": "Ты не так<player.pronoun.adjEnding> уж жутк<player.pronoun.adjEnding>."
     }
   },
   {
@@ -18082,7 +18084,7 @@
     },
     "Texts": {
       "Eng": "You are one interesting robot, friend.",
-      "Rus": ""
+      "Rus": "Друг мой, а ты интересный робот."
     }
   },
   {
