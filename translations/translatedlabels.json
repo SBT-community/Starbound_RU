@@ -343,7 +343,7 @@
       "clues.config.json": 50,
       "colourful.config.json": 33,
       "combat.config.json": 185,
-      "converse.config.json": 1633,
+      "converse.config.json": 1642,
       "crewmember.config.json": 39,
       "cultist.config.json": 31,
       "deadbeat.config.json": 23,
@@ -362,7 +362,7 @@
       "mutantminer.config.json": 10,
       "oremerchant.config.json": 119,
       "outpost.config.json": 42,
-      "quest.config.json": 107,
+      "quest.config.json": 112,
       "rebel.config.json": 3,
       "scientist.config.json": 12,
       "shared_.config.json": 101,
@@ -484,7 +484,7 @@
         "sbvn": {
           "games": {
             "beautifulattempt": {
-              "beautifulattempt.sbvn.json": 97
+              "beautifulattempt.sbvn.json": 95
             }
           },
           "sbvngui.config.json": 2
@@ -4606,8 +4606,8 @@
       "crew": {
         "crewmember.npctype.json": 164,
         "crewmemberchemist.npctype.json": 7,
-        "crewmemberengineer.npctype.json": 2,
-        "crewmemberjanitor.npctype.json": 3,
+        "crewmemberengineer.npctype.json": 3,
+        "crewmemberjanitor.npctype.json": 5,
         "crewmembermechanic.npctype.json": 3,
         "crewmembermedic.npctype.json": 19,
         "crewmemberoutlaw.npctype.json": 49,
@@ -7765,7 +7765,7 @@
           "shared_bananaseed.object.json": 9
         },
         "beakseed": {
-          "shared_beakseedseed.object.json": 8
+          "shared_beakseedseed.object.json": 9
         },
         "boltbulb": {
           "boltbulbseed.object.json": 2,
@@ -7841,13 +7841,13 @@
           "shared_feathercrownseed.object.json": 9
         },
         "flowerblue": {
-          "flowerblue.object.json": 4
+          "flowerblue.object.json": 9
         },
         "flowerred": {
-          "flowerred.object.json": 0
+          "flowerred.object.json": 8
         },
         "flowerspring": {
-          "flowerspring.object.json": 0
+          "flowerspring.object.json": 7
         },
         "floweryellow": {
           "floweryellow.object.json": 8
@@ -13383,7 +13383,7 @@
     "shared_cora.json": 1,
     "shared_ect.json": 1,
     "shared_eri.json": 2,
-    "shared_est.json": 0,
+    "shared_est.json": 1,
     "shared_goldenplatform.mat.json": 5,
     "shared_ice..json": 1,
     "shared_ies.json": 1,
