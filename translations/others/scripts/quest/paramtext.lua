@@ -36,11 +36,12 @@ local function convertNounAndAdjective(phrase)
   return result
 end
 
-function questParameterText(paramValue)
+function questParameterText(paramValue, caseModifier)
+  caseModifier = caseModifier or function(a) return a end
   if paramValue.name then return paramValue.name end
 
   if paramValue.type == "item" then
-    return convertNounAndAdjective(itemShortDescription(paramValue.item))
+    return caseModifier(itemShortDescription(paramValue.item))
   elseif paramValue.type == "itemList" then
     local listString = ""
     local count = 0
@@ -52,7 +53,7 @@ function questParameterText(paramValue)
           listString = " и " .. listString
         end
       end
-      local description = convertNounAndAdjective(itemShortDescription(item))
+      local description = caseModifier(itemShortDescription(item))
       if item.count > 1 then
         local thingEnd = getCountEnding(item.count)
         listString = string.format("%s, %s штук%s", description, item.count,
@@ -67,5 +68,10 @@ function questParameterText(paramValue)
 end
 
 function questParameterTags(parameters)
-  return util.map(parameters, questParameterText)
+  local result = {}
+  for k, v in pairs(parameters) do
+    result[k] = questParameterText(v)
+    result[k..".reflexive"] = questParameterText(v, convertNounAndAdjective)
+  end
+  return result
 end
