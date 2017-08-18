@@ -32,7 +32,7 @@
     },
     "Texts": {
       "Eng": "Give <clothingIngredients> to <friend>",
-      "Rus": "<friend> ждёт предметы (<clothingIngredients>) "
+      "Rus": "<friend> ждёт <clothingIngredients.reflexive>"
     }
   }
 ]
