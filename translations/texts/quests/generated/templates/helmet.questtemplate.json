@@ -36,7 +36,7 @@
     },
     "Texts": {
       "Eng": "All that is left is to deliver the ^orange;<clothingIngredients>^green; to ^orange;<friend>^white;, so <friend.pronoun.subject> can craft me ^orange;something to wear.",
-      "Rus": "Осталось только ^green;отнести ^orange;<clothingIngredients>^white; куда следует. ^orange;<friend>^white; определённо сможет соорудить нужное снаряжение."
+      "Rus": "Осталось только ^green;отнести ^orange;<clothingIngredients.reflexive>^white; куда следует. ^orange;<friend>^white; определённо сможет соорудить нужное снаряжение."
     }
   },
   {
@@ -48,7 +48,7 @@
     },
     "Texts": {
       "Eng": "All that's left isss to ^green;take ^orange;<clothingIngredients>^green; to <friend>^white; so <friend.pronoun.subject> can make Floran ^orange;something to wear.^white; Hurry!",
-      "Rus": "Оссталось только ^green;отнести ^orange;<clothingIngredients>^white; мастеру. ^orange;<friend>^white; сможет сделать то что подойдёт Флорану. Спеши!"
+      "Rus": "Оссталось только ^green;отнести ^orange;<clothingIngredients.reflexive>^white; мастеру. ^orange;<friend>^white; сможет сделать то что подойдёт Флорану. Спеши!"
     }
   },
   {
@@ -60,7 +60,7 @@
     },
     "Texts": {
       "Eng": "Can you ^green;take the ^orange;<clothingIngredients>^green; to ^orange;<friend>,^white; so <friend.pronoun.subject> can make me something to wear?",
-      "Rus": "^orange;<friend>^white; может приступить к работе - так что ^green;неси ^orange;<clothingIngredients>^white; для моего нового снаряжения."
+      "Rus": "^orange;<friend>^white; может приступить к работе - так что ^green;неси ^orange;<clothingIngredients.reflexive>^white; для моего нового снаряжения."
     }
   },
   {
@@ -84,7 +84,7 @@
     },
     "Texts": {
       "Eng": "Finally, ^green;deliver our ^orange;<clothingIngredients>^green; to ^orange;<friend>^white; and ^green;ask <friend.pronoun.object> to make me some custom gear. I'm sure <friend.pronoun.subject> has the skills to do it!",
-      "Rus": "Наконец, нужно ^green;отнести ^orange;<clothingIngredients>^white; мастеру. ^orange;<friend>^white; - лучший из возможных, и справится в момент."
+      "Rus": "Наконец, нужно ^green;отнести ^orange;<clothingIngredients.reflexive>^white; мастеру. ^orange;<friend>^white; - лучший из возможных, и справится в момент."
     }
   },
   {
@@ -124,7 +124,7 @@
     },
     "Texts": {
       "Eng": "I was unable to help <questGiver> get something new to wear. I like how <questGiver> looks already.",
-      "Rus": "Я не смог помочь - <questGiver> не получит новое снаряжение. Но <questGiver> мне и так нравится."
+      "Rus": "Я не смог помочь - <questGiver> не получит новое снаряжение. Но <questGiver.pronoun.subject> мне и так нравится."
     }
   },
   {
@@ -136,7 +136,7 @@
     },
     "Texts": {
       "Eng": "Next run over and have ^orange;<friend>^white; assemble us some ^orange;custom gear.^white; Just ^green;mention my name, and give <friend.pronoun.object> our ^orange;<clothingIngredients>^white;.",
-      "Rus": "Дальше тебе надо сходить с материалами к мастеру. ^orange;<friend>^white;, получив ^orange;<clothingIngredients>^white;, справится с заказом без проблем."
+      "Rus": "Дальше тебе надо сходить с материалами к мастеру. ^orange;<friend>^white;, получив ^orange;<clothingIngredients.reflexive>^white;, справится с заказом без проблем."
     }
   },
   {
@@ -160,7 +160,7 @@
     },
     "Texts": {
       "Eng": "Now Floran needs you to^green; take ^orange;<clothingIngredients>^green; to ^orange;<friend>.^white; <friend.pronoun.capitalSubject> can make something for Floran to wear!",
-      "Rus": "Флоран хочет, чтобы ты ^green;отнёс ^orange;<clothingIngredients>^white; и вернулся со готовым сснаряжением. ^orange;<friend>^white; может это провернуть."
+      "Rus": "Флоран хочет, чтобы ты ^green;отнёс ^orange;<clothingIngredients.reflexive>^white; и вернулся со готовым сснаряжением. ^orange;<friend>^white; может это провернуть."
     }
   },
   {
@@ -258,7 +258,7 @@
     },
     "Texts": {
       "Eng": "^cyan;Guards as good as me should stand out! Can you help me look <adjective>?",
-      "Rus": "^cyan;Стража должна внушать... всякое! Ты можешь помочь мне выглядеть <adjective>?"
+      "Rus": "^cyan;Такие стражи как я должны выделяться! Ты можешь помочь мне выглядеть <adjective>?"
     }
   },
   {
