@@ -10,12 +10,38 @@ local function getCountEnding(count)
   else return "" end
 end
 
-function questParameterText(paramValue)
+local function convertNounAndAdjective(phrase)
+  local result = ""
+  local isFemine = true
+  for word in phrase:gmatch("%S+") do
+    local gotit = 0
+    local newword, count = word:gsub("ая$", "ую")
+    gotit = count
+    newword, count = newword:gsub("яя$", "юю")
+    gotit = gotit + count
+    if gotit == 0 then
+      if word:match("[Сс]емена") or word:match("[Сс]емя") then newword = word
+      elseif isFemine then
+        newword = word:gsub("а$", "у")
+        newword = newword:gsub("я$", "ю")
+      else
+        newword = word
+      end
+      isFemine = false
+    else isFemine = true
+    end
+    if result ~= "" then result = result .. " " end
+    result = result .. newword
+  end
+  return result
+end
+
+function questParameterText(paramValue, caseModifier)
+  caseModifier = caseModifier or function(a) return a end
   if paramValue.name then return paramValue.name end
 
   if paramValue.type == "item" then
-    return itemShortDescription(paramValue.item)
-
+    return caseModifier(itemShortDescription(paramValue.item))
   elseif paramValue.type == "itemList" then
     local listString = ""
     local count = 0
@@ -27,11 +53,13 @@ function questParameterText(paramValue)
           listString = " и " .. listString
         end
       end
+      local description = caseModifier(itemShortDescription(item))
       if item.count > 1 then
         local thingEnd = getCountEnding(item.count)
-        listString = string.format("%s, %s штук%s", itemShortDescription(item), item.count, thingEnd) .. listString
+        listString = string.format("%s, %s штук%s", description, item.count,
+                                   thingEnd) .. listString
       else
-        listString = itemShortDescription(item) .. listString
+        listString = description .. listString
       end
       count = count + 1
     end
@@ -40,5 +68,10 @@ function questParameterText(paramValue)
 end
 
 function questParameterTags(parameters)
-  return util.map(parameters, questParameterText)
+  local result = {}
+  for k, v in pairs(parameters) do
+    result[k] = questParameterText(v)
+    result[k..".reflexive"] = questParameterText(v, convertNounAndAdjective)
+  end
+  return result
 end
