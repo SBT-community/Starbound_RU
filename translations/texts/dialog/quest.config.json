@@ -1559,7 +1559,7 @@
     },
     "Texts": {
       "Eng": "I always thought I had a pretty good sense on direction... I guess not. Would you mind taking me to <questGiver>?",
-      "Rus": "Я всегда думал, что довольно хорошо ориентируюсь на местности... Походу, нет. Ты не мог бы отвести меня к <questGiver>?"
+      "Rus": "Я всегда думал<friend.pronoun.verbEnding>, что довольно хорошо ориентируюсь на местности... Походу, нет. Ты не мог бы отвести меня к моему другу, по имени <questGiver>?"
     }
   },
   {
@@ -1572,7 +1572,7 @@
     },
     "Texts": {
       "Eng": "I am done! Thank you for waiting. Now, please take this parcel to <questGiver>...",
-      "Rus": "Я закончил! Спасибо за ожидание. А сейчас, пожалуйста, отнеси эту посылку <questGiver>..."
+      "Rus": "Я закончил<target.pronoun.verbEnding>! Спасибо за ожидание. А сейчас, пожалуйста, отнеси эту посылку заказчику..."
     }
   },
   {
@@ -1596,7 +1596,7 @@
     },
     "Texts": {
       "Eng": "I am incredibly lost right now. Would you mind taking me to <questGiver>?",
-      "Rus": "Я только что сам не понял, как потерялся. Ты не мог бы отвести меня к <questGiver>?"
+      "Rus": "Я только что сам<friend.pronoun.verbEnding> не понял<friend.pronoun.verbEnding>, как потерял<friend.pronoun.verb3Ending>. Ты не мог<player.pronoun.verb4Ending> бы отвести меня в дом, где живёт <questGiver>?"
     }
   },
   {
@@ -1608,7 +1608,7 @@
     },
     "Texts": {
       "Eng": "I am so lost. Can you take me back to <questGiver>?",
-      "Rus": "Я сильно заблудился. Ты не мог бы меня отвести обратно к <questGiver>?"
+      "Rus": "Я сильно заблудил<friend.pronoun.verb3Ending>. Ты не мог<player.pronoun.verb4Ending> бы меня отвести обратно в дом, где живёт <questGiver>?"
     }
   },
   {
@@ -1620,7 +1620,7 @@
     },
     "Texts": {
       "Eng": "I am very shaken - Please, would you take back to <questGiver>?",
-      "Rus": "Я так потрясён... Пожалуйста, не мог бы ты отвести меня обратно к <questGiver>?"
+      "Rus": "Я так потрясён<friend.pronoun.verbEnding>... Пожалуйста, не мог<player.pronoun.verb4Ending> бы ты отвести меня обратно в дом, где живёт <questGiver>?"
     }
   },
   {
@@ -1632,7 +1632,7 @@
     },
     "Texts": {
       "Eng": "I appear to be lost. Help me - take me back to <questGiver>?",
-      "Rus": "Походу, я потерялся. Помоги мне - отведи меня обратно к <questGiver>?"
+      "Rus": "Походу, я потерял<friend.pronoun.verb3Ending>. Помоги мне - отведи меня обратно к моему другу, по имени <questGiver>."
     }
   },
   {
@@ -1657,7 +1657,7 @@
     },
     "Texts": {
       "Eng": "I didn't intend to get quite this lost! Would you be able to escort me to <questGiver>?",
-      "Rus": "У меня не было намерения так далеко забредать. Ты не мог бы сопроводить меня к <questGiver>?"
+      "Rus": "У меня не было намерения так далеко забредать. Ты не мог<player.pronoun.verb4Ending> бы сопроводить меня в дом, где живёт <questGiver>?"
     }
   },
   {
@@ -1669,7 +1669,7 @@
     },
     "Texts": {
       "Eng": "I didn't steal that <item>, I was simply borrowing it.",
-      "Rus": "Я не крал, а просто одолжил <item>."
+      "Rus": "Я не крал, а просто одолжил <item.reflexive>."
     }
   },
   {
@@ -1681,7 +1681,7 @@
     },
     "Texts": {
       "Eng": "I don't feel safe alone right now. Can you take me home to <questGiver>?",
-      "Rus": "Я не чувствую себя в безопасности в одиночестве сейчас. Ты не мог бы меня отвести домой к <questGiver>?"
+      "Rus": "Я не чувствую себя в безопасности в одиночестве сейчас. Ты не мог<player.pronoun.verb4Ending> бы меня отвести в дом, где живёт <questGiver>?"
     }
   },
   {
@@ -1705,7 +1705,7 @@
     },
     "Texts": {
       "Eng": "I don't mind <questGiver> borrowing my <item> as long as they bring it back eventually!",
-      "Rus": "Я не против, если <questGiver> возьмёт <item>, если потом мне всё вернут обратно."
+      "Rus": "Я не против, если <questGiver> возьмёт <item.reflexive>, но потом мне всё вернут обратно."
     }
   },
   {
@@ -1717,7 +1717,7 @@
     },
     "Texts": {
       "Eng": "I don't want to get hurt! Take my <item> if that's what you need!",
-      "Rus": "Не бейте меня! Возьмите <item>, если так нужно!"
+      "Rus": "Не бейте меня! Возьмите <item.reflexive>, если так нужно!"
     }
   },
   {
@@ -1741,7 +1741,7 @@
     },
     "Texts": {
       "Eng": "I had permission to borrow that <item>, it wasn't stolen!",
-      "Rus": "У меня было разрешение взять <item>, я ничего не крал!"
+      "Rus": "У меня было разрешение взять <item.reflexive>, я ничего не крал!"
     }
   },
   {
@@ -1768,7 +1768,7 @@
     },
     "Texts": {
       "Eng": "I have finished crafting. Can you deliver this to <questGiver> for me?",
-      "Rus": "Я закончил крафтить. Можешь доставить это <questGiver> для меня?"
+      "Rus": "Я закончил<target.pronoun.verbEnding> крафтить. Можешь доставить это <questGiver> для меня?"
     }
   },
   {
@@ -1781,7 +1781,7 @@
     },
     "Texts": {
       "Eng": "I have finished! Now please take this package to <questGiver> for me.",
-      "Rus": "Я закончил! А сейчас, пожалуйста, отнесите для меня эту посылку <questGiver>."
+      "Rus": "Я закончил<target.pronoun.verbEnding>! А сейчас, пожалуйста, отнеси для меня эту посылку. <questGiver> ждёт."
     }
   },
   {

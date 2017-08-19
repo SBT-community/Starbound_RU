@@ -44,7 +44,7 @@
     },
     "Texts": {
       "Eng": "Floran is excited to hear that travelling merchant ^orange;<target>^white; is currently visssiting the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Please ^green;bring <target.pronoun.object> these <tradedItems> ^white;so that <target.pronoun.subject> will help Floran sssstock a new product, it is all the rage!",
-      "Rus": "Флоран слышал, что тут неподалёку от ^orange;<spawnPoint>^white; <spawnPoint.direction> остановился бродячий торговец. Ссходи к <target.pronoun.copulative> - кстати, <target.pronoun.reflexive> зовут ^orange;<target>^white; - и ^green;выменяй что-нибудь на эти вещи^white; (^orange;<tradedItems>^white;)."
+      "Rus": "Флоран слышал, что тут неподалёку от ^orange;<spawnPoint>^white; <spawnPoint.direction> остановился бродячий торговец. Ссходи к <target.pronoun.copulative> - кстати, <target.pronoun.reflexive> зовут ^orange;<target>^white; - и ^green;выменяй что-нибудь на ^orange;<tradedItems.reflexive>^white;."
     }
   },
   {
@@ -68,7 +68,7 @@
     },
     "Texts": {
       "Eng": "I didn't help <questGiver> succeed in acquiring new stock. ",
-      "Rus": "Я не смог помочь. <questGiver> останется мелким бакалейщиком."
+      "Rus": "Я не сумел<player.pronoun.verbEnding> помочь. <questGiver> так и останется мелким торговцем."
     }
   },
   {
@@ -80,7 +80,7 @@
     },
     "Texts": {
       "Eng": "I was unable to help <questGiver> acquire new stock for <target.pronoun.possessiveDet> store. <target.pronoun.capitalSubject> probably has enough as it is.",
-      "Rus": "Я не смог помочь. Возможно, <questGiver> закроет магазин и займётся организацией курьерских перевозок."
+      "Rus": "Я не могу помочь. Возможно, <questGiver> закроет магазин и займётся организацией курьерских перевозок."
     }
   },
   {
@@ -92,7 +92,7 @@
     },
     "Texts": {
       "Eng": "If you speak to ^orange;<target>^white; at the ^orange;<spawnPoint>^white;<spawnPoint.direction> <target.pronoun.subject> might have the materials I need to create a new item of stock. Please ^green;see if <target.pronoun.subject> will accept ^orange;<tradedItems> ^white;in exchange",
-      "Rus": "Ты не мог бы помочь мне с торговой сделкой? Я и ^orange;<target>^white; договорись о взаимовыгодном обмене, но отлучиться из магазина я не могу. Поэтому прошу, бери эти вещи (^orange;<tradedItems>^white;) и ^green;неси их скорее к <target.pronoun.reflexive> стоянке^white;, наверняка <target> уже приготовил<target.pronoun.verbEnding> такую же посылку для меня."
+      "Rus": "Ты не поможешь мне с торговой сделкой? Я и ^orange;<target>^white; договорись о взаимовыгодном обмене, но отлучиться из магазина я не могу. Поэтому прошу, бери ^orange;<tradedItems.reflexive^white; и ^green;неси скорее к <target.pronoun.reflexive> стоянке^white;, наверняка <target> уже приготовил<target.pronoun.verbEnding> такую же посылку для меня."
     }
   },
   {
@@ -104,7 +104,7 @@
     },
     "Texts": {
       "Eng": "Just in time! Travelling merchant <target> arrived at the ^orange;<spawnPoint>^white;<spawnPoint.direction> a short time ago. <target.pronoun.capitalSubject> has agreed to provide me with the new stock I require in exchange for my ^orange;<tradedItems>^white;. Could you ^green;take the goods to ^orange;<target>^white;?",
-      "Rus": "Ты как раз вовремя! Мне нужно, чтобы ты немного поработал курьером - и ^green;доставил эти товары^white; (^orange;<tradedItems>^white;) бродячему торговцу по имени ^orange;<target>^white;, что остановил<target.pronoun.verb3Ending> у ^orange;<spawnPoint>^white; <spawnPoint.direction>. <target.pronoun.capitalSubject> в обмен даст тебе товары, которые следует доставить мне."
+      "Rus": "Ты как раз вовремя! Мне нужно, чтобы ты немного поработал курьером - и ^green;доставил ^orange;<tradedItems.reflexive>^white; бродячему торговцу по имени ^orange;<target>^white;, что остановил<target.pronoun.verb3Ending> у ^orange;<spawnPoint>^white; <spawnPoint.direction>. <target.pronoun.capitalSubject> в обмен даст тебе товары, которые следует доставить мне."
     }
   },
   {
@@ -116,7 +116,7 @@
     },
     "Texts": {
       "Eng": "Now isss our time. Travelling merchant ^orange;<target> ^white;is at the ^orange;<spawnPoint>^white;<spawnPoint.direction>, and <target.pronoun.subject> has promisssed that  ^green;<target.pronoun.subject> will trade <target.pronoun.possessiveDet> special goods for ^orange;<tradedItems>. ^white;Please do Floran a favour and ^green;make the deal!",
-      "Rus": "Надо дейсствовать. Странствующий торговец по имени ^orange;<target>^white; остановился у ^orange;<spawnPoint>^white; <spawnPoint.direction>. <target.pronoun.capitalSubject> согласил<target.pronoun.verb3Ending> обменять часть своих товаров на эти вещи (^orange;<tradedItems>^white;). Не мог бы ты ^green;уладить эту ссделку^white;?"
+      "Rus": "Надо дейсствовать. Странствующий торговец по имени ^orange;<target>^white; остановился у ^orange;<spawnPoint>^white; <spawnPoint.direction>. <target.pronoun.capitalSubject> согласил<target.pronoun.verb3Ending> обменять часть своих товаров на ^orange;<tradedItems.reflexive>^white;. Не мог бы ты ^green;уладить эту ссделку^white;?"
     }
   },
   {
@@ -128,7 +128,7 @@
     },
     "Texts": {
       "Eng": "Now to finish the task! <target>, a travelling merchant, has just arrived at the ^orange;<spawnPoint>^white;<spawnPoint.direction> to trade. Can you ^green;find ^orange;<target>^green; and give <target.pronoun.object> our ^orange;<tradedItems>^green; in return for the goods we need?",
-      "Rus": "Ты уже знаком с такой работой - нужно выступить посредником в торговой сделке. Вот мои товары (^orange;<tradedItems>^white;), которые ждёт ^orange;<target>^white;, остановивш<target.pronoun.adjEnding>ся у ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Отнеси их и возвращайся с обратным грузом скорее^white;."
+      "Rus": "Ты уже знаком<player.pronoun.verbEnding> с такой работой - нужно выступить посредником в торговой сделке. Вот ^orange;<tradedItems>^white;, что ждёт ^orange;<target>^white;, остановивш<target.pronoun.adjEnding>ся у ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Отнеси товары и возвращайся с обратным грузом скорее^white;."
     }
   },
   {
@@ -164,7 +164,7 @@
     },
     "Texts": {
       "Eng": "The merchant known as ^orange;<target>^white; is a popular fellow... Maybe you could ^green;deliver ^orange;<tradedItems>^green; to <target.pronoun.object> at the ^orange;<spawnPoint>^white;<spawnPoint.direction> in exchange for the supplies I need?",
-      "Rus": "Торговец по имени ^orange;<target>^white; известен в наших краях... Ты не мог бы доставить <target.pronoun.reflexive> эти вещи (^orange;<tradedItems>^white;) и обменять их на что-нибудь ценное - что я могу выгодно перепродать? <target.pronoun.capitalSubject> разбил<target.pronoun.verbEnding> стоянку у ^orange;<spawnPoint>^white; <spawnPoint.direction>."
+      "Rus": "Торговец по имени ^orange;<target>^white; известен в наших краях... Сможешь доставить <target.pronoun.reflexive> ^orange;<tradedItems.reflexive>^white; и обменять на что-нибудь ценное - то, что я могу выгодно перепродать? <target.pronoun.capitalSubject> разбил<target.pronoun.verbEnding> стоянку у ^orange;<spawnPoint>^white; <spawnPoint.direction>."
     }
   },
   {
@@ -176,7 +176,7 @@
     },
     "Texts": {
       "Eng": "When the town hearsss that Floran's shop has a new <newItem>, Floran is sure they will be queue out the door!",
-      "Rus": "Когда все услышал, что в магазине Флорана теперь есть <newItem>, они тут всё ссметут подчистую!"
+      "Rus": "Когда все услышат, что в магазине флорана теперь есть <newItem>, они тут же ссметут всё подчистую!"
     }
   },
   {
@@ -188,7 +188,7 @@
     },
     "Texts": {
       "Eng": "You did it! Now I will always have a <newItem> in stock alongside my exisiting range of products.",
-      "Rus": "Ты справился! Теперь я всегда могу обслужить покупателя, которому потребуется <newItem>."
+      "Rus": "Ты справил<player.pronoun.verb3Ending>! Теперь я всегда могу обслужить покупателя, которому потребуется <newItem>."
     }
   },
   {
@@ -236,7 +236,7 @@
     },
     "Texts": {
       "Eng": "^cyan;More items resssulted in more customers. Now Floran wants even more itemss!",
-      "Rus": "^cyan;Больше товаров - это больше покупателей. Поэтому Флоран хочет больше товаров!"
+      "Rus": "^cyan;Больше товаров - это больше покупателей. Поэтому флоран хочет больше товаров!"
     }
   },
   {

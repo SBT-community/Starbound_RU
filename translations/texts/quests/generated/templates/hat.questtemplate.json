@@ -32,7 +32,7 @@
     },
     "Texts": {
       "Eng": "All you have to do now is ask ^orange;<friend>^white; to make my new ^orange;headwear.^white; Could you ^green;deliver the ^orange;<clothingIngredients>^green; to <friend.pronoun.object>?",
-      "Rus": "Тебе осталось только поговорить с моим другом, чтобы <friend.pronoun.subject> сделал новую ^orange;шляпу^white;. ^orange;<friend>^white; уже ждёт, когда ты ^green;принесёшь <friend.pronoun.object> ^orange;<clothingIngredients>^white;."
+      "Rus": "Тебе осталось только поговорить с моим другом, чтобы <friend.pronoun.subject> сделал новую ^orange;шляпу^white;. ^orange;<friend>^white; уже ждёт, когда ты ^green;принесёшь <friend.pronoun.object> ^orange;<clothingIngredients.reflexive>^white;."
     }
   },
   {
@@ -44,7 +44,7 @@
     },
     "Texts": {
       "Eng": "Finally, Floran needs you to ^green;deliver ^orange;<clothingIngredients>^green; to ^orange;<friend>^white; ssso <friend.pronoun.subject> can make Floran's ^orange;headwear.^white; Hurry!",
-      "Rus": "Наконец-то. Флоран хочет, чтобы ты ^green;отнёс ^orange;<clothingIngredients>^white; портному по имени  ^orange;<friend>^white;. Портной сошьёт новую ^orange;шляпу^white; для Флорана. Торопись!"
+      "Rus": "Наконец-то. Флоран хочет, чтобы ты ^green;передал<player.pronoun.verbEnding> ^orange;<clothingIngredients.reflexive>^white; портному по имени  ^orange;<friend>^white;. Портной сошьёт новую ^orange;шляпу^white; для Флорана. Торопись!"
     }
   },
   {
@@ -56,7 +56,7 @@
     },
     "Texts": {
       "Eng": "Finally, can you ^green;deliver the ^orange;<clothingIngredients>^green; to ^orange;<friend>^white;, so <friend.pronoun.subject> can craft me my ^orange;headwear?",
-      "Rus": "Итак, ^orange;<friend>^white; ожидает, когда ты ^green;принесёшь ^orange;<clothingIngredients>^white;, чтобы сшить ^orange;шляпу^white; для меня."
+      "Rus": "Итак, ^orange;<friend>^white; ожидает, когда ты ^green;принесёшь ^orange;<clothingIngredients.reflexive>^white;, чтобы сшить ^orange;шляпу^white; для меня."
     }
   },
   {
@@ -68,7 +68,7 @@
     },
     "Texts": {
       "Eng": "Finally, run over and have ^orange;<friend>^white; assemble us some custom ^orange;headwear.^white; Just ^green;mention my name, and give <friend.pronoun.object> our ^orange;<clothingIngredients>^white;.",
-      "Rus": "Наконец, ^orange;<friend>^white; уже приступает к шитью моей новой ^orange;шляпы^white;. ^green;Неси <friend.pronoun.subject> скорее ^orange;<clothingIngredients>^white;, а то я рискую получить шляпу из подручных материалов."
+      "Rus": "Наконец, ^orange;<friend>^white; уже приступает к шитью моей новой ^orange;шляпы^white;. ^green;Неси <friend.pronoun.subject> скорее ^orange;<clothingIngredients.reflexive>^white;, а то я рискую получить шляпу из подручных материалов."
     }
   },
   {
@@ -92,7 +92,7 @@
     },
     "Texts": {
       "Eng": "Floran so close to sssuccess! Floran needs you to ^green;take the ^orange;<clothingIngredients>^green; to ^orange;<friend>^white; so <friend.pronoun.subject> can make Floran's ^orange;headwear.",
-      "Rus": "Флоран близок к цели! ^orange;<friend>^white; должен получить ^orange;<clothingIngredients>^white;, чтобы сшить мне ^orange;шляпу^white;. Неси, неси материалы сскорее!"
+      "Rus": "Флоран близок к цели! ^orange;<friend>^white; долж<friend.pronoun.verb2Ending> получить ^orange;<clothingIngredients.reflexive>^white;, чтобы сшить мне ^orange;шляпу^white;. Неси, неси материалы сскорее!"
     }
   },
   {
@@ -140,7 +140,7 @@
     },
     "Texts": {
       "Eng": "Now all that's left is to ask ^orange;<friend>^white; to make my custom headwear. ^green;Give <friend.pronoun.object> our ^orange;<clothingIngredients>^white; and <friend.pronoun.subject> can craft it for me!",
-      "Rus": "Осталось собственно пошить ^orange;шляпу^white;. Нужно ^green;отнести ^orange;<clothingIngredients>^white; портному. А уж ^orange;<friend>^white; не подведёт - шляпа будет мировая!"
+      "Rus": "Осталось собственно пошить ^orange;шляпу^white;. Нужно ^green;отнести ^orange;<clothingIngredients.reflexive>^white; портному. А уж ^orange;<friend>^white; не подведёт - шляпа будет мировая!"
     }
   },
   {
@@ -236,7 +236,7 @@
     },
     "Texts": {
       "Eng": "^cyan;I want to look <adjective>, and I have a plan to make it happen.",
-      "Rus": "^cyan;Я хочу выглядеть <adjective>, и я кое-что задумал."
+      "Rus": "^cyan;Я хочу выглядеть <adjective>, и я кое-что задумал<questGiver.pronoun.verbEnding>."
     }
   },
   {
