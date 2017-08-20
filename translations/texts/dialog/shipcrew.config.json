@@ -373,7 +373,7 @@
     },
     "Texts": {
       "Eng": "I can't chat for too long - this bird's gotta grease some axels to keep us all afloat!",
-      "Rus": ""
+      "Rus": "Не могу долго болтать - эта птичка должна идти смазывать оси, чтобы удержать нас всех на плаву!"
     }
   },
   {
@@ -390,7 +390,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я знаю ребят, которые не откажутся поработать наёмниками. Раздобудь себе дублонов!"
+    ],
     "Files": {
       "dialog/shipcrew.config": [
         "/converse/penguin/default/8"
@@ -398,7 +400,7 @@
     },
     "Texts": {
       "Eng": "I got some pals lookin' for mercenary work. You should get yourself some dubloons!",
-      "Rus": ""
+      "Rus": "Я знаю ребят, которые ищут работу наёмников. Тебе стоит разжиться дублонами!"
     }
   },
   {
@@ -499,7 +501,7 @@
     },
     "Texts": {
       "Eng": "Maintaining a spaceship is mind-numbing work - I want to play a game of chess!",
-      "Rus": ""
+      "Rus": "Обслуживание космического корабля - ужасно скучная работа. Так хочется сыграть в шахматы!"
     }
   },
   {
@@ -511,7 +513,7 @@
     },
     "Texts": {
       "Eng": "Maintaining a spaceship is mind-numbing work - I want to play a game of clunkey jacks!",
-      "Rus": ""
+      "Rus": "Обслуживать космический корабль ужасно скучно. Как же хочется сыграть в гремящие гайки!"
     }
   },
   {
@@ -524,7 +526,7 @@
     },
     "Texts": {
       "Eng": "Maintaining the integrity of the hull is an important priority aboard this ship.",
-      "Rus": ""
+      "Rus": "Поддержание целостности корпуса - одна из важнейших задач на этом корабле."
     }
   },
   {
@@ -537,7 +539,7 @@
     },
     "Texts": {
       "Eng": "My name is <selfname>. Are you visiting us for long?",
-      "Rus": ""
+      "Rus": "Меня зовут <selfname>. Ты к нам надолго?"
     }
   },
   {
@@ -550,7 +552,7 @@
     },
     "Texts": {
       "Eng": "Sailing through the stars makes me feel like a fish swimming through a vast, endless ocean.",
-      "Rus": ""
+      "Rus": "Путешествуя среди звёзд, я чувствую себя рыбкой, плывущей по необъятному, бескрайнему океану."
     }
   },
   {
@@ -563,7 +565,7 @@
     },
     "Texts": {
       "Eng": "The low-moisture atmosphere on board this ship is good for preventing rust.",
-      "Rus": ""
+      "Rus": "Низкая влажность воздуха на борту этого корабля помогает предотвратить коррозию."
     }
   },
   {
@@ -575,7 +577,7 @@
     },
     "Texts": {
       "Eng": "They call me <selfname>. The name runs in the family.",
-      "Rus": ""
+      "Rus": "Меня зовут <selfname>. У нас в семье это распространенное имя."
     }
   },
   {
