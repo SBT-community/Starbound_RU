@@ -68,7 +68,7 @@
     },
     "Texts": {
       "Eng": "Floran's first task for you is a sssneaky one. ^orange;<victim>^white; has a nice ^orange;<objectItem>^white; in <victim.pronoun.possessiveDet> house and Floran wants you to ^green;borrow it^white;, if you know what Floran means...",
-      "Rus": "Флоран хочет, чтобы ты ссделал кое-что так, чтобы никто не видел. ^orange;<victim>^white; хранит у себя дома ценную вещь (^orange;<objectItem>^white;), и Флоран хочет, чтобы ты ^green;позаимствовал её^white;. Если ты понимаешь, о чём речь..."
+      "Rus": "Флоран хочет, чтобы ты ссделал кое-что так, чтобы никто не видел. ^orange;<victim>^white; хранит у себя дома ^orange;<objectItem.reflexive>^white;, и флоран хочет, чтобы ты ^green;позаимствовал эту штуку^white;. Если ты понимаешь, о чём речь..."
     }
   },
   {
@@ -92,7 +92,7 @@
     },
     "Texts": {
       "Eng": "I need you to ^green;obtain ^orange;<victim>'s <objectItem>. ^white;We can make far better use of it, but <victim.pronoun.subject> won't just hand it over... ^green;You'll have to take it...",
-      "Rus": "Мне нужно, чтобы ты ^green;принёс кое-какую вещь^white; (^orange;<objectItem>^white;), которой сейчас обладает ^orange;<victim>^white;. Я могу придумать ей гораздо лучшее применение, нежели просто положить в дальний угол..."
+      "Rus": "Мне нужно, чтобы ты ^green;принёс ^orange;<objectItem.reflexive>^white;. Этой вещью сейчас обладает ^orange;<victim>^white;. Я могу придумать ей гораздо лучшее применение, нежели просто положить в дальний угол..."
     }
   },
   {
@@ -128,7 +128,7 @@
     },
     "Texts": {
       "Eng": "I'm in need of a certain object; specifically, ^orange;<victim>'s <objectItem>. ^white;Would you ^green;visit <victim.pronoun.possessiveDet> home and... Acquire it for me?^white; I wouldn't ask if it wasn't important.",
-      "Rus": "Мне очень нужна особенная вещь (^orange;<objectItem>^white;). Именно такая, какую ^orange;<victim>^white; держит дома. Не мог бы ты наведаться к н<victim.pronoun.object> и... ^green;Позаимствовать её^white;? Я бы не просил<questGiver.pronoun.verbEnding>, если бы не было очень надо."
+      "Rus": "Мне очень нужно добыть^orange;<objectItem>^white;. Именно такую вещь ^orange;<victim>^white; держит у себя дома. Не мог бы ты наведаться к н<victim.pronoun.object> и... ^green;Позаимствовать её^white;? Я бы не просил<questGiver.pronoun.verbEnding>, если бы не было очень надо."
     }
   },
   {
@@ -152,7 +152,7 @@
     },
     "Texts": {
       "Eng": "Next job isss a vital part of Floran's plan. Floran needs you to ^green;visit ^orange;<victim>'s ^green;house to borrow the ^orange;<objectItem>^white; that we need. Bessst not let <victim> know...",
-      "Rus": "Сследующее, что тебе нужно сделать - это найти, где живёт ^orange;<victim>^white;, ^green;проникнуть в <victim.pronoun.reflexive> дом и взять то, что <victim.pronoun.subject> там прячет^white; (^orange;<objectItem>^white;). Не попадись <victim.pronoun.object> на глаза..."
+      "Rus": "Сследующее, что тебе нужно сделать - это найти, где живёт ^orange;<victim>^white;, ^green;проникнуть в <victim.pronoun.reflexive> дом и взять ^orange;<objectItem.reflexive>^white;. Не попадись <victim.pronoun.object> на глаза..."
     }
   },
   {
@@ -188,7 +188,7 @@
     },
     "Texts": {
       "Eng": "Steal <victim>'s <objectItem>",
-      "Rus": "Укради вещи (<objectItem>), которыми владеет <victim>"
+      "Rus": "Укради <objectItem.reflexive>, так, чтобы <victim> не заметил<victim.pronoun.verbEnding>"
     }
   },
   {
@@ -260,7 +260,7 @@
     },
     "Texts": {
       "Eng": "Wow, I bet you'd take anything that wasn't nailed down! I don't want to get caught if <victim> comes looking for that <objectItem>, so hold onto it for now.",
-      "Rus": "Ого, похоже ты способен унести даже то, что гвоздями к полу прибито! Не проболтайся, если <victim> будет спрашивать, где <victim.pronoun.reflexive> <objectItem>."
+      "Rus": "Ого, похоже ты способ<player.pronoun.verb2Ending> унести даже то, что гвоздями к полу прибито! Не проболтайся, если <victim> будет спрашивать, где <victim.pronoun.reflexive> <objectItem>."
     }
   },
   {
@@ -284,7 +284,7 @@
     },
     "Texts": {
       "Eng": "You actually got the <objectItem> from <victim>? I thought maybe you'd get cold feet. Keep hold of it for the time being, and make sure you don't lose it.",
-      "Rus": "Ты действительно принёс то, что я просил<questGiver.pronoun.verbEnding>? У тебя определённо загребущие руки, смотри, чтобы тебя за них не поймали."
+      "Rus": "Ты действительно принёс<player.pronoun.verb4Ending> то, что я просил<questGiver.pronoun.verbEnding>? У тебя определённо загребущие руки, смотри, чтобы тебя за них не поймали."
     }
   },
   {
@@ -296,7 +296,7 @@
     },
     "Texts": {
       "Eng": "You succeeded! Your sneaking sskills are far better than Floran's negotiating skills. ",
-      "Rus": "У тебя получилоссь! Ты показал такую сскрытность, которую Флоран не ожидал."
+      "Rus": "У тебя получилоссь! Ты показал<player.pronoun.verbEnding> такую сскрытность, которую Флоран не ожидал."
     }
   }
 ]

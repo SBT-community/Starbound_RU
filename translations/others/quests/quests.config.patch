@@ -36,6 +36,21 @@
   },
   {
     "op": "add",
+    "path": "/pronouns/male/verb4Ending",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/neutral/verb4Ending",
+    "value": ""
+  },
+    {
+    "op": "add",
+    "path": "/pronouns/female/verb4Ending",
+    "value": "ла"
+  },
+  {
+    "op": "add",
     "path": "/pronouns/male/verb3Ending",
     "value": "ся"
   },

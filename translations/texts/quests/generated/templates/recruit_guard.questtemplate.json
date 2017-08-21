@@ -44,7 +44,7 @@
     },
     "Texts": {
       "Eng": "All that's left is to ^green;build a new house with your ^orange;<guardObject>^white; in it, ^green;add 3 pieces of furniture that a ^orange;<tag>^white; would like, and ^green;put this ^orange;Colony Deed^green; up too^white;. Don't forget to ^green;add a ^orange;light source^white; as well!",
-      "Rus": "Всё, что осталось - это ^green;построить новый дом^white;, в который следует поместить ^orange;<guardObject>^white; и ^green;3 предмета ^orange;<tag>^green; мебели^white;, а затем установить ^orange;Колонизатор^white; и ждать прихода стражника. Не забудь, что в доме требуется поставить и ^orange;источник света^white;!"
+      "Rus": "Всё, что осталось - это ^green;построить новый дом^white;, в который следует поместить ^orange;<guardObject.reflexive>^white; и ^green;3 предмета ^orange;<tag>^green; мебели^white;, а затем установить ^orange;Колонизатор^white; и ждать прихода стражника. Не забудь, что в доме требуется поставить и ^orange;источник света^white;!"
     }
   },
   {
@@ -68,7 +68,7 @@
     },
     "Texts": {
       "Eng": "Final part is to ^green;place ^orange;<guardObject> ^white;into a newly made home, along with ^green;3 ^orange;<tag>^green; itemsss^white;, for a <tag> guard! Also ^green;place this ^orange;Colony Deed^green; inside^white;, and a ^green;^orange;light source^white;!",
-      "Rus": "Наконец, нужно ^green;поместить ^orange;<guardObject>^white; в новый дом, где есть ^green;3 предмета ^orange;<tag>^green; мебели^white;, чтобы появился сстражник! Не забудь ^green;установить ^orange;Колонизатор^white; и ^green;источник света^white;!"
+      "Rus": "Наконец, нужно ^green;поместить ^orange;<guardObject.reflexive>^white; в новый дом, где есть ^green;3 предмета ^orange;<tag>^green; мебели^white;, чтобы появился сстражник! Не забудь ^green;установить ^orange;Колонизатор^white; и ^green;источник света^white;!"
     }
   },
   {
@@ -80,7 +80,7 @@
     },
     "Texts": {
       "Eng": "Finally, ^green;build a new house with your ^orange;<guardObject>^white; in it, ^green;add 3 pieces of furniture that a ^orange;<tag>^white; would like and ^green;put this ^orange;Colony Deed^green; in it^white;! Don't forget to ^green;add a^orange; light source!",
-      "Rus": "Наконец, тебе нужно ^green;построить новый дом^white;, куда следует поместить ^orange;<guardObject>^white; и ^green;3 предмета ^orange;<tag>^green; мебели^white; - помимо обычного ^orange;Колонизатора^white; и ^orange;источника света^white;."
+      "Rus": "Наконец, тебе нужно ^green;построить новый дом^white;, куда следует поместить ^orange;<guardObject.reflexive>^white; и ^green;3 предмета ^orange;<tag>^green; мебели^white; - помимо обычного ^orange;Колонизатора^white; и ^orange;источника света^white;."
     }
   },
   {
@@ -92,7 +92,7 @@
     },
     "Texts": {
       "Eng": "Finally, ^green;build a new house with your ^orange;<guardObject>^white; in it, ^green;add 3 pieces of furniture that a ^orange;<tag>^white; would like and ^green;put this ^orange;Colony Deed^green; in it^white;! Don't forget to ^green;add a^orange; light source^white;!",
-      "Rus": "Наконец, тебе следует ^green;построить новый дом^white;, куда следует поместить ^orange;<guardObject>^white; и ^green;3 предмета ^orange;<tag>^green; мебели^white; - помимо обычного ^orange;Колонизатора^white; и ^orange;источника света^white;."
+      "Rus": "Наконец, тебе следует ^green;построить новый дом^white;, куда следует поместить ^orange;<guardObject.reflexive>^white; и ^green;3 предмета ^orange;<tag>^green; мебели^white; - помимо обычного ^orange;Колонизатора^white; и ^orange;источника света^white;."
     }
   },
   {
@@ -116,7 +116,7 @@
     },
     "Texts": {
       "Eng": "I decided not to help improve <questGiver>'s security. If <questGiver.pronoun.subject> can't protect <questGiver.pronoun.reflexive>, <questGiver.pronoun.subject> probably shouldn't have moved here to begin with.",
-      "Rus": "Я не смог помочь. <questGiver> слишком озабочен<questGiver.pronoun.verbEnding> собственной безопасностью - вряд ли с <questGiver.pronoun.copulativePast> что-то случится."
+      "Rus": "Я не сумел<player.pronoun.verbEnding> помочь. <questGiver> слишком озабочен<questGiver.pronoun.verbEnding> собственной безопасностью, но вряд ли с <questGiver.pronoun.copulativePast> что-то случится."
     }
   },
   {
@@ -152,7 +152,7 @@
     },
     "Texts": {
       "Eng": "I was unable to help improve <questGiver>'s security. <questGiver.pronoun.capitalSubject>'ll probably be fine. Probably.",
-      "Rus": "Я не смог помочь. <questGiver> может сам<questGiver.pronoun.verbEnding> стать стражником, если беспокоится о своей безопасности."
+      "Rus": "Я не смог<player.pronoun.verb4Ending> помочь. <questGiver> может сам<questGiver.pronoun.verbEnding> стать стражником, если беспокоится о своей безопасности."
     }
   },
   {
@@ -164,7 +164,7 @@
     },
     "Texts": {
       "Eng": "Now you just need to ^green;build a new house with your ^orange;<guardObject>^white; in it, ^green;add 3 pieces of furniture that a ^orange;<tag>^white; would like, and ^green;put this ^orange;Colony Deed^green; up too^white;. Don't forget to ^green;add a ^orange;light source^white;!",
-      "Rus": "Теперь тебе осталось только ^green;построить новый дом^white; и поместить в него ^orange;<guardObject>^white; вместе с ^green;3 предметами ^orange;<tag>^green; мебели^white;. Затем надо установить ^orange;Колонизатор^white;. Не забудь про то, что в доме необходим ^orange;источник света^white;!"
+      "Rus": "Теперь тебе осталось только ^green;построить новый дом^white; и поместить в него ^orange;<guardObject.reflexive>^white; вместе с ^green;3 предметами ^orange;<tag>^green; мебели^white;. Затем надо установить ^orange;Колонизатор^white;. Не забудь про то, что в доме необходим ^orange;источник света^white;!"
     }
   },
   {
@@ -188,7 +188,7 @@
     },
     "Texts": {
       "Eng": "This final part will be hard work. You will need to ^green;build a home^white; for a guard to move into. ^green;Place this ^orange;Colony Deed^green; and the ^orange;<guardObject>^green; in the house with 3 ^orange;<tag> themed itemsss^white;. Don't forget a ^orange;light source^white; and a door!",
-      "Rus": "Дальше тебя ждёт непросстая задача. Тебе нужно ^green;посстроить дом^white; для стражника - в нём должны быть ^green;3 предмета ^orange;<tag>^green; мебели^white; и ^orange;<guardObject>^white;. Затем усстанови в дом ^orange;Колонизатор^white;. Не забудь также про ^green;источник света^white; и дверь!"
+      "Rus": "Дальше тебя ждёт непросстая задача. Тебе нужно ^green;посстроить дом^white; для стражника - в нём должны быть ^green;3 предмета ^orange;<tag>^green; мебели^white; и ^orange;<guardObject.reflexive>^white;. Затем усстанови в дом ^orange;Колонизатор^white;. Не забудь также про ^green;источник света^white; и дверь!"
     }
   },
   {
@@ -224,7 +224,7 @@
     },
     "Texts": {
       "Eng": "With the new guard around, Floran can feel the whole town relaxing already. Thanksss for your hard work!",
-      "Rus": "Когда тут появился новый сстражник, Флоран больше не чувствует себя беззащитной жертвой. Сспасибо за старания!"
+      "Rus": "Когда тут появился новый сстражник, флоран больше не чувствует себя беззащитной жертвой. Сспасибо за старания!"
     }
   },
   {
@@ -236,7 +236,7 @@
     },
     "Texts": {
       "Eng": "^cyan;Defenseless. I would feel safer with a guard around here. Can you help me recruit one?",
-      "Rus": "^cyan;Беспомощно. Я бы чувствовал<questGiver.pronoun.verbEnding> себя более спокойно, если бы неподалёку жил стражник. Не мог бы ты организовать его пост?"
+      "Rus": "^cyan;Беспомощно. Я бы чувствовал<questGiver.pronoun.verbEnding> себя более спокойно, если бы неподалёку жил стражник. Не мог<player.pronoun.verb4Ending> бы ты организовать его пост?"
     }
   },
   {
@@ -248,7 +248,7 @@
     },
     "Texts": {
       "Eng": "^cyan;Floran has been thinking that everyone would feel sssafer with a new guard in town.",
-      "Rus": "^cyan;Флоран думает, что все чувсствовали бы себя более безопасно, если бы поблизости появился сстражник."
+      "Rus": "^cyan;Флоран думает, что все почувсствовали бы себя более безопасно, если бы поблизости появился сстражник."
     }
   },
   {
@@ -260,7 +260,7 @@
     },
     "Texts": {
       "Eng": "^cyan;Floran thinksss town would benefit from recruiting new guard. Here's Floran's plan...",
-      "Rus": "^cyan;Флоран думает, что от появления сстражника все только выгадают. Вот что нужно ссделать..."
+      "Rus": "^cyan;Флоран думает, что от появления сстражника все только выиграют. Вот что нужно ссделать..."
     }
   },
   {
@@ -272,7 +272,7 @@
     },
     "Texts": {
       "Eng": "^cyan;I would feel safer with some protection around here. Can you help recruit a guard?",
-      "Rus": "^cyan;Я бы чувствовал<questGiver.pronoun.verbEnding> себя более спокойно, если бы нашёлся кто-то, кто профессионально занимается защитой жителей. Не мог бы ты нанять стражника?"
+      "Rus": "^cyan;Я бы чувствовал<questGiver.pronoun.verbEnding> себя более спокойно, если бы нашёлся кто-то, кто профессионально занимается защитой жителей. Не мог<player.pronoun.verb4Ending> бы ты нанять стражника?"
     }
   },
   {

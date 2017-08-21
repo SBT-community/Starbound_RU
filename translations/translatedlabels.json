@@ -338,7 +338,7 @@
     },
     "dialog": {
       "airship.config.json": 46,
-      "alpaca.config.json": 60,
+      "alpaca.config.json": 63,
       "arrivedhome.config.json": 54,
       "clues.config.json": 50,
       "colourful.config.json": 33,
@@ -369,7 +369,7 @@
       "shared_at.config.json": 1,
       "shared_merchant.config.json": 20,
       "shared_t.config.json": 1,
-      "shipcrew.config.json": 28,
+      "shipcrew.config.json": 63,
       "shroom.config.json": 85,
       "sniper.config.json": 23,
       "spaceconverse.config.json": 85,
@@ -386,7 +386,7 @@
     "generic": {
       "shared_lightbulb.json": 1
     },
-    "glitchEmotes.json": 380,
+    "glitchEmotes.json": 385,
     "help.config.json": 62,
     "hunger.config.json": 14,
     "interface": {
@@ -792,13 +792,13 @@
                   "flipslash.weaponability.json": 0
                 },
                 "giantsword": {
-                  "giantsword.weaponability.json": 0
+                  "giantsword.weaponability.json": 1
                 },
                 "greatwave": {
-                  "greatwave.weaponability.json": 0
+                  "greatwave.weaponability.json": 1
                 },
                 "kunaiblast": {
-                  "kunaiblast.weaponability.json": 0
+                  "kunaiblast.weaponability.json": 1
                 },
                 "parry": {
                   "parry.weaponability.json": 1
@@ -4607,7 +4607,7 @@
         "crewmember.npctype.json": 164,
         "crewmemberchemist.npctype.json": 7,
         "crewmemberengineer.npctype.json": 3,
-        "crewmemberjanitor.npctype.json": 5,
+        "crewmemberjanitor.npctype.json": 9,
         "crewmembermechanic.npctype.json": 3,
         "crewmembermedic.npctype.json": 19,
         "crewmemberoutlaw.npctype.json": 49,
@@ -9428,7 +9428,7 @@
           "goldball.object.json": 5
         },
         "greencandycane1": {
-          "greencandycane1.object.json": 0
+          "greencandycane1.object.json": 2
         },
         "greencandycane2": {
           "greencandycane2.object.json": 0
@@ -9488,7 +9488,7 @@
           "redball.object.json": 0
         },
         "redcandycane1": {
-          "redcandycane1.object.json": 0
+          "redcandycane1.object.json": 2
         },
         "redcandycane2": {
           "redcandycane2.object.json": 0
@@ -11119,7 +11119,7 @@
         },
         "shared_.object.json": 2,
         "shared_bathroomtrash": {
-          "shared_bathroomtrash.json": 6
+          "shared_bathroomtrash.json": 7
         },
         "shared_closed.object.json": 1,
         "shared_outpost": {
@@ -13253,7 +13253,7 @@
           "craft.questtemplate.json": 12,
           "escort.questtemplate.json": 47,
           "escort_trade.questtemplate.json": 13,
-          "extort.questtemplate.json": 15,
+          "extort.questtemplate.json": 24,
           "farming.questtemplate.json": 24,
           "fetch.questtemplate.json": 24,
           "gift.questtemplate.json": 36,
