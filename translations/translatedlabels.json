@@ -362,14 +362,14 @@
       "mutantminer.config.json": 10,
       "oremerchant.config.json": 119,
       "outpost.config.json": 42,
-      "quest.config.json": 112,
+      "quest.config.json": 114,
       "rebel.config.json": 3,
       "scientist.config.json": 12,
       "shared_.config.json": 101,
       "shared_at.config.json": 1,
       "shared_merchant.config.json": 20,
       "shared_t.config.json": 1,
-      "shipcrew.config.json": 63,
+      "shipcrew.config.json": 66,
       "shroom.config.json": 85,
       "sniper.config.json": 23,
       "spaceconverse.config.json": 85,
@@ -5787,10 +5787,10 @@
           "avianbench1.object.json": 6
         },
         "avianbench2": {
-          "avianbench2.object.json": 0
+          "avianbench2.object.json": 8
         },
         "avianpressureplate": {
-          "avianpressureplate.object.json": 0
+          "avianpressureplate.object.json": 5
         },
         "avianstoragelocker": {
           "avianstoragelocker.object.json": 1
@@ -5803,7 +5803,7 @@
           "avianwaterlight.object.json": 0
         },
         "bardoor2": {
-          "bardoor2.object.json": 0,
+          "bardoor2.object.json": 2,
           "bardoor2sideways.object.json": 0
         },
         "bardoor3": {
@@ -5885,10 +5885,10 @@
           "earthemblem.object.json": 0
         },
         "feathers1": {
-          "feathers1.object.json": 0
+          "feathers1.object.json": 9
         },
         "feathers2": {
-          "feathers2.object.json": 0
+          "feathers2.object.json": 2
         },
         "featherybird": {
           "featherybird.object.json": 0
@@ -6130,7 +6130,7 @@
           "wateremblem.object.json": 8
         },
         "windchicken": {
-          "windchicken.object.json": 0
+          "windchicken.object.json": 8
         },
         "wingedurn": {
           "wingedurn.object.json": 9
@@ -11261,7 +11261,7 @@
             "protectoratedormmirror.object.json": 9
           },
           "protectoratedormtoilet": {
-            "protectoratedormtoilet.object.json": 9
+            "protectoratedormtoilet.object.json": 8
           },
           "protectoratedormtoiletroll": {
             "protectoratedormtoiletroll.object.json": 9
