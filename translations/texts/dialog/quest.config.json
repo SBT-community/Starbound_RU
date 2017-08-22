@@ -8,7 +8,7 @@
     },
     "Texts": {
       "Eng": "<item>? Here, I made one already. Feel free to take it.",
-      "Rus": "<item>? Вот, я уже сделал<questGiver.pronoun.verbEnding> одну. Бери, не стесняйся."
+      "Rus": "<item>? Вот, я уже сделал<self.pronoun.verbEnding> одну. Бери, не стесняйся."
     }
   },
   {
@@ -32,7 +32,7 @@
     },
     "Texts": {
       "Eng": "<questGiver> can borrow my <item> if they ain't gonna take if for long!",
-      "Rus": "<questGiver> может одолжить <item>, если ненадолго!"
+      "Rus": "<questGiver> может одолжить <item.reflexive>, если ненадолго!"
     }
   },
   {
@@ -44,7 +44,7 @@
     },
     "Texts": {
       "Eng": "<questGiver> can borrow my <item> if they have need of it!",
-      "Rus": "<questGiver> может одолжить <item> если надо!"
+      "Rus": "<questGiver> может одолжить <item.reflexive> если надо!"
     }
   },
   {
@@ -56,7 +56,7 @@
     },
     "Texts": {
       "Eng": "<questGiver> can borrow my <item> if they need it!",
-      "Rus": "<questGiver> может одолжить <item> если надо!"
+      "Rus": "<questGiver> может одолжить <item.reflexive> если надо!"
     }
   },
   {
@@ -68,7 +68,7 @@
     },
     "Texts": {
       "Eng": "<questGiver> can borrow my <item>! As long as they give it back to me when they're done.",
-      "Rus": "<questGiver> может одолжить <item> если нужно! Но только если вернет."
+      "Rus": "<questGiver> может одолжить <item.reflexive> если нужно! Но только если вернет."
     }
   },
   {
@@ -80,7 +80,7 @@
     },
     "Texts": {
       "Eng": "<questGiver> can borrow my <item>, I just hope I get it back...",
-      "Rus": "<questGiver> можеть взять <item>, я только надеюсь что получу это обратно..."
+      "Rus": "<questGiver> можеть взять <item.reflexive>, только я надеюсь на возврат..."
     }
   },
   {
@@ -92,7 +92,7 @@
     },
     "Texts": {
       "Eng": "<questGiver> can have my <item>, just don't hurt me!",
-      "Rus": "<questGiver> может взять <item>, только не делай мне больно!"
+      "Rus": "<questGiver> может взять <item.reflexive>, только не делай мне больно!"
     }
   },
   {
@@ -116,7 +116,7 @@
     },
     "Texts": {
       "Eng": "<questGiver> contracted Floran to help you ssstab the <enemy>.",
-      "Rus": "<questGiver> заключил<questGiver.pronoun.verbEnding> контракт с Флораном, чтобы помочь тебе."
+      "Rus": "<questGiver> заключил<questGiver.pronoun.verbEnding> контракт с флораном, чтобы помочь тебе."
     }
   },
   {
@@ -251,7 +251,7 @@
     },
     "Texts": {
       "Eng": "<questGiver> is clearly someone I can trust.",
-      "Rus": "<questGiver> — явно личность, кому я могу доверять."
+      "Rus": "<questGiver> — явно личность, которой я могу доверять."
     }
   },
   {
@@ -263,7 +263,7 @@
     },
     "Texts": {
       "Eng": "<questGiver> is pretty nice!",
-      "Rus": "<questGiver> очень милый!"
+      "Rus": "<questGiver> очень мил<questGiver.pronoun.adj2Ending>!"
     }
   },
   {
@@ -299,7 +299,7 @@
     },
     "Texts": {
       "Eng": "A bribe! Give my thanks to <questGiver>.",
-      "Rus": "Взятка! Передай мою благодарность <questGiver>."
+      "Rus": "<questGiver> передаёт мне взятку! Передай <questGiver.pronoun.object> мою благодарность в ответ."
     }
   },
   {
@@ -375,7 +375,7 @@
     },
     "Texts": {
       "Eng": "An' here I was, with my life flashin' before me! I thought I was a goner!",
-      "Rus": ""
+      "Rus": "Покуда я тут был<self.pronoun.verbEnding>, у меня вся жизнь перед глазами промелькнула! Я думал<self.pronoun.verbEnding> мне конец!"
     }
   },
   {
@@ -400,7 +400,7 @@
     },
     "Texts": {
       "Eng": "Are you here on behalf of <questGiver>? Here is their <receivedItems>. Thank you for these goods.",
-      "Rus": "Тебя прислал<questGiver.pronoun.verbEnding> <questGiver>? Вот то, что <questGiver.pronoun.subject> просил<questGiver.pronoun.verbEnding>: <receivedItems>. Спасибо за эти товары."
+      "Rus": "Тебя прислал<questGiver.pronoun.verbEnding> <questGiver>? Вот <receivedItems>, что <questGiver.pronoun.subject> просил<questGiver.pronoun.verbEnding>. Спасибо за эти товары."
     }
   },
   {
@@ -412,7 +412,7 @@
     },
     "Texts": {
       "Eng": "Are you here on behalf of <questGiver>? Here's the parcel. Thank you for these goods.",
-      "Rus": ""
+      "Rus": "<questGiver> прислал<questGiver.pronoun.verbEnding> тебя? Вот посылка. Спасибо за товары."
     }
   },
   {
@@ -424,7 +424,7 @@
     },
     "Texts": {
       "Eng": "Are you trying to intimidate me on behalf of <questGiver>?",
-      "Rus": ""
+      "Rus": "Тебя послал<questGiver.pronoun.verbEnding> <questGiver>, чтобы запугать меня?"
     }
   },
   {
@@ -436,7 +436,7 @@
     },
     "Texts": {
       "Eng": "Being bribed is pretty great! Please give my thanks to <questGiver>.",
-      "Rus": ""
+      "Rus": "Быть подкупленн<self.pronoun.adj4Ending> весьма приятно! Позаботься о том, чтобы <questGiver> получил<questGiver.pronoun.verbEnding> мою благодарность."
     }
   },
   {
@@ -448,7 +448,7 @@
     },
     "Texts": {
       "Eng": "Can you take Floran home to <questGiver>? Floran doesn't feel sssafe.",
-      "Rus": "Можешь отвести Флорана домой к <questGiver>? Флоран не чувствует себя безопасссно."
+      "Rus": "<questGiver> ждёт дома, можешь отвести флорана к н<questGiver.pronoun.object>? Флоран не чувствует себя безопасссно."
     }
   },
   {
@@ -460,7 +460,7 @@
     },
     "Texts": {
       "Eng": "Can you take me back to <questGiver>? I don't feel confident in myself right now...",
-      "Rus": ""
+      "Rus": "Отведёшь меня назад? Думаю, <questGiver> уже заждал<questGiver.pronoun.verb3Ending> меня, а я не слишком уверен<self.pronoun.verbEnding> в своих силах."
     }
   },
   {
@@ -472,7 +472,7 @@
     },
     "Texts": {
       "Eng": "Can you take me home to <questGiver>? Just to be on the safe side...",
-      "Rus": ""
+      "Rus": "<questGiver> ждёт дома, можешь отвести меня к н<questGiver.pronoun.object>? Просто, чтобы попасть в безопасное место..."
     }
   },
   {
@@ -484,7 +484,7 @@
     },
     "Texts": {
       "Eng": "Could you accompany me back to <questGiver>? I ain't feel too sharp right now...",
-      "Rus": ""
+      "Rus": "Не проводишь меня обратно? Я не особо хорошо себя чувствую сейчас..."
     }
   },
   {
@@ -496,7 +496,7 @@
     },
     "Texts": {
       "Eng": "Do you have a delivery for Floran?",
-      "Rus": ""
+      "Rus": "У тебя посылка для флорана?"
     }
   },
   {
@@ -509,7 +509,7 @@
     },
     "Texts": {
       "Eng": "Do you have a delivery for me?",
-      "Rus": ""
+      "Rus": "У тебя для меня посылка?"
     }
   },
   {
@@ -521,7 +521,7 @@
     },
     "Texts": {
       "Eng": "Don't hurt Floran with <item>! Tell <questGiver> Floran will obey!",
-      "Rus": "Не используй <item> во вред Флорану! Передай <questGiver>, что Флоран подчинится!"
+      "Rus": "Не используй <item.reflexive> во вред флорану! Пусть <questGiver> знает, что Флоран подчинится!"
     }
   },
   {
@@ -533,7 +533,7 @@
     },
     "Texts": {
       "Eng": "Don't hurt me with that <item> - Tell <questGiver> I'll do anything!",
-      "Rus": "Не используй <item> мне во вред! Скажи <questGiver>, что я сделаю всё что угодно!"
+      "Rus": "Не используй <item.reflexive> мне во вред! <questGiver> должен понять, что я сделаю всё что угодно!"
     }
   },
   {
@@ -545,7 +545,7 @@
     },
     "Texts": {
       "Eng": "Don't hurt me with that <item>! Tell <questGiver> I will comply!",
-      "Rus": ""
+      "Rus": "Убери <item.reflexive>! <questGiver> тебя подослал<questGiver.pronoun.verbEnding>, так ведь? Передай <questGiver.pronoun.object>, что я подчинюсь!"
     }
   },
   {
@@ -559,7 +559,7 @@
     },
     "Texts": {
       "Eng": "Don't hurt me with that <item>! Tell <questGiver> I'll do anything!",
-      "Rus": ""
+      "Rus": "Не используй <item.reflexive>, чтобы ранить меня. Тебя прислал<questGiver.pronoun.verbEnding> <questGiver>? Скажи <questGiver.pronoun.object>, что я сделаю что угодно!"
     }
   },
   {
@@ -583,7 +583,7 @@
     },
     "Texts": {
       "Eng": "Don't leave me! Take me home to <questGiver>.",
-      "Rus": "Не оставляй меня! Отведи меня домой к <questGiver>"
+      "Rus": "Не оставляй меня! Отведи меня в дом, где живёт <questGiver>."
     }
   },
   {
@@ -595,7 +595,7 @@
     },
     "Texts": {
       "Eng": "Don't point that <item> at me! Tell <questGiver> I'll do anything!",
-      "Rus": ""
+      "Rus": "Не направляй <item.reflexive> на меня! Пусть <questGiver> знает, что за сделаю что угодно!"
     }
   },
   {
@@ -607,7 +607,7 @@
     },
     "Texts": {
       "Eng": "Extortion is not new to me. Take my <item>...",
-      "Rus": ""
+      "Rus": "Вымогательство для меня не впервой. Забирай <item.reflexive>..."
     }
   },
   {
