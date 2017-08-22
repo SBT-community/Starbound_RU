@@ -315,7 +315,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      ""
+    ],
     "Files": {
       "dialog/quest.config": [
         "/gift/giftAccepted/floran/default/1"
@@ -335,7 +337,7 @@
     },
     "Texts": {
       "Eng": "Alright alright, I'll pay up! Yer cornered me!",
-      "Rus": "Ладно ладно, я заплачу! Ты припёр меня к стене!"
+      "Rus": "Ладно, ладно, я заплачу! Твоя взяла!"
     }
   },
   {
@@ -348,7 +350,7 @@
     },
     "Texts": {
       "Eng": "An ace-high job, if I say so myself! Could you run this parcel to <questGiver> for me, partner?",
-      "Rus": ""
+      "Rus": "Сделано знатно, если меня спросишь! <questGiver> ждёт эту посыль от меня. Передашь, дружище?"
     }
   },
   {
@@ -361,7 +363,7 @@
     },
     "Texts": {
       "Eng": "An exquisite job, if I say so myself! Would you take this parcel to <questGiver> for me?",
-      "Rus": ""
+      "Rus": "Без лишней скромности скажу, что сделано превосходно. <questGiver> ждёт эту посылку. Пожалуйста, передай её от меня."
     }
   },
   {
@@ -386,7 +388,7 @@
     },
     "Texts": {
       "Eng": "And... Finished! Take this parcel to <questGiver>.",
-      "Rus": "И... Закончено! Отнеси эту посылку <questGiver>."
+      "Rus": "И... Готово! Отнеси эту посылку <questGiver>."
     }
   },
   {
