@@ -103,5 +103,20 @@
     "op": "add",
     "path": "/pronouns/neutral/adj3Ending",
     "value": "ий"
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/female/adj4Ending",
+    "value": "ой"
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/male/adj4Ending",
+    "value": "ым"
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/neutral/adj4Ending",
+    "value": "ым"
   }
 ]
