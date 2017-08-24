@@ -5263,7 +5263,7 @@
     },
     "Texts": {
       "Eng": "Gross, you're all slimy.",
-      "Rus": "Фи, ты весь скользкий."
+      "Rus": "Фу, ты так<self.pronoun.adjEnding> склизск<self.pronoun.adj3Ending>"
     }
   },
   {
@@ -5311,7 +5311,7 @@
     },
     "Texts": {
       "Eng": "Has the Miniknog started employing Avians?",
-      "Rus": "Министерство не начало нанимать Авиан?"
+      "Rus": "Министерство начало нанимать авиан?"
     }
   },
   {
@@ -5335,7 +5335,7 @@
     },
     "Texts": {
       "Eng": "Have I met anyone who looks like you before, partner? I forget.",
-      "Rus": "Не видал ли я раньше кого-то наподобии тебя, дружище? Я забыл."
+      "Rus": "Не видал<self.pronoun.verbEnding> ли я раньше кого-то наподобие тебя, дружище? Я забыл<self.pronoun.verbEnding>."
     }
   },
   {
@@ -5444,7 +5444,7 @@
     },
     "Texts": {
       "Eng": "Have we met? I'd feel like I'd remember someone as feathered as you, but I ain't sure...",
-      "Rus": "Мы не встречались? Чую, будто помнил кого-то столь же пернатого как ты, но не уверен..."
+      "Rus": "Мы не встречались? Чую, будто помню кого-то столь же пернатого как ты, но не уверен<self.pronoun.verbEnding>..."
     }
   },
   {
@@ -5456,7 +5456,7 @@
     },
     "Texts": {
       "Eng": "Have you been in an Avian temple? I'm not sure they'd appeal to the Hylotl aesthetic...",
-      "Rus": "Тебе случалось бывать в авианском храме? Я не думаю, что они понравятся эстетике хилотлов..."
+      "Rus": "Тебе случалось бывать в авианском храме? Я не думаю, что они сответствуют эстетике хилотлов..."
     }
   },
   {
@@ -5468,7 +5468,7 @@
     },
     "Texts": {
       "Eng": "Have you dealt with pirates much?",
-      "Rus": "Тебе приходилось разбираться с пиратами?"
+      "Rus": "Тебе приходилось иметь дела с пиратами?"
     }
   },
   {
@@ -5516,7 +5516,7 @@
     },
     "Texts": {
       "Eng": "Have you ever eaten an oculemon? They're not my favourite.",
-      "Rus": "Тебе когда-нибудь приходилось есть окулемон?"
+      "Rus": "Тебе когда-нибудь приходилось пробовать окулемон? Мне они не нравятся."
     }
   },
   {
@@ -5528,7 +5528,7 @@
     },
     "Texts": {
       "Eng": "Have you ever heard an Apex sing? We are not built for such activities.",
-      "Rus": "Ты когда-нибудь слышал песню Апексов? Мы не созданы для этого."
+      "Rus": "Ты когда-нибудь слышал<player.pronoun.verbEnding> как поёт апекс? Мы не созданы для этого."
     }
   },
   {
@@ -5540,7 +5540,7 @@
     },
     "Texts": {
       "Eng": "Have you ever noticed how elegant Hylotl architecture is. It makes me so proud.",
-      "Rus": "Ты когда-нибудь замечал, насколько элегантна архитектура Хилотлов. Она наполняет  меня гордостью."
+      "Rus": "Ты когда-нибудь замечал<player.pronoun.verbEnding>, насколько элегантна архитектура Хилотлов. Она наполняет меня гордостью."
     }
   },
   {
@@ -5552,7 +5552,7 @@
     },
     "Texts": {
       "Eng": "Have you ever seen Big Ape?",
-      "Rus": "Ты когда-нибудь видел Большого Эйпа?"
+      "Rus": "Ты когда-нибудь видел<player.pronoun.verbEnding> Большого Эйпа?"
     }
   },
   {
@@ -5564,7 +5564,7 @@
     },
     "Texts": {
       "Eng": "Have you ever seen a narwhal?",
-      "Rus": "Ты когда-нибудь видел нарвала?"
+      "Rus": "Ты когда-нибудь видел<player.pronoun.verbEnding> нарвала?"
     }
   },
   {
@@ -5576,7 +5576,7 @@
     },
     "Texts": {
       "Eng": "Have you ever tasted an automato?",
-      "Rus": "Пробовал когда-нибудь автомато?"
+      "Rus": "Ты когда-нибудь пробовал<player.pronoun.verbEnding> автомато?"
     }
   },
   {
@@ -5588,7 +5588,7 @@
     },
     "Texts": {
       "Eng": "Have you ever tried shaving to pass as human?",
-      "Rus": "Не пробовал побриться, чтобы сойти за человека?"
+      "Rus": "Ты когда-нибудь пытал<player.pronoun.verb3Ending> побриться, чтобы сойти за человека?"
     }
   },
   {
@@ -5600,7 +5600,7 @@
     },
     "Texts": {
       "Eng": "Have you ever tried sunflower seeds? I think you'd love them.",
-      "Rus": "Никогда не пробовал семена подсолнуха? Думаю тебе бы понравилось."
+      "Rus": "Никогда не пробовал<player.pronoun.verbEnding> семена подсолнуха? Думаю тебе бы понравилось."
     }
   },
   {
@@ -5636,7 +5636,7 @@
     },
     "Texts": {
       "Eng": "Have you met Floransss before?",
-      "Rus": "Не вссстречал раньше Флоран?"
+      "Rus": "Не вссстречал<player.pronoun.verbEnding> раньше Флоранов?"
     }
   },
   {
@@ -5648,7 +5648,7 @@
     },
     "Texts": {
       "Eng": "Have you met the penguins?",
-      "Rus": "Не встречал пингвинов?"
+      "Rus": "Не встречал<player.pronoun.verbEnding> пингвинов?"
     }
   },
   {
@@ -5660,7 +5660,7 @@
     },
     "Texts": {
       "Eng": "Have you read much work by the great Hylotl thinkers?",
-      "Rus": "Много ли ты прочитал работ великих Хилотлских мыслителей?"
+      "Rus": "Много ли ты прочитал<player.pronoun.verbEnding> работ великих хилотлских мыслителей?"
     }
   },
   {
@@ -5672,7 +5672,7 @@
     },
     "Texts": {
       "Eng": "Have you read the \"Daily Peel\" lately?",
-      "Rus": "Читал ли ты недавно \"Дейли Пиил\"?"
+      "Rus": "Читал<player.pronoun.verbEnding> ли ты недавно \"Дейли Пиил\"?"
     }
   },
   {
@@ -5684,7 +5684,7 @@
     },
     "Texts": {
       "Eng": "Have you read the works of the great Hylotl thinkers? I often look to them for guidance.",
-      "Rus": "Читал ли ты работы великих Хилотлских мыслителей? Я часто обращаюсь к ним за наставлениями."
+      "Rus": "Читал<player.pronoun.verbEnding> ли ты работы великих хилотлских мыслителей? Я часто обращаюсь к ним за наставлениями."
     }
   },
   {
@@ -5696,7 +5696,7 @@
     },
     "Texts": {
       "Eng": "Have you seen a chicken round here?",
-      "Rus": "Не видал тут, в округе, курицу?"
+      "Rus": "Не видел<player.pronoun.verbEnding> тут, в округе, курицу?"
     }
   },
   {
@@ -5720,7 +5720,7 @@
     },
     "Texts": {
       "Eng": "Have you seen many worlds, my friend?",
-      "Rus": "Видел ли ты множество миров, друг мой?"
+      "Rus": "Много ли ты повидал<player.pronoun.verbEnding> миров, друг мой?"
     }
   },
   {
@@ -5732,7 +5732,7 @@
     },
     "Texts": {
       "Eng": "Have you seen my book? I put it down somewhere.",
-      "Rus": "Не видел мою книгу? Я её где-то выронил."
+      "Rus": "Не видел<player.pronoun.verbEnding> мою книгу? Я её где-то выронил<self.pronoun.verbEnding>."
     }
   },
   {
@@ -5744,7 +5744,7 @@
     },
     "Texts": {
       "Eng": "Have you seen my hat? I've been looking for it for like an hour.",
-      "Rus": "Не видел мою шляпу? Я ищу её уже почти целый час."
+      "Rus": "Не видел<player.pronoun.verbEnding> мою шляпу? Я ищу её уже почти целый час."
     }
   },
   {
@@ -5756,7 +5756,7 @@
     },
     "Texts": {
       "Eng": "Have you seen my paintbrushes? They have birchwood handles and sable bristles...",
-      "Rus": "Ты не видел мои кисточки? У них соболиная щетина и берёзовые ручки."
+      "Rus": "Ты не видел<player.pronoun.verbEnding> мои кисточки? У них соболиная щетина и берёзовые ручки."
     }
   },
   {
@@ -5768,7 +5768,7 @@
     },
     "Texts": {
       "Eng": "Have you spent much time in libraries? You seem well educated.",
-      "Rus": "Ты проводишь много времени в библиотеке? Выглядишь неплохо образованным."
+      "Rus": "Ты проводишь много времени в библиотеке? Выглядишь довольно образованн<player.pronoun.adj4Ending>."
     }
   },
   {
@@ -5792,7 +5792,7 @@
     },
     "Texts": {
       "Eng": "Heard any good jokes lately? A little laughter never hurt anyone.",
-      "Rus": "Не слыхал каких-нибудь хороших шуток в последнее время? Немного смеха никому не повредит."
+      "Rus": "Не слыхал<player.pronoun.verbEnding> каких-нибудь хороших шуток в последнее время? Немного смеха никому не повредит."
     }
   },
   {
@@ -5816,7 +5816,7 @@
     },
     "Texts": {
       "Eng": "Hello Avian.",
-      "Rus": "Привет, Авианин."
+      "Rus": "Привет, авианин."
     }
   },
   {
@@ -5840,7 +5840,7 @@
     },
     "Texts": {
       "Eng": "Hello Glitch.",
-      "Rus": "Здравствуй, Глич."
+      "Rus": "Здравствуй, глитч."
     }
   },
   {
@@ -5864,7 +5864,7 @@
     },
     "Texts": {
       "Eng": "Hello bird person!",
-      "Rus": "Здравствуй, разумная птица!"
+      "Rus": "Здравствуй, ходячая птица!"
     }
   },
   {
@@ -6046,7 +6046,7 @@
     },
     "Texts": {
       "Eng": "Hey there, Apex!",
-      "Rus": "Эй, Апекс!"
+      "Rus": "Привет, апекс!"
     }
   },
   {
@@ -6058,7 +6058,7 @@
     },
     "Texts": {
       "Eng": "Hey there, Avian!",
-      "Rus": "Эй, Авианин!"
+      "Rus": "Эй, авианин!"
     }
   },
   {
@@ -6239,7 +6239,7 @@
     },
     "Texts": {
       "Eng": "Hi, fellow Avian.",
-      "Rus": "Привет, авианский собрат."
+      "Rus": "Привет, друг-авианин."
     }
   },
   {
@@ -6318,7 +6318,7 @@
     },
     "Texts": {
       "Eng": "How colourful you are - I would love to paint you.",
-      "Rus": "Какой же ты красочный! Я бы с удовольствием тебя нарисовал."
+      "Rus": "Как<player.pronoun.adjEnding> же ты красочн<player.pronoun.adj2Ending>! Я бы с удовольствием тебя нарисовал.\n<player.pronoun.verbEnding>"
     }
   },
   {
@@ -6330,7 +6330,7 @@
     },
     "Texts": {
       "Eng": "How do Hylotls paint this way - I have seen your art, it is quite beautiful.",
-      "Rus": "Как Хилотлы могут так рисовать?! Я видел ваши рисунки, они довольно красивы."
+      "Rus": "Как хилотлы могут так рисовать?! Я видел<self.pronoun.verbEnding> ваши картины, они весьма красивы."
     }
   },
   {
@@ -6486,7 +6486,7 @@
     },
     "Texts": {
       "Eng": "How do you young Glitch have so much energy?",
-      "Rus": "Откуда у вас, молодых Гличей, так много энергии?"
+      "Rus": "Откуда у вас, молодых глитчей, так много энергии?"
     }
   },
   {
@@ -6498,7 +6498,7 @@
     },
     "Texts": {
       "Eng": "How does a Glitch work?",
-      "Rus": "Как работают Гличи?"
+      "Rus": "Как работают глитчи?"
     }
   },
   {
@@ -6534,7 +6534,7 @@
     },
     "Texts": {
       "Eng": "How fassst can you swim?",
-      "Rus": "Насколько быстро ты плаваешшшь?"
+      "Rus": "Как быстро ты плаваешшшь?"
     }
   },
   {
@@ -6594,7 +6594,7 @@
     },
     "Texts": {
       "Eng": "How long since you've been on a hunt?",
-      "Rus": "Как давно ты был на охоте?"
+      "Rus": "Как давно ты был<player.pronoun.verbEnding> на охоте?"
     }
   },
   {
@@ -6618,7 +6618,7 @@
     },
     "Texts": {
       "Eng": "How many fish people are there? Not more than Floransss I bet!",
-      "Rus": "Сссколько тут ходячих рыб? Бьюсссь об заклад, не больше чем Флоран."
+      "Rus": "Сколько сущессствует ходячих рыб? Бьюсь об заклад, не большше чем Флоранов."
     }
   },
   {
@@ -6630,7 +6630,7 @@
     },
     "Texts": {
       "Eng": "How many prey have you ssstabbed recently?",
-      "Rus": "Сссколько добычи ты заколол за последнее время?"
+      "Rus": "Сссколько добычи ты заколол<player.pronoun.verbEnding> за последнее время?"
     }
   },
   {
@@ -6666,7 +6666,7 @@
     },
     "Texts": {
       "Eng": "How strong are you? You need great strength to live around here.",
-      "Rus": "Насколько ты силён? Тебе нужна великая сила, чтобы жить здесь."
+      "Rus": "Насколько ты сильн<player.pronoun.adj2Ending>? Тебе нужна великая сила, чтобы жить здесь."
     }
   },
   {
@@ -6910,7 +6910,7 @@
     },
     "Texts": {
       "Eng": "Hylotl art is pretty nice, I'm a fan.",
-      "Rus": "Искусство Хилотлов весьма приятно, я его фанат."
+      "Rus": "Искусство хилотлов весьма приятно, я его фанат."
     }
   },
   {
@@ -6922,7 +6922,7 @@
     },
     "Texts": {
       "Eng": "Hylotl buildings are so much nicer than Glitch castles.",
-      "Rus": "Сооружения Хилотлов намного красивее чем замки Гличей."
+      "Rus": "Сооружения хилотлов намного красивее чем замки глитчей."
     }
   },
   {
@@ -6946,7 +6946,7 @@
     },
     "Texts": {
       "Eng": "Hylotl warriors exist to protect our kind, born through duress they are sadly a necessary evil.",
-      "Rus": "Войны Хилотлов существуют чтобы защищать наш вид, появившиеся по необходимости, они, к сожалению, необходимое зло."
+      "Rus": "Воины хилотлов существуют чтобы защищать наш вид. Рождённые из-за необходимости, они, к сожалению, необходимое зло."
     }
   },
   {
@@ -6958,7 +6958,7 @@
     },
     "Texts": {
       "Eng": "Hylotl's strive for peace, right? Same as humans. No wonder you're a Protector.",
-      "Rus": "Хилотлы стремятся к миру, так ведь? Также как и люди. Не удивительно, что ты Протектор."
+      "Rus": "Хилотлы стремятся к миру, так ведь? Также как и люди. Неудивительно, что ты Протектор."
     }
   },
   {
@@ -7018,7 +7018,7 @@
     },
     "Texts": {
       "Eng": "I am incredibly hungry.",
-      "Rus": "Я невероятно голоден."
+      "Rus": "Я невероятно голод<self.pronoun.verb2Ending>."
     }
   },
   {
@@ -7030,7 +7030,7 @@
     },
     "Texts": {
       "Eng": "I am most loyal to the great Big Ape.",
-      "Rus": "Я самый верный сторонник Большого Эйпа."
+      "Rus": "Я храню верность великому Большому Эйпу."
     }
   },
   {
@@ -7042,7 +7042,7 @@
     },
     "Texts": {
       "Eng": "I am sorry. I drifted off for a moment, imagining your fur blowing softly in the breeze.",
-      "Rus": "Прости. Я задремал на мгновение представляя как твой мех легко раздувается ветром."
+      "Rus": "Прости. Я задремал<self.pronoun.verbEnding> на мгновение, представляя как твой мех легко раздувается ветром."
     }
   },
   {
@@ -7054,7 +7054,7 @@
     },
     "Texts": {
       "Eng": "I am thinking of converting to Kluex Worship. Is this feasible for an Apex?",
-      "Rus": "Я подумываю об обращении в почитателя Клюэкса. Это возможно для Апекса?"
+      "Rus": "Я подумываю об обращении в почитателя Клюэкса. Это возможно для апекса?"
     }
   },
   {
@@ -7078,7 +7078,7 @@
     },
     "Texts": {
       "Eng": "I apologise if Glitch furnishings are not to your taste.",
-      "Rus": "Прошу прощения, если обстановка Гличей не в твоём вкусе."
+      "Rus": "Прошу прощения, если обстановка глитчей не в твоём вкусе."
     }
   },
   {
@@ -7090,7 +7090,7 @@
     },
     "Texts": {
       "Eng": "I ate some delicious bread the other day. Thinking about it makes me so hungry.",
-      "Rus": "Однажды, я съел немного вкусного хлеба. Вспоминая об этом я становлюсь таким голодным!"
+      "Rus": "Однажды, я съел<player.pronoun.verbEnding> немного вкусного хлеба. Вспоминая об этом, мне ужасно хочется есть!"
     }
   },
   {
@@ -7102,7 +7102,7 @@
     },
     "Texts": {
       "Eng": "I ate too many berries and now my stomach hurts.",
-      "Rus": "Я объелся ягодами и теперь у меня болит живот."
+      "Rus": "Я объел<self.pronoun.verb3Ending> ягодами и теперь у меня болит живот."
     }
   },
   {
@@ -7114,7 +7114,7 @@
     },
     "Texts": {
       "Eng": "I believe it is possible to find profound fulfilment in the act of crafting.",
-      "Rus": "Я уверен, можно найти глубокое удовлетворение в акте созидания."
+      "Rus": "Я уверен<self.pronoun.verbEnding>, можно найти глубокое удовлетворение в акте созидания."
     }
   },
   {
@@ -7126,7 +7126,7 @@
     },
     "Texts": {
       "Eng": "I believe we Apex had municipal libraries many generations ago, but they are all gone now.",
-      "Rus": "Я уверен, у нас, Апексов, были муниципальные библиотеки много поколений назад, теперь они все исчезли."
+      "Rus": "Я уверен<self.pronoun.verbEnding>, у нас, апексов, были муниципальные библиотеки много поколений назад, теперь они все исчезли."
     }
   },
   {
@@ -7138,7 +7138,7 @@
     },
     "Texts": {
       "Eng": "I bet a Glitch could survive the Ascension.",
-      "Rus": "Готов поклясться, Глич смог бы пережить Вознесение."
+      "Rus": "Готов<self.pronoun.verbEnding> поклясться, глитч смог бы пережить Вознесение."
     }
   },
   {
@@ -7162,7 +7162,7 @@
     },
     "Texts": {
       "Eng": "I bet you're popular at parties!",
-      "Rus": "Готов поклясться, ты популярен на вечеринках!"
+      "Rus": "Готов<self.pronoun.verbEnding> поклясться, ты популяр<player.pronoun.verb2Ending> на вечеринках!"
     }
   },
   {
@@ -7186,7 +7186,7 @@
     },
     "Texts": {
       "Eng": "I bet you've killed more monsters than I've had hot dinners.",
-      "Rus": "Готов поспорить, ты убил больше монстров, чем я съел горячих обедов."
+      "Rus": "Могу поспорить, ты убил<player.pronoun.verbEnding> больше монстров, чем я съел<self.pronoun.verbEnding> горячих обедов."
     }
   },
   {
@@ -7198,7 +7198,7 @@
     },
     "Texts": {
       "Eng": "I borrowed 17 books form the library and got engrossed; I read for 9 straight days.",
-      "Rus": "Я взял в библиотеке 17 книг и был настолько ими поглощён, что читал 9 дней без перерыва."
+      "Rus": "Я взял<self.pronoun.verbEnding> в библиотеке 17 книг и был<self.pronoun.verbEnding> настолько ими поглощён, что читал<self.pronoun.verbEnding> 9 дней без перерыва."
     }
   },
   {
@@ -7210,7 +7210,7 @@
     },
     "Texts": {
       "Eng": "I can not lie - I am fascinated by your kind.",
-      "Rus": "Не могу солгать, я очарован вашим видом."
+      "Rus": "Не могу солгать, я очарован<self.pronoun.verbEnding> вашим народом."
     }
   },
   {
@@ -7222,7 +7222,7 @@
     },
     "Texts": {
       "Eng": "I can only dream of the things you have seen.",
-      "Rus": "Я могу лишь мечтать о том, что ты видел."
+      "Rus": "Я могу лишь мечтать о том, что ты повидал<player.pronoun.verbEnding>."
     }
   },
   {
@@ -7330,7 +7330,7 @@
     },
     "Texts": {
       "Eng": "I caught eight bugs today!",
-      "Rus": "Я поймал восемь жуков сегодня!"
+      "Rus": "Я поймал<self.pronoun.verbEnding> восемь жуков сегодня!"
     }
   },
   {
@@ -7342,7 +7342,7 @@
     },
     "Texts": {
       "Eng": "I collect books, but I don't have any written by the Apex.",
-      "Rus": "Я собираю книги, но у меня нет ни одной написанной Апексами."
+      "Rus": "Я собираю книги, но у меня нет ни одной написанной апексами."
     }
   },
   {
@@ -7354,7 +7354,7 @@
     },
     "Texts": {
       "Eng": "I could go for some ice-cream right now.",
-      "Rus": "Я мог бы пойти взять немного мороженного прямо сейчас."
+      "Rus": "Я мог<self.pronoun.verb4Ending> бы прямо сейчас пойти и взять немного мороженного."
     }
   },
   {
@@ -7366,7 +7366,7 @@
     },
     "Texts": {
       "Eng": "I could pass for human if I had a good hair day.",
-      "Rus": "Я мог бы сойти за человека, если бы хорошенько занялся своими волосами."
+      "Rus": "Я мог<self.pronoun.verb4Ending> бы сойти за человека, если бы хорошенько занял<self.pronoun.verb3Ending> своими волосами."
     }
   },
   {
@@ -7378,7 +7378,7 @@
     },
     "Texts": {
       "Eng": "I could totally go for a roast dinner right now.",
-      "Rus": "Я бы не отказался от жаренного ужина прямо сейчас."
+      "Rus": "Я бы не отказал<self.pronoun.verb3Ending> сейчас от жаренного ужина."
     }
   },
   {
@@ -7390,7 +7390,7 @@
     },
     "Texts": {
       "Eng": "I could use your expertise with my pot-plants, they are not growing so well.",
-      "Rus": "Я мог бы использовать твой опыт для моих комнатных растений, они не особо хорошо растут."
+      "Rus": "Я мог<self.pronoun.verb4Ending> бы использовать твой опыт для моих комнатных растений, они не особо хорошо растут."
     }
   },
   {
@@ -7402,7 +7402,7 @@
     },
     "Texts": {
       "Eng": "I deeply wish us Apex were as smooth as you Hylotl, you cannot understand what it is to be so furry.",
-      "Rus": "Я глубоко желаю, чтобы мы, Апексы, были столь же гладкими, как вы, Хилотлы. Вам не понять, что значит быть таким пушистым."
+      "Rus": "Я глубоко желаю, чтобы мы, апексы, были столь же гладкими, как вы, хилотлы. Вам не понять, что значит быть таким пушистым."
     }
   },
   {
@@ -7414,7 +7414,7 @@
     },
     "Texts": {
       "Eng": "I didn't know organic matter could be so strong!",
-      "Rus": "Я не знал, что органическая ткань может быть настолько прочной!"
+      "Rus": "Я не знал<self.pronoun.verbEnding>, что органическая ткань может быть настолько прочной!"
     }
   },
   {
@@ -7486,7 +7486,7 @@
     },
     "Texts": {
       "Eng": "I do wish I could fly, but I don't believe in Kluex.",
-      "Rus": "Я очень хотел бы уметь летать, но я не верю в Клюэкса."
+      "Rus": "Я мечтаю о том, чтобы уметь летать, но я не верю в Клюэкса."
     }
   },
   {
@@ -7510,7 +7510,7 @@
     },
     "Texts": {
       "Eng": "I don't know anything about Avians.",
-      "Rus": "Я ничего не знаю об Авианах."
+      "Rus": "Я ничего не знаю об авианах."
     }
   },
   {
