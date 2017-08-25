@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<questGiver> attempts a bribe"
+      "Eng": "<questGiver> attempts a bribe",
+      "Rus": "<questGiver> пробует подкуп"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<questGiver>'s Agenda"
+      "Eng": "<questGiver>'s Agenda",
+      "Rus": "Повестка дня <questGiver>"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<target> took the <gift>? That's perfect! If I ever need a favour I know I have someone indebted to me now. I can't believe you thought this was some sort of bribe!"
+      "Eng": "<target> took the <gift>? That's perfect! If I ever need a favour I know I have someone indebted to me now. I can't believe you thought this was some sort of bribe!",
+      "Rus": "<target> взял<target.pronoun.verbEnding> <gift>? Превосходно! Если мне что-нибудь понадобится, теперь я знаю, что у меня есть должник. Не могу поверить, что ты подумал<player.pronoun.verbEnding>, что это какая-то взятка!"
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<target> took the bribe? Great! This will be useful for my plans."
+      "Eng": "<target> took the bribe? Great! This will be useful for my plans.",
+      "Rus": "<target> принял<target.pronoun.verbEnding> подарок? Прекрасно! Это будет полезно для моих планов."
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "All that is left to do is to ^green;bribe ^orange;<target>^green; with that ^orange;<gift>^white; that I know <target.pronoun.subject> wants. It is completely ethical - Honest!"
+      "Eng": "All that is left to do is to ^green;bribe ^orange;<target>^green; with that ^orange;<gift>^white; that I know <target.pronoun.subject> wants. It is completely ethical - Honest!",
+      "Rus": "Всё что осталось сделать, это ^green;подкупить ^orange;<target>^green; этим ^orange;<gift>^white;, ведь это то, что <target.pronoun.object> хочет. Это абсолютно нормально, не переживай."
     }
   },
   {
@@ -63,7 +68,7 @@
     },
     "Texts": {
       "Eng": "Bribe <target>",
-      "Rus": "Подкупить <target>"
+      "Rus": "Подкупите <target>"
     }
   },
   {
@@ -74,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Finally, my plan comes together! ^green;Take that ^orange;<gift>^green; and generously give it to ^orange;<target>^green; on my behalf^white;. <target.pronoun.capitalSubject> will be indebted to me for my kind act of bribery!"
+      "Eng": "Finally, my plan comes together! ^green;Take that ^orange;<gift>^green; and generously give it to ^orange;<target>^green; on my behalf^white;. <target.pronoun.capitalSubject> will be indebted to me for my kind act of bribery!",
+      "Rus": "Наконец-то! Время осуществится моему плану. ^green;Возьми ^orange;<gift>^green; и великодушно передай ^orange;<target>^green; от моего имени^white;. <target.pronoun.capitalSubject> будет обязан<target.pronoun.verbEnding> мне, за тот душевный подарок!"
     }
   },
   {
@@ -85,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran hass done research and found out that ^orange;<target>^white; needs one <gift> for <target.pronoun.possessiveDet> persssonal use. Floran thinks that if we ^green;give <target.pronoun.object> our ^orange;<gift>^white;, <target.pronoun.subject>'ll help uss in return."
+      "Eng": "Floran hass done research and found out that ^orange;<target>^white; needs one <gift> for <target.pronoun.possessiveDet> persssonal use. Floran thinks that if we ^green;give <target.pronoun.object> our ^orange;<gift>^white;, <target.pronoun.subject>'ll help uss in return.",
+      "Rus": ""
     }
   },
   {
@@ -96,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran heard from a friend of a friend that ^orange;<target>'s^white; biggessst wish is to have a nice <gift>. Let's use this to our advantage. ^green;Give them our preciousss ^orange;<gift>^white; and <target.pronoun.subject> will surely feel indebted to usss."
+      "Eng": "Floran heard from a friend of a friend that ^orange;<target>'s^white; biggessst wish is to have a nice <gift>. Let's use this to our advantage. ^green;Give them our preciousss ^orange;<gift>^white; and <target.pronoun.subject> will surely feel indebted to usss.",
+      "Rus": ""
     }
   },
   {
@@ -107,7 +115,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran heard that ^orange;<target>^white; hasss been looking for a nice <gift> for a long time now. Lucky for <target.pronoun.object> we have one! If we give <target.pronoun.object> this precious ^orange;<gift>^white; Floran is sssure <target.pronoun.subject> will feel inclined to help us."
+      "Eng": "Floran heard that ^orange;<target>^white; hasss been looking for a nice <gift> for a long time now. Lucky for <target.pronoun.object> we have one! If we give <target.pronoun.object> this precious ^orange;<gift>^white; Floran is sssure <target.pronoun.subject> will feel inclined to help us.",
+      "Rus": ""
     }
   },
   {
@@ -118,7 +127,8 @@
       ]
     },
     "Texts": {
-      "Eng": "How do you feel about bribery? I figure that if you were to ^green;gift that ^orange;<gift>^green; to ^orange;<target>^white; on my behalf, <target.pronoun.subject> would owe me a favour! Can you go and ^green;give it to <target.pronoun.object> for me?"
+      "Eng": "How do you feel about bribery? I figure that if you were to ^green;gift that ^orange;<gift>^green; to ^orange;<target>^white; on my behalf, <target.pronoun.subject> would owe me a favour! Can you go and ^green;give it to <target.pronoun.object> for me?",
+      "Rus": ""
     }
   },
   {
@@ -129,7 +139,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I failed to deliver the bribe to <target>. Maybe <questGiver> should deal with <questGiver.pronoun.possessiveDet> dirty business <questGiver.pronoun.reflexive> anyway?"
+      "Eng": "I failed to deliver the bribe to <target>. Maybe <questGiver> should deal with <questGiver.pronoun.possessiveDet> dirty business <questGiver.pronoun.reflexive> anyway?",
+      "Rus": ""
     }
   },
   {
@@ -140,7 +151,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I'd like to make clear that this is very much not a bribe of any sort. I don't even know the meaning of the word. All I need you to do is ^green;give ^orange;<target> ^green;the ^orange;<gift> ^white;to persuade <target.pronoun.object> to act in my favour..."
+      "Eng": "I'd like to make clear that this is very much not a bribe of any sort. I don't even know the meaning of the word. All I need you to do is ^green;give ^orange;<target> ^green;the ^orange;<gift> ^white;to persuade <target.pronoun.object> to act in my favour...",
+      "Rus": ""
     }
   },
   {
@@ -151,7 +163,8 @@
       ]
     },
     "Texts": {
-      "Eng": "It all comes down to this. ^green;Present ^orange;<target> ^green;with the ^orange;<gift>. ^white;In case <target.pronoun.subject> asks, it's definitely not a bribe..."
+      "Eng": "It all comes down to this. ^green;Present ^orange;<target> ^green;with the ^orange;<gift>. ^white;In case <target.pronoun.subject> asks, it's definitely not a bribe...",
+      "Rus": "Всё идёт к этому... ^green;Передай ^orange;<target> ^green;этот ^orange;<gift>. ^white;Если <target.pronoun.subject> спросит, то это определённо не подкуп..."
     }
   },
   {
@@ -162,7 +175,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Mr Corrupt Person"
+      "Eng": "Mr Corrupt Person",
+      "Rus": ""
     }
   },
   {
@@ -173,7 +187,8 @@
       ]
     },
     "Texts": {
-      "Eng": "My plan worked! Bribery sure is easy. Now I can call upon <target> to help me whenever I need <target.pronoun.object>. Thanks for your help!"
+      "Eng": "My plan worked! Bribery sure is easy. Now I can call upon <target> to help me whenever I need <target.pronoun.object>. Thanks for your help!",
+      "Rus": "Мой план сработал! Давать взятки определённо просто. Теперь я могу воззвать к <target> за помощью в любое время, когда <target.pronoun.subject> мне понадобится. Спасибо за помощь!"
     }
   },
   {
@@ -184,7 +199,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Next I need the favour of ^orange;<target>^green; - Could you try bribing <target.pronoun.object> with the ^orange;<gift>^white;? That should hopefully work..."
+      "Eng": "Next I need the favour of ^orange;<target>^green; - Could you try bribing <target.pronoun.object> with the ^orange;<gift>^white;? That should hopefully work...",
+      "Rus": ""
     }
   },
   {
@@ -195,7 +211,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Next ^green;I need to win over ^orange;<target>^white;, and it just so happens that ^green;<target.pronoun.subject> would love your ^orange;<gift>^white;! Is that bribery? Sure, but I don't think <target.pronoun.subject>'ll mind..."
+      "Eng": "Next ^green;I need to win over ^orange;<target>^white;, and it just so happens that ^green;<target.pronoun.subject> would love your ^orange;<gift>^white;! Is that bribery? Sure, but I don't think <target.pronoun.subject>'ll mind...",
+      "Rus": ""
     }
   },
   {
@@ -206,7 +223,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Now <target> owes me a favour! That was easier than I thought. Thank you for helping me with my genius plan!"
+      "Eng": "Now <target> owes me a favour! That was easier than I thought. Thank you for helping me with my genius plan!",
+      "Rus": ""
     }
   },
   {
@@ -229,7 +247,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Oh no! I failed to deliver the bribe to <target>. Maybe I'm not cut out for shady business."
+      "Eng": "Oh no! I failed to deliver the bribe to <target>. Maybe I'm not cut out for shady business.",
+      "Rus": "О нет! Мне не удалось доставить подкуп <target>. Может эти тёмные дела не для меня?"
     }
   },
   {
@@ -240,7 +259,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Perfect! Now <target> will feel indebted to uss. And rightfully so! Floran is pleassed with the outcome."
+      "Eng": "Perfect! Now <target> will feel indebted to uss. And rightfully so! Floran is pleassed with the outcome.",
+      "Rus": "Превосссходно! Теперь <target> будет нам обязан<target.pronoun.verbEnding>. Как и должно быть! Флоран доволен..."
     }
   },
   {
@@ -263,7 +283,8 @@
       ]
     },
     "Texts": {
-      "Eng": "So <target.pronoun.subject> just took the <gift>? No questions asked? Here I was thinking it'd be hard to get <target> on my side."
+      "Eng": "So <target.pronoun.subject> just took the <gift>? No questions asked? Here I was thinking it'd be hard to get <target> on my side.",
+      "Rus": "Так <target> просто взял<target.pronoun.verbEnding> <gift>?  Без вопросов? И вот я думал<questGiver.pronoun.verbEnding>, что это будет довольно трудно..."
     }
   },
   {
@@ -275,7 +296,7 @@
     },
     "Texts": {
       "Eng": "So <target> accepted the <gift>? This plan is working out better than I anticipated. ",
-      "Rus": "Так <target> принял <gift>? Этот план работает даже лучше, чем я ожидал."
+      "Rus": "Так <target> принял<target.pronoun.verbEnding> <gift>? Этот план работает даже лучше, чем я ожидал."
     }
   },
   {
