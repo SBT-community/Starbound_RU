@@ -290,7 +290,7 @@
     },
     "Texts": {
       "Eng": "You got it! this <item> will do nicely. It was nice of <target> to let us borrow it. Try and remember to return it when we're finished.",
-      "Rus": "Ты добыл то, что нужно! <item> как раз подойдёт. <target> великодушно поступил<target.pronoun.verbEnding>, одолжив нам эту штуку. Не забудь напомнить мне вернуть её когда мы закончим."
+      "Rus": "Ты добыл<player.pronoun.verbEnding> то, что нужно! <item> как раз подойдёт. <target> великодушно поступил<target.pronoun.verbEnding>, одолжив нам эту штуку. Не забудь напомнить мне вернуть её когда мы закончим."
     }
   },
   {
@@ -302,7 +302,7 @@
     },
     "Texts": {
       "Eng": "You got the <item>! It's nice that <target> trustsss us with it. I can't promisse that we'll give it back though.",
-      "Rus": "Ты досстал <item.reflexive>! Хорошо, что <target> верит нам. Я не могу обещщщать, что мы вернем одолженное."
+      "Rus": "Ты досстал<player.pronoun.verbEnding> <item.reflexive>! Хорошо, что <target> верит нам. Я не могу обещщщать, что мы вернем одолженное."
     }
   }
 ]
