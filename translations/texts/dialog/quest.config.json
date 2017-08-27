@@ -921,7 +921,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ни ты, ни <questGiver> не пугают флорана!",
+      "Ты не страшшшн<player.pronoun.adj2Ending> для флорана! И <questGiver> тоже не страшшн<questGiver.pronoun.adj2Ending>."
+    ],
     "Files": {
       "dialog/quest.config": [
         "/intimidate/notIntimidated/floran/default/1"
@@ -929,7 +932,7 @@
     },
     "Texts": {
       "Eng": "Floran not sscared of you, or <questGiver>!",
-      "Rus": ""
+      "Rus": "<questGiver> не напугает флорана! И ты тоже не напугаешшшь!"
     }
   },
   {
@@ -941,7 +944,7 @@
     },
     "Texts": {
       "Eng": "Floran sssomehow got lost... Please take Floran back to <questGiver>?",
-      "Rus": ""
+      "Rus": "Флоран не понимает, как потерялссся... <questGiver> будет ждать. Пожалуйсста, отведи флорана обратно."
     }
   },
   {
@@ -953,7 +956,7 @@
     },
     "Texts": {
       "Eng": "Floran sssurrenders! Put weapon away!",
-      "Rus": ""
+      "Rus": "Флоран сдаётссся! Убери оружие!"
     }
   },
   {
@@ -965,7 +968,7 @@
     },
     "Texts": {
       "Eng": "Floran tricked you!",
-      "Rus": ""
+      "Rus": "Флоран тебя обманул!"
     }
   },
   {
@@ -977,7 +980,7 @@
     },
     "Texts": {
       "Eng": "Floran wonders what <questGiver> wantsss...",
-      "Rus": ""
+      "Rus": "Флорану интересссно, чего хочет <questGiver>..."
     }
   },
   {
@@ -990,11 +993,13 @@
     },
     "Texts": {
       "Eng": "Gift is perfect for Floran! Can you put it in Floran's home?",
-      "Rus": ""
+      "Rus": "Это лучшший подарок для флорана! Можешь поссставить его у флорана дома?"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Подарки - сильный способ убеждения! <questGiver> понимает это. Передай <questGiver.pronoun.object> мою благодарность. "
+    ],
     "Files": {
       "dialog/quest.config": [
         "/bribe/giftAccepted/hylotl/default/1"
@@ -1002,7 +1007,7 @@
     },
     "Texts": {
       "Eng": "Gifts are a potent form of persuasion! Give my thanks to <questGiver>.",
-      "Rus": ""
+      "Rus": "Подарки - сильный способ убеждения! Пусть <questGiver> примет мою благодарность. "
     }
   },
   {
@@ -1014,7 +1019,7 @@
     },
     "Texts": {
       "Eng": "Greetings. <questGiver> contracted me to assist you against the <enemy>.",
-      "Rus": ""
+      "Rus": "Приветствую. <enemy> окажет сопротивление. <questGiver> нанял<questGiver.pronoun.verbEnding> меня помочь тебе в схватке."
     }
   },
   {
