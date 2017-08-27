@@ -631,11 +631,13 @@
     },
     "Texts": {
       "Eng": "Fine, <questGiver> can borrow my <item>.",
-      "Rus": ""
+      "Rus": "Ладно, <questGiver> может одолжить у меня <item.reflexive>."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Хорошо, <questGiver> может одолжить у меня <item.reflexive>. Не забудь принести обратно!"
+    ],
     "Files": {
       "dialog/quest.config": [
         "/borrow/giftProvided/human/default/0"
@@ -643,7 +645,7 @@
     },
     "Texts": {
       "Eng": "Fine, <questGiver> can borrow my <item>. Will you bring it back eventually?",
-      "Rus": ""
+      "Rus": "Ладно, если <questGiver> обещает вернуть. Вот <item>. Только не забудь принести обратно!"
     }
   },
   {
@@ -668,7 +670,7 @@
     },
     "Texts": {
       "Eng": "Fine, fine, I'll pay the fine. Don't judge me!",
-      "Rus": ""
+      "Rus": "Ладно! Ладно! Я заплачу штраф. Не суди меня."
     }
   },
   {
@@ -680,7 +682,7 @@
     },
     "Texts": {
       "Eng": "Fine, take back the <item> - Just don't get me into trouble!",
-      "Rus": "Хорошо, забирай <item>. Только не создавай мне проблем!"
+      "Rus": "Хорошо, забирай <item.reflexive>. Только не создавай мне проблем!"
     }
   },
   {
@@ -745,7 +747,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      ""
+    ],
     "Files": {
       "dialog/quest.config": [
         "/bribe/giftAccepted/floran/default/0"
@@ -753,7 +757,7 @@
     },
     "Texts": {
       "Eng": "Floran doesn't mind bribes. Say thanksss to <questGiver>!",
-      "Rus": ""
+      "Rus": "Флоран не против подкупа. <questGiver> заслуживает балогадрноссти. Передай ссспасибо от флорана."
     }
   },
   {
@@ -841,7 +845,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флорану нравятсся взятки! <questGiver> долж<questGiver.pronoun.verb2Ending> получить сспасибо от флорана.",
+      "Флорану нравятсся взятки! <questGiver> всё сделал<questGiver.pronoun.verbEnding> правильно. Передай ссспасибо от флорана!"
+    ],
     "Files": {
       "dialog/quest.config": [
         "/bribe/giftAccepted/floran/default/1"
@@ -849,7 +856,7 @@
     },
     "Texts": {
       "Eng": "Floran likes bribes! Say thanksss to <questGiver>.",
-      "Rus": ""
+      "Rus": "Флорану нравятсся взятки! Передай, что флоран сказал \"ссспасибо, questGiver!\""
     }
   },
   {
@@ -886,7 +893,7 @@
     },
     "Texts": {
       "Eng": "Floran likesss gift! Tell <questGiver> for Floran!",
-      "Rus": ""
+      "Rus": "Флорану нравится подарок! <questGiver> долж<questGiver.pronoun.verb2Ending> знать! Передай!"
     }
   },
   {
@@ -921,7 +928,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran not sscared of you, or <questGiver>!"
+      "Eng": "Floran not sscared of you, or <questGiver>!",
+      "Rus": ""
     }
   },
   {
@@ -932,7 +940,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran sssomehow got lost... Please take Floran back to <questGiver>?"
+      "Eng": "Floran sssomehow got lost... Please take Floran back to <questGiver>?",
+      "Rus": ""
     }
   },
   {
@@ -943,7 +952,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran sssurrenders! Put weapon away!"
+      "Eng": "Floran sssurrenders! Put weapon away!",
+      "Rus": ""
     }
   },
   {
@@ -954,7 +964,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran tricked you!"
+      "Eng": "Floran tricked you!",
+      "Rus": ""
     }
   },
   {
@@ -965,7 +976,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran wonders what <questGiver> wantsss..."
+      "Eng": "Floran wonders what <questGiver> wantsss...",
+      "Rus": ""
     }
   },
   {
@@ -977,7 +989,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Gift is perfect for Floran! Can you put it in Floran's home?"
+      "Eng": "Gift is perfect for Floran! Can you put it in Floran's home?",
+      "Rus": ""
     }
   },
   {
@@ -988,7 +1001,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Gifts are a potent form of persuasion! Give my thanks to <questGiver>."
+      "Eng": "Gifts are a potent form of persuasion! Give my thanks to <questGiver>.",
+      "Rus": ""
     }
   },
   {
@@ -999,7 +1013,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Greetings. <questGiver> contracted me to assist you against the <enemy>."
+      "Eng": "Greetings. <questGiver> contracted me to assist you against the <enemy>.",
+      "Rus": ""
     }
   },
   {
@@ -1010,7 +1025,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Greetings. <questGiver> contracted me to help you fight the <enemy>."
+      "Eng": "Greetings. <questGiver> contracted me to help you fight the <enemy>.",
+      "Rus": ""
     }
   },
   {
@@ -1021,7 +1037,8 @@
       ]
     },
     "Texts": {
-      "Eng": "H-here, take my <item>. Just d-don't hurt me!"
+      "Eng": "H-here, take my <item>. Just d-don't hurt me!",
+      "Rus": ""
     }
   },
   {
@@ -1032,7 +1049,8 @@
       ]
     },
     "Texts": {
-      "Eng": "H-here, take my <item>. Just don't h-hurt me!"
+      "Eng": "H-here, take my <item>. Just don't h-hurt me!",
+      "Rus": ""
     }
   },
   {
@@ -1043,7 +1061,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Haha, I tricked you!"
+      "Eng": "Haha, I tricked you!",
+      "Rus": ""
     }
   },
   {
@@ -1054,7 +1073,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Haha, you've been tricked!"
+      "Eng": "Haha, you've been tricked!",
+      "Rus": ""
     }
   },
   {
@@ -1066,7 +1086,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Has <questGiver> sent you to intimidate me?"
+      "Eng": "Has <questGiver> sent you to intimidate me?",
+      "Rus": ""
     }
   },
   {
@@ -1077,7 +1098,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hello there - we are to battle side-by-side, as <questGiver> requested I help you on your quest."
+      "Eng": "Hello there - we are to battle side-by-side, as <questGiver> requested I help you on your quest.",
+      "Rus": ""
     }
   },
   {
@@ -1088,7 +1110,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hello! <questGiver> contracted me to help you fight the <enemy>."
+      "Eng": "Hello! <questGiver> contracted me to help you fight the <enemy>.",
+      "Rus": ""
     }
   },
   {
@@ -1099,7 +1122,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hello. <questGiver> contracted me to help you fight the <enemy>."
+      "Eng": "Hello. <questGiver> contracted me to help you fight the <enemy>.",
+      "Rus": ""
     }
   },
   {
@@ -1110,7 +1134,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Here are your goods! Enjoy!"
+      "Eng": "Here are your goods! Enjoy!",
+      "Rus": ""
     }
   },
   {
@@ -1121,7 +1146,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Here are your goods, for you to enjoy."
+      "Eng": "Here are your goods, for you to enjoy.",
+      "Rus": ""
     }
   },
   {
@@ -1132,7 +1158,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Here are your goods, partner."
+      "Eng": "Here are your goods, partner.",
+      "Rus": ""
     }
   },
   {
@@ -1143,7 +1170,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Here is my <item> - Just tell <questGiver> to give it back soon."
+      "Eng": "Here is my <item> - Just tell <questGiver> to give it back soon.",
+      "Rus": ""
     }
   },
   {
@@ -1154,7 +1182,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Here is the <item> - I hope it brings <questGiver> happiness."
+      "Eng": "Here is the <item> - I hope it brings <questGiver> happiness.",
+      "Rus": ""
     }
   },
   {
@@ -1165,7 +1194,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Here is the <item> <questGiver> wants to borrow. I suspect I won't be getting it back."
+      "Eng": "Here is the <item> <questGiver> wants to borrow. I suspect I won't be getting it back.",
+      "Rus": ""
     }
   },
   {
@@ -1176,7 +1206,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Here is the <item> that <questGiver> needs."
+      "Eng": "Here is the <item> that <questGiver> needs.",
+      "Rus": ""
     }
   },
   {
@@ -1187,7 +1218,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Here is the <item> you need. I hope it is what's needed."
+      "Eng": "Here is the <item> you need. I hope it is what's needed.",
+      "Rus": ""
     }
   },
   {
