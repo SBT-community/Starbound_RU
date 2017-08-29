@@ -362,7 +362,7 @@
       "mutantminer.config.json": 10,
       "oremerchant.config.json": 119,
       "outpost.config.json": 42,
-      "quest.config.json": 127,
+      "quest.config.json": 141,
       "rebel.config.json": 3,
       "scientist.config.json": 12,
       "shared_.config.json": 101,
@@ -1054,7 +1054,7 @@
                 "deathbomb.weaponability.json": 0
               },
               "erchiusbeam": {
-                "erchiusbeam.weaponability.json": 0
+                "erchiusbeam.weaponability.json": 1
               },
               "erchiuslauncher": {
                 "erchiuslauncher.weaponability.json": 0
@@ -1063,7 +1063,7 @@
                 "explosiveburst.weaponability.json": 0
               },
               "explosiveshot": {
-                "explosiveshot.weaponability.json": 0
+                "explosiveshot.weaponability.json": 1
               },
               "fuelairtrail": {
                 "fuelairtrail.weaponability.json": 0
@@ -1079,10 +1079,10 @@
                 "lance.weaponability.json": 1
               },
               "markedshot": {
-                "markedshot.weaponability.json": 0
+                "markedshot.weaponability.json": 1
               },
               "piercingshot": {
-                "piercingshot.weaponability.json": 0
+                "piercingshot.weaponability.json": 1
               },
               "rocketburst": {
                 "rocketburst.weaponability.json": 0
@@ -4567,7 +4567,7 @@
       }
     },
     "names": {
-      "ancientgreek.namesource.json": 581,
+      "ancientgreek.namesource.json": 609,
       "aztec.namesource.json": 138,
       "russianfemale.namesource.json": 81,
       "russianmale.namesource.json": 73,
