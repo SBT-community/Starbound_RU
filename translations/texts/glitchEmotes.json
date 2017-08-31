@@ -4212,7 +4212,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Брюзгливо.",
+      "Грубо."
+    ],
     "Files": {
       "npcs/blacksmith.npctype": [
         "/scriptConfig/dialog/attack/glitch/default/0/glitchEmote"
@@ -4220,7 +4223,7 @@
     },
     "Texts": {
       "Eng": "Curmudgeonly.",
-      "Rus": "Грубо."
+      "Rus": "Ворчливо."
     }
   },
   {
@@ -7201,7 +7204,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ликующе."
+    ],
     "Files": {
       "objects/farmables/flowerspring/flowerspring.object": [
         "/glitchDescription/glitchEmote"
@@ -7209,7 +7214,7 @@
     },
     "Texts": {
       "Eng": "Gleeful.",
-      "Rus": "Ликующе."
+      "Rus": "Жизнерадостно."
     }
   },
   {
@@ -7842,7 +7847,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Компетентно."
+    ],
     "Files": {
       "items/materials/slush.matitem": [
         "/glitchdescription/glitchEmote"
@@ -8456,7 +8463,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Влюблен."
+    ],
     "Files": {
       "objects/crafting/3dprinter/3dprinter.object": [
         "/glitchDescription/glitchEmote"
@@ -8464,7 +8473,7 @@
     },
     "Texts": {
       "Eng": "In love.",
-      "Rus": "Влюблен."
+      "Rus": "Влюблённо."
     }
   },
   {
@@ -8599,7 +8608,8 @@
   },
   {
     "DeniedAlternatives": [
-      "Уведомительно."
+      "Уведомительно.",
+      "Информативно."
     ],
     "Files": {
       "objects/generic/rusticoven/rusticoven.object": [
@@ -8616,7 +8626,8 @@
       "Гордо.",
       "Информирован.",
       "Осведомлёно.",
-      "Сообщение."
+      "Сообщение.",
+      "Осведомлённо."
     ],
     "Files": {
       "items/materials/apexshipplatform.matitem": [
@@ -8742,7 +8753,7 @@
     },
     "Texts": {
       "Eng": "Informed.",
-      "Rus": "Осведомлённо."
+      "Rus": "Компетентно."
     }
   },
   {
@@ -9566,7 +9577,7 @@
     },
     "Texts": {
       "Eng": "Irked.",
-      "Rus": ""
+      "Rus": "Раздражённо."
     }
   },
   {
@@ -9707,7 +9718,7 @@
     },
     "Texts": {
       "Eng": "Jolly.",
-      "Rus": ""
+      "Rus": "Оживлённо."
     }
   },
   {
@@ -9776,7 +9787,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Торжествующе."
+    ],
     "Files": {
       "quests/generated/templates/gift.questtemplate": [
         "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmote"
@@ -9787,7 +9800,7 @@
     },
     "Texts": {
       "Eng": "Jubilant.",
-      "Rus": ""
+      "Rus": "Ликующе."
     }
   },
   {
@@ -9799,7 +9812,7 @@
     },
     "Texts": {
       "Eng": "Judgemental.",
-      "Rus": ""
+      "Rus": "Осуждающе."
     }
   },
   {
@@ -9811,11 +9824,13 @@
     },
     "Texts": {
       "Eng": "Judicious.",
-      "Rus": ""
+      "Rus": "Рассудительно."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Добродушно."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/glitch/floran/25/glitchEmote"
@@ -9823,7 +9838,7 @@
     },
     "Texts": {
       "Eng": "Kind.",
-      "Rus": ""
+      "Rus": "Доброжелательно."
     }
   },
   {
@@ -9867,7 +9882,7 @@
     },
     "Texts": {
       "Eng": "Lackadaisical.",
-      "Rus": ""
+      "Rus": "Апатично."
     }
   },
   {
