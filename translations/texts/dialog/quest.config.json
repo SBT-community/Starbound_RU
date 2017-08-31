@@ -1019,7 +1019,7 @@
     },
     "Texts": {
       "Eng": "Greetings. <questGiver> contracted me to assist you against the <enemy>.",
-      "Rus": "Приветствую. <enemy> окажет сопротивление. <questGiver> нанял<questGiver.pronoun.verbEnding> меня помочь тебе в схватке."
+      "Rus": "Приветствую. <enemy> - опасный противник. <questGiver> нанял<questGiver.pronoun.verbEnding> меня помочь тебе в схватке."
     }
   },
   {
@@ -1031,7 +1031,7 @@
     },
     "Texts": {
       "Eng": "Greetings. <questGiver> contracted me to help you fight the <enemy>.",
-      "Rus": ""
+      "Rus": "Приветствую. <enemy> окажет сопротивление. <questGiver> нанял<questGiver.pronoun.verbEnding> меня помочь тебе.\n"
     }
   },
   {
@@ -1043,7 +1043,7 @@
     },
     "Texts": {
       "Eng": "H-here, take my <item>. Just d-don't hurt me!",
-      "Rus": ""
+      "Rus": "В-вот <item>, возьми! Т-только не трогай меня!"
     }
   },
   {
@@ -1055,7 +1055,7 @@
     },
     "Texts": {
       "Eng": "H-here, take my <item>. Just don't h-hurt me!",
-      "Rus": ""
+      "Rus": "В-вот <item>, забирай! Т-только не трогай меня!"
     }
   },
   {
@@ -1067,7 +1067,7 @@
     },
     "Texts": {
       "Eng": "Haha, I tricked you!",
-      "Rus": ""
+      "Rus": "Хаха, я тебя обманул<self.pronoun.verbEnding>!"
     }
   },
   {
@@ -1079,7 +1079,7 @@
     },
     "Texts": {
       "Eng": "Haha, you've been tricked!",
-      "Rus": ""
+      "Rus": "Хаха! Это была уловка!"
     }
   },
   {
@@ -1092,7 +1092,7 @@
     },
     "Texts": {
       "Eng": "Has <questGiver> sent you to intimidate me?",
-      "Rus": ""
+      "Rus": "Это <questGiver> отправил<questGiver.pronoun.verbEnding> тебя запугать меня?"
     }
   },
   {
@@ -1104,7 +1104,7 @@
     },
     "Texts": {
       "Eng": "Hello there - we are to battle side-by-side, as <questGiver> requested I help you on your quest.",
-      "Rus": ""
+      "Rus": "Здравствуй. Нам предстоит сражаться бок о бок, поскольку <questGiver> поручил<questGiver.pronoun.verbEnding> мне помочь тебе в твоей миссии."
     }
   },
   {
@@ -1188,7 +1188,7 @@
     },
     "Texts": {
       "Eng": "Here is the <item> - I hope it brings <questGiver> happiness.",
-      "Rus": ""
+      "Rus": "Вот <item>. Надеюсь, <questGiver> порадуется."
     }
   },
   {
