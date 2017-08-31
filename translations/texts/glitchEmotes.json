@@ -1648,7 +1648,7 @@
     },
     "Texts": {
       "Eng": "Bad-tempered.",
-      "Rus": ""
+      "Rus": "Вспыльчиво."
     }
   },
   {
@@ -6688,7 +6688,7 @@
     },
     "Texts": {
       "Eng": "Fanciful.",
-      "Rus": ""
+      "Rus": "Мечтательно."
     }
   },
   {
@@ -6897,7 +6897,7 @@
     },
     "Texts": {
       "Eng": "Fervent.",
-      "Rus": ""
+      "Rus": "Рьяно."
     }
   },
   {
@@ -6918,11 +6918,13 @@
     },
     "Texts": {
       "Eng": "Festive.",
-      "Rus": ""
+      "Rus": "Празднично."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Кокетливо."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/glitch/glitch/0/glitchEmote"
@@ -6930,7 +6932,7 @@
     },
     "Texts": {
       "Eng": "Flirtatious.",
-      "Rus": ""
+      "Rus": "Игриво."
     }
   },
   {
@@ -6945,7 +6947,7 @@
     },
     "Texts": {
       "Eng": "Flustered.",
-      "Rus": ""
+      "Rus": "Взволнованно."
     }
   },
   {
@@ -7207,7 +7209,7 @@
     },
     "Texts": {
       "Eng": "Gleeful.",
-      "Rus": ""
+      "Rus": "Ликующе."
     }
   },
   {
@@ -7219,7 +7221,7 @@
     },
     "Texts": {
       "Eng": "Goading.",
-      "Rus": ""
+      "Rus": "Побудительно."
     }
   },
   {
@@ -7331,7 +7333,7 @@
     },
     "Texts": {
       "Eng": "Groovy.",
-      "Rus": ""
+      "Rus": "Зажигательно."
     }
   },
   {
@@ -7526,7 +7528,7 @@
     },
     "Texts": {
       "Eng": "Hesitant.",
-      "Rus": ""
+      "Rus": "Нерешительно."
     }
   },
   {
@@ -7665,7 +7667,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Гостеприимно."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/glitch/apex/9/glitchEmote",
@@ -7676,7 +7680,7 @@
     },
     "Texts": {
       "Eng": "Hospitable.",
-      "Rus": ""
+      "Rus": "Радушно."
     }
   },
   {
@@ -7704,7 +7708,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Скромно"
+    ],
     "Files": {
       "objects/apex/classicapestatue/classicapestatue.object": [
         "/glitchDescription/glitchEmote"
@@ -7721,7 +7727,7 @@
     },
     "Texts": {
       "Eng": "Humbled.",
-      "Rus": ""
+      "Rus": "Пристыжённо."
     }
   },
   {
@@ -7817,7 +7823,7 @@
     },
     "Texts": {
       "Eng": "Hysterical.",
-      "Rus": ""
+      "Rus": "Истерично. "
     }
   },
   {
@@ -7851,7 +7857,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Горячно."
+    ],
     "Files": {
       "dialog/combat.config": [
         "/reattack/glitch/default/4/glitchEmote"
@@ -7859,7 +7867,7 @@
     },
     "Texts": {
       "Eng": "Impassioned.",
-      "Rus": ""
+      "Rus": "Пламенно."
     }
   },
   {
@@ -7874,7 +7882,7 @@
     },
     "Texts": {
       "Eng": "Impassive.",
-      "Rus": ""
+      "Rus": "Безразлично."
     }
   },
   {
@@ -8460,7 +8468,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Невнимательно."
+    ],
     "Files": {
       "quests/generated/templates/collect_fine.questtemplate": [
         "/scriptConfig/generatedText/text/next/glitch/0/glitchEmote"
@@ -8468,7 +8478,7 @@
     },
     "Texts": {
       "Eng": "Inattentive.",
-      "Rus": ""
+      "Rus": "Небрежно."
     }
   },
   {
@@ -8588,7 +8598,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Уведомительно."
+    ],
     "Files": {
       "objects/generic/rusticoven/rusticoven.object": [
         "/glitchDescription/glitchEmote"
@@ -8596,7 +8608,7 @@
     },
     "Texts": {
       "Eng": "Informative.",
-      "Rus": ""
+      "Rus": "Информативно."
     }
   },
   {
@@ -8742,7 +8754,7 @@
     },
     "Texts": {
       "Eng": "Ingratiating.",
-      "Rus": ""
+      "Rus": "Заискивающе. "
     }
   },
   {
@@ -8788,7 +8800,7 @@
     },
     "Texts": {
       "Eng": "Insecure.",
-      "Rus": ""
+      "Rus": "Неуверенно."
     }
   },
   {
@@ -8817,7 +8829,7 @@
     },
     "Texts": {
       "Eng": "Insistent.",
-      "Rus": ""
+      "Rus": "Настойчиво."
     }
   },
   {
@@ -8829,7 +8841,7 @@
     },
     "Texts": {
       "Eng": "Inspecting.",
-      "Rus": ""
+      "Rus": "Изучающе."
     }
   },
   {
@@ -8942,7 +8954,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Чутко.",
+      "Наблюдательно."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/glitch/glitch/6/glitchEmote"
@@ -8950,7 +8965,7 @@
     },
     "Texts": {
       "Eng": "Intent.",
-      "Rus": ""
+      "Rus": "Внимательно."
     }
   },
   {
