@@ -386,7 +386,7 @@
     "generic": {
       "shared_lightbulb.json": 1
     },
-    "glitchEmotes.json": 414,
+    "glitchEmotes.json": 434,
     "help.config.json": 62,
     "hunger.config.json": 14,
     "interface": {
@@ -5796,27 +5796,27 @@
           "avianstoragelocker.object.json": 1
         },
         "avianswitchhidden": {
-          "avianswitchhidden1.object.json": 0,
+          "avianswitchhidden1.object.json": 1,
           "avianswitchhidden2.object.json": 0
         },
         "avianwaterlight": {
           "avianwaterlight.object.json": 0
         },
         "bardoor2": {
-          "bardoor2.object.json": 2,
-          "bardoor2sideways.object.json": 0
+          "bardoor2.object.json": 6,
+          "bardoor2sideways.object.json": 8
         },
         "bardoor3": {
           "bardoor3.object.json": 0
         },
         "bigjar1": {
-          "bigjar1.object.json": 0
+          "bigjar1.object.json": 8
         },
         "birdaltar2": {
           "birdaltar2.object.json": 9
         },
         "birdbed": {
-          "birdbed.object.json": 0
+          "birdbed.object.json": 8
         },
         "birddoor": {
           "birddoor.object.json": 3
@@ -11547,7 +11547,7 @@
       "shared_liquidsensor": {
         "shared_liquidsensor.object.json": 2
       },
-      "shared_ove.json": 0,
+      "shared_ove.json": 1,
       "shared_piano": {
         "shared_piano.object.json": 1
       },
