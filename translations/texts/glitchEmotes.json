@@ -166,7 +166,11 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Раздражённо.",
+      "Рассерженно.",
+      "Возмущённо."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/glitch/generic/35/glitchEmote"
@@ -177,7 +181,7 @@
     },
     "Texts": {
       "Eng": "Aggravated.",
-      "Rus": "Раздражённо."
+      "Rus": "Негодующе."
     }
   },
   {
@@ -1131,7 +1135,7 @@
     },
     "Texts": {
       "Eng": "Apologetic.",
-      "Rus": "Извиняющийся."
+      "Rus": "Извинительно."
     }
   },
   {
@@ -1167,7 +1171,7 @@
     },
     "Texts": {
       "Eng": "Appraising.",
-      "Rus": "Оценивая."
+      "Rus": "Оценивающе."
     }
   },
   {
@@ -1334,7 +1338,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Тревожно."
+    ],
     "Files": {
       "objects/outpost/outpostservicepanel/outpostservicepanel.object": [
         "/glitchDescription/glitchEmote"
@@ -1348,7 +1354,7 @@
     },
     "Texts": {
       "Eng": "Apprehensive.",
-      "Rus": "Тревожно."
+      "Rus": "Опасливо."
     }
   },
   {
@@ -7218,7 +7224,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Призывно."
+    ],
     "Files": {
       "dialog/combat.config": [
         "/cheerOn/glitch/default/3/glitchEmote"
@@ -7226,7 +7234,7 @@
     },
     "Texts": {
       "Eng": "Goading.",
-      "Rus": "Побудительно."
+      "Rus": "Побудительно. "
     }
   },
   {
@@ -9783,7 +9791,7 @@
     },
     "Texts": {
       "Eng": "Joyous.",
-      "Rus": ""
+      "Rus": "Жизнерадостно."
     }
   },
   {
@@ -9968,7 +9976,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Созерцательно."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/glitch/glitch/13/glitchEmote"
@@ -9976,7 +9986,7 @@
     },
     "Texts": {
       "Eng": "Meditative.",
-      "Rus": ""
+      "Rus": "Вдумчиво."
     }
   },
   {
@@ -10047,7 +10057,7 @@
     },
     "Texts": {
       "Eng": "Merry.",
-      "Rus": ""
+      "Rus": "Благодушно."
     }
   },
   {
@@ -10071,11 +10081,14 @@
     },
     "Texts": {
       "Eng": "Mirthful.",
-      "Rus": ""
+      "Rus": "Удовлетворённо."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Озорно.",
+      "Шаловливо."
+    ],
     "Files": {
       "dialog/quest.config": [
         "/kill_npc/betray/glitch/default/0/glitchEmote"
@@ -10083,7 +10096,7 @@
     },
     "Texts": {
       "Eng": "Mischevious.",
-      "Rus": ""
+      "Rus": "Проказливо."
     }
   },
   {
@@ -10153,11 +10166,13 @@
     },
     "Texts": {
       "Eng": "Morbid.",
-      "Rus": ""
+      "Rus": "Жутко."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Уныло."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/glitch/generic/3/glitchEmote"
@@ -10168,7 +10183,7 @@
     },
     "Texts": {
       "Eng": "Morose.",
-      "Rus": ""
+      "Rus": "Понуро."
     }
   },
   {
@@ -10192,7 +10207,7 @@
     },
     "Texts": {
       "Eng": "Mournful.",
-      "Rus": ""
+      "Rus": "Скорбно."
     }
   },
   {
@@ -10216,11 +10231,13 @@
     },
     "Texts": {
       "Eng": "Mystified.",
-      "Rus": ""
+      "Rus": "Озадаченно."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      ""
+    ],
     "Files": {
       "objects/novakid/saloonspittoon/saloonspittoon.object": [
         "/glitchDescription/glitchEmote"
@@ -10228,7 +10245,7 @@
     },
     "Texts": {
       "Eng": "Nauseous.",
-      "Rus": ""
+      "Rus": "Брезгливо."
     }
   },
   {
@@ -10805,7 +10822,7 @@
     },
     "Texts": {
       "Eng": "Non-committal.",
-      "Rus": ""
+      "Rus": "Уклончиво."
     }
   },
   {
@@ -10817,11 +10834,13 @@
     },
     "Texts": {
       "Eng": "Nonchalant.",
-      "Rus": ""
+      "Rus": "Бесстрастно."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Оторопело."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/glitch/generic/38/glitchEmote"
@@ -10829,7 +10848,7 @@
     },
     "Texts": {
       "Eng": "Nonplussed.",
-      "Rus": ""
+      "Rus": "Растерянно. "
     }
   },
   {
@@ -10874,7 +10893,7 @@
     },
     "Texts": {
       "Eng": "Nosy.",
-      "Rus": ""
+      "Rus": "Любопытно."
     }
   },
   {
@@ -11683,7 +11702,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Приметливо. "
+    ],
     "Files": {
       "objects/generic/shiplight/shiplight.object": [
         "/glitchDescription/glitchEmote"
@@ -11691,7 +11712,7 @@
     },
     "Texts": {
       "Eng": "Observative.",
-      "Rus": ""
+      "Rus": "Внимательно."
     }
   },
   {
@@ -11706,7 +11727,7 @@
     },
     "Texts": {
       "Eng": "Observe.",
-      "Rus": "Наблюдая"
+      "Rus": "Проницательно."
     }
   },
   {
@@ -11722,7 +11743,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Безапелляционно."
+    ],
     "Files": {
       "objects/novakid/saloonseat/saloonseat.object": [
         "/glitchDescription/glitchEmote"
@@ -11730,11 +11753,14 @@
     },
     "Texts": {
       "Eng": "Opinionated.",
-      "Rus": ""
+      "Rus": "Категорично."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Меркантильно.",
+      "Корыстно."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/glitch/floran/18/glitchEmote"
@@ -11742,7 +11768,7 @@
     },
     "Texts": {
       "Eng": "Opportunistic.",
-      "Rus": ""
+      "Rus": "Предприимчиво."
     }
   },
   {
@@ -11796,7 +11822,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Счастливо."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/glitch/apex/3/glitchEmote"
@@ -11835,7 +11863,7 @@
     },
     "Texts": {
       "Eng": "Overjoyed.",
-      "Rus": "Радостно."
+      "Rus": "Восторженно."
     }
   },
   {
@@ -12067,7 +12095,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      ""
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/glitch/glitch/4/glitchEmote",
@@ -12079,7 +12109,7 @@
     },
     "Texts": {
       "Eng": "Perturbed.",
-      "Rus": ""
+      "Rus": "Встревоженно."
     }
   },
   {
@@ -12150,7 +12180,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Тоскливо.",
+      "Печально."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/glitch/human/2/glitchEmote"
@@ -12158,7 +12191,7 @@
     },
     "Texts": {
       "Eng": "Plaintive.",
-      "Rus": ""
+      "Rus": "Горько."
     }
   },
   {
@@ -12185,7 +12218,7 @@
     },
     "Texts": {
       "Eng": "Pleading.",
-      "Rus": ""
+      "Rus": "Умоляюще."
     }
   },
   {
