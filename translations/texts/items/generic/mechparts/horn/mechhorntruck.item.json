@@ -7,18 +7,22 @@
       ]
     },
     "Texts": {
-      "Eng": "For beeping angrily when someone won't move out of the way."
+      "Eng": "For beeping angrily when someone won't move out of the way.",
+      "Rus": "Чтобы грозно гудеть, когда вам не уступают дорогу."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Гудок меха-грузовика"
+    ],
     "Files": {
       "items/generic/mechparts/horn/mechhorntruck.item": [
         "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Truck Mech Horn"
+      "Eng": "Truck Mech Horn",
+      "Rus": "Гудок грузового меха"
     }
   }
 ]
