@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Астральная слеза"
+    ],
     "Files": {
       "items/active/weapons/melee/abilities/broadsword/astraltear/astraltear.weaponability": [
         "/ability/name"
@@ -8,7 +10,7 @@
     },
     "Texts": {
       "Eng": "Astral Tear",
-      "Rus": "Астральная слеза"
+      "Rus": "Астроразрыв"
     }
   }
 ]

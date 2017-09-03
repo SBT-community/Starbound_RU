@@ -786,10 +786,10 @@
                   "bladecharge.weaponability.json": 1
                 },
                 "downstab": {
-                  "downstab.weaponability.json": 0
+                  "downstab.weaponability.json": 1
                 },
                 "flipslash": {
-                  "flipslash.weaponability.json": 0
+                  "flipslash.weaponability.json": 1
                 },
                 "giantsword": {
                   "giantsword.weaponability.json": 1
@@ -807,14 +807,14 @@
                   "risingslash.weaponability.json": 0
                 },
                 "spinslash": {
-                  "spinslash.weaponability.json": 0,
-                  "superspinslash.weaponability.json": 0
+                  "spinslash.weaponability.json": 1,
+                  "superspinslash.weaponability.json": 1
                 },
                 "traildash": {
-                  "traildash.weaponability.json": 0
+                  "traildash.weaponability.json": 1
                 },
                 "travelingslash": {
-                  "travelingslash.weaponability.json": 0
+                  "travelingslash.weaponability.json": 1
                 }
               },
               "generic": {
@@ -1051,7 +1051,7 @@
                 "chargefire.weaponability.json": 0
               },
               "deathbomb": {
-                "deathbomb.weaponability.json": 0
+                "deathbomb.weaponability.json": 1
               },
               "erchiusbeam": {
                 "erchiusbeam.weaponability.json": 1
@@ -1066,7 +1066,7 @@
                 "explosiveshot.weaponability.json": 1
               },
               "fuelairtrail": {
-                "fuelairtrail.weaponability.json": 0
+                "fuelairtrail.weaponability.json": 1
               },
               "guidedrocket": {
                 "exmachinarocket.weaponability.json": 1,
@@ -1097,7 +1097,7 @@
                 "spray.weaponability.json": 0
               },
               "stickyshot": {
-                "stickyshot.weaponability.json": 0
+                "stickyshot.weaponability.json": 1
               }
             },
             "assaultrifle": {
