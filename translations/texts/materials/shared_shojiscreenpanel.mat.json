@@ -10,11 +10,14 @@
       ]
     },
     "Texts": {
-      "Eng": "A fancy lookin' screen panel."
+      "Eng": "A fancy lookin' screen panel.",
+      "Rus": "Затейливо сработанная перегородка."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Перегородка сёдзи. Представляет собой бумагу, крепящуюся к деревянной раме. "
+    ],
     "Files": {
       "items/materials/shojiscreenpanel.matitem": [
         "/description"
@@ -25,7 +28,7 @@
     },
     "Texts": {
       "Eng": "A traditional screen panel.",
-      "Rus": "Панель Сёдзи. Представляет собой бумагу, крепящуюся к деревянной раме."
+      "Rus": "Традиционная перегородка из бумаги, закреплённой на деревянной раме."
     }
   },
   {
@@ -40,7 +43,7 @@
     },
     "Texts": {
       "Eng": "Shoji Screen Panel",
-      "Rus": "Блочная панель Сёдзи"
+      "Rus": "Панель сёдзи"
     }
   },
   {
@@ -54,7 +57,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Sstrange screen panelss."
+      "Eng": "Sstrange screen panelss.",
+      "Rus": "Ссстранные перегородки."
     }
   },
   {
@@ -68,7 +72,8 @@
       ]
     },
     "Texts": {
-      "Eng": "These panels are simple and traditional."
+      "Eng": "These panels are simple and traditional.",
+      "Rus": "Эти простые панели выполнены в традиционном стиле."
     }
   }
 ]
