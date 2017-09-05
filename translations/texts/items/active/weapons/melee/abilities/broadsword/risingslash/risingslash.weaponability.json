@@ -1,13 +1,16 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Подбрасывание"
+    ],
     "Files": {
       "items/active/weapons/melee/abilities/broadsword/risingslash/risingslash.weaponability": [
         "/ability/name"
       ]
     },
     "Texts": {
-      "Eng": "Rising Slash"
+      "Eng": "Rising Slash",
+      "Rus": "Восходящий удар"
     }
   }
 ]
