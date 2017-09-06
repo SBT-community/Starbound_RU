@@ -23,7 +23,7 @@
     },
     "Texts": {
       "Eng": " I assume that she misunderstood the implication of my remark, but I cannot help stare a little too long into her triumvirate of ruby red eyes.",
-      "Rus": ""
+      "Rus": " Я предположил, что она неправильно поняла суть моего замечания, но не мог отвести взгляд от триумвирата её рубиново-красных глаз."
     }
   },
   {
@@ -254,7 +254,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "\"Это удовольствие - встретить Вас, Святой Вон Лавкастл!\" - сказала она с приятной улыбкой. \"Почему, из всех мест, вы заинтересованы именно этой ещё неоткрытой библиотекой?\""
+    ],
     "Files": {
       "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
         "/scenes/question_beauty5b/text"
@@ -262,7 +264,7 @@
     },
     "Texts": {
       "Eng": "\"It's a pleasure to meet you, Vaughn St. Lovecastle!\" she says with a pleasant smile. \"Why are you interested in this unopened library, of all places?\"",
-      "Rus": "\"Это удовольствие - встретить Вас, Святой Вон Лавкастл!\" - сказала она с приятной улыбкой. \"Почему, из всех мест, вы заинтересованы именно этой ещё неоткрытой библиотекой?\""
+      "Rus": "\"Рада знакомству с вами, Вон Сент-Лавкасл!\" - говорит она, мило улыбаясь. \"Эта библиотека ещё даже не открылась. Почему, из всех мест, вы заинтересовались именно ею?\""
     }
   },
   {
@@ -361,7 +363,7 @@
     },
     "Texts": {
       "Eng": "\"Sad old bear, destined to roam, after the banks, repossessed his home.\"",
-      "Rus": "\"Старый грустный медведь, предопределённый скитать, после того, как банки решили за неуплату дом его изъять. \""
+      "Rus": ""
     }
   },
   {
@@ -373,7 +375,7 @@
     },
     "Texts": {
       "Eng": "\"Sad old bear, it's all gone wrong, since you realised, you're just a song.\"",
-      "Rus": ""
+      "Rus": "\"После осознания обмана своей жизни, старый медведь одиноко загрустил, ведь оказался он всего-лишь грустной песней, и горькую слезу по ветру пустил.\""
     }
   },
   {
@@ -555,7 +557,7 @@
     },
     "Texts": {
       "Eng": "\"Well of course it isn't - I was interrupted by you flailing about and screaming for help.\"",
-      "Rus": "\"Ну, конечно же это не так, меня прервали твои размахивания руками и крики о помощи.\""
+      "Rus": "\"Ну, конечно же это не так, - меня прервали твои размахивания руками и крики о помощи.\""
     }
   },
   {

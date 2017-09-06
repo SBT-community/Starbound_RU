@@ -1,24 +1,30 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Фанфара, обычно звучащая перед спортивным состязанием или жестокой битвой."
+    ],
     "Files": {
       "items/generic/mechparts/horn/mechhorncharge.item": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "A musical fanfare, typically a prelude to a sporting event or gruesome battle."
+      "Eng": "A musical fanfare, typically a prelude to a sporting event or gruesome battle.",
+      "Rus": "Звук фанфары, обычно предваряющий спортивное состязание или жестокую битву."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Боевой горн меха"
+    ],
     "Files": {
       "items/generic/mechparts/horn/mechhorncharge.item": [
         "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Charge Mech Horn"
+      "Eng": "Charge Mech Horn",
+      "Rus": "Гудок \"Вперёд!\" для меха"
     }
   }
 ]

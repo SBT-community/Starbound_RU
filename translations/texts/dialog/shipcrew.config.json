@@ -373,7 +373,7 @@
     },
     "Texts": {
       "Eng": "I can't chat for too long - this bird's gotta grease some axels to keep us all afloat!",
-      "Rus": ""
+      "Rus": "Не могу долго болтать - эта птичка должна идти смазывать оси, чтобы удержать нас всех на плаву!"
     }
   },
   {
@@ -390,7 +390,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я знаю ребят, которые не откажутся поработать наёмниками. Раздобудь себе дублонов!"
+    ],
     "Files": {
       "dialog/shipcrew.config": [
         "/converse/penguin/default/8"
@@ -398,7 +400,7 @@
     },
     "Texts": {
       "Eng": "I got some pals lookin' for mercenary work. You should get yourself some dubloons!",
-      "Rus": ""
+      "Rus": "Я знаю ребят, которые ищут работу наёмников. Тебе стоит разжиться дублонами!"
     }
   },
   {
@@ -499,7 +501,7 @@
     },
     "Texts": {
       "Eng": "Maintaining a spaceship is mind-numbing work - I want to play a game of chess!",
-      "Rus": ""
+      "Rus": "Обслуживание космического корабля - ужасно скучная работа. Так хочется сыграть в шахматы!"
     }
   },
   {
@@ -511,7 +513,7 @@
     },
     "Texts": {
       "Eng": "Maintaining a spaceship is mind-numbing work - I want to play a game of clunkey jacks!",
-      "Rus": ""
+      "Rus": "Обслуживать космический корабль ужасно скучно. Как же хочется сыграть в гремящие гайки!"
     }
   },
   {
@@ -524,7 +526,7 @@
     },
     "Texts": {
       "Eng": "Maintaining the integrity of the hull is an important priority aboard this ship.",
-      "Rus": ""
+      "Rus": "Поддержание целостности корпуса - одна из важнейших задач на этом корабле."
     }
   },
   {
@@ -537,7 +539,7 @@
     },
     "Texts": {
       "Eng": "My name is <selfname>. Are you visiting us for long?",
-      "Rus": ""
+      "Rus": "Меня зовут <selfname>. Ты к нам надолго?"
     }
   },
   {
@@ -550,7 +552,7 @@
     },
     "Texts": {
       "Eng": "Sailing through the stars makes me feel like a fish swimming through a vast, endless ocean.",
-      "Rus": ""
+      "Rus": "Путешествуя среди звёзд, я чувствую себя рыбкой, плывущей по необъятному, бескрайнему океану."
     }
   },
   {
@@ -563,7 +565,7 @@
     },
     "Texts": {
       "Eng": "The low-moisture atmosphere on board this ship is good for preventing rust.",
-      "Rus": ""
+      "Rus": "Низкая влажность воздуха на борту этого корабля помогает предотвратить коррозию."
     }
   },
   {
@@ -575,7 +577,7 @@
     },
     "Texts": {
       "Eng": "They call me <selfname>. The name runs in the family.",
-      "Rus": ""
+      "Rus": "Меня зовут <selfname>. У нас в семье это распространенное имя."
     }
   },
   {
@@ -587,11 +589,13 @@
     },
     "Texts": {
       "Eng": "This sure is the gig of a lifetime. A ship full of fine feathered folks like myself, and all the loot to boot!",
-      "Rus": ""
+      "Rus": "Это же просто работа мечты! Корабль, полный таких же славных пернатых ребят, как я, да ещё трофеи в придачу!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Мы здесь нечасто встречаем гостей, а собратьев глитчей - и того реже!"
+    ],
     "Files": {
       "dialog/shipcrew.config": [
         "/converse/glitch/glitch/1/glitchEmotedText"
@@ -599,7 +603,7 @@
     },
     "Texts": {
       "Eng": "Visitors here are rare, and fellow Glitch visitors are even rarer!",
-      "Rus": ""
+      "Rus": "У нас здесь редко бывают посетители, а собратья глитчи заходят и того реже!"
     }
   },
   {
@@ -612,7 +616,7 @@
     },
     "Texts": {
       "Eng": "We don't get visitors often! Are you staying for long?",
-      "Rus": ""
+      "Rus": "У нас нечасто бывают гости! Ты надолго?"
     }
   },
   {
@@ -625,7 +629,7 @@
     },
     "Texts": {
       "Eng": "Welcome to our humble spacefaring vessel!",
-      "Rus": ""
+      "Rus": "Приветствую вас на борту нашего скромного космического судна!"
     }
   },
   {
@@ -638,7 +642,7 @@
     },
     "Texts": {
       "Eng": "Welcome to our ol' rust bucket of a ship!",
-      "Rus": ""
+      "Rus": "Добро пожаловать на борт нашей ржавой посудины!"
     }
   },
   {
@@ -651,7 +655,7 @@
     },
     "Texts": {
       "Eng": "Welcome, stranger! How kind of you to visit.",
-      "Rus": ""
+      "Rus": "Добро пожаловать! Как любезно с твоей стороны посетить нас."
     }
   },
   {
@@ -663,7 +667,7 @@
     },
     "Texts": {
       "Eng": "Well it's a lucky thing here that you fit on our ship, huh?",
-      "Rus": ""
+      "Rus": "Какая удача, что тебе нашлось место на нашем корабле."
     }
   },
   {
@@ -688,7 +692,7 @@
     },
     "Texts": {
       "Eng": "What's with all those angry asteroid lookin' things flyin' around? Things sure ain't how they used to be.",
-      "Rus": ""
+      "Rus": "Что это за злобные, похожие на астероиды штуковины там летают? Всё теперь совсем не так, как раньше."
     }
   },
   {
@@ -701,7 +705,7 @@
     },
     "Texts": {
       "Eng": "When you fly your ship out into the great unknown... There is no feeling like it, is there?",
-      "Rus": ""
+      "Rus": "Вести свой корабль навстречу неизведанному... С этим чувством ничто не сравнится, правда?"
     }
   },
   {
@@ -775,7 +779,7 @@
     },
     "Texts": {
       "Eng": "You ever get the feelin' you were meant for somethin' bigger?",
-      "Rus": ""
+      "Rus": "У тебя бывает чувство, будто ты здесь для чего-то поболе этого?"
     }
   },
   {
@@ -787,11 +791,13 @@
     },
     "Texts": {
       "Eng": "You got that look in your eye like you're about to loot all our crates. Don't worry pal, I won't snitch.",
-      "Rus": ""
+      "Rus": "У тебя такой взгляд, будто тебе не терпится обшарить все наши сундуки. Не волнуйся, дружище, я никому не скажу."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ты к нам поторговать пожаловал<player.pronoun.verbEnding>, али так, на огонёк заглянул<player.pronoun.verbEnding>?"
+    ],
     "Files": {
       "dialog/shipcrew.config": [
         "/converse/novakid/default/2",
@@ -800,7 +806,7 @@
     },
     "Texts": {
       "Eng": "You here for a bit o' tradin', or just comin' to see what all the fuss is about?",
-      "Rus": ""
+      "Rus": "Ты к нам поторговать пожаловал<player.pronoun.verbEnding>, али так, поглядеть, с чего весь переполох? "
     }
   },
   {
@@ -812,7 +818,7 @@
     },
     "Texts": {
       "Eng": "You lookin' for friends? Nah, the glint in your eye says you're just here for some loot.",
-      "Rus": ""
+      "Rus": "Ты ищешь друзей? Нее, жадный блеск в твоих глазах выдаёт, что ты здесь за чужим добром."
     }
   },
   {
@@ -825,7 +831,7 @@
     },
     "Texts": {
       "Eng": "You're welcome to stick around for a while, but don't make a mess - I just finished tidying.",
-      "Rus": ""
+      "Rus": "Не стесняйся задержаться у нас подольше. Только бардак не разводи, я здесь только что убрал<self.pronoun.verb3Ending>."
     }
   }
 ]

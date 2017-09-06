@@ -1,13 +1,16 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Пого-меч"
+    ],
     "Files": {
       "items/active/weapons/melee/abilities/broadsword/downstab/downstab.weaponability": [
         "/ability/name"
       ]
     },
     "Texts": {
-      "Eng": "Pogo Sword"
+      "Eng": "Pogo Sword",
+      "Rus": "Удар сверху"
     }
   }
 ]

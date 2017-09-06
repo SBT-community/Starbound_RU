@@ -7,18 +7,22 @@
       ]
     },
     "Texts": {
-      "Eng": "Assert yourself with a gentle ring."
+      "Eng": "Assert yourself with a gentle ring.",
+      "Rus": "Заявите о себе негромким звонком."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Велосипедный звонок меха"
+    ],
     "Files": {
       "items/generic/mechparts/horn/mechhornbikebell.item": [
         "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Bike Bell Mech Horn"
+      "Eng": "Bike Bell Mech Horn",
+      "Rus": "Гудок меха - велозвонок"
     }
   }
 ]

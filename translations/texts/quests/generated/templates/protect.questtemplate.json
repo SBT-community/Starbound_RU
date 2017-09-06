@@ -8,7 +8,7 @@
     },
     "Texts": {
       "Eng": "<target> is in danger! It seems there's a gang of ^orange;<threat>^white; on their way from the ^orange;<spawnPoint>^white;<spawnPoint.direction> with hostile intentions. ^green;Make sure they don't harm ^orange;<target>^white;. Do whatever it takes!",
-      "Rus": "^orange;<target>^white; в опасности! За <target.pronoun.copulativePast> явились ^orange;<threat>^white; - в данный момент они засели у ^orange;<spawnPoint>^white; <spawnPoint.direction>. Нельзя допустить, чтобы <target> попал<target.pronoun.verbEnding> к ним в руки!1"
+      "Rus": "^orange;<target>^white; в опасности! За <target.pronoun.copulativePast> явились ^orange;<threat>^white; - в данный момент они засели у ^orange;<spawnPoint>^white;<spawnPoint.direction>. Нельзя допустить, чтобы <target> попал<target.pronoun.verbEnding> к ним в руки!1"
     }
   },
   {
@@ -44,7 +44,7 @@
     },
     "Texts": {
       "Eng": "Firstly, we need to deal with the ^orange;<threat>^white; that are on their way here from the ^orange;<spawnPoint>^white;<spawnPoint.direction>. I hear they're after ^orange;<target>! ^green;Do whatever you can to fend them off.^white; <target.pronoun.capitalSubject> needs our protection!",
-      "Rus": "^orange;<target>^white; ^green;нуждается в твоей защите^white; - <target.pronoun.reflexive> ищут ^orange;<threat>^white;. Их стоянка находится у ^orange;<spawnPoint>^white; <spawnPoint.direction>. Не медли!"
+      "Rus": "^orange;<target>^white; ^green;нуждается в твоей защите^white; - <target.pronoun.reflexive> ищут ^orange;<threat>^white;. Их стоянка находится у ^orange;<spawnPoint>^white;<spawnPoint.direction>. Не медли!"
     }
   },
   {
@@ -56,7 +56,7 @@
     },
     "Texts": {
       "Eng": "Floran heard that ^orange;<target> ^green;upssset <threat>, and they're coming here from the ^orange;<spawnPoint>^white;<spawnPoint.direction>! ^white;Floran wantss you to ^green;protect <target.pronoun.object>.",
-      "Rus": "Флоран сслышал, что недалеко от ^orange;<spawnPoint>^white; <spawnPoint.direction> рыщут ^orange;<threat>^white;. Их цель - ^orange;<target>^white;! Нельзя допустить, чтобы <target.pronoun.object> причинили вред - ^green;защити <target.pronoun.reflexive>^white;."
+      "Rus": "Флоран сслышал, что недалеко от ^orange;<spawnPoint>^white;<spawnPoint.direction> рыщут ^orange;<threat>^white;. Их цель - ^orange;<target>^white;! Нельзя допустить, чтобы <target.pronoun.object> причинили вред - ^green;защити <target.pronoun.reflexive>^white;."
     }
   },
   {
@@ -92,7 +92,7 @@
     },
     "Texts": {
       "Eng": "Floran knows ^orange;<target>^white; got on the wrong ssside of ^orange;<threat>^white;, and they'll be here from the ^orange;<spawnPoint>^white;<spawnPoint.direction> any time now! But if Floran helpss <target> then <target.pronoun.subject>'ll owe Floran a favour, so ^green;please protect <target.pronoun.object> from his enemies.",
-      "Rus": "Флоран знает, что ^orange;<threat>^white; у ^orange;<spawnPoint>^white; <spawnPoint.direction> объявили охоту, и что жертва - ^orange;<target>^white;. Мы не можем допусстить, чтобы они загнали дичь! <target> ^green;нуждается в нашей защите^white;."
+      "Rus": "Флоран знает, что ^orange;<threat>^white; у ^orange;<spawnPoint>^white;<spawnPoint.direction> объявили охоту, и что жертва - ^orange;<target>^white;. Мы не можем допусстить, чтобы они загнали дичь! <target> ^green;нуждается в нашей защите^white;."
     }
   },
   {
@@ -104,7 +104,7 @@
     },
     "Texts": {
       "Eng": "Floran knowss that ^orange;<threat>^green; near the ^orange;<spawnPoint>^white;<spawnPoint.direction> are looking for ^orange;<target>. ^white;Floran needs <target.pronoun.object> alive for plan to work, so make sssure you ^green;protect <target.pronoun.object>.",
-      "Rus": "Флоран видел, что у ^orange;<spawnPoint>^white; <spawnPoint.direction> засели ^orange;<threat>^white; - они ищут где ^orange;<target>^white;. Флорану нужно, чтобы <target> выжил<target.pronoun.verbEnding> - ^green;защити <target.pronoun.reflexive>^white;."
+      "Rus": "Флоран видел, что у ^orange;<spawnPoint>^white;<spawnPoint.direction> засели ^orange;<threat>^white; - они ищут где ^orange;<target>^white;. Флорану нужно, чтобы <target> выжил<target.pronoun.verbEnding> - ^green;защити <target.pronoun.reflexive>^white;."
     }
   },
   {
@@ -116,7 +116,7 @@
     },
     "Texts": {
       "Eng": "Floran might have told ^orange;<threat>^white; that <target> wass hiding here. Floran knows they've been looking for <target.pronoun.object> for a while, around the ^orange;<spawnPoint>^white;<spawnPoint.direction>. For the plan to work you have to ^green;keep ^orange;<target> ^green;safe^white;. Do that, and everyone winsss.",
-      "Rus": "Когда Флоран ходил близ ^orange;<spawnPoint>^white; <spawnPoint.direction> его поймали ^orange;<threat>^white; и сспросили, не видел ли он где ^orange;<target>^white;. Флоран думает, что <target> может быть в опасности - ты должен ^green;защитить <target.pronoun.reflexive>^white;."
+      "Rus": "Когда Флоран ходил близ ^orange;<spawnPoint>^white;<spawnPoint.direction> его поймали ^orange;<threat>^white; и сспросили, не видел ли он где ^orange;<target>^white;. Флоран думает, что <target> может быть в опасности - ты должен ^green;защитить <target.pronoun.reflexive>^white;."
     }
   },
   {
@@ -188,7 +188,7 @@
     },
     "Texts": {
       "Eng": "I have reason to believe ^orange;<threat>^white; at the ^orange;<spawnPoint>^white;<spawnPoint.direction> are coming for ^orange;<target>. ^green;You must help protect <target.pronoun.object>!",
-      "Rus": "Есть основания предполагать, что недавно появившиеся ^orange;<threat>^white; ищут, где прячется ^orange;<target>^white;. Нужно действовать превентивно - и ^green;напасть на их лагерь у ^orange;<spawnPoint>^white; <spawnPoint.direction>!"
+      "Rus": "Есть основания предполагать, что недавно появившиеся ^orange;<threat>^white; ищут, где прячется ^orange;<target>^white;. Нужно действовать превентивно - и ^green;напасть на их лагерь у ^orange;<spawnPoint>^white;<spawnPoint.direction>!"
     }
   },
   {
@@ -200,7 +200,7 @@
     },
     "Texts": {
       "Eng": "I have recieved a tip-off that ^orange;<threat>^white; are coming via the ^orange;<spawnPoint>^white;<spawnPoint.direction> to attack <target>! ^green;If you could help me protect <target.pronoun.object>,^white; I would be extremely grateful!",
-      "Rus": "До меня дошли слухи, что у ^orange;<spawnPoint>^white; <spawnPoint.direction> появились ^orange;<threat>^white;. Они ищут, где скрывается ^orange;<target>^white;. Прошу, ^green;защити <target.pronoun.reflexive>^white;, я буду очень благодар<questGiver.pronoun.verb2Ending>!"
+      "Rus": "До меня дошли слухи, что у ^orange;<spawnPoint>^white;<spawnPoint.direction> появились ^orange;<threat>^white;. Они ищут, где скрывается ^orange;<target>^white;. Прошу, ^green;защити <target.pronoun.reflexive>^white;, я буду очень благодар<questGiver.pronoun.verb2Ending>!"
     }
   },
   {
@@ -212,7 +212,7 @@
     },
     "Texts": {
       "Eng": "I have recieved information that ^orange;<threat>^white; are approaching, via the ^orange;<spawnPoint>^white;<spawnPoint.direction>, and are coming to attack ^orange;<target>. ^green;If you can help me save <target.pronoun.object>,^white; I may win <target.pronoun.possessiveDet> gratitude.",
-      "Rus": "Я прознал<questGiver.pronoun.vernEnding>, что ^orange;<target>^white; находится под угрозой - <target.pronoun.reflexive> ищут ^orange;<threat>^white;, которые засели у ^orange;<spawnPoint>^white; <spawnPoint.direction>. ^green;Останови их^white; и я буду вечно тебе благодар<questGiver.pronoun.vern2Ending>."
+      "Rus": "Я прознал<questGiver.pronoun.vernEnding>, что ^orange;<target>^white; находится под угрозой - <target.pronoun.reflexive> ищут ^orange;<threat>^white;, которые засели у ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Останови их^white; и я буду вечно тебе благодар<questGiver.pronoun.vern2Ending>."
     }
   },
   {
@@ -224,7 +224,7 @@
     },
     "Texts": {
       "Eng": "I heard talk of ^orange;<threat>^white; apporaching from the ^orange;<spawnPoint>^white;<spawnPoint.direction> and believe they are coming to get ^orange;<target>. ^green;Can you help protect <target.pronoun.object> from <target.pronoun.possessiveDet> foes?",
-      "Rus": "Я слышал<questGiver.pronoun.verbEnding>, что от ^orange;<spawnPoint>^white; <spawnPoint.direction> идут ^orange;<threat>^white; - они ищут, где ^orange;<target>^white;. Мы должны ^green;защитить <target.pronoun.reflexive>^white;!"
+      "Rus": "Я слышал<questGiver.pronoun.verbEnding>, что от ^orange;<spawnPoint>^white;<spawnPoint.direction> идут ^orange;<threat>^white; - они ищут, где ^orange;<target>^white;. Мы должны ^green;защитить <target.pronoun.reflexive>^white;!"
     }
   },
   {
@@ -260,7 +260,7 @@
     },
     "Texts": {
       "Eng": "I've been informed that ^orange;<threat>^white; are approaching from the ^orange;<spawnPoint>^white;<spawnPoint.direction> - and ^orange;<target>^white; is their target! ^green;Can you help me protect <target.pronoun.possessiveDet> life?",
-      "Rus": "До меня дошли сведения, что ^orange;<threat>^white;, разбившие свой лагерь у ^orange;<spawnPoint>^white; <spawnPoint.direction>, ищут, где скрывается ^orange;<target>^white;. Долг всякой порядочной личности - ^green;оказать помощь, в которой <target> так нуждается^white;!"
+      "Rus": "До меня дошли сведения, что ^orange;<threat>^white;, разбившие свой лагерь у ^orange;<spawnPoint>^white;<spawnPoint.direction>, ищут, где скрывается ^orange;<target>^white;. Долг всякой порядочной личности - ^green;оказать помощь, в которой <target> так нуждается^white;!"
     }
   },
   {
@@ -308,7 +308,7 @@
     },
     "Texts": {
       "Eng": "Next ^green;we'll need to defend against incoming ^orange;<threat>^white; from the ^orange;<spawnPoint>^white;<spawnPoint.direction>. I've heard that their target is ^orange;<target>^white;. If we show that we're willing to risk life and limb to ^green;protect <target>, then <target.pronoun.subject>'ll know <target.pronoun.subject> can trust us.",
-      "Rus": "^orange;<target>^white; ^green;нуждается в нашей защите^white; - <target.pronoun.reflexive> преследуют ^orange;<threat>^white;, обосновавшиеся около ^orange;<spawnPoint>^white; <spawnPoint.direction>. Не допусти, чтобы дело приняло критический оборот!"
+      "Rus": "^orange;<target>^white; ^green;нуждается в нашей защите^white; - <target.pronoun.reflexive> преследуют ^orange;<threat>^white;, обосновавшиеся около ^orange;<spawnPoint>^white;<spawnPoint.direction>. Не допусти, чтобы дело приняло критический оборот!"
     }
   },
   {
@@ -320,7 +320,7 @@
     },
     "Texts": {
       "Eng": "Next part iss good timing. Floran heard on grapevine that ^orange;<threat> from the <spawnPoint>^white;<spawnPoint.direction> ^green;are coming to messs with ^orange;<target>. ^white;Floran wants you to ^green;protect ^orange;<target> ^green;from ^orange;<threat>.",
-      "Rus": "Флоран слышал, что ^orange;<target>^white; в опассности - за <target.pronoun.copulativePast> явились ^orange;<threat>^white;. Мы должны остановить их - ^green;перебей их всех в лагере у ^orange;<spawnPoint>^white; <spawnPoint.direction> ."
+      "Rus": "Флоран слышал, что ^orange;<target>^white; в опассности - за <target.pronoun.copulativePast> явились ^orange;<threat>^white;. Мы должны остановить их - ^green;перебей их всех в лагере у ^orange;<spawnPoint>^white;<spawnPoint.direction> ."
     }
   },
   {
@@ -332,7 +332,7 @@
     },
     "Texts": {
       "Eng": "Next part not sso easy. Floran heard that ^orange;<threat> at the <spawnPoint>^white;<spawnPoint.direction> ^green;are coming for ^orange;<target>.^white; Floran needs you to ^green;ssstop them.",
-      "Rus": "Флоран слышал, что ^orange;<threat>^white;, что разбили ссвой лагерь у ^orange;<spawnPoint>^white; <spawnPoint.direction>, ищут, где ^orange;<target>^white;. Флоран хочет, чтобы ты ^green;осстановил их^white;."
+      "Rus": "Флоран слышал, что ^orange;<threat>^white;, что разбили ссвой лагерь у ^orange;<spawnPoint>^white;<spawnPoint.direction>, ищут, где ^orange;<target>^white;. Флоран хочет, чтобы ты ^green;осстановил их^white;."
     }
   },
   {
@@ -344,7 +344,7 @@
     },
     "Texts": {
       "Eng": "Next, we need to protect ^orange;<target>^white;. There's a group of ^orange;<threat>^white; on their way here through the ^orange;<spawnPoint>^white;<spawnPoint.direction> to attack <target.pronoun.object>. ^green;Do whatever you can to keep <target.pronoun.object> safe from harm!",
-      "Rus": "Прошу, помоги. ^orange;<target>^white; угодил<target.pronoun.verbEnding> в серьёзный переплёт - теперь <target.pronoun.reflexive> преследуют ^orange;<threat>^white;. Их стоянка находится у ^orange;<spawnPoint>^white; <spawnPoint.direction>. ^green;Сделай что-нибудь^white;!"
+      "Rus": "Прошу, помоги. ^orange;<target>^white; угодил<target.pronoun.verbEnding> в серьёзный переплёт - теперь <target.pronoun.reflexive> преследуют ^orange;<threat>^white;. Их стоянка находится у ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Сделай что-нибудь^white;!"
     }
   },
   {
@@ -428,7 +428,7 @@
     },
     "Texts": {
       "Eng": "The first task is simple; head over to the ^orange<spawnPoint>^white;<spawnPoint.direction> and make sure those ^orange<threat>^white; don't succeed in their attack against ^orange;<target>! ^green;Protect <target.pronoun.object>^green; at all costs!",
-      "Rus": "Задача в целом проста: ^orange<threat>^white; ищут, где прячется ^orange;<target>^white;. Нужно прекратить это - ^green;ликвидируй их лагерь у ^orange<spawnPoint>^white; <spawnPoint.direction>."
+      "Rus": "Задача в целом проста: ^orange<threat>^white; ищут, где прячется ^orange;<target>^white;. Нужно прекратить это - ^green;ликвидируй их лагерь у ^orange<spawnPoint>^white;<spawnPoint.direction>."
     }
   },
   {
@@ -464,7 +464,7 @@
     },
     "Texts": {
       "Eng": "Word is that ^orange;<threat>^white; are on their way here to capture ^orange;<target>^white; and take <target.pronoun.object> back to the ^orange;<spawnPoint>^white;<spawnPoint.direction>. This can't be allowed to happen! ^green;Please help protect <target.pronoun.object>^white; however you can!",
-      "Rus": "Говорят, что ^orange;<threat>^white; нашли, где прятал<target.pronoun.verb3Ending> ^orange;<target>^white; - и теперь <target.pronoun.subject> у них в лагере близ ^orange;<spawnPoint>^white; <spawnPoint.direction>. Ты должен ^green;спасти <target.pronoun.reflexive>^white;!"
+      "Rus": "Говорят, что ^orange;<threat>^white; нашли, где прятал<target.pronoun.verb3Ending> ^orange;<target>^white; - и теперь <target.pronoun.subject> у них в лагере близ ^orange;<spawnPoint>^white;<spawnPoint.direction>. Ты долж<player.pronoun.verb2Ending> ^green;спасти <target.pronoun.reflexive>^white;!"
     }
   },
   {

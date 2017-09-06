@@ -7,18 +7,23 @@
       ]
     },
     "Texts": {
-      "Eng": "Give your mech a booming voice to intimidate your foes."
+      "Eng": "Give your mech a booming voice to intimidate your foes.",
+      "Rus": "Наделите ваш мех раскатистым голосом, чтобы заставить врагов трепетать."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Гудок меха с робо-голосом",
+      "Гудок меха - голос робота"
+    ],
     "Files": {
       "items/generic/mechparts/horn/mechhornrobotvoice.item": [
         "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Robot Voice Mech Horn"
+      "Eng": "Robot Voice Mech Horn",
+      "Rus": "Гудок меха с голосом робота"
     }
   }
 ]

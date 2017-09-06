@@ -1,13 +1,16 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Взрывное облако"
+    ],
     "Files": {
       "items/active/weapons/ranged/abilities/fuelairtrail/fuelairtrail.weaponability": [
         "/ability/name"
       ]
     },
     "Texts": {
-      "Eng": "Fuel Air Trail"
+      "Eng": "Fuel Air Trail",
+      "Rus": "Горючий аэрозоль"
     }
   }
 ]

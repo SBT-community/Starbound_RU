@@ -11,7 +11,7 @@
     },
     "Texts": {
       "Eng": "Big stone brickss are hard and cold.",
-      "Rus": "Большие каменные кирпичи тверды и холодны."
+      "Rus": "Большшшие каменные кирпичи, твёрдые и холодные."
     }
   },
   {
@@ -26,7 +26,7 @@
     },
     "Texts": {
       "Eng": "Dark Tomb Brick",
-      "Rus": "Тёмный кирпич из гробницы"
+      "Rus": "Тёмный могильный кирпич"
     }
   },
   {
@@ -56,11 +56,14 @@
     },
     "Texts": {
       "Eng": "Strong lookin' stone. Feels mighty cold to the touch.",
-      "Rus": ""
+      "Rus": "Крепкий с виду камень. Дюже холодный на ощупь."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Эти крупные кирпичи не совпадают по размеру.",
+      "Все эти крупные кирпичи немного разных размеров"
+    ],
     "Files": {
       "items/materials/tombbrick4.matitem": [
         "/glitchdescription/glitchEmotedText"
@@ -71,7 +74,7 @@
     },
     "Texts": {
       "Eng": "These large bricks are not uniform in size.",
-      "Rus": ""
+      "Rus": "Все эти крупные кирпичи немного отличаются размерами."
     }
   }
 ]

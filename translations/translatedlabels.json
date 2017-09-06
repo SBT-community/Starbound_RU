@@ -362,14 +362,14 @@
       "mutantminer.config.json": 10,
       "oremerchant.config.json": 119,
       "outpost.config.json": 42,
-      "quest.config.json": 112,
+      "quest.config.json": 149,
       "rebel.config.json": 3,
       "scientist.config.json": 12,
       "shared_.config.json": 101,
       "shared_at.config.json": 1,
       "shared_merchant.config.json": 20,
       "shared_t.config.json": 1,
-      "shipcrew.config.json": 43,
+      "shipcrew.config.json": 66,
       "shroom.config.json": 85,
       "sniper.config.json": 23,
       "spaceconverse.config.json": 85,
@@ -386,7 +386,7 @@
     "generic": {
       "shared_lightbulb.json": 1
     },
-    "glitchEmotes.json": 385,
+    "glitchEmotes.json": 434,
     "help.config.json": 62,
     "hunger.config.json": 14,
     "interface": {
@@ -484,7 +484,7 @@
         "sbvn": {
           "games": {
             "beautifulattempt": {
-              "beautifulattempt.sbvn.json": 95
+              "beautifulattempt.sbvn.json": 96
             }
           },
           "sbvngui.config.json": 2
@@ -786,10 +786,10 @@
                   "bladecharge.weaponability.json": 1
                 },
                 "downstab": {
-                  "downstab.weaponability.json": 0
+                  "downstab.weaponability.json": 1
                 },
                 "flipslash": {
-                  "flipslash.weaponability.json": 0
+                  "flipslash.weaponability.json": 1
                 },
                 "giantsword": {
                   "giantsword.weaponability.json": 1
@@ -804,17 +804,17 @@
                   "parry.weaponability.json": 1
                 },
                 "risingslash": {
-                  "risingslash.weaponability.json": 0
+                  "risingslash.weaponability.json": 1
                 },
                 "spinslash": {
-                  "spinslash.weaponability.json": 0,
-                  "superspinslash.weaponability.json": 0
+                  "spinslash.weaponability.json": 1,
+                  "superspinslash.weaponability.json": 1
                 },
                 "traildash": {
-                  "traildash.weaponability.json": 0
+                  "traildash.weaponability.json": 1
                 },
                 "travelingslash": {
-                  "travelingslash.weaponability.json": 0
+                  "travelingslash.weaponability.json": 1
                 }
               },
               "generic": {
@@ -1051,10 +1051,10 @@
                 "chargefire.weaponability.json": 0
               },
               "deathbomb": {
-                "deathbomb.weaponability.json": 0
+                "deathbomb.weaponability.json": 1
               },
               "erchiusbeam": {
-                "erchiusbeam.weaponability.json": 0
+                "erchiusbeam.weaponability.json": 1
               },
               "erchiuslauncher": {
                 "erchiuslauncher.weaponability.json": 0
@@ -1063,10 +1063,10 @@
                 "explosiveburst.weaponability.json": 0
               },
               "explosiveshot": {
-                "explosiveshot.weaponability.json": 0
+                "explosiveshot.weaponability.json": 1
               },
               "fuelairtrail": {
-                "fuelairtrail.weaponability.json": 0
+                "fuelairtrail.weaponability.json": 1
               },
               "guidedrocket": {
                 "exmachinarocket.weaponability.json": 1,
@@ -1079,16 +1079,16 @@
                 "lance.weaponability.json": 1
               },
               "markedshot": {
-                "markedshot.weaponability.json": 0
+                "markedshot.weaponability.json": 1
               },
               "piercingshot": {
-                "piercingshot.weaponability.json": 0
+                "piercingshot.weaponability.json": 1
               },
               "rocketburst": {
                 "rocketburst.weaponability.json": 0
               },
               "shrapnelbomb": {
-                "shrapnelbomb.weaponability.json": 0
+                "shrapnelbomb.weaponability.json": 1
               },
               "sparkles": {
                 "sparkles.weaponability.json": 0
@@ -1097,7 +1097,7 @@
                 "spray.weaponability.json": 0
               },
               "stickyshot": {
-                "stickyshot.weaponability.json": 0
+                "stickyshot.weaponability.json": 1
               }
             },
             "assaultrifle": {
@@ -1194,13 +1194,13 @@
                 "plasmabladebarrage.weaponability.json": 0
               },
               "effectzone": {
-                "energyzone.weaponability.json": 0,
-                "forcecage.weaponability.json": 0,
+                "energyzone.weaponability.json": 1,
+                "forcecage.weaponability.json": 1,
                 "healingzone.weaponability.json": 1,
-                "kluexzone.weaponability.json": 0,
+                "kluexzone.weaponability.json": 1,
                 "lowgravzone.weaponability.json": 1,
-                "pullzone.weaponability.json": 0,
-                "pushzone.weaponability.json": 0,
+                "pullzone.weaponability.json": 1,
+                "pushzone.weaponability.json": 1,
                 "slowzone.weaponability.json": 1
               },
               "guidedbolt": {
@@ -3470,20 +3470,20 @@
             "mechboosterzero.item.json": 2
           },
           "horn": {
-            "mechhornairhorn.item.json": 0,
-            "mechhornbikebell.item.json": 0,
-            "mechhornbull.item.json": 0,
-            "mechhorncharge.item.json": 0,
-            "mechhornclownhorn.item.json": 0,
-            "mechhornfoghorn.item.json": 0,
-            "mechhornlacucha.item.json": 0,
-            "mechhornrobotvoice.item.json": 0,
-            "mechhornrubberduck.item.json": 0,
-            "mechhornsportshorn.item.json": 0,
-            "mechhornsteamwhistle.item.json": 0,
-            "mechhorntoy.item.json": 0,
-            "mechhorntrain.item.json": 0,
-            "mechhorntruck.item.json": 0
+            "mechhornairhorn.item.json": 2,
+            "mechhornbikebell.item.json": 2,
+            "mechhornbull.item.json": 2,
+            "mechhorncharge.item.json": 2,
+            "mechhornclownhorn.item.json": 2,
+            "mechhornfoghorn.item.json": 2,
+            "mechhornlacucha.item.json": 2,
+            "mechhornrobotvoice.item.json": 2,
+            "mechhornrubberduck.item.json": 1,
+            "mechhornsportshorn.item.json": 2,
+            "mechhornsteamwhistle.item.json": 2,
+            "mechhorntoy.item.json": 2,
+            "mechhorntrain.item.json": 2,
+            "mechhorntruck.item.json": 2
           },
           "legs": {
             "mechlegsarc.item.json": 2,
@@ -3931,12 +3931,12 @@
       "shared_sandstone.json": 4,
       "shared_sandstoneblock.mat.json": 5,
       "shared_sewage.mat.json": 5,
-      "shared_sewerpipe.mat.json": 2,
-      "shared_shadowblock.mat.json": 2,
-      "shared_shadowspikeblock.mat.json": 3,
-      "shared_shadowwallblock.mat.json": 2,
-      "shared_shojiscreenpanel.mat.json": 2,
-      "shared_shroomblock.mat.json": 2,
+      "shared_sewerpipe.mat.json": 5,
+      "shared_shadowblock.mat.json": 5,
+      "shared_shadowspikeblock.mat.json": 5,
+      "shared_shadowwallblock.mat.json": 5,
+      "shared_shojiscreenpanel.mat.json": 5,
+      "shared_shroomblock.mat.json": 5,
       "shared_silverblock.mat.json": 5,
       "shared_silverscrew.mat.json": 5,
       "shared_slime.mat.json": 5,
@@ -3947,13 +3947,13 @@
       "shared_slush.mat.json": 5,
       "shared_smoothmetal.mat.json": 5,
       "shared_snow.mat.json": 4,
-      "shared_spidersilkblock.mat.json": 2,
+      "shared_spidersilkblock.mat.json": 5,
       "shared_stomachblock.mat.json": 5,
-      "shared_stonerubble.mat.json": 2,
+      "shared_stonerubble.mat.json": 5,
       "shared_stonetiles.mat.json": 5,
       "shared_supermatter.mat.json": 5,
       "shared_tar.mat.json": 4,
-      "shared_techhull1.mat.json": 3,
+      "shared_techhull1.mat.json": 5,
       "shared_temple1.mat.json": 4,
       "shared_temple2.mat.json": 4,
       "shared_temple3.mat.json": 5,
@@ -3962,9 +3962,9 @@
       "shared_tentaclepipe.mat.json": 5,
       "shared_thatch.mat.json": 5,
       "shared_tombbrick.mat.json": 5,
-      "shared_tombbrick2.mat.json": 2,
-      "shared_tombbrick3.mat.json": 2,
-      "shared_tombbrick4.mat.json": 3,
+      "shared_tombbrick2.mat.json": 4,
+      "shared_tombbrick3.mat.json": 5,
+      "shared_tombbrick4.mat.json": 5,
       "shared_tombbrick5.mat.json": 2,
       "shared_treasurehoard.mat.json": 5,
       "shared_vine.mat.json": 5,
@@ -4567,7 +4567,7 @@
       }
     },
     "names": {
-      "ancientgreek.namesource.json": 581,
+      "ancientgreek.namesource.json": 609,
       "aztec.namesource.json": 138,
       "russianfemale.namesource.json": 81,
       "russianmale.namesource.json": 73,
@@ -5787,36 +5787,36 @@
           "avianbench1.object.json": 6
         },
         "avianbench2": {
-          "avianbench2.object.json": 0
+          "avianbench2.object.json": 8
         },
         "avianpressureplate": {
-          "avianpressureplate.object.json": 0
+          "avianpressureplate.object.json": 5
         },
         "avianstoragelocker": {
           "avianstoragelocker.object.json": 1
         },
         "avianswitchhidden": {
-          "avianswitchhidden1.object.json": 0,
+          "avianswitchhidden1.object.json": 1,
           "avianswitchhidden2.object.json": 0
         },
         "avianwaterlight": {
           "avianwaterlight.object.json": 0
         },
         "bardoor2": {
-          "bardoor2.object.json": 0,
-          "bardoor2sideways.object.json": 0
+          "bardoor2.object.json": 6,
+          "bardoor2sideways.object.json": 8
         },
         "bardoor3": {
           "bardoor3.object.json": 0
         },
         "bigjar1": {
-          "bigjar1.object.json": 0
+          "bigjar1.object.json": 8
         },
         "birdaltar2": {
           "birdaltar2.object.json": 9
         },
         "birdbed": {
-          "birdbed.object.json": 0
+          "birdbed.object.json": 8
         },
         "birddoor": {
           "birddoor.object.json": 3
@@ -5885,10 +5885,10 @@
           "earthemblem.object.json": 0
         },
         "feathers1": {
-          "feathers1.object.json": 0
+          "feathers1.object.json": 9
         },
         "feathers2": {
-          "feathers2.object.json": 0
+          "feathers2.object.json": 2
         },
         "featherybird": {
           "featherybird.object.json": 0
@@ -6124,13 +6124,13 @@
           "tribaltable.object.json": 0
         },
         "tribalwallcabinet": {
-          "tribalwallcabinet.object.json": 0
+          "tribalwallcabinet.object.json": 8
         },
         "wateremblem": {
           "wateremblem.object.json": 8
         },
         "windchicken": {
-          "windchicken.object.json": 0
+          "windchicken.object.json": 8
         },
         "wingedurn": {
           "wingedurn.object.json": 9
@@ -11261,7 +11261,7 @@
             "protectoratedormmirror.object.json": 9
           },
           "protectoratedormtoilet": {
-            "protectoratedormtoilet.object.json": 9
+            "protectoratedormtoilet.object.json": 8
           },
           "protectoratedormtoiletroll": {
             "protectoratedormtoiletroll.object.json": 9
@@ -11547,7 +11547,7 @@
       "shared_liquidsensor": {
         "shared_liquidsensor.object.json": 2
       },
-      "shared_ove.json": 0,
+      "shared_ove.json": 1,
       "shared_piano": {
         "shared_piano.object.json": 1
       },
@@ -13244,7 +13244,7 @@
           "add_object_to_house.questtemplate.json": 23,
           "barter.questtemplate.json": 7,
           "borrow.questtemplate.json": 24,
-          "bribe.questtemplate.json": 4,
+          "bribe.questtemplate.json": 18,
           "build_home.questtemplate.json": 24,
           "capture_pet.questtemplate.json": 46,
           "collect_fine.questtemplate.json": 8,
@@ -13435,7 +13435,7 @@
       "humanmalenamegen.config.json": 123,
       "humannamegen.config.json": 13,
       "hylotl.species.json": 7,
-      "namegen.config.json": 0,
+      "namegen.config.json": 55,
       "novakid.species.json": 6,
       "novakidnamegen.config.json": 160,
       "penguin.species.json": 10,
