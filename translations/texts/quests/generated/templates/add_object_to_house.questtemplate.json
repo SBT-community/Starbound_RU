@@ -34,7 +34,7 @@
     },
     "Texts": {
       "Eng": "Alright, I think this ^orange;<object>^white; is exactly what's needed! ^green;Could you find some space in my home to place it?",
-      "Rus": "Отлично, я думаю этот ^orange;<object>^white; это как раз то, что нужно! ^green;Не мог бы ты придумать, где это разместить?"
+      "Rus": "Отлично, я думаю ^orange;<object>^white; - это как раз то, что нужно! ^green;Не мог бы ты придумать, где разместить обновку?"
     }
   },
   {
@@ -46,7 +46,7 @@
     },
     "Texts": {
       "Eng": "Finally Floran hasss the ^orange;<object> ^white;Floran wanted! It will look good in Floran's home, so ^green;please put it down sssomewhere in there.",
-      "Rus": "Наконец-то у Флорана есть ^orange;<object> ^white; Флоран хотел! Это ссмотрится хорошо в моём доме, ^green; положи это где-нибудь там."
+      "Rus": "Наконец-то у Флорана есть ^orange;<object> ^white; как Флоран и хотел! Будет хорошо сссмотреться в моём доме, ^green; положи эту штуку где-нибудь в нём."
     }
   },
   {
@@ -58,7 +58,7 @@
     },
     "Texts": {
       "Eng": "Finally, could you ^green; place the ^orange;<object>^green; somewhere in my home? ^white;You should ^green;make some more room^white; if necessary.",
-      "Rus": "Вы поможете ^green; поставить ^orange; <object> ^green; где-нибудь здесь? ^white; Можете использовать ^green; все доступное пространство^white;, если это необходимо."
+      "Rus": "Вы поможете ^green; поставить ^orange; <object.reflexive> ^green; где-нибудь в моём доме? ^white; Можете использовать ^green; все доступное пространство^white;, если это необходимо."
     }
   },
   {
@@ -84,7 +84,7 @@
     },
     "Texts": {
       "Eng": "I failed to help <questGiver> make some home improvements. I'm sure <questGiver.pronoun.subject>'ll manage without my help.",
-      "Rus": "Мне не удалось помочь <questGiver> слегка улучшить его дом. Уверен, <questGiver.pronoun.subject> справится без моей помощи."
+      "Rus": "Бедн<questGiver.pronoun.adj2Ending> <questGiver>... Мне не удалось помочь  улучшить <questGiver.pronoun.reflexive> дом. Но я не сомневаюсь, <questGiver> наверняка справится и без моей помощи."
     }
   },
   {
@@ -98,7 +98,7 @@
     },
     "Texts": {
       "Eng": "I failed to improve the decoration in <questGiver>'s home. It probably would have looked bad anyway.",
-      "Rus": "Я не справился с улучшением обстановки в доме <questGiver>. Вероятно, это всё равно было бы не очень."
+      "Rus": "<questGiver> будет недоволен. У меня не вышло улучшить обстановку в <questGiver.pronoun.reflexive> доме. Вероятно, всё равно было бы не очень."
     }
   },
   {
@@ -122,7 +122,7 @@
     },
     "Texts": {
       "Eng": "I think this ^orange;<object>^white; is going to do the trick! All that's left to do is ^green;place it in a nice spot.",
-      "Rus": "Я думаю, этот ^orange;<object>^white; подойдёт! Всё, что осталось сделать, это ^green;найти ему хорошее место."
+      "Rus": "Я думаю, ^orange;<object>^white; подойдёт! Всё, что осталось сделать - это ^green;найти новой вещице хорошее место."
     }
   },
   {
@@ -134,7 +134,7 @@
     },
     "Texts": {
       "Eng": "Much better! It looks just how I'd imagined it. Many thanks, feel free to stop by anytime to admire your handiwork!",
-      "Rus": "Теперь намного лучше! Так я себе его и представлял. Большое спасибо, не стесняйтесь заглядывать в любое время, чтобы полюбоваться своей работой!"
+      "Rus": "Теперь намного лучше! Так я себе и представлял. Большое спасибо, не стесняйся заглядывать в любое время, чтобы полюбоваться своей работой!"
     }
   },
   {
@@ -148,7 +148,7 @@
     },
     "Texts": {
       "Eng": "Redecorating for <questGiver>",
-      "Rus": "Косметический ремонт для <questGiver>"
+      "Rus": "<questGiver> хочет провести косметический ремонт"
     }
   },
   {
@@ -160,7 +160,7 @@
     },
     "Texts": {
       "Eng": "That <object> really adds to the ambiance, do you not agree? Thank you for helping me!",
-      "Rus": "<object> идеально подойдёт к окружению. Вы не против? Спасибо за помощь!"
+      "Rus": "<object> идеально подойдёт к окружению, не правда ли? Спасибо за помощь!"
     }
   },
   {
@@ -172,7 +172,7 @@
     },
     "Texts": {
       "Eng": "That ^orange;<object> ^white;is jussst what my home needss! ^green;Pleasse place it somewhere here.",
-      "Rus": "Этот ^orange;<object> ^white;как раз то, что нужно моему дому! Размести это где-нибудь здессь."
+      "Rus": "^orange;<object> ^white; - как раз то, что нужно моему дому! Размести эту штуку где-нибудь здессь."
     }
   },
   {
@@ -208,7 +208,7 @@
     },
     "Texts": {
       "Eng": "We are almost done! All you need to do now is ^green;place the ^orange;<object>^green; in my home^white; somewhere!",
-      "Rus": "Мы почти закончили! Всё, что теперь нужно - это ^green;поставить ^orange;<object>^green; в моём доме^white; где-нибудь!"
+      "Rus": "Мы почти закончили! Всё, что теперь нужно - это ^green;поставить ^orange;<object.reflexive>^white; где-нибудь ^green; в моём доме^white;!"
     }
   },
   {
@@ -244,7 +244,7 @@
     },
     "Texts": {
       "Eng": "^cyan;I have a plan to spruce up my home, but I can't do it all by myself. Can you give me a hand?",
-      "Rus": "^cyan;У меня есть идея, чтобы украсить свой дом, но я не могу сделать это самостоятельно. Вы мне не поможете?"
+      "Rus": "^cyan;У меня есть идея, чтобы украсить свой дом, но я не могу сделать это самостоятельно. Ты мне не поможешь?"
     }
   },
   {
@@ -268,7 +268,7 @@
     },
     "Texts": {
       "Eng": "^cyan;Self-conscious. My home could use some new decor... Perhaps you could help me?",
-      "Rus": "^cyan;Застенчиво. Моему дому не помешает обновлённый декор. Возможно, ты сможешь помочь?"
+      "Rus": "^cyan;Застенчиво. Моему дому не помешает обновить оформление. Возможно, ты сможешь помочь?"
     }
   },
   {

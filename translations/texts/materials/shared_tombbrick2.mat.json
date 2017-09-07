@@ -11,7 +11,7 @@
     },
     "Texts": {
       "Eng": "Floran likess smooth brickss.",
-      "Rus": ""
+      "Rus": "Флорану нравятссся гладкие кирпичи."
     }
   },
   {
@@ -26,7 +26,7 @@
     },
     "Texts": {
       "Eng": "These bricks have held up well considering their age.",
-      "Rus": ""
+      "Rus": "Эти кирпичи хорошо сохранились, учитывая их возраст."
     }
   },
   {
@@ -41,11 +41,15 @@
     },
     "Texts": {
       "Eng": "These bricks have worn smooth with age.",
-      "Rus": "Эти кирпичи стали гладкими с годами."
+      "Rus": "Эти кирпичи стёрлись и стали гладкими с годами. Опознавательного клейма на них не видно."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Истёртый кирпич из гробницы",
+      "Истёртый кирпич из склепа",
+      "Могильный кирпич без клейма"
+    ],
     "Files": {
       "items/materials/tombbrick2.matitem": [
         "/shortdescription"
@@ -56,7 +60,7 @@
     },
     "Texts": {
       "Eng": "Unmarked Tomb Brick",
-      "Rus": "Не отмеченные кирпичи из гробницы"
+      "Rus": "Истёртый могильный кирпич"
     }
   }
 ]

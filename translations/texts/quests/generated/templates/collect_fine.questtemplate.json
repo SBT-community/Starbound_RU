@@ -8,7 +8,7 @@
     },
     "Texts": {
       "Eng": "<target> has done a dessspicable crime and must face justice! Floran thinks you're bessst for this job! ^green;Go and give this ^orange;crime notice^green; to ^orange;<target>^green; and take <target.pronoun.possessiveDet> ^orange;<item> ^white;as payment.",
-      "Rus": "<target> совершил гнусное преступление и должен предстать перед сссудом! Флоран думает, что эта работа для тебя! ^green;Пойди и отдай эту ^orange;повестку^green; и возьми <target.pronoun.possessiveDet> ^orange;<item> ^white;в качестве платы."
+      "Rus": "<target> совершил гнусное преступление и должен предстать перед сссудом! Флоран думает, что эта работа для тебя! ^green;Пойди и отдай эту ^orange;повестку^green; и возьми <target.pronoun.possessiveDet> ^orange;<item.reflexive> ^white;в качестве платы."
     }
   },
   {
@@ -20,7 +20,7 @@
     },
     "Texts": {
       "Eng": "<target> has no doubt learned <target.pronoun.possessiveDet> lesson. This <item> will come in useful too!",
-      "Rus": ""
+      "Rus": "<target>, без сомнений, усвоил урок. Да и <item> тоже пригодится."
     }
   },
   {
@@ -32,7 +32,7 @@
     },
     "Texts": {
       "Eng": "<target> has no doubt learned <target.pronoun.possessiveDet> lesson... And that <item> will come in useful as well!",
-      "Rus": ""
+      "Rus": "<target>, без сомнений, усвоил урок... Да и <item> пригодится тоже."
     }
   },
   {
@@ -44,7 +44,7 @@
     },
     "Texts": {
       "Eng": "Bring <target> to Justice",
-      "Rus": ""
+      "Rus": "<questGiver> изголодался по справедливости"
     }
   },
   {
@@ -56,7 +56,7 @@
     },
     "Texts": {
       "Eng": "Collect damages from <target>",
-      "Rus": "Возмести убытки от <target>"
+      "Rus": "<target> должен возместить убытки "
     }
   },
   {
@@ -67,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Criminal McCriminalson"
+      "Eng": "Criminal McCriminalson",
+      "Rus": ""
     }
   },
   {
@@ -79,7 +80,7 @@
     },
     "Texts": {
       "Eng": "Finally, we need ^orange;<target>^white; to pay for <target.pronoun.possessiveDet> shady practices. ^green;Deliver this ^orange;notice^green; to <target.pronoun.object>,^white; it's a receipt for criminal damages. ^green;Collect <target.pronoun.possessiveDet> ^orange;<item>^white; as compensation.",
-      "Rus": ""
+      "Rus": "Наконец, ^orange;<target>^white; долж<target.pronoun.verb2Ending> заплатить за свои тёмные делишки. ^green;Доставь <target.pronoun.object> эту ^orange;квитанцию^white;. Там учтён весь ущерб. Возьми с н<target.pronoun.reflexive> ^orange;<item.reflexive>^white; в качестве компенсации."
     }
   },
   {
@@ -91,7 +92,7 @@
     },
     "Texts": {
       "Eng": "First, I regret to inform you that our seemingly innocent associate ^orange;<target>^white; recently commited a crime. ^green;Deliver this ^orange;crime notice^white; and take <target.pronoun.possessiveDet> ^orange;<item>^white; as compensation.",
-      "Rus": ""
+      "Rus": "Для начала, вынужд<questGiver.pronoun.verb2Ending> с прискорбием сообщить, что наш<target.pronoun.verbEnding>, с виду невинн<target.pronoun.adj2Ending> партнёр <target> недавно совершил<target.pronoun.verbEnding> преступление. ^green;Доставь эту ^orange;повестку^white; и забери у н<target.pronoun.reflexive> ^orange;<item.reflexive>^white; в качестве компенсации."
     }
   },
   {
@@ -103,7 +104,7 @@
     },
     "Texts": {
       "Eng": "Floran has another tasssk for you. ^orange;<target> ^white;has done something shameful and Floran wantsss justice! ^green;Go and give thiss ^orange;crime notice^green; to <target.pronoun.object> and take one ^orange;<item>^green; as payment.",
-      "Rus": ""
+      "Rus": "У флорана есть для тебя ещё задание. ^orange;<target> ^white; совершил<target.pronoun.verbEnding> нечто постыдное и теперь флоран требует справедливости! ^green;Иди и передай <target.pronoun.object> эту ^orange;повестку^green;, затем забери ^orange;<item.reflexive>^green;  в качестве платы."
     }
   },
   {

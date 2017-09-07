@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "  "
+    ],
     "Files": {
       "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
         "/scenes/badEnding6/text",
@@ -8,7 +10,8 @@
       ]
     },
     "Texts": {
-      "Eng": " "
+      "Eng": " ",
+      "Rus": " "
     }
   },
   {
@@ -19,18 +22,22 @@
       ]
     },
     "Texts": {
-      "Eng": " I assume that she misunderstood the implication of my remark, but I cannot help stare a little too long into her triumvirate of ruby red eyes."
+      "Eng": " I assume that she misunderstood the implication of my remark, but I cannot help stare a little too long into her triumvirate of ruby red eyes.",
+      "Rus": " Я предположил, что она неправильно поняла суть моего замечания, но не мог отвести взгляд от триумвирата её рубиново-красных глаз."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "\"... Я полагаю, стандарты искусства другие в ваше время, хах?\" - сказала она решительно. Я предполагаю, что это, по факту, была не шутка."
+    ],
     "Files": {
       "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
         "/scenes/art17a/text"
       ]
     },
     "Texts": {
-      "Eng": "\"...I guess the standard of art is different in your time, huh?\" she says flatly. I presume that the picture was not, in fact, a joke."
+      "Eng": "\"...I guess the standard of art is different in your time, huh?\" she says flatly. I presume that the picture was not, in fact, a joke.",
+      "Rus": "\"... Я полагаю, стандарты искусства другие в ваше время, хах?\" - сказала она решительно. Я предполагаю, что это, на самом деле, была не шутка."
     }
   },
   {
@@ -41,7 +48,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"...That's a weird name,\" she says flatly. \"Why would your parents even call you that?\""
+      "Eng": "\"...That's a weird name,\" she says flatly. \"Why would your parents even call you that?\"",
+      "Rus": "\"...Это странное имя,\" - сказала она откровенно. \"Почему же твои родители назвали тебя так?\""
     }
   },
   {
@@ -52,7 +60,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"A fun song? That sounds... Fine. What kind of characters would it have?\""
+      "Eng": "\"A fun song? That sounds... Fine. What kind of characters would it have?\"",
+      "Rus": "\"Смешная песня? Эти звуки... Хорошо. Какими будут персонажи в ней?\""
     }
   },
   {
@@ -63,7 +72,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"A romantic song! How wonderful! What should it be about?\""
+      "Eng": "\"A romantic song! How wonderful! What should it be about?\"",
+      "Rus": "\"Романтичная песня! Как замечательно! О чём она будет?\""
     }
   },
   {
@@ -74,7 +84,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"A sad bear? Um, okay. Why is the bear sad?\""
+      "Eng": "\"A sad bear? Um, okay. Why is the bear sad?\"",
+      "Rus": "\"Грустный медведь? Амм, ладно. Почему медведь грустный?\""
     }
   },
   {
@@ -85,29 +96,36 @@
       ]
     },
     "Texts": {
-      "Eng": "\"A talking fish sounds fun. What should the fish be doing?\""
+      "Eng": "\"A talking fish sounds fun. What should the fish be doing?\"",
+      "Rus": "\"Говорящая рыба звучит весело. Что рыба будет делать?\""
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "\"Аэрохокей? Что за 'Аэрохокей'? О чём ты?\""
+    ],
     "Files": {
       "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
         "/scenes/hockey1/text"
       ]
     },
     "Texts": {
-      "Eng": "\"Air Hockey? What is this 'Air Hockey'? you speak of?\""
+      "Eng": "\"Air Hockey? What is this 'Air Hockey'? you speak of?\"",
+      "Rus": "\"Аэрохоккей? Что за 'Аэрохоккей'? О чём ты?\""
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "\"Но, возможно...\" - сказала она, пока пристально смотрела на жезл в её руке - \"Возможно, завершение церемонии поможет отправить тебя обратно?\""
+    ],
     "Files": {
       "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
         "/scenes/ritual4/text"
       ]
     },
     "Texts": {
-      "Eng": "\"But perhaps...\" she says whilst looking intently at the staff in her hand, \"Perhaps finishing the ceremony will help send you back?\""
+      "Eng": "\"But perhaps...\" she says whilst looking intently at the staff in her hand, \"Perhaps finishing the ceremony will help send you back?\"",
+      "Rus": "\"Но, возможно...\" - сказала она, пока пристально смотрела на жезл в своей руке - \"Возможно, завершение церемонии поможет отправить тебя обратно?\""
     }
   },
   {
@@ -118,18 +136,22 @@
       ]
     },
     "Texts": {
-      "Eng": "\"Can you tell what it is?\" she asks, eagerly."
+      "Eng": "\"Can you tell what it is?\" she asks, eagerly.",
+      "Rus": "\"Можешь сказать что это?\" - спросила пылко она."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "\"Повзоляет ли твой 'Аэрохокей' путешествовать сквозь время?\""
+    ],
     "Files": {
       "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
         "/scenes/hockey6/text"
       ]
     },
     "Texts": {
-      "Eng": "\"Does this 'Air Hockey' of yours usually send people through time?\""
+      "Eng": "\"Does this 'Air Hockey' of yours usually send people through time?\"",
+      "Rus": "\"Этот твой 'Аэрохоккей' обычно отправляет существ сквозь время?\""
     }
   },
   {
@@ -141,7 +163,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"He's losing his house? How sad! I have a song idea, but it isn't very funny.\" she says."
+      "Eng": "\"He's losing his house? How sad! I have a song idea, but it isn't very funny.\" she says.",
+      "Rus": "\"Он лишается своего дома Как печально! У меня есть идея для песни, но она не слишком весёлая.\" - сказала она."
     }
   },
   {
@@ -152,7 +175,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"How adorable! I think I can sing about this.\" she says."
+      "Eng": "\"How adorable! I think I can sing about this.\" she says.",
+      "Rus": "\"Как восхитительно! Думаю, я могу спеть об этом.\" - сказала она."
     }
   },
   {
@@ -163,7 +187,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"How wholesome! I think I can sing about this.\" she says."
+      "Eng": "\"How wholesome! I think I can sing about this.\" she says.",
+      "Rus": "\"Как благотворно! Думаю, я могу спеть об этом.\" - сказала она."
     }
   },
   {
@@ -174,7 +199,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"I am Kasumi, a shrine maiden sent to bless the Grand Hylotl Library before its opening next week.\" She explains."
+      "Eng": "\"I am Kasumi, a shrine maiden sent to bless the Grand Hylotl Library before its opening next week.\" She explains.",
+      "Rus": "\"Меня зовут Касуми, святая дева, посланная благославить Великую Библиоткеу хилотлов, до открытия на следующей неделе.\" - объясняла она."
     }
   },
   {
@@ -185,7 +211,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"I can picture it now! Why is he so lovesick?\""
+      "Eng": "\"I can picture it now! Why is he so lovesick?\"",
+      "Rus": "\"Теперь я могу это себе представить! Почему он так сильно ищет любви?\""
     }
   },
   {
@@ -196,18 +223,22 @@
       ]
     },
     "Texts": {
-      "Eng": "\"I don't know!\" she cries out. I feel something tugging at me. An unseen hand of fate. I suddenly realise my time here may be over shortly."
+      "Eng": "\"I don't know!\" she cries out. I feel something tugging at me. An unseen hand of fate. I suddenly realise my time here may be over shortly.",
+      "Rus": "\"Я не знаю!\" - прокричала она. Я чувствую, как что-то трогает меня. Невидимая рука судьбы. Я внезапно осознал, что моё времяпровождение здесь могло скоро закончится."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "\"Я закончила!\" - объявила она. Её улыбка блестит в солнечном свете, как соблазн прекрасного морского чёрта."
+    ],
     "Files": {
       "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
         "/scenes/art7/text"
       ]
     },
     "Texts": {
-      "Eng": "\"I have finished!\" she announces. Her smile glitters in the sunset like the lure of a beautiful angler fish."
+      "Eng": "\"I have finished!\" she announces. Her smile glitters in the sunset like the lure of a beautiful angler fish.",
+      "Rus": "\"Я закончила!\" - объявила она. Её улыбка блестит в солнечном свете, как приманка прекрасного морского чёрта."
     }
   },
   {
@@ -218,18 +249,22 @@
       ]
     },
     "Texts": {
-      "Eng": "\"If you have been sent through time and space at an unusual rate, what do you think caused you to come here?\""
+      "Eng": "\"If you have been sent through time and space at an unusual rate, what do you think caused you to come here?\"",
+      "Rus": "\"Если ты был отправлен через время и космос с необычной скоростью, что, по твоему мнению, заставило тебя придти сюда?\""
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "\"Это удовольствие - встретить Вас, Святой Вон Лавкастл!\" - сказала она с приятной улыбкой. \"Почему, из всех мест, вы заинтересованы именно этой ещё неоткрытой библиотекой?\""
+    ],
     "Files": {
       "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
         "/scenes/question_beauty5b/text"
       ]
     },
     "Texts": {
-      "Eng": "\"It's a pleasure to meet you, Vaughn St. Lovecastle!\" she says with a pleasant smile. \"Why are you interested in this unopened library, of all places?\""
+      "Eng": "\"It's a pleasure to meet you, Vaughn St. Lovecastle!\" she says with a pleasant smile. \"Why are you interested in this unopened library, of all places?\"",
+      "Rus": "\"Рада знакомству с вами, Вон Сент-Лавкасл!\" - говорит она, мило улыбаясь. \"Эта библиотека ещё даже не открылась. Почему, из всех мест, вы заинтересовались именно ею?\""
     }
   },
   {
@@ -240,7 +275,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"Lone Octopus, hesong fatigued, because his crush, is out of his league.\""
+      "Eng": "\"Lone Octopus, hesong fatigued, because his crush, is out of his league.\"",
+      "Rus": ""
     }
   },
   {
@@ -251,7 +287,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"Lone Octopus, you can't just wait, put in some effort, if you want to date.\""
+      "Eng": "\"Lone Octopus, you can't just wait, put in some effort, if you want to date.\"",
+      "Rus": "\"Одинокий осьминог, ты не можешь просто ждать, добавь немного усилий, если на свидание хочешь попадать.\""
     }
   },
   {
@@ -262,7 +299,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"No-one else is supposed to be here whilst I bless the island! Why did you come here?\""
+      "Eng": "\"No-one else is supposed to be here whilst I bless the island! Why did you come here?\"",
+      "Rus": "\"Никто другой не должен быть на этом острове, пока я его благославляю! Зачем ты пришёл сюда?\""
     }
   },
   {
@@ -273,7 +311,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"No-one else is supposed to be here, though! Why did you come here?\""
+      "Eng": "\"No-one else is supposed to be here, though! Why did you come here?\"",
+      "Rus": "\"Никто другой не должен быть тут! Тем не менее, зачем ты пришёл сюда? \""
     }
   },
   {
@@ -284,7 +323,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"Okay, I think I have something...\" she says."
+      "Eng": "\"Okay, I think I have something...\" she says.",
+      "Rus": "\"Хорошо, я думаю, у меня есть что-то...\" - сказала она."
     }
   },
   {
@@ -295,18 +335,23 @@
       ]
     },
     "Texts": {
-      "Eng": "\"Perhaps it was something else?\" she says thoughtfully.."
+      "Eng": "\"Perhaps it was something else?\" she says thoughtfully..",
+      "Rus": "\"Возможно, было что-то ещё?\" - сказала она задумчиво.."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "\"Бедный одинокий осьминог! У меня есть одна песня в голове насчёт этого.\" - сказала она.",
+      "\"Бедный одинокий осьминог! У меня есть одна песня в голове насчёт этого.\" - сказала она."
+    ],
     "Files": {
       "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
         "/scenes/song5h/text"
       ]
     },
     "Texts": {
-      "Eng": "\"Poor lonely octopus! I have a song in mind just for this.\" she says."
+      "Eng": "\"Poor lonely octopus! I have a song in mind just for this.\" she says.",
+      "Rus": "\"Бедный одинокий осьминог! У меня вертится одна песня в голове по поводу этого.\" - сказала она."
     }
   },
   {
@@ -317,7 +362,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"Sad old bear, destined to roam, after the banks, repossessed his home.\""
+      "Eng": "\"Sad old bear, destined to roam, after the banks, repossessed his home.\"",
+      "Rus": ""
     }
   },
   {
@@ -328,7 +374,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"Sad old bear, it's all gone wrong, since you realised, you're just a song.\""
+      "Eng": "\"Sad old bear, it's all gone wrong, since you realised, you're just a song.\"",
+      "Rus": "\"После осознания обмана своей жизни, старый медведь одиноко загрустил, ведь оказался он всего-лишь грустной песней, и горькую слезу по ветру пустил.\""
     }
   },
   {
@@ -339,7 +386,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"So tell me,\" she begins, \" Why are you interested in this unopened library, of all places?\""
+      "Eng": "\"So tell me,\" she begins, \" Why are you interested in this unopened library, of all places?\"",
+      "Rus": "\"Итак, расскажи мне,\" - она начала - \"Почему, из всех мест, ты заинтересован именно этой неоткрытой библиотекой?\""
     }
   },
   {
@@ -350,7 +398,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"Starfish lovers, oh so sweet, how do you dance, without some feet?\""
+      "Eng": "\"Starfish lovers, oh so sweet, how do you dance, without some feet?\"",
+      "Rus": "\"Морские звёзды-любовники, как же сладки, как вы станцуете без единой ноги?\""
     }
   },
   {
@@ -361,7 +410,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"Starfish lovers, united hearts, met at the youth club, playing darts.\""
+      "Eng": "\"Starfish lovers, united hearts, met at the youth club, playing darts.\"",
+      "Rus": "\"Морские звёзды-любовники, сердца объединяя, встретились в молодёжном клубе, в дартс играя.\""
     }
   },
   {
@@ -372,7 +422,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"Talking fish, of utmost health, what makes you journey, for such wealth?\""
+      "Eng": "\"Talking fish, of utmost health, what makes you journey, for such wealth?\"",
+      "Rus": "\"Говорящая рыба, предельного благосостояния, что заставляет тебя путешествовать, ради большого состояния?\""
     }
   },
   {
@@ -383,18 +434,22 @@
       ]
     },
     "Texts": {
-      "Eng": "\"Talking fish, straight from my dreams, how can we, prevent your screams?\""
+      "Eng": "\"Talking fish, straight from my dreams, how can we, prevent your screams?\"",
+      "Rus": "\"Говорящая рыба, прямо из моих снов, как можем мы, избежать твоих выкриков?\""
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "\"Это действеительно печально! У меня в голове вертится олна песня на это счёт.\" - сказала она."
+    ],
     "Files": {
       "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
         "/scenes/song5g/text"
       ]
     },
     "Texts": {
-      "Eng": "\"That is quite tragic! I have a song in mind just for this.\" she says."
+      "Eng": "\"That is quite tragic! I have a song in mind just for this.\" she says.",
+      "Rus": "\"Это весьма печально! У меня в голове вертится олна песня на это счёт.\" - сказала она."
     }
   },
   {
@@ -405,7 +460,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"That sounds good! What kind of song should it be, then?\""
+      "Eng": "\"That sounds good! What kind of song should it be, then?\"",
+      "Rus": "\"Это звучит хорошо! Какой тогда должна быть эта песня?\""
     }
   },
   {
@@ -416,7 +472,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"That's a bit weird, we don't know either other that well!\" she responds. I barely have time to process my rejection as I feel the familiar tug of time, and everything fades."
+      "Eng": "\"That's a bit weird, we don't know either other that well!\" she responds. I barely have time to process my rejection as I feel the familiar tug of time, and everything fades.",
+      "Rus": "\"Это немного странно, мы недостаточно хорошо знаем друг друга!\" - отвечала она. У меня едва хватило времени, чтобы осознать её отказ, так как я почувствовал знакомое прикосновение времени, и всё растворилось."
     }
   },
   {
@@ -427,7 +484,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"That's cute! Where did they meet?\""
+      "Eng": "\"That's cute! Where did they meet?\"",
+      "Rus": "\"Это так изящно! Где они встретелись?\""
     }
   },
   {
@@ -438,7 +496,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"That's right!\" she says. \"Wait here, and when I'm done, you can judge if my art is worthy.\""
+      "Eng": "\"That's right!\" she says. \"Wait here, and when I'm done, you can judge if my art is worthy.\"",
+      "Rus": "\"Это правильно!\" - сказала она - \"Подожди здесь, и, когда я закончу, ты можешь оценить достойный ли мой рисунок.\""
     }
   },
   {
@@ -449,7 +508,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"The ceremony!\" she exclaims. \"But it is a ceremony of tradition, not divine power. And it is not even finished, either.\""
+      "Eng": "\"The ceremony!\" she exclaims. \"But it is a ceremony of tradition, not divine power. And it is not even finished, either.\"",
+      "Rus": ""
     }
   },
   {
@@ -460,7 +520,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"Travelled... Through time?\" she repeats, confused. \"But doesn't everyone travel through time?\""
+      "Eng": "\"Travelled... Through time?\" she repeats, confused. \"But doesn't everyone travel through time?\"",
+      "Rus": "\"Путешествовал... Через время?\" - она повторила неловко - \"Но разве не все путешествуют сквозь время?\""
     }
   },
   {
@@ -471,7 +532,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"We're all moving through time, at a rate of around 1 second per second.\" she elaborates."
+      "Eng": "\"We're all moving through time, at a rate of around 1 second per second.\" she elaborates.",
+      "Rus": "\"Мы все двигаемся во времени, со скоростью около 1 секунды в секунду.\" - заключила она."
     }
   },
   {
@@ -482,7 +544,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"Well first was the 'tribute of prayer' - next comes the 'tribute of talent', and then the 'tribute of song'.\""
+      "Eng": "\"Well first was the 'tribute of prayer' - next comes the 'tribute of talent', and then the 'tribute of song'.\"",
+      "Rus": "\"Итак, первой была 'подать мольбы', далее следует 'подать таланта', и только потом 'подать песни'.\""
     }
   },
   {
@@ -493,7 +556,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"Well of course it isn't - I was interrupted by you flailing about and screaming for help.\""
+      "Eng": "\"Well of course it isn't - I was interrupted by you flailing about and screaming for help.\"",
+      "Rus": "\"Ну, конечно же это не так, - меня прервали твои размахивания руками и крики о помощи.\""
     }
   },
   {
@@ -504,7 +568,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"Well of course it isn't - I was interrupted by you flailing about screaming for help.\""
+      "Eng": "\"Well of course it isn't - I was interrupted by you flailing about screaming for help.\"",
+      "Rus": "\"Ну, конечно же это не так, меня прервали твои размахивания c криками о помощи.\""
     }
   },
   {
@@ -515,7 +580,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"Where are my manners,\" she adds suddenly, \"I forgot to ask you your name. Who are you?\""
+      "Eng": "\"Where are my manners,\" she adds suddenly, \"I forgot to ask you your name. Who are you?\"",
+      "Rus": "\"Где мои манеры\" - добавила она внезапно - \"Я забыла спросить твоё имя. Кто ты?\""
     }
   },
   {
@@ -526,7 +592,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"Where are my manners,\" she adds suddenly, \"My name is Kasumi. And who might you be?\""
+      "Eng": "\"Where are my manners,\" she adds suddenly, \"My name is Kasumi. And who might you be?\"",
+      "Rus": "\"Где же мои манеры\" - добавила она внезапно - \"Меня зовут Касуми. А кем бы мог быть ты?\""
     }
   },
   {
@@ -537,7 +604,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"Who are you, and why are you screaming like a nerd?\" says the girl, light dancing off her beautiful, clammy skin."
+      "Eng": "\"Who are you, and why are you screaming like a nerd?\" says the girl, light dancing off her beautiful, clammy skin.",
+      "Rus": ""
     }
   },
   {
@@ -548,7 +616,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"Who are you, and why are you sneaking around?\" says the girl, light dancing off her beautiful, clammy skin."
+      "Eng": "\"Who are you, and why are you sneaking around?\" says the girl, light dancing off her beautiful, clammy skin.",
+      "Rus": ""
     }
   },
   {
@@ -559,7 +628,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"Why, thank you!\" she says with a beaming smile. "
+      "Eng": "\"Why, thank you!\" she says with a beaming smile. ",
+      "Rus": "\"Боже мой, спасибо!\" - сказала она, сияя улыбкой."
     }
   },
   {
@@ -570,7 +640,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"Yelling? Sure. In fact, I think I have something...\" she says."
+      "Eng": "\"Yelling? Sure. In fact, I think I have something...\" she says.",
+      "Rus": ""
     }
   },
   {
@@ -581,7 +652,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"Yep! Here it is!\""
+      "Eng": "\"Yep! Here it is!\"",
+      "Rus": "\"Ага! Вот и он!\""
     }
   },
   {
@@ -592,7 +664,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"You'll be able to see when I show you, riiiight now!\"."
+      "Eng": "\"You'll be able to see when I show you, riiiight now!\".",
+      "Rus": "\"Ты сможешь взглянуть, когда я покажу тебе, пряямо сейчас!\""
     }
   },
   {
@@ -603,7 +676,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"You're at the Grand Hylotl Library, which is opening one week from tonight.\" She explains."
+      "Eng": "\"You're at the Grand Hylotl Library, which is opening one week from tonight.\" She explains.",
+      "Rus": ""
     }
   },
   {
@@ -614,7 +688,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"Your story is far-fetched, Mr. Lovecastle,\" she begins, \"But you don't look or talk like anyone I've ever known. Perhaps your story is true.\""
+      "Eng": "\"Your story is far-fetched, Mr. Lovecastle,\" she begins, \"But you don't look or talk like anyone I've ever known. Perhaps your story is true.\"",
+      "Rus": ""
     }
   },
   {
@@ -625,7 +700,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\"Your story sounds insane,\" she begins, \"But you don't look or talk like anyone I've ever known. Perhaps your story is true.\""
+      "Eng": "\"Your story sounds insane,\" she begins, \"But you don't look or talk like anyone I've ever known. Perhaps your story is true.\"",
+      "Rus": ""
     }
   },
   {
@@ -637,7 +713,8 @@
       ]
     },
     "Texts": {
-      "Eng": "......"
+      "Eng": "......",
+      "Rus": "......"
     }
   },
   {
@@ -648,7 +725,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A fun song!"
+      "Eng": "A fun song!",
+      "Rus": "Весёлая песня!"
     }
   },
   {
@@ -659,7 +737,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A lovesick octopus!"
+      "Eng": "A lovesick octopus!",
+      "Rus": "Ищущий любви осьминог!"
     }
   },
   {
@@ -670,7 +749,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A romantic song!"
+      "Eng": "A romantic song!",
+      "Rus": "Романтическая песня!"
     }
   },
   {
@@ -681,7 +761,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A sad bear!"
+      "Eng": "A sad bear!",
+      "Rus": "Грустный медведь!"
     }
   },
   {
@@ -692,7 +773,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A talking fish!"
+      "Eng": "A talking fish!",
+      "Rus": "Говорящая рыба!"
     }
   },
   {
@@ -703,7 +785,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A youth club!"
+      "Eng": "A youth club!",
+      "Rus": "Молодёжный клуб!"
     }
   },
   {
@@ -715,7 +798,8 @@
       ]
     },
     "Texts": {
-      "Eng": "After what feels like a millenia, but also only maybe five or six minutes, I wake up where I began."
+      "Eng": "After what feels like a millenia, but also only maybe five or six minutes, I wake up where I began.",
+      "Rus": ""
     }
   },
   {
@@ -726,7 +810,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An alien of some kind?"
+      "Eng": "An alien of some kind?",
+      "Rus": "Чужой в каком-то роде?"
     }
   },
   {
@@ -737,7 +822,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An ethereal light suddenly fills the area as her words of power leave her lips. My stomach churns like a washing machine left out in the sun."
+      "Eng": "An ethereal light suddenly fills the area as her words of power leave her lips. My stomach churns like a washing machine left out in the sun.",
+      "Rus": ""
     }
   },
   {
@@ -748,7 +834,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An unfamiliar land, a pounding headache... I decide to approach this situation with stealth. I crouch low, making my way across the beach towards the pagoda."
+      "Eng": "An unfamiliar land, a pounding headache... I decide to approach this situation with stealth. I crouch low, making my way across the beach towards the pagoda.",
+      "Rus": ""
     }
   },
   {
@@ -759,7 +846,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Beautiful Attempt! Sakura Shrine Maiden Hearts+"
+      "Eng": "Beautiful Attempt! Sakura Shrine Maiden Hearts+",
+      "Rus": ""
     }
   },
   {
@@ -770,7 +858,8 @@
       ]
     },
     "Texts": {
-      "Eng": "But at least I'll have my games."
+      "Eng": "But at least I'll have my games.",
+      "Rus": ""
     }
   },
   {
@@ -781,7 +870,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Can I see?"
+      "Eng": "Can I see?",
+      "Rus": "Могу я взглянуть?"
     }
   },
   {
@@ -792,7 +882,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Continue Studying"
+      "Eng": "Continue Studying",
+      "Rus": "Продолжить обучаться"
     }
   },
   {
@@ -803,18 +894,22 @@
       ]
     },
     "Texts": {
-      "Eng": "Could she truly love me? Will she be able to come to the present with me? Will that cause a rift in the space-time continuum?"
+      "Eng": "Could she truly love me? Will she be able to come to the present with me? Will that cause a rift in the space-time continuum?",
+      "Rus": "Сможет ли она правда полюбить меня? Будет ли у неё возможность вернуться со мной в настоящее? Не вызовет ли это разлом в пространственно-временном континууме?"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Кричи за помощью"
+    ],
     "Files": {
       "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
         "/scenes/intro12/options/1/0"
       ]
     },
     "Texts": {
-      "Eng": "Cry for help"
+      "Eng": "Cry for help",
+      "Rus": "Кричать за помощью"
     }
   },
   {
@@ -825,7 +920,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Curiously enough, I see a letter, sticking out of the rubble. It looks old, very old. Has this always been here?"
+      "Eng": "Curiously enough, I see a letter, sticking out of the rubble. It looks old, very old. Has this always been here?",
+      "Rus": "Как это не странно, я вижу письмо, торчащее из булыжника. Оно выглядит старым, очень старым. Оно всегда было тут?"
     }
   },
   {
@@ -836,7 +932,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Find great love in the distant past"
+      "Eng": "Find great love in the distant past",
+      "Rus": "Найти прекрасную любовь в далёком прошлом"
     }
   },
   {
@@ -848,7 +945,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Give her a romantic fake name"
+      "Eng": "Give her a romantic fake name",
+      "Rus": "Назвать её романтичным псевдонимом"
     }
   },
   {
@@ -859,7 +957,8 @@
       ]
     },
     "Texts": {
-      "Eng": "He can't get a date!"
+      "Eng": "He can't get a date!",
+      "Rus": ""
     }
   },
   {
@@ -870,7 +969,8 @@
       ]
     },
     "Texts": {
-      "Eng": "He doesn't exist!"
+      "Eng": "He doesn't exist!",
+      "Rus": "Он не существует!"
     }
   },
   {
@@ -881,7 +981,8 @@
       ]
     },
     "Texts": {
-      "Eng": "He loves a Hylotl!"
+      "Eng": "He loves a Hylotl!",
+      "Rus": "Он любит хилотлов!"
     }
   },
   {
@@ -892,7 +993,8 @@
       ]
     },
     "Texts": {
-      "Eng": "His house is being foreclosed!"
+      "Eng": "His house is being foreclosed!",
+      "Rus": "Его дом лишён права пользования!"
     }
   },
   {
@@ -903,7 +1005,8 @@
       ]
     },
     "Texts": {
-      "Eng": "However, the thoughts of Air Hockey have gripped me once more. But my studies cannot be ignored..."
+      "Eng": "However, the thoughts of Air Hockey have gripped me once more. But my studies cannot be ignored...",
+      "Rus": ""
     }
   },
   {
@@ -914,7 +1017,8 @@
       ]
     },
     "Texts": {
-      "Eng": "However, who instead greets me is a beautiful girl, dressed in strange ceremonial robes. Grasped in her hands is a pink staff."
+      "Eng": "However, who instead greets me is a beautiful girl, dressed in strange ceremonial robes. Grasped in her hands is a pink staff.",
+      "Rus": ""
     }
   },
   {
@@ -925,7 +1029,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I am not on fire, but that doesn't give me much reassurance. The place I am in is almost entirely unfamiliar."
+      "Eng": "I am not on fire, but that doesn't give me much reassurance. The place I am in is almost entirely unfamiliar.",
+      "Rus": ""
     }
   },
   {
@@ -936,7 +1041,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I am on the shore of a small island, in the center of which is a grand pagoda. A sun sets above me. It is clear to me that I must plan my next move very carefully..."
+      "Eng": "I am on the shore of a small island, in the center of which is a grand pagoda. A sun sets above me. It is clear to me that I must plan my next move very carefully...",
+      "Rus": ""
     }
   },
   {
@@ -947,7 +1053,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I ask her what she means."
+      "Eng": "I ask her what she means.",
+      "Rus": "Я спросил её о том, что она имеет ввиду."
     }
   },
   {
@@ -959,7 +1066,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I ask her why her ceremony wasn't complete."
+      "Eng": "I ask her why her ceremony wasn't complete.",
+      "Rus": "Я спросил её о том, почему церемония не была закончена."
     }
   },
   {
@@ -970,7 +1078,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I cannot tell if this beautiful girl is a genius or insane."
+      "Eng": "I cannot tell if this beautiful girl is a genius or insane.",
+      "Rus": ""
     }
   },
   {
@@ -981,7 +1090,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I collapse to the ground sobbing, next to the destroyed table. It was too real - Kasumi can't just be a dream, can she?"
+      "Eng": "I collapse to the ground sobbing, next to the destroyed table. It was too real - Kasumi can't just be a dream, can she?",
+      "Rus": ""
     }
   },
   {
@@ -992,7 +1102,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I could never destroy this Hockey table. Beautiful shrine maidens may come and go..."
+      "Eng": "I could never destroy this Hockey table. Beautiful shrine maidens may come and go...",
+      "Rus": ""
     }
   },
   {
@@ -1003,7 +1114,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I cry out in a dramatic and wimpering rage. This Hockey table is nothing compared to love. In my anger, I attempt to flip the table, but my weak arms fail me."
+      "Eng": "I cry out in a dramatic and wimpering rage. This Hockey table is nothing compared to love. In my anger, I attempt to flip the table, but my weak arms fail me.",
+      "Rus": ""
     }
   },
   {
@@ -1014,7 +1126,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I cry out in a dramatic and wimpering rage. This Hockey table is nothing compared to love. In my anger, I flip the table over, sending it crashing to the ground."
+      "Eng": "I cry out in a dramatic and wimpering rage. This Hockey table is nothing compared to love. In my anger, I flip the table over, sending it crashing to the ground.",
+      "Rus": ""
     }
   },
   {
@@ -1025,7 +1138,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I figure that I may have upset her, and desperately think of a way to move the conversation forward."
+      "Eng": "I figure that I may have upset her, and desperately think of a way to move the conversation forward.",
+      "Rus": ""
     }
   },
   {
@@ -1036,7 +1150,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I find myself at the campus arcade, my three eyes staring at the beauty I see before me. We meet again, friend."
+      "Eng": "I find myself at the campus arcade, my three eyes staring at the beauty I see before me. We meet again, friend.",
+      "Rus": ""
     }
   },
   {
@@ -1047,7 +1162,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I have a short time go gather my thoughts."
+      "Eng": "I have a short time go gather my thoughts.",
+      "Rus": ""
     }
   },
   {
@@ -1058,7 +1174,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I have precious seconds left. I may fail at winning her love, but I must make an attempt! A BEAUTIFUL ATTEMPT!"
+      "Eng": "I have precious seconds left. I may fail at winning her love, but I must make an attempt! A BEAUTIFUL ATTEMPT!",
+      "Rus": ""
     }
   },
   {
@@ -1069,7 +1186,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I hear voices! I hide behind a nearby post. The architecture is all Hylotl, so at least my chances of being in Floran territory seems low."
+      "Eng": "I hear voices! I hide behind a nearby post. The architecture is all Hylotl, so at least my chances of being in Floran territory seems low.",
+      "Rus": ""
     }
   },
   {
@@ -1080,7 +1198,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I leave my dormitory quietly, remaining careful not to let my excitement overwhelm me and cause me to involuntarily yell out 'air hockey!', like the last time I snuck out."
+      "Eng": "I leave my dormitory quietly, remaining careful not to let my excitement overwhelm me and cause me to involuntarily yell out 'air hockey!', like the last time I snuck out.",
+      "Rus": ""
     }
   },
   {
@@ -1091,7 +1210,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I lift out the letter. Everything comes down to this."
+      "Eng": "I lift out the letter. Everything comes down to this.",
+      "Rus": ""
     }
   },
   {
@@ -1102,7 +1222,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I love you!"
+      "Eng": "I love you!",
+      "Rus": "Я люблю тебя!"
     }
   },
   {
@@ -1113,7 +1234,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I never hear her reply, as time pulls me away into the dark void of nothingness once more."
+      "Eng": "I never hear her reply, as time pulls me away into the dark void of nothingness once more.",
+      "Rus": ""
     }
   },
   {
@@ -1124,7 +1246,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I open the envelope, my heart racing. Perhaps the letter from Kasumi will instruct me how to return to her time so we can resume our fated love?"
+      "Eng": "I open the envelope, my heart racing. Perhaps the letter from Kasumi will instruct me how to return to her time so we can resume our fated love?",
+      "Rus": ""
     }
   },
   {
@@ -1135,7 +1258,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I panic and start yelling. I'm sure I will draw the attention of a helpful authority figure who will help me in my predicament."
+      "Eng": "I panic and start yelling. I'm sure I will draw the attention of a helpful authority figure who will help me in my predicament.",
+      "Rus": ""
     }
   },
   {
@@ -1146,7 +1270,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I place the puck on the table, savouring the moment. My heart skips a beat... But something feels wrong."
+      "Eng": "I place the puck on the table, savouring the moment. My heart skips a beat... But something feels wrong.",
+      "Rus": ""
     }
   },
   {
@@ -1157,7 +1282,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I ponder my tribulations so far, but as I do so, Kasumi returns with a rolled up scroll."
+      "Eng": "I ponder my tribulations so far, but as I do so, Kasumi returns with a rolled up scroll.",
+      "Rus": ""
     }
   },
   {
@@ -1168,7 +1294,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I question if Kasumi has literally ever seen a duck, or even heard a second-hand description of one."
+      "Eng": "I question if Kasumi has literally ever seen a duck, or even heard a second-hand description of one.",
+      "Rus": ""
     }
   },
   {
@@ -1179,7 +1306,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I quickly explain to Kasumi that in my era, the library is open."
+      "Eng": "I quickly explain to Kasumi that in my era, the library is open.",
+      "Rus": "Я быстро объяснил Касуми, что в моей эре, библиотека открыта."
     }
   },
   {
@@ -1190,7 +1318,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I suddenly feel the crushing weight of how serious my circumstances have become."
+      "Eng": "I suddenly feel the crushing weight of how serious my circumstances have become.",
+      "Rus": ""
     }
   },
   {
@@ -1201,7 +1330,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I tend to my studies again, but soon the slippery tendrils of desire grasp my subconscious, and I am drawn to the table as if possessed by a spirit of raw aspiration."
+      "Eng": "I tend to my studies again, but soon the slippery tendrils of desire grasp my subconscious, and I am drawn to the table as if possessed by a spirit of raw aspiration.",
+      "Rus": ""
     }
   },
   {
@@ -1212,7 +1342,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I tersely avoid the subject of my name's embarassing origin."
+      "Eng": "I tersely avoid the subject of my name's embarassing origin.",
+      "Rus": ""
     }
   },
   {
@@ -1223,7 +1354,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I turn back to her. \"Well?\" she asks. \"What do you think?\""
+      "Eng": "I turn back to her. \"Well?\" she asks. \"What do you think?\"",
+      "Rus": "Я вернулся к ней. \"Ну?\" - она спросила - \"Что ты думаешь?\""
     }
   },
   {
@@ -1235,7 +1367,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I was sent through time!"
+      "Eng": "I was sent through time!",
+      "Rus": "Я был послан сквозь время!"
     }
   },
   {
@@ -1246,7 +1379,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I'm pretty sure no"
+      "Eng": "I'm pretty sure no",
+      "Rus": ""
     }
   },
   {
@@ -1264,7 +1398,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Is that it?"
+      "Eng": "Is that it?",
+      "Rus": "Это оно?"
     }
   },
   {
@@ -1275,7 +1410,8 @@
       ]
     },
     "Texts": {
-      "Eng": "It's beautiful!"
+      "Eng": "It's beautiful!",
+      "Rus": "Это прекрасно!"
     }
   },
   {
@@ -1286,7 +1422,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Just yelling at everyone!"
+      "Eng": "Just yelling at everyone!",
+      "Rus": ""
     }
   },
   {
@@ -1297,7 +1434,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Kasumi leaves for the beach, opening a chest of calligraphy brushes. I sit awkwardly on the steps of the pagoda entrance, watching her from a short distance."
+      "Eng": "Kasumi leaves for the beach, opening a chest of calligraphy brushes. I sit awkwardly on the steps of the pagoda entrance, watching her from a short distance.",
+      "Rus": ""
     }
   },
   {
@@ -1309,7 +1447,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Kasumi's poem echoes in my head, guiding me through the darkness. I feel like a fish on a lead. In the dark."
+      "Eng": "Kasumi's poem echoes in my head, guiding me through the darkness. I feel like a fish on a lead. In the dark.",
+      "Rus": ""
     }
   },
   {
@@ -1320,7 +1459,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Knowledge is important, I reason, but skill at a lesser known low-friction competitive game is something that will stay with me forever."
+      "Eng": "Knowledge is important, I reason, but skill at a lesser known low-friction competitive game is something that will stay with me forever.",
+      "Rus": ""
     }
   },
   {
@@ -1331,7 +1471,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Life sure is quiet for me, an unassuming hard-working Hylotl teenage boy at boarding school. Like a discarded plastic bag floating down river, I sometimes feel as if I simply drift through life."
+      "Eng": "Life sure is quiet for me, an unassuming hard-working Hylotl teenage boy at boarding school. Like a discarded plastic bag floating down river, I sometimes feel as if I simply drift through life.",
+      "Rus": ""
     }
   },
   {
@@ -1342,7 +1483,8 @@
       ]
     },
     "Texts": {
-      "Eng": "My heart races and I feel the world spinning. I reach out but my hands find no solace. I feel like a beached whale, except the beach I'm on is travelling... Travelling through time!"
+      "Eng": "My heart races and I feel the world spinning. I reach out but my hands find no solace. I feel like a beached whale, except the beach I'm on is travelling... Travelling through time!",
+      "Rus": ""
     }
   },
   {
@@ -1353,7 +1495,8 @@
       ]
     },
     "Texts": {
-      "Eng": "My only solace is my incredible and unwavering finesse at Air Hockey. Sure, it isn't exactly the most popular game in the universe, but that lets me carve out a niche skill."
+      "Eng": "My only solace is my incredible and unwavering finesse at Air Hockey. Sure, it isn't exactly the most popular game in the universe, but that lets me carve out a niche skill.",
+      "Rus": ""
     }
   },
   {
@@ -1364,7 +1507,8 @@
       ]
     },
     "Texts": {
-      "Eng": "My vision slowly returns to me, and I feel warm sand beneath my hands and feet. Am I on a planet's surface? Is that the sun I feel upon me, or perhaps I am merely on fire?"
+      "Eng": "My vision slowly returns to me, and I feel warm sand beneath my hands and feet. Am I on a planet's surface? Is that the sun I feel upon me, or perhaps I am merely on fire?",
+      "Rus": ""
     }
   },
   {
@@ -1375,7 +1519,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Never forget me!"
+      "Eng": "Never forget me!",
+      "Rus": "Никогда не забудь меня!"
     }
   },
   {
@@ -1386,7 +1531,8 @@
       ]
     },
     "Texts": {
-      "Eng": "No it's Air Hockey"
+      "Eng": "No it's Air Hockey",
+      "Rus": "Нет, это аэрохоккей"
     }
   },
   {
@@ -1397,7 +1543,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Not really, no"
+      "Eng": "Not really, no",
+      "Rus": "Нет, не совсем"
     }
   },
   {
@@ -1408,18 +1555,22 @@
       ]
     },
     "Texts": {
-      "Eng": "Of course I've heard of it, it is a famous historical site, yet right now it hasn't even opened yet! THAT is why I knew I have been sent to the past!"
+      "Eng": "Of course I've heard of it, it is a famous historical site, yet right now it hasn't even opened yet! THAT is why I knew I have been sent to the past!",
+      "Rus": ""
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Открой письмо"
+    ],
     "Files": {
       "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
         "/scenes/goodEnding5/options/0/0"
       ]
     },
     "Texts": {
-      "Eng": "Open the letter"
+      "Eng": "Open the letter",
+      "Rus": "Открыть письмо"
     }
   },
   {
@@ -1430,7 +1581,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Outside the entrance to the pagoda, I see a girl, kneeling in the sand. I gasp, unable to steel myself, and she turns to see me!"
+      "Eng": "Outside the entrance to the pagoda, I see a girl, kneeling in the sand. I gasp, unable to steel myself, and she turns to see me!",
+      "Rus": ""
     }
   },
   {
@@ -1441,7 +1593,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Paint?"
+      "Eng": "Paint?",
+      "Rus": ""
     }
   },
   {
@@ -1452,7 +1605,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Practice Air Hockey"
+      "Eng": "Practice Air Hockey",
+      "Rus": ""
     }
   },
   {
@@ -1463,7 +1617,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Presently I am in my school dormitory, studying. I am slowly working my way through a textbook titled 'The Art of Hylotl Passive-Aggressiveness'."
+      "Eng": "Presently I am in my school dormitory, studying. I am slowly working my way through a textbook titled 'The Art of Hylotl Passive-Aggressiveness'.",
+      "Rus": ""
     }
   },
   {
@@ -1474,7 +1629,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Searching for gold!"
+      "Eng": "Searching for gold!",
+      "Rus": ""
     }
   },
   {
@@ -1485,7 +1641,8 @@
       ]
     },
     "Texts": {
-      "Eng": "She doesn't know what Air Hockey is."
+      "Eng": "She doesn't know what Air Hockey is.",
+      "Rus": "Она не знает, что такое аэрохокей."
     }
   },
   {
@@ -1496,7 +1653,8 @@
       ]
     },
     "Texts": {
-      "Eng": "She giggles. \"No, silly, it's a duck!\""
+      "Eng": "She giggles. \"No, silly, it's a duck!\"",
+      "Rus": ""
     }
   },
   {
@@ -1507,7 +1665,8 @@
       ]
     },
     "Texts": {
-      "Eng": "She ignores me entirely, contemplating for a moment before her face lights up."
+      "Eng": "She ignores me entirely, contemplating for a moment before her face lights up.",
+      "Rus": ""
     }
   },
   {
@@ -1518,7 +1677,8 @@
       ]
     },
     "Texts": {
-      "Eng": "She is taken aback by the abruptness of my statement. I panic, wondering why that would be one of the first things I would say to a girl."
+      "Eng": "She is taken aback by the abruptness of my statement. I panic, wondering why that would be one of the first things I would say to a girl.",
+      "Rus": ""
     }
   },
   {
@@ -1529,7 +1689,8 @@
       ]
     },
     "Texts": {
-      "Eng": "She nods. \"I have to come up with a song that will cleanse the land of uncivility. But I will need help coming up with ideas...\""
+      "Eng": "She nods. \"I have to come up with a song that will cleanse the land of uncivility. But I will need help coming up with ideas...\"",
+      "Rus": ""
     }
   },
   {
@@ -1540,7 +1701,8 @@
       ]
     },
     "Texts": {
-      "Eng": "She presents the scroll to me."
+      "Eng": "She presents the scroll to me.",
+      "Rus": ""
     }
   },
   {
@@ -1551,7 +1713,8 @@
       ]
     },
     "Texts": {
-      "Eng": "She replies, \"Well I'm afraid you've come to the wrong place, because the Grand Hylotl Library isn't open to the public just yet.\""
+      "Eng": "She replies, \"Well I'm afraid you've come to the wrong place, because the Grand Hylotl Library isn't open to the public just yet.\"",
+      "Rus": ""
     }
   },
   {
@@ -1562,7 +1725,8 @@
       ]
     },
     "Texts": {
-      "Eng": "She smiles, saying, \"I am an artist. I must paint for the ritual!\""
+      "Eng": "She smiles, saying, \"I am an artist. I must paint for the ritual!\"",
+      "Rus": ""
     }
   },
   {
@@ -1573,7 +1737,8 @@
       ]
     },
     "Texts": {
-      "Eng": "She thinks my name is Vaughn St. Lovecastle. If we are truly destined for one another, would she appreciate my true name? Could she ever?"
+      "Eng": "She thinks my name is Vaughn St. Lovecastle. If we are truly destined for one another, would she appreciate my true name? Could she ever?",
+      "Rus": ""
     }
   },
   {
@@ -1584,7 +1749,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Sneak around"
+      "Eng": "Sneak around",
+      "Rus": "Спрятаться"
     }
   },
   {
@@ -1596,7 +1762,8 @@
       ]
     },
     "Texts": {
-      "Eng": "So is the 'Tribute of song' next?"
+      "Eng": "So is the 'Tribute of song' next?",
+      "Rus": "То есть 'подать песни' следующая?"
     }
   },
   {
@@ -1607,7 +1774,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Some sort of dog?"
+      "Eng": "Some sort of dog?",
+      "Rus": ""
     }
   },
   {
@@ -1618,7 +1786,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Starfish, in love!"
+      "Eng": "Starfish, in love!",
+      "Rus": "Влюблённая морская звезда!"
     }
   },
   {
@@ -1629,7 +1798,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Still on my knees, I eagerly peel away at the wax seal, careful not to tear the paper. Will this be a letter from Kasumi, confessing her love?"
+      "Eng": "Still on my knees, I eagerly peel away at the wax seal, careful not to tear the paper. Will this be a letter from Kasumi, confessing her love?",
+      "Rus": ""
     }
   },
   {
@@ -1641,7 +1811,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Tell her your name"
+      "Eng": "Tell her your name",
+      "Rus": "Сказать ей своё имя"
     }
   },
   {
@@ -1652,18 +1823,22 @@
       ]
     },
     "Texts": {
-      "Eng": "The Hockey table... A beautiful smooth surface, perforated and varnished. It is the stone tablet upon which I enscribe my will, and the hockey paddle but a chisel of beautiful showmanship!"
+      "Eng": "The Hockey table... A beautiful smooth surface, perforated and varnished. It is the stone tablet upon which I enscribe my will, and the hockey paddle but a chisel of beautiful showmanship!",
+      "Rus": ""
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Сила аэрохоккея"
+    ],
     "Files": {
       "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
         "/scenes/pagoda5/options/1/0"
       ]
     },
     "Texts": {
-      "Eng": "The Power of Air Hockey"
+      "Eng": "The Power of Air Hockey",
+      "Rus": "Сила аэрохокея"
     }
   },
   {
@@ -1674,7 +1849,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The air is quiet, except for the soft lapping of waves on this mysterious beach. The ocean appears to be water, and not acid or magma. This fact calms me somewhat."
+      "Eng": "The air is quiet, except for the soft lapping of waves on this mysterious beach. The ocean appears to be water, and not acid or magma. This fact calms me somewhat.",
+      "Rus": ""
     }
   },
   {
@@ -1686,7 +1862,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The hockey table... The present day... Kasumi! I feel like fate has been snatched from me."
+      "Eng": "The hockey table... The present day... Kasumi! I feel like fate has been snatched from me.",
+      "Rus": ""
     }
   },
   {
@@ -1697,7 +1874,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The library... The Grand Hylotl Library!"
+      "Eng": "The library... The Grand Hylotl Library!",
+      "Rus": "Библиотека... Великая Библиотека хилотлов!"
     }
   },
   {
@@ -1708,7 +1886,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The sensation I feel is difficult to describe - like slowly waking from a dream, except the dream involves everyone who has ever lived loudly yelling at you."
+      "Eng": "The sensation I feel is difficult to describe - like slowly waking from a dream, except the dream involves everyone who has ever lived loudly yelling at you.",
+      "Rus": ""
     }
   },
   {
@@ -1719,7 +1898,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The village dance!"
+      "Eng": "The village dance!",
+      "Rus": "Деревенский танец!"
     }
   },
   {
@@ -1730,7 +1910,8 @@
       ]
     },
     "Texts": {
-      "Eng": "There probably isn't even any Air Hockey IN this era."
+      "Eng": "There probably isn't even any Air Hockey IN this era.",
+      "Rus": "Скорее всего, в ту эпоху даже близко не было аэрохокея."
     }
   },
   {
@@ -1742,7 +1923,8 @@
       ]
     },
     "Texts": {
-      "Eng": "To meet beautiful girls!"
+      "Eng": "To meet beautiful girls!",
+      "Rus": "Чтобы встретить прекрасных девушек!"
     }
   },
   {
@@ -1753,7 +1935,8 @@
       ]
     },
     "Texts": {
-      "Eng": "To think that not only is she beautiful, but that she is also a talented artist? Surely I must be in a dream, or perhaps an elaborate coma fantasy."
+      "Eng": "To think that not only is she beautiful, but that she is also a talented artist? Surely I must be in a dream, or perhaps an elaborate coma fantasy.",
+      "Rus": ""
     }
   },
   {
@@ -1764,7 +1947,8 @@
       ]
     },
     "Texts": {
-      "Eng": "What did you paint?"
+      "Eng": "What did you paint?",
+      "Rus": "Что ты нарисовала?"
     }
   },
   {
@@ -1775,7 +1959,8 @@
       ]
     },
     "Texts": {
-      "Eng": "What do you need to do?"
+      "Eng": "What do you need to do?",
+      "Rus": "Что тебе нужно делать?"
     }
   },
   {
@@ -1786,7 +1971,8 @@
       ]
     },
     "Texts": {
-      "Eng": "What is it?"
+      "Eng": "What is it?",
+      "Rus": "Что это?"
     }
   },
   {
@@ -1797,7 +1983,8 @@
       ]
     },
     "Texts": {
-      "Eng": "What is the talent?"
+      "Eng": "What is the talent?",
+      "Rus": "Что за дар?"
     }
   },
   {
@@ -1808,7 +1995,8 @@
       ]
     },
     "Texts": {
-      "Eng": "What's going on?!"
+      "Eng": "What's going on?!",
+      "Rus": "Что происходит?!"
     }
   },
   {
@@ -1820,7 +2008,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Where am I?"
+      "Eng": "Where am I?",
+      "Rus": "Где я?"
     }
   },
   {
@@ -1832,7 +2021,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Your ceremonial ritual"
+      "Eng": "Your ceremonial ritual",
+      "Rus": "Твой церемониальный ритуал"
     }
   },
   {
@@ -1843,7 +2033,8 @@
       ]
     },
     "Texts": {
-      "Eng": "[This story was written by a diverse team of talented Hylotl Scholars. The creative team are not responsible for any heartbreak or infatuation with fictional characters that may develop from playing this game.]"
+      "Eng": "[This story was written by a diverse team of talented Hylotl Scholars. The creative team are not responsible for any heartbreak or infatuation with fictional characters that may develop from playing this game.]",
+      "Rus": "[Эта история была написана многообразной командой талантливых учёных хилотлов. Креативная команда не несёт ответственности за несчастья или внушённую страсть к вымышленным персонажам, которые могут появится во время игры.]"
     }
   }
 ]

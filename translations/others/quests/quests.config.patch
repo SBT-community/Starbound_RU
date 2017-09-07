@@ -36,6 +36,21 @@
   },
   {
     "op": "add",
+    "path": "/pronouns/male/verb4Ending",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/neutral/verb4Ending",
+    "value": ""
+  },
+    {
+    "op": "add",
+    "path": "/pronouns/female/verb4Ending",
+    "value": "ла"
+  },
+  {
+    "op": "add",
     "path": "/pronouns/male/verb3Ending",
     "value": "ся"
   },
@@ -73,5 +88,35 @@
     "op": "add",
     "path": "/pronouns/neutral/adj2Ending",
     "value": "ый"
+  },
+    {
+    "op": "add",
+    "path": "/pronouns/female/adj3Ending",
+    "value": "ая"
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/male/adj3Ending",
+    "value": "ий"
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/neutral/adj3Ending",
+    "value": "ий"
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/female/adj4Ending",
+    "value": "ой"
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/male/adj4Ending",
+    "value": "ым"
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/neutral/adj4Ending",
+    "value": "ым"
   }
 ]

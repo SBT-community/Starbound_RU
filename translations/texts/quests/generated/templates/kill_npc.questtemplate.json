@@ -489,7 +489,7 @@
     },
     "Texts": {
       "Eng": "Floran was at the ^orange;<spawnPoint>^green;<spawnPoint.direction> when Floran sssaw the famous outlaw ^orange;<adjective> <enemy.name> the <enemy>^white;. Floran can't remember why they're famous but <crimefloran>. ^green;Could you go and <requestfloran>^white;?",
-      "Rus": "Флоран был недавно у ^orange;<spawnPoint>^green;<spawnPoint.direction> и Флоран там видел извесстного бандита по имени ^orange;<enemy.name><adjective>^white;. Флоран не помнит, чем он известен, но <crimefloran>. ^green;Ты можешь пойти и <requestfloran>^white;?"
+      "Rus": "Флоран был недавно у ^orange;<spawnPoint>^green; <spawnPoint.direction> и Флоран там видел извесстного бандита по имени ^orange;<enemy.name><adjective>^white;. Флоран не помнит, чем он известен, но <crimefloran>. ^green;Ты можешь пойти и <requestfloran>^white;?"
     }
   },
   {
@@ -831,7 +831,7 @@
     },
     "Texts": {
       "Eng": "We have a <problem>! Have you heard of the outlaw ^orange;<adjective> <enemy.name> the <enemy>^white;? I've heard <enemy.pronoun.copulative> laying low nearby after <crime>. We don't need that kind of trouble around here - ^green;could you go to the ^orange;<spawnPoint>^green;<spawnPoint.direction> and <request>^white;?",
-      "Rus": "У нас <problem>! Ты слышал о бандите по имени ^orange;<enemy.name> <adjective>^white;? После того, как <crime>, <enemy.pronoun.subject> прячется где-то тут, на планете. Это опасное соседство - так что ^green;не мог бы ты пройтись до ^orange;<spawnPoint>^green;<spawnPoint.direction> и <request>^white;?"
+      "Rus": "У нас <problem>! Ты слышал о бандите по имени ^orange;<enemy.name> <adjective>^white;? После того, как <crime>, <enemy.pronoun.subject> прячется где-то тут, на планете. Это опасное соседство - так что ^green;не мог бы ты пройтись до ^orange;<spawnPoint>^green; <spawnPoint.direction> и <request>^white;?"
     }
   },
   {

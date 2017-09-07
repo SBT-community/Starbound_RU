@@ -47,6 +47,30 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "items/active/weapons/ranged/abilities/flashlight/flashlight.weaponability": [
+        "/ability/name"
+      ],
+      "items/tools/flashlight.flashlight": [
+        "/shortdescription"
+      ],
+      "items/tools/greenflashlight.flashlight": [
+        "/shortdescription"
+      ],
+      "items/tools/redflashlight.flashlight": [
+        "/shortdescription"
+      ],
+      "items/tools/yellowflashlight.flashlight": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flashlight",
+      "Rus": "Фонарик"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "items/armors/biome/swamp/froggsuit/frogg.legs": [
         "/shortdescription"
       ],
@@ -57,6 +81,21 @@
     "Texts": {
       "Eng": "Frogg Legs",
       "Rus": "Ноги Фрогга"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/abilities/grenadelauncher/grenadelauncher.weaponability": [
+        "/ability/name"
+      ],
+      "items/categories.config": [
+        "/labels/grenadeLauncher"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grenade Launcher",
+      "Rus": "Гранатомет"
     }
   }
 ]

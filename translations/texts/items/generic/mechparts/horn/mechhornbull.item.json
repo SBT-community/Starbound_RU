@@ -7,18 +7,22 @@
       ]
     },
     "Texts": {
-      "Eng": "Bull Mech Horn"
+      "Eng": "Bull Mech Horn",
+      "Rus": "Гудок меха-быка"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Кто захочет брать быка за рога, когда можно самому стать быком?"
+    ],
     "Files": {
       "items/generic/mechparts/horn/mechhornbull.item": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "Why simply grab the bull by the horns, when you can BE the bull?"
+      "Eng": "Why simply grab the bull by the horns, when you can BE the bull?",
+      "Rus": "Зачем просто брать быка за рога, когда вы можете СТАТЬ быком?"
     }
   }
 ]

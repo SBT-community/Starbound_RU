@@ -61,7 +61,7 @@
     },
     "Texts": {
       "Eng": "Acquire <item> from <target>",
-      "Rus": "<target> долж<target.pronoun.verb2Ending> отдать предмет (<item>)"
+      "Rus": "<target> долж<target.pronoun.verb2Ending> отдать <item.reflexive>"
     }
   },
   {
@@ -76,7 +76,7 @@
     },
     "Texts": {
       "Eng": "Boss, I hid the treasure in the <treasureLocation><treasureLocation.direction>",
-      "Rus": "Босс, сокровища спрятаны около <treasureLocation> <treasureLocation.direction>"
+      "Rus": "Босс, сокровища спрятаны около <treasureLocation><treasureLocation.direction>"
     }
   },
   {
@@ -144,7 +144,7 @@
     },
     "Texts": {
       "Eng": "Give <gift> to <target>",
-      "Rus": "<target> ждёт подарок (<gift>)"
+      "Rus": "<target> долж<target.pronoun.verb2Ending> получить <gift.reflexive> в подарок"
     }
   },
   {
@@ -161,7 +161,7 @@
     },
     "Texts": {
       "Eng": "Give <tradedItems> to <target>",
-      "Rus": "<target> ждёт предметы (<tradedItems>)"
+      "Rus": "<target> ждёт <tradedItems.reflexive>"
     }
   },
   {
@@ -194,7 +194,7 @@
     },
     "Texts": {
       "Eng": "I'll sleep better knowing you've made it a little safer around here!",
-      "Rus": "Я буду спать спокойней, зная что ты смог обезопасить это место!"
+      "Rus": "Я буду спать спокойней, зная что ты смог<player.pronoun.verb4Ending> обезопасить это место!"
     }
   },
   {
@@ -300,7 +300,7 @@
     },
     "Texts": {
       "Eng": "Note to self: don't forget the loot left at <treasureLocation><treasureLocation.direction>",
-      "Rus": "Не забыть: тайник у <treasureLocation> <treasureLocation.direction>"
+      "Rus": "Не забыть: тайник у <treasureLocation><treasureLocation.direction>"
     }
   },
   {
@@ -461,7 +461,7 @@
     },
     "Texts": {
       "Eng": "Transfer of the loot to take place at <treasureLocation><treasureLocation.direction>",
-      "Rus": "Добыча спрятана близ <treasureLocation> <treasureLocation.direction>"
+      "Rus": "Добыча спрятана близ <treasureLocation><treasureLocation.direction>"
     }
   },
   {

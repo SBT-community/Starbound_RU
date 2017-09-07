@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<target> is always reliable, and so are you! Thank you for your assistance."
+      "Eng": "<target> is always reliable, and so are you! Thank you for your assistance.",
+      "Rus": "<target> всегда надёж<target.pronoun.verb2Ending>, как и ты! Спасибо за помощь."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Firssst, Floran needs you to ^green;get a shiny ^orange;<item>. ^white;Floran thinksss ^orange;<target> ^green;will have one."
+      "Eng": "Firssst, Floran needs you to ^green;get a shiny ^orange;<item>. ^white;Floran thinksss ^orange;<target> ^green;will have one.",
+      "Rus": "Сссначала, Флорану нужно, чтобы ты ^green;добыл<player.pronoun.verbEnding> блестяшшшку — ^orange;<item>. ^white;Флоран думает, что ^orange;<target> ^green;как раз хранит такую."
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "First ^green;I shall need one ^orange;<item>^white;, and I know that ^orange;<target>^white; currently owns one. ^green;Can you ask <target.pronoun.object> to give it to us?"
+      "Eng": "First ^green;I shall need one ^orange;<item>^white;, and I know that ^orange;<target>^white; currently owns one. ^green;Can you ask <target.pronoun.object> to give it to us?",
+      "Rus": "Сначала,  ^green;мне нужно раздобыть ^orange;<item.reflexive>^white;, и я знаю, что ^orange;<target>^white; может с этим помочь. ^green;Попросишь <target.pronoun.reflexive> поделиться с нами?"
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "For the next part, Floran needss a nice ^orange;<item>. ^white;Floran heard that ^orange;<target> ^white;had one. ^green;You should ask <target.pronoun.object> for it."
+      "Eng": "For the next part, Floran needss a nice ^orange;<item>. ^white;Floran heard that ^orange;<target> ^white;had one. ^green;You should ask <target.pronoun.object> for it.",
+      "Rus": "Далее, Флорану требуется ^orange;<item>^white;. Флоран слышшшал, что ^orange;<target> ^white;имеет такую штуку. ^green;Тебе стоит попросить <target.pronoun.reflexive> отдать <item.reflexive> нам."
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I am lucky to have friends like you and <target> to help me out!"
+      "Eng": "I am lucky to have friends like you and <target> to help me out!",
+      "Rus": "А мне повезло иметь таких друзей как <target> и ты!"
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I knew that <target> would be willing to help me. Thank you for your assistance!"
+      "Eng": "I knew that <target> would be willing to help me. Thank you for your assistance!",
+      "Rus": "Я знал<questGiver.pronoun.verbEnding>, что <target> не откажется помочь. Спасибо за помощь."
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Next, Floran heard that ^orange;<target> ^white;hass a nice ^orange;<item>. ^white;Could you ^green;collect it for Floran^white;, pleasse?"
+      "Eng": "Next, Floran heard that ^orange;<target> ^white;hass a nice ^orange;<item>. ^white;Could you ^green;collect it for Floran^white;, pleasse?",
+      "Rus": "Дальше, Флоран слышал, что ^orange;<target> ^white;заполучил<target.pronoun.verbEnding> ^orange;<item.reflexive>. ^white;Можешь ^green;принести эту штуку флорану^white;?"
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Next, I need you to ^green;retreive my ^orange;<item>^white;. I loaned it to ^orange;<target>^white; last week, ^green;could you ask for it back?^white;  We're going to need it for the next phase of my plan."
+      "Eng": "Next, I need you to ^green;retreive my ^orange;<item>^white;. I loaned it to ^orange;<target>^white; last week, ^green;could you ask for it back?^white;  We're going to need it for the next phase of my plan.",
+      "Rus": "Теперь мне нужно, чтобы ты вернул<player.pronoun.verbEnding> ^orange;<item.reflexive>^white;, что я одолжил<questGiver.pronoun.verbEnding> кому-то на прошлой неделе. Вроде это был<target.pronoun.verbEnding> ^orange;<target>^white;. ^green;Не попросишь <target.pronoun.reflexive> вернуть <item.reflexive> назад?^white; Похоже без этого не обойтись для исполнения следующей части моего плана."
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Next, ^green;I have need of ^orange;<target>'s <item>^white;. I'm positive that if you asked <target.pronoun.object> nicely, <target.pronoun.subject>'d give it to us. ^green;You should speak to <target.pronoun.object>."
+      "Eng": "Next, ^green;I have need of ^orange;<target>'s <item>^white;. I'm positive that if you asked <target.pronoun.object> nicely, <target.pronoun.subject>'d give it to us. ^green;You should speak to <target.pronoun.object>.",
+      "Rus": "Следующим шагом, мне требуется ^orange;<item>^white;, что хранит <target>. Думаю, если ты <target.pronoun.reflexive> вежливо попросишь, <target.pronoun.subject> не откажется поделиться с нами. ^green;Тебе стоит попробовать."
     }
   },
   {
@@ -106,7 +115,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Now I'll need you to get one ^orange;<item>. <target>^white; has the biggest collection around; if you ^green;ask nicely^white; I'm sure <target.pronoun.subject> wouldn't mind parting with just one."
+      "Eng": "Now I'll need you to get one ^orange;<item>. <target>^white; has the biggest collection around; if you ^green;ask nicely^white; I'm sure <target.pronoun.subject> wouldn't mind parting with just one.",
+      "Rus": "Теперь мне нужно раздобыть ^orange;<item.reflexive>^white;. ^orange;<target>^white; хранит много такого добра. Если ты <target.pronoun.reflexive> вежливо попросишь, я уверен<questGiver.pronoun.verbEnding>, <target.pronoun.subject> не откажет нам."
     }
   },
   {
@@ -117,7 +127,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Perfect! Floran has plansss for this <item>."
+      "Eng": "Perfect! Floran has plansss for this <item>.",
+      "Rus": "Превосходно! У флорана большие планы на <item.reflexive>."
     }
   },
   {
@@ -129,7 +140,7 @@
     },
     "Texts": {
       "Eng": "Perfect, I'll have to give <target> my thanks. This is exactly what we need.",
-      "Rus": "Идеально, надо сказать спасибо <target>. Это как раз то что нам нужно."
+      "Rus": "Идеально, <target> достоин благодарности. Это как раз то что нам нужно."
     }
   },
   {
@@ -141,7 +152,7 @@
     },
     "Texts": {
       "Eng": "Thanks for getting what we needed from <target>. Now to move things forward.",
-      "Rus": "Спасибо, что взяли то,что мне нужно у <target>. А сейчас, пора двигаться дальше."
+      "Rus": "Спасибо, что забрали то,что мне нужно. А сейчас, пора двигаться дальше."
     }
   },
   {
@@ -152,7 +163,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Thanksss! Floran knew <target> wouldn't mind."
+      "Eng": "Thanksss! Floran knew <target> wouldn't mind.",
+      "Rus": "Ссспасибо! Флоран знал, что <target> не будет возражать."
     }
   },
   {
@@ -163,7 +175,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Thanksss! Floran thinks we'll need this <item> more than <target> does."
+      "Eng": "Thanksss! Floran thinks we'll need this <item> more than <target> does.",
+      "Rus": "Ссспасибо! Флоран думает, что <target> не нуждается в вещице, в отличии от нас."
     }
   },
   {
@@ -174,7 +187,8 @@
       ]
     },
     "Texts": {
-      "Eng": "That is one good looking <item>. Thanks for picking this up."
+      "Eng": "That is one good looking <item>. Thanks for picking this up.",
+      "Rus": "<item> отлично выглядит. Спасибо, что принёс."
     }
   },
   {
@@ -185,7 +199,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The first thing I'll need is one ^orange;<item>.^white; ^orange;<target>^white; has an extra one, and owes me a favor. ^green;Could you run over to <target.pronoun.object> and pick it up?"
+      "Eng": "The first thing I'll need is one ^orange;<item>.^white; ^orange;<target>^white; has an extra one, and owes me a favor. ^green;Could you run over to <target.pronoun.object> and pick it up?",
+      "Rus": "Во-первых, мне потребуется ^orange;<item>^white;. ^orange;<target>^white; располагает излишком и, к тому же, задолжал<target.pronoun.verbEnding> мне. ^green;Можешь сбегать к н<target.pronoun.object> и попросить вернуть должок?"
     }
   },
   {
@@ -196,7 +211,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This <item> is just what I need - <target> is so kind to have provided it. And you're so kind for fetching it!"
+      "Eng": "This <item> is just what I need - <target> is so kind to have provided it. And you're so kind for fetching it!",
+      "Rus": "<item> - как раз то, что мне нужно. <target> был<target.pronoun.verbEnding> так добр<target.pronoun.verbEnding> поделиться с нами. А ты был<player.pronoun.verbEnding> так добр<player.pronoun.verbEnding> поработать курьером!"
     }
   },
   {
@@ -207,7 +223,8 @@
       ]
     },
     "Texts": {
-      "Eng": "To begin we'll need one ^orange;<item>.^white; I know ^orange;<target>^white; got a new one recently, ^green;you should ask if we can use it."
+      "Eng": "To begin we'll need one ^orange;<item>.^white; I know ^orange;<target>^white; got a new one recently, ^green;you should ask if we can use it.",
+      "Rus": "Для начала нам понадобится ^orange;<item>^white;. Я знаю, что ^orange;<target>^white; недавно приобрёл нечто похожее на <item.reflexive>. ^green;Можешь попросить <target.pronoun.reflexive> поделиться с нами."
     }
   },
   {
@@ -218,7 +235,8 @@
       ]
     },
     "Texts": {
-      "Eng": "To sstart, Floran needs a shiny ^orange;<item> ^green;from ^orange;<target>. ^green;Go asssk <target.pronoun.object> for one."
+      "Eng": "To sstart, Floran needs a shiny ^orange;<item> ^green;from ^orange;<target>. ^green;Go asssk <target.pronoun.object> for one.",
+      "Rus": "Для начала, флорану нужно раздобыть ^orange;<item.reflexive> ^green;. <target> хранил<target.pronoun.verbEnding> подобные вещи. ^green;Сссходи и попроси <target.pronoun.object> об одолжении."
     }
   },
   {
@@ -229,7 +247,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You brought Floran the <item>! <target> won't misss it."
+      "Eng": "You brought Floran the <item>! <target> won't misss it.",
+      "Rus": "Ты принёс флорану <item.reflexive>! <target> не будет скучать по такой мелочи."
     }
   },
   {
@@ -241,7 +260,7 @@
     },
     "Texts": {
       "Eng": "You got the <item> from <target>, excellent work! This next step would have been tough without it.",
-      "Rus": "Вы взяли <item> у <target>, отличная работа! Без этого, мы бы не перешли к следующему шагу."
+      "Rus": "Ты получил<player.pronoun.verbEnding> <item.reflexive>, отличная работа! Без этого, мы бы не перешли к следующему шагу."
     }
   },
   {
@@ -252,7 +271,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;I am going to need one ^orange;<item>^white;, I know that ^orange;<target>^white; owns one. ^green;I am sure <target.pronoun.subject>'ll give it to me if you ask."
+      "Eng": "^green;I am going to need one ^orange;<item>^white;, I know that ^orange;<target>^white; owns one. ^green;I am sure <target.pronoun.subject>'ll give it to me if you ask.",
+      "Rus": "Я собираюсь добыть ^orange;<item.reflexive>^white; и точно знаю где. <target> определённо держит у себя один экземпляр. Уверен<questGiver.pronoun.verbEnding>, <target.pronoun.subject> отдаст его мне, ^green;если ты попросишь"
     }
   },
   {
@@ -263,7 +283,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;I need one ^orange;<item> and know that ^orange;<target> has one. I am sure you could ^green;procure it for me if you asked <target.pronoun.object> nicely."
+      "Eng": "^green;I need one ^orange;<item> and know that ^orange;<target> has one. I am sure you could ^green;procure it for me if you asked <target.pronoun.object> nicely.",
+      "Rus": "green;Мне нужно найти ^orange;<item.reflexive>^white; и я точно знаю, что ^orange;<target> ^white; поделится такой мелочью со мной, если ты ^green;вежливо <target.pronoun.object> об этом попросишь."
     }
   }
 ]

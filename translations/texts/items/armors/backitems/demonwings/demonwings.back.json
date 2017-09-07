@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Крылья Демона"
+    ],
     "Files": {
       "items/armors/backitems/demonwings/demonwings.back": [
         "/shortdescription"
@@ -8,11 +10,13 @@
     },
     "Texts": {
       "Eng": "Demon Wings",
-      "Rus": "Крылья Демона"
+      "Rus": "Крылья демона"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Эти темные крылья выглядят внушительно и зловеще."
+    ],
     "Files": {
       "items/armors/backitems/demonwings/demonwings.back": [
         "/description"
@@ -20,7 +24,7 @@
     },
     "Texts": {
       "Eng": "These dark wings look imposing and sinister.",
-      "Rus": "Эти темные крылья выглядят внушительно и зловеще."
+      "Rus": "Эти тёмные крылья выглядят внушительно и зловеще."
     }
   }
 ]

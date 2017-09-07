@@ -152,7 +152,7 @@
     },
     "Texts": {
       "Eng": "Cooking Ingredient",
-      "Rus": "Кулинарный ингридиент"
+      "Rus": "Кулинарный ингредиент"
     }
   },
   {
@@ -224,7 +224,7 @@
     },
     "Texts": {
       "Eng": "Decorative",
-      "Rus": "Декорации"
+      "Rus": "Декорация"
     }
   },
   {
@@ -375,18 +375,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/categories.config": [
-        "/labels/grenadeLauncher"
-      ]
-    },
-    "Texts": {
-      "Eng": "Grenade Launcher",
-      "Rus": "Гранатомет"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/categories.config": [
         "/labels/hammer"
       ]
     },
@@ -489,7 +477,7 @@
     },
     "Texts": {
       "Eng": "Medicine",
-      "Rus": "Лекарства"
+      "Rus": "Медицина"
     }
   },
   {
@@ -621,7 +609,7 @@
     },
     "Texts": {
       "Eng": "Rail Platform",
-      "Rus": "Железнодорожная платформа"
+      "Rus": "Рельсовая платформа"
     }
   },
   {
@@ -633,7 +621,7 @@
     },
     "Texts": {
       "Eng": "Rail Point",
-      "Rus": "Железнодорожный пункт"
+      "Rus": "Рельсовый пункт"
     }
   },
   {
@@ -993,7 +981,7 @@
     },
     "Texts": {
       "Eng": "Wire",
-      "Rus": "Провод"
+      "Rus": "Электроника"
     }
   }
 ]

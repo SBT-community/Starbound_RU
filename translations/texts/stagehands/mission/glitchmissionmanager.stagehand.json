@@ -15,23 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "stagehands/mission/glitchmissionmanager.stagehand": [
-        "/radioMessages/additionalBallista/2",
-        "/radioMessages/bossDefeated/2",
-        "/radioMessages/finalWaveComplete/2",
-        "/radioMessages/firstAirforce/2",
-        "/radioMessages/firstBallista/2",
-        "/radioMessages/wallAttacked/2"
-      ]
-    },
-    "Texts": {
-      "Eng": "Baron",
-      "Rus": "Барон"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "stagehands/mission/glitchmissionmanager.stagehand": [
         "/radioMessages/bossDefeated/0"
       ]
     },
@@ -134,7 +117,7 @@
     },
     "Texts": {
       "Eng": "We're done here! This is pointless anyway. You haven't succeeded in stopping anything. This will all be gone soon.",
-      "Rus": "Мы здесь закончили! В любом случае это бессмысленно. Ты не смог ничего остановить. Всё это скоро исчезнет."
+      "Rus": "Мы здесь закончили! В любом случае это бессмысленно. Ты не смог<player.pronoun.verb4Ending> ничего остановить. Всё это скоро исчезнет."
     }
   }
 ]
