@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Плотный тканый плетёный материал."
+    ],
     "Files": {
       "items/materials/wickersupport.matitem": [
         "/description"
@@ -11,7 +13,7 @@
     },
     "Texts": {
       "Eng": "A tightly woven wicker material.",
-      "Rus": "Плотный тканый плетёный материал."
+      "Rus": "Материал из плотно переплетённых прутьев."
     }
   },
   {
@@ -25,7 +27,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran likess strong wicker blockss."
+      "Eng": "Floran likess strong wicker blockss.",
+      "Rus": "Флорану нравятссся блоки из крепких прутьев."
     }
   },
   {
@@ -39,7 +42,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Looks like these blocks are just some tough material all woven together."
+      "Eng": "Looks like these blocks are just some tough material all woven together.",
+      "Rus": "Эти блоки, видать, сработаны из какой-то шибко крепкой плетёнки."
     }
   },
   {
@@ -53,11 +57,14 @@
       ]
     },
     "Texts": {
-      "Eng": "This wicker material is sturdy."
+      "Eng": "This wicker material is sturdy.",
+      "Rus": "Этот плетёный материал довольно прочен."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Поддерживающий плетёный блок"
+    ],
     "Files": {
       "items/materials/wickersupport.matitem": [
         "/shortdescription"
@@ -68,7 +75,7 @@
     },
     "Texts": {
       "Eng": "Wicker Support Block",
-      "Rus": "Поддерживающий плетёный блок"
+      "Rus": "Опорный плетёный блок"
     }
   }
 ]
