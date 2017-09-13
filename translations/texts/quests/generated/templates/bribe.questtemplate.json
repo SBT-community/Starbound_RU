@@ -92,7 +92,7 @@
     },
     "Texts": {
       "Eng": "Floran hass done research and found out that ^orange;<target>^white; needs one <gift> for <target.pronoun.possessiveDet> persssonal use. Floran thinks that if we ^green;give <target.pronoun.object> our ^orange;<gift>^white;, <target.pronoun.subject>'ll help uss in return.",
-      "Rus": ""
+      "Rus": "Флоран узнал, что ^orange;<target>^white; хочет заполучить <gift.reflexive>. Флоран думает, что если мы отдадим <target.pronoun.object> <gift.possessive>, <target.pronoun.subject> поможет нам в будущщщем."
     }
   },
   {
@@ -116,7 +116,7 @@
     },
     "Texts": {
       "Eng": "Floran heard that ^orange;<target>^white; hasss been looking for a nice <gift> for a long time now. Lucky for <target.pronoun.object> we have one! If we give <target.pronoun.object> this precious ^orange;<gift>^white; Floran is sssure <target.pronoun.subject> will feel inclined to help us.",
-      "Rus": ""
+      "Rus": "Флоран слышал, что ^orange;<target>^white; очень долго ищет одну вещицу. К счастью для н<target.pronoun.reflexive>, у нас она есть! Если мы дадим <target.pronoun.object> ^orange;<gift.reflexive>^white;, то Флоран уверен, что <target.pronoun.subject> будет обязан<target.pronoun.verbEnding> помочь нам."
     }
   },
   {
@@ -140,7 +140,7 @@
     },
     "Texts": {
       "Eng": "I failed to deliver the bribe to <target>. Maybe <questGiver> should deal with <questGiver.pronoun.possessiveDet> dirty business <questGiver.pronoun.reflexive> anyway?",
-      "Rus": ""
+      "Rus": "Я не смог<player.pronoun.verb4Ending> доставить подкуп <target>. Может <questGiver> долж<questGiver.pronoun.verb2Ending> сам<questGiver.pronoun.verbEnding> разбираться со своими грязными делами?"
     }
   },
   {
@@ -307,7 +307,8 @@
       ]
     },
     "Texts": {
-      "Eng": "So you're saying that <target> took the bribe? Ok, it's Ok, I think we've done the right thing..."
+      "Eng": "So you're saying that <target> took the bribe? Ok, it's Ok, I think we've done the right thing...",
+      "Rus": ""
     }
   },
   {
@@ -318,7 +319,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Successs! <target> owes Floran a favour for being sssuch a friendly neighbour. Floran will make sure to use this favour well."
+      "Eng": "Successs! <target> owes Floran a favour for being sssuch a friendly neighbour. Floran will make sure to use this favour well.",
+      "Rus": ""
     }
   },
   {
@@ -329,7 +331,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The next thing I'd like you to do is give ^orange;<target> ^white;a very special something. ^green;I need <target.pronoun.object> to receive the ^orange;<gift>^white; in order for the plan to work."
+      "Eng": "The next thing I'd like you to do is give ^orange;<target> ^white;a very special something. ^green;I need <target.pronoun.object> to receive the ^orange;<gift>^white; in order for the plan to work.",
+      "Rus": ""
     }
   },
   {
@@ -340,7 +343,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Wow, bribery is easy! <target> owing me a favour is useful."
+      "Eng": "Wow, bribery is easy! <target> owing me a favour is useful.",
+      "Rus": ""
     }
   },
   {
@@ -351,7 +355,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Yesss, Floran is glad that <target> accepted the present. Now to figure out how to use this sssituation to our advantage..."
+      "Eng": "Yesss, Floran is glad that <target> accepted the present. Now to figure out how to use this sssituation to our advantage...",
+      "Rus": ""
     }
   },
   {
@@ -362,7 +367,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You did it! <target> owes usss big time now!"
+      "Eng": "You did it! <target> owes usss big time now!",
+      "Rus": ""
     }
   },
   {
@@ -373,7 +379,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Conspiratorial. I've been looking for a reliable way to indebt <target> to myself."
+      "Eng": "^cyan;Conspiratorial. I've been looking for a reliable way to indebt <target> to myself.",
+      "Rus": ""
     }
   },
   {
@@ -384,7 +391,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Floran wants <target> to owe us sssomething. Floran has a geniuss plan."
+      "Eng": "^cyan;Floran wants <target> to owe us sssomething. Floran has a geniuss plan.",
+      "Rus": ""
     }
   },
   {
@@ -395,7 +403,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;I want <target> to owe me a favour... I have a plan..."
+      "Eng": "^cyan;I want <target> to owe me a favour... I have a plan...",
+      "Rus": ""
     }
   },
   {
@@ -406,7 +415,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;I want to win <target>'s favour, and I have a way to make it happen..."
+      "Eng": "^cyan;I want to win <target>'s favour, and I have a way to make it happen...",
+      "Rus": ""
     }
   },
   {
@@ -417,7 +427,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;If we give <target> a present, Floran is sssure <target.pronoun.subject>'ll feel indebted to us."
+      "Eng": "^cyan;If we give <target> a present, Floran is sssure <target.pronoun.subject>'ll feel indebted to us.",
+      "Rus": ""
     }
   },
   {
@@ -428,7 +439,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Manipulative. I'd like <target> to act in my favour. Help me sweeten <target.pronoun.object> up."
+      "Eng": "^cyan;Manipulative. I'd like <target> to act in my favour. Help me sweeten <target.pronoun.object> up.",
+      "Rus": ""
     }
   }
 ]

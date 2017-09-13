@@ -804,7 +804,7 @@
                   "parry.weaponability.json": 1
                 },
                 "risingslash": {
-                  "risingslash.weaponability.json": 0
+                  "risingslash.weaponability.json": 1
                 },
                 "spinslash": {
                   "spinslash.weaponability.json": 1,
@@ -1088,7 +1088,7 @@
                 "rocketburst.weaponability.json": 0
               },
               "shrapnelbomb": {
-                "shrapnelbomb.weaponability.json": 0
+                "shrapnelbomb.weaponability.json": 1
               },
               "sparkles": {
                 "sparkles.weaponability.json": 0
@@ -1194,13 +1194,13 @@
                 "plasmabladebarrage.weaponability.json": 0
               },
               "effectzone": {
-                "energyzone.weaponability.json": 0,
-                "forcecage.weaponability.json": 0,
+                "energyzone.weaponability.json": 1,
+                "forcecage.weaponability.json": 1,
                 "healingzone.weaponability.json": 1,
-                "kluexzone.weaponability.json": 0,
+                "kluexzone.weaponability.json": 1,
                 "lowgravzone.weaponability.json": 1,
-                "pullzone.weaponability.json": 0,
-                "pushzone.weaponability.json": 0,
+                "pullzone.weaponability.json": 1,
+                "pushzone.weaponability.json": 1,
                 "slowzone.weaponability.json": 1
               },
               "guidedbolt": {
@@ -3931,12 +3931,12 @@
       "shared_sandstone.json": 4,
       "shared_sandstoneblock.mat.json": 5,
       "shared_sewage.mat.json": 5,
-      "shared_sewerpipe.mat.json": 2,
-      "shared_shadowblock.mat.json": 2,
-      "shared_shadowspikeblock.mat.json": 3,
-      "shared_shadowwallblock.mat.json": 2,
-      "shared_shojiscreenpanel.mat.json": 2,
-      "shared_shroomblock.mat.json": 2,
+      "shared_sewerpipe.mat.json": 5,
+      "shared_shadowblock.mat.json": 5,
+      "shared_shadowspikeblock.mat.json": 5,
+      "shared_shadowwallblock.mat.json": 5,
+      "shared_shojiscreenpanel.mat.json": 5,
+      "shared_shroomblock.mat.json": 5,
       "shared_silverblock.mat.json": 5,
       "shared_silverscrew.mat.json": 5,
       "shared_slime.mat.json": 5,
@@ -3947,13 +3947,13 @@
       "shared_slush.mat.json": 5,
       "shared_smoothmetal.mat.json": 5,
       "shared_snow.mat.json": 4,
-      "shared_spidersilkblock.mat.json": 2,
+      "shared_spidersilkblock.mat.json": 5,
       "shared_stomachblock.mat.json": 5,
-      "shared_stonerubble.mat.json": 2,
+      "shared_stonerubble.mat.json": 5,
       "shared_stonetiles.mat.json": 5,
       "shared_supermatter.mat.json": 5,
       "shared_tar.mat.json": 4,
-      "shared_techhull1.mat.json": 3,
+      "shared_techhull1.mat.json": 5,
       "shared_temple1.mat.json": 4,
       "shared_temple2.mat.json": 4,
       "shared_temple3.mat.json": 5,
@@ -3962,17 +3962,17 @@
       "shared_tentaclepipe.mat.json": 5,
       "shared_thatch.mat.json": 5,
       "shared_tombbrick.mat.json": 5,
-      "shared_tombbrick2.mat.json": 2,
-      "shared_tombbrick3.mat.json": 2,
-      "shared_tombbrick4.mat.json": 3,
-      "shared_tombbrick5.mat.json": 2,
+      "shared_tombbrick2.mat.json": 4,
+      "shared_tombbrick3.mat.json": 5,
+      "shared_tombbrick4.mat.json": 5,
+      "shared_tombbrick5.mat.json": 5,
       "shared_treasurehoard.mat.json": 5,
       "shared_vine.mat.json": 5,
       "shared_wallpaper.mat.json": 5,
       "shared_waste.mat.json": 5,
       "shared_wetdirt.mat.json": 5,
-      "shared_wicker.mat.json": 1,
-      "shared_wickersupport.mat.json": 2,
+      "shared_wicker.mat.json": 4,
+      "shared_wickersupport.mat.json": 5,
       "shared_woodbridge.mat.json": 5,
       "shared_woodenwindow1.mat.json": 5,
       "shared_woodenwindow2.mat.json": 5,
@@ -13244,7 +13244,7 @@
           "add_object_to_house.questtemplate.json": 23,
           "barter.questtemplate.json": 7,
           "borrow.questtemplate.json": 24,
-          "bribe.questtemplate.json": 15,
+          "bribe.questtemplate.json": 18,
           "build_home.questtemplate.json": 24,
           "capture_pet.questtemplate.json": 46,
           "collect_fine.questtemplate.json": 8,
@@ -13435,7 +13435,7 @@
       "humanmalenamegen.config.json": 123,
       "humannamegen.config.json": 13,
       "hylotl.species.json": 7,
-      "namegen.config.json": 0,
+      "namegen.config.json": 55,
       "novakid.species.json": 6,
       "novakidnamegen.config.json": 160,
       "penguin.species.json": 10,

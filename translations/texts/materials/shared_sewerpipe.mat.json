@@ -17,7 +17,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      ""
+    ],
     "Files": {
       "items/materials/sewerpipe.matitem": [
         "/novakiddescription"
@@ -27,7 +29,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Filthy, dirty lookin' sewer pipes."
+      "Eng": "Filthy, dirty lookin' sewer pipes.",
+      "Rus": "Трубы для нечистот. Выглядят гадко, смердят ещё гаже."
     }
   },
   {
@@ -56,7 +59,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Sssmelly ssewer pipess."
+      "Eng": "Sssmelly ssewer pipess.",
+      "Rus": "Вонючие сссточные трубы."
     }
   },
   {
@@ -70,7 +74,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This pipe is filthy, I would hate to see what is inside it."
+      "Eng": "This pipe is filthy, I would hate to see what is inside it.",
+      "Rus": "Эта труба очень грязная. Не хотелось бы мне видеть её содержимое."
     }
   }
 ]
