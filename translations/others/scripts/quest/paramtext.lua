@@ -111,9 +111,9 @@ local function convertToObjective(object)
     glitch = {
       newSub({"ый(.+)", "ой(.+)", "ое(.*)"}, {any = "ому%1", female = "%0"}),
       newSub({"(к)ий(.+)", "(г)ий(.+)"}, {male = "%1ому%2"}),
-      newSub("ий(.+)", {any = "ему%1"}),
-      newSub("ая(.+)", {any = "ой%1"}),
-      newSub("яя(.+)", {any = "ей%1"}),
+      newSub("ий(.+)", {male = "ему%1"}),
+      newSub("ая(.+)", {female = "ой%1"}),
+      newSub("яя(.+)", {female = "ей%1"}),
       newSub({"е", "о"}, {any = "у"}),
       newSub({"ок", "ек"}, {any = "ку"}),
       nonstop = true,
@@ -144,7 +144,7 @@ local function convertToReflexive(object)
     glitch = {
       newSub({"ый(.+)", "ой(.+)", "oe(.*)"}, {any = "ого%1", female = "%0"}),
       newSub({"(к)ий(.+)", "(г)ий(.+)"}, {male = "%1ого%2"}),
-      newSub("ий(.+)", {any = "его%1"}),
+      newSub("ий(.+)", {male = "его%1"}),
       newSub({"ок", "ек"}, {male = "ка:guard:"}),
       -- :guard: notation will be removed automatically at the end of processing
       -- it is necessary to prevent changing this ending
