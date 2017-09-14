@@ -10,58 +10,137 @@ local function getCountEnding(count)
   else return "" end
 end
 
-local function convertNameToObjective(name, gender)
-  if gender == nil then return name end
-  local consonants = {"ц", "к", "н", "ш", "щ", "з", "х", "ф", "в", "п", "р",
-                      "л", "д", "ж", "ч", "с", "м", "т", "б"}
-  local variants = {
-    [1] = {match = {"й"}, sub = {male = "ю", female = "%1"},},
-    [2] = {match = {"ия"}, sub = {male = "ие", female = "ии"},},
-    [3] = {match = {"ь"}, sub = {male = "ю", female = "и"},},
-    [4] = {match = {"а", "я"}, sub = {male = "е", female = "е"},},
-    [5] = {match = consonants, sub = {male = "%1у", female = "%1"},},
+local function newSub(match, subtable)
+  return {match = type(match) == "string" and {match} or match,
+    sub = setmetatable(subtable, {__index = function(t,k)
+      if k == "any" then return end
+      if t.any then return t.any end
+      if k == "neutral" and t.male then return t.male end
+      return "%0"
+    end})
   }
-  local result, count = name, 0
-  for i = 1, #variants, 1 do
-    for _, pat in pairs(variants[i].match) do
-      result, count = name:gsub("("..pat..")$", variants[i].sub[gender])
-      if count > 0 then return result end
+end
+
+local function iterateRules(rules, matcher)
+  assert(type(rules) == "table")
+  assert(type(matcher) == "function")
+  for i = 1, #rules do
+    for _, match in pairs(rules[i].match) do
+      local result = matcher(match, rules[i])
+      if result then
+        return result
+      end
     end
+  end
+end
+
+local function matchTable(object, mtable)
+  local plain = type(object) == "string"
+  local name = plain and object or object.name
+  if not plain then
+    local gender = object.gender or "neutral"
+    local rules = mtable[object.species] or {}
+    local act = function(pat, rule)
+      local result, count = name:gsub(pat.."$", rule.sub[gender])
+      if count > 0 then
+      if rules.nonstop then name = result return
+      else return result end end
+    end
+    local additionals = rules.additional
+                        or {"any"}
+    name = iterateRules(rules, act) or name
+    for i, e in pairs(additionals) do
+      name = iterateRules(mtable[e] or {}, act) or name
+    end
+    return name
+  elseif mtable.item and mtable.item.formdetector then
+    local rules = mtable.item
+    local matcher = function(pat, rule)
+      if name:match(pat.."$") then return rule.form end
+    end
+    local newobj = {
+      name = object,
+      gender = iterateRules(rules.formdetector, matcher),
+      species = "item"
+    }
+    return matchTable(newobj, mtable)
   end
   return name
 end
 
-local function convertNounAndAdjective(phrase, gender)
-  if gender ~= nil then return phrase end
-  local result = ""
-  local isFemine = true
-  for word in phrase:gmatch("%S+") do
-    local gotit = 0
-    local newword, count = word:gsub("ая$", "ую")
-    gotit = count
-    newword, count = newword:gsub("яя$", "юю")
-    gotit = gotit + count
-    if gotit == 0 then
-      if word:match("[Сс]емена") or word:match("[Сс]емя") then newword = word
-      elseif isFemine then
-        newword = word:gsub("а$", "у")
-        newword = newword:gsub("я$", "ю")
-      else
-        newword = word
-      end
-      isFemine = false
-    else isFemine = true
-    end
-    if result ~= "" then result = result .. " " end
-    result = result .. newword
-  end
-  return result
+local formdetector = {
+  {match = {"емена", "и", "ы", "ья"}, form = "plural"},
+  {match = {"емя", "o"}, form = "neutral"},
+  {match = {"ая%s.+", "яя%s.+", "а", "я", "сть"},
+         form = "female"},
+  {match = {"."}, form = "male"},
+}
+local consonants = {"ц", "к", "н", "ш", "щ", "з", "х", "ф", "в", "п",
+                      "р", "л", "д", "ж", "ч", "с", "м", "т", "б"}
+
+local function convertToObjective(object)
+  local variants = {
+    any = {
+      newSub("й", {male = "ю"}),
+      newSub("ия", {male = "ие", female = "ии"}),
+      newSub("ень", {male = "ню"}),
+      newSub("ь", {male = "ю", female = "и"}),
+      newSub({"а", "я"}, {any = "е", neutral = "ени", plural = "%0м"}),
+      newSub(consonants, {male = "%0у"}),
+    },
+    glitch = {
+      newSub({"ый(.+)", "ой(.+)", "oe(.*)"}, {any = "ому%1", female = "%0"}),
+      newSub({"(к)ий(.+)", "(г)ий(.+)"}, {male = "%1ому%2"}),
+      newSub("ий(.+)", {any = "ему%1"}),
+      newSub("ая(.+)", {any = "ой%1"}),
+      newSub("яя(.+)", {any = "ей%1"}),
+      newSub("е", {any = "у"}),
+      newSub("ок", {any = "ку"}),
+    },
+    item = {
+      formdetector = formdetector,
+      additional = {"glitch", "any"},
+      newSub("ы", {plural = "ам"}),
+    }
+  }
+  return matchTable(object, variants)
+end
+
+local function convertToReflexive(object)
+  local variants = {
+    any = {
+      newSub("а", {any = "у"}),
+      newSub("я", {any = "ю"}),
+      newSub("й", {male = "я"}),
+      newSub("ень", {male = "ня"}),
+      newSub("ь", {male = "я"}),
+      newSub(consonants, {male = "%0а"}),
+    },
+    glitch = {
+      newSub({"ый(.+)", "ой(.+)", "oe(.*)"}, {any = "ого%1", female = "%0"}),
+      newSub({"(к)ий(.+)", "(г)ий(.+)"}, {male = "%1ого%2"}),
+      newSub("ий(.+)", {any = "его%1"}),
+      newSub("ок", {male = "ка"}),
+      additional = {"any", "item"},
+    },
+    item = {
+      formdetector = formdetector,
+      additional = {},
+      nonstop = true,
+      newSub("ая(.+)", {any = "ую%1"}),
+      newSub("яя(.+)", {any = "юю%1"}),
+      newSub("а", {female = "у"}),
+      newSub("я", {female = "ю"}),
+    },
+  }
+  return matchTable(object, variants)
 end
 
 function questParameterText(paramValue, caseModifier)
-  caseModifier = caseModifier or function(a) return a end
+  caseModifier = caseModifier or
+    function(a) return type(a) == "string" and a or a.name end
   if paramValue.name then
-    return caseModifier(paramValue.name, paramValue.gender)
+    return caseModifier(paramValue)
   end
 
   if paramValue.type == "item" then
@@ -95,8 +174,8 @@ function questParameterTags(parameters)
   local result = {}
   for k, v in pairs(parameters) do
     result[k] = questParameterText(v)
-    result[k..".reflexive"] = questParameterText(v, convertNounAndAdjective)
-    result[k..".objective"] = questParameterText(v, convertNameToObjective)
+    result[k..".reflexive"] = questParameterText(v, convertToReflexive)
+    result[k..".objective"] = questParameterText(v, convertToObjective)
   end
   return result
 end
