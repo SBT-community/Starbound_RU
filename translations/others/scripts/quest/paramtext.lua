@@ -120,7 +120,7 @@ local function convertToObjective(object)
       newSub("ая(.+)", {any = "ой%1"}),
       newSub("яя(.+)", {any = "ей%1"}),
       newSub("е", {any = "у"}),
-      newSub("ок", {any = "ку"}),
+      newSub({"ок", "ек"}, {any = "ку"}),
       nonstop = true,
     },
     item = {
@@ -146,7 +146,7 @@ local function convertToReflexive(object)
       newSub({"ый(.+)", "ой(.+)", "oe(.*)"}, {any = "ого%1", female = "%0"}),
       newSub({"(к)ий(.+)", "(г)ий(.+)"}, {male = "%1ого%2"}),
       newSub("ий(.+)", {any = "его%1"}),
-      newSub("ок", {male = "ка:guard:"}),
+      newSub({"ок", "ек"}, {male = "ка:guard:"}),
       additional = {"any", "item", "remove_guards"},
     },
     item = {
