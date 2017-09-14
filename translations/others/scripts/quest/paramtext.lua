@@ -42,7 +42,7 @@ local function matchTable(object, mtable)
       nonstop = true,
       newSub(":guard:(.*)", {any = "%1"}),
     }
-    local gender = object.gender or "neutral"
+    local gender = object.gender or "plural"
     local rules = mtable[object.species] or {}
     local act = function(pat, rule, nonstop)
       local result, count = name:gsub(pat.."$", rule.sub[gender])
@@ -106,7 +106,12 @@ local function convertToObjective(object)
       newSub("ень", {male = "ню"}),
       newSub("ь", {male = "ю", female = "и"}),
       newSub({"а", "я"}, {any = "е", neutral = "ени", plural = "%0м"}),
+      newSub("ы", {plural = "ам"}),
+      newSub({"(г)и", "(к)и"}, {plural = "%1ам:guard:"}),
+      newSub("и", {plural = "ям"}),
+      newSub("е(%s.+)", {plural = "м%1"}),
       newSub(consonants, {male = "%0у"}),
+      nonstop = true,
     },
     glitch = {
       newSub({"ый(.+)", "ой(.+)", "ое(.*)"}, {any = "ому%1", female = "%0"}),
@@ -121,11 +126,6 @@ local function convertToObjective(object)
     item = {
       formdetector = formdetector,
       additional = {"glitch", "any"},
-      nonstop = true,
-      newSub("ы", {plural = "ам"}),
-      newSub({"(г)и", "(к)и"}, {plural = "%1ам:guard:"}),
-      newSub("и", {plural = "ям"}),
-      newSub("е(%s.+)", {plural = "м%1"}),
     }
   }
   return matchTable(object, variants)
@@ -136,10 +136,15 @@ local function convertToReflexive(object)
     any = {
       newSub("а", {any = "у"}),
       newSub("я", {any = "ю"}),
+      newSub("е(%s.+)", {plural = "х%1"}),
+      newSub({"(г)и", "(к)и"}, {plural = "%1ов:guard:"}),
+      newSub("и", {plural = "ей"}),
+      newSub("ы", {plural = "ов"}),
       newSub("й", {male = "я"}),
       newSub("ень", {male = "ня"}),
       newSub("ь", {male = "я"}),
       newSub(consonants, {male = "%0а"}),
+      nonstop = true,
     },
     glitch = {
       newSub({"ый(.+)", "ой(.+)", "oe(.*)"}, {any = "ого%1", female = "%0"}),
@@ -156,10 +161,6 @@ local function convertToReflexive(object)
       nonstop = true,
       newSub("ая(.+)", {female = "ую%1"}),
       newSub("яя(.+)", {female = "юю%1"}),
-      newSub("е(%s.+)", {plural = "х%1"}),
-      newSub({"(г)и", "(к)и"}, {plural = "%1ов:guard:"}),
-      newSub("и", {plural = "ей"}),
-      newSub("ы", {plural = "ов"}),
       newSub("а", {female = "у"}),
       newSub("я", {female = "ю"}),
     },
