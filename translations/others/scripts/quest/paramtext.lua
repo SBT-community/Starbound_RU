@@ -85,6 +85,8 @@ end
 
 local formdetector = {
   {match = {"еменa.*"}, form = "plural"},
+  {match = {"ие%s.+", "ые%s.+"}, form = "plural", subform = "normal"},
+  {match = {"ое%s.+", "ее%s.+"}, form = "neutral", subform = "normal"},
   {match = {"емя.*", "o"}, form = "neutral"},
   {match = {"ая%s.+", "яя%s.+"},form = "female", subform = "normal"},
   {match = {"й%s.+", "е%s.+"}, subform = "normal"},
@@ -107,19 +109,19 @@ local function convertToObjective(object)
       newSub(consonants, {male = "%0у"}),
     },
     glitch = {
-      newSub({"ый(.+)", "ой(.+)", "oe(.*)"}, {any = "ому%1", female = "%0"}),
+      newSub({"ый(.+)", "ой(.+)", "ое(.*)"}, {any = "ому%1", female = "%0"}),
       newSub({"(к)ий(.+)", "(г)ий(.+)"}, {male = "%1ому%2"}),
       newSub("ий(.+)", {any = "ему%1"}),
       newSub("ая(.+)", {any = "ой%1"}),
       newSub("яя(.+)", {any = "ей%1"}),
-      newSub("е", {any = "у"}),
+      newSub({"е", "о"}, {any = "у"}),
       newSub({"ок", "ек"}, {any = "ку"}),
       nonstop = true,
     },
     item = {
       formdetector = formdetector,
       additional = {"glitch", "any"},
-      newSub("ы", {plural = "ам"}),
+      newSub({"ы", "и"}, {plural = "ам"}),
     }
   }
   return matchTable(object, variants)
@@ -148,8 +150,10 @@ local function convertToReflexive(object)
       formdetector = formdetector,
       additional = {},
       nonstop = true,
-      newSub("ая(.+)", {any = "ую%1"}),
-      newSub("яя(.+)", {any = "юю%1"}),
+      newSub("ая(.+)", {female = "ую%1"}),
+      newSub("яя(.+)", {female = "юю%1"}),
+      newSub("е(.+)", {plural = "х%1"}),
+      newSub("и", {plural = "ов"}),
       newSub("а", {female = "у"}),
       newSub("я", {female = "ю"}),
     },
