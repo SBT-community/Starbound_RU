@@ -76,7 +76,7 @@ local formdetector = {
   {match = {"."}, form = "male"},
 }
 local consonants = {"ц", "к", "н", "ш", "щ", "з", "х", "ф", "в", "п",
-                      "р", "л", "д", "ж", "ч", "с", "м", "т", "б"}
+                    "р", "л", "д", "ж", "ч", "с", "м", "т", "б"}
 
 local function convertToObjective(object)
   local variants = {
@@ -96,6 +96,7 @@ local function convertToObjective(object)
       newSub("яя(.+)", {any = "ей%1"}),
       newSub("е", {any = "у"}),
       newSub("ок", {any = "ку"}),
+      nonstop = true,
     },
     item = {
       formdetector = formdetector,
@@ -120,8 +121,11 @@ local function convertToReflexive(object)
       newSub({"ый(.+)", "ой(.+)", "oe(.*)"}, {any = "ого%1", female = "%0"}),
       newSub({"(к)ий(.+)", "(г)ий(.+)"}, {male = "%1ого%2"}),
       newSub("ий(.+)", {any = "его%1"}),
-      newSub("ок", {male = "ка"}),
-      additional = {"any", "item"},
+      newSub("ок", {male = "ка:guard:"}),
+      additional = {"any", "item", "remove_guards"},
+    },
+    remove_guards = {
+      newSub(":guard:(.*)", {any = "%1"}),
     },
     item = {
       formdetector = formdetector,
