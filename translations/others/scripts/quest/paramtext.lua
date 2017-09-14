@@ -121,7 +121,11 @@ local function convertToObjective(object)
     item = {
       formdetector = formdetector,
       additional = {"glitch", "any"},
-      newSub({"ы", "и"}, {plural = "ам"}),
+      nonstop = true,
+      newSub("ы", {plural = "ам"}),
+      newSub({"(г)и", "(к)и"}, {plural = "%1ам:guard:"}),
+      newSub("и", {plural = "ям"}),
+      newSub("е(.+)", {plural = "м%1"}),
     }
   }
   return matchTable(object, variants)
@@ -153,7 +157,9 @@ local function convertToReflexive(object)
       newSub("ая(.+)", {female = "ую%1"}),
       newSub("яя(.+)", {female = "юю%1"}),
       newSub("е(.+)", {plural = "х%1"}),
-      newSub("и", {plural = "ов"}),
+      newSub({"(г)и", "(к)и"}, {plural = "%1ов:guard:"}),
+      newSub("и", {plural = "ей"}),
+      newSub("ы", {plural = "ов"}),
       newSub("а", {female = "у"}),
       newSub("я", {female = "ю"}),
     },
