@@ -41,14 +41,11 @@ local function matchTable(object, mtable)
     mtable.remove_guards = {
       nonstop = true,
       newSub(":guard:(.*)", {any = "%1"}),
-      newSub("", {any = ""}),
     }
-    name = name:gsub("$", ":eol:")
     local gender = object.gender or "neutral"
     local rules = mtable[object.species] or {}
     local act = function(pat, rule, nonstop)
-      local result, count = name:gsub(pat..":eol:",
-        rule.sub[gender]..(#pat > 0 and ":eol:" or ""))
+      local result, count = name:gsub(pat.."$", rule.sub[gender])
       if count > 0 then
       if nonstop then name = result return
       else return result end end
@@ -63,29 +60,25 @@ local function matchTable(object, mtable)
   elseif mtable.item and mtable.item.formdetector then
     local rules = mtable.item
     local form, subform
-    local subname = name
+    local tailname = ""
     local matcher = function(pat, rule)
-      if subname:match(pat.."$") then
+      if name:match(pat.."$") then
         form = form or rule.form
         if not subform then
           if rule.subform == "of" then
-            name = name:gsub("$", ":guard:")
-            name = name:gsub("%s", ":eol: ")
-            subname = name:gsub("%s.+$", "")
+            name, tailname = name:match("^(.-)(%s.+)$")
           end
           subform = rule.subform
        end
       end
-      if form and subform then
-        return form
-      end
+      if form and subform then return form end
     end
     local newobj = {
       gender = iterateRules(rules.formdetector, matcher),
       species = "item",
     }
     newobj.name = name
-    return matchTable(newobj, mtable)
+    return matchTable(newobj, mtable)..tailname
   end
   return name
 end
@@ -147,7 +140,9 @@ local function convertToReflexive(object)
       newSub({"(к)ий(.+)", "(г)ий(.+)"}, {male = "%1ого%2"}),
       newSub("ий(.+)", {any = "его%1"}),
       newSub({"ок", "ек"}, {male = "ка:guard:"}),
-      additional = {"any", "item", "remove_guards"},
+      -- :guard: notation will be removed automatically at the end of processing
+      -- it is necessary to prevent changing this ending
+      additional = {"any", "item"},
     },
     item = {
       formdetector = formdetector,
