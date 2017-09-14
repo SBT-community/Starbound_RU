@@ -1116,7 +1116,7 @@
     },
     "Texts": {
       "Eng": "Hello! <questGiver> contracted me to help you fight the <enemy>.",
-      "Rus": ""
+      "Rus": "Привет! <questGiver> договорил<questGiver.pronoun.verb3Ending> со мной, чтобы я помог<self.pronoun.verb4Ending> тебе в сражении."
     }
   },
   {
@@ -1128,7 +1128,7 @@
     },
     "Texts": {
       "Eng": "Hello. <questGiver> contracted me to help you fight the <enemy>.",
-      "Rus": ""
+      "Rus": "Привет. <questGiver> договорил<questGiver.pronoun.verb3Ending> со мной, чтобы я помог<self.pronoun.verb4Ending> тебе в сражении."
     }
   },
   {
@@ -1200,7 +1200,7 @@
     },
     "Texts": {
       "Eng": "Here is the <item> <questGiver> wants to borrow. I suspect I won't be getting it back.",
-      "Rus": ""
+      "Rus": "Вот <item>, что хотел<questGiver.pronoun.verbEnding> одолжить <questGiver>. Что-то подсказывает мне, что больше я уже <item.reflexive> не увижу."
     }
   },
   {
@@ -1224,7 +1224,7 @@
     },
     "Texts": {
       "Eng": "Here is the <item> you need. I hope it is what's needed.",
-      "Rus": ""
+      "Rus": "Вот <item>, что тебе требуется. Надеюсь, это то, что нужно."
     }
   },
   {
