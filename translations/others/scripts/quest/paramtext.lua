@@ -84,7 +84,7 @@ local function matchTable(object, mtable)
 end
 
 local formdetector = {
-  {match = {"еменa.*"}, form = "plural"},
+  {match = {"емена.*"}, form = "plural"},
   {match = {"ие%s.+", "ые%s.+"}, form = "plural", subform = "normal"},
   {match = {"ое%s.+", "ее%s.+"}, form = "neutral", subform = "normal"},
   {match = {"емя.*", "o"}, form = "neutral"},
@@ -125,7 +125,7 @@ local function convertToObjective(object)
       newSub("ы", {plural = "ам"}),
       newSub({"(г)и", "(к)и"}, {plural = "%1ам:guard:"}),
       newSub("и", {plural = "ям"}),
-      newSub("е(.+)", {plural = "м%1"}),
+      newSub("е(%s.+)", {plural = "м%1"}),
     }
   }
   return matchTable(object, variants)
@@ -156,7 +156,7 @@ local function convertToReflexive(object)
       nonstop = true,
       newSub("ая(.+)", {female = "ую%1"}),
       newSub("яя(.+)", {female = "юю%1"}),
-      newSub("е(.+)", {plural = "х%1"}),
+      newSub("е(%s.+)", {plural = "х%1"}),
       newSub({"(г)и", "(к)и"}, {plural = "%1ов:guard:"}),
       newSub("и", {plural = "ей"}),
       newSub("ы", {plural = "ов"}),
