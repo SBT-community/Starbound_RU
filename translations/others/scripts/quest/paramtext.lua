@@ -154,6 +154,7 @@ local function convertToReflexive(object)
       -- :guard: notation will be removed automatically at the end of processing
       -- it is necessary to prevent changing this ending
       additional = {"any", "item"},
+      nonstop = true,
     },
     item = {
       formdetector = formdetector,
