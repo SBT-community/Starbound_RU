@@ -242,7 +242,7 @@
     },
     "Texts": {
       "Eng": "We'll need a nice ^orange;<item>^white; to begin with. I seem to remember seeing ^orange;<target> ^white;with one quite recently. Why don't you ^green;go and ask if we can borrow it for a while? ^white;We can tell <target.pronoun.object> we lost it later if <target.pronoun.subject> asks for it back. ",
-      "Rus": "^orange;<item>^white; - вот что нам нужно для начала. Кажется я помню, что недавно видел как ^orange;<target> ^white; приобрёл <item.reflexive> подходящего размера. Почему бы тебе ^green;не сходить и не одолжить <target.pronoun.reflexive> приобретение ненадолго? А когда настанет время возвращать, мы скажем что потеряли <item.reflexive>."
+      "Rus": "^orange;<item>^white; - вот что нам нужно для начала. Кажется я помню, что недавно видел<self.pronoun.verbEnding> как ^orange;<target> ^white; купил<target.pronoun.verbEnding> <item.reflexive> подходящего размера. Почему бы тебе ^green;не сходить и не одолжить <target.pronoun.reflexive> приобретение ненадолго? А когда настанет время возвращать, мы скажем что потеряли <item.reflexive>."
     }
   },
   {
