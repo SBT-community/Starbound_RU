@@ -204,7 +204,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "\"Теперь я могу это себе представить! Почему он так сильно ищет любви?\""
+    ],
     "Files": {
       "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
         "/scenes/song4d/text"
@@ -449,7 +451,7 @@
     },
     "Texts": {
       "Eng": "\"That is quite tragic! I have a song in mind just for this.\" she says.",
-      "Rus": "\"Это весьма печально! У меня в голове вертится олна песня на это счёт.\" - сказала она."
+      "Rus": "\"Это весьма трагично! У меня в голове вертится одна песня на этот счёт.\" - сказала она."
     }
   },
   {
@@ -958,7 +960,7 @@
     },
     "Texts": {
       "Eng": "He can't get a date!",
-      "Rus": ""
+      "Rus": "Он не может сходить на свидание!"
     }
   },
   {
