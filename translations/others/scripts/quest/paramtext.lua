@@ -78,7 +78,7 @@ local function matchTable(object, mtable)
       species = "item",
     }
     newobj.name = name
-    return matchTable(newobj, mtable)..tailname
+    return matchTable(newobj, mtable)..tailname, newobj
   end
   return name
 end
@@ -205,10 +205,17 @@ end
 
 function questParameterTags(parameters)
   local result = {}
+  local pronouns = root.assetJson("/quests/quests.config:pronouns")
   for k, v in pairs(parameters) do
     result[k] = questParameterText(v)
-    result[k..".reflexive"] = questParameterText(v, convertToReflexive)
+    local object
+    result[k..".reflexive"], object = questParameterText(v, convertToReflexive)
     result[k..".objective"] = questParameterText(v, convertToObjective)
+    if object and object.gender then
+      for pronounType, pronounText in pairs(pronouns[object.gender] or {}) do
+        result[k .. ".pronoun." .. pronounType] = pronounText
+      end
+    end
   end
   return result
 end
