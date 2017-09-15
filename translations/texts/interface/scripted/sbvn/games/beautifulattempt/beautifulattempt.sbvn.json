@@ -190,7 +190,7 @@
     },
     "Texts": {
       "Eng": "\"How wholesome! I think I can sing about this.\" she says.",
-      "Rus": "\"Как благотворно! Думаю, я могу спеть об этом.\" - сказала она."
+      "Rus": "\"Как нравственно! Думаю, я могу спеть об этом.\" - сказала она."
     }
   },
   {
@@ -479,7 +479,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "\"Это так изящно! Где они встретелись?\""
+    ],
     "Files": {
       "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
         "/scenes/song4c/text"
@@ -782,7 +784,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Молодёжный клуб!",
+      "Молодёжный клуб!"
+    ],
     "Files": {
       "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
         "/scenes/song4c/options/0/0"
@@ -790,7 +795,7 @@
     },
     "Texts": {
       "Eng": "A youth club!",
-      "Rus": "Молодёжный клуб!"
+      "Rus": "В молодёжном клубе!"
     }
   },
   {
@@ -1900,7 +1905,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Деревенский танец!"
+    ],
     "Files": {
       "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
         "/scenes/song4c/options/1/0"
@@ -1908,7 +1915,7 @@
     },
     "Texts": {
       "Eng": "The village dance!",
-      "Rus": "Деревенский танец!"
+      "Rus": "На деревенских танцах!"
     }
   },
   {
