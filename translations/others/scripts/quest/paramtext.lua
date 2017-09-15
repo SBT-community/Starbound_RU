@@ -180,6 +180,7 @@ function questParameterText(paramValue, caseModifier)
     return caseModifier(itemShortDescription(paramValue.item))
   elseif paramValue.type == "itemList" then
     local listString = ""
+    local object = {}
     local count = 0
     for _,item in ipairs(paramValue.items) do
       if listString ~= "" then
@@ -189,8 +190,9 @@ function questParameterText(paramValue, caseModifier)
           listString = " и " .. listString
         end
       end
-      local description = caseModifier(itemShortDescription(item))
+      local description, object = caseModifier(itemShortDescription(item))
       if item.count > 1 then
+        object.gender = "plural"
         local thingEnd = getCountEnding(item.count)
         listString = string.format("%s, %s штук%s", description, item.count,
                                    thingEnd) .. listString
@@ -199,7 +201,9 @@ function questParameterText(paramValue, caseModifier)
       end
       count = count + 1
     end
-    return listString
+    if count > 1 then object.gender = "plural" end
+    object.name = listString
+    return listString, object
   end
 end
 
