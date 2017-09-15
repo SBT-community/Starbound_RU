@@ -33,7 +33,7 @@
     },
     "Texts": {
       "Eng": "Bring <questGiver> to <target>",
-      "Rus": "Приведите <questGiver> к <target>"
+      "Rus": "Приведите <questGiver.reflexive> к <target.objective>"
     }
   },
   {
@@ -119,7 +119,7 @@
     },
     "Texts": {
       "Eng": "Thanks for helping me out!",
-      "Rus": "Спасибо что выручили меня!"
+      "Rus": "Спасибо что выручил<player.pronoun.verbEnding> меня!"
     }
   },
   {
@@ -155,7 +155,7 @@
     },
     "Texts": {
       "Eng": "You've really helped me out, thanks!",
-      "Rus": "Вы правда выручили меня, спасибо!"
+      "Rus": "Ты правда выручил<player.pronoun.verbEnding> меня, спасибо!"
     }
   }
 ]
