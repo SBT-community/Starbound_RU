@@ -155,7 +155,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "\"Он лишается своего дома Как печально! У меня есть идея для песни, но она не слишком весёлая.\" - сказала она."
+    ],
     "Files": {
       "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
         "/scenes/song5c/text",
@@ -164,7 +166,7 @@
     },
     "Texts": {
       "Eng": "\"He's losing his house? How sad! I have a song idea, but it isn't very funny.\" she says.",
-      "Rus": "\"Он лишается своего дома Как печально! У меня есть идея для песни, но она не слишком весёлая.\" - сказала она."
+      "Rus": "\"Он лишается своего дома? Как печально! У меня есть идея для песни, но она не слишком весёлая.\" - сказала она."
     }
   },
   {
@@ -1792,7 +1794,7 @@
     },
     "Texts": {
       "Eng": "Starfish, in love!",
-      "Rus": "Влюблённая морская звезда!"
+      "Rus": "Влюблённой морской звезде!"
     }
   },
   {
