@@ -190,7 +190,8 @@ function questParameterText(paramValue, caseModifier)
           listString = " и " .. listString
         end
       end
-      local description, object = caseModifier(itemShortDescription(item))
+      local description, oneobject = caseModifier(itemShortDescription(item))
+      object = object or oneobject
       if item.count > 1 then
         object.gender = "plural"
         local thingEnd = getCountEnding(item.count)
