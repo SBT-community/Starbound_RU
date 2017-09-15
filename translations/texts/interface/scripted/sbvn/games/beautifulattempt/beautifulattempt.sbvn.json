@@ -435,7 +435,7 @@
     },
     "Texts": {
       "Eng": "\"Talking fish, straight from my dreams, how can we, prevent your screams?\"",
-      "Rus": "\"Говорящая рыба, прямо из моих снов, как можем мы, избежать твоих выкриков?\""
+      "Rus": "\"Говорящая рыба, прямо из снов моих, как можем мы, избежать криков твоих?\""
     }
   },
   {
@@ -1425,7 +1425,7 @@
     },
     "Texts": {
       "Eng": "Just yelling at everyone!",
-      "Rus": ""
+      "Rus": "Просто кричать на всех!"
     }
   },
   {
@@ -1624,7 +1624,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ищущий золота!",
+      "Ищущий золота!"
+    ],
     "Files": {
       "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
         "/scenes/song4a/options/0/0"
@@ -1632,7 +1635,7 @@
     },
     "Texts": {
       "Eng": "Searching for gold!",
-      "Rus": "Ищущий золота!"
+      "Rus": "Искать золото!"
     }
   },
   {
