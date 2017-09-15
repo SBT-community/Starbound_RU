@@ -1176,7 +1176,7 @@
     },
     "Texts": {
       "Eng": "Here is my <item> - Just tell <questGiver> to give it back soon.",
-      "Rus": ""
+      "Rus": "Вот то, что нужно. Просто передай <questGiver.objective>, чтобы <questGiver.pronoun.subject> вскоре вернул<questGiver.pronoun.verbEnding> <item.reflexive> назад."
     }
   },
   {
@@ -1212,7 +1212,7 @@
     },
     "Texts": {
       "Eng": "Here is the <item> that <questGiver> needs.",
-      "Rus": ""
+      "Rus": "Вот <item>, что нужен <questGiver.objective>."
     }
   },
   {
