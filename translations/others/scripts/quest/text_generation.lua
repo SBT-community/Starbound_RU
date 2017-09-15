@@ -82,9 +82,9 @@ function QuestTextGenerator:generateExtraTags()
       tags[paramName .. ".gender"] = paramValue.gender
       gender = pronounGender(paramValue.species, paramValue.gender)
     end
-
+    if not gender then gender = "plural" end
     if gender then
-      for pronounType, pronounText in pairs(pronouns[gender]) do
+      for pronounType, pronounText in pairs(pronouns[gender] or {}) do
         tags[paramName .. ".pronoun." .. pronounType] = pronounText
       end
     end
