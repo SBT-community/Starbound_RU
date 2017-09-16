@@ -210,11 +210,8 @@ function questParameterText(paramValue, caseModifier)
     local count = 0
     for _,item in ipairs(paramValue.items) do
       if listString ~= "" then
-        if count > 1 then
-          listString = "; " .. listString
-        else
-          listString = " и " .. listString
-        end
+        if count > 1 then  listString = "; " .. listString
+        else listString = " и " .. listString end
       end
       local description, oneobject = caseModifier(itemShortDescription(item))
       object = object.gender and object or oneobject or object
@@ -239,7 +236,6 @@ function questParameterTags(parameters)
   local pronouns = root.assetJson("/quests/quests.config:pronouns")
   local convertableTypes = {
     monsterType = "",
-    entity = "",
     npcType = ".type",
     item = "",
     itemList = "",

@@ -73,12 +73,11 @@ function QuestTextGenerator:generateExtraTags()
     end
 
     local gender = nil
+    local identity = paramValue
     if paramValue.type == "npcType" then
-      local identity = paramHumanoidIdentity(paramValue)
+      identity = paramHumanoidIdentity(paramValue)
       tags[paramName .. ".name"] = identity.name
       tags[paramName .. ".gender"] = identity.gender
-      tags[paramName .. ".reflexive"] = convertToReflexive(identity)
-      tags[paramName .. ".objective"] = convertToObjective(identity)
       gender = pronounGender(identity.species, identity.gender)
     elseif paramValue.type == "entity" then
       tags[paramName .. ".gender"] = paramValue.gender
@@ -86,6 +85,9 @@ function QuestTextGenerator:generateExtraTags()
     end
 
     if gender then
+      identity.gender = gender
+      tags[paramName .. ".reflexive"] = convertToReflexive(identity)
+      tags[paramName .. ".objective"] = convertToObjective(identity)
       for pronounType, pronounText in pairs(pronouns[gender]) do
         tags[paramName .. ".pronoun." .. pronounType] = pronounText
       end
