@@ -34,56 +34,7 @@ local function iterateRules(rules, matcher)
   end
 end
 
-local function matchTable(object, mtable)
-  local plain = type(object) == "string"
-  local name = plain and object or object.name
-  if not plain then
-    mtable.remove_guards = {
-      nonstop = true,
-      newSub(":guard:(.*)", {any = "%1"}),
-    }
-    local gender = object.gender or "plural"
-    local rules = mtable[object.species] or {}
-    local act = function(pat, rule, nonstop)
-      local result, count = name:gsub(pat.."$", rule.sub[gender])
-      if count > 0 then
-      if nonstop then name = result return
-      else return result end end
-    end
-    local additionals = rules.additional or {"any"}
-    table.insert(additionals, "remove_guards")
-    name = iterateRules(rules, act) or name
-    for i, e in pairs(additionals) do
-      name = iterateRules(mtable[e] or {}, act) or name
-    end
-    return name
-  elseif mtable.item and mtable.item.formdetector then
-    local rules = mtable.item
-    local form, subform
-    local tailname = ""
-    local matcher = function(pat, rule)
-      if name:match(pat.."$") then
-        form = form or rule.form
-        if not subform then
-          if rule.subform == "of" then
-            name, tailname = name:match("^(.-)(%s.+)$")
-          end
-          subform = rule.subform
-       end
-      end
-      if form and subform then return form end
-    end
-    local newobj = {
-      gender = iterateRules(rules.formdetector, matcher),
-      species = "item",
-    }
-    newobj.name = name
-    return matchTable(newobj, mtable)..tailname, newobj
-  end
-  return name
-end
-
-local formdetector = {
+local defaultformdetector = {
   {match = {"емена.*"}, form = "plural"},
   {match = {"ие%s.+", "ые%s.+"}, form = "plural", subform = "normal"},
   {match = {"ое%s.+", "ее%s.+"}, form = "neutral", subform = "normal"},
@@ -95,6 +46,73 @@ local formdetector = {
   {match = {"а", "я", "сть"}, form = "female"},
   {match = {"."}, form = "male", subform = "normal"},
 }
+
+local function detectForm(phrase, formdetector)
+  -- Detects form of given phrase using supplied formdetector table.
+  -- Returns 3 values:
+  -- 1. detected form
+  -- 2. mutable part of phrase
+  -- 3. immutable part of phase
+  -- If formdetector is not supplied, it uses default form detector
+  local detector = formdetector or defaultformdetector
+  local form, subform
+  local head, tail = phrase, ""
+  local matcher = function(pat, rule)
+    if head:match(pat.."$") then
+      form = form or rule.form
+      if not subform then
+        if rule.subform == "of" then
+          head, tail = head:match("^(.-)(%s.+)$")
+        end
+        subform = rule.subform
+     end
+    end
+    if form and subform then return form end
+  end
+  local resultform = iterateRules(detector, matcher)
+  return resultform, head, tail
+end
+
+local function matchTable(phrase, mtable)
+  -- Converts given phrase according to mtable.
+  -- If phrase is string and does not contains any form informations
+  -- the function is trying to detect form via detectForm function
+  local plain = type(phrase) == "string"
+  local object = {
+    name = plain and phrase or phrase.name,
+    species = plain and "item" or phrase.species,
+    gender = phrase.gender,
+  }
+  local rules = mtable[object.species] or {}
+  if object.gender then
+    local name = object.name
+    mtable.remove_guards = {
+      nonstop = true,
+      newSub(":guard:(.*)", {any = "%1"}),
+    }
+    local act = function(pat, rule, nonstop)
+      local result, count = name:gsub(pat.."$", rule.sub[object.gender])
+      if count > 0 then
+      if nonstop then name = result return
+      else return result end end
+    end
+    local additionals = rules.additional or {"any"}
+    table.insert(additionals, "remove_guards")
+    name = iterateRules(rules, act) or name
+    for i, e in pairs(additionals) do
+      name = iterateRules(mtable[e] or {}, act) or name
+    end
+    return name
+  else
+    local gender, mut, immut =
+      detectForm(object.name, rules.formdetector)
+    object.gender = gender
+    object.name = mut
+    return matchTable(object, mtable)..immut, object
+  end
+end
+
+
 local consonants = {"ц", "к", "н", "ш", "щ", "з", "х", "ф", "в", "п",
                     "р", "л", "д", "ж", "ч", "с", "м", "т", "б"}
 
@@ -124,7 +142,6 @@ local function convertToObjective(object)
       nonstop = true,
     },
     item = {
-      formdetector = formdetector,
       additional = {"glitch", "any"},
     }
   }
@@ -157,7 +174,6 @@ local function convertToReflexive(object)
       nonstop = true,
     },
     item = {
-      formdetector = formdetector,
       additional = {},
       nonstop = true,
       newSub("ая(.+)", {female = "ую%1"}),
