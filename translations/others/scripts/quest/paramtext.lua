@@ -106,9 +106,18 @@ local function matchTable(phrase, mtable)
   else
     local gender, mut, immut =
       detectForm(object.name, rules.formdetector)
+    -- For dash separated words like "Самураи-отступники"
+    -- each part of the word will be conjugated separately.
+    -- It does not affect adjectives (no spaces allowed after dash)
+    local part1, part2 = mut:match("^([^%-]+)(%-[^%s%-]+)$")
+    mut = part1 or mut
     object.gender = gender
+    if part2 then
+      object.name = part2
+      part2 = matchTable(object, mtable)
+    end
     object.name = mut
-    return matchTable(object, mtable)..immut, object
+    return matchTable(object, mtable)..(part2 or "")..immut, object
   end
 end
 
@@ -155,6 +164,7 @@ local function convertToReflexive(object)
       newSub("я", {any = "ю"}),
       newSub("е(%s.+)", {plural = "х%1"}),
       newSub({"(г)и", "(к)и"}, {plural = "%1ов:guard:"}),
+      newSub("аи", {plural = "аев"}),
       newSub("и", {plural = "ей"}),
       newSub("ы", {plural = "ов"}),
       newSub("й", {male = "я"}),
