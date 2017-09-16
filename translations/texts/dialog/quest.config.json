@@ -1598,7 +1598,7 @@
     },
     "Texts": {
       "Eng": "I always thought I had a pretty good sense on direction... I guess not. Would you mind taking me to <questGiver>?",
-      "Rus": "Я всегда думал<friend.pronoun.verbEnding>, что довольно хорошо ориентируюсь на местности... Походу, нет. Ты не мог<player.pronoun.verb4Ending> бы отвести меня к моему другу, по имени <questGiver>?"
+      "Rus": "Я всегда думал<self.pronoun.verbEnding>, что довольно хорошо ориентируюсь на местности... Походу, нет. Ты не мог<player.pronoun.verb4Ending> бы отвести меня к моему другу, по имени <questGiver>?"
     }
   },
   {
@@ -1611,7 +1611,7 @@
     },
     "Texts": {
       "Eng": "I am done! Thank you for waiting. Now, please take this parcel to <questGiver>...",
-      "Rus": "Я закончил<friend.pronoun.verbEnding>! Спасибо за ожидание. А сейчас, пожалуйста, отнеси эту посылку <questGiver>..."
+      "Rus": "Я закончил<self.pronoun.verbEnding>! Спасибо за ожидание. А сейчас, пожалуйста, отнеси эту посылку <questGiver>..."
     }
   },
   {
@@ -1635,7 +1635,7 @@
     },
     "Texts": {
       "Eng": "I am incredibly lost right now. Would you mind taking me to <questGiver>?",
-      "Rus": "Я сам<friend.pronoun.verbEnding> не понял<friend.pronoun.verbEnding>, как потерял<friend.pronoun.verb3Ending>. Ты не мог<player.pronoun.verb4Ending> бы отвести меня в дом, где живёт <questGiver>?"
+      "Rus": "Я сам<self.pronoun.verbEnding> не понял<self.pronoun.verbEnding>, как потерял<self.pronoun.verb3Ending>. Ты не мог<player.pronoun.verb4Ending> бы отвести меня в дом, где живёт <questGiver>?"
     }
   },
   {
