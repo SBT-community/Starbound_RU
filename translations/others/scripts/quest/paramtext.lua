@@ -77,10 +77,9 @@ local function matchTable(phrase, mtable)
   -- Converts given phrase according to mtable.
   -- If phrase is string and does not contains any form informations
   -- the function is trying to detect form via detectForm function
-  local plain = type(phrase) == "string"
   local object = {
-    name = plain and phrase or phrase.name,
-    species = plain and "item" or phrase.species,
+    name = phrase.name or phrase,
+    species = phrase.species or "item",
     gender = phrase.gender,
   }
   local rules = mtable[object.species] or {}
@@ -238,14 +237,26 @@ end
 function questParameterTags(parameters)
   local result = {}
   local pronouns = root.assetJson("/quests/quests.config:pronouns")
+  local convertableTypes = {
+    monsterType = "",
+    entity = "",
+    npcType = ".type",
+    item = "",
+    itemList = "",
+  }
   for k, v in pairs(parameters) do
     result[k] = questParameterText(v)
-    local object
-    result[k..".reflexive"], object = questParameterText(v, convertToReflexive)
-    result[k..".objective"] = questParameterText(v, convertToObjective)
-    if object and object.gender then
-      for pronounType, pronounText in pairs(pronouns[object.gender] or {}) do
-        result[k .. ".pronoun." .. pronounType] = pronounText
+    if v.type and convertableTypes[v.type] then
+     local injector = k..convertableTypes[v.type]
+      if injector ~= k then result[injector] = result[k] end
+      local object
+      result[injector..".reflexive"], object =
+        questParameterText(v, convertToReflexive)
+      result[injector..".objective"] = questParameterText(v, convertToObjective)
+      if object and object.gender then
+        for pronounType, pronounText in pairs(pronouns[object.gender] or {}) do
+          result[injector .. ".pronoun." .. pronounType] = pronounText
+        end
       end
     end
   end
