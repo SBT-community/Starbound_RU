@@ -86,8 +86,8 @@ function QuestTextGenerator:generateExtraTags()
 
     if gender then
       identity.gender = gender
-      tags[paramName .. ".reflexive"] = convertToReflexive(identity)
-      tags[paramName .. ".objective"] = convertToObjective(identity)
+      tags[paramName .. ".accusative"] = convertToAccusative(identity)
+      tags[paramName .. ".dative"] = convertToDative(identity)
       for pronounType, pronounText in pairs(pronouns[gender]) do
         tags[paramName .. ".pronoun." .. pronounType] = pronounText
       end

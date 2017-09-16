@@ -124,7 +124,7 @@ end
 local consonants = {"ц", "к", "н", "ш", "щ", "з", "х", "ф", "в", "п",
                     "р", "л", "д", "ж", "ч", "с", "м", "т", "б"}
 
-function convertToObjective(object)
+function convertToDative(object)
   local variants = {
     any = {
       newSub("й", {male = "ю"}),
@@ -156,7 +156,7 @@ function convertToObjective(object)
   return matchTable(object, variants)
 end
 
-function convertToReflexive(object)
+function convertToAccusative(object)
   local variants = {
     any = {
       newSub("а", {any = "у"}),
@@ -246,9 +246,9 @@ function questParameterTags(parameters)
      local injector = k..convertableTypes[v.type]
       if injector ~= k then result[injector] = result[k] end
       local object
-      result[injector..".reflexive"], object =
-        questParameterText(v, convertToReflexive)
-      result[injector..".objective"] = questParameterText(v, convertToObjective)
+      result[injector..".accusative"], object =
+        questParameterText(v, convertToAccusative)
+      result[injector..".dative"] = questParameterText(v, convertToDative)
       if object and object.gender then
         for pronounType, pronounText in pairs(pronouns[object.gender] or {}) do
           result[injector .. ".pronoun." .. pronounType] = pronounText
