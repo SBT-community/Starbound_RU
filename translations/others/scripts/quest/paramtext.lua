@@ -217,7 +217,7 @@ function questParameterText(paramValue, caseModifier)
         end
       end
       local description, oneobject = caseModifier(itemShortDescription(item))
-      object = object or oneobject
+      object = object.gender and object or oneobject
       if item.count > 1 then
         object.gender = "plural"
         local thingEnd = getCountEnding(item.count)
