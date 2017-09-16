@@ -77,6 +77,8 @@ function QuestTextGenerator:generateExtraTags()
       local identity = paramHumanoidIdentity(paramValue)
       tags[paramName .. ".name"] = identity.name
       tags[paramName .. ".gender"] = identity.gender
+      tags[paramName .. ".reflexive"] = convertToReflexive(identity)
+      tags[paramName .. ".objective"] = convertToObjective(identity)
       gender = pronounGender(identity.species, identity.gender)
     elseif paramValue.type == "entity" then
       tags[paramName .. ".gender"] = paramValue.gender

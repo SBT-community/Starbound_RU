@@ -124,7 +124,7 @@ end
 local consonants = {"ц", "к", "н", "ш", "щ", "з", "х", "ф", "в", "п",
                     "р", "л", "д", "ж", "ч", "с", "м", "т", "б"}
 
-local function convertToObjective(object)
+function convertToObjective(object)
   local variants = {
     any = {
       newSub("й", {male = "ю"}),
@@ -156,7 +156,7 @@ local function convertToObjective(object)
   return matchTable(object, variants)
 end
 
-local function convertToReflexive(object)
+function convertToReflexive(object)
   local variants = {
     any = {
       newSub("а", {any = "у"}),
