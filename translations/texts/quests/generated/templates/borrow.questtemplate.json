@@ -10,7 +10,7 @@
     },
     "Texts": {
       "Eng": "A while back I saw ^orange;<target>^white; showing off <target.pronoun.possessiveDet> new ^orange;<item>. ^white;Pretty lucky for us, because we need one for our next task. Go and ^green;ask <target.pronoun.object> if we can borrow it. ",
-      "Rus": "Не так давно я видел<questGiver.pronoun.verbEnding> как ^orange;<target>^white; показывал<target.pronoun.verbEnding> <target.pronoun.possessiveDet> ^orange;<item.reflexive>. ^white;Что кстати неплохо для нас, ведь это как раз то, что нам нужно. Сходи и ^green;спроси <target.pronoun.object>, можем ли мы одолжить <target.pronoun.possessiveDet> <item.reflexive>."
+      "Rus": "Не так давно я видел<questGiver.pronoun.verbEnding> как ^orange;<target>^white; показывал<target.pronoun.verbEnding> <target.pronoun.possessiveDet> ^orange;<item.accusative>. ^white;Что кстати неплохо для нас, ведь это как раз то, что нам нужно. Сходи и ^green;спроси <target.pronoun.object>, можем ли мы одолжить <target.pronoun.possessiveDet> <item.accusative>."
     }
   },
   {
@@ -34,7 +34,7 @@
     },
     "Texts": {
       "Eng": "Before we can do anything elsse, we need ^orange;<item>^white;. Floran knowss that ^orange;<target>^white; will let Floran borrow <target.pronoun.possessive>. ^green;Will you go get it?",
-      "Rus": "Прежде чем мы продолжим, нам понадобится ^orange;<item>^white;. Флоран знает, что ^orange;<target>^white; может одолжить Флорану <item.reflexive>. ^green; Не сходишь к <target.pronoun.reflexive>?"
+      "Rus": "Прежде чем мы продолжим, нам понадобится ^orange;<item>^white;. Флоран знает, что ^orange;<target>^white; может одолжить Флорану <item.accusative>. ^green; Не сходишь к <target.pronoun.reflexive>?"
     }
   },
   {
@@ -46,7 +46,7 @@
     },
     "Texts": {
       "Eng": "First things first, you'll need to ^green;speak to ^orange;<target> ^white;and ^green;borrow <target.pronoun.possessiveDet> ^orange;<item>. ^white;Just tell <target.pronoun.object> I sent you, and <target.pronoun.subject>'ll be happy to lend it to you.",
-      "Rus": "Прежде всего, тебе нужно одолжить ^orange;<item.reflexive>. ^white; у кого-нибудь. Думаю ^orange;<target> ^white; будет рад<target.pronoun.verbEnding> помочь. ^green;Поговори с <target.pronoun.copulativePast>^white;, и не забудь сказать, что тебя прислал я."
+      "Rus": "Прежде всего, тебе нужно одолжить ^orange;<item.accusative>. ^white; у кого-нибудь. Думаю ^orange;<target> ^white; будет рад<target.pronoun.verbEnding> помочь. ^green;Поговори с <target.pronoun.copulativePast>^white;, и не забудь сказать, что тебя прислал я."
     }
   },
   {
@@ -58,7 +58,7 @@
     },
     "Texts": {
       "Eng": "Floran knowss that ^orange;<target>^white; hass ^orange;<item>^white; that we need. ^green;If you ask to borrow it, that'll save usss time.",
-      "Rus": "Нам нужно где-то досcтать <item.reflexive>. Флоран знает у кого ессть ^orange;<item>^white;. Это ^orange;<target>^white;! Если ты у н<target.pronoun.reflexive> попросишь, мы ссэкономим много времени."
+      "Rus": "Нам нужно где-то досcтать <item.accusative>. Флоран знает у кого ессть ^orange;<item>^white;. Это ^orange;<target>^white;! Если ты у н<target.pronoun.reflexive> попросишь, мы ссэкономим много времени."
     }
   },
   {
@@ -106,7 +106,7 @@
     },
     "Texts": {
       "Eng": "I think ^orange;<target>^white; has a nice ^orange;<item>^white; that we could use. Why don't you ^green;go and ask <target.pronoun.object> if we can borrow it indefinitely?^white; Actually, leave out the indefinitely part...",
-      "Rus": "Я думаю что ^orange;<target>^white; хранит у себя ^orange;<item.reflexive>^white; - именно то, что нам может пригодится. Почему бы тебе ^green;не сходить и  не попросить <target.pronoun.object>одолжить нам <item.reflexive> на неопределённое время?^white; На самом деле, лучше не говори про неопределённое время..."
+      "Rus": "Я думаю что ^orange;<target>^white; хранит у себя ^orange;<item.accusative>^white; - именно то, что нам может пригодится. Почему бы тебе ^green;не сходить и  не попросить <target.pronoun.object>одолжить нам <item.accusative> на неопределённое время?^white; На самом деле, лучше не говори про неопределённое время..."
     }
   },
   {
@@ -142,7 +142,7 @@
     },
     "Texts": {
       "Eng": "Now we need to find ourselves one ^orange;<item>. ^white;You should ^green;go and ask ^orange;<target>^green; if we can borrow <target.pronoun.possessive>. ^white;No need to mention that we won't be able to return it. ",
-      "Rus": "Теперь нам нужно найти себе ^orange;<item.reflexive>. Думаю, <target> мог бы помочь нам. ^white;Ты должен ^green;пойти и попросить <target.pronoun.reflexive> ^white;об одолжении. Не думаю, что нам стоит упоминать о том, что мы не сможем вернуть одолженное."
+      "Rus": "Теперь нам нужно найти себе ^orange;<item.accusative>. Думаю, <target> мог бы помочь нам. ^white;Ты должен ^green;пойти и попросить <target.pronoun.reflexive> ^white;об одолжении. Не думаю, что нам стоит упоминать о том, что мы не сможем вернуть одолженное."
     }
   },
   {
@@ -154,7 +154,7 @@
     },
     "Texts": {
       "Eng": "Our first priority should be obtaining a good quality ^orange;<item>. I think it's quicker to just^green; ask ^orange;<target>^green; if we can borrow <target.pronoun.possessive>. ",
-      "Rus": "Сперва нам нужно добыть ^orange;<item.reflexive>^white; хорошего качества. Я слышал<questGiver.pronoun.verbEnding>, ^orange;<target>^white; обладает тем, что нам нужно. Думаю, будет быстрее просто ^green; спросить у н<target.pronoun.reflexive>. "
+      "Rus": "Сперва нам нужно добыть ^orange;<item.accusative>^white; хорошего качества. Я слышал<questGiver.pronoun.verbEnding>, ^orange;<target>^white; обладает тем, что нам нужно. Думаю, будет быстрее просто ^green; спросить у н<target.pronoun.reflexive>. "
     }
   },
   {
@@ -190,7 +190,7 @@
     },
     "Texts": {
       "Eng": "This <item> will work perfectly! <target> saved us tracking one down ourselves. Make sure you don't damage it, <target.pronoun.subject> wouldn't be happy if you returned it in poor condition.",
-      "Rus": "Думаю, то, что ты принёс прекрасно подойдёт! <target> избавил<target.pronoun.verbEnding> нас от необходимости искать всё самим. Надеюсь ты ничего не повредил? <target.pronoun.subject> будет не в восторге, если мы вернём <item.reflexive> в плохом состоянии."
+      "Rus": "Думаю, то, что ты принёс прекрасно подойдёт! <target> избавил<target.pronoun.verbEnding> нас от необходимости искать всё самим. Надеюсь ты ничего не повредил? <target.pronoun.subject> будет не в восторге, если мы вернём <item.accusative> в плохом состоянии."
     }
   },
   {
@@ -216,7 +216,7 @@
     },
     "Texts": {
       "Eng": "We could really use a good ^orange;<item>^white; right now. ^orange;<target> ^white;is sure to have one in <target.pronoun.possessiveDet> posession. Why don't you ^green;go and borrow it from <target.pronoun.object>? ",
-      "Rus": "Мы могли бы использовать ^orange;<item.reflexive>^white; хорошего качества. ^orange;<target> ^white; скорее всего хранит парочку таких. Почему бы тебе не ^green;пойти и забрать их у <target.pronoun.object>?"
+      "Rus": "Мы могли бы использовать ^orange;<item.accusative>^white; хорошего качества. ^orange;<target> ^white; скорее всего хранит парочку таких. Почему бы тебе не ^green;пойти и забрать их у <target.pronoun.object>?"
     }
   },
   {
@@ -230,7 +230,7 @@
     },
     "Texts": {
       "Eng": "We need to talk to ^orange;<target>^white; next. ^green;Go assk for <target.pronoun.possessiveDet> ^orange;<item>^white;, <target.pronoun.subject> won't mind if Floran borrowsss it.",
-      "Rus": "Теперь надо найти кого-нибудь, кто мог бы отдать нам <item.reflexive>. ^green;Иди спроси^white;, не будет ли ^orange;<target>^white; против одолжить флорану ^orange;<item.reflexive>^white;, что валяется у н<target.pronoun.reflexive> без дела."
+      "Rus": "Теперь надо найти кого-нибудь, кто мог бы отдать нам <item.accusative>. ^green;Иди спроси^white;, не будет ли ^orange;<target>^white; против одолжить флорану ^orange;<item.accusative>^white;, что валяется у н<target.pronoun.reflexive> без дела."
     }
   },
   {
@@ -242,7 +242,7 @@
     },
     "Texts": {
       "Eng": "We'll need a nice ^orange;<item>^white; to begin with. I seem to remember seeing ^orange;<target> ^white;with one quite recently. Why don't you ^green;go and ask if we can borrow it for a while? ^white;We can tell <target.pronoun.object> we lost it later if <target.pronoun.subject> asks for it back. ",
-      "Rus": "^orange;<item>^white; - вот что нам нужно для начала. Кажется я помню, что недавно видел<self.pronoun.verbEnding> как ^orange;<target> ^white; купил<target.pronoun.verbEnding> <item.reflexive> подходящего размера. Почему бы тебе ^green;не сходить и не одолжить <target.pronoun.reflexive> приобретение ненадолго? А когда настанет время возвращать, мы скажем что потеряли <item.reflexive>."
+      "Rus": "^orange;<item>^white; - вот что нам нужно для начала. Кажется я помню, что недавно видел<self.pronoun.verbEnding> как ^orange;<target> ^white; купил<target.pronoun.verbEnding> <item.accusative> подходящего размера. Почему бы тебе ^green;не сходить и не одолжить <target.pronoun.reflexive> приобретение ненадолго? А когда настанет время возвращать, мы скажем что потеряли <item.accusative>."
     }
   },
   {
@@ -254,7 +254,7 @@
     },
     "Texts": {
       "Eng": "We'll need to ^green;borrow^orange; <target>'s <item> ^white;next. <target.pronoun.capitalSubject>'ll not have a problem handing it over if you ^green;tell <target.pronoun.object> I sent you.",
-      "Rus": "Нам надо ^green;одолжить ^orange;<item.reflexive> у кого-нибудь. ^white;<target> отдаст ^orange;вещицу ^white;если ^green;скажешь, что ты от меня."
+      "Rus": "Нам надо ^green;одолжить ^orange;<item.accusative> у кого-нибудь. ^white;<target> отдаст ^orange;вещицу ^white;если ^green;скажешь, что ты от меня."
     }
   },
   {
@@ -302,7 +302,7 @@
     },
     "Texts": {
       "Eng": "You got the <item>! It's nice that <target> trustsss us with it. I can't promisse that we'll give it back though.",
-      "Rus": "Ты досстал<player.pronoun.verbEnding> <item.reflexive>! Хорошо, что <target> верит нам. Я не могу обещщщать, что мы вернем одолженное."
+      "Rus": "Ты досстал<player.pronoun.verbEnding> <item.accusative>! Хорошо, что <target> верит нам. Я не могу обещщщать, что мы вернем одолженное."
     }
   }
 ]

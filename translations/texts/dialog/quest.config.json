@@ -32,7 +32,7 @@
     },
     "Texts": {
       "Eng": "<questGiver> can borrow my <item> if they ain't gonna take if for long!",
-      "Rus": "<questGiver> может одолжить <item.reflexive>, если ненадолго!"
+      "Rus": "<questGiver> может одолжить <item.accusative>, если ненадолго!"
     }
   },
   {
@@ -44,7 +44,7 @@
     },
     "Texts": {
       "Eng": "<questGiver> can borrow my <item> if they have need of it!",
-      "Rus": "<questGiver> может одолжить <item.reflexive> если надо!"
+      "Rus": "<questGiver> может одолжить <item.accusative> если надо!"
     }
   },
   {
@@ -56,7 +56,7 @@
     },
     "Texts": {
       "Eng": "<questGiver> can borrow my <item> if they need it!",
-      "Rus": "<questGiver> может одолжить <item.reflexive> если надо!"
+      "Rus": "<questGiver> может одолжить <item.accusative> если надо!"
     }
   },
   {
@@ -68,7 +68,7 @@
     },
     "Texts": {
       "Eng": "<questGiver> can borrow my <item>! As long as they give it back to me when they're done.",
-      "Rus": "<questGiver> может одолжить <item.reflexive> если нужно! Но только если вернет."
+      "Rus": "<questGiver> может одолжить <item.accusative> если нужно! Но только если вернет."
     }
   },
   {
@@ -80,7 +80,7 @@
     },
     "Texts": {
       "Eng": "<questGiver> can borrow my <item>, I just hope I get it back...",
-      "Rus": "<questGiver> можеть взять <item.reflexive>, только я надеюсь на возврат..."
+      "Rus": "<questGiver> можеть взять <item.accusative>, только я надеюсь на возврат..."
     }
   },
   {
@@ -92,7 +92,7 @@
     },
     "Texts": {
       "Eng": "<questGiver> can have my <item>, just don't hurt me!",
-      "Rus": "<questGiver> может взять <item.reflexive>, только не делай мне больно!"
+      "Rus": "<questGiver> может взять <item.accusative>, только не делай мне больно!"
     }
   },
   {
@@ -521,7 +521,7 @@
     },
     "Texts": {
       "Eng": "Don't hurt Floran with <item>! Tell <questGiver> Floran will obey!",
-      "Rus": "Не используй <item.reflexive> во вред флорану! Пусть <questGiver> знает, что Флоран подчинится!"
+      "Rus": "Не используй <item.accusative> во вред флорану! Пусть <questGiver> знает, что Флоран подчинится!"
     }
   },
   {
@@ -533,7 +533,7 @@
     },
     "Texts": {
       "Eng": "Don't hurt me with that <item> - Tell <questGiver> I'll do anything!",
-      "Rus": "Не используй <item.reflexive> мне во вред! <questGiver> должен понять, что я сделаю всё что угодно!"
+      "Rus": "Не используй <item.accusative> мне во вред! <questGiver> должен понять, что я сделаю всё что угодно!"
     }
   },
   {
@@ -545,7 +545,7 @@
     },
     "Texts": {
       "Eng": "Don't hurt me with that <item>! Tell <questGiver> I will comply!",
-      "Rus": "Убери <item.reflexive>! <questGiver> тебя подослал<questGiver.pronoun.verbEnding>, так ведь? Передай <questGiver.pronoun.object>, что я подчинюсь!"
+      "Rus": "Убери <item.accusative>! <questGiver> тебя подослал<questGiver.pronoun.verbEnding>, так ведь? Передай <questGiver.pronoun.object>, что я подчинюсь!"
     }
   },
   {
@@ -559,7 +559,7 @@
     },
     "Texts": {
       "Eng": "Don't hurt me with that <item>! Tell <questGiver> I'll do anything!",
-      "Rus": "Не используй <item.reflexive>, чтобы ранить меня. Тебя прислал<questGiver.pronoun.verbEnding> <questGiver>? Скажи <questGiver.pronoun.object>, что я сделаю что угодно!"
+      "Rus": "Не используй <item.accusative>, чтобы ранить меня. Тебя прислал<questGiver.pronoun.verbEnding> <questGiver>? Скажи <questGiver.pronoun.object>, что я сделаю что угодно!"
     }
   },
   {
@@ -595,7 +595,7 @@
     },
     "Texts": {
       "Eng": "Don't point that <item> at me! Tell <questGiver> I'll do anything!",
-      "Rus": "Не направляй <item.reflexive> на меня! Пусть <questGiver> знает, что за сделаю что угодно!"
+      "Rus": "Не направляй <item.accusative> на меня! Пусть <questGiver> знает, что за сделаю что угодно!"
     }
   },
   {
@@ -607,7 +607,7 @@
     },
     "Texts": {
       "Eng": "Extortion is not new to me. Take my <item>...",
-      "Rus": "Вымогательство для меня не впервой. Забирай <item.reflexive>..."
+      "Rus": "Вымогательство для меня не впервой. Забирай <item.accusative>..."
     }
   },
   {
@@ -631,12 +631,12 @@
     },
     "Texts": {
       "Eng": "Fine, <questGiver> can borrow my <item>.",
-      "Rus": "Ладно, <questGiver> может одолжить у меня <item.reflexive>."
+      "Rus": "Ладно, <questGiver> может одолжить у меня <item.accusative>."
     }
   },
   {
     "DeniedAlternatives": [
-      "Хорошо, <questGiver> может одолжить у меня <item.reflexive>. Не забудь принести обратно!"
+      "Хорошо, <questGiver> может одолжить у меня <item.accusative>. Не забудь принести обратно!"
     ],
     "Files": {
       "dialog/quest.config": [
@@ -682,7 +682,7 @@
     },
     "Texts": {
       "Eng": "Fine, take back the <item> - Just don't get me into trouble!",
-      "Rus": "Хорошо, забирай <item.reflexive>. Только не создавай мне проблем!"
+      "Rus": "Хорошо, забирай <item.accusative>. Только не создавай мне проблем!"
     }
   },
   {
@@ -1176,7 +1176,7 @@
     },
     "Texts": {
       "Eng": "Here is my <item> - Just tell <questGiver> to give it back soon.",
-      "Rus": "Вот то, что нужно. Просто передай <questGiver.objective>, чтобы <questGiver.pronoun.subject> вскоре вернул<questGiver.pronoun.verbEnding> <item.reflexive> назад."
+      "Rus": "Вот то, что нужно. Просто передай <questGiver.dative>, чтобы <questGiver.pronoun.subject> вскоре вернул<questGiver.pronoun.verbEnding> <item.accusative> назад."
     }
   },
   {
@@ -1200,7 +1200,7 @@
     },
     "Texts": {
       "Eng": "Here is the <item> <questGiver> wants to borrow. I suspect I won't be getting it back.",
-      "Rus": "Вот <item>, что хотел<questGiver.pronoun.verbEnding> одолжить <questGiver>. Что-то подсказывает мне, что больше я уже <item.reflexive> не увижу."
+      "Rus": "Вот <item>, что хотел<questGiver.pronoun.verbEnding> одолжить <questGiver>. Что-то подсказывает мне, что больше я уже <item.accusative> не увижу."
     }
   },
   {
@@ -1212,7 +1212,7 @@
     },
     "Texts": {
       "Eng": "Here is the <item> that <questGiver> needs.",
-      "Rus": "Вот <item>, что нужен <questGiver.objective>."
+      "Rus": "Вот <item>, что нужен <questGiver.dative>."
     }
   },
   {
@@ -1708,7 +1708,7 @@
     },
     "Texts": {
       "Eng": "I didn't steal that <item>, I was simply borrowing it.",
-      "Rus": "Я не крал<self.pronoun.verbEnding>, а просто одолжил <item.reflexive>."
+      "Rus": "Я не крал<self.pronoun.verbEnding>, а просто одолжил <item.accusative>."
     }
   },
   {
@@ -1744,7 +1744,7 @@
     },
     "Texts": {
       "Eng": "I don't mind <questGiver> borrowing my <item> as long as they bring it back eventually!",
-      "Rus": "Я не против, если <questGiver> возьмёт <item.reflexive>, но потом мне всё вернут обратно."
+      "Rus": "Я не против, если <questGiver> возьмёт <item.accusative>, но потом мне всё вернут обратно."
     }
   },
   {
@@ -1756,7 +1756,7 @@
     },
     "Texts": {
       "Eng": "I don't want to get hurt! Take my <item> if that's what you need!",
-      "Rus": "Я не хочу быть побит<self.pronoun.adj4Ending>! Возьмите <item.reflexive>, если так нужно!"
+      "Rus": "Я не хочу быть побит<self.pronoun.adj4Ending>! Возьмите <item.accusative>, если так нужно!"
     }
   },
   {
@@ -1780,7 +1780,7 @@
     },
     "Texts": {
       "Eng": "I had permission to borrow that <item>, it wasn't stolen!",
-      "Rus": "У меня было разрешение взять <item.reflexive>, я ничего не крал<self.pronoun.verbEnding>!"
+      "Rus": "У меня было разрешение взять <item.accusative>, я ничего не крал<self.pronoun.verbEnding>!"
     }
   },
   {
@@ -2328,7 +2328,7 @@
     },
     "Texts": {
       "Eng": "Just take my <item>! <questGiver> can have it!",
-      "Rus": "Просто забирай <item.reflexive>! "
+      "Rus": "Просто забирай <item.accusative>! "
     }
   },
   {
@@ -3392,7 +3392,7 @@
     },
     "Texts": {
       "Eng": "You can take that <item> back, just don't get Floran in trouble!",
-      "Rus": "Можешь забрать <item.reflexive> обратно, Флорану проблемы не нужны!"
+      "Rus": "Можешь забрать <item.accusative> обратно, Флорану проблемы не нужны!"
     }
   },
   {
