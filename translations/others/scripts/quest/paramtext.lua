@@ -78,7 +78,7 @@ local function matchTable(object, mtable)
       species = "item",
     }
     newobj.name = name
-    return matchTable(newobj, mtable)..tailname
+    return matchTable(newobj, mtable)..tailname, newobj
   end
   return name
 end
@@ -180,6 +180,7 @@ function questParameterText(paramValue, caseModifier)
     return caseModifier(itemShortDescription(paramValue.item))
   elseif paramValue.type == "itemList" then
     local listString = ""
+    local object = {}
     local count = 0
     for _,item in ipairs(paramValue.items) do
       if listString ~= "" then
@@ -189,8 +190,10 @@ function questParameterText(paramValue, caseModifier)
           listString = " и " .. listString
         end
       end
-      local description = caseModifier(itemShortDescription(item))
+      local description, oneobject = caseModifier(itemShortDescription(item))
+      object = object or oneobject
       if item.count > 1 then
+        object.gender = "plural"
         local thingEnd = getCountEnding(item.count)
         listString = string.format("%s, %s штук%s", description, item.count,
                                    thingEnd) .. listString
@@ -199,16 +202,25 @@ function questParameterText(paramValue, caseModifier)
       end
       count = count + 1
     end
-    return listString
+    if count > 1 then object.gender = "plural" end
+    object.name = listString
+    return listString, object
   end
 end
 
 function questParameterTags(parameters)
   local result = {}
+  local pronouns = root.assetJson("/quests/quests.config:pronouns")
   for k, v in pairs(parameters) do
     result[k] = questParameterText(v)
-    result[k..".reflexive"] = questParameterText(v, convertToReflexive)
+    local object
+    result[k..".reflexive"], object = questParameterText(v, convertToReflexive)
     result[k..".objective"] = questParameterText(v, convertToObjective)
+    if object and object.gender then
+      for pronounType, pronounText in pairs(pronouns[object.gender] or {}) do
+        result[k .. ".pronoun." .. pronounType] = pronounText
+      end
+    end
   end
   return result
 end
