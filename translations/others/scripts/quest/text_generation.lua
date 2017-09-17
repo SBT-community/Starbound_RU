@@ -97,12 +97,15 @@ function QuestTextGenerator:generateExtraTags()
     local gender = nil
     local identity = paramValue
     if paramValue.type == "npcType" then
-      gender, identity.name, identity.tail = detectForm(identity.name)
+      identity.gender, identity.name, identity.tail = detectForm(identity.name)
       local real = paramHumanoidIdentity(paramValue)
       tags[paramName .. ".name"] = real.name
       tags[paramName .. ".gender"] = real.gender
       real.gender = pronounGender(identity.species, real.gender)
+      insertPronouns(real, function(k,v)tags[paramName..k]=v end)
       insertPronouns(real, function(k,v)tags[paramName..".name"..k]=v end)
+      tags[paramName] = identity.name
+      insertPronouns(identity, function(k,v)tags[paramName..".type"..k]=v end)
     elseif paramValue.type == "entity" then
       tags[paramName .. ".gender"] = paramValue.gender
       gender = pronounGender(paramValue.species, paramValue.gender)
