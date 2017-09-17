@@ -1,4 +1,5 @@
 require("/scripts/util.lua")
+require("/scripts/actions/dialog.lua")
 require("/scripts/quest/paramtext.lua")
 require("/scripts/quest/participant.lua")
 require("/scripts/questgen/generator.lua")
@@ -76,7 +77,8 @@ function sayQuestDialog(args, board)
     tags[tag] = value
   end
 
-  tags.selfname = world.entityName(entity.id())
+  args.tags = tags
+  tags = makeTags(args)
 
   npc.say(dialog, tags)
   return true

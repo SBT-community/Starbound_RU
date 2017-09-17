@@ -96,7 +96,7 @@ function receiveClueDialog(args, board)
   end
 end
 
-local function makeTags(args)
+function makeTags(args)
   local tags = args.tags or {}
   local qgen = setmetatable({}, QuestTextGenerator)
   tags.selfname = world.entityName(entity.id())
@@ -110,7 +110,7 @@ local function makeTags(args)
       species = world.entitySpecies(entity.id())
     }
   }
-  if args.entity then
+  if type(args.entity) == "number" then
     tags.entityname = world.entityName(args.entity)
     qgen.parameters.player = {
       type = "entity",
@@ -120,7 +120,7 @@ local function makeTags(args)
       id = function() return args.entity end,
     }
   end
-  if args.cdtarget then
+  if type(args.cdtarget) == "number" then
     tags.entityname = world.entityName(args.cdtarget)
     qgen.parameters.dialogTarget = {
       type = "entity",
