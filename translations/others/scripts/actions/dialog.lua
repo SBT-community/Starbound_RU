@@ -118,9 +118,9 @@ local function makeTags(args)
       id = function() return args.entity end,
     }
   end
-  local xtrategs = qgen:generateExtraTags()
-  if xtrategs ~= nil then
-    util.mergeTable(tags, xtrategs)
+  local extratags = qgen:generateExtraTags()
+  if extratags ~= nil then
+    util.mergeTable(tags, extratags)
   end
   return tags
 end
