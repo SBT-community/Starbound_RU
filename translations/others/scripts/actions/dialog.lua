@@ -106,7 +106,8 @@ local function makeTags(args)
       id = entity.id,
       name = tags.selfname,
       type = "entity",
-      gender = world.entityGender(entity.id())
+      gender = world.entityGender(entity.id()),
+      species = world.entitySpecies(entity.id())
     }
   }
   if args.entity then
@@ -115,7 +116,18 @@ local function makeTags(args)
       type = "entity",
       gender = world.entityGender(args.entity),
       name = tags.entityname,
+      species = world.entitySpecies(args.entity),
       id = function() return args.entity end,
+    }
+  end
+  if args.cdtarget then
+    tags.entityname = world.entityName(args.cdtarget)
+    qgen.parameters.dialogTarget = {
+      type = "entity",
+      gender = world.entityGender(args.cdtarget),
+      name = tags.entityname,
+      species = world.entitySpecies(args.cdtarget),
+      id = function() return args.cdtarget end,
     }
   end
   local extratags = qgen:generateExtraTags()
@@ -214,6 +226,7 @@ function sayNext(args, board)
 
   local portrait = config.getParameter("chatPortrait")
 
+  if self.currentDialogTarget then args.cdtarget = self.currentDialogTarget end
   args.tags = makeTags(args)
   if self.currentDialogTarget then args.tags.entityname = world.entityName(self.currentDialogTarget) end
 
