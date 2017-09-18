@@ -158,5 +158,65 @@
     "op": "add",
     "path": "/pronouns/plural/adj4Ending",
     "value": "ыми"
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/plural/subject",
+    "value": "они"
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/plural/capitalSubject",
+    "value": "Они"
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/plural/object",
+    "value": "им"
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/plural/capitalObject",
+    "value": "Им"
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/plural/reflexive",
+    "value": "их"
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/plural/capitalReflexive",
+    "value": "Их"
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/plural/possessive",
+    "value": "их"
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/plural/capitalPosessive",
+    "value": "Их"
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/plural/possessiveDet",
+    "value": "им"
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/plural/capitalPosessiveDet",
+    "value": "Им"
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/plural/copulative",
+    "value": "них"
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/plural/copulativePast",
+    "value": "ними"
   }
 ]
