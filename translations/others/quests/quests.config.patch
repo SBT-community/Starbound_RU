@@ -1,6 +1,30 @@
 [
   {
     "op": "add",
+    "path": "/pronouns/plural",
+    "value": {
+      "verbEnding": "и",
+      "verb2Ending": "ны",
+      "verb3Ending": "ись",
+      "verb4Ending": "ли",
+      "adjEnding": "ые",
+      "adj2Ending": "ые",
+      "adj3Ending": "ие",
+      "adj4Ending": "ыми",
+      "object": "им",
+      "reflexive": "их",
+      "posessive": "их",
+      "posessiveDet": "Им",
+      "capitalObject": "Им",
+      "capitalReflexive": "Их",
+      "capitalPosessive": "Их",
+      "capitalPosessiveDet": "Им",
+      "copulative": "них",
+      "copulativePast": "ними"
+    }
+  },
+  {
+    "op": "add",
     "path": "/pronouns/female/verbEnding",
     "value": "а"
   },
@@ -13,11 +37,6 @@
     "op": "add",
     "path": "/pronouns/neutral/verbEnding",
     "value": ""
-  },
-  {
-    "op": "add",
-    "path": "/pronouns/plural/verbEnding",
-    "value": "и"
   },
   {
     "op": "add",
@@ -36,11 +55,6 @@
   },
   {
     "op": "add",
-    "path": "/pronouns/plural/verb2Ending",
-    "value": "ены"
-  },
-  {
-    "op": "add",
     "path": "/pronouns/female/verb3Ending",
     "value": "ась"
   },
@@ -53,11 +67,6 @@
     "op": "add",
     "path": "/pronouns/neutral/verb3Ending",
     "value": "ся"
-  },
-  {
-    "op": "add",
-    "path": "/pronouns/plural/verb3Ending",
-    "value": "ись"
   },
   {
     "op": "add",
@@ -76,11 +85,6 @@
   },
   {
     "op": "add",
-    "path": "/pronouns/plural/verb4Ending",
-    "value": "ли"
-  },
-  {
-    "op": "add",
     "path": "/pronouns/female/adjEnding",
     "value": "ая"
   },
@@ -93,11 +97,6 @@
     "op": "add",
     "path": "/pronouns/neutral/adjEnding",
     "value": "ой"
-  },
-  {
-    "op": "add",
-    "path": "/pronouns/plural/adjEnding",
-    "value": "ые"
   },
   {
     "op": "add",
@@ -116,11 +115,6 @@
   },
   {
     "op": "add",
-    "path": "/pronouns/plural/adj2Ending",
-    "value": "ые"
-  },
-  {
-    "op": "add",
     "path": "/pronouns/female/adj3Ending",
     "value": "ая"
   },
@@ -136,11 +130,6 @@
   },
   {
     "op": "add",
-    "path": "/pronouns/plural/adj3Ending",
-    "value": "ие"
-  },
-  {
-    "op": "add",
     "path": "/pronouns/female/adj4Ending",
     "value": "ой"
   },
@@ -153,70 +142,5 @@
     "op": "add",
     "path": "/pronouns/neutral/adj4Ending",
     "value": "ым"
-  },
-  {
-    "op": "add",
-    "path": "/pronouns/plural/adj4Ending",
-    "value": "ыми"
-  },
-  {
-    "op": "add",
-    "path": "/pronouns/plural/subject",
-    "value": "они"
-  },
-  {
-    "op": "add",
-    "path": "/pronouns/plural/capitalSubject",
-    "value": "Они"
-  },
-  {
-    "op": "add",
-    "path": "/pronouns/plural/object",
-    "value": "им"
-  },
-  {
-    "op": "add",
-    "path": "/pronouns/plural/capitalObject",
-    "value": "Им"
-  },
-  {
-    "op": "add",
-    "path": "/pronouns/plural/reflexive",
-    "value": "их"
-  },
-  {
-    "op": "add",
-    "path": "/pronouns/plural/capitalReflexive",
-    "value": "Их"
-  },
-  {
-    "op": "add",
-    "path": "/pronouns/plural/possessive",
-    "value": "их"
-  },
-  {
-    "op": "add",
-    "path": "/pronouns/plural/capitalPosessive",
-    "value": "Их"
-  },
-  {
-    "op": "add",
-    "path": "/pronouns/plural/possessiveDet",
-    "value": "им"
-  },
-  {
-    "op": "add",
-    "path": "/pronouns/plural/capitalPosessiveDet",
-    "value": "Им"
-  },
-  {
-    "op": "add",
-    "path": "/pronouns/plural/copulative",
-    "value": "них"
-  },
-  {
-    "op": "add",
-    "path": "/pronouns/plural/copulativePast",
-    "value": "ними"
   }
 ]
