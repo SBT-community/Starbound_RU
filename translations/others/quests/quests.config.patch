@@ -16,6 +16,11 @@
   },
   {
     "op": "add",
+    "path": "/pronouns/plural/verbEnding",
+    "value": "и"
+  },
+  {
+    "op": "add",
     "path": "/pronouns/female/verb2Ending",
     "value": "на"
   },
@@ -31,8 +36,28 @@
   },
   {
     "op": "add",
+    "path": "/pronouns/plural/verb2Ending",
+    "value": "ены"
+  },
+  {
+    "op": "add",
     "path": "/pronouns/female/verb3Ending",
     "value": "ась"
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/male/verb3Ending",
+    "value": "ся"
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/neutral/verb3Ending",
+    "value": "ся"
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/plural/verb3Ending",
+    "value": "ись"
   },
   {
     "op": "add",
@@ -44,20 +69,15 @@
     "path": "/pronouns/neutral/verb4Ending",
     "value": ""
   },
-    {
+  {
     "op": "add",
     "path": "/pronouns/female/verb4Ending",
     "value": "ла"
   },
   {
     "op": "add",
-    "path": "/pronouns/male/verb3Ending",
-    "value": "ся"
-  },
-  {
-    "op": "add",
-    "path": "/pronouns/neutral/verb3Ending",
-    "value": "ся"
+    "path": "/pronouns/plural/verb4Ending",
+    "value": "ли"
   },
   {
     "op": "add",
@@ -76,6 +96,11 @@
   },
   {
     "op": "add",
+    "path": "/pronouns/plural/adjEnding",
+    "value": "ые"
+  },
+  {
+    "op": "add",
     "path": "/pronouns/female/adj2Ending",
     "value": "ая"
   },
@@ -89,7 +114,12 @@
     "path": "/pronouns/neutral/adj2Ending",
     "value": "ый"
   },
-    {
+  {
+    "op": "add",
+    "path": "/pronouns/plural/adj2Ending",
+    "value": "ые"
+  },
+  {
     "op": "add",
     "path": "/pronouns/female/adj3Ending",
     "value": "ая"
@@ -106,6 +136,11 @@
   },
   {
     "op": "add",
+    "path": "/pronouns/plural/adj3Ending",
+    "value": "ие"
+  },
+  {
+    "op": "add",
     "path": "/pronouns/female/adj4Ending",
     "value": "ой"
   },
@@ -118,5 +153,10 @@
     "op": "add",
     "path": "/pronouns/neutral/adj4Ending",
     "value": "ым"
+  },
+  {
+    "op": "add",
+    "path": "/pronouns/plural/adj4Ending",
+    "value": "ыми"
   }
 ]
