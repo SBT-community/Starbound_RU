@@ -1067,7 +1067,7 @@
     },
     "Texts": {
       "Eng": "Haha, I tricked you!",
-      "Rus": "Хаха, я тебя обманул<self.pronoun.verbEnding>!"
+      "Rus": "Хаха, я тебя обманул!"
     }
   },
   {
@@ -1116,7 +1116,7 @@
     },
     "Texts": {
       "Eng": "Hello! <questGiver> contracted me to help you fight the <enemy>.",
-      "Rus": "Привет! Ты от <questGiver>? Я помогу тебе с  <enemy>."
+      "Rus": "Привет! Ты от <questGiver>? Я помогу тебе с <enemy>."
     }
   },
   {
@@ -1128,7 +1128,7 @@
     },
     "Texts": {
       "Eng": "Hello. <questGiver> contracted me to help you fight the <enemy>.",
-      "Rus": "Привет! Ты от <questGiver>? Я помогу тебе с  <enemy>."
+      "Rus": "Привет! Ты от <questGiver>? Я помогу тебе с <enemy>."
     }
   },
   {
@@ -1598,7 +1598,7 @@
     },
     "Texts": {
       "Eng": "I always thought I had a pretty good sense on direction... I guess not. Would you mind taking me to <questGiver>?",
-      "Rus": "Я всегда думал<friend.pronoun.verbEnding>, что довольно хорошо ориентируюсь на местности... Походу, нет. Ты не мог бы отвести меня к моему другу, по имени <questGiver>?"
+      "Rus": "Я всегда думал, что довольно хорошо ориентируюсь на местности... Походу, нет. Ты не мог бы отвести меня к моему другу, по имени <questGiver>?"
     }
   },
   {
@@ -1611,7 +1611,7 @@
     },
     "Texts": {
       "Eng": "I am done! Thank you for waiting. Now, please take this parcel to <questGiver>...",
-      "Rus": "Я закончил<target.pronoun.verbEnding>! Спасибо за ожидание. А сейчас, пожалуйста, отнеси эту посылку заказчику..."
+      "Rus": "Я закончил! Спасибо за ожидание. А сейчас, пожалуйста, отнеси эту посылку заказчику..."
     }
   },
   {
@@ -1635,7 +1635,7 @@
     },
     "Texts": {
       "Eng": "I am incredibly lost right now. Would you mind taking me to <questGiver>?",
-      "Rus": "Я только что сам<friend.pronoun.verbEnding> не понял<friend.pronoun.verbEnding>, как потерял<friend.pronoun.verb3Ending>. Ты не мог<player.pronoun.verb4Ending> бы отвести меня в дом, где живёт <questGiver>?"
+      "Rus": "Я только что сам не понял, как потерял. Ты не мог бы отвести меня в дом, где живёт <questGiver>?"
     }
   },
   {
@@ -1647,7 +1647,7 @@
     },
     "Texts": {
       "Eng": "I am so lost. Can you take me back to <questGiver>?",
-      "Rus": "Я сильно заблудил<friend.pronoun.verb3Ending>. Ты не мог<player.pronoun.verb4Ending> бы меня отвести обратно в дом, где живёт <questGiver>?"
+      "Rus": "Я сильно заблудил. Ты не мог бы меня отвести обратно в дом, где живёт <questGiver>?"
     }
   },
   {
@@ -1659,7 +1659,7 @@
     },
     "Texts": {
       "Eng": "I am very shaken - Please, would you take back to <questGiver>?",
-      "Rus": "Я так потрясён<friend.pronoun.verbEnding>... Пожалуйста, не мог<player.pronoun.verb4Ending> бы ты отвести меня обратно в дом, где живёт <questGiver>?"
+      "Rus": "Я так потрясён... Пожалуйста, не мог бы ты отвести меня обратно в дом, где живёт <questGiver>?"
     }
   },
   {
@@ -1671,7 +1671,7 @@
     },
     "Texts": {
       "Eng": "I appear to be lost. Help me - take me back to <questGiver>?",
-      "Rus": "Походу, я потерял<friend.pronoun.verb3Ending>. Помоги мне - отведи меня обратно к моему другу, по имени <questGiver>."
+      "Rus": "Походу, я потерял. Помоги мне - отведи меня обратно к моему другу, по имени <questGiver>."
     }
   },
   {
@@ -1820,7 +1820,7 @@
     },
     "Texts": {
       "Eng": "I have finished! Now please take this package to <questGiver> for me.",
-      "Rus": "Я закончил<target.pronoun.verbEnding>! А сейчас, пожалуйста, отнеси для меня эту посылку. <questGiver> ждёт."
+      "Rus": "Я закончил! А сейчас, пожалуйста, отнеси для меня эту посылку. <questGiver> ждёт."
     }
   },
   {
@@ -2314,6 +2314,7 @@
     },
     "Texts": {
       "Eng": "Jus' to let you know, I have no idea where that <item> came from!"
+      "Rus": "Прост чтоб ты знал, я без понятия, откуда у меня <item>!"
     }
   },
   {
@@ -3464,7 +3465,7 @@
     },
     "Texts": {
       "Eng": "You have brought me the materials! Hold on one moment...",
-      "Rus": "Ты принес(ла) все материалы! Погоди-ка минутку..."
+      "Rus": "Спасибо за все материалы! Погоди-ка минутку..."
     }
   },
   {
@@ -3512,7 +3513,7 @@
     },
     "Texts": {
       "Eng": "You saved me! I am forever grateful!",
-      "Rus": "Я спасен<self.pronoun.verbEnding>! Моя благодарность безгранична!"
+      "Rus": "Я спасен! Моя благодарность безгранична!"
     }
   },
   {
@@ -3584,7 +3585,7 @@
     },
     "Texts": {
       "Eng": "You've secured the materials? Good. Wait one moment, I just need to make this...",
-      "Rus": "У тебя есть все материалы? Хорошо.  Подожди-ка, сейчас всё будет..."
+      "Rus": "У тебя есть все материалы? Хорошо. Подожди-ка, сейчас всё будет..."
     }
   },
   {
