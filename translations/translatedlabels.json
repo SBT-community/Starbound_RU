@@ -1003,7 +1003,7 @@
             },
             "tentaclegun": {
               "tentaclegun.activeitem.json": 2,
-              "tentaclegun.weaponability.json": 0,
+              "tentaclegun.weaponability.json": 1,
               "wormgun.activeitem.json": 4
             }
           },
@@ -1045,10 +1045,10 @@
                 "bouncingshot.weaponability.json": 1
               },
               "burstshot": {
-                "burstshot.weaponability.json": 0
+                "burstshot.weaponability.json": 1
               },
               "chargefire": {
-                "chargefire.weaponability.json": 0
+                "chargefire.weaponability.json": 1
               },
               "deathbomb": {
                 "deathbomb.weaponability.json": 1
@@ -1057,10 +1057,10 @@
                 "erchiusbeam.weaponability.json": 1
               },
               "erchiuslauncher": {
-                "erchiuslauncher.weaponability.json": 0
+                "erchiuslauncher.weaponability.json": 1
               },
               "explosiveburst": {
-                "explosiveburst.weaponability.json": 0
+                "explosiveburst.weaponability.json": 1
               },
               "explosiveshot": {
                 "explosiveshot.weaponability.json": 1
@@ -1085,16 +1085,16 @@
                 "piercingshot.weaponability.json": 1
               },
               "rocketburst": {
-                "rocketburst.weaponability.json": 0
+                "rocketburst.weaponability.json": 1
               },
               "shrapnelbomb": {
                 "shrapnelbomb.weaponability.json": 1
               },
               "sparkles": {
-                "sparkles.weaponability.json": 0
+                "sparkles.weaponability.json": 1
               },
               "spray": {
-                "spray.weaponability.json": 0
+                "spray.weaponability.json": 1
               },
               "stickyshot": {
                 "stickyshot.weaponability.json": 1

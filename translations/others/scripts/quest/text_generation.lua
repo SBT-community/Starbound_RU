@@ -2,6 +2,7 @@ require("/scripts/util.lua")
 require("/scripts/rect.lua")
 require("/scripts/quest/paramtext.lua")
 require("/scripts/quest/directions.lua")
+require("/scripts/quest/declension.lua")
 
 QuestTextGenerator = {}
 QuestTextGenerator.__index = QuestTextGenerator
@@ -33,8 +34,18 @@ function QuestTextGenerator:init(templateId, parameters, seed, arcPosition)
 
   self.config = root.questConfig(self.templateId).scriptConfig
 
-  self.tags = questParameterTags(self.parameters)
-  util.mergeTable(self.tags, self:generateExtraTags())
+  self.tags = self:generateExtraTags()
+  if (false) then
+    -- Left here for debug purpose
+    print("==================================")
+    print(templateId)
+    print("----------------------------------")
+    local s = {}
+    for k,v in pairs(self.tags) do table.insert(s, {k=k, v=v}) end
+    table.sort(s, function(a,b) return a.k > b.k end)
+    for i = 1, #s do print(s[i].k, s[i].v) end
+    print("==================================")
+  end
 end
 
 function generateFluffTags(fluff, seed)
@@ -63,9 +74,20 @@ local function pronounGender(species, gender)
   return gender
 end
 
+
 function QuestTextGenerator:generateExtraTags()
   local tags = {}
   local pronouns = root.assetJson("/quests/quests.config:pronouns")
+  local insertPronouns = function (identity, writer)
+    if identity.name then
+      injectDecliners(function(cn, decliner)
+        writer(cn, decliner(identity)..(identity.tail or ""))
+      end)
+    end
+    for pronounType, pronounText in pairs(pronouns[identity.gender] or {}) do
+      writer(".pronoun."..pronounType, pronounText)
+    end
+  end
 
   for paramName, paramValue in pairs(self.parameters) do
     if paramValue.region then
@@ -73,20 +95,35 @@ function QuestTextGenerator:generateExtraTags()
     end
 
     local gender = nil
+    local identity = paramValue
     if paramValue.type == "npcType" then
-      local identity = paramHumanoidIdentity(paramValue)
-      tags[paramName .. ".name"] = identity.name
-      tags[paramName .. ".gender"] = identity.gender
-      gender = pronounGender(identity.species, identity.gender)
+      identity.gender, identity.name, identity.tail = detectForm(identity.name)
+      local real = paramHumanoidIdentity(paramValue)
+      tags[paramName .. ".name"] = real.name
+      tags[paramName .. ".gender"] = real.gender
+      real.gender = pronounGender(identity.species, real.gender)
+      insertPronouns(real, function(k,v)tags[paramName..k]=v end)
+      insertPronouns(real, function(k,v)tags[paramName..".name"..k]=v end)
+      tags[paramName] = identity.name
+      insertPronouns(identity, function(k,v)tags[paramName..".type"..k]=v end)
     elseif paramValue.type == "entity" then
       tags[paramName .. ".gender"] = paramValue.gender
       gender = pronounGender(paramValue.species, paramValue.gender)
+    elseif paramValue.type == "itemList" then
+      gender = questParameterItemListTag(identity, function(casename, value)
+        tags[paramName..casename] = value
+      end)
+    elseif ({item=1,monsterType=1})[paramValue.type] then
+      identity.species = paramValue.type
+      identity.name = identity.name or itemShortDescription(identity.item)
+      gender, identity.name, identity.tail = detectForm(identity.name)
+    elseif paramValue.name then
+      tags[paramName] = paramValue.name
     end
 
     if gender then
-      for pronounType, pronounText in pairs(pronouns[gender]) do
-        tags[paramName .. ".pronoun." .. pronounType] = pronounText
-      end
+      identity.gender = gender
+      insertPronouns(identity, function(k,v)tags[paramName..k] = v end)
     end
   end
 

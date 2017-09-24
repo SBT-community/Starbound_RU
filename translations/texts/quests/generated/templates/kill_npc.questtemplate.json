@@ -172,7 +172,7 @@
     },
     "Texts": {
       "Eng": "<enemy.pronoun.subject> robbed a <individual> of their <valuable>",
-      "Rus": "<enemy.pronoun.subject> лишил<enemy.pronoun.verbEnding> у <individual> всех запасов <valuable>"
+      "Rus": "<enemy.pronoun.subject> лишил<enemy.pronoun.verbEnding> <individual> всех запасов <valuable>"
     }
   },
   {
@@ -1115,7 +1115,7 @@
     },
     "Texts": {
       "Eng": "sort <enemy.pronoun.object> out",
-      "Rus": "разделайся с <enemy.pronoun.reflexive>"
+      "Rus": "разделаться с <enemy.pronoun.reflexive>"
     }
   },
   {
@@ -1129,7 +1129,7 @@
     },
     "Texts": {
       "Eng": "sssort them out for Floran",
-      "Rus": "разделайсcя с <enemy.pronoun.reflexive>"
+      "Rus": "разделатьсcя с <enemy.pronoun.reflexive>"
     }
   },
   {
@@ -1157,7 +1157,7 @@
     },
     "Texts": {
       "Eng": "teach <enemy.pronoun.object> a lesson",
-      "Rus": "преподай <enemy.pronoun.object> урок"
+      "Rus": "преподать <enemy.pronoun.object> урок"
     }
   },
   {

@@ -96,7 +96,7 @@ function receiveClueDialog(args, board)
   end
 end
 
-local function makeTags(args)
+function makeTags(args)
   local tags = args.tags or {}
   local qgen = setmetatable({}, QuestTextGenerator)
   tags.selfname = world.entityName(entity.id())
@@ -106,21 +106,33 @@ local function makeTags(args)
       id = entity.id,
       name = tags.selfname,
       type = "entity",
-      gender = world.entityGender(entity.id())
+      gender = world.entityGender(entity.id()),
+      species = world.entitySpecies(entity.id())
     }
   }
-  if args.entity then
+  if type(args.entity) == "number" then
     tags.entityname = world.entityName(args.entity)
     qgen.parameters.player = {
       type = "entity",
       gender = world.entityGender(args.entity),
       name = tags.entityname,
+      species = world.entitySpecies(args.entity),
       id = function() return args.entity end,
     }
   end
-  local xtrategs = qgen:generateExtraTags()
-  if xtrategs ~= nil then
-    util.mergeTable(tags, xtrategs)
+  if type(args.cdtarget) == "number" then
+    tags.entityname = world.entityName(args.cdtarget)
+    qgen.parameters.dialogTarget = {
+      type = "entity",
+      gender = world.entityGender(args.cdtarget),
+      name = tags.entityname,
+      species = world.entitySpecies(args.cdtarget),
+      id = function() return args.cdtarget end,
+    }
+  end
+  local extratags = qgen:generateExtraTags()
+  if extratags ~= nil then
+    util.mergeTable(tags, extratags)
   end
   return tags
 end
@@ -214,6 +226,7 @@ function sayNext(args, board)
 
   local portrait = config.getParameter("chatPortrait")
 
+  if self.currentDialogTarget then args.cdtarget = self.currentDialogTarget end
   args.tags = makeTags(args)
   if self.currentDialogTarget then args.tags.entityname = world.entityName(self.currentDialogTarget) end
 
