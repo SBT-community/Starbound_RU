@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Отчет отдела исследований Министерства"
+    ],
     "Files": {
       "codex/missions/apex mission/apexmission1.codex": [
         "/title"
@@ -8,7 +10,7 @@
     },
     "Texts": {
       "Eng": "Miniknog R&D Report",
-      "Rus": "Отчет отдела исследований Министерства"
+      "Rus": "Отчет исследований Министерства"
     }
   },
   {
@@ -36,7 +38,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Результаты тестирования проведённого Министерством"
+    ],
     "Files": {
       "codex/missions/apex mission/apexmission1.codex": [
         "/description"
@@ -44,7 +48,7 @@
     },
     "Texts": {
       "Eng": "The report from research and development test performed by the Miniknog.",
-      "Rus": "Результаты тестирования проведённого Министерством"
+      "Rus": "Отчет об исследованиях и испытаниях, проведённых Министерством"
     }
   },
   {
