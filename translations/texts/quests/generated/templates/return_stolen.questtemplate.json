@@ -56,7 +56,7 @@
     },
     "Texts": {
       "Eng": "A thief who goes by the name of ^orange;<thief>^white; has stolen <victim>'s prized ^orange;<item>! Will you^green; retrieve it and put it back in ^orange;<victim>'s^green; house?^white; I'm sure <victim.pronoun.subject> would appreciate it.",
-      "Rus": "Злонравный вор, ^orange;<thief>^white;, унёс ^orange;<item.reflexive>^white;. Жертва грабежа - ^orange;<victim>^white;. Не мог<player.pronoun.verb4Ending> бы ты ^green;вернуть похищенное в <victim.pronoun.reflexive> дом^white;? Думаю, что <victim> бы это оценил<victim.pronoun.verbEnding>."
+      "Rus": "Злонравный вор, ^orange;<thief>^white;, унёс ^orange;<item.accusative>^white;. Жертва грабежа - ^orange;<victim>^white;. Не мог<player.pronoun.verb4Ending> бы ты ^green;вернуть похищенное в <victim.pronoun.reflexive> дом^white;? Думаю, что <victim> бы это оценил<victim.pronoun.verbEnding>."
     }
   },
   {
@@ -164,7 +164,7 @@
     },
     "Texts": {
       "Eng": "Floran has a problem, needs help from you. That ssneakthief ^orange;<thief>^white; has stolen a fine ^orange;<item>^white; from sstand-up citizen <victim>! ^green;Please take it back and put it in ^orange;<victim>'ss^green; house.",
-      "Rus": "У флорана проблема, которая требует твоего вмешательсства. Пронырлив<thief.pronoun.adj2Ending> ^orange;<thief>^white; украл<thief.pronoun.verbEnding> ^orange;<item.reflexive>^white;, :Жертва воровства - ^orange;<victim>^white;. Тебе нужно ^green;вернуть <item.reflexive> в <victim.pronoun.reflexive> дом^white;."
+      "Rus": "У флорана проблема, которая требует твоего вмешательсства. Пронырлив<thief.pronoun.adj2Ending> ^orange;<thief>^white; украл<thief.pronoun.verbEnding> ^orange;<item.accusative>^white;, :Жертва воровства - ^orange;<victim>^white;. Тебе нужно ^green;вернуть <item.accusative> в <victim.pronoun.reflexive> дом^white;."
     }
   },
   {
@@ -356,7 +356,7 @@
     },
     "Texts": {
       "Eng": "Oh no! Floran heard ^orange;<victim>^white; was robbed by ^orange;<thief>^white;. No one was there to ssstop the crime! Please, will you ^green;retrieve the stolen ^orange;<item>^green; from the thief?",
-      "Rus": "О нет! Флоран узнал, что из дома, где живёт ^orange;<victim>^white;, пропали вещи. Флоран видел, как их тащил<thief.pronoun.verbEnding> ^orange;<thief>^white; - и на вершине кучи ^orange;<item>^white;! Ты не мог бы ^green;вернуть хозяину^white; хотя бы ^orange;<item.reflexive>^white;?"
+      "Rus": "О нет! Флоран узнал, что из дома, где живёт ^orange;<victim>^white;, пропали вещи. Флоран видел, как их тащил<thief.pronoun.verbEnding> ^orange;<thief>^white; - и на вершине кучи ^orange;<item>^white;! Ты не мог бы ^green;вернуть хозяину^white; хотя бы ^orange;<item.accusative>^white;?"
     }
   },
   {
@@ -380,7 +380,7 @@
     },
     "Texts": {
       "Eng": "Return the <item> to <victim>'s house",
-      "Rus": "Верните <item.reflexive> в дом, в котором живёт <victim>"
+      "Rus": "Верните <item.accusative> в дом, в котором живёт <victim>"
     }
   },
   {
@@ -440,7 +440,7 @@
     },
     "Texts": {
       "Eng": "Take <victim>'s <item> from <thief>'s house",
-      "Rus": "Заберите <item.reflexive>, чьим хозяином был<victim.pronoun.verbEnding> <victim>, из дома, в котором живёт <thief>"
+      "Rus": "Заберите <item.accusative>, чьим хозяином был<victim.pronoun.verbEnding> <victim>, из дома, в котором живёт <thief>"
     }
   },
   {
@@ -548,7 +548,7 @@
     },
     "Texts": {
       "Eng": "Well done! <victim> will be so pleased to have the <item> back. Would you be willing to do something else for me?",
-      "Rus": "Славно сработано! <victim> будет счастлив<victim.pronoun.verbEnding>, увидев <item.reflexive> на месте."
+      "Rus": "Славно сработано! <victim> будет счастлив<victim.pronoun.verbEnding>, увидев <item.accusative> на месте."
     }
   },
   {
@@ -644,7 +644,7 @@
     },
     "Texts": {
       "Eng": "You won't believe what's happened! ^orange;<victim>^white; was robbed by none other than ^orange;<thief>.^white; Floran wishes there was sssomething we could do to help. Maybe you can ^green;return the stolen ^orange;<item> ^green;to <victim>'s houssse?",
-      "Rus": "Ты не поверишь, что случилоссь! ^orange;<victim>^white; был<victim.pronoun.verbEnding> ограблен<victim.pronoun.verbEnding>; а вор - это никто иной, как ^orange;<thief>^white;. Флоран думает, что нужно что-то ссделать. Может быть ты ^green;вернёшь ^orange;<item.reflexive>^green; в <victim.pronoun.reflexive> дом^white;?"
+      "Rus": "Ты не поверишь, что случилоссь! ^orange;<victim>^white; был<victim.pronoun.verbEnding> ограблен<victim.pronoun.verbEnding>; а вор - это никто иной, как ^orange;<thief>^white;. Флоран думает, что нужно что-то ссделать. Может быть ты ^green;вернёшь ^orange;<item.accusative>^green; в <victim.pronoun.reflexive> дом^white;?"
     }
   },
   {

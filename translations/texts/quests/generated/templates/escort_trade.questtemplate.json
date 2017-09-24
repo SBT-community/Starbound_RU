@@ -33,7 +33,7 @@
     },
     "Texts": {
       "Eng": "Bring <questGiver> to <target>",
-      "Rus": "Приведите <questGiver> к <target>"
+      "Rus": "Приведите <questGiver.accusative> к <target.dative>"
     }
   },
   {
@@ -45,7 +45,7 @@
     },
     "Texts": {
       "Eng": "Firsst, we're going to need ^orange;<items>^white;. They were meant to be delivered by travelling merchant ^orange;<target>^white;, but Floran thinksss <target.pronoun.subject> got lost around the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Could you ^green;take Floran there^white; so Floran can find <target> and ^green;retrieve the ssstuff^white;?",
-      "Rus": "Сначала, нам нужно добыть ^orange;<items.reflexive>^white;. Их должен был доставить странствующщщий торговец по имени ^orange;<target>^white;, но Флоран думает, что <target.pronoun.subject> заблудил<target.pronoun.verb3Ending> неподалёку от ^orange;<spawnPoint>^white;<spawnPoint.direction>. Может ты сможешь ^green;отвести туда Флорана^white;, чтобы Флоран мог отыскать торговца и ^green;вернуть вещщщи^white;?"
+      "Rus": "Сначала, нам нужно добыть ^orange;<items.accusative>^white;. Их должен был доставить странствующщщий торговец по имени ^orange;<target>^white;, но Флоран думает, что <target.pronoun.subject> заблудил<target.pronoun.verb3Ending> неподалёку от ^orange;<spawnPoint>^white;<spawnPoint.direction>. Может ты сможешь ^green;отвести туда Флорана^white;, чтобы Флоран мог отыскать торговца и ^green;вернуть вещщщи^white;?"
     }
   },
   {
@@ -58,7 +58,7 @@
     },
     "Texts": {
       "Eng": "First, we're going to need ^orange;<items>^white;. They were due to be delivered by travelling merchant ^orange;<target>^white;, but I think <target.pronoun.subject> managed to get lost around the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Could you ^green;take me there^white; so we can find <target> and ^green;retrieve the goods^white;?",
-      "Rus": "Сперва, нам нужно найти ^orange;<items.reflexive>^white;, что должен был доставить странствующий торговец по имени ^orange;<target>^white;, но я думаю, что <target.pronoun.subject> сумел<target.pronoun.verbEnding> потеряться возле ^orange;<spawnPoint>^white;<spawnPoint.direction>. Можешь ^green;взять меня с собой^white;, чтобы мы могли найти торговца и ^green;вернуть товар^white;?"
+      "Rus": "Сперва, нам нужно найти ^orange;<items.accusative>^white;, что должен был доставить странствующий торговец по имени ^orange;<target>^white;, но я думаю, что <target.pronoun.subject> сумел<target.pronoun.verbEnding> потеряться возле ^orange;<spawnPoint>^white;<spawnPoint.direction>. Можешь ^green;взять меня с собой^white;, чтобы мы могли найти торговца и ^green;вернуть товар^white;?"
     }
   },
   {
@@ -83,7 +83,7 @@
     },
     "Texts": {
       "Eng": "Next, we're going to need ^orange;<items>^white;. They were due to be delivered by travelling merchant ^orange;<target>^white;, but I think <target.pronoun.subject> managed to get lost around the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Could you ^green;take me there^white; so we can find <target> and ^green;retrieve the goods^white;?",
-      "Rus": "Теперь, нам нужно найти ^orange;<items.reflexive>^white;. Их должен был доставить странствующий торговец по имени ^orange;<target>^white;, но я думаю, что <target.pronoun.subject> сумел<target.pronoun.verbEnding> потеряться возле ^orange;<spawnPoint>^white;<spawnPoint.direction>. Можешь ^green;взять меня с собой^white;, чтобы мы могли найти торговца и ^green;вернуть товар^white;?"
+      "Rus": "Теперь нам нужно найти ^orange;<items.accusative>^white;. Их должен был доставить странствующий торговец по имени ^orange;<target>^white;, но я думаю, что <target.pronoun.subject> сумел<target.pronoun.verbEnding> потеряться возле ^orange;<spawnPoint>^white;<spawnPoint.direction>. Можешь ^green;взять меня с собой^white;, чтобы мы могли найти торговца и ^green;вернуть товар^white;?"
     }
   },
   {
@@ -95,7 +95,7 @@
     },
     "Texts": {
       "Eng": "Next, we're going to need ^orange;<items>^white;. They were meant to be delivered by travelling merchant ^orange;<target>^white;, but Floran thinksss <target.pronoun.subject> got lost around the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Could you ^green;take Floran there^white; so Floran can find <target> and ^green;retrieve the ssstuff^white;?",
-      "Rus": "Теперь, нам нужно раздобыть ^orange;<items.reflexive>^white;. Их должен был доставить странствующщщий торговец по имени ^orange;<target>^white;, но флоран думает, что  <target.pronoun.subject> потерял<target.pronoun.verb3Ending> неподалёку от ^orange;<spawnPoint>^white;<spawnPoint.direction>. Может ты сможешь ^green;отвести туда флорана^white;, чтобы флоран мог отыскать торговца и ^green;вернуть вещщщи^white;?"
+      "Rus": "Теперь, нам нужно раздобыть ^orange;<items.accusative>^white;. Их должен был доставить странствующщщий торговец по имени ^orange;<target>^white;, но флоран думает, что <target.pronoun.subject> потерял<target.pronoun.verb3Ending> неподалёку от ^orange;<spawnPoint>^white;<spawnPoint.direction>. Может, ты сможешь ^green;отвести туда флорана^white;, чтобы флоран мог отыскать торговца и ^green;вернуть вещщщи^white;?"
     }
   },
   {
@@ -119,7 +119,7 @@
     },
     "Texts": {
       "Eng": "Thanks for helping me out!",
-      "Rus": "Спасибо что выручили меня!"
+      "Rus": "Спасибо что выручил<player.pronoun.verbEnding> меня!"
     }
   },
   {
@@ -155,7 +155,7 @@
     },
     "Texts": {
       "Eng": "You've really helped me out, thanks!",
-      "Rus": "Вы правда выручили меня, спасибо!"
+      "Rus": "Ты правда выручил<player.pronoun.verbEnding> меня, спасибо!"
     }
   }
 ]
