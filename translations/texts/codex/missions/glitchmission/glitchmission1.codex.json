@@ -26,7 +26,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Костяной Дракон"
+    ],
     "Files": {
       "codex/missions/glitchmission/glitchmission1.codex": [
         "/title"
@@ -34,7 +36,7 @@
     },
     "Texts": {
       "Eng": "The Bone Dragon",
-      "Rus": "Костяной Дракон"
+      "Rus": "Костяной дракон"
     }
   },
   {
