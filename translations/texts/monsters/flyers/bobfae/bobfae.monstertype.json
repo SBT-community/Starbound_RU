@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Бобфа"
+    ],
     "Files": {
       "monsters/flyers/bobfae/bobfae.monstertype": [
         "/shortdescription"
@@ -8,11 +10,13 @@
     },
     "Texts": {
       "Eng": "Bobfae",
-      "Rus": "Бобфа"
+      "Rus": "Бобфея"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Не очень хорошо летает, это тайна, как bobfae сохранились как биологический вид. "
+    ],
     "Files": {
       "monsters/flyers/bobfae/bobfae.monstertype": [
         "/description"
@@ -20,7 +24,7 @@
     },
     "Texts": {
       "Eng": "Not the most efficient flyer, it's a mystery how Bobfae have survived as a species.",
-      "Rus": "Не очень хорошо летает, это тайна, как bobfae сохранились как биологический вид."
+      "Rus": "Бобфеи не очень хорошо летают, и остаётся загадкой, как их вид сохранился до наших дней."
     }
   }
 ]
