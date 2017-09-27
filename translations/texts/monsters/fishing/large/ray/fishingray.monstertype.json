@@ -1,24 +1,32 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Импервиевый скат",
+      "Сверхпрочный скат",
+      "Непробиваемый скат"
+    ],
     "Files": {
       "monsters/fishing/large/ray/fishingray.monstertype": [
         "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Imperviray"
+      "Eng": "Imperviray",
+      "Rus": "Сверхпрочноскат"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      ""
+    ],
     "Files": {
       "monsters/fishing/large/ray/fishingray.monstertype": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "Its smooth skin is coated with a heat-resistant layer of Impervium."
+      "Eng": "Its smooth skin is coated with a heat-resistant layer of Impervium.",
+      "Rus": "Его гладкая кожа покрыта слоем сверхпрочного и термостойкого импервия."
     }
   }
 ]
