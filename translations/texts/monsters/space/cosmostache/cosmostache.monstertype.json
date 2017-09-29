@@ -7,18 +7,22 @@
       ]
     },
     "Texts": {
-      "Eng": "An irritable biomechanical lifeform. The bigger their moustaches, the older they are."
+      "Eng": "An irritable biomechanical lifeform. The bigger their moustaches, the older they are.",
+      "Rus": "Вспыльчивая биомеханическая форма жизни. Чем старше особь, тем больше её усы."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Космоусач"
+    ],
     "Files": {
       "monsters/space/cosmostache/cosmostache.monstertype": [
         "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Cosmostache"
+      "Eng": "Cosmostache",
+      "Rus": "Космоус"
     }
   }
 ]

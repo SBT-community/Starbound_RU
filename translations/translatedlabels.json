@@ -1185,13 +1185,13 @@
             "abilities": {
               "controlprojectile": {
                 "elementbouncer.weaponability.json": 0,
-                "elementorb.weaponability.json": 0,
-                "elementportal.weaponability.json": 0,
+                "elementorb.weaponability.json": 1,
+                "elementportal.weaponability.json": 1,
                 "elementrain.weaponability.json": 0,
                 "elementswarm.weaponability.json": 0,
-                "kluexshooter.weaponability.json": 0,
-                "plasmabarrage.weaponability.json": 0,
-                "plasmabladebarrage.weaponability.json": 0
+                "kluexshooter.weaponability.json": 1,
+                "plasmabarrage.weaponability.json": 1,
+                "plasmabladebarrage.weaponability.json": 1
               },
               "effectzone": {
                 "energyzone.weaponability.json": 1,
@@ -1221,8 +1221,8 @@
           },
           "whip": {
             "abilities": {
-              "energyorb.weaponability.json": 0,
-              "whipcrack.weaponability.json": 0
+              "energyorb.weaponability.json": 1,
+              "whipcrack.weaponability.json": 1
             },
             "energywhip.activeitem.json": 2,
             "intestinewhip.activeitem.json": 3,
@@ -4092,16 +4092,16 @@
       "fishing": {
         "large": {
           "breach": {
-            "fishingbreach.monstertype.json": 1
+            "fishingbreach.monstertype.json": 2
           },
           "chuckle": {
-            "fishingchuckle.monstertype.json": 1
+            "fishingchuckle.monstertype.json": 2
           },
           "dark": {
-            "fishingdark.monstertype.json": 1
+            "fishingdark.monstertype.json": 2
           },
           "fan": {
-            "fishingfan.monstertype.json": 0
+            "fishingfan.monstertype.json": 2
           },
           "hoop": {
             "fishinghoop.monstertype.json": 0
@@ -4110,10 +4110,10 @@
             "fishingmega.monstertype.json": 2
           },
           "puff": {
-            "fishingpuff.monstertype.json": 0
+            "fishingpuff.monstertype.json": 2
           },
           "ray": {
-            "fishingray.monstertype.json": 0
+            "fishingray.monstertype.json": 2
           },
           "sac": {
             "fishingsac.monstertype.json": 0
@@ -4255,7 +4255,7 @@
           "monopus.monstertype.json": 1
         },
         "parasprite": {
-          "parasprite.monstertype.json": 0
+          "parasprite.monstertype.json": 2
         },
         "paratail": {
           "paratail.monstertype.json": 2
@@ -4402,43 +4402,43 @@
       "shared_.monstertype.json": 1,
       "space": {
         "astrofae": {
-          "astrofae.monstertype.json": 0
+          "astrofae.monstertype.json": 2
         },
         "chiropterror": {
-          "chiropterror.monstertype.json": 0
+          "chiropterror.monstertype.json": 2
         },
         "cosmostache": {
-          "cosmostache.monstertype.json": 0
+          "cosmostache.monstertype.json": 2
         },
         "heavydrone": {
-          "heavydrone.monstertype.json": 0
+          "heavydrone.monstertype.json": 2
         },
         "masteroid": {
-          "masteroid.monstertype.json": 0
+          "masteroid.monstertype.json": 1
         },
         "masteroidlarge": {
-          "masteroidlarge.monstertype.json": 0
+          "masteroidlarge.monstertype.json": 1
         },
         "masteroidmid": {
-          "masteroidmid.monstertype.json": 0
+          "masteroidmid.monstertype.json": 1
         },
         "omnicannon": {
-          "omnicannon.monstertype.json": 0
+          "omnicannon.monstertype.json": 2
         },
         "rustick": {
-          "rustick.monstertype.json": 0
+          "rustick.monstertype.json": 2
         },
         "shared_masteroid": {
-          "shared_.monstertype.json": 0
+          "shared_.monstertype.json": 1
         },
         "spinemine": {
-          "spinemine.monstertype.json": 0
+          "spinemine.monstertype.json": 2
         },
         "trifangle": {
-          "trifangle.monstertype.json": 0
+          "trifangle.monstertype.json": 2
         },
         "twigun": {
-          "twigun.monstertype.json": 0
+          "twigun.monstertype.json": 2
         }
       },
       "walkers": {
@@ -4475,10 +4475,10 @@
           "hemogoblin.monstertype.json": 2
         },
         "hemogoblinbutt": {
-          "hemogoblinbutt.monstertype.json": 0
+          "hemogoblinbutt.monstertype.json": 2
         },
         "hemogoblinhead": {
-          "hemogoblinhead.monstertype.json": 0
+          "hemogoblinhead.monstertype.json": 2
         },
         "hypnare": {
           "hypnare.monstertype.json": 2
@@ -7627,7 +7627,7 @@
             "championspeardisplay.object.json": 8
           },
           "floranhunterpainting": {
-            "floranhunterpainting.object.json": 2
+            "floranhunterpainting.object.json": 7
           },
           "floranspinneret": {
             "floranspinneret.object.json": 0
@@ -7636,7 +7636,7 @@
             "floranwebbing.object.json": 0
           },
           "ixolingpike": {
-            "ixolingpike.object.json": 0
+            "ixolingpike.object.json": 8
           }
         },
         "glitch": {

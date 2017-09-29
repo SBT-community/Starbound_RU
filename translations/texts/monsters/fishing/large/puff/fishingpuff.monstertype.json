@@ -7,18 +7,22 @@
       ]
     },
     "Texts": {
-      "Eng": "It doesn't inflate when it's scared, but instead when it's bored. It's always bored."
+      "Eng": "It doesn't inflate when it's scared, but instead when it's bored. It's always bored.",
+      "Rus": "Эта рыба надувается не когда напугана, а когда ей скучно. Ей всё время скучно."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Алый волнодутень"
+    ],
     "Files": {
       "monsters/fishing/large/puff/fishingpuff.monstertype": [
         "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Scarlet Swellpurl"
+      "Eng": "Scarlet Swellpurl",
+      "Rus": "Алый дутень"
     }
   }
 ]
