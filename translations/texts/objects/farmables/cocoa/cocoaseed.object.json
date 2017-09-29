@@ -36,7 +36,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Шоколад растет на деревьях."
+    ],
     "Files": {
       "objects/farmables/cocoa/cocoaseed.object": [
         "/novakidDescription"
@@ -44,7 +46,7 @@
     },
     "Texts": {
       "Eng": "Chocolate growin' on trees.",
-      "Rus": "Шоколад растет на деревьях."
+      "Rus": "Шоколад вырос на деревьях."
     }
   },
   {
