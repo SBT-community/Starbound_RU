@@ -8,7 +8,7 @@
     },
     "Texts": {
       "Eng": "Cocoa beans can be brewed to make a tasty beverage.",
-      "Rus": "Какао-бобы можно варить, чтобы приготовить вкусный напиток."
+      "Rus": "Какао-бобы можно варить, для приготовления вкусного напитка."
     }
   },
   {
@@ -20,7 +20,7 @@
     },
     "Texts": {
       "Eng": "See beyond its bitter taste and cocoa is a useful resource.",
-      "Rus": "Несмотря на его горький вкус, какао - полезный ресурс."
+      "Rus": "Какао - полезный ресурс, несмотря на его горький вкус."
     }
   },
   {
@@ -32,7 +32,7 @@
     },
     "Texts": {
       "Eng": "cocoa beans look a tempting treat, but are extremely bitter.",
-      "Rus": "Какао-бобы выглядят соблазнительно, но чрезвычайно горькие."
+      "Rus": "Какао-бобы выглядят соблазнительным угощением, но чрезвычайно горькие."
     }
   },
   {
@@ -44,7 +44,7 @@
     },
     "Texts": {
       "Eng": "cocoa is sought after for its pep-giving properties",
-      "Rus": "Какао разыскивается за его свойства придавать энергичность"
+      "Rus": "Какао желаем за его свойства придавать энергичность"
     }
   },
   {
@@ -56,11 +56,13 @@
     },
     "Texts": {
       "Eng": "cocoa keepsss Floran awake.",
-      "Rus": "Какао поддерживает Флорана бодрствующщщим."
+      "Rus": "Какао поддерживает флорана бодрствующщщим."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Какао хорошо пахнет, но я никогда не замечал никаких полезных эффектов, чтобы пить это вещество."
+    ],
     "Files": {
       "objects/farmables/cocoa/wildcocoaseed.object": [
         "/novakidDescription"
