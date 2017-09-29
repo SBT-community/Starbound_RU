@@ -30,7 +30,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Зубы глитча получают короткую обработку жемчужным горохом."
+    ],
     "Files": {
       "objects/farmables/pearlpea/pearlpeaseed.object": [
         "/glitchDescription/glitchEmotedText"
@@ -41,7 +43,7 @@
     },
     "Texts": {
       "Eng": "Glitch teeth make short work of pearlpeas.",
-      "Rus": "Зубы глитча получают короткую обработку жемчужным горохом."
+      "Rus": "Зубы глитча быстро справятся с жемчужным горохом."
     }
   },
   {
