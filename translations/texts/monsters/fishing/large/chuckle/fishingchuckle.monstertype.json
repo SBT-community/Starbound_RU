@@ -8,11 +8,14 @@
     },
     "Texts": {
       "Eng": "Chucklefish",
-      "Rus": ""
+      "Rus": "Чаклфиш"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Разве я не видел эту рыбу где-то раньше?",
+      "Мне кажется, или я уже где-то видел эту рыбу?"
+    ],
     "Files": {
       "monsters/fishing/large/chuckle/fishingchuckle.monstertype": [
         "/description"
@@ -20,7 +23,7 @@
     },
     "Texts": {
       "Eng": "Haven't I seen this fish before somewhere?",
-      "Rus": "Разве я не видел эту рыбу где-то раньше?"
+      "Rus": "Мне кажется, или эта рыба выглядит знакомо?"
     }
   }
 ]

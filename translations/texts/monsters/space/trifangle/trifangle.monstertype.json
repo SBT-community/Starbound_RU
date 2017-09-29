@@ -1,24 +1,31 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Агрессивная и остро заточенная космическая машина. Каждая из них обладает индивидуальностью. Просто все они индивидуально злобные."
+    ],
     "Files": {
       "monsters/space/trifangle/trifangle.monstertype": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "An aggressive, pointy space machine. They do have individual personalities - they're just all uniquely angry."
+      "Eng": "An aggressive, pointy space machine. They do have individual personalities - they're just all uniquely angry.",
+      "Rus": "Агрессивная и остро заточенная космическая машина. Каждая из них - уникальная личность, просто все они уникально злобные."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Триклык",
+      "Клыкоугольник"
+    ],
     "Files": {
       "monsters/space/trifangle/trifangle.monstertype": [
         "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Trifangle"
+      "Eng": "Trifangle",
+      "Rus": "Остроугольник"
     }
   }
 ]

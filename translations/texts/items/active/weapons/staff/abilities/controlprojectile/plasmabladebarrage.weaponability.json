@@ -1,13 +1,17 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Завеса клинков",
+      "Обстрел клинками"
+    ],
     "Files": {
       "items/active/weapons/staff/abilities/controlprojectile/plasmabladebarrage.weaponability": [
         "/ability/name"
       ]
     },
     "Texts": {
-      "Eng": "Blade Barrage"
+      "Eng": "Blade Barrage",
+      "Rus": "Клинковый обстрел"
     }
   }
 ]

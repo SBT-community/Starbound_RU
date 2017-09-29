@@ -1,24 +1,30 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Автономная оборонная турель массового производства. Она очень старается не промахнуться."
+    ],
     "Files": {
       "monsters/space/twigun/twigun.monstertype": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "A mass-produced autonomous defense turret. It tries very hard not to miss."
+      "Eng": "A mass-produced autonomous defense turret. It tries very hard not to miss.",
+      "Rus": "Массово выпускаемая автономная оборонная турель. Она очень старается не промахнуться."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Паропушка"
+    ],
     "Files": {
       "monsters/space/twigun/twigun.monstertype": [
         "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Twigun"
+      "Eng": "Twigun",
+      "Rus": "Двупушка"
     }
   }
 ]
