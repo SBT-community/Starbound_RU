@@ -1314,7 +1314,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ну вот! Один <item>, только для <questGiver>!"
+    ],
     "Files": {
       "dialog/quest.config": [
         "/collect_gift/giftProvided/default/default/0",
@@ -1323,7 +1325,7 @@
     },
     "Texts": {
       "Eng": "Here you go! One <item>, just for <questGiver>!",
-      "Rus": "Ну вот! Один <item>, только для <questGiver>!"
+      "Rus": "Ну вот! <item>, одна штука, только для <questGiver>!"
     }
   },
   {
