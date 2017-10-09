@@ -104,7 +104,7 @@
     },
     "Texts": {
       "Eng": "For all you have done for me, please accept this humble gift in thanks.",
-      "Rus": "За всё что ты сделал для меня, прошу прими этот скромный подарок."
+      "Rus": "За всё что ты сделал<player.pronoun.verbEnding> для меня, прошу, прими этот скромный подарок."
     }
   },
   {
@@ -116,7 +116,7 @@
     },
     "Texts": {
       "Eng": "For all you have done, take this.",
-      "Rus": "За всё, что ты сделал, возьми это."
+      "Rus": "За всё, что ты сделал<player.pronoun.verbEnding>, возьми это."
     }
   },
   {
@@ -164,7 +164,7 @@
     },
     "Texts": {
       "Eng": "Here I am! What did you want to talk about?",
-      "Rus": "Вот и я! О чём бы ты хотел поговорить?"
+      "Rus": "Вот и я! О чём бы ты хотел<player.pronoun.verbEnding> поговорить?"
     }
   },
   {
@@ -284,7 +284,7 @@
     },
     "Texts": {
       "Eng": "How pleasant to be invited to talk.",
-      "Rus": "Как приятно быть приглашённым на беседу."
+      "Rus": "Как приятно быть приглашённ<self.pronoun.adj4Ending> на беседу."
     }
   },
   {
