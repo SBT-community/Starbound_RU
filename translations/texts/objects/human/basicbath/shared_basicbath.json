@@ -1,6 +1,9 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ванна с душем. Как с Авиана вода.",
+      ""
+    ],
     "Files": {
       "objects/human/basicbath/basicbath.object": [
         "/avianDescription"
@@ -11,7 +14,7 @@
     },
     "Texts": {
       "Eng": "A bath with a shower. Like water off an Avian's back.",
-      "Rus": "Ванна с душем. Как с Авиана вода."
+      "Rus": "Ванна с душем. Как с авиана вода."
     }
   },
   {
@@ -26,7 +29,7 @@
     },
     "Texts": {
       "Eng": "A cute little bath. Looks pretty small for an Apex.",
-      "Rus": "Милая небольшая ванна. Но слишком маленькая для Апексов."
+      "Rus": "Милая небольшая ванна. Но слишком маленькая для апексов."
     }
   },
   {
@@ -43,11 +46,13 @@
     },
     "Texts": {
       "Eng": "A nice hot bath. Just what the doctor ordered. Only things missing are some bubbles and candles.",
-      "Rus": "Отличная горячая ванна. То, что доктор прописал. Только не хватает пузырьков и свечей."
+      "Rus": "Отличная горячая ванна. То, что доктор прописал. Не хватает только пузырьков и свечей."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Корыто, в котором люди моются. Мы, Хилотлы, просто идём плавать."
+    ],
     "Files": {
       "objects/human/basicbath/basicbath.object": [
         "/hylotlDescription"
@@ -58,7 +63,7 @@
     },
     "Texts": {
       "Eng": "A trough in which humans wash. We Hylotl simply go for a swim.",
-      "Rus": "Корыто, в котором люди моются. Мы, Хилотлы, просто идём плавать."
+      "Rus": "Корыто, в котором люди моются. Мы, хилотлы, просто идём плавать."
     }
   },
   {
