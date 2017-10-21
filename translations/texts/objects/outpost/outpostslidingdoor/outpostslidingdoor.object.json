@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran's not one hundred percent sssure how these doors work."
+      "Eng": "Floran's not one hundred percent sssure how these doors work.",
+      "Rus": "Флоран не на все сссто процентов уверен, как работает эта дверь."
     }
   },
   {
@@ -18,11 +19,14 @@
       ]
     },
     "Texts": {
-      "Eng": "I like these sleek slidin' doors."
+      "Eng": "I like these sleek slidin' doors.",
+      "Rus": "Люблю такие гладкие раздвижные двери."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Однажды, я бежал в дверь как эта, и она не открывалась вовремя и... да."
+    ],
     "Files": {
       "objects/outpost/outpostslidingdoor/outpostslidingdoor.object": [
         "/humanDescription"
@@ -30,7 +34,7 @@
     },
     "Texts": {
       "Eng": "Once, I ran at a door like this and it didn't open in time and... Yeah.",
-      "Rus": "Однажды, я бежал в дверь как эта, и она не открывалась вовремя и... да."
+      "Rus": "Однажды мне на бегу надо было пройти через похожую дверь. Она не открывалась вовремя и... да."
     }
   },
   {
@@ -41,11 +45,14 @@
       ]
     },
     "Texts": {
-      "Eng": "Sleek Sliding Door"
+      "Eng": "Sleek Sliding Door",
+      "Rus": "Гладкая раздвижная дверь"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Некоторые культуры полагают, что, если у Вас нет души, то эти двери не будут на вас реагировать."
+    ],
     "Files": {
       "objects/outpost/outpostslidingdoor/outpostslidingdoor.object": [
         "/avianDescription"
@@ -53,7 +60,7 @@
     },
     "Texts": {
       "Eng": "Some cultures believe that if you have no soul, these doors won't react to you.",
-      "Rus": "Некоторые культуры полагают, что, если у Вас нет души, то эти двери не будут на вас реагировать."
+      "Rus": "В некоторых культурах верят, что эти двери не реагируют на тех, у кого нет души."
     }
   }
 ]
