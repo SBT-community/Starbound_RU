@@ -176,7 +176,7 @@
     },
     "Texts": {
       "Eng": "Floran heard about ^orange;<target> ^white;doing sssome terrible things. Floran has written a ^orange;crime notice^white; for <target.pronoun.object>. ^green;Deliver it, and take one ^orange;<item>^green; as payment.",
-      "Rus": ""
+      "Rus": "Флоран слышал, что ^orange;<target>^white; творит ужасссные вещи. Флоран написал <target.pronoun.object> ^orange;повестку^white;. ^green;Доставь её и забери у <target.accusative> ^orange;<item.accusative>^green; в качестве платы."
     }
   },
   {
@@ -188,7 +188,7 @@
     },
     "Texts": {
       "Eng": "Hopefully <target> learned a lesson - never get caught doing bad thingss... You can keep that <item> if you like.",
-      "Rus": ""
+      "Rus": "Надеюсь, <target> усвоил<target.pronoun.verbEnding> урок: никогда не попадайссся... Кстати, <item.accusative> можешь оставить себе, если хочешь."
     }
   },
   {
@@ -200,7 +200,7 @@
     },
     "Texts": {
       "Eng": "I failed to collect the fine from <target>. Maybe <questGiver> should chase <target.pronoun.object> up <questGiver.pronoun.reflexive>.",
-      "Rus": ""
+      "Rus": "У меня не вышло собрать штраф с <target.accusative>. Может <questGiver> долж<questGiver.pronoun.verb2Ending> попытаться добиться оплаты самостоятельно...?"
     }
   },
   {
@@ -212,7 +212,7 @@
     },
     "Texts": {
       "Eng": "I failed to collect the fine from <target>. Maybe <questGiver> should stop asking passers-by to do <target.pronoun.possessiveDet> job for <target.pronoun.object>.,",
-      "Rus": ""
+      "Rus": "У меня не вышло собрать штраф с <target.accusative>. Может <questGiver.dative> стоит перестать просить прохожишь выполнять <questGiver.pronoun.reflexive> работу...?"
     }
   },
   {
@@ -224,7 +224,7 @@
     },
     "Texts": {
       "Eng": "I failed to deliver the crime notice to <target> and collect the <item> as collateral. Perhaps I'm not cut out to be a debt collector.",
-      "Rus": ""
+      "Rus": "У меня не вышло доставить <target.dative> повестку и добиться оплаты штрафа. Возможно, из меня плохой коллектор."
     }
   },
   {
