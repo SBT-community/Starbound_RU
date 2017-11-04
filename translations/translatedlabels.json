@@ -4104,7 +4104,7 @@
             "fishingfan.monstertype.json": 2
           },
           "hoop": {
-            "fishinghoop.monstertype.json": 0
+            "fishinghoop.monstertype.json": 2
           },
           "mega": {
             "fishingmega.monstertype.json": 2
@@ -4116,18 +4116,18 @@
             "fishingray.monstertype.json": 2
           },
           "sac": {
-            "fishingsac.monstertype.json": 0
+            "fishingsac.monstertype.json": 2
           },
           "seal": {
-            "fishingseal.monstertype.json": 0
+            "fishingseal.monstertype.json": 2
           },
           "sunbeam": {
-            "fishingsunbeam.monstertype.json": 0
+            "fishingsunbeam.monstertype.json": 2
           }
         },
         "medium": {
           "bulb": {
-            "fishingbulb.monstertype.json": 0
+            "fishingbulb.monstertype.json": 2
           },
           "chomp": {
             "fishingchomp.monstertype.json": 0
@@ -9587,16 +9587,16 @@
           "shared_basicbath.json": 7
         },
         "basictoilet": {
-          "basictoilet.object.json": 8
+          "basictoilet.object.json": 9
         },
         "basictv": {
           "basictv.object.json": 9
         },
         "bunkerbigpanel": {
-          "bunkerbigpanel.object.json": 6
+          "bunkerbigpanel.object.json": 9
         },
         "bunkerbookcase": {
-          "bunkerbookcase.object.json": 7
+          "bunkerbookcase.object.json": 9
         },
         "bunkercabinet1": {
           "bunkercabinet1.object.json": 7
@@ -9611,7 +9611,7 @@
           "bunkerconsole2.object.json": 7
         },
         "bunkerconsole3": {
-          "bunkerconsole3.object.json": 2
+          "bunkerconsole3.object.json": 9
         },
         "bunkerconsole4": {
           "bunkerconsole4.object.json": 9
@@ -9623,25 +9623,25 @@
           "bunkercrate.object.json": 8
         },
         "bunkerdesk": {
-          "bunkerdesk.object.json": 8
+          "bunkerdesk.object.json": 9
         },
         "bunkerdisplay1": {
-          "bunkerdisplay1.object.json": 0
+          "bunkerdisplay1.object.json": 2
         },
         "bunkerdisplay2": {
-          "bunkerdisplay2.object.json": 0
+          "bunkerdisplay2.object.json": 9
         },
         "bunkerdisplay3": {
-          "bunkerdisplay3.object.json": 0
+          "bunkerdisplay3.object.json": 2
         },
         "bunkerdisplay4": {
           "bunkerdisplay4.object.json": 9
         },
         "bunkereyescanner": {
-          "bunkereyescanner.object.json": 0
+          "bunkereyescanner.object.json": 9
         },
         "bunkerhandscanner": {
-          "bunkerhandscanner.object.json": 0
+          "bunkerhandscanner.object.json": 9
         },
         "bunkerheater1": {
           "bunkerheater1.object.json": 4
@@ -9653,13 +9653,13 @@
           "bunkerlightv.object.json": 1
         },
         "bunkermotiondetector": {
-          "bunkermotiondetector.object.json": 8
+          "bunkermotiondetector.object.json": 9
         },
         "bunkerpanel1": {
-          "bunkerpanel1.object.json": 0
+          "bunkerpanel1.object.json": 9
         },
         "bunkerpanel2": {
-          "bunkerpanel2.object.json": 0
+          "bunkerpanel2.object.json": 9
         },
         "bunkerpanel3": {
           "bunkerpanel3.object.json": 0
@@ -11071,7 +11071,7 @@
           "outpostshippingcontainer.object.json": 0
         },
         "outpostslidingdoor": {
-          "outpostslidingdoor.object.json": 2
+          "outpostslidingdoor.object.json": 5
         },
         "outpostsmallmonitor": {
           "outpostsmallmonitor.object.json": 0
@@ -13247,7 +13247,7 @@
           "bribe.questtemplate.json": 18,
           "build_home.questtemplate.json": 24,
           "capture_pet.questtemplate.json": 46,
-          "collect_fine.questtemplate.json": 13,
+          "collect_fine.questtemplate.json": 18,
           "collect_gift.questtemplate.json": 24,
           "cooking.questtemplate.json": 12,
           "craft.questtemplate.json": 12,

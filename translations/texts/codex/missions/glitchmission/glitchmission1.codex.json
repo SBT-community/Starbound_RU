@@ -8,7 +8,7 @@
     },
     "Texts": {
       "Eng": "An advert for the Bone Dragon",
-      "Rus": "Реклама Костяного Дракона"
+      "Rus": "Реклама костяного дракона"
     }
   },
   {
@@ -22,11 +22,13 @@
     },
     "Texts": {
       "Eng": "Dragons aren't real. Not even the Bone Dragon. But with the Bone Dragon you get the SEMBLANCE of reality. This stainless steel robot is encased in tough and durable SimuBoneTM - the most bone-like substance in the known universe*.\n\nWhen you purchase the Bone Dragon, not only do you get a realistic facsimile of a dragon, you also get those classic dragon traits - the gift of flight, red-hot fiery breath, and a predilection for murder!\nBUT THERE'S MORE -",
-      "Rus": "Драконов не существует. Даже костяных. Но на деле Костяного Дракона можно ПОЧТИ воплотить в жизнь. Этот стальной нержавеющий робот заключён в броню из SimuBoneTM - самой костеподобной субстанции во известной нам вселенной*.\nПри заказе Костяного Дракона, Вы не только получите его самое реалистичное техническое воплощение, но также в подарок Вам достанутся классические драконьи умения - способность летать, дышать огнём а также неконтролируемое желание убивать!\nНО И ЭТО ЕЩЁ НЕ ВСЁ -"
+      "Rus": "Драконов не существует. Даже костяных. Но на деле костяного дракона можно ПОЧТИ воплотить в жизнь. Этот стальной нержавеющий робот заключён в броню из SimuBoneTM - самой костеподобной субстанции в известной нам вселенной*.\nПри заказе костяного дракона, Вы не только получите его самое реалистичное техническое воплощение, но также в подарок Вам достанутся классические драконьи умения - способность летать, дышать огнём а также неконтролируемое желание убивать!\nНО И ЭТО ЕЩЁ НЕ ВСЁ -"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Костяной Дракон"
+    ],
     "Files": {
       "codex/missions/glitchmission/glitchmission1.codex": [
         "/title"
@@ -34,7 +36,7 @@
     },
     "Texts": {
       "Eng": "The Bone Dragon",
-      "Rus": "Костяной Дракон"
+      "Rus": "Костяной дракон"
     }
   },
   {
@@ -46,7 +48,7 @@
     },
     "Texts": {
       "Eng": "The Bone Dragon is automated: with multi-function preset capabilities, and an intuitive control system!\n\nLimited stock available. Buy Now!\n\n*Excluding actual bone.",
-      "Rus": "Костяной Дракон полностью автоматизирован, имеет множество возможностей \"из коробки\" и снабжён интуитивно понятной системой управления!\n\nСпешите, предложение ограничено!\n\n*Исключая сами кости."
+      "Rus": "Костяной дракон полностью автоматизирован, имеет множество возможностей \"из коробки\" и снабжён интуитивно понятной системой управления!\n\nСпешите, предложение ограничено!\n\n*Исключая сами кости."
     }
   }
 ]

@@ -23,7 +23,7 @@ local function newSub(match, subtable)
 end
 
 local consonants = {"ц", "к", "н", "ш", "щ", "з", "х", "ф", "в", "п",
-                    "р", "л", "д", "ж", "ч", "с", "м", "т", "б"}
+                    "р", "л", "д", "ж", "ч", "с", "м", "т", "г", "б"}
 
 local cases = {
   dative = {
