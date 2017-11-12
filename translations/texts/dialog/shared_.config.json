@@ -192,7 +192,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флорану нужно всё мессто, хочу делить его с каким-то чужаком."
+    ],
     "Files": {
       "dialog/grumble.config": [
         "/otherDeed/floran/default/0"
@@ -203,7 +205,7 @@
     },
     "Texts": {
       "Eng": "Floran needs all this space, not sharing with some random ssstranger.",
-      "Rus": "Флорану нужно всё мессто, хочу делить его с каким-то чужаком."
+      "Rus": "Флорану нужно всё мессто, не хочу делить его ссс каким-то чужаком."
     }
   },
   {
@@ -293,7 +295,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Привет, Глитч."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/apex/glitch/0"
@@ -305,11 +309,13 @@
     },
     "Texts": {
       "Eng": "Hello there, Glitch.",
-      "Rus": "Привет, Глитч."
+      "Rus": "Привет, глитч."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Привет, Хилотл."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/apex/hylotl/0"
@@ -320,7 +326,7 @@
     },
     "Texts": {
       "Eng": "Hello there, Hylotl.",
-      "Rus": "Привет, Хилотл."
+      "Rus": "Привет, хилотл."
     }
   },
   {
