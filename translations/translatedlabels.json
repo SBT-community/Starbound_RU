@@ -362,7 +362,7 @@
       "mutantminer.config.json": 10,
       "oremerchant.config.json": 119,
       "outpost.config.json": 42,
-      "quest.config.json": 157,
+      "quest.config.json": 179,
       "rebel.config.json": 3,
       "scientist.config.json": 12,
       "shared_.config.json": 101,
@@ -7782,9 +7782,9 @@
           "shared_chiliseed.object.json": 9
         },
         "cocoa": {
-          "cocoaseed.object.json": 7,
+          "cocoaseed.object.json": 8,
           "shared_cocoaseed.object.json": 1,
-          "wildcocoaseed.object.json": 0
+          "wildcocoaseed.object.json": 7
         },
         "coffee": {
           "coffeeseed.object.json": 1,
@@ -7799,11 +7799,11 @@
         },
         "cotton": {
           "cottonseed.object.json": 1,
-          "shared_cottonseed.object.json": 7,
-          "wildcottonseed.object.json": 0
+          "shared_cottonseed.object.json": 8,
+          "wildcottonseed.object.json": 1
         },
         "crystalplant": {
-          "shared_crystalplantseed.object.json": 8
+          "shared_crystalplantseed.object.json": 9
         },
         "currentcorn": {
           "currentcornseed.object.json": 1,
@@ -7835,7 +7835,7 @@
           }
         },
         "eggshoot": {
-          "shared_eggshootseed.object.json": 8
+          "shared_eggshootseed.object.json": 9
         },
         "feathercrown": {
           "shared_feathercrownseed.object.json": 9
@@ -7844,13 +7844,13 @@
           "flowerblue.object.json": 9
         },
         "flowerred": {
-          "flowerred.object.json": 8
+          "flowerred.object.json": 9
         },
         "flowerspring": {
-          "flowerspring.object.json": 7
+          "flowerspring.object.json": 8
         },
         "floweryellow": {
-          "floweryellow.object.json": 8
+          "floweryellow.object.json": 9
         },
         "grapes": {
           "shared_grapesseed.object.json": 9
@@ -7872,7 +7872,7 @@
         },
         "pearlpea": {
           "pearlpeaseed.object.json": 2,
-          "shared_pearlpeaseed.object.json": 6,
+          "shared_pearlpeaseed.object.json": 7,
           "wildpearlpeaseed.object.json": 2
         },
         "pineapple": {
@@ -9710,7 +9710,7 @@
           "dangersignv.object.json": 0
         },
         "fridge": {
-          "fridge.object.json": 3
+          "fridge.object.json": 5
         },
         "glasspanel": {
           "glasspanel.object.json": 8
@@ -10493,7 +10493,7 @@
       },
       "mission": {
         "UFOprop": {
-          "UFOprop.object.json": 0
+          "UFOprop.object.json": 9
         },
         "antenna": {
           "antenna.object.json": 8
@@ -10701,7 +10701,7 @@
           "penguinbasedoor.object.json": 2
         },
         "penguinposter1": {
-          "penguinposter1.object.json": 0
+          "penguinposter1.object.json": 6
         },
         "proximitywallsensor": {
           "proximitywallsensor.object.json": 3
@@ -13229,7 +13229,7 @@
         "locations.config.json": 336,
         "pools": {
           "buildingthemes.config.json": 10,
-          "capturablemonsters.config.json": 0,
+          "capturablemonsters.config.json": 1,
           "dungeonitems.config.json": 11,
           "guardthemes.config.json": 5,
           "hatadjectives.config.json": 48,
@@ -13253,7 +13253,7 @@
           "craft.questtemplate.json": 12,
           "escort.questtemplate.json": 47,
           "escort_trade.questtemplate.json": 13,
-          "extort.questtemplate.json": 24,
+          "extort.questtemplate.json": 25,
           "farming.questtemplate.json": 24,
           "fetch.questtemplate.json": 24,
           "gift.questtemplate.json": 36,
@@ -13697,7 +13697,7 @@
         "tungsten.matmod.json": 1,
         "undergrowth.matmod.json": 1,
         "uranium.matmod.json": 1,
-        "veingrowth.matmod.json": 0,
+        "veingrowth.matmod.json": 1,
         "violium.matmod.json": 1
       },
       "platforms": {

@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I do not feel welcome here."
+      "Eng": "I do not feel welcome here.",
+      "Rus": "Мне здесь не очень приятно."
     }
   },
   {
@@ -21,7 +22,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I don't feel welcome here..."
+      "Eng": "I don't feel welcome here...",
+      "Rus": "Мне здесь не нравится..."
     }
   },
   {
@@ -32,7 +34,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Penguins Only Sign"
+      "Eng": "Penguins Only Sign",
+      "Rus": "Только пингвины"
     }
   },
   {
@@ -43,29 +46,36 @@
       ]
     },
     "Texts": {
-      "Eng": "Some birds fancy themselves superior than others! I resent that attitude."
+      "Eng": "Some birds fancy themselves superior than others! I resent that attitude.",
+      "Rus": "Некоторые птицы воображают себя выше других! Я возмущен таким отношением."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Крошечная ковыляющая птица не может оссстановить флорана от входа!"
+    ],
     "Files": {
       "objects/mission/penguinposter1/penguinposter1.object": [
         "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "Tiny waddle birdsss can't ssstop Floran from entering!"
+      "Eng": "Tiny waddle birdsss can't ssstop Floran from entering!",
+      "Rus": "Крошечная ковыляющая птица не сможет помешать флорану войти!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Постарайся остановить меня, дружище."
+    ],
     "Files": {
       "objects/mission/penguinposter1/penguinposter1.object": [
         "/novakidDescription"
       ]
     },
     "Texts": {
-      "Eng": "Try n' stop me, lil' buddy."
+      "Eng": "Try n' stop me, lil' buddy.",
+      "Rus": "Попробуй остановить меня, дружище."
     }
   }
 ]

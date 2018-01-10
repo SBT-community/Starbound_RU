@@ -45,7 +45,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Авиане с удовольствием едят их, несмотря на их похожую на яйца внешность.",
+      "Несмотря на внешнюю схожесть с яйцами, авиане с удовольствием едят их."
+    ],
     "Files": {
       "objects/farmables/eggshoot/eggshootseed.object": [
         "/glitchDescription/glitchEmotedText"
@@ -55,7 +58,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Avians happily eat these, despite their egg-like appearance."
+      "Eng": "Avians happily eat these, despite their egg-like appearance.",
+      "Rus": "Несмотря на внешнюю схожесть яичных клубней с яйцами, авиане с удовольствием едят их."
     }
   },
   {

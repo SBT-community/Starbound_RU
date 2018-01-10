@@ -75,7 +75,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Фермерство в избытке, может повредить экономику."
+    ],
     "Files": {
       "objects/farmables/crystalplant/crystalplantseed.object": [
         "/glitchDescription/glitchEmotedText"
@@ -85,7 +87,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Farming these in abundance could damage the economy."
+      "Eng": "Farming these in abundance could damage the economy.",
+      "Rus": "Выращивание их в избытке, может повредить бюджету."
     }
   },
   {

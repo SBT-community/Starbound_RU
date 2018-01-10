@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Cocoa beans can be brewed to make a tasty beverage."
+      "Eng": "Cocoa beans can be brewed to make a tasty beverage.",
+      "Rus": "Какао-бобы можно варить, для приготовления вкусного напитка."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "See beyond its bitter taste and cocoa is a useful resource."
+      "Eng": "See beyond its bitter taste and cocoa is a useful resource.",
+      "Rus": "Какао - полезный ресурс, несмотря на его горький вкус."
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "cocoa beans look a tempting treat, but are extremely bitter."
+      "Eng": "cocoa beans look a tempting treat, but are extremely bitter.",
+      "Rus": "какао-бобы выглядят соблазнительным угощением, но чрезвычайно горькие."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "cocoa is sought after for its pep-giving properties"
+      "Eng": "cocoa is sought after for its pep-giving properties",
+      "Rus": "какао популярен за его свойства придавать энергичность"
     }
   },
   {
@@ -51,18 +55,22 @@
       ]
     },
     "Texts": {
-      "Eng": "cocoa keepsss Floran awake."
+      "Eng": "cocoa keepsss Floran awake.",
+      "Rus": "какао поддерживает флорана бодрствующщщим."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Какао хорошо пахнет, но я никогда не замечал никаких полезных эффектов, чтобы пить это вещество."
+    ],
     "Files": {
       "objects/farmables/cocoa/wildcocoaseed.object": [
         "/novakidDescription"
       ]
     },
     "Texts": {
-      "Eng": "cocoa smells good, but I've never noticed any beneficial side-effects to drinkin' the stuff."
+      "Eng": "cocoa smells good, but I've never noticed any beneficial side-effects to drinkin' the stuff.",
+      "Rus": "какао хорошо пахнет, но не было замечено никаких полезных эффектов, дабы пить эту штуку."
     }
   },
   {
@@ -73,7 +81,8 @@
       ]
     },
     "Texts": {
-      "Eng": "cocoa, the perkiest plant known to man."
+      "Eng": "cocoa, the perkiest plant known to man.",
+      "Rus": "какао - самые бойкие растения известные человеку."
     }
   }
 ]
