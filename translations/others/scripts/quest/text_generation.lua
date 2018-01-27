@@ -88,6 +88,38 @@ function QuestTextGenerator:generateExtraTags()
       writer(".pronoun."..pronounType, pronounText)
     end
   end
+  -- Search for nearest or context player if it doesn't supplied by parameters
+  if self.parameters["player"] == nil then
+    if player ~= nil then
+    self.parameters["player"] = {
+      gender = player.gender(),
+      species = player.species(),
+      name = world.entityName(player.id()),
+      type = "entity",
+      id = player.id
+    }
+    elseif world.players ~= nil then
+      local mindist = 100000
+      local pl = nil
+      for idx, pid in pairs(world.players()) do
+        if entity.entityInSight(pid) then
+          local dstv = entity.distanceToEntity(pid)
+          local dst = dstv[1] * dstv[1] + dstv[2] * dstv[2]
+          if dst < mindist then
+            mindist = dst
+            pl = pid
+          end
+        end
+      end
+      self.parameters["player"] = {
+        gender = world.entityGender(pl),
+        species = world.entitySpecies(pl),
+        name = world.entityName(pl),
+        type = "entity",
+        id = function() return pl end
+      }
+    end
+  end
 
   for paramName, paramValue in pairs(self.parameters) do
     if paramValue.region then
