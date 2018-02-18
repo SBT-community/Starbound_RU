@@ -32,7 +32,7 @@
     },
     "Texts": {
       "Eng": "First, I need you to grab something for me. ^orange;<target>^white; knows how to make the best ^orange;<item>^white; in the star system, ^green;head over and ask for one.^white; We'll need it later.",
-      "Rus": "Итак, мне нужно, чтобы ты обнаружил<player.pronoun.verbEnding> где сейчас ^orange;<target>^white; - и ^green;передал<player.pronoun.verbEnding> <target.pronoun.object> просьбу изготовить ^orange;<item.reflexive>^white;."
+      "Rus": "Итак, мне нужно, чтобы ты обнаружил<player.pronoun.verbEnding> где сейчас ^orange;<target>^white; - и ^green;передал<player.pronoun.verbEnding> <target.pronoun.object> просьбу изготовить ^orange;<item.accusative>^white;."
     }
   },
   {
@@ -56,7 +56,7 @@
     },
     "Texts": {
       "Eng": "Floran knowsss that ^orange;<target> can make what we need. ^green;Go get one ^orange;<item> ^white;from <target.pronoun.object>.",
-      "Rus": "Флоран знает, что ^orange;<target>^white; может сделать то, что ему нужно. ^green;Не мог<player.pronoun.verb4Ending> бы ты передать <target.pronoun.object> просьбу изготовить ^orange;<item.reflexive>^white;."
+      "Rus": "Флоран знает, что ^orange;<target>^white; может сделать то, что ему нужно. ^green;Не мог<player.pronoun.verb4Ending> бы ты передать <target.pronoun.object> просьбу изготовить ^orange;<item.accusative>^white;."
     }
   },
   {
@@ -68,7 +68,7 @@
     },
     "Texts": {
       "Eng": "Floran needs your help to retrieve something sspecial from ^orange;<target>. ^green;You should go and ask for one ^orange;<item>. ^white;<target.pronoun.capitalSubject>'ll make it for us.",
-      "Rus": "Флорану нужно, чтобы ты досстал<player.pronoun.verbEnding> ^orange;<item.reflexive>^white;. <item.reflexive> может ссделать только ^orange;<target>^white; - ^green;обратиссь к н<target.pronoun.object>^white;."
+      "Rus": "Флорану нужно, чтобы ты досстал<player.pronoun.verbEnding> ^orange;<item.accusative>^white;. <item.accusative> может ссделать только ^orange;<target>^white; - ^green;обратиссь к н<target.pronoun.object>^white;."
     }
   },
   {
@@ -104,7 +104,7 @@
     },
     "Texts": {
       "Eng": "My friend ^orange;<target>^white; said <target.pronoun.subject> would help make the ^orange;<item>^white; I need, but <target.pronoun.subject> has not shown up.  ^green;Would you go to <target.pronoun.object> and ask <target.pronoun.object> for it?",
-      "Rus": "Мой друг, ^orange;<target>^white;, дал<target.pronoun.verbEnding> обещание изготовить для меня ^orange;<item.reflexive>^white;. Время прошло, а заказа как нет, так и нет. ^green;Не мог<player.pronoun.verb4Ending> бы ты напомнить <target.pronoun.object> о данном обещании^white;?"
+      "Rus": "Мой друг, ^orange;<target>^white;, дал<target.pronoun.verbEnding> обещание изготовить для меня ^orange;<item.accusative>^white;. Время прошло, а заказа как нет, так и нет. ^green;Не мог<player.pronoun.verb4Ending> бы ты напомнить <target.pronoun.object> о данном обещании^white;?"
     }
   },
   {
@@ -116,7 +116,7 @@
     },
     "Texts": {
       "Eng": "Next, run over and have ^orange;<target>^white; assemble us a custom ^orange;<item>.^white; Just ^green;mention my name, <target> knows how I like them made.",
-      "Rus": "^green;Отыщи скорее, где ^orange;<target>^white; - необходимо, чтобы <target.pronoun.subject> сделал<target.pronoun.verbEnding> для меня ^orange;<item.reflexive>^white;."
+      "Rus": "^green;Отыщи скорее, где ^orange;<target>^white; - необходимо, чтобы <target.pronoun.subject> сделал<target.pronoun.verbEnding> для меня ^orange;<item.accusative>^white;."
     }
   },
   {
@@ -188,7 +188,7 @@
     },
     "Texts": {
       "Eng": "The first thing I'll need is one ^orange;<item>. <target>^white; is good at making them, so we'll ^green;ask <target.pronoun.object> to make one^white; specifically for us.",
-      "Rus": "Так, мне нужно, чтобы ты ^green;достал<player.pronoun.verbEnding> ^orange;<item.reflexive>^white;. Такую вещь способ<target.pronoun.verb2Ending> изготовить только ^orange;<target>^white;."
+      "Rus": "Так, мне нужно, чтобы ты ^green;достал<player.pronoun.verbEnding> ^orange;<item.accusative>^white;. Такую вещь способ<target.pronoun.verb2Ending> изготовить только ^orange;<target>^white;."
     }
   },
   {
@@ -200,7 +200,7 @@
     },
     "Texts": {
       "Eng": "The next thing I need is one ^orange;<item>. <target>^white; can make just about anything, ^green;ask <target.pronoun.object> to put it together.",
-      "Rus": "Мне нужно раздобыть ^orange;<item.reflexive>^white;. Но тебе не придётся искать самостоятельно - ^orange;<target>^white; сделает всё необходимое гораздо лучше. ^green;Найди <target.pronoun.reflexive>^white;."
+      "Rus": "Мне нужно раздобыть ^orange;<item.accusative>^white;. Но тебе не придётся искать самостоятельно - ^orange;<target>^white; сделает всё необходимое гораздо лучше. ^green;Найди <target.pronoun.reflexive>^white;."
     }
   },
   {
@@ -212,7 +212,7 @@
     },
     "Texts": {
       "Eng": "To start with there's sssomething Floran needs from <target>, <target.pronoun.subject> shouldn't mind. ^green;Go ask ^orange;<target> ^green;to craft Floran one ^orange;<item>.",
-      "Rus": "Флорану нужно, чтобы ^orange;<target>^white; кое-что сделал<target.pronoun.verbEnding> для него. ^green;Сходи к н<target.pronoun.object> и попроси, чтобы <target.pronoun.subject> изготовил<target.pronoun.verbEnding> ^orange;<item.reflexive>^white;."
+      "Rus": "Флорану нужно, чтобы ^orange;<target>^white; кое-что сделал<target.pronoun.verbEnding> для него. ^green;Сходи к н<target.pronoun.object> и попроси, чтобы <target.pronoun.subject> изготовил<target.pronoun.verbEnding> ^orange;<item.accusative>^white;."
     }
   },
   {
@@ -260,7 +260,7 @@
     },
     "Texts": {
       "Eng": "^green;I need you to pay a visit^white; to ^orange;<target>^white;. The ^orange;<item>^white; <target.pronoun.subject> promised to craft for me should be ready.",
-      "Rus": "^green;Найди где сейчас ошивается ^orange;<target>^white; - пусть займётся делом и сделает для меня ^orange;<item.reflexive>^white;."
+      "Rus": "^green;Найди где сейчас ошивается ^orange;<target>^white; - пусть займётся делом и сделает для меня ^orange;<item.accusative>^white;."
     }
   },
   {
@@ -284,7 +284,7 @@
     },
     "Texts": {
       "Eng": "^orange;<target>^white; knows how to make ^orange;<item>s^white; better than I do. ^green;Please ask <target.pronoun.object> to make one for me.",
-      "Rus": "^orange;<target>^white; извест<target.pronoun.verbEnding> тем, что делает самые лучшие предметы. Мне нужно, чтобы <target.pronoun.subject> сделал<target.pronoun.verbEnding> ^orange;<item.reflexive>^white; - ^green;не мог бы ты это устроить^white;?"
+      "Rus": "^orange;<target>^white; извест<target.pronoun.verbEnding> тем, что делает самые лучшие предметы. Мне нужно, чтобы <target.pronoun.subject> сделал<target.pronoun.verbEnding> ^orange;<item.accusative>^white; - ^green;не мог бы ты это устроить^white;?"
     }
   }
 ]

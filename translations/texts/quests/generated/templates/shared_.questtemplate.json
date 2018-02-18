@@ -61,7 +61,7 @@
     },
     "Texts": {
       "Eng": "Acquire <item> from <target>",
-      "Rus": "<target> долж<target.pronoun.verb2Ending> отдать <item.reflexive>"
+      "Rus": "<target> долж<target.pronoun.verb2Ending> отдать <item.accusative>"
     }
   },
   {
@@ -144,7 +144,7 @@
     },
     "Texts": {
       "Eng": "Give <gift> to <target>",
-      "Rus": "<target> долж<target.pronoun.verb2Ending> получить <gift.reflexive> в подарок"
+      "Rus": "<target> долж<target.pronoun.verb2Ending> получить <gift.accusative> в подарок"
     }
   },
   {
@@ -161,7 +161,7 @@
     },
     "Texts": {
       "Eng": "Give <tradedItems> to <target>",
-      "Rus": "<target> ждёт <tradedItems.reflexive>"
+      "Rus": "<target> ждёт <tradedItems.accusative>"
     }
   },
   {

@@ -8,7 +8,7 @@
     },
     "Texts": {
       "Eng": "Angry. The other Rainbow Rogues shall hear about this disgrace!",
-      "Rus": "Разозлёно. Прочие Радужные Плуты должны услышать об этом безобразии!"
+      "Rus": "Разозлённо. Прочие Радужные Плуты должны услышать об этом безобразии!"
     }
   },
   {
@@ -92,7 +92,7 @@
     },
     "Texts": {
       "Eng": "Courageous. You have returned to be defeated, foe!",
-      "Rus": "Смело. Ты вернулся за своей смертью!"
+      "Rus": "Смело. Ты вернул<player.pronoun.verb3Ending> за своей смертью!"
     }
   },
   {
@@ -104,7 +104,7 @@
     },
     "Texts": {
       "Eng": "Desperate. I must leave - The other Rainbow Rogues shall hear of this!",
-      "Rus": "Отчаянно. Я должен уйти - другие Радужные Плуты услышат об этом! "
+      "Rus": "Отчаянно. Я долж<self.pronoun.verb2Ending> уйти - другие Радужные Плуты услышат об этом! "
     }
   },
   {
@@ -116,7 +116,7 @@
     },
     "Texts": {
       "Eng": "Disappointed. I suppose the foe has fled.",
-      "Rus": "Разочарованно. Уверен, враг сбежал."
+      "Rus": "Разочарованно. Уверен<self.pronoun.verbEnding>, враг сбежал."
     }
   },
   {
@@ -188,7 +188,7 @@
     },
     "Texts": {
       "Eng": "Frustrated. If only I brought a Rainbow Crossbow with me!",
-      "Rus": "Недовольно. Тебе повезло, что я забыл взять арбалет!"
+      "Rus": "Недовольно. Тебе повезло, что я забыл<self.pronoun.verbEnding> взять арбалет!"
     }
   },
   {
@@ -262,7 +262,7 @@
     },
     "Texts": {
       "Eng": "Observant. I need to make sure this isn't a trap.",
-      "Rus": "Внимательно. Я должен убедиться, что это не ловушка."
+      "Rus": "Внимательно. Я долж<self.pronoun.verb2Ending> убедиться, что это не ловушка."
     }
   },
   {

@@ -1,24 +1,30 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Багровый лопастник"
+    ],
     "Files": {
       "monsters/fishing/large/fan/fishingfan.monstertype": [
         "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Crimson Fantail"
+      "Eng": "Crimson Fantail",
+      "Rus": "Багровый веерохвост"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Благодаря его необычным розовым конечностям, это иглокожее выглядит красивым, похожим на рыбу существом."
+    ],
     "Files": {
       "monsters/fishing/large/fan/fishingfan.monstertype": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "This echinoderm uses curious pink limbs to disguise itself as a decorated fish-like creature."
+      "Eng": "This echinoderm uses curious pink limbs to disguise itself as a decorated fish-like creature.",
+      "Rus": "С помощью своих необычных розовых конечностей это иглокожее притворяется красивой рыбой. "
     }
   }
 ]

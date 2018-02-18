@@ -68,7 +68,7 @@
     },
     "Texts": {
       "Eng": "Floran's first task for you is a sssneaky one. ^orange;<victim>^white; has a nice ^orange;<objectItem>^white; in <victim.pronoun.possessiveDet> house and Floran wants you to ^green;borrow it^white;, if you know what Floran means...",
-      "Rus": "Флоран хочет, чтобы ты ссделал кое-что так, чтобы никто не видел. ^orange;<victim>^white; хранит у себя дома ^orange;<objectItem.reflexive>^white;, и флоран хочет, чтобы ты ^green;позаимствовал эту штуку^white;. Если ты понимаешь, о чём речь..."
+      "Rus": "Флоран хочет, чтобы ты ссделал кое-что так, чтобы никто не видел. ^orange;<victim>^white; хранит у себя дома ^orange;<objectItem.accusative>^white;, и флоран хочет, чтобы ты ^green;позаимствовал эту штуку^white;. Если ты понимаешь, о чём речь..."
     }
   },
   {
@@ -92,7 +92,7 @@
     },
     "Texts": {
       "Eng": "I need you to ^green;obtain ^orange;<victim>'s <objectItem>. ^white;We can make far better use of it, but <victim.pronoun.subject> won't just hand it over... ^green;You'll have to take it...",
-      "Rus": "Мне нужно, чтобы ты ^green;принёс ^orange;<objectItem.reflexive>^white;. Этой вещью сейчас обладает ^orange;<victim>^white;. Я могу придумать ей гораздо лучшее применение, нежели просто положить в дальний угол..."
+      "Rus": "Мне нужно, чтобы ты ^green;принёс ^orange;<objectItem.accusative>^white;. Этой вещью сейчас обладает ^orange;<victim>^white;. Я могу придумать ей гораздо лучшее применение, нежели просто положить в дальний угол..."
     }
   },
   {
@@ -152,7 +152,7 @@
     },
     "Texts": {
       "Eng": "Next job isss a vital part of Floran's plan. Floran needs you to ^green;visit ^orange;<victim>'s ^green;house to borrow the ^orange;<objectItem>^white; that we need. Bessst not let <victim> know...",
-      "Rus": "Сследующее, что тебе нужно сделать - это найти, где живёт ^orange;<victim>^white;, ^green;проникнуть в <victim.pronoun.reflexive> дом и взять ^orange;<objectItem.reflexive>^white;. Не попадись <victim.pronoun.object> на глаза..."
+      "Rus": "Сследующее, что тебе нужно сделать - это найти, где живёт ^orange;<victim>^white;, ^green;проникнуть в <victim.pronoun.reflexive> дом и взять ^orange;<objectItem.accusative>^white;. Не попадись <victim.pronoun.object> на глаза..."
     }
   },
   {
@@ -188,7 +188,7 @@
     },
     "Texts": {
       "Eng": "Steal <victim>'s <objectItem>",
-      "Rus": "Укради <objectItem.reflexive>, так, чтобы <victim> не заметил<victim.pronoun.verbEnding>"
+      "Rus": "Укради <objectItem.accusative>, так, чтобы <victim> не заметил<victim.pronoun.verbEnding>"
     }
   },
   {

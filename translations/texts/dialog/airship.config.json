@@ -92,7 +92,7 @@
     },
     "Texts": {
       "Eng": "How did you get all the way up here?",
-      "Rus": "Как ты попал сюда?"
+      "Rus": "Как ты попал<player.pronoun.verbEnding> сюда?"
     }
   },
   {
@@ -128,7 +128,7 @@
     },
     "Texts": {
       "Eng": "I'd better not catch you taking anything.",
-      "Rus": "Было бы лучше, если бы ты ничего не трогал."
+      "Rus": "Было бы лучше, если бы ты ничего не трогал<player.pronoun.verbEnding>."
     }
   },
   {
@@ -152,7 +152,7 @@
     },
     "Texts": {
       "Eng": "I'm new here, but I'm finding my skyfaring legs!",
-      "Rus": "Я здесь новенький, но я уже нашел парящие ботинки"
+      "Rus": "Я здесь новеньк<self.pronoun.adj3Ending>, но я уже получил<self.pronoun.verbEnding> навыки в воздухоплавании!"
     }
   },
   {
@@ -188,7 +188,7 @@
     },
     "Texts": {
       "Eng": "If you want some of our supplies, go speak to the quartermaster.",
-      "Rus": "Если тебе,нужно немного наших припасов, идти говори с начальником снабжения."
+      "Rus": "Если тебе нужно немного наших припасов, то иди, поговори с начальником снабжения."
     }
   },
   {
@@ -212,7 +212,7 @@
     },
     "Texts": {
       "Eng": "It has its challenges, but life as an aeronaut is great!",
-      "Rus": "Жизнь воздухоплавателя имеет свои трудности, но она все равно великолепна!"
+      "Rus": "Жизнь воздухоплавателя имеет свои трудности, но она всё равно великолепна!"
     }
   },
   {
@@ -224,7 +224,7 @@
     },
     "Texts": {
       "Eng": "Keep your hands off our supplies and we won't have any problems.",
-      "Rus": "Держи руки подальше от наших припасов и у нас не будет проблем."
+      "Rus": "Держи свои руки подальше от наших припасов и у нас не будет никаких проблем."
     }
   },
   {
@@ -272,7 +272,7 @@
     },
     "Texts": {
       "Eng": "Life on an airship isn't all it's cracked up to be.",
-      "Rus": "Жизнь на корабле не всем нравится."
+      "Rus": "Жизнь на корабле не так хороша, как это принято считать."
     }
   },
   {
@@ -296,7 +296,7 @@
     },
     "Texts": {
       "Eng": "Make sure you behave yourself.",
-      "Rus": "Убедитесь, что ты хорошо себя ведешь."
+      "Rus": "Убедись, что ты хорошо себя ведёшь."
     }
   },
   {

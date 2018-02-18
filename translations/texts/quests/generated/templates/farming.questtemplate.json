@@ -44,7 +44,7 @@
     },
     "Texts": {
       "Eng": "First, I need <cropList> but it's out of season. You can garden right?  Here's ^orange;<seedList>^green; for you to plant,^white; when you've ^green;harvested ^orange;<cropList>^green; could you bring them to me?",
-      "Rus": "Сначала, мне нужно получить <cropList.reflexive>, но к сожалению уже не сезон. Ты же в этом разбираешься? Вот тебе ^orange;<seedList>^green; для посадки^white;. А после того, как ты ^green;соберешь ^orange;<cropList.reflexive>^green;, сможешь мне их принести?"
+      "Rus": "Сначала, мне нужно получить <cropList.accusative>, но к сожалению уже не сезон. Ты же в этом разбираешься? Вот тебе ^orange;<seedList>^green; для посадки^white;. А после того, как ты ^green;соберешь ^orange;<cropList.accusative>^green;, сможешь мне их принести?"
     }
   },
   {
@@ -58,7 +58,7 @@
     },
     "Texts": {
       "Eng": "Firstly, I need you to ^green;plant ^orange;<seedList>.^white; Water them regularly, then when they're ready, ^green;gather the ^orange;<cropList>^green; and bring your bountiful harvest to me.",
-      "Rus": "Сперва тебе нужно ^green;посеять ^orange;<seedList.reflexive>.^white; Поливай тщательно, а когда всё будет готово, ^green;собери ^orange;<cropList.reflexive>^green; и принеси богатый урожай мне."
+      "Rus": "Сперва тебе нужно ^green;посеять ^orange;<seedList.accusative>.^white; Поливай тщательно, а когда всё будет готово, ^green;собери ^orange;<cropList.accusative>^green; и принеси богатый урожай мне."
     }
   },
   {
@@ -70,7 +70,7 @@
     },
     "Texts": {
       "Eng": "For sstarters, ^green;plant these seeds. ^white;Water them and watch them grow. When crop iss ripe, ^green;bring Floran the ^orange;<cropList>.",
-      "Rus": "Для начала, ^green;посади эти семена. ^white;Поливай и приглядывай за их ростом. Когда урожай созреет, ^green;принеси Флорану ^orange;<cropList.reflexive>."
+      "Rus": "Для начала, ^green;посади эти семена. ^white;Поливай и приглядывай за их ростом. Когда урожай созреет, ^green;принеси Флорану ^orange;<cropList.accusative>."
     }
   },
   {
@@ -82,7 +82,7 @@
     },
     "Texts": {
       "Eng": "I hope it's not too much to ask, but  ^green;could you plant ^orange;<seedList>.^white; And maybe, when they're fully grown, ^green;deliver the fresh produce to me^white;?",
-      "Rus": "Надеюсь, это не слишком большая просьба, потому ^green;не посадишь ли ты ^orange;<seedList.reflexive>^white;? А когда урожай созреет, ^green;сможешь принести его ко мне^white;?"
+      "Rus": "Надеюсь, это не слишком большая просьба, потому ^green;не посадишь ли ты ^orange;<seedList.accusative>^white;? А когда урожай созреет, ^green;сможешь принести его ко мне^white;?"
     }
   },
   {
@@ -94,7 +94,7 @@
     },
     "Texts": {
       "Eng": "I purchased these ^orange;seeds^white; from a merchant and have been unable to successfully grow anything from them. ^green;Maybe you can grow ^orange;<cropList>^white; for me.",
-      "Rus": "Я купил<questGiver.pronoun.verbEnding> эти ^orange;семена^white; и не сумел<questGiver.pronoun.verbEnding> ничего из них вырастить. ^green;Может, ты сможешь вырастить ^orange;<cropList.reflexive>^white; для меня."
+      "Rus": "Я купил<questGiver.pronoun.verbEnding> эти ^orange;семена^white; и не сумел<questGiver.pronoun.verbEnding> ничего из них вырастить. ^green;Может, ты сможешь вырастить ^orange;<cropList.accusative>^white; для меня."
     }
   },
   {
@@ -118,7 +118,7 @@
     },
     "Texts": {
       "Eng": "Next Floran needs you to ^green;grow ^orange;<cropList> ^green;from these seedsss.",
-      "Rus": "Далее, Флорану нужно, чтобы ты ^green;вырассстил<player.pronoun.verbEnding> ^orange;<cropList.reflexive> ^green;из этих семян."
+      "Rus": "Далее, Флорану нужно, чтобы ты ^green;вырассстил<player.pronoun.verbEnding> ^orange;<cropList.accusative> ^green;из этих семян."
     }
   },
   {
@@ -130,7 +130,7 @@
     },
     "Texts": {
       "Eng": "Next, we need some produce. I have ^orange;<seedList>,^white; but no place to grow things. Would you mind ^green;growing them and bringing me ^orange;<cropList>^white;?",
-      "Rus": "Затем, нам нужны некоторые продукты. У меня есть ^orange;<seedList>,^white;, но мне негде их вырастить. Возможно, ты сумеешь^green;вырастить и принести мне ^orange;<cropList.reflexive>^white;?"
+      "Rus": "Затем, нам нужны некоторые продукты. У меня есть ^orange;<seedList>,^white;, но мне негде их вырастить. Возможно, ты сумеешь^green;вырастить и принести мне ^orange;<cropList.accusative>^white;?"
     }
   },
   {
@@ -142,7 +142,7 @@
     },
     "Texts": {
       "Eng": "Now Floran needs ^orange;<cropList>. ^green;Plant and water ^orange;<seedList>. ^white;Crop will be ripe and ready to pick when big and sssquishy! ^green;Bring your harvest back to Floran.",
-      "Rus": "Теперь, флорану потребуется ^orange;<cropList>. ^green;Посади и поливай ^orange;<seedList.reflexive>. ^white;Урожай созреет и будет готов к сбору, когда будет большим и мясистым! ^green;Доссставь урожай обратно флорану."
+      "Rus": "Теперь, флорану потребуется ^orange;<cropList>. ^green;Посади и поливай ^orange;<seedList.accusative>. ^white;Урожай созреет и будет готов к сбору, когда будет большим и мясистым! ^green;Доссставь урожай обратно флорану."
     }
   },
   {
@@ -154,7 +154,7 @@
     },
     "Texts": {
       "Eng": "Now I need you to ^green;plant ^orange;<seedList>^white;. Care for them until they're ready, then ^green;harvest the ^orange;<cropList>^green; for me.",
-      "Rus": "Сейчас тебе нужно ^green;посадить ^orange;<seedList.reflexive>^white;. Ухаживай за ними до тех пор, пока они не созреют. И не забудь ^green;собрать ^orange;<cropList.reflexive>^green; для меня."
+      "Rus": "Сейчас тебе нужно ^green;посадить ^orange;<seedList.accusative>^white;. Ухаживай за ними до тех пор, пока они не созреют. И не забудь ^green;собрать ^orange;<cropList.accusative>^green; для меня."
     }
   },
   {
@@ -202,7 +202,7 @@
     },
     "Texts": {
       "Eng": "Thankss! Floran finds <cropList> hard to grow here - you did a good job!",
-      "Rus": "Ссспасибо! Флоран считает выращивать  <cropList.reflexive> довольно тяжелым в этих краях. Ты проделал<player.pronoun.verbEnding> отличную работу!"
+      "Rus": "Ссспасибо! Флоран считает выращивать  <cropList.accusative> довольно тяжелым в этих краях. Ты проделал<player.pronoun.verbEnding> отличную работу!"
     }
   },
   {
@@ -214,7 +214,7 @@
     },
     "Texts": {
       "Eng": "The first thing you need to do is ^green;plant these ssseeds. ^white;Once the crop has grown, ^green;bring Floran the ripe ^orange;<cropList>. ^white;Don't forget to water them!",
-      "Rus": "Первая вещь, которую тебе надо сделать, это ^green;посссадить эти семена. ^white;Как только урожай созреет, ^green;принеси Флорану ^orange;<cropList.reflexive>. ^white;Не забывай их поливать!"
+      "Rus": "Первая вещь, которую тебе надо сделать, это ^green;посссадить эти семена. ^white;Как только урожай созреет, ^green;принеси Флорану ^orange;<cropList.accusative>. ^white;Не забывай их поливать!"
     }
   },
   {
@@ -226,7 +226,7 @@
     },
     "Texts": {
       "Eng": "The next part of my plan involves ^orange;<cropList>. I'm not the greatest gardener, but I'm sure you could grow some.^green;Take these ^orange;seeds^green; and grow me the crops^white; I need.",
-      "Rus": "Следующая часть моего плана включает ^orange;<cropList.reflexive>. Я не самый хороший садовод, но я уверен<questGiver.pronoun.verbEnding>, что у тебя получится их вырастить. ^green;Возьми эти ^orange;семена^green; и вырасти то, что мне нужно."
+      "Rus": "Следующая часть моего плана включает ^orange;<cropList.accusative>. Я не самый хороший садовод, но я уверен<questGiver.pronoun.verbEnding>, что у тебя получится их вырастить. ^green;Возьми эти ^orange;семена^green; и вырасти то, что мне нужно."
     }
   },
   {
@@ -262,7 +262,7 @@
     },
     "Texts": {
       "Eng": "To begin with, ^green;I am in need of some fresh ^orange;<cropList>^white;. Even a beginner should be able to grow some with these ^orange;seeds^white; and a little patience.",
-      "Rus": "Для начала, ^green;мне нужно добыть ^orange;<cropList.reflexive>^white; первой свежести. Даже новичок сможет вырастить что-то из этих ^orange;семян^white; применив небольшую толику терпения."
+      "Rus": "Для начала, ^green;мне нужно добыть ^orange;<cropList.accusative>^white; первой свежести. Даже новичок сможет вырастить что-то из этих ^orange;семян^white; применив небольшую толику терпения."
     }
   },
   {

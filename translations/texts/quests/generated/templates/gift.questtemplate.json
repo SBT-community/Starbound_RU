@@ -260,7 +260,7 @@
     },
     "Texts": {
       "Eng": "Next, I need to ^green;win the favour of ^orange;<target>.^white; I know that <target.pronoun.subject> would like this ^orange;<gift>, ^white;could you ^green;deliver it to <target.pronoun.object> ^white;for me?",
-      "Rus": "Можешь оказать мне услугу и ^green;передать подарок^white;? Думаю, что ^orange;<target>^white; оценит ^orange;<gift.reflexive>^white;."
+      "Rus": "Можешь оказать мне услугу и ^green;передать ^orange;<gift.accusative>^white; для ^orange;<target.accusative>^white;? Думаю, что <target.pronoun.subject> оценит мой подарок."
     }
   },
   {
@@ -272,7 +272,7 @@
     },
     "Texts": {
       "Eng": "Now we just need to ^green;drop that ^orange;<gift>^green; off to ^orange;<target>.^white; Can I ask you to take it to <target.pronoun.object>? I hope <target.pronoun.subject> doesn't already have one!",
-      "Rus": "Прошу, окажи мне услугу и ^green;передай подарок кое-кому^white;. Не изомни ленты и не растряси конфетти - ^orange;<gift>^white; с ними смотрится лучше. ^orange;<target>^white; будет просто вне себя от счастья."
+      "Rus": "Теперь нам надо доставить ^orange;<gift.accusative> <target.dative>^white;. Могу я попросить тебя сделать это?  Надеюсь у н<target.pronoun.reflexive> ещё нет такого!"
     }
   },
   {
@@ -284,7 +284,7 @@
     },
     "Texts": {
       "Eng": "Okay, next let'ss ^green;give ^orange;<target> ^green;a hunting trophy!^white; Floran ate Floran's last hunting trophy, so this ^orange;<gift> ^white;will have to do. Floran still thinks <target.pronoun.subject> will be impressed!",
-      "Rus": "Хорошо, теперь ^green;преподнесём кое-кому в подарок охотничий трофей^white;! А, нет, не преподнесём - Флоран его недавно ссъел. Может быть и ^orange;<gift>^white; сойдёт? Надеюсь, ^orange;<target>^white; будет рад<target.pronoun.verbEnding>."
+      "Rus": "Хорошо, теперь ^green;преподнесём ^orange;<target.dative>^white; в подарок охотничий трофей^white;! А, нет, не преподнесём - Флоран недавно ссъел последний. Может быть и ^orange;<gift>^white; сойдёт? Надеюсь, <target> будет рад<target.pronoun.verbEnding>."
     }
   },
   {
@@ -320,7 +320,7 @@
     },
     "Texts": {
       "Eng": "The only thing left to do now is ^green;deliver the ^orange;<gift>^white; Could you give it to <target> for me?",
-      "Rus": "Осталось только ^green;преподнести ^orange;<gift.reflexive>^green; в качестве подарка^white;. ^orange;<target>^white; будет просто без ума. Возьмёшься за доставку?"
+      "Rus": "Осталось только ^green;преподнести ^orange;<gift.accusative>^green; в качестве подарка^white;. ^orange;<target>^white; будет просто без ума. Возьмёшься за доставку?"
     }
   },
   {
@@ -428,7 +428,7 @@
     },
     "Texts": {
       "Eng": "place <gift> in <target>'s home",
-      "Rus": "Положите <gift.reflexive> в доме, где живёт <target>"
+      "Rus": "Положите <gift.accusative> в доме, где живёт <target>"
     }
   }
 ]

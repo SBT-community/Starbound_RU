@@ -46,7 +46,7 @@
     },
     "Texts": {
       "Eng": "Bring <targetNpcType> back to <questGiver> safely",
-      "Rus": "Верните <targetNpcType> обратно <questGiver> в сохранности"
+      "Rus": "Верните <targetNpcType.accusative> обратно <questGiver.dative> в сохранности"
     }
   },
   {
@@ -86,7 +86,7 @@
     },
     "Texts": {
       "Eng": "Escort <targetNpcType>",
-      "Rus": "<targetNpcType> - сопровождение"
+      "Rus": "Проводите <targetNpcType.accusative>"
     }
   },
   {
@@ -100,7 +100,7 @@
     },
     "Texts": {
       "Eng": "Find <questGiver>'s friend <targetNpcType>",
-      "Rus": "Найдите цель (<targetNpcType>)"
+      "Rus": "Найдите <targetNpcType.accusative>"
     }
   },
   {
@@ -188,7 +188,7 @@
     },
     "Texts": {
       "Eng": "Not to worry - I'm sure <questGiver>'s friend will respawn somewhere safer.",
-      "Rus": "Не беспокойся, я уверен, что друг <questGiver> воскресится где-нибудь в безопасном месте."
+      "Rus": "Не беспокойся, я уверен, что друг <questGiver.accusative> воскресится где-нибудь в безопасном месте."
     }
   },
   {

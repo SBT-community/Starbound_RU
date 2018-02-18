@@ -44,7 +44,7 @@
     },
     "Texts": {
       "Eng": "A small toilet. It doesn't look entirely hygienic.",
-      "Rus": "Маленький унитаз. Он не выглядит очень уж чистым."
+      "Rus": "Маленький унитаз. Выглядит не очень уж чистым."
     }
   },
   {
@@ -68,11 +68,13 @@
     },
     "Texts": {
       "Eng": "A toilet. Always a welcome sight.",
-      "Rus": ""
+      "Rus": "Наличие туалета - всегда приятный знак."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Стандартный унитаз"
+    ],
     "Files": {
       "objects/human/basictoilet/basictoilet.object": [
         "/shortdescription"
@@ -80,7 +82,7 @@
     },
     "Texts": {
       "Eng": "Basic Toilet",
-      "Rus": "Стандартный унитаз"
+      "Rus": "Обычный унитаз"
     }
   },
   {

@@ -7,18 +7,22 @@
       ]
     },
     "Texts": {
-      "Eng": "Heavy Drone"
+      "Eng": "Heavy Drone",
+      "Rus": "Тяжёлый дрон"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Технологическая вершина автоматизированных систем защиты. Его бортовой ИИ куда приветливее, чем может показаться на первый взгляд."
+    ],
     "Files": {
       "monsters/space/heavydrone/heavydrone.monstertype": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "The pinnacle of automated defense technology. Their onboard AI is more cheerful than you may first assume."
+      "Eng": "The pinnacle of automated defense technology. Their onboard AI is more cheerful than you may first assume.",
+      "Rus": "Вершина технологий автоматизированной защиты. Его бортовой ИИ куда приветливее, чем кажется на первый взгляд."
     }
   }
 ]

@@ -20,7 +20,7 @@
     },
     "Texts": {
       "Eng": "A long time ago, we Hylotl sunk some of our greatest monuments beneath the waves, to protect them.",
-      "Rus": "В давние времена, мы, Хилотлы, топили наши величайшие монументы, чтобы защитить их."
+      "Rus": "В давние времена, мы, хилотлы, топили наши величайшие монументы, чтобы защитить их."
     }
   },
   {
@@ -32,7 +32,7 @@
     },
     "Texts": {
       "Eng": "A lot of old Glitch adventurers hoard the treasure they've found over the years.",
-      "Rus": "Многие из старых Глитчей-искателей приключений  хранят сокровища, которые они нашли на протяжении многих лет."
+      "Rus": "Многие из старых глитчей-искателей приключений хранят сокровища, которые они нашли на протяжении многих лет."
     }
   },
   {
@@ -92,7 +92,7 @@
     },
     "Texts": {
       "Eng": "Floran is the best! Well, sssecond best. You heard of Nuru?",
-      "Rus": "Флоран лучший! Ну... второй из лучших. Ты слышал о Нару?"
+      "Rus": "Флоран лучший! Ну... второй из лучших. Ты слышал<player.pronoun.verbEnding> о Нуру?"
     }
   },
   {
@@ -140,7 +140,7 @@
     },
     "Texts": {
       "Eng": "Have you heard of the Occasus? Apparently they're strange angry people who have been attacking a Glitch keep!",
-      "Rus": "Вы слышали об Окказусе? Вполне вероятно, что они те самые, странные злые люди постоянно нападающие на поместье Глитчей!"
+      "Rus": "Вы слышали об Окказусе? Вполне вероятно, что они те самые, странные злые люди постоянно нападающие на поместье глитчей!"
     }
   },
   {
@@ -152,7 +152,7 @@
     },
     "Texts": {
       "Eng": "I enjoy collecting books, it's a big part of Hylotl culture.",
-      "Rus": "Мне нравится коллекционировать книги, это большая часть культуры Хилотлов."
+      "Rus": "Мне нравится коллекционировать книги, это большая часть культуры хилотлов."
     }
   },
   {
@@ -164,7 +164,7 @@
     },
     "Texts": {
       "Eng": "I grew up hearing stories of items of immense power, bestowed by Kluex himself.",
-      "Rus": "Я вырос, слушая истории о предметах невероятной силы, дарованных самим Клюэксом."
+      "Rus": "Я вырос<self.pronoun.verb4Ending>, слушая истории о предметах невероятной силы, дарованных самим Клюэксом."
     }
   },
   {
@@ -176,7 +176,7 @@
     },
     "Texts": {
       "Eng": "I have heard that purple robed cultist have been attacking a Glitch keep.",
-      "Rus": "Я слышал, что культист в фиолетовой робе напал на поместье Глитчей."
+      "Rus": "Я слышал<self.pronoun.verbEnding>, что культист в фиолетовой робе напал на поместье глитчей."
     }
   },
   {
@@ -188,7 +188,7 @@
     },
     "Texts": {
       "Eng": "I hear there are plans to take down the Miniknog...",
-      "Rus": "Я слышал, что кто-то планирует свержение Министерства..."
+      "Rus": "Я слышал<self.pronoun.verbEnding>, что кто-то планирует свержение Министерства..."
     }
   },
   {
@@ -200,7 +200,7 @@
     },
     "Texts": {
       "Eng": "I heard stories of strange things held in the depths of Miniknog facilities.",
-      "Rus": "Я слышал истории о странных вещах, происходящих в глубинах учреждений Министерства."
+      "Rus": "Я слышал<self.pronoun.verbEnding> истории о странных вещах, происходящих в глубинах учреждений Министерства."
     }
   },
   {
@@ -224,7 +224,7 @@
     },
     "Texts": {
       "Eng": "I once heard of a keep owned by an oddball and filled with wonders.",
-      "Rus": "Я слышал легенду о башне одного чудака, которая наполнена удивительными чудесами."
+      "Rus": "Я слышал<self.pronoun.verbEnding> легенду о башне одного чудака, которая наполнена удивительными чудесами."
     }
   },
   {
@@ -236,7 +236,7 @@
     },
     "Texts": {
       "Eng": "I wish I had wondrous treasures... Some Glitch have some troves of riches!",
-      "Rus": "Я бы хотел несметных богатств... У некоторых Глитчей как раз есть куча сокровищ!"
+      "Rus": "Я бы хотел<self.pronoun.verbEnding> несметных богатств... У некоторых глитчей как раз есть куча сокровищ!"
     }
   },
   {
@@ -248,7 +248,7 @@
     },
     "Texts": {
       "Eng": "I wonder what treasures I could amass if I travelled the universe. You hear such stories...",
-      "Rus": "Сколько же сокровищ я мог найти, если бы путешествовал по вселенной! Скоро об этом будут слагать легенды!"
+      "Rus": "Сколько же сокровищ я мог<player.pronoun.verb4Ending> найти, если бы путешествовал<self.pronoun.verbEnding> по вселенной! Скоро об этом будут слагать легенды!"
     }
   },
   {
@@ -260,7 +260,7 @@
     },
     "Texts": {
       "Eng": "I'd like to become a librarian, but it's a lot of responsibility.",
-      "Rus": "Я бы хотел заведовать библиотекой, но это большая ответственность."
+      "Rus": "Я бы хотел<self.pronoun.verbEnding> заведовать библиотекой, но это большая ответственность."
     }
   },
   {
@@ -272,7 +272,7 @@
     },
     "Texts": {
       "Eng": "I've heard stories of a Glitch who calls himself the Baron. Apparently he owns mounds of treasure!",
-      "Rus": "Я слышал истории о Глитче, который зовёт себя Бароном. Видимо, у него куча сокровищ."
+      "Rus": "Я слышал<self.pronoun.verbEnding> истории о Глитче, который зовёт себя Бароном. Видимо, у него куча сокровищ."
     }
   },
   {
@@ -284,7 +284,7 @@
     },
     "Texts": {
       "Eng": "Important Glitch relics tend to get handed from Glitch to Glitch, but I've never had one.",
-      "Rus": "Важные реликвии Глитчей передаются от одного Глитча к другому, однако у меня не было таковых."
+      "Rus": "Важные реликвии глитчей передаются от одного глитча к другому, однако у меня не было таковых."
     }
   },
   {
@@ -296,7 +296,7 @@
     },
     "Texts": {
       "Eng": "Isn't it wondrous when treasures from the past are newly rediscovered? This happens not infrequently among the Hylotl.",
-      "Rus": "Разве это не удивительно, что древние сокровища снова найдены? Такое нередко происходит у Хилотлов."
+      "Rus": "Разве это не удивительно, что древние сокровища снова найдены? Такое нередко происходит у хилотлов."
     }
   },
   {

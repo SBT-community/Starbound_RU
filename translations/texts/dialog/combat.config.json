@@ -80,7 +80,7 @@
     },
     "Texts": {
       "Eng": "All done. I think I've earned a banana.",
-      "Rus": "Готово. Думаю, я заслужил банан."
+      "Rus": "Готово. Думаю, я заслужил<self.pronoun.verbEnding> банан."
     }
   },
   {
@@ -755,7 +755,7 @@
     },
     "Texts": {
       "Eng": "How can we fight if I can't reach you?",
-      "Rus": "Мы не можем сражаться, если я тебя не вижу!"
+      "Rus": "Как нам сражаться, если я не могу достать до тебя?"
     }
   },
   {
@@ -779,7 +779,7 @@
     },
     "Texts": {
       "Eng": "How did this happen?",
-      "Rus": "Что произошло?"
+      "Rus": "Как это произошло?"
     }
   },
   {
@@ -791,7 +791,7 @@
     },
     "Texts": {
       "Eng": "How did you disappear!?",
-      "Rus": "Куда ты пропал!?"
+      "Rus": "Куда ты пропал<player.pronoun.verbEnding>!?"
     }
   },
   {
@@ -803,7 +803,7 @@
     },
     "Texts": {
       "Eng": "How did you get over there?",
-      "Rus": "Как ты туда забрался?"
+      "Rus": "Как ты туда забрал<player.pronoun.verb3Ending>?"
     }
   },
   {
@@ -875,7 +875,7 @@
     },
     "Texts": {
       "Eng": "I didn't even break a sweat!",
-      "Rus": "Я даже не вспотел!"
+      "Rus": "Я даже не вспотел<self.pronoun.verbEnding>!"
     }
   },
   {
@@ -887,7 +887,7 @@
     },
     "Texts": {
       "Eng": "I didn't even lose a feather.",
-      "Rus": "Я даже пёрышко не потерял!"
+      "Rus": "Я даже пёрышка не потерял<self.pronoun.verbEnding>!"
     }
   },
   {

@@ -26,7 +26,7 @@
     },
     "Texts": {
       "Eng": "Floran needsss ^orange;<craftedItems>.^green; They can be crafted from ^orange;<ingredients>. ^white;Can you help?",
-      "Rus": "Флорану надо добыть ^orange;<craftedItems.reflexive>.^green; Добыть можно обработав ^orange;<ingredients.reflexive>. ^white;Можешь помочь?"
+      "Rus": "Флорану надо добыть ^orange;<craftedItems.accusative>.^green; Добыть можно обработав ^orange;<ingredients.accusative>. ^white;Можешь помочь?"
     }
   },
   {
@@ -40,7 +40,7 @@
     },
     "Texts": {
       "Eng": "Here is the point at which I falter. My creative ability is below average,  ^green;would you be so kind as to craft ^orange;<craftedItems>^white; on my behalf? You can use the ^orange;<ingredients>^white; we obtained earlier.",
-      "Rus": "Здесь я провалил<questGiver.pronoun.verb3Ending>. Мои творческие способности ниже среднего, поэтому ^green;можешь создать ^orange;<craftedItems.reflexive>^white; от моего имени? Ты можешь использовать ^orange;<ingredients.reflexive>^white; что мы получили ранее."
+      "Rus": "Здесь я провалил<questGiver.pronoun.verb3Ending>. Мои творческие способности ниже среднего, поэтому ^green;можешь создать ^orange;<craftedItems.accusative>^white; от моего имени? Ты можешь использовать ^orange;<ingredients.accusative>^white; что мы получили ранее."
     }
   },
   {
@@ -55,7 +55,7 @@
     },
     "Texts": {
       "Eng": "Next you'll need to ^green;assemble ^orange;<craftedItems>^white;. You should be able to ^green;use the ^orange;<ingredients>^white; that you gathered earlier.",
-      "Rus": "Следующее что тебе нужно, это ^green;собрать^orange;<craftedItems.reflexive>^white;. Ты можешь ^green;использовать ^orange;<ingredients.reflexive>^white;, что ты добыл<player.pronoun.verbEnding> ранее."
+      "Rus": "Следующее что тебе нужно, это ^green;собрать^orange; <craftedItems.accusative>^white;. Ты можешь ^green;использовать ^orange;<ingredients.accusative>^white;, что ты добыл<player.pronoun.verbEnding> ранее."
     }
   },
   {
@@ -69,7 +69,7 @@
     },
     "Texts": {
       "Eng": "Now for the real task at hand,  ^green;you must craft ^orange;<craftedItems>^white; for me. You already have all the materials you need, and my gratitude.",
-      "Rus": "Сейчас для поставленной задачи, ^green;ты долж<player.pronoun.verb2Ending> создать ^orange;<craftedItems.reflexive>^white; для меня. У тебя уже есть все нужные материалы, и моя благодарность!"
+      "Rus": "Сейчас для поставленной задачи, ^green;ты долж<player.pronoun.verb2Ending> создать ^orange;<craftedItems.accusative>^white; для меня. У тебя уже есть все нужные материалы, и моя благодарность!"
     }
   },
   {
@@ -84,7 +84,7 @@
     },
     "Texts": {
       "Eng": "Now you have the crafting ingredientsss we need. ^green;Make Floran ^orange;<craftedItems>.",
-      "Rus": "Теперь у тебя есть все ингредиенты, которые нам нужны. ^green;Сделай флорану ^orange;<craftedItems.reflexive>."
+      "Rus": "Теперь у тебя есть все ингредиенты, которые нам нужны. ^green;Сделай флорану ^orange;<craftedItems.accusative>."
     }
   },
   {
@@ -113,7 +113,7 @@
     },
     "Texts": {
       "Eng": "The next step requires ^green;putting together ^orange;<craftedItems>^white;. I would do it myself, but my crafting skills are terrible! If you want to take a shot, you should have everything you need.",
-      "Rus": "Для следующего шага потребуется  ^green;создать ^orange;<craftedItems.reflexive>^white;. Я бы сделал<questGiver.pronoun.verbEnding> это сам<questGiver.pronoun.verbEnding>, но ничего в этом не смыслю. Если хочешь попробовать, то у тебя есть все материалы."
+      "Rus": "Для следующего шага потребуется  ^green;создать ^orange;<craftedItems.accusative>^white;. Я бы сделал<questGiver.pronoun.verbEnding> это сам<questGiver.pronoun.verbEnding>, но ничего в этом не смыслю. Если хочешь попробовать, то у тебя есть все материалы."
     }
   },
   {
