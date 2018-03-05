@@ -1,5 +1,5 @@
 # Starbound_RU
-![](https://travis-ci.org/SBT-community/Starbound_RU.svg?branch=master)
+[![Build Status](https://travis-ci.org/SBT-community/Starbound_RU.svg?branch=web-interface)](https://travis-ci.org/SBT-community/Starbound_RU)
 
 Starbound translation framework.
 
