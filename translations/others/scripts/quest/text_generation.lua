@@ -102,22 +102,22 @@ function QuestTextGenerator:generateExtraTags()
       local mindist = 100000
       local pl = nil
       for idx, pid in pairs(world.players()) do
-        if entity.entityInSight(pid) then
-          local dstv = entity.distanceToEntity(pid)
-          local dst = dstv[1] * dstv[1] + dstv[2] * dstv[2]
-          if dst < mindist then
-            mindist = dst
-            pl = pid
-          end
+        local dstv = entity.distanceToEntity(pid)
+        local dst = dstv[1] * dstv[1] + dstv[2] * dstv[2]
+        if dst < mindist then
+          mindist = dst
+          pl = pid
         end
       end
-      self.parameters["player"] = {
-        gender = world.entityGender(pl),
-        species = world.entitySpecies(pl),
-        name = world.entityName(pl),
-        type = "entity",
-        id = function() return pl end
-      }
+      if pl then
+        self.parameters["player"] = {
+          gender = world.entityGender(pl),
+          species = world.entitySpecies(pl),
+          name = world.entityName(pl),
+          type = "entity",
+          id = function() return pl end
+        }
+      end
     end
   end
 
