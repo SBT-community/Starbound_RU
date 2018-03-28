@@ -2030,7 +2030,7 @@
     },
     "Texts": {
       "Eng": "I wonder what <questGiver> wants from me?",
-      "Rus": "Я удивл<self.pronoun.verb2Ending>: что <questGiver> хочет от меня?"
+      "Rus": "Интересно, что <questGiver> хочет от меня?"
     }
   },
   {
@@ -2054,7 +2054,7 @@
     },
     "Texts": {
       "Eng": "I wondered while I wandered, and so I wandered off... Please, take me back to <questGiver>.",
-      "Rus": "Я удивл<self.pronoun.verb2Ending> я бродил<self.pronoun.verbEnding>, и в итоге я заблудил<self.pronoun.verb3Ending>... Пожалуйста, отведи меня к <questGiver.dative>"
+      "Rus": "Интересно, как так получилось, что я бродил<self.pronoun.verbEnding>, и в итоге заблудил<self.pronoun.verb3Ending>... Пожалуйста, отведи меня к <questGiver.dative>"
     }
   },
   {
