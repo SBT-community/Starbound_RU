@@ -1562,12 +1562,13 @@
     },
     "Texts": {
       "Eng": "Howdy! <questGiver> asked me to meet you here to help fight the <enemy>.",
-      "Rus": ""
+      "Rus": "Привет! <questGiver> просил меня встретить тебя здесь, чтобы помочь победить <enemy.accusative>."
     }
   },
   {
     "DeniedAlternatives": [
-      "Здрасьте! Кажись, у тебя посылка для меня?"
+      "Здрасьте! Кажись, у тебя посылка для меня?",
+      "Привет! Кажется, у тебя посылка для меня?"
     ],
     "Files": {
       "dialog/quest.config": [
@@ -1576,7 +1577,7 @@
     },
     "Texts": {
       "Eng": "Howdy! I suppose you have a deliver for me?",
-      "Rus": "Привет! Кажется, у тебя посылка для меня?"
+      "Rus": "Здорово! Видать, у тебя посылка для меня?"
     }
   },
   {
@@ -1588,7 +1589,7 @@
     },
     "Texts": {
       "Eng": "Howdy! My ol' friend <questGiver> asked me to come an' help you fight the <enemy>.",
-      "Rus": ""
+      "Rus": "Здорово! Мой старый друг <questGiver> просил придти и помочь тебе победить <enemy.accusative>."
     }
   },
   {
@@ -1906,7 +1907,7 @@
     },
     "Texts": {
       "Eng": "I surrender! Please, put away your weapon.",
-      "Rus": ""
+      "Rus": "Я сдаюсь! Убери оружие, пожалуйста."
     }
   },
   {
@@ -1918,7 +1919,7 @@
     },
     "Texts": {
       "Eng": "I surrender! Put away your weapon!",
-      "Rus": ""
+      "Rus": "Я сдаюсь! Убери оружие!"
     }
   },
   {
@@ -1930,7 +1931,7 @@
     },
     "Texts": {
       "Eng": "I surrender, put away your weapon.",
-      "Rus": ""
+      "Rus": "Я сдаюсь, убери оружие."
     }
   },
   {
@@ -1942,7 +1943,7 @@
     },
     "Texts": {
       "Eng": "I think I might be lost. Er, can you take me back to <questGiver>?",
-      "Rus": ""
+      "Rus": "Я думаю, я потерялся. Гм, ты можешь отвести меня к <questGiver.dative>?"
     }
   },
   {
@@ -1954,7 +1955,7 @@
     },
     "Texts": {
       "Eng": "I thought that was the end of the line for me!",
-      "Rus": ""
+      "Rus": "Я думал, это был конец для меня!"
     }
   },
   {
@@ -1966,7 +1967,7 @@
     },
     "Texts": {
       "Eng": "I will gladly lend <questGiver> my <item>.",
-      "Rus": ""
+      "Rus": "Я с удовольствием одолжу <item.accusative> для <questGiver.accusative>."
     }
   },
   {
@@ -1978,7 +1979,7 @@
     },
     "Texts": {
       "Eng": "I won that <item> in a game o' cards, it's mine! Honest!",
-      "Rus": ""
+      "Rus": "Я выиграл <item.accusative> в карточной игре, <item.pronoun.subject> принадлежит мне! Честно!"
     }
   },
   {
@@ -1990,7 +1991,7 @@
     },
     "Texts": {
       "Eng": "I won't be a varmint, I'll pay yer fine.",
-      "Rus": ""
+      "Rus": "Я не хочу быть негодяем, я хорошо заплачу тебе."
     }
   },
   {
@@ -2002,7 +2003,7 @@
     },
     "Texts": {
       "Eng": "I wonder what <questGiver> may want from me...",
-      "Rus": ""
+      "Rus": "Я удивляюсь, что <questGiver.dative> что-то нужно от меня..."
     }
   },
   {
@@ -2017,7 +2018,7 @@
     },
     "Texts": {
       "Eng": "I wonder what <questGiver> wants from me though...",
-      "Rus": ""
+      "Rus": "Я удивляюсь, что <questGiver> хочет что-то от меня, хотя..."
     }
   },
   {
@@ -2029,7 +2030,7 @@
     },
     "Texts": {
       "Eng": "I wonder what <questGiver> wants from me?",
-      "Rus": ""
+      "Rus": "Я удивлен: что <questGiver> хочет от меня?"
     }
   },
   {
@@ -2041,7 +2042,7 @@
     },
     "Texts": {
       "Eng": "I wonder why <questGiver> wanted to bribe me?",
-      "Rus": ""
+      "Rus": "Я удивляюсь: почему <questGiver> хочет подкупить меня?"
     }
   },
   {
@@ -2053,7 +2054,7 @@
     },
     "Texts": {
       "Eng": "I wondered while I wandered, and so I wandered off... Please, take me back to <questGiver>.",
-      "Rus": ""
+      "Rus": "Я удивлён: я бродил, и в итоге я заблудился... Пожалуйста, отведи меня к <questGiver.dative>"
     }
   },
   {
@@ -2065,7 +2066,7 @@
     },
     "Texts": {
       "Eng": "I'll pay the fine - What's the use in quibbling?",
-      "Rus": ""
+      "Rus": "Я хорошо заплачу - какой смысл придираться?"
     }
   },
   {
@@ -2077,7 +2078,7 @@
     },
     "Texts": {
       "Eng": "I'll pay the fine! No need to disturb the peace any further.",
-      "Rus": ""
+      "Rus": "Я хорошо заплачу! Не нужно об этом больше беспокоиться."
     }
   },
   {
@@ -2089,7 +2090,7 @@
     },
     "Texts": {
       "Eng": "I'm not afraid of <questGiver>!",
-      "Rus": ""
+      "Rus": "Я не боюсь <questGiver.accusative>!"
     }
   },
   {
@@ -2101,7 +2102,7 @@
     },
     "Texts": {
       "Eng": "I'm pleased that we could carry out this transaction - my thanks for the goods. Here is <questGiver>'s <receivedItems>.",
-      "Rus": ""
+      "Rus": "Я рад, что мы можем договориться об этой сделке - спасибо за товар. Вот <receivedItems>, отнеси к <questGiver.accusative>."
     }
   },
   {
@@ -2113,7 +2114,7 @@
     },
     "Texts": {
       "Eng": "I'm pleased that we could carry out this transaction - my thanks for the goods. Please take this parcel to <questGiver>.",
-      "Rus": ""
+      "Rus": "Я рад, что мы можем договориться об этой сделке - спасибо за товар. Пожалуйста, отнеси этот пакет <questGiver.dative>."
     }
   },
   {
@@ -2126,7 +2127,7 @@
     },
     "Texts": {
       "Eng": "I'm so lost. Can you take me back to <questGiver>?",
-      "Rus": ""
+      "Rus": "Я потерялся. Можешь отвести меня к <questGiver.dative>?"
     }
   },
   {
