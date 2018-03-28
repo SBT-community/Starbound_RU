@@ -120,7 +120,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Жизнь, похожая на вашу, была потрачена не на любознательность."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/hylotl/apex/18"
