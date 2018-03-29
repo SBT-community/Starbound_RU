@@ -2163,7 +2163,7 @@
     },
     "Texts": {
       "Eng": "I'm still pretty shook up - can you take me home to <questGiver>?",
-      "Rus": ""
+      "Rus": "Я всё ещё в шоке - можешь отвести меня домой к <questGiver.dative>?"
     }
   },
   {
@@ -2355,7 +2355,7 @@
     },
     "Texts": {
       "Eng": "Mighty fine thanks for the goods - Here's <questGiver>'s <receivedItems>.",
-      "Rus": ""
+      "Rus": "Огромное спасибо за товар - вот <receivedItems> для <questGiver.accusative>."
     }
   },
   {
@@ -2367,7 +2367,7 @@
     },
     "Texts": {
       "Eng": "My head was in the clouds, an' I forgot the trail I took here. Could you take me bac to <questGiver>, partner?",
-      "Rus": ""
+      "Rus": "Я замечтался, и забыл, куда я шёл. Можешь отвести меня к <questGiver.dative>, партнёр?"
     }
   },
   {
@@ -2379,7 +2379,7 @@
     },
     "Texts": {
       "Eng": "My loyalty is swayed! Give my thanks to <questGiver>.",
-      "Rus": ""
+      "Rus": "Я польщ<self.pronoun.verb2Ending>! Передай спасибо <questGiver.dative>."
     }
   },
   {
@@ -2391,7 +2391,7 @@
     },
     "Texts": {
       "Eng": "My web of lies has ensnared you!",
-      "Rus": ""
+      "Rus": "Моя паутина лжи завлекла вас!"
     }
   },
   {
@@ -2403,7 +2403,7 @@
     },
     "Texts": {
       "Eng": "No need to be so menacing! Just take my <item>!",
-      "Rus": ""
+      "Rus": "Не надо угрожать! Просто возьми <item.accusative>!"
     }
   },
   {
@@ -2415,7 +2415,7 @@
     },
     "Texts": {
       "Eng": "No need to cause a mighty scene! Jus' take my <item> if it means that much to you!",
-      "Rus": ""
+      "Rus": "Не нужно устраивать сцену! Просто возьми <item.accusative>, коль для тебя это так много значит!"
     }
   },
   {
@@ -2427,7 +2427,7 @@
     },
     "Texts": {
       "Eng": "Oh, could you take me back to <questGiver>? I'm hopelessly lost.",
-      "Rus": ""
+      "Rus": "Ох, ты не мог бы отвести меня обратно к <questGiver.dative>? Я безнадёжно потерялся."
     }
   },
   {
@@ -2440,7 +2440,7 @@
     },
     "Texts": {
       "Eng": "Oh, wow! Please thank <questGiver> for me!",
-      "Rus": ""
+      "Rus": "Ух ты! Пожалуйста, поблагодари за меня <questGiver.accusative>!"
     }
   },
   {
