@@ -2775,7 +2775,7 @@
     },
     "Texts": {
       "Eng": "Thank you for waiting. Here, take this to <questGiver>.",
-      "Rus": ""
+      "Rus": "Спасибо за то, что подождал<player.pronoun.verbEnding>. Вот, отнеси это <questGiver.dative>."
     }
   },
   {
@@ -2788,7 +2788,7 @@
     },
     "Texts": {
       "Eng": "Thank you so much for bringing the items, I'm eager to begin crafting. Here, give me a moment...",
-      "Rus": ""
+      "Rus": "Огромное спасибо за то, что принес<player.pronoun.verb4Ending> предметы, мне не терпится начать мастерить. Так, дай мне секунду..."
     }
   },
   {
@@ -2800,7 +2800,7 @@
     },
     "Texts": {
       "Eng": "Thank you! I don't know where I would be now if you had not come along.",
-      "Rus": ""
+      "Rus": "Спасибо! Я не знаю, где был<self.pronoun.verbEnding> бы я сейчас, если бы не ты."
     }
   },
   {
@@ -2812,7 +2812,7 @@
     },
     "Texts": {
       "Eng": "Thank you, I was so scared! My heart is racing!",
-      "Rus": ""
+      "Rus": "Спасибо, я был<self.pronoun.verbEnding> так напуган<self.pronoun.verbEnding>! Моё сердце так и скачет!"
     }
   },
   {
@@ -2824,7 +2824,7 @@
     },
     "Texts": {
       "Eng": "Thanks for the goods, here's <questGiver>'s <receivedItems>.",
-      "Rus": ""
+      "Rus": "Спасибо за товар, вот <receivedItems> <questGiver.accusative>."
     }
   },
   {
@@ -2836,7 +2836,7 @@
     },
     "Texts": {
       "Eng": "Thanks for the goods, here's <questGiver>'s <receivedItems>. Pass on my regards!",
-      "Rus": ""
+      "Rus": "Спасибо за товар, вот <receivedItems> <questGiver.accusative>. Передай <questGiver.pronoun.object> привет!"
     }
   },
   {
@@ -2849,7 +2849,7 @@
     },
     "Texts": {
       "Eng": "Thanks for the goods, here's <questGiver>'s parcel. Pass on my regards!",
-      "Rus": ""
+      "Rus": "Спасибо за товар, вот пакет <questGiver.accusative>. Передай <questGiver.pronoun.object> привет!"
     }
   },
   {
@@ -2861,7 +2861,7 @@
     },
     "Texts": {
       "Eng": "Thanksss for the ssstuff, here's <questGiver>'s <receivedItems>.",
-      "Rus": ""
+      "Rus": "Ссспасибо за вещи, вот <receivedItems> <questGiver.accusative>."
     }
   },
   {
@@ -2873,7 +2873,7 @@
     },
     "Texts": {
       "Eng": "That <item> was acquired fairly, I promise you!",
-      "Rus": ""
+      "Rus": "Я уверяю, <item> был<item.pronoun.verbEnding> получен<item.pronoun.verbEnding> честно!"
     }
   },
   {
@@ -2885,7 +2885,7 @@
     },
     "Texts": {
       "Eng": "That <item> was acquired legitimately - I swear!",
-      "Rus": ""
+      "Rus": "Я клянусь, <item> получен<item.pronoun.verbEnding> законно!"
     }
   },
   {
@@ -2897,7 +2897,7 @@
     },
     "Texts": {
       "Eng": "That <item> wasn't stolen, it only looks that way!",
-      "Rus": ""
+      "Rus": "<item> не был<item.pronoun.verbEnding> украден<item.pronoun.verbEnding>, он только так выглядит!"
     }
   },
   {
@@ -2909,7 +2909,7 @@
     },
     "Texts": {
       "Eng": "That really ruffled my feathers... Could you take me back to <questGiver>?",
-      "Rus": ""
+      "Rus": "Это сильно потрепало мои перья... Можешь отвести меня обратно к <questGiver.dative>?"
     }
   },
   {
@@ -2921,7 +2921,7 @@
     },
     "Texts": {
       "Eng": "That was most terrifying. Could you take me back to <questGiver>?",
-      "Rus": ""
+      "Rus": "Это было ужасно. Можешь отвести меня обратно к <questGiver.dative>?"
     }
   },
   {
@@ -2933,7 +2933,7 @@
     },
     "Texts": {
       "Eng": "There's no need to keep hassling me, I've decided to pay up!",
-      "Rus": ""
+      "Rus": "Не надо мне докучать, я решил заплатить!"
     }
   },
   {
@@ -2945,7 +2945,7 @@
     },
     "Texts": {
       "Eng": "This <item> is what <questGiver> needed, correct?",
-      "Rus": ""
+      "Rus": "<questGiver> хочет получить <item.accusative>, верно?"
     }
   },
   {
@@ -2958,7 +2958,7 @@
     },
     "Texts": {
       "Eng": "This gift is exquisite. Would you be able to place it somewhere in my home for me?",
-      "Rus": ""
+      "Rus": "Этот подарок совершенен. Не мог бы ты его поставить где-нибудь у меня дома?"
     }
   },
   {
@@ -2970,7 +2970,7 @@
     },
     "Texts": {
       "Eng": "This gift is mighty fine! <questGiver> certainly has my trust!",
-      "Rus": ""
+      "Rus": "Знатный подарок! <questGiver> заслужил<questGiver.pronoun.verbEnding> моё доверие!"
     }
   },
   {
@@ -2982,7 +2982,7 @@
     },
     "Texts": {
       "Eng": "This gift is mighty fine! Can you thank <questGiver> for me?",
-      "Rus": ""
+      "Rus": "Чудный подарок! Можешь поблагодарить <questGiver.accusative> от меня?"
     }
   },
   {
@@ -2995,7 +2995,7 @@
     },
     "Texts": {
       "Eng": "This gift is so nice, I should show it off. Could you place it in my home for me?",
-      "Rus": ""
+      "Rus": "Этот подарок такой классный, мне следует им хвастаться. Можешь поставить его в моём доме?"
     }
   },
   {
@@ -3008,7 +3008,7 @@
     },
     "Texts": {
       "Eng": "This gift would look good displayed in my home. Will you put it there for me?",
-      "Rus": ""
+      "Rus": "Этот подарок должен выглядеть хорошо в моём доме. Можешь поставить его здесь?"
     }
   },
   {
@@ -3022,7 +3022,7 @@
     },
     "Texts": {
       "Eng": "This gift would look good in my home. Can you place it in there for me?",
-      "Rus": ""
+      "Rus": "Этот подарок должен выглядеть хорошо в моём доме. Можешь поставить его там?"
     }
   },
   {
@@ -3034,7 +3034,7 @@
     },
     "Texts": {
       "Eng": "This gift would look good in my house. Can you place it in there for me?",
-      "Rus": ""
+      "Rus": "Этот подарок должен выглядеть хорошо в моём доме. Можешь поставить его там?"
     }
   },
   {
@@ -3046,7 +3046,7 @@
     },
     "Texts": {
       "Eng": "This is a generous gift - perhaps it should be on display in my home.",
-      "Rus": ""
+      "Rus": "Это щедрый подарок. Возможно, ему следует украшать мой дом."
     }
   },
   {
@@ -3058,7 +3058,7 @@
     },
     "Texts": {
       "Eng": "This is a generous gift - perhaps it should be on display in my home?",
-      "Rus": ""
+      "Rus": "Это щедрый подарок. Может, он должен украшать мой дом?"
     }
   },
   {
@@ -3070,7 +3070,7 @@
     },
     "Texts": {
       "Eng": "This is yours.",
-      "Rus": ""
+      "Rus": "Это тебе."
     }
   },
   {
