@@ -2897,7 +2897,7 @@
     },
     "Texts": {
       "Eng": "That <item> wasn't stolen, it only looks that way!",
-      "Rus": "<item> не был<item.pronoun.verbEnding> украден<item.pronoun.verbEnding>, он только так выглядит!"
+      "Rus": "<item> не был<item.pronoun.verbEnding> украден<item.pronoun.verbEnding>,<item.pronoun.subject> только так выглядит!"
     }
   },
   {
@@ -2933,7 +2933,7 @@
     },
     "Texts": {
       "Eng": "There's no need to keep hassling me, I've decided to pay up!",
-      "Rus": "Не надо мне докучать, я решил заплатить!"
+      "Rus": "Не надо мне докучать, я решил<self.pronoun.verbEnding> заплатить!"
     }
   },
   {
@@ -2995,7 +2995,7 @@
     },
     "Texts": {
       "Eng": "This gift is so nice, I should show it off. Could you place it in my home for me?",
-      "Rus": "Этот подарок такой классный, мне следует им хвастаться. Можешь поставить его в моём доме?"
+      "Rus": "Этот подарок такой классный, что мне следует им хвастаться. Можешь поставить его в моём доме?"
     }
   },
   {
@@ -3311,7 +3311,7 @@
     },
     "Texts": {
       "Eng": "You actually fell for that?",
-      "Rus": "Ты действительно пал<player.pronoun.verbEnding> так низко?"
+      "Rus": "Ты и правда на это повел<player.pronoun.verb3Ending>?"
     }
   },
   {
@@ -3377,7 +3377,7 @@
     },
     "Texts": {
       "Eng": "You brought the materials? Great, hold on a moment then... ",
-      "Rus": "Ты принес<player.pronoun.verb4Ending> материалы?"
+      "Rus": "Ты принес<player.pronoun.verb4Ending> материалы? Отлично, тогда задержись на минуту..."
     }
   },
   {
@@ -3403,7 +3403,7 @@
     },
     "Texts": {
       "Eng": "You brought the supplies? Ace-high! Now hold on a moment so I can throw this together...",
-      "Rus": "Ты принес<player.pronoun.verb4Ending> запасы? Так держать! А сейчас задержись на секунду, чтобы я смогу соединить это..."
+      "Rus": "Ты принес<player.pronoun.verb4Ending> запасы? Так держать! А сейчас задержись на секунду, чтобы я смог<self.pronoun.verb4Ending> соединить это..."
     }
   },
   {
@@ -3439,7 +3439,7 @@
     },
     "Texts": {
       "Eng": "You caught me - I will pay the fine. Just don't get me in bigger trouble.",
-      "Rus": "Ты поймал меня, я заплачу штраф. Просто не вовлекай меня в большие неприятности."
+      "Rus": "Ты поймал<player.pronoun.verbEnding> меня, я заплачу штраф. Просто не вовлекай меня в большие неприятности."
     }
   },
   {
@@ -3451,7 +3451,7 @@
     },
     "Texts": {
       "Eng": "You caught me! I'll play fair.",
-      "Rus": "Ты поймал меня! Я буду играть по-честному."
+      "Rus": "Ты поймал<player.pronoun.verbEnding> меня! Я буду играть по-честному."
     }
   },
   {
