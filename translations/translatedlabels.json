@@ -362,7 +362,7 @@
       "mutantminer.config.json": 10,
       "oremerchant.config.json": 119,
       "outpost.config.json": 42,
-      "quest.config.json": 157,
+      "quest.config.json": 243,
       "rebel.config.json": 3,
       "scientist.config.json": 12,
       "shared_.config.json": 101,
@@ -4130,13 +4130,13 @@
             "fishingbulb.monstertype.json": 2
           },
           "chomp": {
-            "fishingchomp.monstertype.json": 0
+            "fishingchomp.monstertype.json": 2
           },
           "curl": {
-            "fishingcurl.monstertype.json": 0
+            "fishingcurl.monstertype.json": 2
           },
           "eel": {
-            "fishingeel.monstertype.json": 0
+            "fishingeel.monstertype.json": 2
           },
           "fang": {
             "fishingfang.monstertype.json": 0
@@ -4189,16 +4189,16 @@
         },
         "small": {
           "chirp": {
-            "fishingchirp.monstertype.json": 0
+            "fishingchirp.monstertype.json": 2
           },
           "claw": {
-            "fishingclaw.monstertype.json": 0
+            "fishingclaw.monstertype.json": 2
           },
           "cute": {
-            "fishingcute.monstertype.json": 0
+            "fishingcute.monstertype.json": 2
           },
           "dart": {
-            "fishingdart.monstertype.json": 0
+            "fishingdart.monstertype.json": 2
           },
           "dirt": {
             "fishingdirt.monstertype.json": 0
