@@ -3082,7 +3082,7 @@
     },
     "Texts": {
       "Eng": "This seems like the right stuff... Ok. Let's trade. Take this parcel to <questGiver>.",
-      "Rus": "Похоже на нужные вещи... Хорошо. Давай торговать. Отнеси этот пакет <questGiver.dative>."
+      "Rus": "Похоже на нужные вещи... Хорошо. Давай поменяемся. Отнеси этот пакет <questGiver.dative>."
     }
   },
   {
@@ -3118,7 +3118,7 @@
     },
     "Texts": {
       "Eng": "Well ain't you in luck? I made this <item> earlier, go ahead an' take it.",
-      "Rus": "Ну разве тебе не повезло? Я сделал <item.accusative> раньше, возьми <item.pronoun.object>."
+      "Rus": "Ну разве тебе не повезло? Я сделал<self.pronoun.verbEnding> <item.accusative> раньше, возьми <item.pronoun.object>."
     }
   },
   {
@@ -3131,7 +3131,7 @@
     },
     "Texts": {
       "Eng": "Well shucks, this gift is jus' lovely! Could you place it in my home for me, partner?",
-      "Rus": "Вот зараза, этот подарок просто прекрасен! Можешь поставить его в моём доме, партнёр?"
+      "Rus": "Отлично, этот подарок просто прекрасен! Можешь поставить его в моём доме, партнёр?"
     }
   },
   {
@@ -3169,7 +3169,7 @@
     },
     "Texts": {
       "Eng": "What a mighty fine craftin' job I did! Be a star an' run this down to <questGiver> for me?",
-      "Rus": "Какую отличную работу я сделал<self.pronoun.verbEnding>! Будь звездой и отнеси это <questGiver.dative>."
+      "Rus": "Какую отличную работу я сделал<self.pronoun.verbEnding>! Будь звёздочкой и отнеси это <questGiver.dative>."
     }
   },
   {
@@ -3182,7 +3182,7 @@
     },
     "Texts": {
       "Eng": "What a mighty fine gesture this gift is! Could you place it in my home for me?",
-      "Rus": "Этот подарок - шибко хороший жест! Можешь поставить его у меня дома?"
+      "Rus": "Этот подарок - шибко хорош! Можешь поставить его у меня дома?"
     }
   },
   {
@@ -3237,7 +3237,7 @@
     },
     "Texts": {
       "Eng": "Why should I do what <questGiver> wants?",
-      "Rus": "Почему я должен делать то, что хочет <questGiver>?"
+      "Rus": "Почему я долж<self.pronoun.verb4Ending> делать то, что хочет <questGiver>?"
     }
   },
   {
@@ -3262,7 +3262,7 @@
     },
     "Texts": {
       "Eng": "Wonderful! Don't you admire my craftsmanship? Now, could you take the parcel to <questGiver>?",
-      "Rus": "Чудесно! Ты не восхищаешься моим мастерством? Теперь, можешь отнести этот пакет к <questGiver.dative>?"
+      "Rus": "Чудесно! Ну разве не восхитительно? Теперь, не мог бы ты отнести этот пакет к <questGiver.dative>?"
     }
   },
   {
@@ -3286,7 +3286,7 @@
     },
     "Texts": {
       "Eng": "Y'all wanted this <item> I made? Here, take it!",
-      "Rus": "Ты хочешь, чтобы я сделал <item.accusative>? Вот, возьми!"
+      "Rus": "Ты хочешь, <item.accusative>, который я сделал? Вот, возьми!"
     }
   },
   {
