@@ -2849,7 +2849,7 @@
     },
     "Texts": {
       "Eng": "Thanks for the goods, here's <questGiver>'s parcel. Pass on my regards!",
-      "Rus": "Спасибо за товар, вот пакет <questGiver.accusative>. Передай <questGiver.pronoun.object> привет!"
+      "Rus": "Спасибо за товар, вот посылка <questGiver.accusative>. Передай <questGiver.pronoun.object> привет!"
     }
   },
   {
@@ -2897,7 +2897,7 @@
     },
     "Texts": {
       "Eng": "That <item> wasn't stolen, it only looks that way!",
-      "Rus": "<item> не был<item.pronoun.verbEnding> украден<item.pronoun.verbEnding>,<item.pronoun.subject> только так выглядит!"
+      "Rus": "<item> не был<item.pronoun.verbEnding> украден<item.pronoun.verbEnding>, <item.pronoun.subject> только так выглядит!"
     }
   },
   {
@@ -2958,7 +2958,7 @@
     },
     "Texts": {
       "Eng": "This gift is exquisite. Would you be able to place it somewhere in my home for me?",
-      "Rus": "Этот подарок совершенен. Не мог бы ты его поставить где-нибудь у меня дома?"
+      "Rus": "Этот подарок совершенен. Не мог<player.pronoun.verb4Ending> бы ты его поставить где-нибудь у меня дома?"
     }
   },
   {
@@ -3094,7 +3094,7 @@
     },
     "Texts": {
       "Eng": "Um, could you take me back to <questGiver>?",
-      "Rus": "Гм, не мог бы ты отвести меня назад к <questGiver.dative>?"
+      "Rus": "Гм, не мог<player.pronoun.verb4Ending> бы ты отвести меня назад к <questGiver.dative>?"
     }
   },
   {
@@ -3274,7 +3274,7 @@
     },
     "Texts": {
       "Eng": "Would you kindly take this reply to <questGiver>?",
-      "Rus": "Не могли бы вы отнести этот ответ <questGiver.dative>?"
+      "Rus": "Не могли бы Вы отнести этот ответ <questGiver.dative>?"
     }
   },
   {
