@@ -343,7 +343,7 @@
       "clues.config.json": 50,
       "colourful.config.json": 33,
       "combat.config.json": 185,
-      "converse.config.json": 1678,
+      "converse.config.json": 1679,
       "crewmember.config.json": 39,
       "cultist.config.json": 31,
       "deadbeat.config.json": 23,
@@ -386,7 +386,7 @@
     "generic": {
       "shared_lightbulb.json": 1
     },
-    "glitchEmotes.json": 434,
+    "glitchEmotes.json": 497,
     "help.config.json": 62,
     "hunger.config.json": 14,
     "interface": {
@@ -484,7 +484,7 @@
         "sbvn": {
           "games": {
             "beautifulattempt": {
-              "beautifulattempt.sbvn.json": 99
+              "beautifulattempt.sbvn.json": 105
             }
           },
           "sbvngui.config.json": 2
@@ -1187,7 +1187,7 @@
                 "elementbouncer.weaponability.json": 0,
                 "elementorb.weaponability.json": 1,
                 "elementportal.weaponability.json": 1,
-                "elementrain.weaponability.json": 0,
+                "elementrain.weaponability.json": 1,
                 "elementswarm.weaponability.json": 0,
                 "kluexshooter.weaponability.json": 1,
                 "plasmabarrage.weaponability.json": 1,
@@ -4201,7 +4201,7 @@
             "fishingdart.monstertype.json": 2
           },
           "dirt": {
-            "fishingdirt.monstertype.json": 0
+            "fishingdirt.monstertype.json": 2
           },
           "dragon": {
             "fishingdragon.monstertype.json": 0
@@ -4605,7 +4605,7 @@
       "blacksmith.npctype.json": 9,
       "crew": {
         "crewmember.npctype.json": 165,
-        "crewmemberchemist.npctype.json": 7,
+        "crewmemberchemist.npctype.json": 9,
         "crewmemberengineer.npctype.json": 3,
         "crewmemberjanitor.npctype.json": 9,
         "crewmembermechanic.npctype.json": 3,
@@ -4693,7 +4693,7 @@
         "museumhumanvisitor.npctype.json": 2
       },
       "outpost": {
-        "baronoutpost.npctype.json": 1,
+        "baronoutpost.npctype.json": 2,
         "koichioutpost.npctype.json": 1,
         "lanaoutpost.npctype.json": 7,
         "nuruoutpost.npctype.json": 1,
@@ -4767,7 +4767,7 @@
         "letheiamerchant.npctype.json": 5,
         "medicalgoodstrader.npctype.json": 1,
         "militarygoodstrader.npctype.json": 1,
-        "poptopfarmer.npctype.json": 0,
+        "poptopfarmer.npctype.json": 1,
         "seedmerchant.npctype.json": 4,
         "spacemerchant.npctype.json": 2
       },
@@ -11596,7 +11596,7 @@
       "shared_storeshelf.json": 4,
       "shared_switch.json": 4,
       "shared_switchhidden": {
-        "shared_switchhidden.json": 0
+        "shared_switchhidden.json": 8
       },
       "shared_table": {
         "shared_.object.json": 2,
@@ -11617,7 +11617,7 @@
         "shared_verticaldoor.object.json": 1
       },
       "shared_wallbutton": {
-        "shared_wallbutton.json": 0
+        "shared_wallbutton.json": 1
       },
       "shared_water": {
         "shared_.object.json": 1
