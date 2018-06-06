@@ -1,5 +1,7 @@
+require('/scripts/quest/declension.lua')
 function itemShortDescription(itemDescriptor)
-  return root.itemConfig(itemDescriptor).config.shortdescription or itemDescriptor.name
+  return root.itemConfig(itemDescriptor).config.shortdescription or
+           itemDescriptor.name
 end
 
 local function getCountEnding(count)
@@ -10,68 +12,45 @@ local function getCountEnding(count)
   else return "" end
 end
 
-local function convertNounAndAdjective(phrase)
-  local result = ""
-  local isFemine = true
-  for word in phrase:gmatch("%S+") do
-    local gotit = 0
-    local newword, count = word:gsub("ая$", "ую")
-    gotit = count
-    newword, count = newword:gsub("яя$", "юю")
-    gotit = gotit + count
-    if gotit == 0 then
-      if word:match("[Сс]емена") or word:match("[Сс]емя") then newword = word
-      elseif isFemine then
-        newword = word:gsub("а$", "у")
-        newword = newword:gsub("я$", "ю")
-      else
-        newword = word
-      end
-      isFemine = false
-    else isFemine = true
+local function concatList(itemList)
+  local listString = ""
+  local count = 0
+  for item, itemCount in pairs(itemList) do
+    if listString ~= "" then
+      if count > 1 then  listString = "; " .. listString
+      else listString = " и " .. listString end
     end
-    if result ~= "" then result = result .. " " end
-    result = result .. newword
-  end
-  return result
-end
-
-function questParameterText(paramValue, caseModifier)
-  caseModifier = caseModifier or function(a) return a end
-  if paramValue.name then return paramValue.name end
-
-  if paramValue.type == "item" then
-    return caseModifier(itemShortDescription(paramValue.item))
-  elseif paramValue.type == "itemList" then
-    local listString = ""
-    local count = 0
-    for _,item in ipairs(paramValue.items) do
-      if listString ~= "" then
-        if count > 1 then
-          listString = "; " .. listString
-        else
-          listString = " и " .. listString
-        end
-      end
-      local description = caseModifier(itemShortDescription(item))
-      if item.count > 1 then
-        local thingEnd = getCountEnding(item.count)
-        listString = string.format("%s, %s штук%s", description, item.count,
-                                   thingEnd) .. listString
-      else
-        listString = description .. listString
-      end
-      count = count + 1
+    if itemCount > 1 then
+      local thingEnd = getCountEnding(itemCount)
+      listString = string.format("%s, %s штук%s", item, itemCount, thingEnd)
+                     .. listString
+    else
+      listString = item .. listString
     end
-    return listString
+    count = count + 1
   end
+  return listString
 end
 
-function questParameterTags(parameters)
-  local result = {}
-  for k, v in pairs(parameters) do
-    result[k] = questParameterText(v)
-    result[k..".reflexive"] = questParameterText(v, convertNounAndAdjective)
+function questParameterItemListTag(paramValue, action)
+  assert(paramValue.type == "itemList")
+  local gender
+  local count = 0
+  local descriptions = setmetatable({},
+    {__index = function(t,k)t[k]={} return t[k] end})
+  for _,item in pairs(paramValue.items) do
+    local form, mut, immut = detectForm(itemShortDescription(item))
+    local phrase = {name = mut, gender = form, species = "item"}
+    gender = item.count > 1 and "plural" or gender or form
+    injectDecliners(function(casename, decliner)
+      descriptions[casename][decliner(phrase)..immut] = item.count
+    end)
+    count = count + 1
   end
-  return result
+  for casename, items in pairs(descriptions) do
+    action(casename, concatList(items))
+  end
+  if count > 1 then gender = "plural" end
+  return gender
 end
+

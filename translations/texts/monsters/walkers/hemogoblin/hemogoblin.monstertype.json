@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Он покрыт красной кожей, но всё ещё довольно отвратительный."
+    ],
     "Files": {
       "monsters/walkers/hemogoblin/hemogoblin.monstertype": [
         "/description"
@@ -20,7 +22,7 @@
     },
     "Texts": {
       "Eng": "It's actually covered in red skin, but it's still pretty gross.",
-      "Rus": "Он покрыт красной кожей, но всё ещё довольно отвратительный."
+      "Rus": "На самом деле он покрыт красной кожей, но выглядит всё равно отвратительно."
     }
   }
 ]

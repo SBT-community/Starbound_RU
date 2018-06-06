@@ -8,7 +8,7 @@
     },
     "Texts": {
       "Eng": "As your next tasssk, could you ^green;find us ^orange;<fetchedItems>? ^white;Not too big a job for someone sskillful like you.",
-      "Rus": "В качестве своего следующего задания, сссможешь ли ты ^green;найти нам ^orange;<fetchedItems.reflexive>? Не такая большая работа, для умельца вроде тебя."
+      "Rus": "В качестве своего следующего задания, сссможешь ли ты ^green;найти нам ^orange;<fetchedItems.accusative>? Не такая большая работа, для умельца вроде тебя."
     }
   },
   {
@@ -32,7 +32,7 @@
     },
     "Texts": {
       "Eng": "Firsst, Floran needs you to ^green;find ^orange;<fetchedItems>. ^white;Go go go!",
-      "Rus": "Сссперва, Флорану нужно чтобы ты ^green;добыл<player.pronoun.verbEnding> ^orange;<fetchedItems.reflexive>. ^white;Вперёд, вперёд, вперёд!"
+      "Rus": "Сссперва, Флорану нужно чтобы ты ^green;добыл<player.pronoun.verbEnding> ^orange;<fetchedItems.accusative>. ^white;Вперёд, вперёд, вперёд!"
     }
   },
   {
@@ -44,7 +44,7 @@
     },
     "Texts": {
       "Eng": "First ^green;I need you to gather ^orange;<fetchedItems>^white; for me. Thank you in advance!",
-      "Rus": "Сперва, ^green;собери ^orange;<fetchedItems.reflexive>^white; для меня. Заранее спасибо!"
+      "Rus": "Сперва, ^green;собери ^orange;<fetchedItems.accusative>^white; для меня. Заранее спасибо!"
     }
   },
   {
@@ -56,7 +56,7 @@
     },
     "Texts": {
       "Eng": "Floran can't find ^orange;<fetchedItems>. ^white;Floran will reward you generously if you ^green;fetch sssome.",
-      "Rus": "Флоран не может найти ^orange;<fetchedItems.reflexive>.^white; Флоран щедро тебя наградит, если ты^green; принесёшь ему то, что он ищет."
+      "Rus": "Флоран не может найти ^orange;<fetchedItems.accusative>.^white; Флоран щедро тебя наградит, если ты^green; принесёшь ему то, что он ищет."
     }
   },
   {
@@ -68,7 +68,7 @@
     },
     "Texts": {
       "Eng": "For the first part of my plan, ^green;I need you to gather ^orange;<fetchedItems>^white; for me.",
-      "Rus": "Для первой части моего плана, ^green;мне нужно чтобы ты собрал<player.pronoun.verbEnding> ^orange;<fetchedItems.reflexive>^white; для меня."
+      "Rus": "Для первой части моего плана, ^green;мне нужно чтобы ты собрал<player.pronoun.verbEnding> ^orange;<fetchedItems.accusative>^white; для меня."
     }
   },
   {
@@ -116,7 +116,7 @@
     },
     "Texts": {
       "Eng": "Initially, ^green;we'll need to gather ^orange;<fetchedItems>^white;. Could you handle that?",
-      "Rus": "Сперва, ^green;мы должны собрать ^orange;<fetchedItems.reflexive>^white;. Справишься с этим?"
+      "Rus": "Сперва, ^green;мы должны собрать ^orange;<fetchedItems.accusative>^white;. Справишься с этим?"
     }
   },
   {
@@ -140,7 +140,7 @@
     },
     "Texts": {
       "Eng": "Next, ^green;I need you to collect ^orange;<fetchedItems>^white;.",
-      "Rus": "Теперь, ^green;Мне нужно собрать ^orange;<fetchedItems.reflexive>^white;."
+      "Rus": "Теперь, ^green;Мне нужно собрать ^orange;<fetchedItems.accusative>^white;."
     }
   },
   {
@@ -152,7 +152,7 @@
     },
     "Texts": {
       "Eng": "Next, ^green;we'll need ^orange;<fetchedItems>^white;. You can handle that, right?",
-      "Rus": "Затем, ^green;нам нужно добыть ^orange;<fetchedItems.reflexive>^white;. Ты ведь справишься с этим, верно?"
+      "Rus": "Затем, ^green;нам нужно добыть ^orange;<fetchedItems.accusative>^white;. Ты ведь справишься с этим, верно?"
     }
   },
   {
@@ -188,7 +188,7 @@
     },
     "Texts": {
       "Eng": "Perfect, time to put our <fetchedItems> to ussse.",
-      "Rus": "Идеально, время пустить <fetchedItems.reflexive> в дело."
+      "Rus": "Идеально, время пустить <fetchedItems.accusative> в дело."
     }
   },
   {
@@ -248,7 +248,7 @@
     },
     "Texts": {
       "Eng": "Time to ^green;find ^orange;<fetchedItems>. ^white;It'sss very important we do this next.",
-      "Rus": "Время ^green;найти ^orange;<fetchedItems.reflexive>. ^white; Это очень важно."
+      "Rus": "Время ^green;найти ^orange;<fetchedItems.accusative>. ^white; Это очень важно."
     }
   },
   {
@@ -260,7 +260,7 @@
     },
     "Texts": {
       "Eng": "To begin, ^green;I'll need ^orange;<fetchedItems>^white;. Could you lend a hand?",
-      "Rus": "Сначала, ^green;мне нужно найти ^orange;<fetchedItems.reflexive>^white;. Ты мне поможешь?"
+      "Rus": "Сначала, ^green;мне нужно найти ^orange;<fetchedItems.accusative>^white;. Ты мне поможешь?"
     }
   },
   {

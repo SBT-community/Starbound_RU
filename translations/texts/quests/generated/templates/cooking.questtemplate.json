@@ -34,7 +34,7 @@
     },
     "Texts": {
       "Eng": "Next <player> needss to ^green;cook Floran ^orange;<cookedItems> ^green;from the ^orange;<ingredients>.",
-      "Rus": "Сейчас <player> долж<player.pronoun.verb2Ending> ^green;используя ^orange;<ingredients.reflexive>^green; приготовить флорану ^orange;<cookedItems.reflexive> ^green;."
+      "Rus": "Сейчас <player> долж<player.pronoun.verb2Ending> ^green;используя ^orange;<ingredients.accusative>^green; приготовить флорану ^orange;<cookedItems.accusative> ^green;."
     }
   },
   {
@@ -48,7 +48,7 @@
     },
     "Texts": {
       "Eng": "Now comes the tricky part - cooking. You should be able to ^green;assemble ^orange;<ingredients>^white; into ^orange;<cookedItems>^white;. The recipe seems simple, but my attempts at cooking never work out.",
-      "Rus": "Сейчас сложная часть - приготовление пищи. Ты долж<player.pronoun.verb2Ending> ^green;соединить ^orange;<ingredients.reflexive>^white; в ^orange;<cookedItems.reflexive>^white;. Рецепт довольно прост, но все мои попытки оканчиваются неудачей."
+      "Rus": "Сейчас сложная часть - приготовление пищи. Ты долж<player.pronoun.verb2Ending> ^green;соединить ^orange;<ingredients.accusative>^white; в ^orange;<cookedItems.accusative>^white;. Рецепт довольно прост, но все мои попытки оканчиваются неудачей."
     }
   },
   {
@@ -62,7 +62,7 @@
     },
     "Texts": {
       "Eng": "Now for the worst part! Floran hatesss cooking! ^green;You need to cook ^orange;<cookedItems> ^white;for Floran using the ^orange;<ingredients>.",
-      "Rus": "Сейчас самая мерзкая часть! Флоран ненавидит готовку! ^green;Тебе нужно приготовить ^orange;<cookedItems.reflexive> ^white;для флорана используя ^orange;<ingredients.reflexive>."
+      "Rus": "Сейчас самая мерзкая часть! Флоран ненавидит готовку! ^green;Тебе нужно приготовить ^orange;<cookedItems.accusative> ^white;для флорана используя ^orange;<ingredients.accusative>."
     }
   },
   {
@@ -74,7 +74,7 @@
     },
     "Texts": {
       "Eng": "Now that you have all the ^orange;ingredients^white;, ^green;they just need to be fashioned into ^orange;<cookedItems>^white; somehow. I will leave this part to you!",
-      "Rus": "Теперь когда у тебя есть ^orange;ingredients^white;, ^green; придай им форму ^orange;<cookedItems.reflexive>^white; , каким-нибудь образом. Это я оставляю на тебя!"
+      "Rus": "Теперь когда у тебя есть ^orange;ingredients^white;, ^green; придай им форму ^orange;<cookedItems.accusative>^white; , каким-нибудь образом. Это я оставляю на тебя!"
     }
   },
   {
@@ -116,7 +116,7 @@
     },
     "Texts": {
       "Eng": "The ^orange;<ingredients>^white; will need some preparing. You should be able to ^green;whip up ^orange;<cookedItems>^white;. Why don't you give it a try?",
-      "Rus": "Мне нужно, чтобы ты ^green;приготовил<player.pronoun.verbEnding> ^orange;<cookedItems.reflexive>^white; используя ^orange;<ingredients.reflexive>^white;. Почему бы не попытаться?"
+      "Rus": "Мне нужно, чтобы ты ^green;приготовил<player.pronoun.verbEnding> ^orange;<cookedItems.accusative>^white; используя ^orange;<ingredients.accusative>^white;. Почему бы не попытаться?"
     }
   },
   {
@@ -154,7 +154,7 @@
     },
     "Texts": {
       "Eng": "^green;Now you just need to prepare ^orange;<cookedItems>^white; from the ^orange;<ingredients>^white;. Simple!",
-      "Rus": "^green;Сейчас тебе просто нужно приготовить  ^orange;<cookedItems.reflexive>^white; используя ^orange;<ingredients.reflexive>^white;. Всё просто!"
+      "Rus": "^green;Сейчас тебе просто нужно приготовить  ^orange;<cookedItems.accusative>^white; используя ^orange;<ingredients.accusative>^white;. Всё просто!"
     }
   }
 ]

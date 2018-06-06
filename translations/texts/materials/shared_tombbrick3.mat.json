@@ -11,11 +11,13 @@
     },
     "Texts": {
       "Eng": "Looks t'me like some small bricks.",
-      "Rus": ""
+      "Rus": "Сдаётся мне, это мелкие кирпичи."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Маленькие кирпичи из гробницы"
+    ],
     "Files": {
       "items/materials/tombbrick3.matitem": [
         "/shortdescription"
@@ -26,7 +28,7 @@
     },
     "Texts": {
       "Eng": "Small Tomb Brick",
-      "Rus": "Маленькие кирпичи из гробницы"
+      "Rus": "Малый могильный кирпич"
     }
   },
   {
@@ -41,7 +43,7 @@
     },
     "Texts": {
       "Eng": "Ssmall brickss.",
-      "Rus": ""
+      "Rus": "Небольшшшие кирпичи."
     }
   },
   {
@@ -56,7 +58,7 @@
     },
     "Texts": {
       "Eng": "These small bricks are masterfully crafted.",
-      "Rus": "Эти маленькие кирпичи - работа мастера."
+      "Rus": "Эти небольшие кирпичи - работа мастера."
     }
   },
   {
@@ -71,7 +73,7 @@
     },
     "Texts": {
       "Eng": "This stone work is most impressive.",
-      "Rus": ""
+      "Rus": "Поистине впечатляющая работа по камню."
     }
   }
 ]

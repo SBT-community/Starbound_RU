@@ -1,13 +1,17 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Гудок - резиновая уточка",
+      "Гудок меха-резиновой уточки"
+    ],
     "Files": {
       "items/generic/mechparts/horn/mechhornrubberduck.item": [
         "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Rubber Duck Mech Horn"
+      "Eng": "Rubber Duck Mech Horn",
+      "Rus": "Гудок меха-уточки"
     }
   }
 ]

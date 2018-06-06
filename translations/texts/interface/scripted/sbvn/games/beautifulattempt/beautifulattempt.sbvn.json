@@ -23,7 +23,7 @@
     },
     "Texts": {
       "Eng": " I assume that she misunderstood the implication of my remark, but I cannot help stare a little too long into her triumvirate of ruby red eyes.",
-      "Rus": ""
+      "Rus": " Я предположил, что она неправильно поняла суть моего замечания, но не мог отвести взгляд от триумвирата её рубиново-красных глаз."
     }
   },
   {
@@ -164,7 +164,7 @@
     },
     "Texts": {
       "Eng": "\"He's losing his house? How sad! I have a song idea, but it isn't very funny.\" she says.",
-      "Rus": "\"Он лишается своего дома Как печально! У меня есть идея для песни, но она не слишком весёлая.\" - сказала она."
+      "Rus": "\"Он лишается своего дома? Как печально! У меня есть идея для песни, но она не слишком весёлая.\" - сказала она."
     }
   },
   {
@@ -204,7 +204,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "\"Теперь я могу это себе представить! Почему он так сильно ищет любви?\"",
+      "\"Теперь я могу это себе представить! Почему он так сильно ищет любви?\""
+    ],
     "Files": {
       "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
         "/scenes/song4d/text"
@@ -212,7 +215,7 @@
     },
     "Texts": {
       "Eng": "\"I can picture it now! Why is he so lovesick?\"",
-      "Rus": "\"Теперь я могу это себе представить! Почему он так сильно ищет любви?\""
+      "Rus": "\"Теперь я могу себе это представить! Почему он так сильно ищет любви?\""
     }
   },
   {
@@ -254,7 +257,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "\"Это удовольствие - встретить Вас, Святой Вон Лавкастл!\" - сказала она с приятной улыбкой. \"Почему, из всех мест, вы заинтересованы именно этой ещё неоткрытой библиотекой?\""
+    ],
     "Files": {
       "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
         "/scenes/question_beauty5b/text"
@@ -262,7 +267,7 @@
     },
     "Texts": {
       "Eng": "\"It's a pleasure to meet you, Vaughn St. Lovecastle!\" she says with a pleasant smile. \"Why are you interested in this unopened library, of all places?\"",
-      "Rus": "\"Это удовольствие - встретить Вас, Святой Вон Лавкастл!\" - сказала она с приятной улыбкой. \"Почему, из всех мест, вы заинтересованы именно этой ещё неоткрытой библиотекой?\""
+      "Rus": "\"Рада знакомству с вами, Вон Сент-Лавкасл!\" - говорит она, мило улыбаясь. \"Эта библиотека ещё даже не открылась. Почему, из всех мест, вы заинтересовались именно ею?\""
     }
   },
   {
@@ -274,7 +279,7 @@
     },
     "Texts": {
       "Eng": "\"Lone Octopus, hesong fatigued, because his crush, is out of his league.\"",
-      "Rus": ""
+      "Rus": "Поник бессильный осьминог: “Я вновь останусь одинок, ведь тайная любовь моя так хороша - не то что я."
     }
   },
   {
@@ -286,7 +291,7 @@
     },
     "Texts": {
       "Eng": "\"Lone Octopus, you can't just wait, put in some effort, if you want to date.\"",
-      "Rus": "\"Одинокий осьминог, ты не можешь просто ждать, добавь немного усилий, если на свидание хочешь попадать.\""
+      "Rus": "\"Одинокий осьминог, ты не можешь просто ждать, добавь немного усилий, если на свидания хочешь попадать.\""
     }
   },
   {
@@ -361,7 +366,7 @@
     },
     "Texts": {
       "Eng": "\"Sad old bear, destined to roam, after the banks, repossessed his home.\"",
-      "Rus": ""
+      "Rus": "\"Грустный старый медведь, банки дом твой изъяли. Ты скиталец теперь и вернёшься едва-ли.\""
     }
   },
   {
@@ -438,7 +443,8 @@
   },
   {
     "DeniedAlternatives": [
-      "\"Это действеительно печально! У меня в голове вертится олна песня на это счёт.\" - сказала она."
+      "\"Это действеительно печально! У меня в голове вертится олна песня на это счёт.\" - сказала она.",
+      "\"Это весьма печально! У меня в голове вертится олна песня на это счёт.\" - сказала она."
     ],
     "Files": {
       "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
@@ -447,7 +453,7 @@
     },
     "Texts": {
       "Eng": "\"That is quite tragic! I have a song in mind just for this.\" she says.",
-      "Rus": "\"Это весьма печально! У меня в голове вертится олна песня на это счёт.\" - сказала она."
+      "Rus": "\"Это весьма трагично! У меня в голове вертится одна песня на этот счёт.\" - сказала она."
     }
   },
   {
@@ -507,7 +513,7 @@
     },
     "Texts": {
       "Eng": "\"The ceremony!\" she exclaims. \"But it is a ceremony of tradition, not divine power. And it is not even finished, either.\"",
-      "Rus": ""
+      "Rus": "\"Ритуал!\" - она воскликнула. - \"Но это традиционный ритуал, а не религиозный обряд. И он ещё также не окончен.\" "
     }
   },
   {
@@ -603,7 +609,7 @@
     },
     "Texts": {
       "Eng": "\"Who are you, and why are you screaming like a nerd?\" says the girl, light dancing off her beautiful, clammy skin.",
-      "Rus": ""
+      "Rus": "\"Кто ты, и почему ты кричишь, как ботаник?\" - сказала девушка, пока свет играл на её прекрасной, влажной коже. "
     }
   },
   {
@@ -615,7 +621,7 @@
     },
     "Texts": {
       "Eng": "\"Who are you, and why are you sneaking around?\" says the girl, light dancing off her beautiful, clammy skin.",
-      "Rus": ""
+      "Rus": "\"Кто ты, и почему ты прячешься?\" - сказала девушка, пока свет играл на её прекрасной, влажной коже. "
     }
   },
   {
@@ -651,7 +657,7 @@
     },
     "Texts": {
       "Eng": "\"Yep! Here it is!\"",
-      "Rus": "\"Ага! Вот и он!\""
+      "Rus": "\"Ага! Вот оно!\""
     }
   },
   {
@@ -881,7 +887,7 @@
     },
     "Texts": {
       "Eng": "Continue Studying",
-      "Rus": "Продолжить обучаться"
+      "Rus": "Продолжить учиться"
     }
   },
   {
@@ -956,7 +962,7 @@
     },
     "Texts": {
       "Eng": "He can't get a date!",
-      "Rus": ""
+      "Rus": "Он не может сходить на свидание!"
     }
   },
   {
@@ -1470,7 +1476,7 @@
     },
     "Texts": {
       "Eng": "Life sure is quiet for me, an unassuming hard-working Hylotl teenage boy at boarding school. Like a discarded plastic bag floating down river, I sometimes feel as if I simply drift through life.",
-      "Rus": ""
+      "Rus": "Конечно, жизнь в школе-интернате для такого скромного трудолюбивого подростка-хилотла, как я, спокойна. Также как и ненужный полиэтиленовый пакет плывет по реке, я порой чувствую, будто прямо-таки нахожусь в потоке жизни."
     }
   },
   {
@@ -1494,7 +1500,7 @@
     },
     "Texts": {
       "Eng": "My only solace is my incredible and unwavering finesse at Air Hockey. Sure, it isn't exactly the most popular game in the universe, but that lets me carve out a niche skill.",
-      "Rus": ""
+      "Rus": "Единственное моё утешение - моё немыслимое и непоколебимое мастерство игры в аэрохоккей. Аэрохоккей, конечно, не самая популярная игра во вселенной, но она позволяет мне добиться узкоспециальных навыков."
     }
   },
   {
@@ -1616,7 +1622,7 @@
     },
     "Texts": {
       "Eng": "Presently I am in my school dormitory, studying. I am slowly working my way through a textbook titled 'The Art of Hylotl Passive-Aggressiveness'.",
-      "Rus": ""
+      "Rus": "На данный момент, я сижу в школьном общежитии и учусь. Я медленно, нехотя читаю учебник \"Искусство пассивно-агрессивного поведения хилотлов\"."
     }
   },
   {

@@ -1,13 +1,16 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Таким гудком обычно предупреждают других о опасностях неподалёку."
+    ],
     "Files": {
       "items/generic/mechparts/horn/mechhornfoghorn.item": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "A horn traditionally used to warn others of nearby hazards."
+      "Eng": "A horn traditionally used to warn others of nearby hazards.",
+      "Rus": "На море таким гудком обычно предупреждают об опасности неподалёку."
     }
   },
   {
@@ -18,7 +21,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Foghorn Mech Horn"
+      "Eng": "Foghorn Mech Horn",
+      "Rus": "Туманный горн меха"
     }
   }
 ]
