@@ -380,7 +380,7 @@
     },
     "Texts": {
       "Eng": "Usage /previewnewquest questTemplateId positionInSequence questGiverSpecies. Displays the New Quest interface for the given quest without altering the player's quest state. Valid positionInSequence options are: first, last, next, solo. May break if the quest doesn't have example data configured.",
-      "Rus": ""
+      "Rus": "Команда /previewnewquest questTemplateId positionInSequence questGiverSpecies. Отображает интерфейс \"Новый Квест\" для текущего квеста без смены состояния квеста игрока. Допустимые positionInSequence опции это: first, last, next, solo. Может сломаться, если квест не имеет настроенных данных примера."
     }
   },
   {
@@ -392,7 +392,7 @@
     },
     "Texts": {
       "Eng": "Usage /previewquestcomplete questTemplateId positionInSequence questGiverSpecies. Displays the Quest Complete interface for the given quest without altering the player's quest state. Valid positionInSequence options are: first, last, next, solo. May break if the quest doesn't have example data configured.",
-      "Rus": ""
+      "Rus": "Команда /previewquestcomplete questTemplateId positionInSequence questGiverSpecies. Отображает интерфейс \"Завершенный Квест\" для текущего квеста без смены состояния квеста игрока. Допустимые positionInSequence опции это: first, last, next, solo. Может сломаться, если квест не имеет настроенных данных примера."
     }
   },
   {
@@ -404,7 +404,7 @@
     },
     "Texts": {
       "Eng": "Usage /previewquestfailed questTemplateId positionInSequence questGiverSpecies. Displays the Quest Failed interface for the given quest without altering the player's quest state. Valid positionInSequence options are: first, last, next, solo. May break if the quest doesn't have example data configured.",
-      "Rus": ""
+      "Rus": "Команда /previewquestfailed questTemplateId positionInSequence questGiverSpecies. Отображает интерфейс \"Проваленный Квест\" для текущего квеста без смены состояния квеста игрока. Допустимые positionInSequence опции это: first, last, next, solo. Может сломаться, если квест не имеет настроенных данных примера."
     }
   },
   {
@@ -644,7 +644,7 @@
     },
     "Texts": {
       "Eng": "Usage /startquest questArcDescriptor. Give the player a quest with the specified quest arc descriptor, which should be a JSON string or object enclosed by single quotes. To start a quest by quest template ID, enclose the template ID in single and double quotes, e.g. /startquest '\"protectorate\"'",
-      "Rus": ""
+      "Rus": "Команда  /startquest questArcDescriptor. Дает игроку квест с указанным указателем цепочки квестов, который должен быть строкой JSON или объектом в одинарных кавычках. Чтобы начать квест указав ID шаблона квеста, закройте ID шаблона в одиночные и двойны кавычки, например /startquest '\"protectorate\"'"
     }
   },
   {
