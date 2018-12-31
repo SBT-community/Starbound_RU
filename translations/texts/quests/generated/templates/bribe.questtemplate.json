@@ -308,7 +308,7 @@
     },
     "Texts": {
       "Eng": "So you're saying that <target> took the bribe? Ok, it's Ok, I think we've done the right thing...",
-      "Rus": ""
+      "Rus": "Так говоришь <target> принял<target.pronoun.verbEnding> взятку? Хорошо, очень хорошо... Думаю мы поступили правильно..."
     }
   },
   {
@@ -332,7 +332,7 @@
     },
     "Texts": {
       "Eng": "The next thing I'd like you to do is give ^orange;<target> ^white;a very special something. ^green;I need <target.pronoun.object> to receive the ^orange;<gift>^white; in order for the plan to work.",
-      "Rus": ""
+      "Rus": "Дальше, я хотел<questGiver.pronoun.verbEnding> бы чтобы ты отдал<player.pronoun.verbEnding> ^orange;<target.dative> ^white;кое-что особенное. Согласно плану, ^green;<target.pronoun.subject> долж<target.pronoun.verb2Ending> получить ^orange;<gift.accusative>."
     }
   },
   {
@@ -344,7 +344,7 @@
     },
     "Texts": {
       "Eng": "Wow, bribery is easy! <target> owing me a favour is useful.",
-      "Rus": ""
+      "Rus": "Здорово! Подкупать так просто! Иметь <target.accusative> на своей стороне весьма полезно."
     }
   },
   {
@@ -356,7 +356,7 @@
     },
     "Texts": {
       "Eng": "Yesss, Floran is glad that <target> accepted the present. Now to figure out how to use this sssituation to our advantage...",
-      "Rus": ""
+      "Rus": "Да, Флоран рад, что <target> принял<target.pronoun.verbEnding> подарок. Теперь нужно придумать как получить выгоду из этой ссситуации..."
     }
   },
   {
@@ -368,7 +368,7 @@
     },
     "Texts": {
       "Eng": "You did it! <target> owes usss big time now!",
-      "Rus": ""
+      "Rus": "У тебя получилосссь! <target> теперь нам очень обязан<target.pronoun.verbEnding>!"
     }
   },
   {
