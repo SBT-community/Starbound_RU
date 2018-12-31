@@ -392,7 +392,7 @@
     },
     "Texts": {
       "Eng": "^cyan;Floran wants <target> to owe us sssomething. Floran has a geniuss plan.",
-      "Rus": ""
+      "Rus": "^cyan;Флоран хочет, чтобы <target> был<target.pronoun.verbEnding> у нас в долгу. И у Флорана есть гениальный план."
     }
   },
   {
@@ -404,7 +404,7 @@
     },
     "Texts": {
       "Eng": "^cyan;I want <target> to owe me a favour... I have a plan...",
-      "Rus": ""
+      "Rus": "^cyan;Я хочу, чтобы <target> был<target.pronoun.verbEnding> мне обязан. У меня есть план..."
     }
   },
   {
@@ -416,7 +416,7 @@
     },
     "Texts": {
       "Eng": "^cyan;I want to win <target>'s favour, and I have a way to make it happen...",
-      "Rus": ""
+      "Rus": "^cyan;Я хочу завоевать расположение кое-кого, и я знаю как это осуществить..."
     }
   },
   {
@@ -428,7 +428,7 @@
     },
     "Texts": {
       "Eng": "^cyan;If we give <target> a present, Floran is sssure <target.pronoun.subject>'ll feel indebted to us.",
-      "Rus": ""
+      "Rus": "^cyan;Если подарить <target.dative> подарок, Флоран уверен, <target.pronoun.subject> почувствует себя в долгу перед нами."
     }
   },
   {
