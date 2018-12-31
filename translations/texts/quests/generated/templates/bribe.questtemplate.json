@@ -152,7 +152,7 @@
     },
     "Texts": {
       "Eng": "I'd like to make clear that this is very much not a bribe of any sort. I don't even know the meaning of the word. All I need you to do is ^green;give ^orange;<target> ^green;the ^orange;<gift> ^white;to persuade <target.pronoun.object> to act in my favour...",
-      "Rus": ""
+      "Rus": "Сразу хочу прояснить: это вовсе никакой не подкуп. Я даже не знаю что значит это слово. Всё что тебе нужно сделать - это ^green;отдать ^orange;<target.dative> <gift.accusative> ^white;, чтобы убедить <target.pronoun.reflexive> посодействовать мне..."
     }
   },
   {
@@ -200,7 +200,7 @@
     },
     "Texts": {
       "Eng": "Next I need the favour of ^orange;<target>^green; - Could you try bribing <target.pronoun.object> with the ^orange;<gift>^white;? That should hopefully work...",
-      "Rus": ""
+      "Rus": "Теперь мне нужно добиться расположения ^orange;<target.accusative> ^green;. Не мог<player.pronoun.verb4Ending> бы ты попытаться подкупить <target.pronoun.reflexive> с помощью небольшого подарка? ^orange;<gift> ^white;отлично подойдёт. Будем надеяться это сработает..."
     }
   },
   {
@@ -212,7 +212,7 @@
     },
     "Texts": {
       "Eng": "Next ^green;I need to win over ^orange;<target>^white;, and it just so happens that ^green;<target.pronoun.subject> would love your ^orange;<gift>^white;! Is that bribery? Sure, but I don't think <target.pronoun.subject>'ll mind...",
-      "Rus": ""
+      "Rus": "Дальше ^green;мне нужно переубедить ^orange;<target.accusative>, ^white;и так совпало, что ^green;<target.pronoun.object> бы понравил<gift.pronoun.verb3Ending> ^orange;<gift>^white;! Подкуп ли это? Пожалуй, но я не думаю, что <target> будет против..."
     }
   },
   {
@@ -224,7 +224,7 @@
     },
     "Texts": {
       "Eng": "Now <target> owes me a favour! That was easier than I thought. Thank you for helping me with my genius plan!",
-      "Rus": ""
+      "Rus": "Отныне <target> мой должник! Это было проще чем я думал<questGiver.pronoun.verbEnding>. Спасибо тебе за помощь в моём гениальном плане!"
     }
   },
   {
