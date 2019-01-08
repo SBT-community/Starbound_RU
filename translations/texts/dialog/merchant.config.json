@@ -1888,7 +1888,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " Добро пожаловать в мою лавку!"
+    ],
     "Files": {
       "dialog/merchant.config": [
         "/merchantStart/glitch/default/0/glitchEmotedText"

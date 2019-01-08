@@ -7225,6 +7225,7 @@
   },
   {
     "DeniedAlternatives": [
+      "Побудительно. ",
       "Призывно."
     ],
     "Files": {
@@ -7234,7 +7235,7 @@
     },
     "Texts": {
       "Eng": "Goading.",
-      "Rus": "Побудительно. "
+      "Rus": "Побудительно."
     }
   },
   {
@@ -7828,7 +7829,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Истерично. "
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/glitch/generic/59/glitchEmote"
@@ -7836,7 +7839,7 @@
     },
     "Texts": {
       "Eng": "Hysterical.",
-      "Rus": "Истерично. "
+      "Rus": "Истерично."
     }
   },
   {
@@ -8765,7 +8768,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Заискивающе. "
+    ],
     "Files": {
       "dialog/merchant.config": [
         "/merchantStart/glitch/default/0/glitchEmote"
@@ -8773,7 +8778,7 @@
     },
     "Texts": {
       "Eng": "Ingratiating.",
-      "Rus": "Заискивающе. "
+      "Rus": "Заискивающе."
     }
   },
   {
@@ -10839,7 +10844,8 @@
   },
   {
     "DeniedAlternatives": [
-      "Оторопело."
+      "Оторопело.",
+      "Растерянно. "
     ],
     "Files": {
       "dialog/converse.config": [
@@ -10848,7 +10854,7 @@
     },
     "Texts": {
       "Eng": "Nonplussed.",
-      "Rus": "Растерянно. "
+      "Rus": "Растерянно."
     }
   },
   {

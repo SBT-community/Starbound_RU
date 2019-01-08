@@ -1995,7 +1995,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " Почему враг ещё не мёртв?"
+    ],
     "Files": {
       "dialog/combat.config": [
         "/cheerOn/glitch/default/3/glitchEmotedText"
