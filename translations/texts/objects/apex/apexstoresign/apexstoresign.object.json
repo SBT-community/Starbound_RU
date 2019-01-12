@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Знак для магазина."
+    ],
     "Files": {
       "objects/apex/apexstoresign/apexstoresign.object": [
         "/apexDescription"
@@ -32,11 +34,13 @@
     },
     "Texts": {
       "Eng": "A sign that indicates a store.",
-      "Rus": ""
+      "Rus": "Знак, указывающий на магазин."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Это говорит \"магазин\"."
+    ],
     "Files": {
       "objects/apex/apexstoresign/apexstoresign.object": [
         "/avianDescription"
@@ -68,11 +72,13 @@
     },
     "Texts": {
       "Eng": "Must be a store.",
-      "Rus": ""
+      "Rus": "Должен быть магазин."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Знак для магазина"
+    ],
     "Files": {
       "objects/apex/apexstoresign/apexstoresign.object": [
         "/floranDescription"
