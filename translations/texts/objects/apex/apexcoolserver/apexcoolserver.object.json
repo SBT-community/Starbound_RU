@@ -56,7 +56,7 @@
     },
     "Texts": {
       "Eng": "It looks like a data server. No way we're getting anything from this.",
-      "Rus": ""
+      "Rus": "Это похоже на сервер данных. Но это нам ничего не даёт."
     }
   },
   {
@@ -84,7 +84,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Эта часть технологии хранит информацию.",
+      "Эта технология хранит информацию."
+    ],
     "Files": {
       "objects/apex/apexcoolserver/apexcoolserver.object": [
         "/novakidDescription"
@@ -92,7 +95,7 @@
     },
     "Texts": {
       "Eng": "This piece of technology stores information.",
-      "Rus": ""
+      "Rus": "Этот кусочек технологии хранит информацию."
     }
   },
   {
