@@ -36,7 +36,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флоранам нравится хранилище для охлаждения продуктов. Держите мясо свежим, да."
+    ],
     "Files": {
       "objects/apex/apexfridge/apexfridge.object": [
         "/floranDescription"
@@ -44,7 +46,7 @@
     },
     "Texts": {
       "Eng": "Floran lovesss cold food ssstore. Keep meat fresh, yesss.",
-      "Rus": ""
+      "Rus": "Флоранам нравится хранилище где охлаждаются продукты. Мясо должно быть свежим, да."
     }
   },
   {
@@ -60,7 +62,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Внутри холодно, чтобы пищя дольше была свежей."
+    ],
     "Files": {
       "objects/apex/apexfridge/apexfridge.object": [
         "/novakidDescription"
@@ -68,7 +72,7 @@
     },
     "Texts": {
       "Eng": "It's chilly on the inside to keep food fresh for longer.",
-      "Rus": ""
+      "Rus": "Внутри холодно, чтобы хранить еду как можно дольше."
     }
   },
   {
