@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": " Cooks food to a reasonable standard"
+      "Eng": " Cooks food to a reasonable standard",
+      "Rus": "Готовит еду на приемлемом уровне"
     }
   },
   {
@@ -66,18 +67,22 @@
       ]
     },
     "Texts": {
-      "Eng": "Cooking device identified."
+      "Eng": "Cooking device identified.",
+      "Rus": "Устройство для приготовления пищи идентифицировано."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Готовит еду на приемлемом уровне."
+    ],
     "Files": {
       "objects/apex/apexoven/apexoven.object": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "Cooks food to a reasonable standard."
+      "Eng": "Cooks food to a reasonable standard.",
+      "Rus": "Служит для приготовления еды"
     }
   },
   {
