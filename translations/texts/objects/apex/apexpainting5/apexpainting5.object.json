@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Big Ape Cross-Stitch"
+      "Eng": "Big Ape Cross-Stitch",
+      "Rus": "Большой Эйп вышивка крестом"
     }
   },
   {
@@ -18,18 +19,22 @@
       ]
     },
     "Texts": {
-      "Eng": "Cross-stitch is one of the few permitted hobbies an Apex can undertake."
+      "Eng": "Cross-stitch is one of the few permitted hobbies an Apex can undertake.",
+      "Rus": "Вышивка крестом - одно из немногих хобби разрешённых Апексам."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Для того чтобы создать подобное нужны тонкие пальцы"
+    ],
     "Files": {
       "objects/apex/apexpainting5/apexpainting5.object": [
         "/avianDescription"
       ]
     },
     "Texts": {
-      "Eng": "Delicate fingers must be required to create this."
+      "Eng": "Delicate fingers must be required to create this.",
+      "Rus": "Для того чтобы создать подобное нужны умелые руки"
     }
   },
   {
@@ -40,7 +45,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I do hope the Apex aren't forced to make these."
+      "Eng": "I do hope the Apex aren't forced to make these.",
+      "Rus": "Я надеюсь, что Апексов не заставляли это создавать."
     }
   },
   {
@@ -51,7 +57,8 @@
       ]
     },
     "Texts": {
-      "Eng": "May we forever obey him."
+      "Eng": "May we forever obey him.",
+      "Rus": "Можем ли мы навсегда оставаться в его подчинении."
     }
   },
   {
@@ -62,7 +69,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Floran very skilled with fabric work."
+      "Eng": "The Floran very skilled with fabric work.",
+      "Rus": "Флоране очень хороши в работе с тканями."
     }
   },
   {
@@ -73,7 +81,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This must've taken time and dedication to make."
+      "Eng": "This must've taken time and dedication to make.",
+      "Rus": "Должно быть, на это было потрачено не мало времени и самоотдачи."
     }
   },
   {
@@ -84,7 +93,8 @@
       ]
     },
     "Texts": {
-      "Eng": "What kind of blessings do the Apex wish on him, I wonder?"
+      "Eng": "What kind of blessings do the Apex wish on him, I wonder?",
+      "Rus": "Интересно, какие благословения ему желают Апексы?"
     }
   },
   {
@@ -95,7 +105,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Why would the Apex make these?"
+      "Eng": "Why would the Apex make these?",
+      "Rus": "Почему Апексы делают это?"
     }
   }
 ]
