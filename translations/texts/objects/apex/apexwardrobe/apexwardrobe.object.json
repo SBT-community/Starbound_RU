@@ -60,7 +60,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Такая мебель ничего не делает для ума."
+    ],
     "Files": {
       "objects/apex/apexwardrobe/apexwardrobe.object": [
         "/glitchDescription/glitchEmotedText"
@@ -68,7 +70,7 @@
     },
     "Texts": {
       "Eng": "Such furniture does nothing for the mind.",
-      "Rus": ""
+      "Rus": "Ничего не приходит на ум."
     }
   },
   {
@@ -80,7 +82,7 @@
     },
     "Texts": {
       "Eng": "The resistance once stored their disguises in these wardrobes...",
-      "Rus": ""
+      "Rus": "Сопротивление когда-то хранило свою маскировку в таких шкафах..."
     }
   },
   {
@@ -92,7 +94,7 @@
     },
     "Texts": {
       "Eng": "This wardrobe would be great for storing my skivvies.",
-      "Rus": ""
+      "Rus": "Этот гардероб отлично подойдет для хранения моего нижнего белья."
     }
   },
   {
