@@ -24,7 +24,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Статуя Большого Банана Замка"
+    ],
     "Files": {
       "objects/apex/apexstatue3/apexstatue3.object": [
         "/shortdescription"
@@ -32,11 +34,13 @@
     },
     "Texts": {
       "Eng": "Great Banana Lock Statue",
-      "Rus": ""
+      "Rus": "Статуя Большого Банана с замком"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Это кнопка? Благоразумно."
+    ],
     "Files": {
       "objects/apex/apexstatue3/apexstatue3.object": [
         "/novakidDescription"
@@ -44,7 +48,7 @@
     },
     "Texts": {
       "Eng": "Is that a button? Discreet.",
-      "Rus": ""
+      "Rus": "Это кнопка?"
     }
   },
   {
@@ -56,7 +60,7 @@
     },
     "Texts": {
       "Eng": "Sssneaky technology.",
-      "Rus": ""
+      "Rus": "Хитрая технология."
     }
   },
   {
