@@ -19,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A standard issue wooden dining chair."
+      "Eng": "A standard issue wooden dining chair.",
+      "Rus": "Деревянный обеденный стул стандартного выпуска."
     }
   },
   {
@@ -42,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran craft better chair, massterful craftsmen."
+      "Eng": "Floran craft better chair, massterful craftsmen.",
+      "Rus": "Флоране делают ссстулья получше, отличные ремесссленники."
     }
   },
   {
@@ -65,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Standard Issue Chair"
+      "Eng": "Standard Issue Chair",
+      "Rus": "Стул стандартного выпуска"
     }
   },
   {
@@ -76,18 +79,22 @@
       ]
     },
     "Texts": {
-      "Eng": "The kind of chair built for jus' sittin'."
+      "Eng": "The kind of chair built for jus' sittin'.",
+      "Rus": "Вид стульев, предназначенных только для сидения."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "При сидении на этом стуле ноги свисают."
+    ],
     "Files": {
       "objects/apex/apexwoodenchair/apexwoodenchair.object": [
         "/avianDescription"
       ]
     },
     "Texts": {
-      "Eng": "The legs on this chair wobble."
+      "Eng": "The legs on this chair wobble.",
+      "Rus": "Ножки этого стула качаются."
     }
   },
   {
@@ -98,7 +105,8 @@
       ]
     },
     "Texts": {
-      "Eng": "These simple chairs are mass produced. I once found 'Help Us' etched into a chair frame."
+      "Eng": "These simple chairs are mass produced. I once found 'Help Us' etched into a chair frame.",
+      "Rus": "Это простые стулья массового производства. Однажды я обнаружил надпись «Помогите нам», вырезанную на раме стула."
     }
   }
 ]
