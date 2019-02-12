@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Декоративная ваза. Выглядит довольно круто."
+    ],
     "Files": {
       "objects/apex/vaseclassicmedium1/vaseclassicmedium1.object": [
         "/description"
@@ -16,7 +18,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A decorative vase. Looks pretty smashable."
+      "Eng": "A decorative vase. Looks pretty smashable.",
+      "Rus": "Декоративная ваза. Выглядит довольно ударно."
     }
   },
   {
@@ -69,7 +72,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I believe there may be something inside."
+      "Eng": "I believe there may be something inside.",
+      "Rus": "Я думаю, что внутри может что-то быть."
     }
   },
   {
@@ -95,7 +99,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I think I hear something inside."
+      "Eng": "I think I hear something inside.",
+      "Rus": "Мне кажется, я слышу что-то внутри."
     }
   },
   {
@@ -121,7 +126,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I've always wanted to smash one of these."
+      "Eng": "I've always wanted to smash one of these.",
+      "Rus": "Я всегда хотел разбить одну такую."
     }
   },
   {
@@ -174,7 +180,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Pots are just pots to me, old or new."
+      "Eng": "Pots are just pots to me, old or new.",
+      "Rus": "Горшки для меня просто горшки, старые или новые."
     }
   },
   {
@@ -200,7 +207,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Ssmash it and tear out its insides!"
+      "Eng": "Ssmash it and tear out its insides!",
+      "Rus": "Надо разбить и забрать сссодержимое!"
     }
   }
 ]
