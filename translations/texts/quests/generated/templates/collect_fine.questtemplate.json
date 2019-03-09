@@ -368,7 +368,7 @@
     },
     "Texts": {
       "Eng": "Nice work collecting the fine from <target>! That certainly saved me a lot of hassle.",
-      "Rus": ""
+      "Rus": "У тебя отлично получилось взыскать штраф. Это избавило меня от уймы хлопот."
     }
   },
   {
@@ -380,7 +380,7 @@
     },
     "Texts": {
       "Eng": "Nice work collecting the fine from <target>. I was a little worried that <target.pronoun.subject>'d try to wriggle out of it. You can keep that <item> as payment.",
-      "Rus": ""
+      "Rus": "У тебя отлично получилось взыскать штраф. Я немного беспокоил<questGiver.pronoun.verb3Ending>, что <target> попытается увильнуть от уплаты. Можешь оставить <item.accusative> себе в качестве вознаграждения."
     }
   },
   {
@@ -392,7 +392,7 @@
     },
     "Texts": {
       "Eng": "Now, ^orange;<target>^white; owes a fine for being a law breaker. ^green;Will you deliver this ^orange;fine notice?^white; <target.pronoun.capitalSubject>'s agreed to give <target.pronoun.possessiveDet> ^orange;<item>^white; as payment of damages.",
-      "Rus": ""
+      "Rus": "А теперь слушай: ^orange;<target>^white; должен заплатить штраф за нарушение закона. ^green;Не отнесешь <target.pronoun.object> эту ^orange;повестку?^white; <target.pronoun.capitalSubject> согласил<target.pronoun.verb3Ending> отдать  ^orange;<item.accusative>^white; в счёт возмещения ущерба."
     }
   },
   {
@@ -404,7 +404,7 @@
     },
     "Texts": {
       "Eng": "Superb law-upholding - You're so good at this! Will you do ssomething else for Floran?",
-      "Rus": ""
+      "Rus": "Превосходное поддержание порядка. У тебя так хорошо получается! Не сссделаешь ещё кое-что для Флорана?"
     }
   },
   {
@@ -416,7 +416,7 @@
     },
     "Texts": {
       "Eng": "Thank you for collecting <target>'s fine!  I wasn't sure <target.pronoun.subject>'d follow through with payment if I went myself. Luckily you look like someone <target> wouldn't want to mess with.",
-      "Rus": ""
+      "Rus": "Спасибо за взыскание штрафа! Я не был<questGiver.pronoun.verbEnding> уверен<questGiver.pronoun.verbEnding>, что <target> бы выполнил<target.pronoun.verbEnding> обязательство по оплате, если бы я попытал<questGiver.pronoun.verb3Ending> сам<questGiver.pronoun.verbEnding>. К счастью, ты больше похож<player.pronoun.verbEnding> на того, с кем <target.pronoun.object> не хотелось бы связываться."
     }
   },
   {
@@ -428,7 +428,7 @@
     },
     "Texts": {
       "Eng": "Thank you for collecting <target>'s fine! I certainly couldn't make time for it, but you seem to have plenty of time on your hands.",
-      "Rus": ""
+      "Rus": "Спасибо за взыскание штрафа! Я никак не мог<questGiver.pronoun.verb4Ending> найти на это времени, а ты, похоже, обладаешь огромным его запасом."
     }
   },
   {
@@ -440,7 +440,7 @@
     },
     "Texts": {
       "Eng": "Thank you for helping teach <target> that there's consequences to <target.pronoun.possessiveDet> actions! I can see a few uses for this <item> already.",
-      "Rus": ""
+      "Rus": "Спасибо, что помог<player.pronoun.verb4Ending> научить <target.accusative> тому, что каждое <target.pronoun.reflexive> действие приводит к последствиям! И я уже придумал<questGiver.pronoun.verbEnding> пару применений <target.pronoun.reflexive>  <item.dative>."
     }
   },
   {
@@ -452,7 +452,7 @@
     },
     "Texts": {
       "Eng": "Thank you for helping teach <target> that there's consequences to <target.pronoun.possessiveDet> actions. This <item> will come in useful, too.",
-      "Rus": ""
+      "Rus": "Спасибо, что помог<player.pronoun.verb4Ending> научить <target.accusative> тому, что каждое <target.pronoun.reflexive> действие приводит к последствиям! И <item> мне тоже пригодится."
     }
   },
   {
@@ -464,7 +464,7 @@
     },
     "Texts": {
       "Eng": "Thank you for teaching <target> a lesson. I hope <target.pronoun.subject> realises that nobody is above the law. You can keep the <item>. You've earned it.",
-      "Rus": ""
+      "Rus": "Спасибо, что преподал урок <target.dative>. Надеюсь <target.pronoun.subject> теперь понимает, что все равны перед законом. Можешь оставить себе <item.accusative>. Ты <item.pronoun.reflexive> заслужил<player.pronoun.verbEnding>."
     }
   },
   {
@@ -476,7 +476,7 @@
     },
     "Texts": {
       "Eng": "Thank you for teaching <target> a lesson. You can keep that <item>, you've earned it.",
-      "Rus": ""
+      "Rus": "Спасибо, что проучил <target.accusative>. Можешь оставить себе <item.accusative>. Ты <item.pronoun.reflexive> заслужил<player.pronoun.verbEnding>."
     }
   },
   {
@@ -488,7 +488,7 @@
     },
     "Texts": {
       "Eng": "Thank you for teaching <target> that we follow rules around here, even if those rules are vague and not actually written down anywhere. Keep that <item> too, if you like.",
-      "Rus": ""
+      "Rus": "Спасибо, что показал <target.dative>, что тут принято следовать правилам, даже если эти правила расплывчаты и нигде не записаны. Возьми <item.accusative> себе, если хочешь."
     }
   },
   {
@@ -500,7 +500,7 @@
     },
     "Texts": {
       "Eng": "Thanks for your help! <target> should realise that we have to follow the rules around here. You can keep that <item> if you like.",
-      "Rus": ""
+      "Rus": "Спасибо за помощь! <target> теперь поймёт, что тут принято следовать правилам. Возьми <item.accusative> себе, если хочешь."
     }
   },
   {
@@ -512,7 +512,7 @@
     },
     "Texts": {
       "Eng": "Thanks! Hopefully <target> will ssstay nice from now on. This <item> might also be helpful for Floran...",
-      "Rus": ""
+      "Rus": "Спасибо! Будем надеяться, <target> теперь ссстанет хорошим. <item> тоже может пригодиться Флорану..."
     }
   },
   {
@@ -524,7 +524,7 @@
     },
     "Texts": {
       "Eng": "Thankss for your help! You can keep that <item>, Floran doesn't need it.",
-      "Rus": ""
+      "Rus": "Спасибо за помощь! Забери <item.accusative>, Флорану <item.pronoun.subject> не нужен."
     }
   },
   {
