@@ -20,7 +20,7 @@
     },
     "Texts": {
       "Eng": "A water dispenser... perhaps a drinking fountain?",
-      "Rus": ""
+      "Rus": "Диспенсер для воды ... возможно, питьевой фонтанчик?"
     }
   },
   {
@@ -48,7 +48,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Кажется, из этого безопасно пить."
+    ],
     "Files": {
       "objects/apex/apexsink/apexsink.object": [
         "/novakidDescription"
@@ -56,7 +58,7 @@
     },
     "Texts": {
       "Eng": "It seems safe to drink from.",
-      "Rus": ""
+      "Rus": "Выглядит безопасным для питья"
     }
   },
   {

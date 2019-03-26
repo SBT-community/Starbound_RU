@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A good place to store food."
+      "Eng": "A good place to store food.",
+      "Rus": "Хорошее место для хранения продуктов."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A pair of standard issue kitchen cabinets."
+      "Eng": "A pair of standard issue kitchen cabinets.",
+      "Rus": "Кухонная стойка с парой шкафов стандартного выпуска."
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Just a good ol' kitchen counter."
+      "Eng": "Just a good ol' kitchen counter.",
+      "Rus": "Просто хорошая кухонный стойка."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Looks like a kitchen counter."
+      "Eng": "Looks like a kitchen counter.",
+      "Rus": "Похоже на кухонную стойку."
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Old-fashioned but functional."
+      "Eng": "Old-fashioned but functional.",
+      "Rus": "Старомодно, но функционально."
     }
   },
   {
@@ -62,18 +67,23 @@
       ]
     },
     "Texts": {
-      "Eng": "Ssstorage for food. Mmmmmm."
+      "Eng": "Ssstorage for food. Mmmmmm.",
+      "Rus": "Хранилище для еды. Мммммм."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Шкаф стандартного выпуска.",
+      "Кухонная стойка со шкафами стандартного выпуска."
+    ],
     "Files": {
       "objects/apex/apexcounter1/apexcounter1.object": [
         "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Standard Issue Cabinet"
+      "Eng": "Standard Issue Cabinet",
+      "Rus": "Стандартная кухонная стойка со шкафами."
     }
   },
   {
@@ -84,7 +94,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The possibility of food excites even the Glitch."
+      "Eng": "The possibility of food excites even the Glitch.",
+      "Rus": "Возможность наличия еды внутри возбуждает даже Глитча"
     }
   },
   {
@@ -95,7 +106,8 @@
       ]
     },
     "Texts": {
-      "Eng": "What dishes might dwell within, I wonder?"
+      "Eng": "What dishes might dwell within, I wonder?",
+      "Rus": "Интересно, какие блюда могут находиться внутри?"
     }
   }
 ]

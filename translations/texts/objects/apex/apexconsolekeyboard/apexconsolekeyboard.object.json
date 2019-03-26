@@ -20,7 +20,7 @@
     },
     "Texts": {
       "Eng": "A keyboard. Used for typin'.",
-      "Rus": ""
+      "Rus": "Клавиатура. Используется для набора текста."
     }
   },
   {
@@ -48,7 +48,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Хилотская письменность течет как вода. Письменность Апексов течет как камни."
+    ],
     "Files": {
       "objects/apex/apexconsolekeyboard/apexconsolekeyboard.object": [
         "/hylotlDescription"
@@ -56,7 +58,7 @@
     },
     "Texts": {
       "Eng": "Hylotl lettering flows like water. Apex lettering flows like stone.",
-      "Rus": ""
+      "Rus": "Хилотская письменность как поток воды. Письменность Апексов как поток камней."
     }
   },
   {
