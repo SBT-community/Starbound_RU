@@ -540,7 +540,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Первый пункт нашей повестки включает ^orange;<target>^white;. Появились неопровержимые доказательства, что <target.pronoun.subject> - весьма тёмная личность. ^green;Доставь это ^orange;постановление о штрафе^green; и изыми <target.pronoun.capitalReflexive> ^orange;<item.accusative>^white; в качестве оплаты."
+    ],
     "Files": {
       "quests/generated/templates/collect_fine.questtemplate": [
         "/scriptConfig/generatedText/text/first/default/1"
@@ -548,7 +550,7 @@
     },
     "Texts": {
       "Eng": "The first thing on our agenda involves ^orange;<target>^white;. Certain evidence has come to light that <target.pronoun.subject>'s a pretty shady individual. ^green;Deliver this ^orange;fine notice^green; and collect <target.pronoun.possessiveDet> ^orange;<item>^white; as payment.",
-      "Rus": "Первый пункт нашей повестки включает ^orange;<target>^white;. Появились неопровержимые доказательства, что <target.pronoun.subject> - весьма тёмная личность. ^green;Доставь это ^orange;постановление о штрафе^green; и изыми <target.pronoun.capitalReflexive> ^orange;<item.accusative>^white; в качестве оплаты."
+      "Rus": "Первый пункт нашей повестки включает ^orange;<target.accusative>^white;. Появились неопровержимые доказательства, что <target.pronoun.subject> - весьма тёмная личность. ^green;Доставь это ^orange;постановление о штрафе^green; и изыми <target.pronoun.capitalReflexive> ^orange;<item.accusative>^white; в качестве оплаты."
     }
   },
   {
