@@ -548,7 +548,7 @@
     },
     "Texts": {
       "Eng": "The first thing on our agenda involves ^orange;<target>^white;. Certain evidence has come to light that <target.pronoun.subject>'s a pretty shady individual. ^green;Deliver this ^orange;fine notice^green; and collect <target.pronoun.possessiveDet> ^orange;<item>^white; as payment.",
-      "Rus": ""
+      "Rus": "Первый пункт нашей повестки включает ^orange;<target>^white;. Появились неопровержимые доказательства, что <target.pronoun.subject> - весьма тёмная личность. ^green;Доставь это ^orange;постановление о штрафе^green; и изыми <target.pronoun.capitalReflexive> ^orange;<item.accusative>^white; в качестве оплаты."
     }
   },
   {
@@ -560,7 +560,7 @@
     },
     "Texts": {
       "Eng": "Well done collecting the fine from <target>! That's one more thing I can cross off my to-do list. Do you think you could do something else for me?",
-      "Rus": ""
+      "Rus": "Отлично проведённое изъятие! Ещё один пункт можно вычеркнуть из моего списка дел. Может ты сможешь помочь мне ещё кое-с-чем? Как думаешь?"
     }
   },
   {
@@ -572,7 +572,7 @@
     },
     "Texts": {
       "Eng": "Well done collecting the fine from <target>! This <item> will do nicely. Do you think you could do something else for me?",
-      "Rus": ""
+      "Rus": "Отлично проведённое изъятие! И <item.dative> тоже найдётся применение. Может ты сможешь помочь мне ещё кое-с-чем? Как думаешь?"
     }
   },
   {
@@ -584,7 +584,7 @@
     },
     "Texts": {
       "Eng": "You collected the fine from <target>! That's one more thing I can cross off my to-do list!",
-      "Rus": ""
+      "Rus": "Ты получил<player.pronoun.verbEnding> оплату штрафа! Ещё один пункт можно вычеркнуть из моего списка дел."
     }
   },
   {
@@ -596,7 +596,7 @@
     },
     "Texts": {
       "Eng": "You did a good job! Keep the <item> as payment for your services. I just wanted to show <target> that nobody is above the law.",
-      "Rus": ""
+      "Rus": "Отличная работа! Оставь <item.accusative> себе в качестве платы за твои услуги. Я просто хотел<questGiver.pronoun.verbEnding> показать <target.dative>, что все равны перед законом."
     }
   },
   {
