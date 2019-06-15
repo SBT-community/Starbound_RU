@@ -1,0 +1,80 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_scans.config": [
+        "/scanclue1/planetBounty/message",
+        "/scanclue2/planetBounty/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your ^orange;Matter Manipulator^white; has a lock on <bounty.name>! Their signature trace leads to a planet in <next.coordinate.systemName>. Head on over to <next.coordinate.name>!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_scans.config": [
+        "/scanclue1/planetClue/message",
+        "/scanclue2/planetClue/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your ^orange;Matter Manipulator^white; has a trace on one of <bounty.name>'s goons! They are currently on <next.coordinate.name>!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_scans.config": [
+        "/scanclue1/spaceClue/message",
+        "/scanclue2/spaceClue/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your ^orange;Matter Manipulator^white; has a trace on one of <bounty.name>'s henchmen! They currently appear to be on a station in <next.coordinate.systemName>!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_scans.config": [
+        "/scanclue1/spaceBounty/message",
+        "/scanclue2/spaceBounty/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your ^orange;Matter Manipulator^white; has traced <bounty.name>'s signature! It seems to lead to a remote station in <next.coordinate.systemName>!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_scans.config": [
+        "/scanclue1/planetBounty/description",
+        "/scanclue1/spaceClue/description",
+        "/scanclue2/planetBounty/description",
+        "/scanclue2/spaceClue/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#60b8ea;[DNA SAMPLE CONFIRMED: ^yellow;UPLOADING CO-ORDINATES^#60b8ea;]"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_scans.config": [
+        "/scanclue1/planetClue/description",
+        "/scanclue1/spaceBounty/description",
+        "/scanclue1/tutorial/description",
+        "/scanclue2/planetClue/description",
+        "/scanclue2/spaceBounty/description",
+        "/scanclue2/tutorial/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#60b8ea;[SIGNATURE TRACE COMPLETE: ^yellow;UPLOADING CO-ORDINATES^#60b8ea;]"
+    }
+  }
+]

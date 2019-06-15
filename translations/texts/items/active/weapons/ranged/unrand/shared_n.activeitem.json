@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [
+      "'...потому что в конце концов, лишь смерть имеет значение.'",
+      "'...потому что в конце концов, лишь судьба имеет значение.'",
+      "'...потому что, в конце концов, лишь смерть это все, что имеет значение.'",
+      "'...потому что, в конце концов, смерть это все, что имеет значение.'"
+    ],
+    "Files": {
+      "items/active/weapons/ranged/unrand/doomcannon/doomcannon.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/unrand/neoshotgun/npcneoshotgun.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/unrand/neotommygun/npcneotommygun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "'...because in the end, Doom is all that counts.'",
+      "Rus": "'...Потому что, в конце концов, рок все определяет.'"
+    }
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/bountyassignment.questtemplate": [
+        "/scriptConfig/finalAssignmentText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Geez louise. We've received an assignment to take out this Occasus Cult. They seem like some real bad apples, partner! I hope you're up for this. We've set up a headquarters in the area where they operate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/bountyassignment.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Peacekeeper Assignment"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/bountyassignment.questtemplate": [
+        "/scriptConfig/descriptions/searching"
+      ]
+    },
+    "Texts": {
+      "Eng": "Searching for ^orange;Peacekeeper Station^reset;..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/bountyassignment.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome to your new Peacekeeper Station, partner!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/bountyassignment.questtemplate": [
+        "/scriptConfig/descriptions/approachStation/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Approach^reset; the ^orange;Peacekeeper Station^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/bountyassignment.questtemplate": [
+        "/scriptConfig/descriptions/approachStation/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Deploy^reset; to the ^orange;Peacekeeper Station^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/bountyassignment.questtemplate": [
+        "/scriptConfig/descriptions/findBoard"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Find the ^orange;Bounty Board^white; in the ^orange;Peacekeeper Station^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/bountyassignment.questtemplate": [
+        "/scriptConfig/descriptions/findSystem"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Locate ^orange;Peacekeeper Station^white; in ^orange;%s^white;"
+    }
+  }
+]

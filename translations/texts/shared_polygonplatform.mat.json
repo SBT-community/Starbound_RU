@@ -1,0 +1,58 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/polygonplatform.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/platforms/polygonplatform.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A platform made from \"Hard Light\"."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/polygonplatform.matitem": [
+        "/description"
+      ],
+      "tiles/platforms/polygonplatform.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A smooth platform made from \"Hard Light\"."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/polygonplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/polygonplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Polygon Platform"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/polygonplatform.matitem": [
+        "/florandescription"
+      ],
+      "tiles/platforms/polygonplatform.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thisss platform humsss with energy."
+    }
+  }
+]

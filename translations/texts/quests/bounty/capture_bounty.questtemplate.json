@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/capture_bounty.questtemplate": [
+        "/scriptConfig/generatedText/complete/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mighty fine job takin' on <bounty.name>! The universe is vast, but the arm of the law is long!\n\nCome by the Peacekeeper Station to collect your rewards!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/capture_bounty.questtemplate": [
+        "/scriptConfig/generatedText/complete/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You took on <bounty.name>? an' came out on top! The universe is vast, but the arm of the law is long.\n\nCome by the Peacekeeper Station to collect your rewards!"
+    }
+  }
+]

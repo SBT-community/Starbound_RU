@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/bounty.radiomessages": [
+        "/approachingbounty/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "It looks like your target is real close. ^orange;Apprehend the target^reset;, partner!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/bounty.radiomessages": [
+        "/approachingclue/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks like you're gettin' close to the target, partner. ^orange;Investigate^reset; the designated area!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/bounty.radiomessages": [
+        "/exploreclueplanet/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "We know the target has been here recently. ^orange;Search^reset; for clues. Don't know where to start? Look around, partner!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/bounty.radiomessages": [
+        "/tutorialapproachclue/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "We've picked up the ^orange;target signature^reset;! Your ^green;compass^reset; will show you the direction - follow it, partner!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/bounty.radiomessages": [
+        "/tutorialexplore/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your target could be anywhere on this planet, even underground! ^green;Explore^reset; the planet until we pick up the ^orange;target's signature^reset;, partner!"
+    }
+  }
+]

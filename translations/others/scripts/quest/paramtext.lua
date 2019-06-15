@@ -1,7 +1,6 @@
 require('/scripts/quest/declension.lua')
 function itemShortDescription(itemDescriptor)
-  return root.itemConfig(itemDescriptor).config.shortdescription or
-           itemDescriptor.name
+  return root.itemConfig(itemDescriptor).config.shortdescription or itemDescriptor.name
 end
 
 local function getCountEnding(count)

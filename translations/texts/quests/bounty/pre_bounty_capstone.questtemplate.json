@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/pre_bounty_capstone.questtemplate": [
+        "/scriptConfig/generatedText/text/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's time to take down the ^orange;<bounty.gang.name>^reset; for good. We've picked up the trail of their leader, ^orange;<bounty.name>^reset;, <coordinate.preposition> <coordinate.name>.\n\nMake sure you're well prepared for this one - their base is sure to be heavily fortified.\n\n- REWARDS -\nCapture: ^yellow;<rewards.money>^reset; pixels, +<rewards.rank> rank"
+    }
+  }
+]

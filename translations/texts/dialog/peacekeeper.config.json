@@ -1,0 +1,147 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/peacekeeper.config": [
+        "/cheerOn/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Capture the criminalsss!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/peacekeeper.config": [
+        "/killedTarget/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Criminalsss should have surrendered..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/peacekeeper.config": [
+        "/lostTarget/floran/default/0",
+        "/outOfSight/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran iss good protector, will find prey!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/peacekeeper.config": [
+        "/cantReach/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran isss not fasst enough!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/peacekeeper.config": [
+        "/cheerOn/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Handcuff them!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/peacekeeper.config": [
+        "/attack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hold right where you are, law breaking dreg!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/peacekeeper.config": [
+        "/attack/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I will take you to space jail!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/peacekeeper.config": [
+        "/killedTarget/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Killing was not necessary."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/peacekeeper.config": [
+        "/cheerOn/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Take down the criminal scum!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/peacekeeper.config": [
+        "/cantReach/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "They perp is beyond my reach!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/peacekeeper.config": [
+        "/lostTarget/default/default/0",
+        "/outOfSight/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "We'll find you!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/peacekeeper.config": [
+        "/killedTarget/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You have the right to remain dead."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/peacekeeper.config": [
+        "/attack/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "asdasd"
+    }
+  }
+]

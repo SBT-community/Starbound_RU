@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/scan_planets.questtemplate": [
+        "/scriptConfig/generatedText/text/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "<bounty.name> was last seen somewhere in <coordinate.systemName>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/scan_planets.questtemplate": [
+        "/scriptConfig/generatedText/text/prev/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;<coordinate.name>^reset;:\nBy scanning the planets in this system, I located the target signature at <next.coordinate.name>.\n\n"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/scan_planets.questtemplate": [
+        "/scriptConfig/generatedText/text/prev/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;<coordinate.name>^reset;:\nScanning for the target signature led me to <next.coordinate.name>.\n\n"
+    }
+  }
+]

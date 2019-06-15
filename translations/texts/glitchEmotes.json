@@ -196,6 +196,9 @@
       "dialog/outpost.config": [
         "/flee/encourage/glitch/default/2/glitchEmote"
       ],
+      "dialog/peacekeeper.config": [
+        "/reattack/glitch/default/0/glitchEmote"
+      ],
       "npcs/dungeon/evilfortress/evilknight.npctype": [
         "/scriptConfig/dialog/attack/glitch/default/2/glitchEmote"
       ],
@@ -356,7 +359,13 @@
       "objects/human/prisongraffiti3/prisongraffiti3.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/mission/apexmission/bigapescreen/bigapescreen.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/mission/brokentank/brokentank.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/mission/hangingguardian/hangingguardian.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/outpost/fireextinguisher/fireextinguisher.object": [
@@ -798,7 +807,16 @@
       "objects/novakid/saloontable/saloontable.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/office/officecomputer/officecomputer.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/office/officeserver/officeserver.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/outpost/penguinbay/penguinbay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/peacekeeper/peacekeepercomputer/peacekeepercomputer.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/space/astroserver/astroserver.object": [
@@ -1017,6 +1035,12 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "dialog/bounty.config": [
+        "/bribeDeclined/glitch/default/0/glitchEmote"
+      ],
+      "dialog/bountytarget.config": [
+        "/arrested/glitch/default/1/glitchEmote"
+      ],
       "dialog/combat.config": [
         "/cantReach/glitch/default/1/glitchEmote",
         "/reattack/glitch/default/3/glitchEmote"
@@ -1407,6 +1431,9 @@
       "objects/mission/miningdoor/miningdoor.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/office/officestapler/officestapler.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/themed/executive/executivedoor/executivedoor.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -1523,6 +1550,9 @@
       "Стыдно."
     ],
     "Files": {
+      "dialog/bountytarget.config": [
+        "/completeArrest/glitch/default/3/glitchEmote"
+      ],
       "dialog/converse.config": [
         "/converse/glitch/generic/68/glitchEmote"
       ],
@@ -1597,6 +1627,9 @@
       "items/materials/glass.matitem": [
         "/glitchdescription/glitchEmote"
       ],
+      "items/materials/slopedglasspanel.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
       "objects/alpaca/alpacaruinrune/alpacaruinrune.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -1610,6 +1643,9 @@
         "/scriptConfig/generatedText/text/default/glitch/0/glitchEmote"
       ],
       "tiles/materials/glass.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/slopedglasspanel.material": [
         "/glitchDescription/glitchEmote"
       ]
     },
@@ -1643,6 +1679,17 @@
     "Texts": {
       "Eng": "Awestruck.",
       "Rus": "Благоговейно."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/glitch/default/0/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Awoken."
     }
   },
   {
@@ -1709,6 +1756,9 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "dialog/bountytarget.config": [
+        "/lostTarget/glitch/default/0/glitchEmote"
+      ],
       "dialog/converse.config": [
         "/converse/glitch/novakid/13/glitchEmote"
       ]
@@ -1856,6 +1906,9 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "dialog/bountytarget.config": [
+        "/resistArrest/glitch/default/5/glitchEmote"
+      ],
       "dialog/converse.config": [
         "/converse/glitch/floran/5/glitchEmote"
       ]
@@ -1973,6 +2026,13 @@
       ],
       "objects/human/dangersignv/dangersignv.object": [
         "/glitchDescription/glitchEmote"
+      ],
+      "quests/bounty/clue_npcs.config": [
+        "/interrogate/clues/planetBounty/dialog/interrogateStart/glitch/default/1/glitchEmote",
+        "/interrogate/clues/planetClue/dialog/interrogateStart/glitch/default/1/glitchEmote",
+        "/interrogate/clues/scan/dialog/interrogateStart/glitch/default/1/glitchEmote",
+        "/interrogate/clues/spaceBounty/dialog/interrogateStart/glitch/default/1/glitchEmote",
+        "/interrogate/clues/spaceClue/dialog/interrogateStart/glitch/default/1/glitchEmote"
       ]
     },
     "Texts": {
@@ -2043,6 +2103,12 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/human/lavalamp1/lavalamp1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/neon/neonlight/neonlight.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/peacekeeper/peacekeeperpainting/peacekeeperpainting.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/protectorate/objects/protectoratelavalamp/protectoratelavalamp.object": [
@@ -2216,6 +2282,9 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/biome/toxicplains/toxictable/toxictable.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/cultist/cultistchest/cultistchest.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/farmables/thornplant/thornplant.object": [
@@ -2735,6 +2804,9 @@
       "Обеспокоенный."
     ],
     "Files": {
+      "dialog/bounty.config": [
+        "/deceptiveEnd/glitch/default/3/glitchEmote"
+      ],
       "dialog/converse.config": [
         "/converse/glitch/avian/21/glitchEmote",
         "/converse/glitch/novakid/1/glitchEmote"
@@ -2807,6 +2879,9 @@
       "objects/clues/apex/bigapedoll/bigapedoll.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/cultist/cultistaltar/cultistaltar.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/farmables/crystalplant/crystalplantseed.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -2829,9 +2904,6 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/floran/plantvinetable/plantvinetable.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/generic/cultistaltar/cultistaltar.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/generic/eggchair/eggchair.object": [
@@ -2882,6 +2954,9 @@
       "objects/mission/hylotlmission/librarybookcaseL2damage/librarybookcaseL2damage.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/neon/neonlamppost/neonlamppost.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/novakid/frontiercoffin/frontiercoffin.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -2896,6 +2971,9 @@
       ],
       "objects/themed/steampunk/steampunkdesk/steampunkdesk.object": [
         "/glitchDescription/glitchEmote"
+      ],
+      "quests/bounty/clue_npcs.config": [
+        "/interrogate/clues/vaultClue/dialog/interrogateStart/glitch/default/2/glitchEmote"
       ],
       "quests/generated/templates/craft.questtemplate": [
         "/scriptConfig/generatedText/text/default/glitch/1/glitchEmote"
@@ -2945,6 +3023,9 @@
       "Уверенность."
     ],
     "Files": {
+      "dialog/bountytarget.config": [
+        "/completeArrest/glitch/default/7/glitchEmote"
+      ],
       "items/materials/copperfence.matitem": [
         "/glitchdescription/glitchEmote"
       ],
@@ -3223,6 +3304,9 @@
       "objects/novakid/saloonlight/saloonlight.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/office/officenoticeboard/officenoticeboard.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/outpost/techlab/techlabconsole1offline.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -3239,6 +3323,9 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/themed/cabin/cabinlamp/cabinlamp.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/themed/egyptian/egyptiantable/egyptiantable.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/themed/retroscifi/retroscifichair/retroscifichair.object": [
@@ -4130,6 +4217,9 @@
       "objects/mission/secretsign/secretsign2.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/neon/neontriangle/neontriangle.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/novakid/wagonwheel/wagonwheel.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -4149,6 +4239,12 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/outpost/techlab/techlab.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/peacekeeper/peacekeepermug/peacekeepermug.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/peacekeeper/peacekeepertable/peacekeepertable.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/protectorate/objects/protectoratebrokenportrait4/protectoratebrokenportrait4.object": [
@@ -4176,6 +4272,12 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/space/stationmedscanner/stationmedscanner.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/themed/egyptian/egyptianpillar/egyptianpillar.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/themed/egyptian/egyptianstatuette/egyptianstatuette.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/themed/farm/kitchenshelf/kitchenshelf.object": [
@@ -4337,8 +4439,18 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "dialog/bountytarget.config": [
+        "/completeArrest/glitch/default/5/glitchEmote"
+      ],
       "dialog/quest.config": [
         "/collect_fine/fineCollected/glitch/default/0/glitchEmote"
+      ],
+      "quests/bounty/clue_npcs.config": [
+        "/interrogate/clues/planetBounty/dialog/interrogateEnd/glitch/default/2/glitchEmote",
+        "/interrogate/clues/planetClue/dialog/interrogateEnd/glitch/default/2/glitchEmote",
+        "/interrogate/clues/scan/dialog/interrogateEnd/glitch/default/2/glitchEmote",
+        "/interrogate/clues/spaceBounty/dialog/interrogateEnd/glitch/default/2/glitchEmote",
+        "/interrogate/clues/spaceClue/dialog/interrogateEnd/glitch/default/2/glitchEmote"
       ]
     },
     "Texts": {
@@ -4357,6 +4469,18 @@
       ],
       "objects/human/prisongraffiti6/prisongraffiti6.object": [
         "/glitchDescription/glitchEmote"
+      ],
+      "quests/bounty/clue_npcs.config": [
+        "/interrogate/clues/planetBounty/dialog/interrogateStart/glitch/default/0/glitchEmote",
+        "/interrogate/clues/planetBounty/dialog/interrogateStart/glitch/default/2/glitchEmote",
+        "/interrogate/clues/planetClue/dialog/interrogateStart/glitch/default/0/glitchEmote",
+        "/interrogate/clues/planetClue/dialog/interrogateStart/glitch/default/2/glitchEmote",
+        "/interrogate/clues/scan/dialog/interrogateStart/glitch/default/0/glitchEmote",
+        "/interrogate/clues/scan/dialog/interrogateStart/glitch/default/2/glitchEmote",
+        "/interrogate/clues/spaceBounty/dialog/interrogateStart/glitch/default/0/glitchEmote",
+        "/interrogate/clues/spaceBounty/dialog/interrogateStart/glitch/default/2/glitchEmote",
+        "/interrogate/clues/spaceClue/dialog/interrogateStart/glitch/default/0/glitchEmote",
+        "/interrogate/clues/spaceClue/dialog/interrogateStart/glitch/default/2/glitchEmote"
       ]
     },
     "Texts": {
@@ -4567,6 +4691,19 @@
       "Отчаяние."
     ],
     "Files": {
+      "dialog/bounty.config": [
+        "/bribeHat/glitch/default/0/glitchEmote",
+        "/bribeHat/glitch/default/1/glitchEmote",
+        "/bribeHat/glitch/default/2/glitchEmote",
+        "/bribeMysteryItem/glitch/default/0/glitchEmote",
+        "/bribeMysteryItem/glitch/default/1/glitchEmote",
+        "/bribeMysteryItem/glitch/default/2/glitchEmote",
+        "/bribeWait/glitch/default/1/glitchEmote",
+        "/bribeWait/glitch/default/2/glitchEmote"
+      ],
+      "dialog/bountytarget.config": [
+        "/arrested/glitch/default/3/glitchEmote"
+      ],
       "dialog/converse.config": [
         "/converse/glitch/generic/49/glitchEmote"
       ],
@@ -4688,6 +4825,9 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "dialog/peacekeeperconverse.config": [
+        "/converse/glitch/default/8/glitchEmote"
+      ],
       "dialog/spaceconverse.config": [
         "/converse/glitch/default/2/glitchEmote",
         "/converse/glitch/glitch/3/glitchEmote"
@@ -4787,6 +4927,14 @@
       "Разочаровано."
     ],
     "Files": {
+      "dialog/bounty.config": [
+        "/bribeDeclined/glitch/default/1/glitchEmote",
+        "/caughtFleeing/glitch/default/3/glitchEmote"
+      ],
+      "dialog/bountytarget.config": [
+        "/completeArrest/glitch/default/2/glitchEmote",
+        "/resistArrest/glitch/default/4/glitchEmote"
+      ],
       "dialog/merchant.config": [
         "/merchantEnd/glitch/default/2/glitchEmote"
       ],
@@ -5654,6 +5802,17 @@
     }
   },
   {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/peacekeeper.config": [
+        "/attack/glitch/default/0/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dutiful."
+    }
+  },
+  {
     "DeniedAlternatives": [
       "В предвкушении.",
       "Взволнованно.",
@@ -5665,6 +5824,10 @@
       "Энергичный."
     ],
     "Files": {
+      "dialog/bountytarget.config": [
+        "/attack/glitch/default/0/glitchEmote",
+        "/resistArrest/glitch/default/1/glitchEmote"
+      ],
       "dialog/combat.config": [
         "/attack/glitch/default/5/glitchEmote"
       ],
@@ -5673,6 +5836,10 @@
       ],
       "dialog/crewmember.config": [
         "/converse/glitch/default/0/glitchEmote"
+      ],
+      "dialog/peacekeeperconverse.config": [
+        "/converse/glitch/default/3/glitchEmote",
+        "/converse/glitch/default/5/glitchEmote"
       ],
       "dialog/quest.config": [
         "/hat/crafting/glitch/default/0/glitchEmote",
@@ -5715,6 +5882,9 @@
       "npcs/tenants/electrician.npctype": [
         "/scriptConfig/dialog/converse/glitch/default/1/glitchEmote"
       ],
+      "npcs/tenants/peacekeepertenant.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/0/glitchEmote"
+      ],
       "npcs/threats/glitchthief.npctype": [
         "/scriptConfig/dialog/attack/glitch/default/1/glitchEmote"
       ],
@@ -5738,6 +5908,21 @@
       ],
       "objects/outpost/2stopteleshop/2stoptele.object": [
         "/glitchDescription/glitchEmote"
+      ],
+      "objects/peacekeeper/peacekeeperstore/peacekeeperstore1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/peacekeeper/peacekeeperstore/peacekeeperstore2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/peacekeeper/peacekeeperstore/peacekeeperstore3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/peacekeeper/peacekeeperstore/peacekeeperstore4.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "quests/bounty/clue_npcs.config": [
+        "/interrogate/clues/vaultClue/dialog/interrogateStart/glitch/default/1/glitchEmote"
       ],
       "quests/generated/templates/add_object_to_house.questtemplate": [
         "/scriptConfig/generatedText/text/default/glitch/1/glitchEmote"
@@ -5780,6 +5965,12 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "dialog/bounty.config": [
+        "/crazy/glitch/default/4/glitchEmote"
+      ],
+      "dialog/bountytarget.config": [
+        "/killedTarget/glitch/default/2/glitchEmote"
+      ],
       "dialog/converse.config": [
         "/converse/glitch/generic/61/glitchEmote"
       ],
@@ -5844,6 +6035,17 @@
     "Texts": {
       "Eng": "Elated.",
       "Rus": "Ликующе."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bountytarget.config": [
+        "/completeArrest/glitch/default/4/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Embarassed."
     }
   },
   {
@@ -5983,6 +6185,9 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "dialog/peacekeeper.config": [
+        "/cheerOn/glitch/default/0/glitchEmote"
+      ],
       "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
         "/scriptConfig/dialog/merchant/end/glitch/default/1/glitchEmote"
       ]
@@ -6019,6 +6224,22 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "dialog/bounty.config": [
+        "/crazy/glitch/default/1/glitchEmote",
+        "/crazy/glitch/default/2/glitchEmote",
+        "/crazy/glitch/default/5/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enlightened."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bountytarget.config": [
+        "/resistArrest/glitch/default/0/glitchEmote"
+      ],
       "dialog/combat.config": [
         "/outOfSight/glitch/default/4/glitchEmote"
       ],
@@ -6277,6 +6498,9 @@
       "Постройте дом, и ^green;разместите внутри ^orange;3 ^green;<tag>."
     ],
     "Files": {
+      "dialog/bountytarget.config": [
+        "/reattack/glitch/default/0/glitchEmote"
+      ],
       "dialog/combat.config": [
         "/attack/glitch/default/0/glitchEmote",
         "/cheerOn/glitch/default/0/glitchEmote",
@@ -6404,6 +6628,12 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/outpost/techlab/techlabconsole2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/peacekeeper/peacekeepernotes/peacekeepernotes.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/peacekeeper/peacekeepervendingmachine/peacekeepervendingmachine.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/protectorate/objects/protectorategamesconsole/protectorategamesconsole.object": [
@@ -6552,6 +6782,13 @@
       ],
       "npcs/biome/foundryworker.npctype": [
         "/scriptConfig/dialog/converse/glitch/default/0/glitchEmote"
+      ],
+      "quests/bounty/clue_npcs.config": [
+        "/interrogate/clues/planetBounty/dialog/interrogateEnd/glitch/default/1/glitchEmote",
+        "/interrogate/clues/planetClue/dialog/interrogateEnd/glitch/default/1/glitchEmote",
+        "/interrogate/clues/scan/dialog/interrogateEnd/glitch/default/1/glitchEmote",
+        "/interrogate/clues/spaceBounty/dialog/interrogateEnd/glitch/default/1/glitchEmote",
+        "/interrogate/clues/spaceClue/dialog/interrogateEnd/glitch/default/1/glitchEmote"
       ]
     },
     "Texts": {
@@ -6765,6 +7002,9 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/hylotl/molemanposter/molemanposter.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/office/officescanner/officescanner.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/outpost/shipyardwelding/shipyardwelding.object": [
@@ -7024,6 +7264,9 @@
         "/converse/glitch/floran/0/glitchEmote",
         "/converse/glitch/glitch/0/glitchEmote"
       ],
+      "dialog/peacekeeperconverse.config": [
+        "/converse/glitch/default/6/glitchEmote"
+      ],
       "dialog/quest.config": [
         "/borrow/giftProvided/glitch/default/1/glitchEmote",
         "/collect_gift/giftProvided/glitch/default/1/glitchEmote",
@@ -7082,6 +7325,9 @@
       "Расстроен."
     ],
     "Files": {
+      "dialog/bounty.config": [
+        "/caughtFleeing/glitch/default/0/glitchEmote"
+      ],
       "dialog/combat.config": [
         "/cantReach/glitch/default/2/glitchEmote",
         "/outOfSight/glitch/default/1/glitchEmote"
@@ -7128,6 +7374,17 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "dialog/bountytarget.config": [
+        "/arrested/glitch/default/0/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Furious."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "npcs/wizardmerchant.npctype": [
         "/scriptConfig/dialog/merchant/start/glitch/default/1/glitchEmote"
       ],
@@ -7145,6 +7402,9 @@
     "Files": {
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmote"
+      ],
+      "npcs/tenants/peacekeepertenant.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/1/glitchEmote"
       ]
     },
     "Texts": {
@@ -7365,6 +7625,18 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "dialog/bounty.config": [
+        "/deceptiveEnd/glitch/default/1/glitchEmote",
+        "/deceptiveEnd/glitch/default/2/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Guilty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "dialog/shroom.config": [
         "/hail/floran/glitch/2/glitchEmote"
       ]
@@ -7508,6 +7780,12 @@
         "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3/glitchEmote",
         "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/2/glitchEmote",
         "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmote"
+      ],
+      "quests/bounty/clue_bounties.config": [
+        "/disguise/clues/diversion/dialog/interact/glitch/default/0/glitchEmote",
+        "/disguise/clues/diversion/dialog/interact/glitch/default/1/glitchEmote",
+        "/disguise/clues/diversion/dialog/interact/glitch/default/2/glitchEmote",
+        "/disguise/clues/diversion/dialog/interact/glitch/default/3/glitchEmote"
       ]
     },
     "Texts": {
@@ -7954,12 +8232,18 @@
       "Удивленно."
     ],
     "Files": {
+      "dialog/bountytarget.config": [
+        "/reattack/glitch/default/1/glitchEmote"
+      ],
       "dialog/converse.config": [
         "/converse/glitch/floran/29/glitchEmote",
         "/converse/glitch/generic/53/glitchEmote",
         "/converse/glitch/glitch/1/glitchEmote",
         "/converse/glitch/glitch/9/glitchEmote",
         "/converse/glitch/novakid/14/glitchEmote"
+      ],
+      "dialog/peacekeeperconverse.config": [
+        "/converse/glitch/default/4/glitchEmote"
       ],
       "dialog/quest.config": [
         "/bribe/giftAccepted/glitch/default/1/glitchEmote"
@@ -8199,6 +8483,9 @@
       "objects/generic/cardboard3/cardboard3.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/generic/darkcomputer/darkcomputer.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/generic/ironswitch/ironswitch.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -8250,6 +8537,12 @@
       "objects/mission/laboratorylight/laboratorylight.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/neon/neonhologram/neonhologram.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/neon/neonpeacekeeperemblem/neonpeacekeeperemblem.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/novakid/frontierchair/frontierchair.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -8268,6 +8561,9 @@
       "objects/novakid/saloonbar/saloonbar.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/office/officecabinet/officecabinet.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/outpost/frogfurnishing/frogfurnishing.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -8281,6 +8577,21 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/outpost/penguinweaponshop/penguinweaponshop.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/peacekeeper/peacekeeperchair/peacekeeperchair.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/peacekeeper/peacekeeperdoor/peacekeeperdoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/peacekeeper/peacekeeperemblem/peacekeeperemblem.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/peacekeeper/peacekeeperfurnishings/peacekeeperfurnishings.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/peacekeeper/peacekeeperlamppost/peacekeeperlamppost.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/protectorate/objects/protectorateamp/protectorateamp.object": [
@@ -8677,6 +8988,9 @@
       "objects/glitch/battlestandard/battlestandard.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/mission/mechplatform/mechplatform.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/protectorate/objects/protectoratecactiflowerpot/protectoratecactiflowerpot.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -9048,6 +9362,9 @@
       "items/materials/plantmatter.matitem": [
         "/glitchdescription/glitchEmote"
       ],
+      "items/materials/polygonplatform.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
       "items/materials/pressuriseddurasteel.matitem": [
         "/glitchdescription/glitchEmote"
       ],
@@ -9129,6 +9446,9 @@
       "objects/hylotl/thefickletype/tenstudiesplaque.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/office/officelamp/officelamp.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/outpost/2stopteleshop/2stopshop.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -9178,6 +9498,9 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/space/wiredtarget/wiredtarget.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/themed/egyptian/egyptianchair/egyptianchair.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/themed/retroscifi/retroscifitv/retroscifitv.object": [
@@ -9233,6 +9556,9 @@
       ],
       "tiles/platforms/copperplatform.material": [
         "/glitchDescription/glitchEmote"
+      ],
+      "tiles/platforms/polygonplatform.material": [
+        "/glitchDescription/glitchEmote"
       ]
     },
     "Texts": {
@@ -9261,11 +9587,31 @@
       ],
       "objects/protectorate/objects/protectoratebrokenportrait2/protectoratebrokenportrait2.object": [
         "/glitchDescription/glitchEmote"
+      ],
+      "quests/bounty/clue_npcs.config": [
+        "/interrogate/clues/planetBounty/dialog/interrogateEnd/glitch/default/0/glitchEmote",
+        "/interrogate/clues/planetClue/dialog/interrogateEnd/glitch/default/0/glitchEmote",
+        "/interrogate/clues/scan/dialog/interrogateEnd/glitch/default/0/glitchEmote",
+        "/interrogate/clues/spaceBounty/dialog/interrogateEnd/glitch/default/0/glitchEmote",
+        "/interrogate/clues/spaceClue/dialog/interrogateEnd/glitch/default/0/glitchEmote",
+        "/interrogate/clues/vaultClue/dialog/interrogateEnd/glitch/default/1/glitchEmote",
+        "/interrogate/clues/vaultClue/dialog/interrogateEnd/glitch/default/2/glitchEmote"
       ]
     },
     "Texts": {
       "Eng": "Intimidated.",
       "Rus": "Запуганно."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bountytarget.config": [
+        "/attack/glitch/default/3/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intimidating."
     }
   },
   {
@@ -9425,6 +9771,9 @@
       "objects/mission/lunarquestturnin/drillconsole/drillconsole.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/neon/neonstore/neonstore.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/novakid/frontierfurnace/frontierfurnace.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -9446,6 +9795,9 @@
       "objects/outpost/outpostcargocrateshort/outpostcargocrateshort.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/outpost/outpostpeacekeeperposter/outpostpeacekeeperposter.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/outpost/outpostshippingcontainer/outpostshippingcontainer.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -9459,6 +9811,12 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/outpost/ursaminer/ursaminerclosed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/peacekeeper/peacekeeperposter1/peacekeeperposter1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/peacekeeper/peacekeeperposter2/peacekeeperposter2.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/protectorate/objects/protectoratecape/protectoratecape.object": [
@@ -9513,6 +9871,20 @@
     "Texts": {
       "Eng": "Intrigued.",
       "Rus": "Заинтригованно."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bounty/scanclue1/scanclue1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/bounty/scanclue2/scanclue2.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intriguing."
     }
   },
   {
@@ -9618,6 +9990,9 @@
       "dialog/converse.config": [
         "/converse/glitch/generic/51/glitchEmote",
         "/converse/glitch/human/10/glitchEmote"
+      ],
+      "dialog/peacekeeper.config": [
+        "/cantReach/glitch/default/0/glitchEmote"
       ],
       "objects/apex/apextent/apextent.object": [
         "/glitchDescription/glitchEmote"
@@ -9934,6 +10309,26 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "quests/bounty/clue_npcs.config": [
+        "/interrogate/clues/planetBounty/dialog/interrogateStart/glitch/default/3/glitchEmote",
+        "/interrogate/clues/planetBounty/dialog/interrogateStart/glitch/default/4/glitchEmote",
+        "/interrogate/clues/planetClue/dialog/interrogateStart/glitch/default/3/glitchEmote",
+        "/interrogate/clues/planetClue/dialog/interrogateStart/glitch/default/4/glitchEmote",
+        "/interrogate/clues/scan/dialog/interrogateStart/glitch/default/3/glitchEmote",
+        "/interrogate/clues/scan/dialog/interrogateStart/glitch/default/4/glitchEmote",
+        "/interrogate/clues/spaceBounty/dialog/interrogateStart/glitch/default/3/glitchEmote",
+        "/interrogate/clues/spaceBounty/dialog/interrogateStart/glitch/default/4/glitchEmote",
+        "/interrogate/clues/spaceClue/dialog/interrogateStart/glitch/default/3/glitchEmote",
+        "/interrogate/clues/spaceClue/dialog/interrogateStart/glitch/default/4/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Loyal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "quests/generated/templates/intimidate.questtemplate": [
         "/scriptConfig/generatedText/text/default/glitch/1/glitchEmote",
         "/scriptConfig/generatedText/text/next/glitch/0/glitchEmote"
@@ -10026,6 +10421,9 @@
       "Злобно."
     ],
     "Files": {
+      "dialog/bountytarget.config": [
+        "/attack/glitch/default/2/glitchEmote"
+      ],
       "npcs/dungeon/evilfortress/evilknight.npctype": [
         "/scriptConfig/dialog/attack/glitch/default/0/glitchEmote"
       ],
@@ -10095,6 +10493,9 @@
       "Шаловливо."
     ],
     "Files": {
+      "dialog/bounty.config": [
+        "/tricked/glitch/default/1/glitchEmote"
+      ],
       "dialog/quest.config": [
         "/kill_npc/betray/glitch/default/0/glitchEmote"
       ]
@@ -10283,6 +10684,9 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "dialog/bounty.config": [
+        "/caughtFleeing/glitch/default/1/glitchEmote"
+      ],
       "dialog/converse.config": [
         "/converse/glitch/avian/10/glitchEmote",
         "/converse/glitch/floran/13/glitchEmote",
@@ -10292,6 +10696,9 @@
       ],
       "dialog/quest.config": [
         "/return_stolen/objectTaken/glitch/default/0/glitchEmote"
+      ],
+      "npcs/tenants/peacekeepertenant.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/2/glitchEmote"
       ],
       "objects/ancient/ancientlightplatform/ancientlightplatform.object": [
         "/glitchDescription/glitchEmote"
@@ -11572,6 +11979,12 @@
       "objects/spawner/colonydeed/colonydeed.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/teleporter/peacekeeperteleporter/peacekeeperteleporter.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/themed/egyptian/egyptiancrest/egyptiancrest.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/themed/farm/kitchentable/kitchentable.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -11681,6 +12094,9 @@
         "/glitchDescription/glitchEmote"
       ],
       "tiles/materials/slopedinsetpanel.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/slopedpolygon.material": [
         "/glitchDescription/glitchEmote"
       ],
       "tiles/materials/stonerubble.material": [
@@ -11832,6 +12248,13 @@
       "Счастливо."
     ],
     "Files": {
+      "dialog/bounty.config": [
+        "/tricked/glitch/default/0/glitchEmote"
+      ],
+      "dialog/bountytarget.config": [
+        "/killedTarget/glitch/default/0/glitchEmote",
+        "/killedTarget/glitch/default/3/glitchEmote"
+      ],
       "dialog/converse.config": [
         "/converse/glitch/apex/3/glitchEmote"
       ],
@@ -11909,8 +12332,17 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "dialog/bounty.config": [
+        "/bribeWait/glitch/default/0/glitchEmote",
+        "/flee/glitch/default/1/glitchEmote"
+      ],
       "dialog/thief.config": [
         "/alert/glitch/default/1/glitchEmote"
+      ],
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/planetBounty/dialog/beamout/glitch/default/1/glitchEmote",
+        "/beamout/clues/scan/dialog/beamout/glitch/default/1/glitchEmote",
+        "/beamout/clues/shipBounty/dialog/beamout/glitch/default/1/glitchEmote"
       ],
       "quests/generated/templates/steal.questtemplate": [
         "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmote"
@@ -11919,6 +12351,17 @@
     "Texts": {
       "Eng": "Panicked.",
       "Rus": "Испуганно."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptive/glitch/default/1/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Panicking."
     }
   },
   {
@@ -11946,6 +12389,10 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
+        "/outOfSight/glitch/default/0/glitchEmote"
+      ],
+      "dialog/peacekeeper.config": [
+        "/lostTarget/glitch/default/0/glitchEmote",
         "/outOfSight/glitch/default/0/glitchEmote"
       ],
       "npcs/crew/crewmember.npctype": [
@@ -12236,6 +12683,13 @@
       "Удовлетворённо."
     ],
     "Files": {
+      "dialog/bounty.config": [
+        "/tricked/glitch/default/2/glitchEmote"
+      ],
+      "dialog/bountytarget.config": [
+        "/killedTarget/glitch/default/1/glitchEmote",
+        "/resistArrest/glitch/default/2/glitchEmote"
+      ],
       "dialog/combat.config": [
         "/killedTarget/glitch/default/4/glitchEmote"
       ],
@@ -12710,6 +13164,9 @@
       "Нейтрально."
     ],
     "Files": {
+      "dialog/bountytarget.config": [
+        "/attack/glitch/default/1/glitchEmote"
+      ],
       "dialog/combat.config": [
         "/killedTarget/glitch/default/6/glitchEmote"
       ],
@@ -13148,6 +13605,11 @@
       "Успокоенно."
     ],
     "Files": {
+      "dialog/bounty.config": [
+        "/bribeAccepted/glitch/default/0/glitchEmote",
+        "/bribeAccepted/glitch/default/1/glitchEmote",
+        "/bribeAccepted/glitch/default/2/glitchEmote"
+      ],
       "dialog/flee.config": [
         "/safe/glitch/default/0/glitchEmote"
       ],
@@ -13182,6 +13644,12 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/teleporter/exitteleporter/exitteleporter.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/teleporter/exitteleporter/returnteleporter.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/themed/egyptian/egyptianbed/egyptianbed.object": [
         "/glitchDescription/glitchEmote"
       ],
       "quests/generated/templates/borrow.questtemplate": [
@@ -13478,6 +13946,9 @@
     "Files": {
       "dialog/outpost.config": [
         "/flee/helpthem/glitch/default/5/glitchEmote"
+      ],
+      "quests/bounty/clue_npcs.config": [
+        "/interrogate/clues/vaultClue/dialog/interrogateStart/glitch/default/0/glitchEmote"
       ]
     },
     "Texts": {
@@ -13504,6 +13975,9 @@
       ],
       "dialog/oremerchant.config": [
         "/otherDeed/glitch/default/2/glitchEmote"
+      ],
+      "dialog/peacekeeper.config": [
+        "/killedTarget/glitch/default/0/glitchEmote"
       ],
       "objects/biome/scorchedcity/scorchedcitybrokenbed/scorchedcitybrokenbed.object": [
         "/glitchDescription/glitchEmote"
@@ -13615,6 +14089,9 @@
       "Удовлетворён."
     ],
     "Files": {
+      "dialog/bountytarget.config": [
+        "/arrested/glitch/default/4/glitchEmote"
+      ],
       "dialog/combat.config": [
         "/killedTarget/glitch/default/0/glitchEmote"
       ],
@@ -13737,11 +14214,18 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "dialog/bounty.config": [
+        "/caughtFleeing/glitch/default/2/glitchEmote"
+      ],
       "dialog/clues.config": [
         "/glitch/default/default/4/glitchEmote"
       ],
       "dialog/flee.config": [
         "/helpme/glitch/default/0/glitchEmote"
+      ],
+      "quests/bounty/clue_npcs.config": [
+        "/interrogate/clues/vaultClue/dialog/interrogateEnd/glitch/default/0/glitchEmote",
+        "/interrogate/clues/vaultClue/dialog/interrogateEnd/glitch/default/3/glitchEmote"
       ]
     },
     "Texts": {
@@ -13774,9 +14258,6 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/farmables/corn/wildcornseed.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/floran/floranbench/floranbench.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/floran/floranpelt1/floranpelt1.object": [
@@ -13966,6 +14447,9 @@
       ],
       "objects/generic/woodentalllantern/woodentalllantern.object": [
         "/glitchDescription/glitchEmote"
+      ],
+      "objects/themed/egyptian/egyptianlamp/egyptianlamp.object": [
+        "/glitchDescription/glitchEmote"
       ]
     },
     "Texts": {
@@ -14005,6 +14489,9 @@
       "Шокировано."
     ],
     "Files": {
+      "dialog/bountytarget.config": [
+        "/resistArrest/glitch/default/3/glitchEmote"
+      ],
       "dialog/converse.config": [
         "/converse/glitch/apex/0/glitchEmote"
       ],
@@ -14069,6 +14556,18 @@
     "Texts": {
       "Eng": "Shy.",
       "Rus": "Застенчиво."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/floranbench/floranbench.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Skeptical.",
+      "Rus": "Скептически."
     }
   },
   {
@@ -14975,6 +15474,11 @@
       "Удивленно."
     ],
     "Files": {
+      "dialog/bountytarget.config": [
+        "/lostTarget/glitch/default/2/glitchEmote",
+        "/lostTarget/glitch/default/3/glitchEmote",
+        "/reattack/glitch/default/2/glitchEmote"
+      ],
       "dialog/converse.config": [
         "/converse/glitch/novakid/3/glitchEmote"
       ],
@@ -15646,6 +16150,9 @@
       "dialog/flee.config": [
         "/safe/glitch/default/2/glitchEmote"
       ],
+      "dialog/peacekeeperconverse.config": [
+        "/converse/glitch/default/1/glitchEmote"
+      ],
       "npcs/biome/foundryworker.npctype": [
         "/scriptConfig/dialog/converse/glitch/default/3/glitchEmote"
       ],
@@ -15806,6 +16313,10 @@
       "Неуютно."
     ],
     "Files": {
+      "dialog/bounty.config": [
+        "/deceptive/glitch/default/0/glitchEmote",
+        "/deceptive/glitch/default/2/glitchEmote"
+      ],
       "items/materials/jellyblock.matitem": [
         "/glitchdescription/glitchEmote"
       ],
@@ -16005,6 +16516,9 @@
       "Разочарованно."
     ],
     "Files": {
+      "dialog/bountytarget.config": [
+        "/lostTarget/glitch/default/1/glitchEmote"
+      ],
       "items/materials/rockbrick.matitem": [
         "/glitchdescription/glitchEmote"
       ],
@@ -16036,6 +16550,18 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/biome/crystalline/crystalbed/crystalbed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/cultist/cultistairlockdoor/cultistairlockbossdoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/cultist/cultistairlockdoor/cultistairlockdoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/cultist/cultistairlockhatch/cultistairlockhatch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/cultist/cultistbannerlarge/cultistbannerlarge.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/floran/chestfloran1/chestfloran1.object": [
@@ -16092,6 +16618,9 @@
       "objects/mission/redlight/redlightBroken.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/office/officedesk/officedesk.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/outpost/bathroomtrash/bathroomtrash.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -16102,6 +16631,9 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/outpost/penguinbar/penguinbarbottom.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/peacekeeper/peacekeeperemblem/peacekeeperemblem2.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/protectorate/objects/protectoratelobbytable/protectoratelobbytable.object": [
@@ -16180,6 +16712,9 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/hylotl/hylotlchair/hylotlchair.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/office/officetable/officetable.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/protectorate/objects/protectoratelobbylockers/protectoratelobbylockers.object": [
@@ -16280,7 +16815,7 @@
       "objects/biome/scorchedcity/scorchedbench/scorchedbench.object": [
         "/glitchDescription/glitchEmote"
       ],
-      "objects/space/cultistdoor/cultistdoor.object": [
+      "objects/cultist/cultistdoor/cultistdoor.object": [
         "/glitchDescription/glitchEmote"
       ],
       "plants/bushes/ground/fleshcorpse/fleshcorpse.bush": [
@@ -16325,6 +16860,9 @@
       "Расстроено."
     ],
     "Files": {
+      "dialog/bountytarget.config": [
+        "/arrested/glitch/default/2/glitchEmote"
+      ],
       "dialog/grumble.config": [
         "/final/glitch/default/2/glitchEmote"
       ],
@@ -16364,6 +16902,31 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "dialog/peacekeeperconverse.config": [
+        "/converse/glitch/default/7/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/peacekeeperconverse.config": [
+        "/converse/glitch/default/2/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Valiant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bountytarget.config": [
+        "/completeArrest/glitch/default/0/glitchEmote"
+      ],
       "dialog/outpost.config": [
         "/flee/encourage/glitch/default/3/glitchEmote"
       ]
@@ -16487,6 +17050,9 @@
       ],
       "dialog/merchant.config": [
         "/tout/glitch/default/2/glitchEmote"
+      ],
+      "dialog/peacekeeperconverse.config": [
+        "/converse/glitch/default/0/glitchEmote"
       ],
       "dialog/shipcrew.config": [
         "/converse/glitch/glitch/1/glitchEmote"
@@ -16641,6 +17207,17 @@
       "Обеспокоен."
     ],
     "Files": {
+      "dialog/bounty.config": [
+        "/crazy/glitch/default/3/glitchEmote",
+        "/deceptiveEnd/glitch/default/0/glitchEmote",
+        "/flee/glitch/default/0/glitchEmote",
+        "/flee/glitch/default/2/glitchEmote"
+      ],
+      "dialog/bountytarget.config": [
+        "/arrested/glitch/default/5/glitchEmote",
+        "/completeArrest/glitch/default/1/glitchEmote",
+        "/completeArrest/glitch/default/6/glitchEmote"
+      ],
       "dialog/clues.config": [
         "/glitch/default/default/8/glitchEmote"
       ],
@@ -16710,6 +17287,14 @@
       ],
       "objects/wreck/wreckwiresceiling/wreckwiresceiling.object": [
         "/glitchDescription/glitchEmote"
+      ],
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/planetBounty/dialog/beamout/glitch/default/0/glitchEmote",
+        "/beamout/clues/planetBounty/dialog/beamout/glitch/default/2/glitchEmote",
+        "/beamout/clues/scan/dialog/beamout/glitch/default/0/glitchEmote",
+        "/beamout/clues/scan/dialog/beamout/glitch/default/2/glitchEmote",
+        "/beamout/clues/shipBounty/dialog/beamout/glitch/default/0/glitchEmote",
+        "/beamout/clues/shipBounty/dialog/beamout/glitch/default/2/glitchEmote"
       ],
       "quests/generated/templates/kidnapping.questtemplate": [
         "/scriptConfig/generatedText/text/default/glitch/1/glitchEmote"

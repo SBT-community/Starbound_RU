@@ -1,0 +1,68 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/joinrequest.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Discord join request received"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/joinrequest.config": [
+        "/joinMessage"
+      ]
+    },
+    "Texts": {
+      "Eng": "Discord user ^green;<username>^reset; wishes to join your game.\n\nDo you want to accept?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/joinrequest.config": [
+        "/paneLayout/ignore/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ignore"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/joinrequest.config": [
+        "/paneLayout/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Join Request"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/joinrequest.config": [
+        "/paneLayout/no/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "No"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/joinrequest.config": [
+        "/paneLayout/yes/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yes"
+    }
+  }
+]

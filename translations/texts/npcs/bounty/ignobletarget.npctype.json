@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/bounty/ignobletarget.npctype": [
+        "/npcname"
+      ]
+    },
+    "Texts": {
+      "Eng": "Captain Ignoble"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/bounty/ignobletarget.npctype": [
+        "/scriptConfig/dialog/arrested/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gosh darnit, I've been handcuffed! I sure hope you don't send me off to space jail, partner!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/bounty/ignobletarget.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "It is I, ^orange;Captain Ignoble^reset;, leader of the ^orange;<gangName>^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/bounty/ignobletarget.npctype": [
+        "/scriptConfig/dialog/completeArrest/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ^orange;<gangName>^reset; are done for... Captain Noble must be a mighty smart an' handsome guy to have recruited you!"
+    }
+  }
+]

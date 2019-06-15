@@ -1,0 +1,58 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/find_clue_object.questtemplate": [
+        "/scriptConfig/generatedText/text/prev/0"
+      ],
+      "quests/bounty/find_space_clue_object.questtemplate": [
+        "/scriptConfig/generatedText/text/prev/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;<coordinate.name>^reset;:\nComputer records here told me that that <bounty.name> is <next.coordinate.preposition> <next.coordinate.name>.\n\n"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/find_clue_object.questtemplate": [
+        "/scriptConfig/generatedText/text/prev/3"
+      ],
+      "quests/bounty/find_space_clue_object.questtemplate": [
+        "/scriptConfig/generatedText/text/prev/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;<coordinate.name>^reset;:\nCracking the criminal's secure database gave me the location \"<next.coordinate.name>\".\n\n"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/find_clue_object.questtemplate": [
+        "/scriptConfig/generatedText/text/prev/2"
+      ],
+      "quests/bounty/find_space_clue_object.questtemplate": [
+        "/scriptConfig/generatedText/text/prev/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;<coordinate.name>^reset;:\nMy advanced hacking skills have led me to <next.coordinate.name>.\n\n"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/find_clue_object.questtemplate": [
+        "/scriptConfig/generatedText/text/prev/1"
+      ],
+      "quests/bounty/find_space_clue_object.questtemplate": [
+        "/scriptConfig/generatedText/text/prev/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;<coordinate.name>^reset;:\nMy master hacking skills have led me to <next.coordinate.name>.\n\n"
+    }
+  }
+]

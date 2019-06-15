@@ -1,0 +1,114 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bounty/scanclue1/scanclue1.object": [
+        "/description"
+      ],
+      "objects/bounty/scanclue2/scanclue2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A clue for a bounty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bounty/scanclue1/scanclue1.object": [
+        "/apexDescription"
+      ],
+      "objects/bounty/scanclue2/scanclue2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A handprint!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bounty/scanclue1/scanclue1.object": [
+        "/floranDescription"
+      ],
+      "objects/bounty/scanclue2/scanclue2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can sssee hand!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bounty/scanclue1/scanclue1.object": [
+        "/avianDescription"
+      ],
+      "objects/bounty/scanclue2/scanclue2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Someone left this handprint behind, but my scanner can pick up its trace!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bounty/scanclue1/scanclue1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/bounty/scanclue2/scanclue2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The scan can pick up the faint trace of someone who was here recently."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bounty/scanclue1/scanclue1.object": [
+        "/novakidDescription"
+      ],
+      "objects/bounty/scanclue2/scanclue2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This handprint couldn't have been made too long ago, I'm reckonin'!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bounty/scanclue1/scanclue1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/bounty/scanclue2/scanclue2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This handprint here is practically invisible to the naked eye. Fortunately, I am rather observant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bounty/scanclue1/scanclue1.object": [
+        "/humanDescription"
+      ],
+      "objects/bounty/scanclue2/scanclue2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This weirdly large handprint must have been left here somewhat recently."
+    }
+  }
+]
