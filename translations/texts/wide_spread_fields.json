@@ -26,6 +26,38 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "items/active/weapons/ranged/unrand/neomagnum/neomagnum1.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/unrand/neomagnum/neomagnum2.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/unrand/neomagnum/neomagnum3.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/unrand/neomagnum/neomagnum4.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/unrand/neopistol/npcneopistol.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/unrand/neouzi/npcneouzi.activeitem": [
+        "/description"
+      ],
+      "monsters/ghosts/peacekeeperdrone/peacekeeperdrone.monstertype": [
+        "/description"
+      ],
+      "monsters/unsorted/miningdrone/miningdrone.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "--TODO--"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "interface/stats/stats.config": [
         "/energyRegen/description",
         "/healthRegen/description",
@@ -87,6 +119,13 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "dialog/bounty.config": [
+        "/deceptive/floran/default/3"
+      ],
+      "dialog/bountytarget.config": [
+        "/completeArrest/apex/default/2",
+        "/completeArrest/hylotl/default/6"
+      ],
       "dialog/frog.config": [
         "/beacon/default/default/0",
         "/converse/default/default/0",
@@ -180,6 +219,9 @@
       "interface/warping/gatewarp.config": [
         "/destinations/0/name",
         "/destinations/0/planetName"
+      ],
+      "radiomessages/missions.radiomessages": [
+        "/cultistmission06a/senderName"
       ],
       "radiomessages/quests.radiomessages": [
         "/gaterepair-gateFound1b/senderName",
@@ -353,6 +395,28 @@
     "Texts": {
       "Eng": "Arctic",
       "Rus": "Арктический"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/cultistboss/cultistboss.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/boss/swansong/noxcapture.monstertype": [
+        "/shortdescription"
+      ],
+      "quests/bounty/assignment.config": [
+        "/bountyTypes/occasusCommander/questConfig/target/monster/parameters/shortdescription"
+      ],
+      "radiomessages/missions.radiomessages": [
+        "/cultistmission06b/senderName",
+        "/cultistmission09a/senderName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Asra Nox",
+      "Rus": "Асра Нокс"
     }
   },
   {
@@ -546,6 +610,39 @@
     "Texts": {
       "Eng": "Bonesss!",
       "Rus": "Косссти!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/bounty/nobleclue.npctype": [
+        "/npcname"
+      ],
+      "npcs/outpost/captainnoble.npctype": [
+        "/npcname"
+      ],
+      "radiomessages/bounty.radiomessages": [
+        "/approachingbounty/senderName",
+        "/approachingclue/senderName",
+        "/exploreclueplanet/senderName",
+        "/tutorialapproachclue/senderName",
+        "/tutorialexplore/senderName"
+      ],
+      "radiomessages/missions.radiomessages": [
+        "/cultistmission01b/senderName",
+        "/cultistmission03b/senderName",
+        "/cultistmission05a/senderName",
+        "/cultistmission08/senderName"
+      ],
+      "radiomessages/tutorial.radiomessages": [
+        "/peacekeeper02/senderName",
+        "/peacekeeper03/senderName",
+        "/peacekeeper04/senderName",
+        "/peacekeeper05/senderName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Captain Noble"
     }
   },
   {
@@ -867,6 +964,45 @@
     }
   },
   {
+    "DeniedAlternatives": [
+      "Добродетель в том, чтобы защищать невинных.",
+      "Как жизнь?"
+    ],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/novakid/default/3"
+      ],
+      "npcs/friendlyguard.npctype": [
+        "/scriptConfig/dialog/hail/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Howdy there!",
+      "Rus": "Здорово!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/novakid/default/6"
+      ],
+      "dialog/crewmember.config": [
+        "/converse/novakid/default/0"
+      ],
+      "dialog/guard.config": [
+        "/hail/novakid/default/6"
+      ],
+      "npcs/friendlyguard.npctype": [
+        "/scriptConfig/dialog/hail/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Howdy!",
+      "Rus": "Привет!"
+    }
+  },
+  {
     "DeniedAlternatives": [],
     "Files": {
       "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
@@ -989,6 +1125,7 @@
       ],
       "radiomessages/missions.radiomessages": [
         "/avianmission06/senderName",
+        "/cultistmission02/senderName",
         "/tentaclemission-bottom2/senderName",
         "/tentaclemission-destruction2/senderName"
       ],
@@ -1059,6 +1196,7 @@
       "radiomessages/missions.radiomessages": [
         "/avianmission04/senderName",
         "/avianmission05/senderName",
+        "/cultistmission04a/senderName",
         "/hylotlmission03b/senderName",
         "/tentaclemission-destruction3/senderName"
       ]
@@ -1108,6 +1246,22 @@
     "Texts": {
       "Eng": "Paint Mode",
       "Rus": "Режим рисования"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/bountyboard/bountyboardgui.config": [
+        "/gui/summaryOverlay/children/lblMoneyHeader/value",
+        "/gui/summaryOverlay/children/lblMoneyList/value"
+      ],
+      "items/currency/money.currency": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pixels",
+      "Rus": "Пиксели"
     }
   },
   {
@@ -1463,6 +1617,22 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "npcs/outpost/baronoutpost.npctype": [
+        "/npcname"
+      ],
+      "radiomessages/missions.radiomessages": [
+        "/cultistmission03c/senderName",
+        "/cultistmission04b/senderName"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Baron",
+      "Rus": "Барон"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "npcs/outpost/tonauacoutpost.npctype": [
         "/npcname"
       ],
@@ -1470,6 +1640,7 @@
         "/npcname"
       ],
       "radiomessages/missions.radiomessages": [
+        "/cultistmission05b/senderName",
         "/tentaclemission-bossroom2/senderName"
       ]
     },
@@ -1481,6 +1652,9 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "interface/itemdescriptions/filledcapturepod.itemdescription": [
+        "/toolLabel/value"
+      ],
       "interface/itemdescriptions/mm.itemdescription": [
         "/toolLabel/value"
       ],
@@ -1530,6 +1704,24 @@
     "Texts": {
       "Eng": "Tundra",
       "Rus": "Тундра"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/flee/apex/default/6",
+        "/flee/avian/default/7",
+        "/flee/default/default/6",
+        "/flee/hylotl/default/4"
+      ],
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/attack/default/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uh-oh!",
+      "Rus": "Ой-ой!"
     }
   },
   {

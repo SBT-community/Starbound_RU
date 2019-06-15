@@ -101,6 +101,28 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/confirmation/teleportconfirmation.config": [
+        "/bounty/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "\nThis console will teleport you to the target's hideout."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/cyberspace/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "\nThis terminal is connected to a criminal network.\n\nAre you ready to hack into cyberspace?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
         "/mechupgrade2/subtitle"
       ]
     },
@@ -143,6 +165,28 @@
     "Texts": {
       "Eng": "Arena Champion: Templar Inferno",
       "Rus": "Чемпион Арены: Пылающий Храмовник"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/bounty/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bounty Lair"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/cyberspace/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cyberspace Terminal"
     }
   },
   {
@@ -199,6 +243,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/confirmation/teleportconfirmation.config": [
+        "/cyberspace/okCaption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hack"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
         "/mechunlock/subtitle"
       ]
     },
@@ -238,6 +293,7 @@
         "/arena1/okCaption",
         "/arena2/okCaption",
         "/arena3/okCaption",
+        "/bounty/okCaption",
         "/mechunlock/okCaption",
         "/mechupgrade2/okCaption",
         "/penguinmission2/okCaption",
@@ -258,6 +314,8 @@
         "/arena1/title",
         "/arena2/title",
         "/arena3/title",
+        "/bounty/title",
+        "/cyberspace/title",
         "/mechunlock/title",
         "/mechupgrade2/title",
         "/penguinmission1/title",

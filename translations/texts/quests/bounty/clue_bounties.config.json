@@ -1,0 +1,656 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/disguise/clues/diversion/dialog/interact/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "<bounty.name>? I've encountered that fiend on my travels. I last saw them around ^orange;<next.coordinate.name>^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/planetBounty/dialog/beamout/apex/default/2",
+        "/beamout/clues/scan/dialog/beamout/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "<randomName>, beam me out! Take me to ^orange;<next.coordinate.name>^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/shipBounty/dialog/beamout/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "<randomName>, beam me out! Take me to ^orange;<next.coordinate.systemName>^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/planetBounty/dialog/beamout/avian/default/2",
+        "/beamout/clues/planetBounty/dialog/beamout/default/default/2",
+        "/beamout/clues/planetBounty/dialog/beamout/glitch/default/2/glitchEmotedText",
+        "/beamout/clues/planetBounty/dialog/beamout/hylotl/default/2",
+        "/beamout/clues/scan/dialog/beamout/avian/default/2",
+        "/beamout/clues/scan/dialog/beamout/default/default/2",
+        "/beamout/clues/scan/dialog/beamout/glitch/default/2/glitchEmotedText",
+        "/beamout/clues/scan/dialog/beamout/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "<randomName>, beam me out! There's a Peacekeeper on my tail! Take me to ^orange;<next.coordinate.name>^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/shipBounty/dialog/beamout/avian/default/2",
+        "/beamout/clues/shipBounty/dialog/beamout/default/default/2",
+        "/beamout/clues/shipBounty/dialog/beamout/glitch/default/2/glitchEmotedText",
+        "/beamout/clues/shipBounty/dialog/beamout/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "<randomName>, beam me out! There's a Peacekeeper on my tail! Take me to ^orange;<next.coordinate.systemName>^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/planetBounty/dialog/beamout/novakid/default/2",
+        "/beamout/clues/scan/dialog/beamout/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "<randomName>, beam me out! There's a Peacekeeper on my trail! Take me to ^orange;<next.coordinate.name>^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/shipBounty/dialog/beamout/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "<randomName>, beam me out! There's a Peacekeeper on my trail! Take me to ^orange;<next.coordinate.systemName>^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/planetBounty/dialog/beamout/apex/default/1",
+        "/beamout/clues/scan/dialog/beamout/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alert! I've been spotted! Proceeding to ^orange;<next.coordinate.name>^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/shipBounty/dialog/beamout/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alert! I've been spotted! Proceeding to ^orange;<next.coordinate.systemName>^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/disguise/clues/diversion/dialog/interact/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you lookin' for that famous wrongdoer, <bounty.name>? Word around the saloon is that they were last seen on ^orange;<next.coordinate.name>^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/disguise/clues/diversion/dialog/interact/apex/default/1",
+        "/disguise/clues/diversion/dialog/interact/avian/default/1",
+        "/disguise/clues/diversion/dialog/interact/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you lookin' for that notorious criminal, <bounty.name>? Word on the street is that they were last seen on ^orange;<next.coordinate.name>^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/disguise/clues/diversion/dialog/interact/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you looking for that infamous vagabond, <bounty.name>? Word on the street is that they were last seen on ^orange;<next.coordinate.name>^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/disguise/clues/diversion/dialog/interact/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you searching for <bounty.name>, famous bad guy? Word on the street is that they were last seen on ^orange;<next.coordinate.name>^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/disguise/clues/diversion/dialog/interact/novakid/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you the Peacekeeper lookin' for <bounty.name>? Lucky for you, I can help you out - they're on ^orange;<next.coordinate.name>^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/disguise/clues/diversion/dialog/interact/apex/default/3",
+        "/disguise/clues/diversion/dialog/interact/avian/default/3",
+        "/disguise/clues/diversion/dialog/interact/default/default/3",
+        "/disguise/clues/diversion/dialog/interact/glitch/default/3/glitchEmotedText",
+        "/disguise/clues/diversion/dialog/interact/hylotl/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you the Peacekeeper looking for <bounty.name>? Well luckily I can help you out - they're on ^orange;<next.coordinate.name>^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/scan/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "Criminals sure do love to talk loudly about their plans! You'd better make your way on over to ^green;<next.coordinate.name>^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/planetBounty/dialog/beamout/novakid/default/1",
+        "/beamout/clues/scan/dialog/beamout/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dagnabbit, I've been spotted! better make my way to ^orange;<next.coordinate.name>^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/shipBounty/dialog/beamout/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dagnabbit, I've been spotted! better make my way to ^orange;<next.coordinate.systemName>^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/disguise/clues/diversion/dialog/interact/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran hasss seen <bounty.name>! Floran sssaw them on ^orange;<next.coordinate.name>^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/disguise/clues/diversion/dialog/interact/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran hasss seen criminal! Floran sssaw them on ^orange;<next.coordinate.name>^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/planetBounty/dialog/beamout/floran/default/1",
+        "/beamout/clues/scan/dialog/beamout/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran isss going to ^orange;<next.coordinate.name>^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/shipBounty/dialog/beamout/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran isss going to ^orange;<next.coordinate.systemName>^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/disguise/clues/diversion/dialog/interact/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran knowssss where crime perssson isss! Crime perssson is on ^orange;<next.coordinate.name>^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/planetBounty/dialog/beamout/floran/default/2",
+        "/beamout/clues/scan/dialog/beamout/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran needsss to fly to ^orange;<next.coordinate.name>^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/shipBounty/dialog/beamout/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran needsss to fly to ^orange;<next.coordinate.systemName>^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/planetBounty/dialog/beamout/novakid/default/0",
+        "/beamout/clues/scan/dialog/beamout/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I ain't gettin' caught this easily - beam me out, <randomName>! Where? To ^orange;<next.coordinate.name>^reset;, of course!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/shipBounty/dialog/beamout/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I ain't gettin' caught this easily - beam me out, <randomName>! Where? To ^orange;<next.coordinate.systemName>^reset;, of course!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/planetBounty/dialog/beamout/glitch/default/1/glitchEmotedText",
+        "/beamout/clues/scan/dialog/beamout/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have been spotted! better make my way to ^orange;<next.coordinate.name>^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/shipBounty/dialog/beamout/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have been spotted! better make my way to ^orange;<next.coordinate.systemName>^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/disguise/clues/diversion/dialog/interact/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have seen that scoundrel you're looking for. I would never forget a face like that! I hear they've been hanging around ^orange;<next.coordinate.name>^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/disguise/clues/diversion/dialog/interact/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hear a lot of gossip - you're looking for <bounty.name>? I hear they've been hanging around ^orange;<next.coordinate.name>^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/planetBounty/dialog/beamout/avian/default/0",
+        "/beamout/clues/planetBounty/dialog/beamout/glitch/default/0/glitchEmotedText",
+        "/beamout/clues/scan/dialog/beamout/avian/default/0",
+        "/beamout/clues/scan/dialog/beamout/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've been found - beam me out, <randomName>! Where? To ^orange;<next.coordinate.name>^reset;, of course!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/shipBounty/dialog/beamout/avian/default/0",
+        "/beamout/clues/shipBounty/dialog/beamout/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've been found - beam me out, <randomName>! Where? To ^orange;<next.coordinate.systemName>^reset;, of course!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/planetBounty/dialog/beamout/default/default/0",
+        "/beamout/clues/scan/dialog/beamout/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've been found - beam me up, <randomName>! Where? To ^orange;<next.coordinate.name>^reset;, of course!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/shipBounty/dialog/beamout/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've been found - beam me up, <randomName>! Where? To ^orange;<next.coordinate.systemName>^reset;, of course!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/planetBounty/dialog/beamout/avian/default/1",
+        "/beamout/clues/scan/dialog/beamout/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've been spotted - time to fly! I better make my way to ^orange;<next.coordinate.name>^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/shipBounty/dialog/beamout/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've been spotted - time to fly! I better make my way to ^orange;<next.coordinate.systemName>^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/disguise/clues/diversion/dialog/interact/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've seen that vagabond you're looking for - I got an eye for wrongdoers. I hear they've been hanging around ^orange;<next.coordinate.name>^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/shipBounty/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mighty convenient that the target told us where they're goin'! You'd better make your way on over to ^green;<next.coordinate.systemName>^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/planetBounty/dialog/beamout/apex/default/0",
+        "/beamout/clues/scan/dialog/beamout/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "My position is compromised - beam me out, <randomName>! Where? To ^orange;<next.coordinate.name>^reset;, of course!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/shipBounty/dialog/beamout/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "My position is compromised - beam me out, <randomName>! Where? To ^orange;<next.coordinate.systemName>^reset;, of course!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/planetBounty/dialog/beamout/default/default/1",
+        "/beamout/clues/scan/dialog/beamout/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Peacekeepers are here! I better make my way to ^orange;<next.coordinate.name>^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/shipBounty/dialog/beamout/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Peacekeepers are here! I better make my way to ^orange;<next.coordinate.systemName>^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/planetBounty/dialog/beamout/hylotl/default/0",
+        "/beamout/clues/scan/dialog/beamout/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "They have found me - beam me out, <randomName>! Where? To ^orange;<next.coordinate.name>^reset;, of course!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/shipBounty/dialog/beamout/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "They have found me - beam me out, <randomName>! Where? To ^orange;<next.coordinate.systemName>^reset;, of course!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/planetBounty/dialog/beamout/floran/default/0",
+        "/beamout/clues/scan/dialog/beamout/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Time for Floran to essscape to ^orange;<next.coordinate.name>^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/shipBounty/dialog/beamout/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Time for Floran to essscape to ^orange;<next.coordinate.systemName>^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/planetBounty/dialog/beamout/hylotl/default/1",
+        "/beamout/clues/scan/dialog/beamout/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uh-oh, I've been spotted! better make my way to ^orange;<next.coordinate.name>^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/shipBounty/dialog/beamout/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uh-oh, I've been spotted! better make my way to ^orange;<next.coordinate.systemName>^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/beamout/clues/planetBounty/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "Well, I guess they just told us exactly where they're goin'. You'd better make your way on over to ^green;<next.coordinate.name>^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/disguise/clues/diversion/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "What a helpful member of the galactic public! Looks like you have your next destination - ^orange;<next.coordinate.name>^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/disguise/clues/diversion/dialog/interact/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're lookin' for <bounty.name>? I've heard o' them! From what I hear, you might see them around ^orange;<next.coordinate.name>^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/disguise/clues/diversion/dialog/interact/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're looking for <bounty.name>? I hear they've been hanging around ^orange;<next.coordinate.name>^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/disguise/clues/diversion/dialog/interact/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're looking for <bounty.name>? I may know of their whereabouts! From what I am told, you might see them around ^orange;<next.coordinate.name>^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/disguise/clues/diversion/dialog/interact/apex/default/2",
+        "/disguise/clues/diversion/dialog/interact/avian/default/2",
+        "/disguise/clues/diversion/dialog/interact/default/default/2",
+        "/disguise/clues/diversion/dialog/interact/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're looking for <bounty.name>? I've heard of them! From what I am told, you might see them around ^orange;<next.coordinate.name>^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_bounties.config": [
+        "/disguise/clues/diversion/dialog/interact/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're looking for the infamous and attractive <bounty.name>? I hear they've been hanging around ^orange;<next.coordinate.name>^reset;."
+    }
+  }
+]

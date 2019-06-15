@@ -120,7 +120,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Жизнь, похожая на вашу, была потрачена не на любознательность."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/hylotl/apex/18"
@@ -128,7 +130,7 @@
     },
     "Texts": {
       "Eng": "A life like yours would be wasted on the uninquisitive.",
-      "Rus": ""
+      "Rus": "Жизнь, подобная твоей, возможно, была потрачена на нелюбознательное."
     }
   },
   {
@@ -6754,20 +6756,6 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Как жизнь?"
-    ],
-    "Files": {
-      "dialog/converse.config": [
-        "/greeting/novakid/default/3"
-      ]
-    },
-    "Texts": {
-      "Eng": "Howdy there!",
-      "Rus": "Здорово!"
-    }
-  },
-  {
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
@@ -12079,7 +12067,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " Отстаааань!"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/glitch/generic/59/glitchEmotedText"
@@ -16627,7 +16617,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " Что ты здесь делаешь?"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/glitch/generic/38/glitchEmotedText"
@@ -17083,8 +17075,8 @@
   },
   {
     "DeniedAlternatives": [
-      "На каком растении вы созреваете?",
-      "Из какого растения вы появляетесь на свет?"
+      "Из какого растения вы появляетесь на свет?",
+      "На каком растении вы созреваете?"
     ],
     "Files": {
       "dialog/converse.config": [

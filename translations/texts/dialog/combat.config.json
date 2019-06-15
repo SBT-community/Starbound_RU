@@ -581,18 +581,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
-        "/reattack/floran/default/3"
-      ]
-    },
-    "Texts": {
-      "Eng": "Floran will ssstop you this time!",
-      "Rus": "На этот раз, Флоран тебя оссстановит!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
         "/killedTarget/floran/default/3"
       ]
     },
@@ -1116,18 +1104,6 @@
     "Texts": {
       "Eng": "I will take revenge for my ancestors!",
       "Rus": "Я отомщу за своих предков!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
-        "/outOfSight/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I'll just wait here 'til you come back.",
-      "Rus": "Я просто подожду, пока ты вернешься."
     }
   },
   {
@@ -1662,18 +1638,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
-        "/outOfSight/default/default/1"
-      ]
-    },
-    "Texts": {
-      "Eng": "They're getting away!",
-      "Rus": "Они убегаю!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
         "/cantReach/floran/default/0"
       ]
     },
@@ -1692,18 +1656,6 @@
     "Texts": {
       "Eng": "This ain't my first rodeo!",
       "Rus": "Это не первое моё родео!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
-        "/reattack/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This time you will not escape.",
-      "Rus": "Теперь ты не уйдешь!"
     }
   },
   {
@@ -1995,7 +1947,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " Почему враг ещё не мёртв?"
+    ],
     "Files": {
       "dialog/combat.config": [
         "/cheerOn/glitch/default/3/glitchEmotedText"
@@ -2069,18 +2023,6 @@
     "Texts": {
       "Eng": "Yes!",
       "Rus": "Да! Вот так!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
-        "/reattack/default/default/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "You again!",
-      "Rus": "Снова ты!"
     }
   },
   {

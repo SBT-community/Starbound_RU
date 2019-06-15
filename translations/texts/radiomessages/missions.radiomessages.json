@@ -3,12 +3,34 @@
     "DeniedAlternatives": [],
     "Files": {
       "radiomessages/missions.radiomessages": [
+        "/cultistmission04a/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fridge! I wonder what bad guyss eat for breakfast?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/missions.radiomessages": [
         "/lunarbase01/text"
       ]
     },
     "Texts": {
       "Eng": "All life readings emanate from a great depth below the surface. The readings are... Difficult to define. Congratulations in advance for your courage.",
       "Rus": "Все показатели живой активности указывают на что-то глубоко под поверхностью. Трудно определить... Заранее поздравляю тебя за твоё мужество."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/missions.radiomessages": [
+        "/cultistmission04b/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amused. Perhaps they eat... Bad apples? Ho ho! My wit is impeccable!"
     }
   },
   {
@@ -87,6 +109,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "radiomessages/missions.radiomessages": [
+        "/cultistmission09a/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't keep me waiting, \"Protector\"."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/missions.radiomessages": [
         "/tentaclemission-destruction3/text"
       ]
     },
@@ -140,6 +173,10 @@
         "/apexmission06/senderName",
         "/apexmission06a/senderName",
         "/avianmission01/senderName",
+        "/cultistmission01a/senderName",
+        "/cultistmission01c/senderName",
+        "/cultistmission07/senderName",
+        "/cultistmission09b/senderName",
         "/floranmission103/senderName",
         "/floranmission104/senderName",
         "/glitchmission01/senderName",
@@ -233,6 +270,28 @@
     }
   },
   {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/missions.radiomessages": [
+        "/cultistmission08/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't like the look of any of this, partner."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/missions.radiomessages": [
+        "/cultistmission09b/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I think this is it, dear. I hope you're ready..."
+    }
+  },
+  {
     "DeniedAlternatives": [
       "Я слышал об этих культистах, но я знаю о них совсем немного... Интересно... Но кто знает?"
     ],
@@ -262,12 +321,45 @@
     "DeniedAlternatives": [],
     "Files": {
       "radiomessages/missions.radiomessages": [
+        "/cultistmission03c/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. Despite their deeds, these loathsome cultists at least know how to keep a privy chamber spotless! Ha ha!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/missions.radiomessages": [
+        "/cultistmission01b/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is that the legendary Esther Bright on your communication line, partner?! Ma'm, it is an honour to meet you!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/missions.radiomessages": [
         "/lunarbase02/text"
       ]
     },
     "Texts": {
       "Eng": "It appears lockdown has been instigated. You must locate a breaker to restore full power. Please proceed with caution in conditions of low light.",
       "Rus": "Сработала защита. Тебе нужно найти способ отключить её и восстановить подачу энергии. Пожалуйста, будь осторожен в темноте."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/missions.radiomessages": [
+        "/cultistmission03a/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "It is fortunate that our enemy's flying fortress has such weak security protocols."
     }
   },
   {
@@ -286,6 +378,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "radiomessages/missions.radiomessages": [
+        "/cultistmission02/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "It looks like you can, um, summon your mech with this platform. That should be useful in your current excursion."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/missions.radiomessages": [
         "/tentaclemission-destruction2/text"
       ]
     },
@@ -298,12 +401,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "radiomessages/missions.radiomessages": [
+        "/cultistmission03a/senderName",
         "/tentaclemission-arrived3/senderName"
       ]
     },
     "Texts": {
       "Eng": "Lana Blake",
       "Rus": "Лана Блэйк"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/missions.radiomessages": [
+        "/cultistmission03b/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let's see your mighty fine hackin' skills, partner!"
     }
   },
   {
@@ -352,6 +467,28 @@
     "Texts": {
       "Eng": "My scanners have just detected another guard... And another one.",
       "Rus": "Мои сканеры засекли ещё одного охранника... И ещё одного."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/missions.radiomessages": [
+        "/cultistmission07/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oh Asra, when will your obsession with the Ruin end?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/missions.radiomessages": [
+        "/cultistmission06b/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oh. It's ^orange;you^white;."
     }
   },
   {
@@ -430,6 +567,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "radiomessages/missions.radiomessages": [
+        "/cultistmission01a/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "So you've found her... You've found Asra."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/missions.radiomessages": [
         "/lunarbase04a/text"
       ]
     },
@@ -448,6 +596,17 @@
     "Texts": {
       "Eng": "That woman... Her voice... Could it be, after all this time?",
       "Rus": "Эта женщина... Её голос... Может ли это быть, после стольких лет?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/missions.radiomessages": [
+        "/cultistmission01c/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The pleasure is all mine, dear!"
     }
   },
   {
@@ -610,6 +769,28 @@
     "DeniedAlternatives": [],
     "Files": {
       "radiomessages/missions.radiomessages": [
+        "/cultistmission06a/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Whose communication channel is this?! Why are you aboard the Dantalion?!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/missions.radiomessages": [
+        "/cultistmission05b/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why, it's big enough to rival the greatest of Kluex's divine temples!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/missions.radiomessages": [
         "/hylotlmission03/text"
       ]
     },
@@ -640,6 +821,17 @@
     "Texts": {
       "Eng": "You have to AVOID it! You can't sstab it! You can't shoot it! You just have to sskulk around and hope it doesn't notice you.",
       "Rus": "Вы должны ОБОЙТИ это! Не бейте и не стреляйте! Вам нужно незаметно прокрасться и надеяться, что оно вас не заметит."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/missions.radiomessages": [
+        "/cultistmission05a/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're makin' good progress, partner. This ship sure is vast, ain't it?"
     }
   },
   {

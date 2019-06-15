@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/bounty/ignobletarget.npctype": [
+        "/scriptConfig/dialog/killedTarget/default/default/0"
+      ],
+      "npcs/bounty/nobleclue.npctype": [
+        "/scriptConfig/dialog/killedTarget/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "<entityname>...? Uh-oh..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/bounty/ignobletarget.npctype": [
+        "/scriptConfig/dialog/lostTarget/default/default/0"
+      ],
+      "npcs/bounty/nobleclue.npctype": [
+        "/scriptConfig/dialog/lostTarget/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Running away is not an advisable strategy, partner!"
+    }
+  }
+]

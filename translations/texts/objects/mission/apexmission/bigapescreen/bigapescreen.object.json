@@ -10,5 +10,38 @@
       "Eng": "Ape Monitor",
       "Rus": "Монитор Эйпа"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/apexmission/bigapescreen/bigapescreen.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran thinksss ssso-called 'big' ape not so big."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/apexmission/bigapescreen/bigapescreen.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These video clips contain numerous subliminal messages."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/apexmission/bigapescreen/bigapescreen.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This screen displays a variety of propaganda messages from Big Ape."
+    }
   }
 ]

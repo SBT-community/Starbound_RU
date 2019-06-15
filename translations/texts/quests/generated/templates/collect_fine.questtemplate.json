@@ -236,7 +236,7 @@
     },
     "Texts": {
       "Eng": "I failed to get compensation from <target> for <target.pronoun.possessiveDet> actions. I guess crime does pay, after all.",
-      "Rus": ""
+      "Rus": "У меня не вышло получить компенсацию от <target.accusative> за <target.pronoun.reflexive> действия. Видимо преступления стоят того, чтобы их совершать."
     }
   },
   {
@@ -248,7 +248,7 @@
     },
     "Texts": {
       "Eng": "I have heard that ^orange;<target>^white; has been caught commiting a crime! I won't let this pass - ^green;Deliver this ^orange;crime notice^green; to <target.pronoun.object>^white; and ^green;take <target.pronoun.possessiveDet> ^orange;<item>^white; as compensation.",
-      "Rus": ""
+      "Rus": "Я слышал<questGiver.pronoun.verbEnding>, что ^orange;<target.accusative>^white; поймали с поличным! Я этого так не оставлю! ^green;Доставь <target.pronoun.object> эту ^orange;повестку ^white; и ^green;забери <target.pronoun.reflexive> ^orange;<item.accusative> ^white;в качестве компенсации."
     }
   },
   {
@@ -260,7 +260,7 @@
     },
     "Texts": {
       "Eng": "I need you to do something else for me - upholding the law is quite important and all, but so are lunch breaks. ^orange;<target>^white; owes a fine - will you ^green;deliver this ^orange;notice^green; to <target.pronoun.object>^white; and ^green;take <target.pronoun.possessiveDet> ^orange;<item>^white; as payment of damages?",
-      "Rus": ""
+      "Rus": "Я хочу, чтобы ты ещё кое-что сделал<player.pronoun.verbEnding> для меня.  Поддерживать порядок крайне важно и всё такое... но обед по расписанию. ^orange;<target>^white; затянул<target.pronoun.verbEnding> с оплатой штрафа, так что не ^green;доставишь ли <target.pronoun.object> это ^orange;уведомление ^white; и не ^green;заберёшь <target.pronoun.reflexive> ^orange;<item.accusative> ^white;в качестве компенсации просрочки?"
     }
   },
   {
@@ -272,7 +272,7 @@
     },
     "Texts": {
       "Eng": "I've got plenty of evidence here to prove that ^orange;<target>^white; has been up to no good. ^green;Deliver this ^orange;fine notice^green; to <target.pronoun.object>.^white; <target.pronoun.capitalSubject>'s already agreed to give up <target.pronoun.possessiveDet> ^orange;<item>^white; as payment. ",
-      "Rus": ""
+      "Rus": "У меня есть куча доказательств, что ^orange;<target> ^white;делал нехорошие вещи. ^green;Доставь <target.pronoun.object> это ^orange;уведомление о штрафе. ^white; <target> уже согласил<target.pronoun.verb3Ending> отдать ^orange;<item.accusative> ^white; в качестве оплаты."
     }
   },
   {
@@ -284,7 +284,7 @@
     },
     "Texts": {
       "Eng": "It's time to deliver jussstice to ^orange;<target>! ^green;Deliver this ^orange;crime notice ^white;Floran wrote, and ^green;take one ^orange;<item>^green; as payment.",
-      "Rus": ""
+      "Rus": "Пришло время досставить сссправедливость ^orange;<target.dative>! ^green;Отнеси написанную Флораном ^orange;повестку ^white; и забери orange;<item.accusative> ^green;как плату."
     }
   },
   {
@@ -296,7 +296,7 @@
     },
     "Texts": {
       "Eng": "It's time we get ^orange;<target>^white; to pay for <target.pronoun.possessiveDet> crimes. ^green;Deliver this ^orange;crime notice^green; to <target.pronoun.object>,^white; and take <target.pronoun.possessiveDet> ^orange;<item>^white; as compensation. Hopefully <target.pronoun.subject>'ll behave in future!",
-      "Rus": ""
+      "Rus": "Для <target.accusative> пришло время заплатить за <target.pronoun.reflexive> преступления. ^green;Доставь <target.pronoun.object> эту ^orange;повестку ^white; и забери ^orange;<item.accusative> ^white; в качестве компенсации. Будем надеяться <target> усвоит урок!"
     }
   },
   {
@@ -308,7 +308,7 @@
     },
     "Texts": {
       "Eng": "Jussstice has been served! You're good at this! Will you do one lassst thing for Floran?",
-      "Rus": ""
+      "Rus": "Сссправедливость восстановлена! А ты хорош<player.pronoun.verbEnding> в этом деле! Не поможешь Флорану в последний раз?"
     }
   },
   {
@@ -319,7 +319,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Justice! Perhaps you should be doing this job inssstead of Floran..."
+      "Eng": "Justice! Perhaps you should be doing this job inssstead of Floran...",
+      "Rus": "Справедливость! Может тебе стоит заняться этим вмесссто Флорана..."
     }
   },
   {
@@ -330,7 +331,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Lastly, ^orange;<target>^white; has broken the law and owes a fine. I am far too busy to collect it. Will you ^green;deliver this notice to ^orange;<target>^white; and ^green;collect <target.pronoun.possessiveDet> ^orange;<item>^white; as payment of damages? I would be most grateful."
+      "Eng": "Lastly, ^orange;<target>^white; has broken the law and owes a fine. I am far too busy to collect it. Will you ^green;deliver this notice to ^orange;<target>^white; and ^green;collect <target.pronoun.possessiveDet> ^orange;<item>^white; as payment of damages? I would be most grateful.",
+      "Rus": "Прошлый раз ^orange;<target> ^white;нарушил<target.pronoun.verbEnding> закон и теперь должен заплатить штраф. Я слишком занят<questGiver.pronoun.verbEnding>, чтобы забрать его. ^green;Доставишь эту повестку ^orange;<target.dative> ^white;и ^green;заберёшь <target.pronoun.reflexive> ^orange;<item.accusative> ^white;в качестве компенсации ущерба? Я буду очень благодар<questGiver.pronoun.verb2Ending>."
     }
   },
   {
@@ -341,7 +343,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Lastly, ^orange;<target>^white; owes a fine. ^green;Deliver this ^orange;notice^white; and ^green;collect <target.pronoun.possessiveDet> ^orange;<item>^white; as payment of damages."
+      "Eng": "Lastly, ^orange;<target>^white; owes a fine. ^green;Deliver this ^orange;notice^white; and ^green;collect <target.pronoun.possessiveDet> ^orange;<item>^white; as payment of damages.",
+      "Rus": "И наконец, ^orange;<target> ^white;должен заплатить штраф. ^green;Доставь эту ^orange;повестку ^white;и ^green;забери у н<target.pronoun.reflexive> ^orange;<item.accusative> ^white;в качестве оплаты."
     }
   },
   {
@@ -352,7 +355,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Next on our list involves ^orange;<target>, ^white;<target.pronoun.subject>'s proven <target.pronoun.reflexive> to be quite the lawbreaker. ^green;Deliver this ^orange;notice^green; for damages to <target.pronoun.object>,^white; <target.pronoun.subject>'s already agreed to give <target.pronoun.possessiveDet> ^orange;<item> as compensation."
+      "Eng": "Next on our list involves ^orange;<target>, ^white;<target.pronoun.subject>'s proven <target.pronoun.reflexive> to be quite the lawbreaker. ^green;Deliver this ^orange;notice^green; for damages to <target.pronoun.object>,^white; <target.pronoun.subject>'s already agreed to give <target.pronoun.possessiveDet> ^orange;<item> as compensation.",
+      "Rus": "Следующим в нашем списке числится ^orange;<target>^white;. <target.pronoun.capitalSubject> показал<target.pronoun.verbEnding> , что закон для н<target.pronoun.reflexive> ничего не значит. ^green;Доставь <target.dative> этот ^orange;счёт^green; за убытки.^white; <target.pronoun.capitalSubject> уже согласился отдать ^orange;<item.accusative>^white; в качестве компенсации."
     }
   },
   {
@@ -363,7 +367,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Nice work collecting the fine from <target>! That certainly saved me a lot of hassle."
+      "Eng": "Nice work collecting the fine from <target>! That certainly saved me a lot of hassle.",
+      "Rus": "У тебя отлично получилось взыскать штраф. Это избавило меня от уймы хлопот."
     }
   },
   {
@@ -374,7 +379,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Nice work collecting the fine from <target>. I was a little worried that <target.pronoun.subject>'d try to wriggle out of it. You can keep that <item> as payment."
+      "Eng": "Nice work collecting the fine from <target>. I was a little worried that <target.pronoun.subject>'d try to wriggle out of it. You can keep that <item> as payment.",
+      "Rus": "У тебя отлично получилось взыскать штраф. Я немного беспокоил<questGiver.pronoun.verb3Ending>, что <target> попытается увильнуть от уплаты. Можешь оставить <item.accusative> себе в качестве вознаграждения."
     }
   },
   {
@@ -385,7 +391,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Now, ^orange;<target>^white; owes a fine for being a law breaker. ^green;Will you deliver this ^orange;fine notice?^white; <target.pronoun.capitalSubject>'s agreed to give <target.pronoun.possessiveDet> ^orange;<item>^white; as payment of damages."
+      "Eng": "Now, ^orange;<target>^white; owes a fine for being a law breaker. ^green;Will you deliver this ^orange;fine notice?^white; <target.pronoun.capitalSubject>'s agreed to give <target.pronoun.possessiveDet> ^orange;<item>^white; as payment of damages.",
+      "Rus": "А теперь слушай: ^orange;<target>^white; должен заплатить штраф за нарушение закона. ^green;Не отнесешь <target.pronoun.object> эту ^orange;повестку?^white; <target.pronoun.capitalSubject> согласил<target.pronoun.verb3Ending> отдать  ^orange;<item.accusative>^white; в счёт возмещения ущерба."
     }
   },
   {
@@ -396,7 +403,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Superb law-upholding - You're so good at this! Will you do ssomething else for Floran?"
+      "Eng": "Superb law-upholding - You're so good at this! Will you do ssomething else for Floran?",
+      "Rus": "Превосходное поддержание порядка. У тебя так хорошо получается! Не сссделаешь ещё кое-что для Флорана?"
     }
   },
   {
@@ -407,7 +415,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Thank you for collecting <target>'s fine!  I wasn't sure <target.pronoun.subject>'d follow through with payment if I went myself. Luckily you look like someone <target> wouldn't want to mess with."
+      "Eng": "Thank you for collecting <target>'s fine!  I wasn't sure <target.pronoun.subject>'d follow through with payment if I went myself. Luckily you look like someone <target> wouldn't want to mess with.",
+      "Rus": "Спасибо за взыскание штрафа! Я не был<questGiver.pronoun.verbEnding> уверен<questGiver.pronoun.verbEnding>, что <target> бы выполнил<target.pronoun.verbEnding> обязательство по оплате, если бы я попытал<questGiver.pronoun.verb3Ending> сам<questGiver.pronoun.verbEnding>. К счастью, ты больше похож<player.pronoun.verbEnding> на того, с кем <target.pronoun.object> не хотелось бы связываться."
     }
   },
   {
@@ -418,7 +427,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Thank you for collecting <target>'s fine! I certainly couldn't make time for it, but you seem to have plenty of time on your hands."
+      "Eng": "Thank you for collecting <target>'s fine! I certainly couldn't make time for it, but you seem to have plenty of time on your hands.",
+      "Rus": "Спасибо за взыскание штрафа! Я никак не мог<questGiver.pronoun.verb4Ending> найти на это времени, а ты, похоже, обладаешь огромным его запасом."
     }
   },
   {
@@ -429,7 +439,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Thank you for helping teach <target> that there's consequences to <target.pronoun.possessiveDet> actions! I can see a few uses for this <item> already."
+      "Eng": "Thank you for helping teach <target> that there's consequences to <target.pronoun.possessiveDet> actions! I can see a few uses for this <item> already.",
+      "Rus": "Спасибо, что помог<player.pronoun.verb4Ending> научить <target.accusative> тому, что каждое <target.pronoun.reflexive> действие приводит к последствиям! И я уже придумал<questGiver.pronoun.verbEnding> пару применений <target.pronoun.reflexive>  <item.dative>."
     }
   },
   {
@@ -440,7 +451,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Thank you for helping teach <target> that there's consequences to <target.pronoun.possessiveDet> actions. This <item> will come in useful, too."
+      "Eng": "Thank you for helping teach <target> that there's consequences to <target.pronoun.possessiveDet> actions. This <item> will come in useful, too.",
+      "Rus": "Спасибо, что помог<player.pronoun.verb4Ending> научить <target.accusative> тому, что каждое <target.pronoun.reflexive> действие приводит к последствиям! И <item> мне тоже пригодится."
     }
   },
   {
@@ -451,7 +463,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Thank you for teaching <target> a lesson. I hope <target.pronoun.subject> realises that nobody is above the law. You can keep the <item>. You've earned it."
+      "Eng": "Thank you for teaching <target> a lesson. I hope <target.pronoun.subject> realises that nobody is above the law. You can keep the <item>. You've earned it.",
+      "Rus": "Спасибо, что преподал урок <target.dative>. Надеюсь <target.pronoun.subject> теперь понимает, что все равны перед законом. Можешь оставить себе <item.accusative>. Ты <item.pronoun.reflexive> заслужил<player.pronoun.verbEnding>."
     }
   },
   {
@@ -462,7 +475,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Thank you for teaching <target> a lesson. You can keep that <item>, you've earned it."
+      "Eng": "Thank you for teaching <target> a lesson. You can keep that <item>, you've earned it.",
+      "Rus": "Спасибо, что проучил <target.accusative>. Можешь оставить себе <item.accusative>. Ты <item.pronoun.reflexive> заслужил<player.pronoun.verbEnding>."
     }
   },
   {
@@ -473,7 +487,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Thank you for teaching <target> that we follow rules around here, even if those rules are vague and not actually written down anywhere. Keep that <item> too, if you like."
+      "Eng": "Thank you for teaching <target> that we follow rules around here, even if those rules are vague and not actually written down anywhere. Keep that <item> too, if you like.",
+      "Rus": "Спасибо, что показал <target.dative>, что тут принято следовать правилам, даже если эти правила расплывчаты и нигде не записаны. Возьми <item.accusative> себе, если хочешь."
     }
   },
   {
@@ -484,7 +499,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Thanks for your help! <target> should realise that we have to follow the rules around here. You can keep that <item> if you like."
+      "Eng": "Thanks for your help! <target> should realise that we have to follow the rules around here. You can keep that <item> if you like.",
+      "Rus": "Спасибо за помощь! <target> теперь поймёт, что тут принято следовать правилам. Возьми <item.accusative> себе, если хочешь."
     }
   },
   {
@@ -495,7 +511,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Thanks! Hopefully <target> will ssstay nice from now on. This <item> might also be helpful for Floran..."
+      "Eng": "Thanks! Hopefully <target> will ssstay nice from now on. This <item> might also be helpful for Floran...",
+      "Rus": "Спасибо! Будем надеяться, <target> теперь ссстанет хорошим. <item> тоже может пригодиться Флорану..."
     }
   },
   {
@@ -506,7 +523,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Thankss for your help! You can keep that <item>, Floran doesn't need it."
+      "Eng": "Thankss for your help! You can keep that <item>, Floran doesn't need it.",
+      "Rus": "Спасибо за помощь! Забери <item.accusative>, Флорану <item.pronoun.subject> не нужен."
     }
   },
   {
@@ -517,18 +535,22 @@
       ]
     },
     "Texts": {
-      "Eng": "That was ssssome great law-upholding! You should do this more often."
+      "Eng": "That was ssssome great law-upholding! You should do this more often.",
+      "Rus": "Ты отлично следишь за порядком! Тебе стоит заниматься этим почаще."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Первый пункт нашей повестки включает ^orange;<target>^white;. Появились неопровержимые доказательства, что <target.pronoun.subject> - весьма тёмная личность. ^green;Доставь это ^orange;постановление о штрафе^green; и изыми <target.pronoun.capitalReflexive> ^orange;<item.accusative>^white; в качестве оплаты."
+    ],
     "Files": {
       "quests/generated/templates/collect_fine.questtemplate": [
         "/scriptConfig/generatedText/text/first/default/1"
       ]
     },
     "Texts": {
-      "Eng": "The first thing on our agenda involves ^orange;<target>^white;. Certain evidence has come to light that <target.pronoun.subject>'s a pretty shady individual. ^green;Deliver this ^orange;fine notice^green; and collect <target.pronoun.possessiveDet> ^orange;<item>^white; as payment."
+      "Eng": "The first thing on our agenda involves ^orange;<target>^white;. Certain evidence has come to light that <target.pronoun.subject>'s a pretty shady individual. ^green;Deliver this ^orange;fine notice^green; and collect <target.pronoun.possessiveDet> ^orange;<item>^white; as payment.",
+      "Rus": "Первый пункт нашей повестки включает ^orange;<target.accusative>^white;. Появились неопровержимые доказательства, что <target.pronoun.subject> - весьма тёмная личность. ^green;Доставь это ^orange;постановление о штрафе^green; и изыми <target.pronoun.capitalReflexive> ^orange;<item.accusative>^white; в качестве оплаты."
     }
   },
   {
@@ -539,7 +561,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Well done collecting the fine from <target>! That's one more thing I can cross off my to-do list. Do you think you could do something else for me?"
+      "Eng": "Well done collecting the fine from <target>! That's one more thing I can cross off my to-do list. Do you think you could do something else for me?",
+      "Rus": "Отлично проведённое изъятие! Ещё один пункт можно вычеркнуть из моего списка дел. Может ты сможешь помочь мне ещё кое-с-чем? Как думаешь?"
     }
   },
   {
@@ -550,7 +573,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Well done collecting the fine from <target>! This <item> will do nicely. Do you think you could do something else for me?"
+      "Eng": "Well done collecting the fine from <target>! This <item> will do nicely. Do you think you could do something else for me?",
+      "Rus": "Отлично проведённое изъятие! И <item.dative> тоже найдётся применение. Может ты сможешь помочь мне ещё кое-с-чем? Как думаешь?"
     }
   },
   {
@@ -561,7 +585,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You collected the fine from <target>! That's one more thing I can cross off my to-do list!"
+      "Eng": "You collected the fine from <target>! That's one more thing I can cross off my to-do list!",
+      "Rus": "Ты получил<player.pronoun.verbEnding> оплату штрафа! Ещё один пункт можно вычеркнуть из моего списка дел."
     }
   },
   {
@@ -572,7 +597,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You did a good job! Keep the <item> as payment for your services. I just wanted to show <target> that nobody is above the law."
+      "Eng": "You did a good job! Keep the <item> as payment for your services. I just wanted to show <target> that nobody is above the law.",
+      "Rus": "Отличная работа! Оставь <item.accusative> себе в качестве платы за твои услуги. Я просто хотел<questGiver.pronoun.verbEnding> показать <target.dative>, что все равны перед законом."
     }
   },
   {
@@ -583,7 +609,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You wouldn't happen to be busy, would you? ^orange;<target>^white; has broken the law and owes a fine. Will you ^green;deliver this ^orange;notice^green; to <target.pronoun.object>^white; and ^green;collect <target.pronoun.possessiveDet> ^orange;<item>^white; as payment? I would do it myself, but I... Don't want to."
+      "Eng": "You wouldn't happen to be busy, would you? ^orange;<target>^white; has broken the law and owes a fine. Will you ^green;deliver this ^orange;notice^green; to <target.pronoun.object>^white; and ^green;collect <target.pronoun.possessiveDet> ^orange;<item>^white; as payment? I would do it myself, but I... Don't want to.",
+      "Rus": ""
     }
   },
   {
@@ -594,7 +621,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;<target> has been causing a nuisance around here lately - It's time I set <target.pronoun.object> straight."
+      "Eng": "^cyan;<target> has been causing a nuisance around here lately - It's time I set <target.pronoun.object> straight.",
+      "Rus": ""
     }
   },
   {
@@ -605,7 +633,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Help Floran deliver jusstice to <target>!"
+      "Eng": "^cyan;Help Floran deliver jusstice to <target>!",
+      "Rus": ""
     }
   },
   {
@@ -616,7 +645,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Make <target> pay for breaking rulesss!"
+      "Eng": "^cyan;Make <target> pay for breaking rulesss!",
+      "Rus": ""
     }
   },
   {
@@ -627,7 +657,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Obsessive. Will you help me bring <target> to justice? I have a plan..."
+      "Eng": "^cyan;Obsessive. Will you help me bring <target> to justice? I have a plan...",
+      "Rus": ""
     }
   },
   {
@@ -638,7 +669,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Vague. Apparently <target> has been breaking rules... I suppose we should mete out some justice."
+      "Eng": "^cyan;Vague. Apparently <target> has been breaking rules... I suppose we should mete out some justice.",
+      "Rus": ""
     }
   },
   {
@@ -649,7 +681,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;You look like you can handle yourself. Will you help me bring <target> to justice? "
+      "Eng": "^cyan;You look like you can handle yourself. Will you help me bring <target> to justice? ",
+      "Rus": ""
     }
   },
   {
@@ -660,7 +693,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;Deliver this ^orange;crime notice^green; to ^orange;<target>^white;. <target.pronoun.capitalSubject>'s agreed to give <target.pronoun.possessiveDet> ^orange;<item>^white; as compensation for <target.pronoun.possessiveDet> behaviour."
+      "Eng": "^green;Deliver this ^orange;crime notice^green; to ^orange;<target>^white;. <target.pronoun.capitalSubject>'s agreed to give <target.pronoun.possessiveDet> ^orange;<item>^white; as compensation for <target.pronoun.possessiveDet> behaviour.",
+      "Rus": ""
     }
   },
   {
@@ -671,7 +705,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;I need you to take this ^orange;fine notice^white; to ^orange;<target>^white;. <target.pronoun.capitalSubject>'s already agreed to give up <target.pronoun.possessiveDet> ^orange;<item>^white; as payment of damages."
+      "Eng": "^green;I need you to take this ^orange;fine notice^white; to ^orange;<target>^white;. <target.pronoun.capitalSubject>'s already agreed to give up <target.pronoun.possessiveDet> ^orange;<item>^white; as payment of damages.",
+      "Rus": ""
     }
   },
   {
@@ -682,7 +717,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^orange;<target>^white; has been up to some unethical business, and I wish to teach <target.pronoun.object> a lesson. ^green;Deliver this ^orange;crime notice^white; to <target.pronoun.object>,^white; and ^green;take <target.pronoun.possessiveDet> ^orange;<item>^white; as compensation for <target.pronoun.possessiveDet> behaviour. Hopefully <target.pronoun.subject>'ll learn!"
+      "Eng": "^orange;<target>^white; has been up to some unethical business, and I wish to teach <target.pronoun.object> a lesson. ^green;Deliver this ^orange;crime notice^white; to <target.pronoun.object>,^white; and ^green;take <target.pronoun.possessiveDet> ^orange;<item>^white; as compensation for <target.pronoun.possessiveDet> behaviour. Hopefully <target.pronoun.subject>'ll learn!",
+      "Rus": ""
     }
   },
   {
@@ -693,7 +729,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^orange;<target>^white; has committed a crime and owes a fine. Will you ^green;deliver this ^orange;notice^green; to <target.pronoun.object>^white; and ^green;take <target.pronoun.possessiveDet> ^orange;<item>^white; as payment of damages? It is a trivial task and I'm far too busy for it."
+      "Eng": "^orange;<target>^white; has committed a crime and owes a fine. Will you ^green;deliver this ^orange;notice^green; to <target.pronoun.object>^white; and ^green;take <target.pronoun.possessiveDet> ^orange;<item>^white; as payment of damages? It is a trivial task and I'm far too busy for it.",
+      "Rus": ""
     }
   },
   {
@@ -704,7 +741,8 @@
       ]
     },
     "Texts": {
-      "Eng": "being a jerk"
+      "Eng": "being a jerk",
+      "Rus": ""
     }
   },
   {
@@ -715,7 +753,8 @@
       ]
     },
     "Texts": {
-      "Eng": "disturbing the peace"
+      "Eng": "disturbing the peace",
+      "Rus": ""
     }
   },
   {
@@ -726,7 +765,8 @@
       ]
     },
     "Texts": {
-      "Eng": "intrusion"
+      "Eng": "intrusion",
+      "Rus": ""
     }
   },
   {
@@ -737,7 +777,8 @@
       ]
     },
     "Texts": {
-      "Eng": "malicious behaviour"
+      "Eng": "malicious behaviour",
+      "Rus": ""
     }
   },
   {
@@ -748,7 +789,8 @@
       ]
     },
     "Texts": {
-      "Eng": "petty theft"
+      "Eng": "petty theft",
+      "Rus": ""
     }
   },
   {
@@ -759,7 +801,8 @@
       ]
     },
     "Texts": {
-      "Eng": "spoiling the fun"
+      "Eng": "spoiling the fun",
+      "Rus": ""
     }
   },
   {
@@ -770,7 +813,8 @@
       ]
     },
     "Texts": {
-      "Eng": "unfriendly behaviour"
+      "Eng": "unfriendly behaviour",
+      "Rus": ""
     }
   },
   {
@@ -781,7 +825,8 @@
       ]
     },
     "Texts": {
-      "Eng": "upsetting others"
+      "Eng": "upsetting others",
+      "Rus": ""
     }
   }
 ]

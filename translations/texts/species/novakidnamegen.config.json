@@ -212,19 +212,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/18"
-      ]
-    },
-    "Texts": {
-      "Eng": "Blue",
-      "Rus": "Блю"
-    }
-  },
-  {
-    "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
-    "Files": {
-      "species/novakidnamegen.config": [
         "/names/1/1/19"
       ]
     },
@@ -1106,23 +1093,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Лезер"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
         "/names/1/1/92"
-      ]
-    },
-    "Texts": {
-      "Eng": "Leather",
-      "Rus": "Лезер"
-    }
-  },
-  {
-    "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
-    "Files": {
-      "species/novakidnamegen.config": [
-        "/names/1/1/93"
       ]
     },
     "Texts": {
@@ -1135,20 +1111,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/95"
+        "/names/1/1/94"
       ]
     },
     "Texts": {
-      "Eng": "Lex",
-      "Rus": "Лекс"
+      "Eng": "Lex"
     }
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Лекс"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/96"
+        "/names/1/1/95"
       ]
     },
     "Texts": {
@@ -1158,10 +1135,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Либра"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/97"
+        "/names/1/1/96"
       ]
     },
     "Texts": {
@@ -1171,23 +1150,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Лаки"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
         "/names/1/1/98"
-      ]
-    },
-    "Texts": {
-      "Eng": "Lucky",
-      "Rus": "Лаки"
-    }
-  },
-  {
-    "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
-    "Files": {
-      "species/novakidnamegen.config": [
-        "/names/1/1/99"
       ]
     },
     "Texts": {
@@ -1197,10 +1165,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Люмен"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/100"
+        "/names/1/1/99"
       ]
     },
     "Texts": {
@@ -1213,20 +1183,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/102"
+        "/names/1/1/101"
       ]
     },
     "Texts": {
-      "Eng": "Magie",
-      "Rus": "Мэги"
+      "Eng": "Magie"
     }
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Мэги"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/103"
+        "/names/1/1/102"
       ]
     },
     "Texts": {
@@ -1236,10 +1207,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Маршалл"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/104"
+        "/names/1/1/103"
       ]
     },
     "Texts": {
@@ -1249,10 +1222,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Мерка"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/105"
+        "/names/1/1/104"
       ]
     },
     "Texts": {
@@ -1262,10 +1237,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Мета"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/106"
+        "/names/1/1/105"
       ]
     },
     "Texts": {
@@ -1275,10 +1252,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Метан"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/107"
+        "/names/1/1/106"
       ]
     },
     "Texts": {
@@ -1288,10 +1267,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Метокс"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/108"
+        "/names/1/1/107"
       ]
     },
     "Texts": {
@@ -1301,10 +1282,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Метил"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/109"
+        "/names/1/1/108"
       ]
     },
     "Texts": {
@@ -1314,10 +1297,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Милли"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/110"
+        "/names/1/1/109"
       ]
     },
     "Texts": {
@@ -1330,20 +1315,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/112"
+        "/names/1/1/111"
       ]
     },
     "Texts": {
-      "Eng": "Naptha",
-      "Rus": "Напта"
+      "Eng": "Naptha"
     }
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Напта"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/113"
+        "/names/1/1/112"
       ]
     },
     "Texts": {
@@ -1353,10 +1339,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Неон"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/114"
+        "/names/1/1/113"
       ]
     },
     "Texts": {
@@ -1366,10 +1354,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Нитрик"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/115"
+        "/names/1/1/114"
       ]
     },
     "Texts": {
@@ -1379,10 +1369,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Нитро"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/116"
+        "/names/1/1/115"
       ]
     },
     "Texts": {
@@ -1392,10 +1384,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Нонан"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/117"
+        "/names/1/1/116"
       ]
     },
     "Texts": {
@@ -1405,10 +1399,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Октан"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/118"
+        "/names/1/1/117"
       ]
     },
     "Texts": {
@@ -1418,10 +1414,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Октил"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/119"
+        "/names/1/1/118"
       ]
     },
     "Texts": {
@@ -1431,10 +1429,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Орио"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/120"
+        "/names/1/1/119"
       ]
     },
     "Texts": {
@@ -1444,10 +1444,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Окси"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/121"
+        "/names/1/1/120"
       ]
     },
     "Texts": {
@@ -1457,10 +1459,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Пентан"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/122"
+        "/names/1/1/121"
       ]
     },
     "Texts": {
@@ -1470,10 +1474,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Перч"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/123"
+        "/names/1/1/122"
       ]
     },
     "Texts": {
@@ -1486,20 +1492,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/125"
+        "/names/1/1/124"
       ]
     },
     "Texts": {
-      "Eng": "Pheno",
-      "Rus": "Фено"
+      "Eng": "Pheno"
     }
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Фено"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/126"
+        "/names/1/1/125"
       ]
     },
     "Texts": {
@@ -1509,10 +1516,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Фенил"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/127"
+        "/names/1/1/126"
       ]
     },
     "Texts": {
@@ -1522,10 +1531,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Пинен"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/128"
+        "/names/1/1/127"
       ]
     },
     "Texts": {
@@ -1535,10 +1546,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Пистол"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/129"
+        "/names/1/1/128"
       ]
     },
     "Texts": {
@@ -1548,10 +1561,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Пропан"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/130"
+        "/names/1/1/129"
       ]
     },
     "Texts": {
@@ -1561,10 +1576,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Пропил"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/131"
+        "/names/1/1/130"
       ]
     },
     "Texts": {
@@ -1574,10 +1591,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Кварк"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/132"
+        "/names/1/1/131"
       ]
     },
     "Texts": {
@@ -1587,10 +1606,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Рэнди"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/134"
+        "/names/1/1/133"
       ]
     },
     "Texts": {
@@ -1600,10 +1621,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Куоррен"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/133"
+        "/names/1/1/132"
       ]
     },
     "Texts": {
@@ -1613,23 +1636,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Рэвен"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
         "/names/1/1/135"
-      ]
-    },
-    "Texts": {
-      "Eng": "Raven",
-      "Rus": "Рэвен"
-    }
-  },
-  {
-    "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
-    "Files": {
-      "species/novakidnamegen.config": [
-        "/names/1/1/136"
       ]
     },
     "Texts": {
@@ -1639,10 +1651,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Рэйзор"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/137"
+        "/names/1/1/136"
       ]
     },
     "Texts": {
@@ -1652,10 +1666,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Рэд"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/138"
+        "/names/1/1/137"
       ]
     },
     "Texts": {
@@ -1665,23 +1681,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Руби"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
         "/names/1/1/139"
-      ]
-    },
-    "Texts": {
-      "Eng": "Ruby",
-      "Rus": "Руби"
-    }
-  },
-  {
-    "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
-    "Files": {
-      "species/novakidnamegen.config": [
-        "/names/1/1/140"
       ]
     },
     "Texts": {
@@ -1691,10 +1696,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Раш"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/141"
+        "/names/1/1/140"
       ]
     },
     "Texts": {
@@ -1704,10 +1711,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Райдер"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/142"
+        "/names/1/1/141"
       ]
     },
     "Texts": {
@@ -1717,10 +1726,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Сэддл"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/143"
+        "/names/1/1/142"
       ]
     },
     "Texts": {
@@ -1730,10 +1741,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Сойер"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/144"
+        "/names/1/1/143"
       ]
     },
     "Texts": {
@@ -1743,10 +1756,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Стайр"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/153"
+        "/names/1/1/152"
       ]
     },
     "Texts": {
@@ -1759,33 +1774,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/149"
+        "/names/1/1/148"
       ]
     },
     "Texts": {
-      "Eng": "Smokey",
-      "Rus": "Смоки"
+      "Eng": "Smokey"
     }
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Спайк"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
         "/names/1/1/151"
-      ]
-    },
-    "Texts": {
-      "Eng": "Spike",
-      "Rus": "Спайк"
-    }
-  },
-  {
-    "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
-    "Files": {
-      "species/novakidnamegen.config": [
-        "/names/1/1/152"
       ]
     },
     "Texts": {
@@ -1795,10 +1798,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Слэнг"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/154"
+        "/names/1/1/153"
       ]
     },
     "Texts": {
@@ -1808,10 +1813,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Таргет"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/155"
+        "/names/1/1/154"
       ]
     },
     "Texts": {
@@ -1821,10 +1828,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Тил"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/156"
+        "/names/1/1/155"
       ]
     },
     "Texts": {
@@ -1834,23 +1843,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Тесла"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
         "/names/1/1/157"
-      ]
-    },
-    "Texts": {
-      "Eng": "Tesla",
-      "Rus": "Тесла"
-    }
-  },
-  {
-    "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
-    "Files": {
-      "species/novakidnamegen.config": [
-        "/names/1/1/158"
       ]
     },
     "Texts": {
@@ -1860,10 +1858,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Тетра"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/159"
+        "/names/1/1/158"
       ]
     },
     "Texts": {
@@ -1873,10 +1873,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Топпер"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/160"
+        "/names/1/1/159"
       ]
     },
     "Texts": {
@@ -1886,10 +1888,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Триггер"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/161"
+        "/names/1/1/160"
       ]
     },
     "Texts": {
@@ -1902,20 +1906,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/163"
+        "/names/1/1/162"
       ]
     },
     "Texts": {
-      "Eng": "Varni",
-      "Rus": "Варни"
+      "Eng": "Varni"
     }
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Варни"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/164"
+        "/names/1/1/163"
       ]
     },
     "Texts": {
@@ -1925,10 +1930,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Вела"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/165"
+        "/names/1/1/164"
       ]
     },
     "Texts": {
@@ -1938,10 +1945,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Винил"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/166"
+        "/names/1/1/165"
       ]
     },
     "Texts": {
@@ -1951,10 +1960,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Вирго"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/167"
+        "/names/1/1/166"
       ]
     },
     "Texts": {
@@ -1964,10 +1975,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Вард"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/168"
+        "/names/1/1/167"
       ]
     },
     "Texts": {
@@ -1977,10 +1990,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Уоррен"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/169"
+        "/names/1/1/168"
       ]
     },
     "Texts": {
@@ -1990,10 +2005,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Уэйн"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/170"
+        "/names/1/1/169"
       ]
     },
     "Texts": {
@@ -2003,10 +2020,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Уип"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/171"
+        "/names/1/1/170"
       ]
     },
     "Texts": {
@@ -2016,10 +2035,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ксилен"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/173"
+        "/names/1/1/172"
       ]
     },
     "Texts": {
@@ -2029,10 +2050,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Вайлд"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/172"
+        "/names/1/1/171"
       ]
     },
     "Texts": {
@@ -2045,20 +2068,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/175"
+        "/names/1/1/174"
       ]
     },
     "Texts": {
-      "Eng": "Zeke",
-      "Rus": "Зеке"
+      "Eng": "Zeke"
     }
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Зеке"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/176"
+        "/names/1/1/175"
       ]
     },
     "Texts": {
@@ -2068,10 +2092,12 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Зинк"
+    ],
     "Files": {
       "species/novakidnamegen.config": [
-        "/names/1/1/177"
+        "/names/1/1/176"
       ]
     },
     "Texts": {

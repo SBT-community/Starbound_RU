@@ -38,6 +38,20 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "objects/generic/woodentalllantern/woodentalllantern.object": [
+        "/humanDescription"
+      ],
+      "objects/themed/egyptian/egyptianlamp/egyptianlamp.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crackling torch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "objects/clues/glitch/glitchscribe/glitchscribe.object": [
         "/avianDescription"
       ],
@@ -68,6 +82,34 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "objects/generic/woodentalllantern/woodentalllantern.object": [
+        "/hylotlDescription"
+      ],
+      "objects/themed/egyptian/egyptianlamp/egyptianlamp.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A raised torch provides light for a large area."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodentalllantern/woodentalllantern.object": [
+        "/apexDescription"
+      ],
+      "objects/themed/egyptian/egyptianlamp/egyptianlamp.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A raised wooden torch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "objects/hoard/goldenpedestal/goldenpedestal.object": [
         "/glitchDescription/glitchEmotedText"
       ],
@@ -78,6 +120,34 @@
     "Texts": {
       "Eng": "A remarkable pedestal.",
       "Rus": "Замечательный пьедестал."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodentalllantern/woodentalllantern.object": [
+        "/avianDescription"
+      ],
+      "objects/themed/egyptian/egyptianlamp/egyptianlamp.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tall flickering torch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodentalllantern/woodentalllantern.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/themed/egyptian/egyptianlamp/egyptianlamp.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tall torch, the flame flickers."
     }
   },
   {
@@ -197,6 +267,20 @@
     "Texts": {
       "Eng": "Floran push buttons. Make thingsss happen!",
       "Rus": "Флоран нажимает кнопки. Получает результат!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodentalllantern/woodentalllantern.object": [
+        "/floranDescription"
+      ],
+      "objects/themed/egyptian/egyptianlamp/egyptianlamp.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "High torch holdss fire."
     }
   },
   {
@@ -1006,6 +1090,20 @@
     "Texts": {
       "Eng": "The Hylotl practice calligraphy on desks like these.",
       "Rus": "На похожих столах хилотлы практикуются в калиграфии."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodentalllantern/woodentalllantern.object": [
+        "/novakidDescription"
+      ],
+      "objects/themed/egyptian/egyptianlamp/egyptianlamp.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The flame is cracklin' away."
     }
   },
   {

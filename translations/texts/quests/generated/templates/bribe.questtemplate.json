@@ -104,7 +104,7 @@
     },
     "Texts": {
       "Eng": "Floran heard from a friend of a friend that ^orange;<target>'s^white; biggessst wish is to have a nice <gift>. Let's use this to our advantage. ^green;Give them our preciousss ^orange;<gift>^white; and <target.pronoun.subject> will surely feel indebted to usss.",
-      "Rus": ""
+      "Rus": "Флоран слышал от друга его друга, что его самое большшшое желание, это получить <gift>. Давай будем использовать это как наше преимущессство. ^green;Отдай <target.pronoun.object> ^orange;<gift>^white; и <target.pronoun.subject> будет нам обязан<target.pronoun.verbEnding>."
     }
   },
   {
@@ -128,7 +128,7 @@
     },
     "Texts": {
       "Eng": "How do you feel about bribery? I figure that if you were to ^green;gift that ^orange;<gift>^green; to ^orange;<target>^white; on my behalf, <target.pronoun.subject> would owe me a favour! Can you go and ^green;give it to <target.pronoun.object> for me?",
-      "Rus": ""
+      "Rus": "Как ты смотришь на подкуп? Я тут подумал<questGiver.pronoun.verbEnding>, что если ты ^green;подаришь ^orange;<gift.accusative> <target.dative>  ^white;от моего имени, то <target.pronoun.subject> будет мне обязан<target.pronoun.verbEnding>! Можешь сходить и ^green;передать <target.pronoun.object> от меня подарок?"
     }
   },
   {
@@ -152,7 +152,7 @@
     },
     "Texts": {
       "Eng": "I'd like to make clear that this is very much not a bribe of any sort. I don't even know the meaning of the word. All I need you to do is ^green;give ^orange;<target> ^green;the ^orange;<gift> ^white;to persuade <target.pronoun.object> to act in my favour...",
-      "Rus": ""
+      "Rus": "Сразу хочу прояснить: это вовсе никакой не подкуп. Я даже не знаю что значит это слово. Всё что тебе нужно сделать - это ^green;отдать ^orange;<target.dative> <gift.accusative> ^white;, чтобы убедить <target.pronoun.reflexive> посодействовать мне..."
     }
   },
   {
@@ -200,7 +200,7 @@
     },
     "Texts": {
       "Eng": "Next I need the favour of ^orange;<target>^green; - Could you try bribing <target.pronoun.object> with the ^orange;<gift>^white;? That should hopefully work...",
-      "Rus": ""
+      "Rus": "Теперь мне нужно добиться расположения ^orange;<target.accusative> ^green;. Не мог<player.pronoun.verb4Ending> бы ты попытаться подкупить <target.pronoun.reflexive> с помощью небольшого подарка? ^orange;<gift> ^white;отлично подойдёт. Будем надеяться это сработает..."
     }
   },
   {
@@ -212,7 +212,7 @@
     },
     "Texts": {
       "Eng": "Next ^green;I need to win over ^orange;<target>^white;, and it just so happens that ^green;<target.pronoun.subject> would love your ^orange;<gift>^white;! Is that bribery? Sure, but I don't think <target.pronoun.subject>'ll mind...",
-      "Rus": ""
+      "Rus": "Дальше ^green;мне нужно переубедить ^orange;<target.accusative>, ^white;и так совпало, что ^green;<target.pronoun.object> бы понравил<gift.pronoun.verb3Ending> ^orange;<gift>^white;! Подкуп ли это? Пожалуй, но я не думаю, что <target> будет против..."
     }
   },
   {
@@ -224,7 +224,7 @@
     },
     "Texts": {
       "Eng": "Now <target> owes me a favour! That was easier than I thought. Thank you for helping me with my genius plan!",
-      "Rus": ""
+      "Rus": "Отныне <target> мой должник! Это было проще чем я думал<questGiver.pronoun.verbEnding>. Спасибо тебе за помощь в моём гениальном плане!"
     }
   },
   {
@@ -308,7 +308,7 @@
     },
     "Texts": {
       "Eng": "So you're saying that <target> took the bribe? Ok, it's Ok, I think we've done the right thing...",
-      "Rus": ""
+      "Rus": "Так говоришь <target> принял<target.pronoun.verbEnding> взятку? Хорошо, очень хорошо... Думаю мы поступили правильно..."
     }
   },
   {
@@ -332,7 +332,7 @@
     },
     "Texts": {
       "Eng": "The next thing I'd like you to do is give ^orange;<target> ^white;a very special something. ^green;I need <target.pronoun.object> to receive the ^orange;<gift>^white; in order for the plan to work.",
-      "Rus": ""
+      "Rus": "Дальше, я хотел<questGiver.pronoun.verbEnding> бы чтобы ты отдал<player.pronoun.verbEnding> ^orange;<target.dative> ^white;кое-что особенное. Согласно плану, ^green;<target.pronoun.subject> долж<target.pronoun.verb2Ending> получить ^orange;<gift.accusative>."
     }
   },
   {
@@ -344,7 +344,7 @@
     },
     "Texts": {
       "Eng": "Wow, bribery is easy! <target> owing me a favour is useful.",
-      "Rus": ""
+      "Rus": "Здорово! Подкупать так просто! Иметь <target.accusative> на своей стороне весьма полезно."
     }
   },
   {
@@ -356,7 +356,7 @@
     },
     "Texts": {
       "Eng": "Yesss, Floran is glad that <target> accepted the present. Now to figure out how to use this sssituation to our advantage...",
-      "Rus": ""
+      "Rus": "Да, Флоран рад, что <target> принял<target.pronoun.verbEnding> подарок. Теперь нужно придумать как получить выгоду из этой ссситуации..."
     }
   },
   {
@@ -368,7 +368,7 @@
     },
     "Texts": {
       "Eng": "You did it! <target> owes usss big time now!",
-      "Rus": ""
+      "Rus": "У тебя получилосссь! <target> теперь нам очень обязан<target.pronoun.verbEnding>!"
     }
   },
   {
@@ -392,7 +392,7 @@
     },
     "Texts": {
       "Eng": "^cyan;Floran wants <target> to owe us sssomething. Floran has a geniuss plan.",
-      "Rus": ""
+      "Rus": "^cyan;Флоран хочет, чтобы <target> был<target.pronoun.verbEnding> у нас в долгу. И у Флорана есть гениальный план."
     }
   },
   {
@@ -404,7 +404,7 @@
     },
     "Texts": {
       "Eng": "^cyan;I want <target> to owe me a favour... I have a plan...",
-      "Rus": ""
+      "Rus": "^cyan;Я хочу, чтобы <target> был<target.pronoun.verbEnding> мне обязан. У меня есть план..."
     }
   },
   {
@@ -416,7 +416,7 @@
     },
     "Texts": {
       "Eng": "^cyan;I want to win <target>'s favour, and I have a way to make it happen...",
-      "Rus": ""
+      "Rus": "^cyan;Я хочу завоевать расположение кое-кого, и я знаю как это осуществить..."
     }
   },
   {
@@ -428,7 +428,7 @@
     },
     "Texts": {
       "Eng": "^cyan;If we give <target> a present, Floran is sssure <target.pronoun.subject>'ll feel indebted to us.",
-      "Rus": ""
+      "Rus": "^cyan;Если подарить <target.dative> подарок, Флоран уверен, <target.pronoun.subject> почувствует себя в долгу перед нами."
     }
   },
   {

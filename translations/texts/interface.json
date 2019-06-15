@@ -23,6 +23,9 @@
       "interface/itemdescriptions/eppaugment.itemdescription": [
         "/priceLabel/value"
       ],
+      "interface/itemdescriptions/filledcapturepod.itemdescription": [
+        "/priceLabel/value"
+      ],
       "interface/itemdescriptions/fishingrod.itemdescription": [
         "/priceLabel/value"
       ],
@@ -272,6 +275,9 @@
       "interface/windowconfig/portraitconfirmation.config": [
         "/paneLayout/cancel/caption"
       ],
+      "interface/windowconfig/simpleconfirmation.config": [
+        "/paneLayout/cancel/caption"
+      ],
       "interface/windowconfig/teaminvite.config": [
         "/paneLayout/close/caption"
       ],
@@ -329,6 +335,22 @@
     "Texts": {
       "Eng": "Energy Per Shot:",
       "Rus": "Энергии на выстрел:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/bountyboard/bountyboardgui.config": [
+        "/gui/summaryOverlay/children/lblNameHeader/value",
+        "/gui/summaryOverlay/children/lblNameList/value"
+      ],
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/name/hint"
+      ]
+    },
+    "Texts": {
+      "Eng": "Name",
+      "Rus": "Имя"
     }
   },
   {

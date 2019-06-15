@@ -1,0 +1,32 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/paratail/paratail.monstertype": [
+        "/description"
+      ],
+      "monsters/flyers/paratail/poisonparatail.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "During storms it attaches itself to trees so as not to blow away.",
+      "Rus": "Во время штормов оно цепляется за деревья, чтобы его не сдуло."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/paratail/paratail.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/flyers/paratail/poisonparatail.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Paratail",
+      "Rus": "Паратэйл"
+    }
+  }
+]
