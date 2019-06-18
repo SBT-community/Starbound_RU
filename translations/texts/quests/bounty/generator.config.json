@@ -1,0 +1,101 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
+        "/edges/15/prev/text/skipMessage"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you... Psychic?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
+        "/edges/12/prev/text/skipMessage"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did you deduce that passcode with your advanced detective skills? Nice work, partner!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
+        "/edges/11/prev/text/skipMessage"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did you just... Guess that passcode? You're a loose cannon, partner."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
+        "/edges/29/next/text/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't believe it, partner! You took down the mysterious and handsome ^orange;Captain Ignoble^reset;! ^orange;Return to the Peacekeeper Station^reset; for a new assignment."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
+        "/edges/19/mid/text/skipMessage"
+      ]
+    },
+    "Texts": {
+      "Eng": "I like your style - no need to find the vault code, just guess it! Nice work, partner!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
+        "/edges/17/mid/text/skipMessage"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nice hacking, partner! What were the chances that you would successfully guess that?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
+        "/edges/29/prev/text/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nice work findin' all those clues, partner! You have enough info to track down the rowdy ^green;Captain Ignoble^reset; now!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
+        "/edges/16/prev/text/skipMessage"
+      ]
+    },
+    "Texts": {
+      "Eng": "No password-protected vault can slow you down, huh?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
+        "/edges/18/mid/text/skipMessage"
+      ]
+    },
+    "Texts": {
+      "Eng": "We didn't even find that code yet. Impressive hacking, partner!"
+    }
+  }
+]

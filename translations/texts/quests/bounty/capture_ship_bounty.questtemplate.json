@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/capture_ship_bounty.questtemplate": [
+        "/scriptConfig/generatedText/complete/capture/0",
+        "/scriptConfig/generatedText/complete/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Good job taking <bounty.name> and their crew! You're a darn brave soul, partner!\n\nCome by the Peacekeeper Station to collect your reward!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/capture_ship_bounty.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You apprehended the bounty!"
+    }
+  }
+]

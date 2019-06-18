@@ -229,5 +229,20 @@
       "Eng": "This light is nearly as bright as me!",
       "Rus": "Этот свет такой же яркий, как и я!"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/bluelight/bluelight.object": [
+        "/novakidDescription"
+      ],
+      "objects/neon/neonlight/neonlight.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This light's like a cold burnin' star, though a little smaller.",
+      "Rus": "Эт светильник аки холодная пылающая звезда, токма помельче чутка."
+    }
   }
 ]

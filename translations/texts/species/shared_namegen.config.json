@@ -38,25 +38,6 @@
     "Comment": "Имена персонажей",
     "DeniedAlternatives": [],
     "Files": {
-      "species/humanfemalenamegen.config": [
-        "/names/1/1/6"
-      ],
-      "species/humanmalenamegen.config": [
-        "/names/1/1/3"
-      ],
-      "species/humannamegen.config": [
-        "/names/1/1/3"
-      ]
-    },
-    "Texts": {
-      "Eng": "Alexis",
-      "Rus": "Алексис"
-    }
-  },
-  {
-    "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
-    "Files": {
       "species/humanmalenamegen.config": [
         "/names/1/1/4"
       ],
@@ -115,57 +96,6 @@
     "Texts": {
       "Eng": "Ashton",
       "Rus": "Эштон"
-    }
-  },
-  {
-    "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
-    "Files": {
-      "species/humanfemalenamegen.config": [
-        "/names/1/1/18"
-      ],
-      "species/humannamegen.config": [
-        "/names/1/1/9"
-      ]
-    },
-    "Texts": {
-      "Eng": "Bailey",
-      "Rus": "Бэйли"
-    }
-  },
-  {
-    "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
-    "Files": {
-      "species/backernamegen.config": [
-        "/names/1/1/2491"
-      ],
-      "species/humanmalenamegen.config": [
-        "/names/1/1/12"
-      ]
-    },
-    "Texts": {
-      "Eng": "Benny",
-      "Rus": "Бенни"
-    }
-  },
-  {
-    "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
-    "Files": {
-      "species/humanmalenamegen.config": [
-        "/names/1/1/13"
-      ],
-      "species/humannamegen.config": [
-        "/names/1/1/10"
-      ],
-      "species/novakidnamegen.config": [
-        "/names/1/1/16"
-      ]
-    },
-    "Texts": {
-      "Eng": "Billy",
-      "Rus": "Билли"
     }
   },
   {
@@ -380,25 +310,6 @@
     "Comment": "Имена персонажей",
     "DeniedAlternatives": [],
     "Files": {
-      "species/backernamegen.config": [
-        "/names/1/1/3827"
-      ],
-      "species/humanfemalenamegen.config": [
-        "/names/1/1/36"
-      ],
-      "species/humannamegen.config": [
-        "/names/1/1/24"
-      ]
-    },
-    "Texts": {
-      "Eng": "Dakota",
-      "Rus": "Дакота"
-    }
-  },
-  {
-    "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
-    "Files": {
       "species/humanfemalenamegen.config": [
         "/names/1/1/37"
       ],
@@ -479,22 +390,6 @@
     "Comment": "Имена персонажей",
     "DeniedAlternatives": [],
     "Files": {
-      "species/backernamegen.config": [
-        "/names/1/1/2751"
-      ],
-      "species/humanmalenamegen.config": [
-        "/names/1/1/55"
-      ]
-    },
-    "Texts": {
-      "Eng": "Finn",
-      "Rus": "Финн"
-    }
-  },
-  {
-    "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
-    "Files": {
       "species/humanmalenamegen.config": [
         "/names/1/1/57"
       ],
@@ -553,22 +448,6 @@
     "Texts": {
       "Eng": "Hadley",
       "Rus": "Хэдли"
-    }
-  },
-  {
-    "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
-    "Files": {
-      "species/humanfemalenamegen.config": [
-        "/names/1/1/70"
-      ],
-      "species/humannamegen.config": [
-        "/names/1/1/34"
-      ]
-    },
-    "Texts": {
-      "Eng": "Harley",
-      "Rus": "Харли"
     }
   },
   {
@@ -951,13 +830,15 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Линкс"
+    ],
     "Files": {
       "species/humanfemalenamegen.config": [
         "/names/1/1/110"
       ],
       "species/novakidnamegen.config": [
-        "/names/1/1/101"
+        "/names/1/1/100"
       ]
     },
     "Texts": {
@@ -1015,23 +896,9 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
-    "Files": {
-      "species/backernamegen.config": [
-        "/names/1/1/896"
-      ],
-      "species/humanfemalenamegen.config": [
-        "/names/1/1/121"
-      ]
-    },
-    "Texts": {
-      "Eng": "Mila",
-      "Rus": "Мила"
-    }
-  },
-  {
-    "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Минера"
+    ],
     "Files": {
       "species/humanfemalenamegen.config": [
         "/names/1/1/129"
@@ -1040,7 +907,7 @@
         "/names/1/1/54"
       ],
       "species/novakidnamegen.config": [
-        "/names/1/1/111"
+        "/names/1/1/110"
       ]
     },
     "Texts": {
@@ -1069,25 +936,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "species/humanfemalenamegen.config": [
-        "/names/1/1/130"
-      ],
-      "species/humanmalenamegen.config": [
-        "/names/1/1/123"
-      ],
-      "species/humannamegen.config": [
-        "/names/1/1/55"
-      ]
-    },
-    "Texts": {
-      "Eng": "Morgan",
-      "Rus": "Морган"
-    }
-  },
-  {
-    "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
-    "Files": {
-      "species/humanfemalenamegen.config": [
         "/names/1/1/136"
       ],
       "species/humanmalenamegen.config": [
@@ -1100,25 +948,6 @@
     "Texts": {
       "Eng": "Nevada",
       "Rus": "Невада"
-    }
-  },
-  {
-    "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
-    "Files": {
-      "species/backernamegen.config": [
-        "/names/1/1/2522"
-      ],
-      "species/humanmalenamegen.config": [
-        "/names/1/1/130"
-      ],
-      "species/humannamegen.config": [
-        "/names/1/1/59"
-      ]
-    },
-    "Texts": {
-      "Eng": "Noel",
-      "Rus": "Ноэль"
     }
   },
   {
@@ -1190,13 +1019,15 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Перс"
+    ],
     "Files": {
       "species/humanmalenamegen.config": [
         "/names/1/1/142"
       ],
       "species/novakidnamegen.config": [
-        "/names/1/1/124"
+        "/names/1/1/123"
       ]
     },
     "Texts": {
@@ -1311,35 +1142,15 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
-    "Files": {
-      "species/humanfemalenamegen.config": [
-        "/names/1/1/159"
-      ],
-      "species/humanmalenamegen.config": [
-        "/names/1/1/157"
-      ],
-      "species/humannamegen.config": [
-        "/names/1/1/70"
-      ],
-      "species/novakidnamegen.config": [
-        "/names/1/1/145"
-      ]
-    },
-    "Texts": {
-      "Eng": "Scout",
-      "Rus": "Скаут"
-    }
-  },
-  {
-    "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Скаут"
+    ],
     "Files": {
       "species/backernamegen.config": [
         "/names/1/1/1636"
       ],
       "species/novakidnamegen.config": [
-        "/names/1/1/146"
+        "/names/1/1/145"
       ]
     },
     "Texts": {
@@ -1349,13 +1160,15 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Сет"
+    ],
     "Files": {
       "species/backernamegen.config": [
         "/names/1/1/3143"
       ],
       "species/novakidnamegen.config": [
-        "/names/1/1/147"
+        "/names/1/1/146"
       ]
     },
     "Texts": {
@@ -1397,13 +1210,15 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Шейд"
+    ],
     "Files": {
       "species/glitchfemalenamegen.config": [
         "/names/1/1/6"
       ],
       "species/novakidnamegen.config": [
-        "/names/1/1/148"
+        "/names/1/1/147"
       ]
     },
     "Texts": {
@@ -1429,7 +1244,9 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Смоки"
+    ],
     "Files": {
       "species/humanmalenamegen.config": [
         "/names/1/1/163"
@@ -1438,7 +1255,7 @@
         "/names/1/1/73"
       ],
       "species/novakidnamegen.config": [
-        "/names/1/1/150"
+        "/names/1/1/149"
       ]
     },
     "Texts": {
@@ -1569,13 +1386,15 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Трикс"
+    ],
     "Files": {
       "species/humanfemalenamegen.config": [
         "/names/1/1/179"
       ],
       "species/novakidnamegen.config": [
-        "/names/1/1/162"
+        "/names/1/1/161"
       ]
     },
     "Texts": {
@@ -1649,13 +1468,15 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ксенон"
+    ],
     "Files": {
       "species/backernamegen.config": [
         "/names/1/1/1854"
       ],
       "species/novakidnamegen.config": [
-        "/names/1/1/174"
+        "/names/1/1/173"
       ]
     },
     "Texts": {

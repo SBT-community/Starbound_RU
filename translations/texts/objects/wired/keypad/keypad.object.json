@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/keypad/keypad.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A numeric security keypad that requires a specific combination."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/keypad/keypad.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Numeric Keypad"
+    }
+  }
+]

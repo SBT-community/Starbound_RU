@@ -1,0 +1,811 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/tutorial/0/parameters/noteText"
+      ]
+    },
+    "Texts": {
+      "Eng": "\n\nHowdy Peacekeeper,\n\nI regret to inform you that I, ^green;Captain Ignoble^reset;, am no longer residing in this particular residence.\n\n I've set up camp somwhere else <next.coordinate.preposition> <next.coordinate.name>.\n\nFind me if you can!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/audiodisc/planetClue/3/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "...I didn't realise folks still used CDs! Looks like <next.coordinate.name> is your next destination, partner!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/audiodisc/diversion/3/message",
+        "/audiodisc/scan/3/message",
+        "/audiodisc/spaceBounty/3/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "..Well, I guess that's a good enough lead. Sounds like <next.coordinate.name> is your next destination, partner!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/audiodisc/planetBounty/3/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "..Well, I, uh, guess we have a lead. Sounds like <next.coordinate.name> is your next destination, partner!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/diversion/1/parameters/noteText"
+      ]
+    },
+    "Texts": {
+      "Eng": "<bounty.name>'s To-do List\n\nª Buy milk\n\nª File taxes\n\nª Move to <next.coordinate.name>\n\nª Polish boots"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/scan/1/parameters/noteText"
+      ]
+    },
+    "Texts": {
+      "Eng": "<bounty.name>'s To-do List\n\nª Buy new shoes\n\nª Buy new socks that match new shoes\n\nª Move to to <next.coordinate.name>\n\nª Request feedback on new shoes and socks"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/spaceClue/1/parameters/noteText"
+      ]
+    },
+    "Texts": {
+      "Eng": "<bounty.name>'s To-do List\n\nª Fire incompetent lackeys\n\nª Hire better lackeys\n\nª Proceed to <next.coordinate.name>\n\nª Buy a new shirt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/spaceBounty/1/parameters/noteText"
+      ]
+    },
+    "Texts": {
+      "Eng": "<bounty.name>'s To-do List\n\nª Go for morning jog\n\nª Make sandwich\n\nª Eat the sandwich\n\nª Proceed to <next.coordinate.name>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/planetBounty/1/parameters/noteText"
+      ]
+    },
+    "Texts": {
+      "Eng": "<bounty.name>'s To-do List\n\nª Iron uniform\n\nª Make salad for tomorrow's lunch\n\nª Proceed to <next.coordinate.name>\n\nª Buy milk and eggs"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/planetClue/1/parameters/noteText"
+      ]
+    },
+    "Texts": {
+      "Eng": "<bounty.name>'s To-do List\n\nª Refuel ship\n\nª Launder money\n\nª Move to <next.coordinate.name>\n\nª Wash underwear"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/returnVaultItem/2/parameters/noteText"
+      ]
+    },
+    "Texts": {
+      "Eng": "<bounty.name>'s Vault Security Guide:\n\n1> Do not forget the vault code!\n\n2> Try not to write down the vault code\n\n>3> If you really forget the vault code, come to <next.coordinate.name> so you can memorise it again!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/diversion/0/message",
+        "/papernote/planetBounty/0/message",
+        "/papernote/planetClue/0/message",
+        "/papernote/scan/0/message",
+        "/papernote/spaceBounty/0/message",
+        "/papernote/spaceClue/0/message",
+        "/papernote/vaultClue/0/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "Always follow the paper trail, partner! It looks like <next.coordinate.name> is your next stop on this case."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/audiodisc/scan/4/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "At least these criminals are still willin' to do their chores! You best be headin' to <next.coordinate.name>, next!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/audiodisc/decoy/6/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aw, son of a snuffish! I think you need to hurry your hide back to the previous location!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/planetBounty/3/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can love bloom, even within galactic crime rings...? You should uh, head on over to <next.coordinate.name>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/vaultClue/1/parameters/noteText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confidential!\n\nThe code for the <next.coordinate.name> vault is as follows:\n<password>\n\n\nFor security, this note will self-ignite in 5 metaclicks.\nIf the self-igniting ink fails to activate after 5 metaclicks, please place note in the nearest open fire until the note is unreadable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/diversion/2/message",
+        "/papernote/planetBounty/2/message",
+        "/papernote/planetClue/2/message",
+        "/papernote/scan/2/message",
+        "/papernote/spaceBounty/2/message",
+        "/papernote/spaceClue/2/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "Conflict within a team will always be its downfall - let this be a lesson, partner! You should head on over to <next.coordinate.name>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/decoy/0/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dangit, they fooled us AND wrote a newsletter about it! Better head back to your previous location, partner!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/audiodisc/decoy/0/message",
+        "/audiodisc/decoy/2/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dangnabbit, we've been taken on a ride! I think you need to hurry your hide back to the previous location!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/planetBounty/2/parameters/noteText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dear <bounty.name>,\n\nI'm sorry I forgot to bring the goods to you earlier.\nI'm on my way to meet you <next.coordinate.preposition> <next.coordinate.name>.\nPlease don't be mad.\n\n§"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/diversion/2/parameters/noteText",
+        "/papernote/scan/2/parameters/noteText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dear <bounty.name>,\n\nI'm sorry I forgot to bring the goods to you earlier.\nI'm on my way to meet you <next.coordinate.preposition> <next.coordinate.name>.\nPlease don't be mad.\n\n±"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/spaceBounty/2/parameters/noteText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dear <bounty.name>,\n\nI'm sorry I forgot to bring the goods to you earlier.\nI'm on my way to meet you <next.coordinate.preposition> <next.coordinate.name>.\nPlease don't be mad.\n\nº"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/planetClue/2/parameters/noteText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dear <bounty.name>,\n\nI'm sorry I forgot to bring the goods to you earlier.\nI'm on my way to meet you <next.coordinate.preposition> <next.coordinate.name>.\nPlease don't be mad.\n\n»"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/spaceClue/2/parameters/noteText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dear <bounty.name>,\n\nI'm sorry I forgot to bring the goods to you earlier.\nI'm on my way to meet you <next.coordinate.preposition> <next.coordinate.name>.\nPlease don't be mad.\n\nð"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/decoy/2/parameters/noteText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dear Diary,\n\nEarlier I pretended I was someone else and a local Peacekeeper was totally fooled.\nThey were totally looking for me, too.\nI am officially a master of disguise and can blend into the shadows at will."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/vaultClue/2/parameters/noteText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dear Diary,\n\nToday <bounty.name> told me that the password to the vault is <password>!\nI felt so honoured. I will do my best not to divulge this secret to our enemies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/diversion/3/parameters/noteText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dear Diary,\n\nToday I helped <bounty.name> by taking some loot to <next.coordinate.name>.\nI hinted that I would like a raise for my recent hard-working efforts, but <bounty.name> didn't seem to notice.\nI should probably hide this page for now in case someone finds it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/planetClue/3/parameters/noteText",
+        "/papernote/scan/3/parameters/noteText",
+        "/papernote/spaceBounty/3/parameters/noteText",
+        "/papernote/spaceClue/3/parameters/noteText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dear Diary,\n\nToday I helped <bounty.name> by taking the loot to <next.coordinate.name>.\nI hope I'll get a raise soon!\nI should probably hide this page for now in case someone finds it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/planetBounty/3/parameters/noteText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dear Diary,\n\nToday I spent time with <bounty.name> on our way to <next.coordinate.name>.\nI made a joke, and <bounty.name> laughed!\nI hope someday <bounty.name> can see me as something more than just a hired goon «\n\nI should probably hide this page for now in case someone finds it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/returnVaultObject/1/parameters/noteText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Due to a change in gang policy, we are now converting all records to a digital format for easier storage. Please go to our computer office <next.coordinate.preposition> <next.coordinate.name> in order to:\n\n> Review your financial records!\n\n> Recieve your bi-quarterly review!\n\n> Memorise the combinations to our security vaults!\n\n> Place an order for your required gang headwear!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/decoy/0/parameters/noteText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey Crew,\n\nYou're never gonna believe this!\nI TOTALLY fooled a Peacekeeper earlier by pretending to be someone else!\nThey were well and truly pranked.\n\nUntil next time,\n<bounty.name>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/returnVaultNpc/0/parameters/noteText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hi <bounty.name>,\n\nI forgot the code to the vault, so I am going to the hideout <next.coordinate.preposition> <next.coordinate.name> to ask the others for it.\nSorry for the inconvenience!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/audiodisc/planetBounty/6/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't think we're dealin' with sharp folks on this case. You better head to <next.coordinate.name>!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/audiodisc/planetClue/6/message",
+        "/audiodisc/scan/6/message",
+        "/audiodisc/spaceBounty/6/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't think we're dealin' with smart folks on this case. You better head to <next.coordinate.name>!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/returnVaultObject/0/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "I guess ah appreciate their desire not to waste paper! You gotta look after the planet... Every planet. You should go an' check out <next.coordinate.name>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/returnVaultObject/1/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope you're good with computers, because you gotta find that vault code! You should head to <next.coordinate.name>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/returnVaultNpc/1/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope you're ready to beat some information out of some low-lives! You better fly that ship o' yours to <next.coordinate.name>!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/vaultClue/2/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder what made these folks turn to a life of crime? It looks like <next.coordinate.name> is your next stop on this case, partner!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/diversion/3/message",
+        "/papernote/planetClue/3/message",
+        "/papernote/scan/3/message",
+        "/papernote/spaceBounty/3/message",
+        "/papernote/spaceClue/3/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you're gonna dispose of written evidence, you gotta do a better job than hidin' it! You should head on over to <next.coordinate.name>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/returnVaultObject/0/parameters/noteText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Important Notice!\n\nLackeys are requested to stop writing down the vault code on pieces of paper!\nThis is a huge security flaw, and waste of valuable, valuable paper!\n\nInstead, the code will be recorded in a digital format at our computer servers <next.coordinate.preposition> ^green;<next.coordinate.name>^reset;.\n\nHappy smuggling! - <bounty.name>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/diversion/1/message",
+        "/papernote/planetBounty/1/message",
+        "/papernote/planetClue/1/message",
+        "/papernote/scan/1/message",
+        "/papernote/spaceBounty/1/message",
+        "/papernote/spaceClue/1/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "It looks like these criminals are too organised for their own good! You should head on over to <next.coordinate.name>!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/returnVaultNpc/0/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "It sounds like <next.coordinate.name> is where you should start headin' towards, partner!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/audiodisc/diversion/2/message",
+        "/audiodisc/planetBounty/2/message",
+        "/audiodisc/planetClue/2/message",
+        "/audiodisc/scan/2/message",
+        "/audiodisc/spaceBounty/2/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's just our luck that wrong-doers ain't so smart, huh? Y'all better head on over to <next.coordinate.name>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/returnVaultItem/0/parameters/noteText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lackey,\n\nFor the last time, stop writing notes with the vault combination on around the vault!\nI can't even begin to explain to you why that's a bad idea!\n If you forget the code AGAIN, leave a reminder at our hideout <next.coordinate.preposition> <next.coordinate.name>, instead.\n\nRegards,\n<bounty.name>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/diversion/0/parameters/noteText",
+        "/papernote/planetBounty/0/parameters/noteText",
+        "/papernote/planetClue/0/parameters/noteText",
+        "/papernote/scan/0/parameters/noteText",
+        "/papernote/spaceBounty/0/parameters/noteText",
+        "/papernote/spaceClue/0/parameters/noteText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lackey,\n\nThe goods are now <next.coordinate.preposition> <next.coordinate.name>.\nMake sure you aren't being followed.\n\nRegards,\n<bounty.name>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/audiodisc/diversion/1/message",
+        "/audiodisc/planetBounty/1/message",
+        "/audiodisc/scan/1/message",
+        "/audiodisc/spaceBounty/1/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks like they're half a step ahead of us - but it's seemin' like we can catch 'em at <next.coordinate.name>!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/returnVaultItem/1/parameters/noteText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Note to self:\n\n<bounty.name> is getting really mad that I keep leaving notes around with the vault code written on them.\nAll remaining notes should be quietly stored <next.coordinate.preposition> <next.coordinate.name> instead."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/vaultClue/0/parameters/noteText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Note to self:\n\nThe code for the vault <next.coordinate.preposition> <next.coordinate.name> is <password>.\n\nDon't leave this note somewhere again!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/decoy/3/parameters/noteText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Peacekeeper,\nI expect that you should discover this note in time.\n\nI want you to know it was me.\nThe civilian who assisted you earlier? \nIt was I, <bounty.name>!\n\nWhilst you still have a good chance of catching me, I don't want you ever to forget the name...\nª <bounty.name> ª"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/decoy/1/parameters/noteText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Peacekeeper,\nIf you're reading this, I want you to know that the helpful stranger earlier...\n\nIt was ME, <bounty.name>!\n\nNever forget the moment that you were utterly bamboozled by my cunning.\n«"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/returnVaultItem/0/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "So it looks like we need to go an' find this code, huh? And by \"we\", I mean \"you\". Get on over to <next.coordinate.name>, partner!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/audiodisc/decoy/4/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tarnation - we've been taken on a ride! I think you need to hurry your hide back to the previous location!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/audiodisc/planetClue/4/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's a tip-off if I ever heard one! I suppose you best be headin' to <next.coordinate.name> next!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/audiodisc/diversion/4/message",
+        "/audiodisc/planetBounty/4/message",
+        "/audiodisc/spaceBounty/4/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's a tip-off if I ever heard one! I suppose you best be headin' to <next.coordinate.name>, next!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/audiodisc/scan/5/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "Their plan might have worked if they didn't leave a trail! Onward-bound to <next.coordinate.name>!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/returnVaultItem/2/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's holes in even the most organised criminal operation, ain't there? Head on over to <next.coordinate.name> as soon as you can, partner!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/audiodisc/decoy/1/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "These criminals are masters of disguise... I think you should go back to your previous location and find this crook, partner!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/returnVaultItem/1/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "These folks ain't running the most secure operation, are they? Head on over to <next.coordinate.name> as soon as you can, partner!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/audiodisc/diversion/6/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "These varmints ain't too smart, are they? You better head to <next.coordinate.name>, partner!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/audiodisc/planetClue/1/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "They're right - we're certainly on their tail! Seems like we can catch 'em at <next.coordinate.name>!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/audiodisc/diversion/5/message",
+        "/audiodisc/planetBounty/5/message",
+        "/audiodisc/planetClue/5/message",
+        "/audiodisc/spaceBounty/5/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "They're slick, but they ain't slick enough to throw us off! Onward-bound to <next.coordinate.name>!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/decoy/3/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "This rogue thinks they've humiliated us, don't they? Head back to your previous location and catch this varmint once and for all!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/decoy/2/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "This vagabond tricked us! Too bad that they wrote down their dirty work on a convenient piece of paper. Better head over to your previous location, partner!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/decoy/1/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "This varmint is gonna pay for their mockery! Head back to your previous location and catch this crook for good!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/audiodisc/diversion/0/message",
+        "/audiodisc/planetBounty/0/message",
+        "/audiodisc/planetClue/0/message",
+        "/audiodisc/scan/0/message",
+        "/audiodisc/spaceBounty/0/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "Well that is a mighty fine lead! I think you need to hurry your hide over to <next.coordinate.name>!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/audiodisc/decoy/3/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "What a mighty waste of Peacekeeper time! You better head back to your previous location an' teach this crook a lesson!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/vaultClue/1/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why are people usin' paper to write notes still? We have ships that can travel faster than light, I feel like we shouldn't be usin' paper anymore. It looks like <next.coordinate.name> is your next target."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/audiodisc/decoy/5/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why would they tell us where they are? Just to brag? You should go back to your earlier location and find this crook, partner!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/returnVaultNpc/1/parameters/noteText"
+      ]
+    },
+    "Texts": {
+      "Eng": "ª Gang Announcement ª\n\nThere have been several incidents of lackeys who have forgotten the code to open the vault.\nIf this happens to you, make your way to <next.coordinate.name> so you can be informed of the code.\nWhatever you do, don't write it down! It's a terrible security flaw!\n\n~ <bounty.name>"
+    }
+  }
+]

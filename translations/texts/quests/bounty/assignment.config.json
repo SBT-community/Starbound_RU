@@ -1,0 +1,59 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/assignment.config": [
+        "/bountyRanks/0/description",
+        "/tutorialAssignment/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rank I: Hopeful Hunter"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/assignment.config": [
+        "/bountyRanks/1/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rank II: Aspiring Apprehender"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/assignment.config": [
+        "/bountyRanks/2/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rank III: Dependable Deputy"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/assignment.config": [
+        "/bountyRanks/3/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rank IV: Seasoned Sleuth"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/assignment.config": [
+        "/bountyRanks/4/description",
+        "/finalAssignment/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rank V: Proven Peacekeeper"
+    }
+  }
+]

@@ -3,12 +3,78 @@
     "DeniedAlternatives": [],
     "Files": {
       "system_objects.config": [
+        "/spacestation_peacekeeper1/parameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A derelict asteroid, hastily refitted into a hub for Peacekeepers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "system_objects.config": [
+        "/spacestation_peacekeeper3/parameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hub for Peacekeepers that is small but homely."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "system_objects.config": [
+        "/spacestation_peacekeeper4/parameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large space station will many facilities, used as a hub for Peacekeepers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "system_objects.config": [
+        "/spacestation_peacekeeper5/parameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A slick neon space station, used as a hub for Peacekeepers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "system_objects.config": [
+        "/spacestation_peacekeeper2/parameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A slightly run-down office, currently being used as a hub for Peacekeepers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "system_objects.config": [
         "/anomaly/parameters/description"
       ]
     },
     "Texts": {
       "Eng": "Celestial interference prevents a detailed scan, but there are anomalous energy readings here that warrant investigation.",
       "Rus": "Астрономические помехи препятствуют детальному сканированию, но здесь присуствуют аномальные показания энергии, которые нужно исследовать."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "system_objects.config": [
+        "/bountyanomaly/parameters/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Criminal Hideout"
     }
   },
   {
@@ -103,6 +169,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "system_objects.config": [
+        "/spacestation_peacekeeper1/parameters/displayName",
+        "/spacestation_peacekeeper2/parameters/displayName",
+        "/spacestation_peacekeeper3/parameters/displayName",
+        "/spacestation_peacekeeper4/parameters/displayName",
+        "/spacestation_peacekeeper5/parameters/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Peacekeeper Station"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "system_objects.config": [
         "/playerstation/parameters/displayName"
       ]
     },
@@ -121,6 +202,28 @@
     "Texts": {
       "Eng": "Researchers in this station study the effects of microgravity on physiology in order to develop novel medicines.",
       "Rus": "Исследователи на этой станции изучают влияние микрогравитации на физиологию, чтобы разработать новые медикаменты."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "system_objects.config": [
+        "/bountyship/parameters/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Suspicious Ship"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "system_objects.config": [
+        "/bountyanomaly/parameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is where criminals hide out."
     }
   },
   {
@@ -180,6 +283,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "system_objects.config": [
+        "/bountyship/parameters/description",
         "/cultistship/parameters/description",
         "/pirateship/parameters/description"
       ]

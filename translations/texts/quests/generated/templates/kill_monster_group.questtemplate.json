@@ -221,9 +221,7 @@
   },
   {
     "Comment": "Множественное число",
-    "DeniedAlternatives": [
-      "разозленных"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_monster_group.questtemplate": [
         "/scriptConfig/generatedText/fluff/3/1/1"

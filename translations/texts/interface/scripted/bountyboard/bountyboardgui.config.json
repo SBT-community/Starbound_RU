@@ -1,0 +1,127 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/bountyboard/bountyboardgui.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Bounty Board"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/bountyboard/bountyboardgui.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " The Galaxy's Most Wanted"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/bountyboard/bountyboardgui.config": [
+        "/gui/summaryOverlay/children/lblCreditsHeader/value",
+        "/gui/summaryOverlay/children/lblCreditsList/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Credits"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/bountyboard/bountyboardgui.config": [
+        "/assignmentFormat"
+      ]
+    },
+    "Texts": {
+      "Eng": "Investigate the ^yellow;<gangName>^reset; near ^cyan;<systemName>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/bountyboard/bountyboardgui.config": [
+        "/gui/summaryOverlay/children/lblRankHeader/value",
+        "/gui/summaryOverlay/children/lblRankList/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rank"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/bountyboard/bountyboardgui.config": [
+        "/gui/summaryOverlay/children/lblStatusHeader/value",
+        "/gui/summaryOverlay/children/lblStatusList/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Status"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/bountyboard/bountyboardgui.config": [
+        "/gui/lblOtherAssignment/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "You are assigned to another Peacekeeper Department."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/bountyboard/bountyboardgui.config": [
+        "/posterTypes/major/children/lblCaptureType/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#<posterColor>;<captureType>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/bountyboard/bountyboardgui.config": [
+        "/posterTypes/major/children/lblName/value",
+        "/posterTypes/minor/children/lblName/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#<posterColor>;<targetName>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/bountyboard/bountyboardgui.config": [
+        "/newAssignmentText"
+      ]
+    },
+    "Texts": {
+      "Eng": " New Assignment!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/bountyboard/bountyboardgui.config": [
+        "/newRankText"
+      ]
+    },
+    "Texts": {
+      "Eng": " Rank Up!"
+    }
+  }
+]
