@@ -5,7 +5,7 @@
       "ai.config.json": 6,
       "missionapex1.aimission.json": 3,
       "missionavian1.aimission.json": 3,
-      "missioncultist1.aimission.json": 0,
+      "missioncultist1.aimission.json": 3,
       "missionfloran1.aimission.json": 3,
       "missionglitch1.aimission.json": 3,
       "missionhuman1.aimission.json": 3,
@@ -144,7 +144,7 @@
         "modloading.cinematic.json": 5
       },
       "peacekeeper": {
-        "peacekeeper.cinematic.json": 3
+        "peacekeeper.cinematic.json": 11
       },
       "prison": {
         "prison.cinematic.json": 3
@@ -283,9 +283,9 @@
           "avianmission4.codex.json": 3
         },
         "cultist mission": {
-          "cultistmission1.codex.json": 0,
-          "cultistmission2.codex.json": 0,
-          "shared_cultistmission.json": 0
+          "cultistmission1.codex.json": 5,
+          "cultistmission2.codex.json": 5,
+          "shared_cultistmission.json": 1
         },
         "floran mission": {
           "floranmission1.codex.json": 4,
@@ -355,7 +355,7 @@
       "arrivedhome.config.json": 54,
       "bounty.config.json": 0,
       "bountytarget.config.json": 0,
-      "clues.config.json": 50,
+      "clues.config.json": 51,
       "colourful.config.json": 33,
       "combat.config.json": 180,
       "converse.config.json": 1678,
@@ -404,7 +404,7 @@
     "generic": {
       "shared_lightbulb.json": 1
     },
-    "glitchEmotes.json": 504,
+    "glitchEmotes.json": 510,
     "help.config.json": 66,
     "hunger.config.json": 14,
     "interface": {
@@ -4049,7 +4049,7 @@
       "shared_silverblock.mat.json": 5,
       "shared_silverscrew.mat.json": 5,
       "shared_slime.mat.json": 5,
-      "shared_slopedglasspanel.mat.json": 0,
+      "shared_slopedglasspanel.mat.json": 1,
       "shared_slopedhullpanel.mat.json": 5,
       "shared_slopedinsetpanel.mat.json": 5,
       "shared_slopedrustypanel.mat.json": 5,
@@ -14082,7 +14082,7 @@
         "rainbowwood.material.json": 4,
         "rock14.material.json": 1,
         "sand2.material.json": 1,
-        "slopedpolygon.material.json": 0,
+        "slopedpolygon.material.json": 4,
         "slopedscrappanel.material.json": 1,
         "temple1.material.json": 1,
         "temple2.material.json": 1,
@@ -14147,7 +14147,7 @@
         "tungsten.matmod.json": 1,
         "undergrowth.matmod.json": 1,
         "uranium.matmod.json": 1,
-        "veingrowth.matmod.json": 0,
+        "veingrowth.matmod.json": 1,
         "violium.matmod.json": 1
       },
       "platforms": {
@@ -14161,6 +14161,6 @@
       }
     },
     "universe_server.config.json": 2,
-    "wide_spread_fields.json": 80
+    "wide_spread_fields.json": 83
   }
 }
