@@ -4147,7 +4147,7 @@
           "spiderboss.monstertype.json": 1
         },
         "swansong": {
-          "noxcapture.monstertype.json": 0,
+          "noxcapture.monstertype.json": 3,
           "swansong.monstertype.json": 0
         }
       },
@@ -4167,13 +4167,13 @@
           "shared_oculob.monstertype.json": 1
         },
         "pulpin": {
-          "poisonpulpin.monstertype.json": 0,
+          "poisonpulpin.monstertype.json": 1,
           "pulpin.monstertype.json": 1,
           "shared_pulpin.monstertype.json": 1
         },
         "shared_.monstertype.json": 1,
         "snaggler": {
-          "icesnaggler.monstertype.json": 0,
+          "icesnaggler.monstertype.json": 1,
           "shared_snaggler.monstertype.json": 1,
           "snaggler.monstertype.json": 1
         },
@@ -13793,7 +13793,7 @@
       "exploration.radiomessages.json": 7,
       "intro.radiomessages.json": 16,
       "mech.radiomessages.json": 13,
-      "missions.radiomessages.json": 57,
+      "missions.radiomessages.json": 66,
       "quests.radiomessages.json": 6,
       "ship.radiomessages.json": 3,
       "techchallenge.radiomessages.json": 8,
