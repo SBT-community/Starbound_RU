@@ -353,8 +353,8 @@
       "airship.config.json": 46,
       "alpaca.config.json": 63,
       "arrivedhome.config.json": 54,
-      "bounty.config.json": 0,
-      "bountytarget.config.json": 0,
+      "bounty.config.json": 20,
+      "bountytarget.config.json": 16,
       "clues.config.json": 51,
       "colourful.config.json": 33,
       "combat.config.json": 180,
@@ -13660,7 +13660,7 @@
       "ftlrepairmain.questtemplate.json": 3,
       "fuel.questtemplate.json": 3,
       "generated": {
-        "locations.config.json": 336,
+        "locations.config.json": 337,
         "pools": {
           "buildingthemes.config.json": 10,
           "capturablemonsters.config.json": 0,
