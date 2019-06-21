@@ -20,9 +20,6 @@ before_deploy:
 notifications:
   slack: sbtrus:4Oz4NTrFDcOeFhG2WKGzYMc3
 
-after_deploy:
-  python ./tools/vk_announce.py
-
 deploy:
   provider: releases
   api_key: "$AUTH_TOKEN"
