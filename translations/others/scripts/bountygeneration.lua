@@ -122,8 +122,10 @@ function generateGang(seed)
   while capstoneColor == majorColor do
     capstoneColor = math.random(1, 11)
   end
+  local name = string.format("%s%s%s", mid, suffix, prefix)
+  name = name:gsub("кск", "ковск"):gsub("([шжк])ы", "%1и"):gsub("лск", "льск"):gsub("ьы", "и")
   return {
-    name = string.format("%s%s%s", mid, suffix, prefix),
+    name = name,
     hat = hatName,
     majorColor = majorColor,
     capstoneColor = capstoneColor,
