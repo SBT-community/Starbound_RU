@@ -123,7 +123,7 @@ function generateGang(seed)
     capstoneColor = math.random(1, 11)
   end
   return {
-    name = string.format("%s%s%s", prefix, mid, suffix),
+    name = string.format("%s%s%s", mid, suffix, prefix),
     hat = hatName,
     majorColor = majorColor,
     capstoneColor = capstoneColor,
