@@ -377,7 +377,7 @@
       "mutantminer.config.json": 10,
       "oremerchant.config.json": 119,
       "outpost.config.json": 42,
-      "peacekeeper.config.json": 0,
+      "peacekeeper.config.json": 9,
       "peacekeeperconverse.config.json": 0,
       "quest.config.json": 295,
       "rebel.config.json": 3,
@@ -476,7 +476,7 @@
           "ancientconsolegui.config.json": 3
         },
         "bountyboard": {
-          "bountyboardgui.config.json": 0
+          "bountyboardgui.config.json": 6
         },
         "collections": {
           "collectionsgui.config.json": 4
@@ -553,9 +553,9 @@
         "arkteleporter.config.json": 1,
         "exitteleporter.config.json": 2,
         "outpostteleporter.config.json": 2,
-        "peacekeeperteleporter.config.json": 0,
+        "peacekeeperteleporter.config.json": 1,
         "returnark.config.json": 2,
-        "returncultistmission.config.json": 0,
+        "returncultistmission.config.json": 2,
         "returnoutpost.config.json": 2,
         "returnteleporter.config.json": 0,
         "returnwarp.config.json": 1,
@@ -584,7 +584,7 @@
         "deletedialog.config.json": 1,
         "error.config.json": 1,
         "graphicsmenu.config.json": 10,
-        "joinrequest.config.json": 0,
+        "joinrequest.config.json": 6,
         "keybindingsmenu.config.json": 51,
         "merchant.config.json": 2,
         "multiplayer.config.json": 5,
@@ -13839,7 +13839,7 @@
     "shared_platform.json": 2,
     "shared_platform.mat.json": 3,
     "shared_platform2.mat.json": 2,
-    "shared_polygonplatform.mat.json": 0,
+    "shared_polygonplatform.mat.json": 4,
     "shared_pressurisedplatform.mat.json": 4,
     "shared_protectorateflower.json": 1,
     "shared_protectorateplatform.mat.json": 5,
@@ -14045,7 +14045,7 @@
         }
       }
     },
-    "system_objects.config.json": 15,
+    "system_objects.config.json": 18,
     "tech": {
       "dash": {
         "airdash.tech.json": 2,
