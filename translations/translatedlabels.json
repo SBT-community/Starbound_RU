@@ -10957,7 +10957,7 @@
           "mininghazardsign.object.json": 9
         },
         "miningpowersign": {
-          "miningpowersign.object.json": 0
+          "miningpowersign.object.json": 1
         },
         "miningskip": {
           "miningskip.object.json": 9
@@ -10994,7 +10994,7 @@
           "shared_fallingrocks.json": 0
         },
         "shared_lantern": {
-          "shared_lantern.object.json": 3
+          "shared_lantern.object.json": 6
         },
         "shared_lltorch": {
           "shared_lltorch.object.json": 0
@@ -11032,7 +11032,7 @@
           "templepressureplatform.object.json": 0
         },
         "trapchest": {
-          "trapchest.object.json": 0
+          "trapchest.object.json": 6
         }
       },
       "neon": {
@@ -11844,7 +11844,7 @@
       "shared_.object.json": 25,
       "shared_anvil.json": 5,
       "shared_barstool": {
-        "shared_barstool.object.json": 0
+        "shared_barstool.object.json": 7
       },
       "shared_bearplush": {
         "shared_bearplush.object.json": 4
@@ -11883,7 +11883,7 @@
       "shared_erceilinglight": {
         "shared_erceilinglight.json": 1
       },
-      "shared_espike.json": 0,
+      "shared_espike.json": 1,
       "shared_fountain": {
         "shared_fountain.object.json": 4
       },
@@ -11936,7 +11936,7 @@
         "shared_.object.json": 2
       },
       "shared_pressureplat": {
-        "shared_pressureplat.json": 2
+        "shared_pressureplat.json": 3
       },
       "shared_pressureplate": {
         "shared_pressureplate.object.json": 3
@@ -11948,7 +11948,7 @@
         "shared_.object.json": 3
       },
       "shared_register.json": 7,
-      "shared_root.json": 1,
+      "shared_root.json": 2,
       "shared_sawblade": {
         "shared_sawblade.json": 3
       },
@@ -12219,9 +12219,9 @@
           "astrowallpanel.object.json": 2
         },
         "dockingfield": {
-          "dockingfield.object.json": 0,
+          "dockingfield.object.json": 1,
           "dockingfieldsmall.object.json": 0,
-          "shared_dockingfield.json": 0
+          "shared_dockingfield.json": 2
         },
         "industrialbed": {
           "industrialbed.object.json": 2
@@ -12335,7 +12335,7 @@
           "stationvendingmachine.object.json": 2
         },
         "stationwallpanel": {
-          "stationwallpanel.object.json": 2
+          "stationwallpanel.object.json": 8
         },
         "telescope": {
           "telescope.object.json": 9
@@ -12987,7 +12987,7 @@
           "shared_flametrap.object.json": 6
         },
         "wallb": {
-          "wallb.object.json": 0
+          "wallb.object.json": 5
         }
       },
       "upgrade": {
@@ -13015,7 +13015,7 @@
           "keypad.object.json": 0
         },
         "landmine": {
-          "landmine.object.json": 1
+          "landmine.object.json": 2
         },
         "lightsensor": {
           "lightsensor.object.json": 3
@@ -13668,7 +13668,7 @@
         "locations.config.json": 337,
         "pools": {
           "buildingthemes.config.json": 10,
-          "capturablemonsters.config.json": 0,
+          "capturablemonsters.config.json": 1,
           "dungeonitems.config.json": 11,
           "guardthemes.config.json": 5,
           "hatadjectives.config.json": 48,
