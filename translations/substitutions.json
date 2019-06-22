@@ -25736,6 +25736,10 @@
     "/scriptConfig/generatedText/failure/escape/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findWorldStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/missionBountyStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/missionTeleportStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/missionTeleportStage/1": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
@@ -25746,6 +25750,10 @@
     "/scriptConfig/generatedText/failure/escape/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findWorldStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/missionBountyStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/missionTeleportStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/missionTeleportStage/1": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
@@ -25753,11 +25761,16 @@
     "/completionText": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/failureText/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findWorldStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/killBountyStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/killBountyStage/1": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
   "quests/bounty/capture_ship_bounty.questtemplate": {
     "/scriptConfig/generatedText/failureText/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findSpaceBountyStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/killBountyStage/1": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
@@ -25765,6 +25778,10 @@
     "/completionText": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/failureText/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findSpaceBountyStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findSpaceBountyStage/1": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findSpaceBountyStage/2": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/killBountyStage/1": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
@@ -25907,6 +25924,9 @@
     "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/1": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/2": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findClueItemStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findClueItemStage/1": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findWorldStage/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
@@ -25920,6 +25940,9 @@
     "/scriptConfig/generatedText/text/prev/0": "texts/quests/bounty/shared__clue_npc.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/1": "texts/quests/bounty/shared__clue_npc.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/2": "texts/quests/bounty/shared__clue_npc.questtemplate.json",
+    "/scriptConfig/objectives/findClueNpcStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findClueNpcStage/1": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findWorldStage/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared__clue_npc.questtemplate.json"
   },
@@ -25932,6 +25955,9 @@
     "/scriptConfig/generatedText/text/prev/1": "texts/quests/bounty/shared__clue_object.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/2": "texts/quests/bounty/shared__clue_object.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/3": "texts/quests/bounty/shared__clue_object.questtemplate.json",
+    "/scriptConfig/objectives/findClueObjectStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findClueObjectStage/1": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findWorldStage/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
@@ -25940,6 +25966,9 @@
     "/scriptConfig/generatedText/failureText/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/failureText/default/1": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findClueScanStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findClueScanStage/1": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findWorldStage/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
@@ -25952,6 +25981,11 @@
     "/scriptConfig/generatedText/text/default/2": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/0": "texts/quests/bounty/shared_find_space_clue_.json",
     "/scriptConfig/generatedText/text/prev/1": "texts/quests/bounty/shared_find_space_clue_.json",
+    "/scriptConfig/objectives/findClueItemStage/0": "texts/quests/bounty/shared_find_space_clue_.json",
+    "/scriptConfig/objectives/findClueItemStage/1": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findSpaceBountyStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findSpaceBountyStage/1": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findSpaceBountyStage/2": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
@@ -25965,6 +25999,11 @@
     "/scriptConfig/generatedText/text/prev/0": "texts/quests/bounty/shared__clue_npc.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/1": "texts/quests/bounty/shared__clue_npc.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/2": "texts/quests/bounty/shared__clue_npc.questtemplate.json",
+    "/scriptConfig/objectives/findClueNpcStage/0": "texts/quests/bounty/shared_find_space_clue_.json",
+    "/scriptConfig/objectives/findClueNpcStage/1": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findSpaceBountyStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findSpaceBountyStage/1": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findSpaceBountyStage/2": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared__clue_npc.questtemplate.json"
   },
@@ -25977,6 +26016,11 @@
     "/scriptConfig/generatedText/text/prev/1": "texts/quests/bounty/shared__clue_object.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/2": "texts/quests/bounty/shared__clue_object.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/3": "texts/quests/bounty/shared__clue_object.questtemplate.json",
+    "/scriptConfig/objectives/findClueObjectStage/0": "texts/quests/bounty/shared_find_space_clue_.json",
+    "/scriptConfig/objectives/findClueObjectStage/1": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findSpaceBountyStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findSpaceBountyStage/1": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findSpaceBountyStage/2": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
@@ -25989,6 +26033,10 @@
     "/scriptConfig/generatedText/text/default/2": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/0": "texts/quests/bounty/shared_find_space_clue_.json",
     "/scriptConfig/generatedText/text/prev/1": "texts/quests/bounty/shared_find_space_clue_.json",
+    "/scriptConfig/objectives/findClueScanStage/1": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findSpaceBountyStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findSpaceBountyStage/1": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findSpaceBountyStage/2": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
@@ -25999,6 +26047,8 @@
     "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/1": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/2": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findWorldStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/tutorialClueStage/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
@@ -26008,6 +26058,8 @@
     "/scriptConfig/generatedText/failure/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findWorldStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/killBountyStage/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
   "quests/bounty/pre_bounty.questtemplate": {
@@ -26031,6 +26083,7 @@
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
   "quests/bounty/scan_planets.questtemplate": {
+    "/scriptConfig/objectives/findSystemStage/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },

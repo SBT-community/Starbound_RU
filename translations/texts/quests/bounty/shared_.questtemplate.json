@@ -281,6 +281,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/bounty_cyberspace.questtemplate": [
+        "/scriptConfig/objectives/findWorldStage/0"
+      ],
+      "quests/bounty/bounty_mission.questtemplate": [
+        "/scriptConfig/objectives/findWorldStage/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Travel to %s"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/bounty_cyberspace.questtemplate": [
         "/scriptConfig/generatedText/complete/default/1"
       ],
       "quests/bounty/bounty_mission.questtemplate": [
@@ -470,6 +484,52 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "quests/bounty/bounty_cyberspace.questtemplate": [
+        "/scriptConfig/objectives/missionBountyStage/0"
+      ],
+      "quests/bounty/bounty_mission.questtemplate": [
+        "/scriptConfig/objectives/missionBountyStage/0"
+      ],
+      "quests/bounty/capture_bounty.questtemplate": [
+        "/scriptConfig/objectives/killBountyStage/1"
+      ],
+      "quests/bounty/capture_ship_bounty.questtemplate": [
+        "/scriptConfig/objectives/killBountyStage/1"
+      ],
+      "quests/bounty/capture_space_bounty.questtemplate": [
+        "/scriptConfig/objectives/killBountyStage/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Apprehend^reset; ^green;<bounty.name>^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/capture_space_bounty.questtemplate": [
+        "/scriptConfig/objectives/findSpaceBountyStage/1"
+      ],
+      "quests/bounty/find_space_clue_item.questtemplate": [
+        "/scriptConfig/objectives/findSpaceBountyStage/1"
+      ],
+      "quests/bounty/find_space_clue_npc.questtemplate": [
+        "/scriptConfig/objectives/findSpaceBountyStage/1"
+      ],
+      "quests/bounty/find_space_clue_object.questtemplate": [
+        "/scriptConfig/objectives/findSpaceBountyStage/1"
+      ],
+      "quests/bounty/find_space_clue_scan.questtemplate": [
+        "/scriptConfig/objectives/findSpaceBountyStage/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Approach^reset; the ^green;Criminal Hideout^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "quests/bounty/capture_bounty.questtemplate": [
         "/title"
       ],
@@ -479,6 +539,29 @@
     },
     "Texts": {
       "Eng": "^orange;Bounty^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/capture_space_bounty.questtemplate": [
+        "/scriptConfig/objectives/findSpaceBountyStage/2"
+      ],
+      "quests/bounty/find_space_clue_item.questtemplate": [
+        "/scriptConfig/objectives/findSpaceBountyStage/2"
+      ],
+      "quests/bounty/find_space_clue_npc.questtemplate": [
+        "/scriptConfig/objectives/findSpaceBountyStage/2"
+      ],
+      "quests/bounty/find_space_clue_object.questtemplate": [
+        "/scriptConfig/objectives/findSpaceBountyStage/2"
+      ],
+      "quests/bounty/find_space_clue_scan.questtemplate": [
+        "/scriptConfig/objectives/findSpaceBountyStage/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Deploy^reset; to the ^green;Criminal Hideout^reset;"
     }
   },
   {
@@ -517,6 +600,153 @@
     },
     "Texts": {
       "Eng": "^orange;Kill bounty"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/bounty_cyberspace.questtemplate": [
+        "/scriptConfig/objectives/missionTeleportStage/1"
+      ],
+      "quests/bounty/bounty_mission.questtemplate": [
+        "/scriptConfig/objectives/missionTeleportStage/1"
+      ],
+      "quests/bounty/find_clue_item.questtemplate": [
+        "/scriptConfig/objectives/findClueItemStage/1"
+      ],
+      "quests/bounty/find_clue_npc.questtemplate": [
+        "/scriptConfig/objectives/findClueNpcStage/1"
+      ],
+      "quests/bounty/find_clue_object.questtemplate": [
+        "/scriptConfig/objectives/findClueObjectStage/1"
+      ],
+      "quests/bounty/find_clue_scan.questtemplate": [
+        "/scriptConfig/objectives/findClueScanStage/1"
+      ],
+      "quests/bounty/find_space_clue_item.questtemplate": [
+        "/scriptConfig/objectives/findClueItemStage/1"
+      ],
+      "quests/bounty/find_space_clue_npc.questtemplate": [
+        "/scriptConfig/objectives/findClueNpcStage/1"
+      ],
+      "quests/bounty/find_space_clue_object.questtemplate": [
+        "/scriptConfig/objectives/findClueObjectStage/1"
+      ],
+      "quests/bounty/find_space_clue_scan.questtemplate": [
+        "/scriptConfig/objectives/findClueScanStage/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Search^reset; for clues"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/bounty_cyberspace.questtemplate": [
+        "/scriptConfig/objectives/missionTeleportStage/0"
+      ],
+      "quests/bounty/bounty_mission.questtemplate": [
+        "/scriptConfig/objectives/missionTeleportStage/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Search^reset; planet for ^green;target signature^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/capture_bounty.questtemplate": [
+        "/scriptConfig/objectives/killBountyStage/0"
+      ],
+      "quests/bounty/find_clue_npc.questtemplate": [
+        "/scriptConfig/objectives/findClueNpcStage/0"
+      ],
+      "quests/bounty/kill_bounty_monster.questtemplate": [
+        "/scriptConfig/objectives/killBountyStage/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Search^reset; planet for target signature"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/find_clue_item.questtemplate": [
+        "/scriptConfig/objectives/findClueItemStage/0"
+      ],
+      "quests/bounty/find_clue_object.questtemplate": [
+        "/scriptConfig/objectives/findClueObjectStage/0"
+      ],
+      "quests/bounty/find_clue_scan.questtemplate": [
+        "/scriptConfig/objectives/findClueScanStage/0"
+      ],
+      "quests/bounty/find_tutorial_clues.questtemplate": [
+        "/scriptConfig/objectives/tutorialClueStage/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Search^reset; planet for the target's signature"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/capture_bounty.questtemplate": [
+        "/scriptConfig/objectives/findWorldStage/0"
+      ],
+      "quests/bounty/kill_bounty_monster.questtemplate": [
+        "/scriptConfig/objectives/findWorldStage/0"
+      ],
+      "quests/bounty/scan_planets.questtemplate": [
+        "/scriptConfig/objectives/findSystemStage/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Travel^reset; to %s"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/capture_ship_bounty.questtemplate": [
+        "/scriptConfig/objectives/findSpaceBountyStage/0"
+      ],
+      "quests/bounty/capture_space_bounty.questtemplate": [
+        "/scriptConfig/objectives/findSpaceBountyStage/0"
+      ],
+      "quests/bounty/find_clue_item.questtemplate": [
+        "/scriptConfig/objectives/findWorldStage/0"
+      ],
+      "quests/bounty/find_clue_npc.questtemplate": [
+        "/scriptConfig/objectives/findWorldStage/0"
+      ],
+      "quests/bounty/find_clue_object.questtemplate": [
+        "/scriptConfig/objectives/findWorldStage/0"
+      ],
+      "quests/bounty/find_clue_scan.questtemplate": [
+        "/scriptConfig/objectives/findWorldStage/0"
+      ],
+      "quests/bounty/find_space_clue_item.questtemplate": [
+        "/scriptConfig/objectives/findSpaceBountyStage/0"
+      ],
+      "quests/bounty/find_space_clue_npc.questtemplate": [
+        "/scriptConfig/objectives/findSpaceBountyStage/0"
+      ],
+      "quests/bounty/find_space_clue_object.questtemplate": [
+        "/scriptConfig/objectives/findSpaceBountyStage/0"
+      ],
+      "quests/bounty/find_space_clue_scan.questtemplate": [
+        "/scriptConfig/objectives/findSpaceBountyStage/0"
+      ],
+      "quests/bounty/find_tutorial_clues.questtemplate": [
+        "/scriptConfig/objectives/findWorldStage/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Travel^reset; to ^green;%s^reset;"
     }
   }
 ]
