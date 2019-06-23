@@ -129,7 +129,7 @@ function generateGang(seed)
   -- Result second: Совет Проклятых Волшебник<1:и|2:ов><2>
   -- Result third: Совет Проклятых Волшебников
   local name = suffix:gsub("<prefix>", prefix):gsub("<mid:([0-9a-z]+)>", mid.."<%1>")
-                 :gsub("<.*([0-9a-z]+):([^|>]+).*<%1>", "%2")
+                 :gsub("<.*([0-9a-z]+):([^|>]*).*<%1>", "%2")
   return {
     name = name,
     hat = hatName,
