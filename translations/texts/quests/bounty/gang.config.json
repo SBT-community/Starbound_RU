@@ -9,7 +9,7 @@
     },
     "Texts": {
       "Eng": " Angel",
-      "Rus": "Ангел"
+      "Rus": "Ангел<plu:ы|gen:ов>"
     }
   },
   {
@@ -22,7 +22,7 @@
     },
     "Texts": {
       "Eng": " Assassin",
-      "Rus": "Ассасин"
+      "Rus": "Ассасин<plu:ы|gen:ов>"
     }
   },
   {
@@ -35,7 +35,7 @@
     },
     "Texts": {
       "Eng": " Assembly",
-      "Rus": "ская ассамблея"
+      "Rus": "Ассамблея <prefix> <mid:gen>"
     }
   },
   {
@@ -48,7 +48,7 @@
     },
     "Texts": {
       "Eng": " Associates",
-      "Rus": "ские Ассоциации"
+      "Rus": "Ассоциации <prefix> <mid:gen>"
     }
   },
   {
@@ -61,7 +61,7 @@
     },
     "Texts": {
       "Eng": " Association",
-      "Rus": "ская Ассоциация"
+      "Rus": "Ассоциация <prefix> <mid:gen>"
     }
   },
   {
@@ -74,7 +74,7 @@
     },
     "Texts": {
       "Eng": " Bad",
-      "Rus": "Плохиш"
+      "Rus": "Плохиш<plu:и|gen:ей>"
     }
   },
   {
@@ -87,7 +87,7 @@
     },
     "Texts": {
       "Eng": " Banana",
-      "Rus": "Банан"
+      "Rus": "Банан<plu:ы|gen:ов>"
     }
   },
   {
@@ -100,7 +100,7 @@
     },
     "Texts": {
       "Eng": " Band",
-      "Rus": "ская Банда"
+      "Rus": "Оркестр <prefix> <mid:gen>"
     }
   },
   {
@@ -113,7 +113,7 @@
     },
     "Texts": {
       "Eng": " Bandit",
-      "Rus": "Бандит"
+      "Rus": "Бандит<plu:ы|gen:ов>"
     }
   },
   {
@@ -126,7 +126,7 @@
     },
     "Texts": {
       "Eng": " Bear",
-      "Rus": "Медвед"
+      "Rus": "Медвед<plu:и|gen:ей>"
     }
   },
   {
@@ -139,7 +139,7 @@
     },
     "Texts": {
       "Eng": " Beat",
-      "Rus": "Удар"
+      "Rus": "Удар<plu:ы|gen:ов>"
     }
   },
   {
@@ -152,7 +152,7 @@
     },
     "Texts": {
       "Eng": " Bee",
-      "Rus": "Пчел"
+      "Rus": "Пчёл<plu:ы|gen:>"
     }
   },
   {
@@ -165,7 +165,7 @@
     },
     "Texts": {
       "Eng": " Blade",
-      "Rus": "Катан"
+      "Rus": "Клинк<plu:и|gen:ов>"
     }
   },
   {
@@ -178,7 +178,7 @@
     },
     "Texts": {
       "Eng": " Bolt",
-      "Rus": "Болт"
+      "Rus": "Болт<plu:ы|gen:ов>"
     }
   },
   {
@@ -191,7 +191,7 @@
     },
     "Texts": {
       "Eng": " Boys",
-      "Rus": "ские Мальчики"
+      "Rus": "Мальчики <prefix> <mid:gen>"
     }
   },
   {
@@ -204,7 +204,7 @@
     },
     "Texts": {
       "Eng": " Brew",
-      "Rus": "Пивовар"
+      "Rus": "Пивовар<plu:ы|gen:ов>"
     }
   },
   {
@@ -217,7 +217,7 @@
     },
     "Texts": {
       "Eng": " Brigade",
-      "Rus": "ская Бригада"
+      "Rus": "Бригада <prefix> <mid:gen>"
     }
   },
   {
@@ -230,7 +230,7 @@
     },
     "Texts": {
       "Eng": " Brute",
-      "Rus": "Верзил"
+      "Rus": "Верзил<plu:ы|gen:>"
     }
   },
   {
@@ -243,7 +243,7 @@
     },
     "Texts": {
       "Eng": " Buddies",
-      "Rus": "ские Друганы"
+      "Rus": "Друганы <prefix> <mid:gen>"
     }
   },
   {
@@ -256,7 +256,7 @@
     },
     "Texts": {
       "Eng": " Bullet",
-      "Rus": "Пуль"
+      "Rus": "Пул<plu:и|gen:ь>"
     }
   },
   {
@@ -269,7 +269,7 @@
     },
     "Texts": {
       "Eng": " Bunch",
-      "Rus": "ская Кучка"
+      "Rus": "Кучка <prefix> <mid:gen>"
     }
   },
   {
@@ -282,7 +282,7 @@
     },
     "Texts": {
       "Eng": " Captain",
-      "Rus": "Капитан"
+      "Rus": "Капитан<plu:ы|gen:ов>"
     }
   },
   {
@@ -295,7 +295,7 @@
     },
     "Texts": {
       "Eng": " Cartel",
-      "Rus": "ский Картель"
+      "Rus": "Картель <prefix> <mid:gen>"
     }
   },
   {
@@ -308,7 +308,7 @@
     },
     "Texts": {
       "Eng": " Cat",
-      "Rus": "Кот"
+      "Rus": "Кот<plu:ы|gen:ов>"
     }
   },
   {
@@ -321,7 +321,7 @@
     },
     "Texts": {
       "Eng": " Circle",
-      "Rus": "ский Круг"
+      "Rus": "<mid:plu> <prefix> Кругов"
     }
   },
   {
@@ -334,7 +334,7 @@
     },
     "Texts": {
       "Eng": " Clan",
-      "Rus": "ский Клан"
+      "Rus": "Клан <prefix> <mid:gen>"
     }
   },
   {
@@ -347,7 +347,7 @@
     },
     "Texts": {
       "Eng": " Class",
-      "Rus": " Класс"
+      "Rus": "Род <prefix> <mid:gen>"
     }
   },
   {
@@ -360,7 +360,7 @@
     },
     "Texts": {
       "Eng": " Clique",
-      "Rus": "ская Клика"
+      "Rus": "Клика <prefix> <mid:gen>"
     }
   },
   {
@@ -386,7 +386,7 @@
     },
     "Texts": {
       "Eng": " Club",
-      "Rus": "ский Клуб"
+      "Rus": "Клуб <prefix> <mid:gen>"
     }
   },
   {
@@ -399,7 +399,7 @@
     },
     "Texts": {
       "Eng": " Collective",
-      "Rus": "ский Коллектив"
+      "Rus": "Коллектив <prefix> <mid:gen>"
     }
   },
   {
@@ -425,7 +425,7 @@
     },
     "Texts": {
       "Eng": " Company",
-      "Rus": "ская Компания"
+      "Rus": "Компания <prefix> <mid:gen>"
     }
   },
   {
@@ -438,7 +438,7 @@
     },
     "Texts": {
       "Eng": " Council",
-      "Rus": "ский Совет"
+      "Rus": "Совет <prefix> <mid:gen>"
     }
   },
   {
@@ -451,7 +451,7 @@
     },
     "Texts": {
       "Eng": " Coven",
-      "Rus": "ский Шабаш"
+      "Rus": "Шабаш <prefix> <mid:gen>"
     }
   },
   {
@@ -464,7 +464,7 @@
     },
     "Texts": {
       "Eng": " Crew",
-      "Rus": "ская Комманда"
+      "Rus": "Команда <prefix> <mid:gen>"
     }
   },
   {
@@ -503,7 +503,7 @@
     },
     "Texts": {
       "Eng": " Crowd",
-      "Rus": "ская Толпа"
+      "Rus": "Толпа <prefix> <mid:gen>"
     }
   },
   {
@@ -516,7 +516,7 @@
     },
     "Texts": {
       "Eng": " Cult",
-      "Rus": "ский Культ"
+      "Rus": "Культ <prefix> <mid:gen>"
     }
   },
   {
@@ -660,7 +660,7 @@
     },
     "Texts": {
       "Eng": " Faction",
-      "Rus": "ская Фракция"
+      "Rus": "Фракция <prefix> <mid:gen>"
     }
   },
   {
@@ -673,7 +673,7 @@
     },
     "Texts": {
       "Eng": " Family",
-      "Rus": "ская Семья"
+      "Rus": "Семья <prefix> <mid:gen>"
     }
   },
   {
@@ -686,7 +686,7 @@
     },
     "Texts": {
       "Eng": " Fellowship",
-      "Rus": "ское Братство"
+      "Rus": "Братство <prefix> <mid:gen>"
     }
   },
   {
@@ -712,7 +712,7 @@
     },
     "Texts": {
       "Eng": " Folks",
-      "Rus": "ские Дружки"
+      "Rus": "Дружки <prefix> <mid:gen>"
     }
   },
   {
@@ -751,7 +751,7 @@
     },
     "Texts": {
       "Eng": " Friends",
-      "Rus": "ские Друзья"
+      "Rus": "Друзья <prefix> <mid:gen>"
     }
   },
   {
@@ -790,7 +790,7 @@
     },
     "Texts": {
       "Eng": " Gang",
-      "Rus": "ская Банда"
+      "Rus": "Банда <prefix> <mid:gen>"
     }
   },
   {
@@ -829,7 +829,7 @@
     },
     "Texts": {
       "Eng": " Group",
-      "Rus": "ская Группа"
+      "Rus": "Группа <prefix> <mid:gen>"
     }
   },
   {
@@ -1011,7 +1011,7 @@
     },
     "Texts": {
       "Eng": " League",
-      "Rus": "ская Лига"
+      "Rus": "Лига <prefix> <mid:gen>"
     }
   },
   {
@@ -1024,7 +1024,7 @@
     },
     "Texts": {
       "Eng": " Legion",
-      "Rus": "ский Легион"
+      "Rus": "Легион <prefix> <mid:gen>"
     }
   },
   {
@@ -1037,7 +1037,7 @@
     },
     "Texts": {
       "Eng": " Lot",
-      "Rus": ""
+      "Rus": "Много  <prefix> <mid:gen>"
     }
   },
   {
@@ -1050,7 +1050,7 @@
     },
     "Texts": {
       "Eng": " Mafia",
-      "Rus": "ская Мафия"
+      "Rus": "Мафия <prefix> <mid:gen>"
     }
   },
   {
@@ -1076,7 +1076,7 @@
     },
     "Texts": {
       "Eng": " Militia",
-      "Rus": "ская Милиция"
+      "Rus": "Милиция <prefix> <mid:gen>"
     }
   },
   {
@@ -1089,7 +1089,7 @@
     },
     "Texts": {
       "Eng": " Mob",
-      "Rus": "ская Шайка"
+      "Rus": "Шайка <prefix> <mid:gen>"
     }
   },
   {
@@ -1167,7 +1167,7 @@
     },
     "Texts": {
       "Eng": " Order",
-      "Rus": "ский Порядок"
+      "Rus": "<mid:plu> <prefix> Порядков"
     }
   },
   {
@@ -1180,7 +1180,7 @@
     },
     "Texts": {
       "Eng": " Pack",
-      "Rus": "ская Стая"
+      "Rus": "Стая <prefix> <mid:gen>"
     }
   },
   {
@@ -1193,7 +1193,7 @@
     },
     "Texts": {
       "Eng": " Pals",
-      "Rus": "ские Приятели"
+      "Rus": "Приятели <prefix> <mid:gen>"
     }
   },
   {
@@ -1206,7 +1206,7 @@
     },
     "Texts": {
       "Eng": " Party",
-      "Rus": "ская Партия"
+      "Rus": "Партия <prefix> <mid:gen>"
     }
   },
   {
@@ -1219,7 +1219,7 @@
     },
     "Texts": {
       "Eng": " People",
-      "Rus": "ский Народ"
+      "Rus": "Народ <prefix> <mid:gen>"
     }
   },
   {
@@ -1271,7 +1271,7 @@
     },
     "Texts": {
       "Eng": " Platoon",
-      "Rus": "ский Взвод"
+      "Rus": "Взвод <prefix> <mid:gen>"
     }
   },
   {
@@ -1310,7 +1310,7 @@
     },
     "Texts": {
       "Eng": " Posse",
-      "Rus": ""
+      "Rus": "Рота  <prefix> <mid:gen>"
     }
   },
   {
@@ -1427,7 +1427,7 @@
     },
     "Texts": {
       "Eng": " Ring",
-      "Rus": "ский Круг"
+      "Rus": "Круг <prefix> <mid:gen>"
     }
   },
   {
@@ -1856,7 +1856,7 @@
     },
     "Texts": {
       "Eng": " Team",
-      "Rus": "ская Команда"
+      "Rus": "Бригада <prefix> <mid:gen>"
     }
   },
   {
@@ -1960,7 +1960,7 @@
     },
     "Texts": {
       "Eng": " Troop",
-      "Rus": "ские Войска"
+      "Rus": "Войска <prefix> <mid:gen>"
     }
   },
   {
@@ -1973,7 +1973,7 @@
     },
     "Texts": {
       "Eng": " Troupe",
-      "Rus": "ская Трупа"
+      "Rus": "Труппа <prefix> <mid:gen>"
     }
   },
   {
@@ -1986,7 +1986,7 @@
     },
     "Texts": {
       "Eng": " Trust",
-      "Rus": "ский Концерн"
+      "Rus": "Концерн <prefix> <mid:gen>"
     }
   },
   {
@@ -1999,7 +1999,7 @@
     },
     "Texts": {
       "Eng": " Union",
-      "Rus": "ский Союз"
+      "Rus": "Союз <prefix> <mid:gen>"
     }
   },
   {
