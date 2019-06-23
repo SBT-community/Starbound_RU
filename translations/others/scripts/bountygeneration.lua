@@ -122,8 +122,14 @@ function generateGang(seed)
   while capstoneColor == majorColor do
     capstoneColor = math.random(1, 11)
   end
-  local name = string.format("%s%s%s", mid, suffix, prefix)
-  name = name:gsub("([ктшпбгц])ск", "%1овск"):gsub("([шжгк])ы", "%1и"):gsub("лск", "льск"):gsub("ьы", "и")
+  -- Format suffix Совет <prefix> <mid:2>
+  -- Format prefix Проклятых
+  -- Format mid Волшебник<1:и|2:ов>
+  -- Result first: Совет Проклятых <mid:2>
+  -- Result second: Совет Проклятых Волшебник<1:и|2:ов><2>
+  -- Result third: Совет Проклятых Волшебников
+  local name = suffix:gsub("<prefix>", prefix):gsub("<mid:([0-9a-z]+)>", mid.."<%1>")
+                 :gsub("<.*([0-9a-z]+):([^|>]+).*<%1>", "%2")
   return {
     name = name,
     hat = hatName,
