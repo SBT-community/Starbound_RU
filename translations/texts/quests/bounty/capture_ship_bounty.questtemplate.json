@@ -21,5 +21,38 @@
     "Texts": {
       "Eng": "You apprehended the bounty!"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/capture_ship_bounty.questtemplate": [
+        "/scriptConfig/objectives/findSpaceBountyStage/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Approach^reset; the ^green;Suspicious Ship^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/capture_ship_bounty.questtemplate": [
+        "/scriptConfig/objectives/findSpaceBountyStage/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Deploy^reset; to the ^green;Suspicious Ship^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/capture_ship_bounty.questtemplate": [
+        "/scriptConfig/objectives/killBountyStage/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Find^reset; the target's ^green; ship^reset;"
+    }
   }
 ]

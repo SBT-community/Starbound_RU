@@ -13628,6 +13628,7 @@
     "quests": {
       "bounty": {
         "assignment.config.json": 0,
+        "bounty.config.json": 0,
         "bounty_gen.questtemplate.json": 0,
         "bountyassignment.questtemplate.json": 0,
         "capture_bounty.questtemplate.json": 0,
@@ -13638,10 +13639,14 @@
         "clue_npcs.config.json": 0,
         "clue_objects.config.json": 0,
         "clue_scans.config.json": 0,
+        "cultist_mission1.questtemplate.json": 0,
         "find_clue_item.questtemplate.json": 0,
         "find_clue_scan.questtemplate.json": 0,
+        "find_space_clue_scan.questtemplate.json": 0,
         "find_tutorial_clues.questtemplate.json": 0,
+        "gang.config.json": 187,
         "generator.config.json": 0,
+        "kill_bounty_monster.questtemplate.json": 0,
         "pre_bounty.questtemplate.json": 0,
         "pre_bounty_capstone.questtemplate.json": 0,
         "pre_bounty_minor_monster.questtemplate.json": 0,

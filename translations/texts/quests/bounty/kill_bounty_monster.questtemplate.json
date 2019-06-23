@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/kill_bounty_monster.questtemplate": [
+        "/scriptConfig/objectives/killBountyStage/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Kill^reset; ^green;<bounty.name>^reset;"
+    }
+  }
+]
