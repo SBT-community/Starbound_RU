@@ -10,7 +10,8 @@
       ]
     },
     "Texts": {
-      "Eng": "--TODO-- You let them go!? How is that supposed to make the universe a safer place?"
+      "Eng": "--TODO-- You let them go!? How is that supposed to make the universe a safer place?",
+      "Rus": ""
     }
   },
   {
@@ -30,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<bounty.name> was last seen <coordinate.preposition> <coordinate.name>."
+      "Eng": "<bounty.name> was last seen <coordinate.preposition> <coordinate.name>.",
+      "Rus": "<bounty.accusative> в последний раз видели <coordinate.preposition> <coordinate.name>."
     }
   },
   {
@@ -47,7 +49,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<bounty.name> was last seen on <coordinate.name>."
+      "Eng": "<bounty.name> was last seen on <coordinate.name>.",
+      "Rus": "<bounty.accusative> в последний раз видели в <coordinate.name>."
     }
   },
   {
@@ -82,7 +85,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Find a clue to the location of the bounty"
+      "Eng": "Find a clue to the location of the bounty",
+      "Rus": "Найдите улики о местонахождении цели"
     }
   },
   {
@@ -111,7 +115,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Having exhausted all available leads, we're forced to abandon the hunt for <bounty.name>. It is a dark day for justice."
+      "Eng": "Having exhausted all available leads, we're forced to abandon the hunt for <bounty.name>. It is a dark day for justice.",
+      "Rus": "Исчерпав все возможные зацепки, мы были вынуждены прекратить охоту на <bounty.accusative>. Это тёмный день, для правосудия."
     }
   },
   {
@@ -128,7 +133,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Kill the bounty at the place"
+      "Eng": "Kill the bounty at the place",
+      "Rus": "Убейте преступника на месте"
     }
   },
   {
@@ -142,7 +148,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Mighty fine job takin' on <bounty.name>, partner! Justice truly has been served this day.\n\nCome by the Peacekeeper Station to collect your rewards!"
+      "Eng": "Mighty fine job takin' on <bounty.name>, partner! Justice truly has been served this day.\n\nCome by the Peacekeeper Station to collect your rewards!",
+      "Rus": ""
     }
   },
   {
@@ -162,7 +169,8 @@
       ]
     },
     "Texts": {
-      "Eng": "My findings <prev.coordinate.preposition> <prev.coordinate.name> have led me to believe <bounty.name> is <coordinate.preposition> <coordinate.name>."
+      "Eng": "My findings <prev.coordinate.preposition> <prev.coordinate.name> have led me to believe <bounty.name> is <coordinate.preposition> <coordinate.name>.",
+      "Rus": "Мои находки  <prev.coordinate.preposition> <prev.coordinate.name> привели меня к мысли, что <bounty.name> находится <coordinate.preposition> <coordinate.name>."
     }
   },
   {
@@ -191,7 +199,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The trail's gone cold! Without any further leads, <bounty.name> has slipped through our fingers once again. Who knows what heinous crimes they'll commit before we get another chance to take them down?"
+      "Eng": "The trail's gone cold! Without any further leads, <bounty.name> has slipped through our fingers once again. Who knows what heinous crimes they'll commit before we get another chance to take them down?",
+      "Rus": "След остыл! Без дальнейших зацепок, <bounty.name> снова выскользнул<bounty.pronoun.verbEnding> у нас из рук. Кто знает, насколько отвратительные преступления <bounty.pronoun.subject> ещё совершит, перед тем, как мы получим ещё один шанс <bounty.pronoun.reflexive> поймать."
     }
   },
   {
@@ -211,7 +220,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This completion text won't be displayed."
+      "Eng": "This completion text won't be displayed.",
+      "Rus": ""
     }
   },
   {
@@ -234,7 +244,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This text will not be displayed"
+      "Eng": "This text will not be displayed",
+      "Rus": ""
     }
   },
   {
@@ -254,7 +265,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This text won't be displayed."
+      "Eng": "This text won't be displayed.",
+      "Rus": ""
     }
   },
   {
@@ -274,7 +286,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This title won't be displayed."
+      "Eng": "This title won't be displayed.",
+      "Rus": ""
     }
   },
   {
@@ -288,7 +301,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Travel to %s"
+      "Eng": "Travel to %s",
+      "Rus": "Отправляйтесь в %s"
     }
   },
   {
@@ -302,7 +316,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You apprehended <bounty.name>? Excellent work, partner! The universe is just a little bit safer now.\n\nCome by the Peacekeeper Station to collect your rewards!"
+      "Eng": "You apprehended <bounty.name>? Excellent work, partner! The universe is just a little bit safer now.\n\nCome by the Peacekeeper Station to collect your rewards!",
+      "Rus": "Ты задержал<player.pronoun.verbEnding> <bounty.accusative>? Превосходная работа, партнёр! Теперь вселенная стала чуточку безопаснее.\n\nПриходи на Станцию Миротворцев, чтобы забрать свою награду!"
     }
   },
   {
@@ -328,7 +343,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You have found a clue. Where does it lead?"
+      "Eng": "You have found a clue. Where does it lead?",
+      "Rus": "Ты обнаружил<player.pronoun.verbEnding> зацепку. Куда она ведёт?"
     }
   },
   {
@@ -345,7 +361,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You killed the bounty"
+      "Eng": "You killed the bounty",
+      "Rus": "Вы уничтожили преступника"
     }
   },
   {
@@ -365,7 +382,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You let them go!? I gotta say, you've failed in your duties as a Peacekeeper this time, partner!"
+      "Eng": "You let them go!? I gotta say, you've failed in your duties as a Peacekeeper this time, partner!",
+      "Rus": "Ты <bounty.pronoun.reflexive> отпустил<player.pronoun.verbEnding>?! Хочу сказать, что на этот раз ты не оправдал<player.pronoun.verbEnding> возложенной на тебя ответственности как на Миротворца, партнёр!"
     }
   },
   {
@@ -379,7 +397,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You took out <bounty.name>? Excellent work, partner! The universe is just a little bit safer now.\n\nCome by the Peacekeeper office next time you're on the Outpost to collect your rewards!"
+      "Eng": "You took out <bounty.name>? Excellent work, partner! The universe is just a little bit safer now.\n\nCome by the Peacekeeper office next time you're on the Outpost to collect your rewards!",
+      "Rus": "Ты взял<player.pronoun.verbEnding> <bounty.accusative>? Превосходная работа, партнёр! Теперь вселенная стала чуточку безопаснее.\n\nПриходи в офис Миротворцев в следующий раз, как объявишься на форпосте, чтобы забрать свою награду!"
     }
   },
   {
@@ -414,7 +433,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^orange;<bounty.name>^reset; was last seen <coordinate.preposition> <coordinate.name>.\n\n"
+      "Eng": "^orange;<bounty.name>^reset; was last seen <coordinate.preposition> <coordinate.name>.\n\n",
+      "Rus": "^orange;<bounty.accusative>^reset; последний раз видели <coordinate.preposition> <coordinate.name>."
     }
   },
   {
@@ -446,7 +466,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^orange;<bounty.name>^reset; was last spotted <coordinate.preposition> <coordinate.name>.\n\n"
+      "Eng": "^orange;<bounty.name>^reset; was last spotted <coordinate.preposition> <coordinate.name>.\n\n",
+      "Rus": "^orange;<bounty.name>^reset; последний раз засветился <coordinate.preposition> <coordinate.name>."
     }
   },
   {
@@ -478,7 +499,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^orange;<bounty.name>^reset;'s trail went cold <coordinate.preposition> <coordinate.name>.\n\n"
+      "Eng": "^orange;<bounty.name>^reset;'s trail went cold <coordinate.preposition> <coordinate.name>.\n\n",
+      "Rus": "След ^orange;<bounty.accusative>^reset; остыл <coordinate.preposition> <coordinate.name>."
     }
   },
   {
@@ -501,7 +523,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^orange;Apprehend^reset; ^green;<bounty.name>^reset;"
+      "Eng": "^orange;Apprehend^reset; ^green;<bounty.name>^reset;",
+      "Rus": "^orange;Арестуйте^reset; ^green;<bounty.accusative>^reset;"
     }
   },
   {
@@ -524,7 +547,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^orange;Approach^reset; the ^green;Criminal Hideout^reset;"
+      "Eng": "^orange;Approach^reset; the ^green;Criminal Hideout^reset;",
+      "Rus": "^orange;Доберитесь^reset; до ^green;Убежища Преступников^reset;"
     }
   },
   {
@@ -538,7 +562,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^orange;Bounty^reset;"
+      "Eng": "^orange;Bounty^reset;",
+      "Rus": "^orange;Цель^reset;"
     }
   },
   {
@@ -561,7 +586,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^orange;Deploy^reset; to the ^green;Criminal Hideout^reset;"
+      "Eng": "^orange;Deploy^reset; to the ^green;Criminal Hideout^reset;",
+      "Rus": "^orange;Совершите высадку^reset; в ^green;Убежище Преступников^reset;"
     }
   },
   {
@@ -599,7 +625,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^orange;Kill bounty"
+      "Eng": "^orange;Kill bounty",
+      "Rus": "^orange;Убейте преступника"
     }
   },
   {
@@ -637,7 +664,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^orange;Search^reset; for clues"
+      "Eng": "^orange;Search^reset; for clues",
+      "Rus": "^orange;Найдите^reset; зацепки"
     }
   },
   {
@@ -651,7 +679,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^orange;Search^reset; planet for ^green;target signature^reset;"
+      "Eng": "^orange;Search^reset; planet for ^green;target signature^reset;",
+      "Rus": "^orange;Отыщите^reset; ^green;следы цели^reset; на планете"
     }
   },
   {
@@ -668,7 +697,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^orange;Search^reset; planet for target signature"
+      "Eng": "^orange;Search^reset; planet for target signature",
+      "Rus": "^orange;Отыщите^reset; следы цели на планеты"
     }
   },
   {
@@ -688,7 +718,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^orange;Search^reset; planet for the target's signature"
+      "Eng": "^orange;Search^reset; planet for the target's signature",
+      "Rus": "^orange;Отыщите^reset; следы цели на планете"
     }
   },
   {
@@ -705,7 +736,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^orange;Travel^reset; to %s"
+      "Eng": "^orange;Travel^reset; to %s",
+      "Rus": "^orange;Отправляйтесь^reset; в %s"
     }
   },
   {
@@ -746,7 +778,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^orange;Travel^reset; to ^green;%s^reset;"
+      "Eng": "^orange;Travel^reset; to ^green;%s^reset;",
+      "Rus": "^orange;Отправляйтесь^reset; в ^green;%s^reset;"
     }
   }
 ]

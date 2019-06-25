@@ -476,7 +476,7 @@
           "ancientconsolegui.config.json": 3
         },
         "bountyboard": {
-          "bountyboardgui.config.json": 6
+          "bountyboardgui.config.json": 7
         },
         "collections": {
           "collectionsgui.config.json": 4
@@ -725,7 +725,7 @@
           "hoverbikecontrollergreen.activeitem.json": 2,
           "hoverbikecontrollerkhaki.activeitem.json": 2,
           "hoverbikecontrollerred.activeitem.json": 2,
-          "sportscarcontrollerred.activeitem.json": 0
+          "sportscarcontrollerred.activeitem.json": 2
         },
         "weapons": {
           "arena": {
@@ -1195,7 +1195,7 @@
                 "doomcannon.activeitem.json": 1
               },
               "gluesprayer": {
-                "gluesprayer.activeitem.json": 0
+                "gluesprayer.activeitem.json": 2
               },
               "neolaserlauncher": {
                 "neolaserlauncher.activeitem.json": 0
@@ -7695,7 +7695,7 @@
           "scanclue2.object.json": 0
         },
         "shared_scanclue": {
-          "shared_scanclue.json": 0
+          "shared_scanclue.json": 6
         }
       },
       "bugs": {
@@ -13630,9 +13630,9 @@
         "assignment.config.json": 0,
         "bounty.config.json": 0,
         "bounty_gen.questtemplate.json": 0,
-        "bountyassignment.questtemplate.json": 0,
+        "bountyassignment.questtemplate.json": 7,
         "capture_bounty.questtemplate.json": 0,
-        "capture_ship_bounty.questtemplate.json": 0,
+        "capture_ship_bounty.questtemplate.json": 3,
         "capture_space_bounty.questtemplate.json": 0,
         "clue_bounties.config.json": 0,
         "clue_items.config.json": 0,
@@ -13652,7 +13652,7 @@
         "pre_bounty_minor_monster.questtemplate.json": 0,
         "pre_bounty_minor_npc.questtemplate.json": 0,
         "scan_planets.questtemplate.json": 0,
-        "shared_.questtemplate.json": 0,
+        "shared_.questtemplate.json": 27,
         "shared__clue_npc.questtemplate.json": 0,
         "shared__clue_object.questtemplate.json": 0,
         "shared_find_space_clue_.json": 0
