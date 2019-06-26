@@ -809,10 +809,18 @@ function util.replaceTag(data, tagName, tagValue)
   end
 end
 
+require "/scripts/quest/declension.lua"
+
 function util.generateTextTags(t)
   local tags = {}
   for k,v in pairs(t) do
     if type(v) == "table" then
+      if v.name then
+        local injector = function (name, decliner)
+          tags[k..name] = decliner(v)
+        end
+        injectDecliners(injector)
+      end
       for tagName,tag in pairs(util.generateTextTags(v)) do
         tags[k.."."..tagName] = tag
       end
