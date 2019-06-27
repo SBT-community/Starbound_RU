@@ -1,6 +1,7 @@
 require "/interface/cockpit/cockpitutil.lua"
 require "/scripts/rect.lua"
 require "/scripts/util.lua"
+require "/scripts/quest/text_generation.lua"
 
 function findAssignmentArea(fromPosition, systemTypes, rand)
   local maxSize = root.assetJson("/quests/bounty/generator.config:assignmentMaxSize")
