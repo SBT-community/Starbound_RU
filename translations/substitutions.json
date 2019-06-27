@@ -5808,6 +5808,8 @@
     "/scriptConfig/behaviorConfig/bribeOk": "texts/wide_spread_fields.json"
   },
   "npcs/bounty/ignobletarget.npctype": {
+    "/identity/name": "texts/bounty/shared_ign.json",
+    "/npcname": "texts/bounty/shared_ign.json",
     "/scriptConfig/dialog/killedTarget/default/default/0": "texts/npcs/bounty/shared_.npctype.json",
     "/scriptConfig/dialog/lostTarget/default/default/0": "texts/npcs/bounty/shared_.npctype.json"
   },
@@ -25748,7 +25750,9 @@
     "/shortdescription": "texts/plants/grass/ground/shared_.grass.json"
   },
   "quests/bounty/assignment.config": {
-    "/bountyTypes/occasusCommander/questConfig/target/monster/parameters/shortdescription": "texts/wide_spread_fields.json"
+    "/bountyTypes/occasusCommander/questConfig/target/monster/parameters/shortdescription": "texts/wide_spread_fields.json",
+    "/bountyTypes/occasusCommander/questConfig/target/name": "texts/wide_spread_fields.json",
+    "/bountyTypes/tutorialCapstone/questConfig/target/name": "texts/bounty/shared_ign.json"
   },
   "quests/bounty/bounty_cyberspace.questtemplate": {
     "/completionText": "texts/quests/bounty/shared_.questtemplate.json",

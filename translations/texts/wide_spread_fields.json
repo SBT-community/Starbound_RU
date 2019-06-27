@@ -441,7 +441,8 @@
         "/shortdescription"
       ],
       "quests/bounty/assignment.config": [
-        "/bountyTypes/occasusCommander/questConfig/target/monster/parameters/shortdescription"
+        "/bountyTypes/occasusCommander/questConfig/target/monster/parameters/shortdescription",
+        "/bountyTypes/occasusCommander/questConfig/target/name"
       ],
       "radiomessages/missions.radiomessages": [
         "/cultistmission06b/senderName",

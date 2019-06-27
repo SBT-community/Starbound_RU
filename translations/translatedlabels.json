@@ -134,6 +134,9 @@
       }
     },
     "blueprint.config.json": 2,
+    "bounty": {
+      "shared_ign.json": 1
+    },
     "celestial.config.json": 32,
     "cinematics": {
       "intro": {
@@ -4819,7 +4822,7 @@
       "blacksmith.npctype.json": 9,
       "bounty": {
         "bountytarget.npctype.json": 0,
-        "ignobletarget.npctype.json": 3,
+        "ignobletarget.npctype.json": 2,
         "nobleclue.npctype.json": 1,
         "shared_.npctype.json": 2
       },

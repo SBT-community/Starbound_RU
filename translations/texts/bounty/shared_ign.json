@@ -1,0 +1,18 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/bounty/ignobletarget.npctype": [
+        "/identity/name",
+        "/npcname"
+      ],
+      "quests/bounty/assignment.config": [
+        "/bountyTypes/tutorialCapstone/questConfig/target/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Captain Ignoble",
+      "Rus": "Капитан Шнобель"
+    }
+  }
+]

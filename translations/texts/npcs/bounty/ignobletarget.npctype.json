@@ -3,19 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/bounty/ignobletarget.npctype": [
-        "/identity/name",
-        "/npcname"
-      ]
-    },
-    "Texts": {
-      "Eng": "Captain Ignoble",
-      "Rus": "Капитан Шнобель"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/bounty/ignobletarget.npctype": [
         "/scriptConfig/dialog/arrested/default/default/0"
       ]
     },
