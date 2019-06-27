@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/bounty/bountytarget.npctype": [
+        "/scriptConfig/behaviorConfig/bribeTitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Accept bribe?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/bounty/bountytarget.npctype": [
+        "/scriptConfig/behaviorConfig/bribeMessage"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you let this criminal go, they have offered to give you ^orange;a rare treasure^reset;. Do you wish to accept the bribe?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/bounty/bountytarget.npctype": [
+        "/scriptConfig/behaviorConfig/bribeHatMessage"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you let this criminal go, they have offered to give you ^orange;their hat^reset;. Do you wish to accept the bribe?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/bounty/bountytarget.npctype": [
+        "/scriptConfig/behaviorConfig/bribeSubtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "This criminal has offered you a bribe"
+    }
+  }
+]

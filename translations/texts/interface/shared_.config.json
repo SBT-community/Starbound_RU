@@ -1,35 +1,5 @@
 [
   {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/gui/editBookmarkFrame/children/ok/caption"
-      ],
-      "interface/optionsmenu/optionsmenu.config": [
-        "/paneLayout/acceptButton/caption"
-      ],
-      "interface/windowconfig/editbookmark.config": [
-        "/paneLayout/ok/caption"
-      ],
-      "interface/windowconfig/keybindingsmenu.config": [
-        "/paneLayout/accept/caption"
-      ],
-      "interface/windowconfig/newquest.config": [
-        "/paneLayout/btnAccept/caption"
-      ],
-      "interface/windowconfig/newquestshort.config": [
-        "/paneLayout/btnAccept/caption"
-      ],
-      "interface/windowconfig/teaminvitation.config": [
-        "/paneLayout/ok/caption"
-      ]
-    },
-    "Texts": {
-      "Eng": "Accept",
-      "Rus": "Принять"
-    }
-  },
-  {
     "DeniedAlternatives": [
       "ЧЕРТЁЖ"
     ],

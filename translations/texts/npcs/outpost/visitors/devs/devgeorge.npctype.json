@@ -3,6 +3,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/outpost/visitors/devs/devgeorge.npctype": [
+        "/identity/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "George"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/devs/devgeorge.npctype": [
         "/scriptConfig/dialog/converse/default/default/0"
       ]
     },

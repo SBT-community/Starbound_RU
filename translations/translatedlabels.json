@@ -530,7 +530,7 @@
           "weaponupgradegui.config.json": 5
         }
       },
-      "shared_.config.json": 16,
+      "shared_.config.json": 15,
       "shared_bow..json": 1,
       "shared_gun..json": 1,
       "shared_mecharm..json": 2,
@@ -594,7 +594,7 @@
         "questcomplete.config.json": 1,
         "questfailed.config.json": 1,
         "questlog.config.json": 10,
-        "shared_.config.json": 14,
+        "shared_.config.json": 13,
         "shared_crafting.json": 5,
         "songbook.config.json": 6,
         "teambar.config.json": 1,
@@ -4799,6 +4799,7 @@
         "arenahunter.npctype.json": 6,
         "arenapyro.npctype.json": 12,
         "arenashooter.npctype.json": 7,
+        "shared_arenaadvisor.json": 0,
         "shared_er.npctype.json": 7
       },
       "bandit.npctype.json": 7,
@@ -4817,6 +4818,7 @@
       },
       "blacksmith.npctype.json": 9,
       "bounty": {
+        "bountytarget.npctype.json": 0,
         "ignobletarget.npctype.json": 3,
         "nobleclue.npctype.json": 1,
         "shared_.npctype.json": 2
@@ -4962,7 +4964,8 @@
             "devtiy.npctype.json": 1,
             "devtom.npctype.json": 1,
             "devtomkat.npctype.json": 1,
-            "devwilliam.npctype.json": 1
+            "devwilliam.npctype.json": 1,
+            "shared_.npctype.json": 0
           },
           "electricianvisitor.npctype.json": 3,
           "feneroxvisitor.npctype.json": 4,
@@ -14166,6 +14169,6 @@
       }
     },
     "universe_server.config.json": 2,
-    "wide_spread_fields.json": 83
+    "wide_spread_fields.json": 85
   }
 }

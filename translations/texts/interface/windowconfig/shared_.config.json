@@ -74,26 +74,6 @@
   },
   {
     "DeniedAlternatives": [
-      "Отменить"
-    ],
-    "Files": {
-      "interface/windowconfig/newquest.config": [
-        "/paneLayout/btnDecline/caption"
-      ],
-      "interface/windowconfig/newquestshort.config": [
-        "/paneLayout/btnDecline/caption"
-      ],
-      "interface/windowconfig/teaminvitation.config": [
-        "/paneLayout/close/caption"
-      ]
-    },
-    "Texts": {
-      "Eng": "Decline",
-      "Rus": "Отклонить"
-    }
-  },
-  {
-    "DeniedAlternatives": [
       "Окей"
     ],
     "Files": {
