@@ -3,6 +3,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/assignment.config": [
+        "/finalAssignment/gang/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Apocalyptic Occasus Cult"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/assignment.config": [
         "/bountyRanks/0/description",
         "/tutorialAssignment/description"
       ]
@@ -59,6 +70,17 @@
     "Texts": {
       "Eng": "Rank V: Proven Peacekeeper",
       "Rus": "Ранг V: Могучий Миротворец"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/assignment.config": [
+        "/tutorialAssignment/gang/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rowdy Peace Disturbers"
     }
   }
 ]
