@@ -61,19 +61,19 @@ function init()
     default = {
       messageId = "bounty_message",
       unique = false,
-      senderName = "Captain Noble",
+      senderName = "Капитан Нобель",
       portraitImage = "/interface/chatbubbles/captain.png:<frame>"
     },
     angry = {
       messageId = "bounty_message",
       unique = false,
-      senderName = "Captain Noble",
+      senderName = "Капитан Нобель",
       portraitImage = "/interface/chatbubbles/captainrage.png:<frame>"
     }
   }
 
   self.defaultSkipMessages = {
-    "You managed to figure that out without a clue? Nice work!"
+    "У тебя получилось разобраться в этом без зацепок? Отличная работа!"
   }
 
   self.managerPosition = nil
@@ -362,9 +362,9 @@ function setText()
   self.bountyName = tags["bounty.name"]
   local title
   if self.bountyType == "major" then
-    title = sb.replaceTags("^yellow; ^orange;Bounty: ^green;<bounty.name>", tags)
+    title = sb.replaceTags("^yellow; ^orange;Цель: ^green;<bounty.name>", tags)
   else
-    title = sb.replaceTags("^orange;Bounty: ^green;<bounty.name>", tags)
+    title = sb.replaceTags("^orange;Цель: ^green;<bounty.name>", tags)
   end
   quest.setTitle(title)
 
