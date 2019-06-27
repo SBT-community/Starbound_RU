@@ -16,7 +16,7 @@ foi = {
     "^enclosedArea/.+$", "^tagCriteria/.+$", "^hail/.+$", "^converse/.+$",
     "^follow/.+$", "^flee/.+$", "^encorage/.+$", "^severe/.+$", "^accuse/.+$",
     "^tout/.+$", "^rent/.+$", "^alert/.+$", "^welcome/.+$", "^beacon/.+$",
-    "^safe/.+$", "^helpme/.+$", "^final/.+$", "^.+Text(/value)?$",
+    "^safe/.+$", "^helpme/.+$", "^final/.+$", "^.+Text(/value|/[0-9]+)?$",
     "^gui.+/value$", "^paneLayout/.+/value$", "areYouSure/value$",
     "^blueprintUnlock$", "^blueprintAlreadyKnown$",
     "^rotTimeDescriptions/.+/1$", "^[a-zA-Z]*[mM]essages/[a-zA-Z]+$",
