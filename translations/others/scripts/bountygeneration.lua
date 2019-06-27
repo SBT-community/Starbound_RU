@@ -974,9 +974,9 @@ function BountyGenerator:processSteps(steps, bounty, planetPool)
       coordinateConfig = coordinateConfigs[coordinateConfig.previousQuest]
     end
     if coordinateConfig.type == "world" then
-      tags.coordinate.preposition = "on"
+      tags.coordinate.preposition = "на"
     elseif coordinateConfig.type == "system" then
-      tags.coordinate.preposition = "in"
+      tags.coordinate.preposition = "в"
     else
       --error(string.format("No preposition available for coordinate type '%s'", coordinateConfig.type))
     end
