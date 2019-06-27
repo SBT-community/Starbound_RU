@@ -992,6 +992,20 @@ function BountyGenerator:processSteps(steps, bounty, planetPool)
     questTextTags[step.questId] = tags
   end
 
+  local textgen = setmetatable({
+    config = {},
+    parameters = {
+      bounty = {
+      name = bounty.parameters.identity and bounty.parameters.identity.name
+       or bounty.name,
+      parameters = {},
+      species = bounty.species,
+      type = "monsterType"
+      }
+    }
+    }, QuestTextGenerator)
+  local newtags = textgen:generateExtraTags()
+
   -- Link tags between prev/next quests, and add common text tags
   local linkedTextTags = {}
   for i = 1, #steps do
@@ -1011,6 +1025,8 @@ function BountyGenerator:processSteps(steps, bounty, planetPool)
     tags.bounty = {
       name = bounty.name
     }
+
+    for k, v in pairs(newtags) do tags[k] = tags[k] or v end
 
     linkedTextTags[step.questId] = tags
     step.questParameters.text.tags = tags
@@ -1049,7 +1065,7 @@ function BountyGenerator:processSteps(steps, bounty, planetPool)
     })
   end
 
-  return quests, usedCoordinates
+  return quests, usedCoordinates, newtags
 end
 
 
@@ -1073,8 +1089,8 @@ function BountyGenerator:questArc(steps, bountyTarget, planetPool)
   })
 
   sb.logInfo("Steps: %s", sb.printJson(util.map(steps, function(s) return s.name end), 1))
-  local usedCoordinates
-  arc.quests, usedCoordinates = self:processSteps(steps, bountyTarget, planetPool)
+  local usedCoordinates, tags
+  arc.quests, usedCoordinates, tags = self:processSteps(steps, bountyTarget, planetPool)
 
   local preBountyParameters = {
     portraits = {
@@ -1094,6 +1110,10 @@ function BountyGenerator:questArc(steps, bountyTarget, planetPool)
       }
     }
   }
+
+  for k, v in pairs(tags) do
+    preBountyParameters.text.tags[k] = preBountyParameters.text.tags[k] or v
+  end
 
   table.insert(arc.quests, 1, {
       templateId = self.preBountyQuest,
