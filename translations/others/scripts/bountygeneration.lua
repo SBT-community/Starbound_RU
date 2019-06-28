@@ -995,7 +995,7 @@ function BountyGenerator:processSteps(steps, bounty, planetPool)
 
   local textgen = setmetatable({
     config = {},
-    parameters = { bounty = bounty }
+    parameters = { bounty = copy(bounty) }
     }, QuestTextGenerator)
   local newtags = textgen:generateExtraTags()
 
