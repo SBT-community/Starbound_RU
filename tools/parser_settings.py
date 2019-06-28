@@ -20,7 +20,7 @@ foi = {
     "^gui.+/value$", "^paneLayout/.+/value$", "areYouSure/value$",
     "^blueprintUnlock$", "^blueprintAlreadyKnown$",
     "^rotTimeDescriptions/.+/1$", "^[a-zA-Z]*[mM]essages/[a-zA-Z]+$",
-    ".+[mM]essage$", "^.*(hint|regex|([a-zA-Z]*(Caption|[Tt]itle)))$",
+    ".+([mM]essage|Log)$", "^.*(hint|regex|([a-zA-Z]*(Caption|[Tt]itle)))$",
     "^defaultPetNameLabel$", ".*descriptions/[0-9]+$", "^(un)?trackLabel$",
      "^modeTypeTextAndColor/[0-9]+/[0-9]+$", "^(generic|hat|)([Pp]refix|[mM]id|[sS]uffix)/.*"],
   "assignment.config": ["^.*(target|gang)/name$"],

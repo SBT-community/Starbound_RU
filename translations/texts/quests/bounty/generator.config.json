@@ -106,5 +106,41 @@
       "Eng": "We didn't even find that code yet. Impressive hacking, partner!",
       "Rus": "Мы даже ещё не нашли код. Впечатляющие навыки взлома, партнёр!"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
+        "/edges/11/next/text/questLog",
+        "/edges/12/next/text/questLog"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;<coordinate.name>^reset;:\nA clue I found here gave me the vault code: <password>.\n\n"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
+        "/edges/13/next/text/questLog",
+        "/edges/14/next/text/questLog"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;<coordinate.name>^reset;:\nA console here gave me the vault code: <password>.\n\n"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
+        "/edges/15/next/text/questLog",
+        "/edges/16/next/text/questLog"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;<coordinate.name>^reset;:\nAfter some persuasion, a lackey provided me with the code for the vault: <password>.\n\n"
+    }
   }
 ]
