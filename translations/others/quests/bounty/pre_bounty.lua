@@ -18,7 +18,7 @@ end
 
 function setText()
   local tags = util.generateTextTags(quest.parameters().text.tags)
-  quest.setTitle(sb.replaceTags("^orange;Цель: ^green;<bounty.name>", tags))
+  quest.setTitle(("^orange;Цель: ^green;<bounty.name>"):gsub("<([%w.]+)>", tags))
 
   local textCons
   for i, q in pairs(quest.questArcDescriptor().quests) do

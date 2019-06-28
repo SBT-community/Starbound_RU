@@ -843,7 +843,7 @@ function util.recReplaceTags(v, tags)
     end
     return v
   elseif type(v) == "string" then
-    return sb.replaceTags(v, tags)
+    return v:gsub("<([%w.]+)>", tags)
   else
     return v
   end

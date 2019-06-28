@@ -362,9 +362,9 @@ function setText()
   self.bountyName = tags["bounty.name"]
   local title
   if self.bountyType == "major" then
-    title = sb.replaceTags("^yellow; ^orange;Цель: ^green;<bounty.name>", tags)
+    title = ("^yellow; ^orange;Цель: ^green;<bounty.name>"):gsub("<([%w.]+)>", tags)
   else
-    title = sb.replaceTags("^orange;Цель: ^green;<bounty.name>", tags)
+    title = ("^orange;Цель: ^green;<bounty.name>"):gsub("<([%w.]+)>", tags)
   end
   quest.setTitle(title)
 
