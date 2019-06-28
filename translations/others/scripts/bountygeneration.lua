@@ -995,15 +995,7 @@ function BountyGenerator:processSteps(steps, bounty, planetPool)
 
   local textgen = setmetatable({
     config = {},
-    parameters = {
-      bounty = {
-      name = bounty.parameters.identity and bounty.parameters.identity.name
-       or bounty.name,
-      parameters = {},
-      species = bounty.species,
-      type = "monsterType"
-      }
-    }
+    parameters = { bounty = bounty }
     }, QuestTextGenerator)
   local newtags = textgen:generateExtraTags()
 

@@ -25,66 +25,68 @@ end
 local consonants = {"ц", "к", "н", "ш", "щ", "з", "х", "ф", "в", "п",
                     "р", "л", "д", "ж", "ч", "с", "м", "т", "г", "б"}
 
+
 local cases = {
   dative = {
     any = {
-      newSub("й", {male = "ю"}),
-      newSub("ия", {male = "ие", female = "ии"}),
       newSub("ень", {male = "ню"}),
+      newSub("ия", {male = "ие", female = "ии"}),
+      newSub("([иы])е", {plural = "%1м"}),
+      newSub({"(г)и", "(к)и"}, {plural = "%1ам:guard:"}),
       newSub("ь", {male = "ю", female = "и"}),
       newSub({"а", "я"}, {any = "е", neutral = "ени", plural = "%0м"}),
       newSub("ы", {plural = "ам"}),
-      newSub({"(г)и", "(к)и"}, {plural = "%1ам:guard:"}),
       newSub("и", {plural = "ям"}),
-      newSub("е(%s.+)", {plural = "м%1"}),
+      newSub("й", {male = "ю"}),
       newSub(consonants, {male = "%0у"}),
-      nonstop = true,
+      nonstop = false,
     },
     glitch = {
-      newSub({"ый(.+)", "ой(.+)", "ое(.*)"}, {any = "ому%1", female = "%0"}),
-      newSub({"(к)ий(.+)", "(г)ий(.+)"}, {male = "%1ому%2"}),
-      newSub("ий(.+)", {male = "ему%1"}),
-      newSub("ая(.+)", {female = "ой%1"}),
-      newSub({"яя(.+)", "ья(.+)"}, {female = "ей%1"}),
-      newSub({"е", "о"}, {any = "у"}),
+      newSub({"ый(.*)", "ой(.*)", "ое(.*)"}, {any = "ому%1", female = "%0"}),
+      newSub({"(к)ий(.*)", "(г)ий(.*)"}, {male = "%1ому%2"}),
+      newSub("ий(.*)", {male = "ему%1"}),
+      newSub("ая(.*)", {female = "ой%1"}),
+      newSub({"яя(.*)", "ья(.*)"}, {female = "ей%1"}),
       newSub({"ок", "ек"}, {any = "ку"}),
+      newSub({"е", "о"}, {plural = "м", any = "у"}),
       nonstop = true,
     },
     item = {
       additional = {"glitch", "any"},
+      nonstop = false
     }
   },
   accusative = {
     any = {
-      newSub("а", {any = "у"}),
-      newSub("я", {any = "ю"}),
-      newSub("е(%s.+)", {plural = "х%1"}),
+      newSub("ень", {male = "ня"}),
       newSub({"(г)и", "(к)и"}, {plural = "%1ов:guard:"}),
       newSub("аи", {plural = "аев"}),
+      newSub("а", {any = "у"}),
+      newSub("я", {any = "ю"}),
+      newSub("е", {plural = "х"}),
       newSub("и", {plural = "ей"}),
       newSub("ы", {plural = "ов"}),
       newSub("й", {male = "я"}),
-      newSub("ень", {male = "ня"}),
       newSub("ь", {male = "я"}),
       newSub(consonants, {male = "%0а"}),
-      nonstop = true,
+      nonstop = false,
     },
     glitch = {
-      newSub({"ый(.+)", "ой(.+)", "oe(.*)"}, {any = "ого%1", female = "%0"}),
       newSub({"(к)ий(.+)", "(г)ий(.+)"}, {male = "%1ого%2"}),
+      newSub({"ый(.+)", "ой(.+)", "oe(.*)"}, {any = "ого%1", female = "%0"}),
       newSub("ий(.+)", {male = "его%1"}),
       newSub({"ок", "ек"}, {male = "ка:guard:"}),
       -- :guard: notation will be removed automatically at the end of processing
       -- it is necessary to prevent changing this ending
-      additional = {"any", "item"},
+      additional = {"item", "any"},
       nonstop = true,
     },
     item = {
       additional = {},
-      nonstop = true,
-      newSub("ая(.+)", {female = "ую%1"}),
-      newSub("яя(.+)", {female = "юю%1"}),
-      newSub("ья(.+)", {female = "ью%1"}),
+      nonstop = false,
+      newSub("ая(.*)", {female = "ую%1"}),
+      newSub("яя(.*)", {female = "юю%1"}),
+      newSub("ья(.*)", {female = "ью%1"}),
       newSub("а", {female = "у"}),
       newSub("я", {female = "ю"}),
     },
@@ -131,29 +133,37 @@ function detectForm(phrase, customformdetector)
   return resultform, head, tail
 end
 
+local function matchName(name, gender, rules)
+  local remove_guards = {
+    nonstop = true,
+    newSub(":guard:(.*)", {any = "%1"}),
+  }
+  local act = function(pat, rule, nonstop)
+    local result, count = name:gsub(pat.."$", rule.sub[gender])
+    if count > 0 then
+    if nonstop then name = result return
+    else return result end end
+  end
+  name = iterateRules(rules, act) or name
+  name = iterateRules(remove_guards, act) or name
+  return name
+end
+
 local function matchTable(phrase, mtable)
   -- Converts given phrase according to mtable.
   -- If phrase is string and does not contains any form informations
   -- the function is trying to detect form via detectForm function
   local rules = mtable[phrase.species] or {}
-  local name = phrase.name
-  mtable.remove_guards = {
-    nonstop = true,
-    newSub(":guard:(.*)", {any = "%1"}),
-  }
-  local act = function(pat, rule, nonstop)
-    local result, count = name:gsub(pat.."$", rule.sub[phrase.gender])
-    if count > 0 then
-    if nonstop then name = result return
-    else return result end end
+  for _, v in pairs(rules.additional or {"any"}) do
+    for k, vv in pairs(mtable[v] or {}) do
+      if type(k) == 'number' then table.insert(rules, vv) end
+    end
   end
-  local additionals = rules.additional or {"any"}
-  table.insert(additionals, "remove_guards")
-  name = iterateRules(rules, act) or name
-  for i, e in pairs(additionals) do
-    name = iterateRules(mtable[e] or {}, act) or name
-  end
-  return name
+  local tokens = {}
+    for n in phrase.name:gmatch("%S+") do
+      table.insert(tokens, matchName(n, phrase.gender, rules))
+    end
+  return table.concat(tokens, ' ')
 end
 
 function decline(phrase, case)
