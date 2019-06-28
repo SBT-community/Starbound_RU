@@ -40,12 +40,35 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/scripted/bountyboard/bountyboardgui.config": [
+        "/posterTags/majorText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "HIGH VALUE"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/bountyboard/bountyboardgui.config": [
         "/assignmentFormat"
       ]
     },
     "Texts": {
       "Eng": "Investigate the ^yellow;<gangName>^reset; near ^cyan;<systemName>",
-      "Rus": ""
+      "Rus": "Разыщите банду ^yellow;<gangName>^reset; в районе cистемы ^cyan;<systemName>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/bountyboard/bountyboardgui.config": [
+        "/posterTags/capstoneText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "LEADER",
+      "Rus": "ГЛАВАРЬ"
     }
   },
   {

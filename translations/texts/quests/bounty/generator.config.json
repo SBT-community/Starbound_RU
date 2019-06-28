@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Are you... Psychic?"
+      "Eng": "Are you... Psychic?",
+      "Rus": ""
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Did you deduce that passcode with your advanced detective skills? Nice work, partner!"
+      "Eng": "Did you deduce that passcode with your advanced detective skills? Nice work, partner!",
+      "Rus": ""
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Did you just... Guess that passcode? You're a loose cannon, partner."
+      "Eng": "Did you just... Guess that passcode? You're a loose cannon, partner.",
+      "Rus": "Ты просто... Угадал<player.pronoun.verbEnding> пароль? Да ты опасная личность, партнёр"
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I can't believe it, partner! You took down the mysterious and handsome ^orange;Captain Ignoble^reset;! ^orange;Return to the Peacekeeper Station^reset; for a new assignment."
+      "Eng": "I can't believe it, partner! You took down the mysterious and handsome ^orange;Captain Ignoble^reset;! ^orange;Return to the Peacekeeper Station^reset; for a new assignment.",
+      "Rus": "Не могу в это поверить, партнёр! Ты победил<player.pronoun.verbEnding> загадочного и прекрасного ^orange;Капитана Шнобеля^reset;! ^orange;Возвращайся на Станцию Миротворцев^reset; за новым заданием."
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I like your style - no need to find the vault code, just guess it! Nice work, partner!"
+      "Eng": "I like your style - no need to find the vault code, just guess it! Nice work, partner!",
+      "Rus": "Мне нравится твой стиль: не нужно искать код от хранилища, если можно просто угадать его! Отличная работа, партнёр!"
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Nice hacking, partner! What were the chances that you would successfully guess that?"
+      "Eng": "Nice hacking, partner! What were the chances that you would successfully guess that?",
+      "Rus": "Отличные навыки взлома, партнёр! Каковы там были шансы, что ты успешно его угадаешь?"
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Nice work findin' all those clues, partner! You have enough info to track down the rowdy ^green;Captain Ignoble^reset; now!"
+      "Eng": "Nice work findin' all those clues, partner! You have enough info to track down the rowdy ^green;Captain Ignoble^reset; now!",
+      "Rus": "Отличная работа по поиску всех этих улик, партнёр! Теперь тебе хватит информации, чтобы выследить буйного ^green;Капитана Шнобеля^reset;!"
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "No password-protected vault can slow you down, huh?"
+      "Eng": "No password-protected vault can slow you down, huh?",
+      "Rus": "Никакое защищённое паролем хранилище не сможет остановить тебя, а?"
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "We didn't even find that code yet. Impressive hacking, partner!"
+      "Eng": "We didn't even find that code yet. Impressive hacking, partner!",
+      "Rus": "Мы даже ещё не нашли код. Впечатляющие навыки взлома, партнёр!"
     }
   }
 ]

@@ -3,6 +3,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/outpost/visitors/devs/devabi.npctype": [
+        "/identity/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Abi"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/devs/devabi.npctype": [
         "/scriptConfig/dialog/converse/default/default/0"
       ]
     },

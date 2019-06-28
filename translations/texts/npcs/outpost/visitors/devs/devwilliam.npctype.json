@@ -10,5 +10,16 @@
       "Eng": "Hi! I'm William. A programmer from Earth. I specialise in AI.",
       "Rus": "Привет! Я Уилльям. Программист с Земли. Я специализируюсь в ИИ."
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/devs/devwilliam.npctype": [
+        "/identity/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "William"
+    }
   }
 ]

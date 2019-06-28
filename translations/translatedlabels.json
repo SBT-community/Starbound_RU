@@ -134,6 +134,9 @@
       }
     },
     "blueprint.config.json": 2,
+    "bounty": {
+      "shared_ign.json": 1
+    },
     "celestial.config.json": 32,
     "cinematics": {
       "intro": {
@@ -476,7 +479,7 @@
           "ancientconsolegui.config.json": 3
         },
         "bountyboard": {
-          "bountyboardgui.config.json": 7
+          "bountyboardgui.config.json": 9
         },
         "collections": {
           "collectionsgui.config.json": 4
@@ -530,7 +533,7 @@
           "weaponupgradegui.config.json": 5
         }
       },
-      "shared_.config.json": 16,
+      "shared_.config.json": 15,
       "shared_bow..json": 1,
       "shared_gun..json": 1,
       "shared_mecharm..json": 2,
@@ -594,7 +597,7 @@
         "questcomplete.config.json": 1,
         "questfailed.config.json": 1,
         "questlog.config.json": 10,
-        "shared_.config.json": 14,
+        "shared_.config.json": 13,
         "shared_crafting.json": 5,
         "songbook.config.json": 6,
         "teambar.config.json": 1,
@@ -4799,6 +4802,7 @@
         "arenahunter.npctype.json": 6,
         "arenapyro.npctype.json": 12,
         "arenashooter.npctype.json": 7,
+        "shared_arenaadvisor.json": 0,
         "shared_er.npctype.json": 7
       },
       "bandit.npctype.json": 7,
@@ -4817,9 +4821,10 @@
       },
       "blacksmith.npctype.json": 9,
       "bounty": {
-        "ignobletarget.npctype.json": 0,
-        "nobleclue.npctype.json": 0,
-        "shared_.npctype.json": 0
+        "bountytarget.npctype.json": 0,
+        "ignobletarget.npctype.json": 2,
+        "nobleclue.npctype.json": 1,
+        "shared_.npctype.json": 2
       },
       "crew": {
         "crewmember.npctype.json": 165,
@@ -4962,7 +4967,8 @@
             "devtiy.npctype.json": 1,
             "devtom.npctype.json": 1,
             "devtomkat.npctype.json": 1,
-            "devwilliam.npctype.json": 1
+            "devwilliam.npctype.json": 1,
+            "shared_.npctype.json": 0
           },
           "electricianvisitor.npctype.json": 3,
           "feneroxvisitor.npctype.json": 4,
@@ -13627,14 +13633,14 @@
     "player.config.json": 3,
     "quests": {
       "bounty": {
-        "assignment.config.json": 0,
+        "assignment.config.json": 5,
         "bounty.config.json": 0,
         "bounty_gen.questtemplate.json": 0,
-        "bountyassignment.questtemplate.json": 7,
+        "bountyassignment.questtemplate.json": 20,
         "capture_bounty.questtemplate.json": 0,
         "capture_ship_bounty.questtemplate.json": 3,
-        "capture_space_bounty.questtemplate.json": 0,
-        "clue_bounties.config.json": 0,
+        "capture_space_bounty.questtemplate.json": 2,
+        "clue_bounties.config.json": 9,
         "clue_items.config.json": 0,
         "clue_npcs.config.json": 0,
         "clue_objects.config.json": 0,
@@ -13645,9 +13651,9 @@
         "find_space_clue_scan.questtemplate.json": 0,
         "find_tutorial_clues.questtemplate.json": 0,
         "gang.config.json": 308,
-        "generator.config.json": 0,
+        "generator.config.json": 7,
         "kill_bounty_monster.questtemplate.json": 0,
-        "pre_bounty.questtemplate.json": 0,
+        "pre_bounty.questtemplate.json": 1,
         "pre_bounty_capstone.questtemplate.json": 0,
         "pre_bounty_minor_monster.questtemplate.json": 0,
         "pre_bounty_minor_npc.questtemplate.json": 0,
@@ -14166,6 +14172,6 @@
       }
     },
     "universe_server.config.json": 2,
-    "wide_spread_fields.json": 83
+    "wide_spread_fields.json": 85
   }
 }

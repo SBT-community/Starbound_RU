@@ -3,12 +3,84 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/bountyassignment.questtemplate": [
+        "/scriptConfig/rankText/3/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "After clearin' out the gang activity in this sector, our reputation has sky-rocketed! I'm reassignin' you to a new station - I'll meet you there!",
+      "Rus": "После вычистки всей преступной активности в этом секторе наша репутация взлетела до небес! Я приписываю тебя к новой станции. Встретимся там!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/bountyassignment.questtemplate": [
+        "/scriptConfig/rankTitles/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Becoming a Peacekeeper",
+      "Rus": "Становление Миротворца"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/bountyassignment.questtemplate": [
         "/scriptConfig/finalAssignmentText"
       ]
     },
     "Texts": {
       "Eng": "Geez louise. We've received an assignment to take out this Occasus Cult. They seem like some real bad apples, partner! I hope you're up for this. We've set up a headquarters in the area where they operate.",
-      "Rus": ""
+      "Rus": "Бог ты мой. Мы получили задание избавиться от культа Окказуса. Похоже, они и правда мерзкие парни, партнёр! Надеюсь ты в деле. Мы организовали штаб-квартиру в районе их дислокации."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/bountyassignment.questtemplate": [
+        "/scriptConfig/rankText/0/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings! I'm looking for someone to become my ^orange;partner in crime-fighting^white;! \n\nIf you think you have what it takes, come out into space and meet me at my humble asteroid base!",
+      "Rus": "Привет! Я ищу кого-нибудь, кто согласился бы стать моим ^orange;партнёром в сражении с преступностью^white;! \n\nЕсли ты считаешь, что способен на это, выходи в космос и встретимся на моей скромной базе-астеройде!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/bountyassignment.questtemplate": [
+        "/scriptConfig/rankTitles/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Keeping the Peace",
+      "Rus": "Сохранение мира"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/bountyassignment.questtemplate": [
+        "/scriptConfig/rankText/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Our growin' reputation has allowed us to open up a new Peacekeeper station! I'm officially reassignin' you to it, partner!",
+      "Rus": "Наша растущая репутация позволила нам открыть новую Станцию Миротворцев! Я официально приписываю тебя к ней, партнёр!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/bountyassignment.questtemplate": [
+        "/scriptConfig/rankText/2/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Our latest gang bust has given us a lot of fundin' from folks in this sector. So much so that I've been able to contract the development of a new, bigger station! Head on over there, partner!",
+      "Rus": "Наш последний арест банды подарил нам огромное финансирование от жителей этого сектора. Такое большое, что я смог заключить контракт на создание новой большой станции! Держи путь туда, партнёр!"
     }
   },
   {
@@ -27,6 +99,30 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/bountyassignment.questtemplate": [
+        "/scriptConfig/rankTitles/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rising through the Ranks",
+      "Rus": ""
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/bountyassignment.questtemplate": [
+        "/scriptConfig/rankTitles/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rookie Assignment",
+      "Rus": "Задание для новичка"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/bountyassignment.questtemplate": [
         "/scriptConfig/descriptions/searching"
       ]
     },
@@ -39,12 +135,72 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/bountyassignment.questtemplate": [
+        "/scriptConfig/rankTitles/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Good Fight",
+      "Rus": "Хорошая битва"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/bountyassignment.questtemplate": [
+        "/scriptConfig/rankText/4/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Those yeller-bellies will be runnin' round like headless chickens without their leader! Great work, partner! As usual, I've got a new assignment for you! Crime doesn't sleep, and neither do I!",
+      "Rus": "Эти трусы начнут бегать кругами как безмозглые курицы без своего предводителя! Отличная работа, партнёр! Как обычно, у меня есть для тебя новое задание! Преступность не спит, а я - тем более!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/bountyassignment.questtemplate": [
         "/completionText"
       ]
     },
     "Texts": {
       "Eng": "Welcome to your new Peacekeeper Station, partner!",
       "Rus": "Добро пожаловать на твою новую Станцию Миротворцев, партнёр!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/bountyassignment.questtemplate": [
+        "/scriptConfig/rankText/4/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "With the head of their organisation gone, those varmints won't be too much trouble from now on! Mighty fine work, partner! I'm openin' a new station and assignin' you to it. The universe is infinite, and so is the crime! Head on over, partner!",
+      "Rus": "Без главы их организации, эти негодяи больше не доставят серьёзных проблем! Хорошо сработано, партнёр! Я открываю новую станцию и приписываю тебя к ней. Вселенная бесконечна, как и преступления! Так держать, партнёр!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/bountyassignment.questtemplate": [
+        "/scriptConfig/rankText/4/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "With their boss out o' the picture, those punks have lost the wind in their sails! If you want to bust more gangs, head on over to the new station I'm assignin' you to!",
+      "Rus": "Как только их босс пропал из поля зрения, эта шпана потеряла весь запал! Если хочешь арестовать ещё больше банд, держи путь на новую станцию, я приписываю тебя к ней!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/bountyassignment.questtemplate": [
+        "/scriptConfig/rankText/4/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "With their leader captured, I don't think we'll be seein' THOSE guys again! We've opened another station in a pretty dangerous solar system - an' I'm reassignin' you to it, partner! Meet me over there!",
+      "Rus": "Я не думаю, что мы увидим ЭТИХ ребят снова, после того, как их босс был пойман! Вы открыли ещё одну станцию в весьма опасной звёздной системе, и я приписываю тебя к ней, партнёр! Встретимся там!"
     }
   },
   {
@@ -92,7 +248,7 @@
     },
     "Texts": {
       "Eng": "^green;Locate ^orange;Peacekeeper Station^white; in ^orange;%s^white;",
-      "Rus": "^green;Найдите ^orange;Станцию Миротворцев^white; в ^orange;%s^white;"
+      "Rus": "^green;Найдите ^orange;Станцию Миротворцев^white; на ^orange;%s^white;"
     }
   }
 ]
