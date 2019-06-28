@@ -32,14 +32,14 @@ function setText()
 
     local tags = util.generateTextTags(q.parameters.text.tags)
     if textCons then
-      textCons = string.format("%s\n\n%s", textCons, sb.replaceTags(text, tags))
+      textCons = string.format("%s\n\n%s", textCons, text:gsub("<([%w.]+)>", tags))
     else
-      textCons = sb.replaceTags(text, tags)
+      textCons = text:gsub("<([%w.]+)>", tags)
     end
     if q.questId == quest.questId() then
       if questConfig.generatedText.failureText then
         local failureText = util.randomFromList(questConfig.generatedText.failureText.default)
-        failureText = sb.replaceTags(failureText, tags)
+        failureText = failureText:gsub("<([%w.]+)>", tags)
         quest.setFailureText(failureText)
       end
 

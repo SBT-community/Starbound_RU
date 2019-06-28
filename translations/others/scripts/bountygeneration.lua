@@ -903,7 +903,7 @@ function BountyGenerator:processSteps(steps, bounty, planetPool)
                   clueType = step.clueType
                 }
                 if type(v) == "string" then
-                  override.behavior.parameters[k] = sb.replaceTags(v, tags)
+                  override.behavior.parameters[k] = v:gsub("<([%w.]+)>", tags)
                 end
               end
             end
@@ -1048,10 +1048,10 @@ function BountyGenerator:processSteps(steps, bounty, planetPool)
     local text = step.questParameters.text
     if text then
       if text.completeMessage then
-        text.completeMessage = sb.replaceTags(text.completeMessage, tags)
+        text.completeMessage = text.completeMessage:gsub("<([%w.]+)>", tags)
       end
       if text.skipMessage then
-        text.skipMessage = sb.replaceTags(text.skipMessage, tags)
+        text.skipMessage = text.skipMessage:gsub("<([%w.]+)>", tags)
       end
     end
   end
