@@ -4723,7 +4723,7 @@
           "rex.monstertype.json": 2
         },
         "ringram": {
-          "iceringram.monstertype.json": 0,
+          "iceringram.monstertype.json": 1,
           "ringram.monstertype.json": 1,
           "shared_ringram.monstertype.json": 1
         },
@@ -4735,7 +4735,7 @@
           "shared_nutmidgeling.monstertype.json": 1
         },
         "smoglin": {
-          "poisonsmoglin.monstertype.json": 0,
+          "poisonsmoglin.monstertype.json": 1,
           "smoglin.monstertype.json": 1
         },
         "snaunt": {
@@ -4743,7 +4743,7 @@
           "shared_snaunt.monstertype.json": 1
         },
         "snuffish": {
-          "poisonsnuffish.monstertype.json": 0,
+          "poisonsnuffish.monstertype.json": 1,
           "shared_snuffish.monstertype.json": 1,
           "snuffish.monstertype.json": 1
         },
@@ -13633,15 +13633,15 @@
     "player.config.json": 3,
     "quests": {
       "bounty": {
-        "assignment.config.json": 5,
+        "assignment.config.json": 6,
         "bounty.config.json": 0,
         "bounty_gen.questtemplate.json": 0,
         "bountyassignment.questtemplate.json": 21,
-        "capture_bounty.questtemplate.json": 0,
-        "capture_ship_bounty.questtemplate.json": 3,
+        "capture_bounty.questtemplate.json": 2,
+        "capture_ship_bounty.questtemplate.json": 5,
         "capture_space_bounty.questtemplate.json": 2,
         "clue_bounties.config.json": 9,
-        "clue_items.config.json": 0,
+        "clue_items.config.json": 22,
         "clue_npcs.config.json": 0,
         "clue_objects.config.json": 0,
         "clue_scans.config.json": 0,
@@ -13651,17 +13651,18 @@
         "find_space_clue_scan.questtemplate.json": 0,
         "find_tutorial_clues.questtemplate.json": 0,
         "gang.config.json": 308,
-        "generator.config.json": 7,
+        "generator.config.json": 9,
         "kill_bounty_monster.questtemplate.json": 0,
         "pre_bounty.questtemplate.json": 1,
         "pre_bounty_capstone.questtemplate.json": 0,
         "pre_bounty_minor_monster.questtemplate.json": 0,
         "pre_bounty_minor_npc.questtemplate.json": 0,
         "scan_planets.questtemplate.json": 0,
-        "shared_.questtemplate.json": 27,
-        "shared__clue_npc.questtemplate.json": 0,
+        "shared_.config.json": 1,
+        "shared_.questtemplate.json": 28,
+        "shared__clue_npc.questtemplate.json": 4,
         "shared__clue_object.questtemplate.json": 0,
-        "shared_find_space_clue_.json": 0
+        "shared_find_space_clue_.json": 4
       },
       "food": {
         "firstcrops.questtemplate.json": 3,
@@ -13888,7 +13889,7 @@
       "hylotl.species.json": 7,
       "namegen.config.json": 55,
       "novakid.species.json": 6,
-      "novakidnamegen.config.json": 146,
+      "novakidnamegen.config.json": 153,
       "penguin.species.json": 10,
       "penguinnamegen.config.json": 26,
       "shadownamegen.config.json": 1,

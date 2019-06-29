@@ -9,7 +9,7 @@
     },
     "Texts": {
       "Eng": "Good job taking <bounty.name> and their crew! You're a darn brave soul, partner!\n\nCome by the Peacekeeper Station to collect your reward!",
-      "Rus": ""
+      "Rus": "Ты отлично поработал<player.pronoun.verbEnding> над арестом <bounty.accusative> и <bounty.pronoun.reflexive> команды! Ты чертовски храбр<player.pronoun.adj2Ending> духом, партнёр!\n\nЗагляни на Станцию Миротворцев за наградой!"
     }
   },
   {
@@ -21,7 +21,7 @@
     },
     "Texts": {
       "Eng": "You apprehended the bounty!",
-      "Rus": ""
+      "Rus": "Ты поймал преступника!"
     }
   },
   {

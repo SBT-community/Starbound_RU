@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Apocalyptic Occasus Cult"
+      "Eng": "Apocalyptic Occasus Cult",
+      "Rus": "Апокалиптический Культ Окказуса"
     }
   },
   {
@@ -70,17 +71,6 @@
     "Texts": {
       "Eng": "Rank V: Proven Peacekeeper",
       "Rus": "Ранг V: Могучий Миротворец"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/bounty/assignment.config": [
-        "/tutorialAssignment/gang/name"
-      ]
-    },
-    "Texts": {
-      "Eng": "Rowdy Peace Disturbers"
     }
   }
 ]

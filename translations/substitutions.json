@@ -25752,7 +25752,8 @@
   "quests/bounty/assignment.config": {
     "/bountyTypes/occasusCommander/questConfig/target/monster/parameters/shortdescription": "texts/wide_spread_fields.json",
     "/bountyTypes/occasusCommander/questConfig/target/name": "texts/wide_spread_fields.json",
-    "/bountyTypes/tutorialCapstone/questConfig/target/name": "texts/bounty/shared_ign.json"
+    "/bountyTypes/tutorialCapstone/questConfig/target/name": "texts/bounty/shared_ign.json",
+    "/tutorialAssignment/gang/name": "texts/quests/bounty/shared_.config.json"
   },
   "quests/bounty/bounty_cyberspace.questtemplate": {
     "/completionText": "texts/quests/bounty/shared_.questtemplate.json",
@@ -26076,6 +26077,9 @@
     "/scriptConfig/objectives/tutorialClueStage/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
+  },
+  "quests/bounty/generator.config": {
+    "/steps/tutorial_bounty/spawns/bounty/npc/parameters/scriptConfig/gang/name": "texts/quests/bounty/shared_.config.json"
   },
   "quests/bounty/kill_bounty_monster.questtemplate": {
     "/completionText": "texts/quests/bounty/shared_.questtemplate.json",

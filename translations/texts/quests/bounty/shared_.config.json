@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/assignment.config": [
+        "/tutorialAssignment/gang/name"
+      ],
+      "quests/bounty/generator.config": [
+        "/steps/tutorial_bounty/spawns/bounty/npc/parameters/scriptConfig/gang/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rowdy Peace Disturbers",
+      "Rus": "Буйные Нарушители Спокойствия"
+    }
+  }
+]
