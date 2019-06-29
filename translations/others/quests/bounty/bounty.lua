@@ -212,7 +212,7 @@ function questComplete()
 
     local tags = util.generateTextTags(quest.parameters().text.tags)
     tags.bountyPoints = rewards.rank
-    text = sb.replaceTags(util.randomFromList(text), tags)
+    text = util.randomFromList(text):gsub("<([%w.]+)>", tags)
     quest.setCompletionText(text)
   end
 
@@ -362,9 +362,9 @@ function setText()
   self.bountyName = tags["bounty.name"]
   local title
   if self.bountyType == "major" then
-    title = sb.replaceTags("^yellow; ^orange;Цель: ^green;<bounty.name>", tags)
+    title = ("^yellow; ^orange;Цель: ^green;<bounty.name>"):gsub("<([%w.]+)>", tags)
   else
-    title = sb.replaceTags("^orange;Цель: ^green;<bounty.name>", tags)
+    title = ("^orange;Цель: ^green;<bounty.name>"):gsub("<([%w.]+)>", tags)
   end
   quest.setTitle(title)
 
@@ -388,15 +388,15 @@ function setText()
 
       local tags = util.generateTextTags(q.parameters.text.tags)
       if textCons then
-        textCons = string.format("%s%s", textCons, sb.replaceTags(text, tags))
+        textCons = string.format("%s%s", textCons, text:gsub("<([%w.]+)>", tags))
       else
-        textCons = sb.replaceTags(text, tags)
+        textCons = text:gsub("<([%w.]+)>", tags)
       end
 
       if q.questId == quest.questId() then
         if questConfig.generatedText.failureText then
           local failureText = util.randomFromList(questConfig.generatedText.failureText.default)
-          failureText = sb.replaceTags(failureText, tags)
+          failureText = failureText:gsub("<([%w.]+)>", tags)
           quest.setFailureText(failureText)
         end
         
@@ -412,7 +412,7 @@ function radioMessage(text, portraitType)
   portraitType = portraitType or "default"
   local message = copy(self.radioMessageConfig[portraitType])
   local tags = util.generateTextTags(quest.parameters().text.tags)
-  message.text = sb.replaceTags(text, tags)
+  message.text = text:gsub("<([%w.]+)>", tags)
   return message
 end
 

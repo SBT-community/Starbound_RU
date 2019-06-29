@@ -1,5 +1,18 @@
 util = {}
 
+function util.pp(txt, level)
+  local lvl = level or ''
+  if type(txt) == 'string' then
+    print(lvl..txt)
+  elseif type(txt) == 'table' then
+    for k, v in pairs(txt) do
+      print(lvl..k)
+      util.pp(v, lvl..'  ')
+    end
+  else
+    print(lvl.."["..type(txt).."]:"..tostring(txt))
+  end
+end
 --------------------------------------------------------------------------------
 function util.blockSensorTest(sensorGroup, direction)
   local reverse = false
@@ -809,18 +822,10 @@ function util.replaceTag(data, tagName, tagValue)
   end
 end
 
-require "/scripts/quest/declension.lua"
-
 function util.generateTextTags(t)
   local tags = {}
   for k,v in pairs(t) do
     if type(v) == "table" then
-      if v.name then
-        local injector = function (name, decliner)
-          tags[k..name] = decliner(v)
-        end
-        injectDecliners(injector)
-      end
       for tagName,tag in pairs(util.generateTextTags(v)) do
         tags[k.."."..tagName] = tag
       end
@@ -838,7 +843,7 @@ function util.recReplaceTags(v, tags)
     end
     return v
   elseif type(v) == "string" then
-    return sb.replaceTags(v, tags)
+    return v:gsub("<([%w.]+)>", tags)
   else
     return v
   end
