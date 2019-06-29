@@ -20,7 +20,7 @@
     },
     "Texts": {
       "Eng": "You took on <bounty.name>? an' came out on top! The universe is vast, but the arm of the law is long.\n\nCome by the Peacekeeper Station to collect your rewards!",
-      "Rus": "Ты взял <bounty.accusative>? и пришёл к успеху! Вселенная безгранична, но и длань закона не коротка!\n\n\nЗагляни на Станцию Миротворцев, чтобы забрать свою награду!"
+      "Rus": "Ты взял<player.pronoun.verbEnding> <bounty.accusative>? и добил<player.pronoun.verb3Ending> успеха! Вселенная безгранична, но и длань закона не коротка!\n\n\nЗагляни на Станцию Миротворцев, чтобы забрать свою награду!"
     }
   }
 ]
