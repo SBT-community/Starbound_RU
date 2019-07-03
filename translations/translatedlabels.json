@@ -2194,7 +2194,7 @@
               "scientist.legs.json": 2
             },
             "shirt": {
-              "shirt.chest.json": 0
+              "shirt.chest.json": 2
             },
             "smart": {
               "smart.chest.json": 2,
@@ -2347,7 +2347,7 @@
               "greenfinger.head.json": 2
             },
             "groucho": {
-              "groucho.head.json": 0
+              "groucho.head.json": 2
             },
             "hawaiian": {
               "hawaiian.head.json": 2
@@ -2401,7 +2401,7 @@
               "mininghat.head.json": 2
             },
             "pharaoh": {
-              "pharaoh.head.json": 0
+              "pharaoh.head.json": 2
             },
             "phrygiancap": {
               "phrygiancap.head.json": 2
@@ -2437,7 +2437,7 @@
               "shark.head.json": 2
             },
             "sheep": {
-              "sheep.head.json": 0
+              "sheep.head.json": 2
             },
             "shroomdisguise": {
               "shroomdisguise.head.json": 2
@@ -2908,7 +2908,7 @@
             "hazmat.legs.json": 2
           },
           "invisible": {
-            "invisible.back.json": 0
+            "invisible.back.json": 1
           },
           "medic": {
             "medic.back.json": 2,
@@ -2938,10 +2938,10 @@
             "pathfinder.legs.json": 2
           },
           "peacekeeper": {
-            "peacekeeper.chest.json": 0,
-            "peacekeeper.head.json": 0,
-            "peacekeeper.legs.json": 0,
-            "shared_peacekeeper..json": 0
+            "peacekeeper.chest.json": 1,
+            "peacekeeper.head.json": 1,
+            "peacekeeper.legs.json": 1,
+            "shared_peacekeeper..json": 1
           },
           "perfect": {
             "perfect.chest.json": 2,
@@ -3059,11 +3059,11 @@
           "lightaugment2.augment.json": 2,
           "lightaugment3.augment.json": 2,
           "mobilityaugment.augment.json": 2,
-          "peacekeeper1.augment.json": 0,
-          "peacekeeper2.augment.json": 0,
-          "peacekeeper3.augment.json": 0,
+          "peacekeeper1.augment.json": 1,
+          "peacekeeper2.augment.json": 1,
+          "peacekeeper3.augment.json": 1,
           "poisonblockaugment.augment.json": 2,
-          "shared_peacekeeper.json": 0,
+          "shared_peacekeeper.json": 1,
           "speedaugment.augment.json": 2,
           "swimaugment.augment.json": 2,
           "thornsaugment.augment.json": 2
@@ -3841,7 +3841,7 @@
         "snowballlarge.thrownitem.json": 2,
         "snowballmedium.thrownitem.json": 2,
         "snowflakeshuriken.thrownitem.json": 2,
-        "stungrenade.thrownitem.json": 0,
+        "stungrenade.thrownitem.json": 2,
         "tarball.thrownitem.json": 2,
         "thorngrenade.thrownitem.json": 2,
         "throwingaxe.thrownitem.json": 2,
@@ -6413,7 +6413,7 @@
         },
         "bioluminescence": {
           "glowbed": {
-            "glowbed.object.json": 0
+            "glowbed.object.json": 1
           },
           "glowbush": {
             "shared_glowbush.json": 4
@@ -13801,15 +13801,15 @@
     },
     "quests.json": 2,
     "radiomessages": {
-      "bounty.radiomessages.json": 0,
+      "bounty.radiomessages.json": 5,
       "exploration.radiomessages.json": 7,
       "intro.radiomessages.json": 16,
       "mech.radiomessages.json": 13,
-      "missions.radiomessages.json": 66,
+      "missions.radiomessages.json": 70,
       "quests.radiomessages.json": 6,
       "ship.radiomessages.json": 3,
       "techchallenge.radiomessages.json": 8,
-      "tutorial.radiomessages.json": 23
+      "tutorial.radiomessages.json": 27
     },
     "radiomessages.config.json": 1,
     "shared_able.json": 2,
@@ -13887,7 +13887,7 @@
       "humanmalenamegen.config.json": 121,
       "humannamegen.config.json": 13,
       "hylotl.species.json": 7,
-      "namegen.config.json": 55,
+      "namegen.config.json": 57,
       "novakid.species.json": 6,
       "novakidnamegen.config.json": 153,
       "penguin.species.json": 10,
