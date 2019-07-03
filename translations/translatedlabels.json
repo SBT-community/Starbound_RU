@@ -356,8 +356,8 @@
       "airship.config.json": 46,
       "alpaca.config.json": 63,
       "arrivedhome.config.json": 54,
-      "bounty.config.json": 168,
-      "bountytarget.config.json": 16,
+      "bounty.config.json": 20,
+      "bountytarget.config.json": 42,
       "clues.config.json": 51,
       "colourful.config.json": 33,
       "combat.config.json": 180,
@@ -479,7 +479,7 @@
           "ancientconsolegui.config.json": 3
         },
         "bountyboard": {
-          "bountyboardgui.config.json": 9
+          "bountyboardgui.config.json": 10
         },
         "collections": {
           "collectionsgui.config.json": 4
@@ -560,7 +560,7 @@
         "returnark.config.json": 2,
         "returncultistmission.config.json": 2,
         "returnoutpost.config.json": 2,
-        "returnteleporter.config.json": 0,
+        "returnteleporter.config.json": 1,
         "returnwarp.config.json": 1,
         "shared_teleporter.config.json": 1,
         "shipteleporter.config.json": 1
@@ -2194,7 +2194,7 @@
               "scientist.legs.json": 2
             },
             "shirt": {
-              "shirt.chest.json": 0
+              "shirt.chest.json": 2
             },
             "smart": {
               "smart.chest.json": 2,
@@ -2347,7 +2347,7 @@
               "greenfinger.head.json": 2
             },
             "groucho": {
-              "groucho.head.json": 0
+              "groucho.head.json": 2
             },
             "hawaiian": {
               "hawaiian.head.json": 2
@@ -2401,7 +2401,7 @@
               "mininghat.head.json": 2
             },
             "pharaoh": {
-              "pharaoh.head.json": 0
+              "pharaoh.head.json": 2
             },
             "phrygiancap": {
               "phrygiancap.head.json": 2
@@ -2437,7 +2437,7 @@
               "shark.head.json": 2
             },
             "sheep": {
-              "sheep.head.json": 0
+              "sheep.head.json": 2
             },
             "shroomdisguise": {
               "shroomdisguise.head.json": 2
@@ -2908,7 +2908,7 @@
             "hazmat.legs.json": 2
           },
           "invisible": {
-            "invisible.back.json": 0
+            "invisible.back.json": 1
           },
           "medic": {
             "medic.back.json": 2,
@@ -2938,10 +2938,10 @@
             "pathfinder.legs.json": 2
           },
           "peacekeeper": {
-            "peacekeeper.chest.json": 0,
-            "peacekeeper.head.json": 0,
-            "peacekeeper.legs.json": 0,
-            "shared_peacekeeper..json": 0
+            "peacekeeper.chest.json": 1,
+            "peacekeeper.head.json": 1,
+            "peacekeeper.legs.json": 1,
+            "shared_peacekeeper..json": 1
           },
           "perfect": {
             "perfect.chest.json": 2,
@@ -3059,11 +3059,11 @@
           "lightaugment2.augment.json": 2,
           "lightaugment3.augment.json": 2,
           "mobilityaugment.augment.json": 2,
-          "peacekeeper1.augment.json": 0,
-          "peacekeeper2.augment.json": 0,
-          "peacekeeper3.augment.json": 0,
+          "peacekeeper1.augment.json": 1,
+          "peacekeeper2.augment.json": 1,
+          "peacekeeper3.augment.json": 1,
           "poisonblockaugment.augment.json": 2,
-          "shared_peacekeeper.json": 0,
+          "shared_peacekeeper.json": 1,
           "speedaugment.augment.json": 2,
           "swimaugment.augment.json": 2,
           "thornsaugment.augment.json": 2
@@ -3841,7 +3841,7 @@
         "snowballlarge.thrownitem.json": 2,
         "snowballmedium.thrownitem.json": 2,
         "snowflakeshuriken.thrownitem.json": 2,
-        "stungrenade.thrownitem.json": 0,
+        "stungrenade.thrownitem.json": 2,
         "tarball.thrownitem.json": 2,
         "thorngrenade.thrownitem.json": 2,
         "throwingaxe.thrownitem.json": 2,
@@ -4151,7 +4151,7 @@
         },
         "swansong": {
           "noxcapture.monstertype.json": 3,
-          "swansong.monstertype.json": 0
+          "swansong.monstertype.json": 1
         }
       },
       "crawlers": {
@@ -4278,10 +4278,10 @@
             "fishinggaze.monstertype.json": 1
           },
           "glob": {
-            "fishingglob.monstertype.json": 0
+            "fishingglob.monstertype.json": 2
           },
           "jaw": {
-            "fishingjaw.monstertype.json": 1
+            "fishingjaw.monstertype.json": 2
           },
           "leech": {
             "fishingleech.monstertype.json": 1
@@ -4290,7 +4290,7 @@
             "fishingnose.monstertype.json": 0
           },
           "redeye": {
-            "fishingredeye.monstertype.json": 0
+            "fishingredeye.monstertype.json": 2
           },
           "shell": {
             "fishingshell.monstertype.json": 0
@@ -4490,23 +4490,23 @@
           "erchiusghost.monstertype.json": 1
         },
         "gosmet": {
-          "firegosmet.monstertype.json": 0,
+          "firegosmet.monstertype.json": 1,
           "gosmet.monstertype.json": 1,
           "shared_gosmet.monstertype.json": 1
         },
         "ignome": {
-          "electricignome.monstertype.json": 0,
+          "electricignome.monstertype.json": 2,
           "ignome.monstertype.json": 2
         },
         "lumoth": {
-          "firelumoth.monstertype.json": 0,
+          "firelumoth.monstertype.json": 2,
           "lumoth.monstertype.json": 1
         },
         "peacekeeperdrone": {
-          "peacekeeperdrone.monstertype.json": 0
+          "peacekeeperdrone.monstertype.json": 1
         },
         "pyromantle": {
-          "poisonpyromantle.monstertype.json": 0,
+          "poisonpyromantle.monstertype.json": 2,
           "pyromantle.monstertype.json": 2
         },
         "shared_t.monstertype.json": 1,
@@ -4516,18 +4516,18 @@
           "skimbus.monstertype.json": 1
         },
         "spookit": {
-          "firespookit.monstertype.json": 0,
+          "firespookit.monstertype.json": 1,
           "spookit.monstertype.json": 1
         },
         "squeem": {
-          "firesqueem.monstertype.json": 0,
+          "firesqueem.monstertype.json": 1,
           "squeem.monstertype.json": 1
         },
         "tentacleghost": {
           "tentacleghost.monstertype.json": 1
         },
         "wisper": {
-          "firewisper.monstertype.json": 0,
+          "firewisper.monstertype.json": 1,
           "shared_wisper.monstertype.json": 1,
           "wisper.monstertype.json": 1
         }
@@ -4600,17 +4600,17 @@
       "walkers": {
         "adultpoptop": {
           "adultpoptop.monstertype.json": 1,
-          "albinoadultpoptop.monstertype.json": 0,
+          "albinoadultpoptop.monstertype.json": 1,
           "motherpoptop.monstertype.json": 1,
           "shared_poptop.monstertype.json": 1
         },
         "anglure": {
           "anglure.monstertype.json": 1,
-          "electricanglure.monstertype.json": 0,
+          "electricanglure.monstertype.json": 1,
           "shared_anglure.monstertype.json": 1
         },
         "bobot": {
-          "firebobot.monstertype.json": 0,
+          "firebobot.monstertype.json": 1,
           "shared_bobot.monstertype.json": 1
         },
         "bulbop": {
@@ -4623,7 +4623,7 @@
         },
         "crabcano": {
           "crabcano.monstertype.json": 1,
-          "icecrabcano.monstertype.json": 0,
+          "icecrabcano.monstertype.json": 1,
           "shared_crabcano.monstertype.json": 1
         },
         "crutter": {
@@ -4632,18 +4632,18 @@
         },
         "fennix": {
           "fennix.monstertype.json": 1,
-          "icefennix.monstertype.json": 0
+          "icefennix.monstertype.json": 2
         },
         "gleap": {
           "firegleap.monstertype.json": 0,
           "shared_gleap.monstertype.json": 1
         },
         "hemogoblin": {
-          "electrichemogoblin.monstertype.json": 0,
+          "electrichemogoblin.monstertype.json": 2,
           "hemogoblin.monstertype.json": 2
         },
         "hemogoblinbutt": {
-          "electrichemogoblinbutt.monstertype.json": 0,
+          "electrichemogoblinbutt.monstertype.json": 1,
           "hemogoblinbutt.monstertype.json": 1,
           "shared_hemogoblinbutt.monstertype.json": 1
         },
@@ -4671,7 +4671,7 @@
           "shared_mandraflora.monstertype.json": 1
         },
         "miasmop": {
-          "icemiasmop.monstertype.json": 0,
+          "icemiasmop.monstertype.json": 2,
           "miasmop.monstertype.json": 1
         },
         "narfin": {
@@ -4711,7 +4711,7 @@
           "shared_pipkin.monstertype.json": 1
         },
         "poptop": {
-          "albinopoptop.monstertype.json": 0,
+          "albinopoptop.monstertype.json": 1,
           "shared_poptop.monstertype.json": 1
         },
         "quagmutt": {
@@ -4775,7 +4775,7 @@
           "shared_voltip.monstertype.json": 1
         },
         "yokat": {
-          "electricyokat.monstertype.json": 0,
+          "electricyokat.monstertype.json": 1,
           "shared_yokat.monstertype.json": 1,
           "yokat.monstertype.json": 1
         }
@@ -6413,7 +6413,7 @@
         },
         "bioluminescence": {
           "glowbed": {
-            "glowbed.object.json": 0
+            "glowbed.object.json": 1
           },
           "glowbush": {
             "shared_glowbush.json": 4
@@ -11132,7 +11132,7 @@
           "salooncabinet.object.json": 0
         },
         "saloondoor": {
-          "saloondoor.object.json": 0
+          "saloondoor.object.json": 8
         },
         "saloonlight": {
           "saloonlight.object.json": 0
@@ -13801,15 +13801,15 @@
     },
     "quests.json": 2,
     "radiomessages": {
-      "bounty.radiomessages.json": 0,
+      "bounty.radiomessages.json": 5,
       "exploration.radiomessages.json": 7,
       "intro.radiomessages.json": 16,
       "mech.radiomessages.json": 13,
-      "missions.radiomessages.json": 66,
+      "missions.radiomessages.json": 70,
       "quests.radiomessages.json": 6,
       "ship.radiomessages.json": 3,
       "techchallenge.radiomessages.json": 8,
-      "tutorial.radiomessages.json": 23
+      "tutorial.radiomessages.json": 27
     },
     "radiomessages.config.json": 1,
     "shared_able.json": 2,
@@ -13887,7 +13887,7 @@
       "humanmalenamegen.config.json": 121,
       "humannamegen.config.json": 13,
       "hylotl.species.json": 7,
-      "namegen.config.json": 55,
+      "namegen.config.json": 57,
       "novakid.species.json": 6,
       "novakidnamegen.config.json": 153,
       "penguin.species.json": 10,
