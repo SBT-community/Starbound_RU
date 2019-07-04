@@ -502,7 +502,7 @@
     },
     "Texts": {
       "Eng": "Good choice. I knew you looked like the type who would accept a bribe!",
-      "Rus": "Хороший выбор. Я знал, что ты смахиваешь на кого-то, кто согласится на взятку!"
+      "Rus": "Хороший выбор. Я знал<self.pronoun.verbEnding>, что ты смахиваешь на кого-то, кто согласится на взятку!"
     }
   },
   {
@@ -569,7 +569,7 @@
     },
     "Texts": {
       "Eng": "Haha, you haven't actually caught me. Those were fake handcuffs I put on!",
-      "Rus": "Хаха, ты еще не поймал<player.pronoun.verbEnding>  меня. Это были фальшивые наручники, которые я одел<self.pronoun.verbEnding> !"
+      "Rus": "Хаха, ты еще не поймал<player.pronoun.verbEnding>  меня. Это были фальшивые наручники, которые я надел<self.pronoun.verbEnding> !"
     }
   },
   {
@@ -678,7 +678,7 @@
     },
     "Texts": {
       "Eng": "I am merely a wandering bard. I am not worthy of any suspicion! Verily!",
-      "Rus": "Я просто странствующий бард. Я не тот, на кого тебе стоит тратить время! Воистину!"
+      "Rus": "Я просто странствующий бард. Я не из тех, на кого тебе стоит тратить время! Воистину!"
     }
   },
   {
@@ -690,7 +690,7 @@
     },
     "Texts": {
       "Eng": "I am merely a wandering nomad. I am not worthy of any suspicion!",
-      "Rus": "Я просто странствующий кочевник. Я не тот, на кого тебе стоит тратить время! Воистину!"
+      "Rus": "Я просто странствующий кочевник. Я не из тех, на кого тебе стоит тратить время! Воистину!"
     }
   },
   {
@@ -859,7 +859,7 @@
     },
     "Texts": {
       "Eng": "I have utilised fake handcuffs to trick you! I am still free!",
-      "Rus": "Я выкинул<self.pronoun.verbEnding> фальшивые наручники, чтобы обмануть тебя! Я все еще свободен!"
+      "Rus": "Я использовал<self.pronoun.verbEnding> фальшивые наручники, чтобы обмануть тебя! Я все еще свобод<self.pronoun.verb2Ending>!"
     }
   },
   {
@@ -1022,7 +1022,7 @@
     },
     "Texts": {
       "Eng": "I shouldn't have volunteered for all those Miniknog test programs... I've never been the same since!",
-      "Rus": "Я не долж<self.pronoun.verb2Ending> был добровольно участвовать во всех этих тестах Министерства... Я никогда не буду прежн<self.pronoun.adj4Ending>!"
+      "Rus": "Я не долж<self.pronoun.verb2Ending> был<self.pronoun.verbEnding>добровольно участвовать во всех этих тестах Министерства... Я никогда не буду прежн<self.pronoun.adj4Ending>!"
     }
   },
   {
@@ -1192,7 +1192,7 @@
     },
     "Texts": {
       "Eng": "IT'S NOT MY FAULT I'M MAD, THE MINIKNOG DID THINGS TO ME!",
-      "Rus": "Я НЕ ВИНОВАТ<self.pronoun.verbEnding> ЧТО Я БЕЗУМ<self.pronoun.verb2Ending>, МИНИСТЕРСТВО СДЕЛАЛО ЭТО СО МНОЙ!"
+      "Rus": "Я не виноват<self.pronoun.verbEnding> что я безум<self.pronoun.verb2Ending>, Министерство сделало это со мной!"
     }
   },
   {
@@ -1935,7 +1935,7 @@
     },
     "Texts": {
       "Eng": "You have been caught by a jest! I used fake handcuffs to decieve you! Huzzah!",
-      "Rus": "Ты был<player.pronoun.verbEnding> пойман<player.pronoun.verbEnding> шуткой! Я использовал<self.pronoun.verbEnding> ненастоящие наручники и обманул<self.pronoun.verbEnding> тебя! Ура!"
+      "Rus": "Ты повел<self.pronoun.verb3Ending>! Я использовал<self.pronoun.verbEnding> ненастоящие наручники и обманул<self.pronoun.verbEnding> тебя! Ура!"
     }
   },
   {
@@ -1987,7 +1987,7 @@
     },
     "Texts": {
       "Eng": "You saw through my disguise! It was I, <selfname>, all along!",
-      "Rus": "Ты раскрыл<player.pronoun.verbEnding> мою маскировку! Это был я, <selfname>, все время!"
+      "Rus": "Ты раскрыл<player.pronoun.verbEnding> мою маскировку! Это был<self.pronoun.verbEnding> я, <selfname>, все время!"
     }
   },
   {
@@ -2001,7 +2001,7 @@
     },
     "Texts": {
       "Eng": "You saw through my disguise! It was me, <selfname>, all along!",
-      "Rus": "Ты раскрыл<player.pronoun.verbEnding> мою маскировку! Это был я, <selfname>, все время!"
+      "Rus": "Ты раскрыл<player.pronoun.verbEnding> мою маскировку! Это был<self.pronoun.verbEnding> я, <selfname>, все время!"
     }
   },
   {
@@ -2115,7 +2115,7 @@
     },
     "Texts": {
       "Eng": "You've been decieved by my fake handcuffs! I'm still as free as a bird!",
-      "Rus": "Ты был обманут<player.pronoun.verbEnding> моими фальшивыми наручниками! Я все еще свободен как птица!"
+      "Rus": "Ты был обманут<player.pronoun.verbEnding> моими фальшивыми наручниками! Я все еще свобод<self.pronoun.verb2Ending> как птица!"
     }
   },
   {
@@ -2127,7 +2127,7 @@
     },
     "Texts": {
       "Eng": "You've been decieved by my fake handcuffs! Yee-haw",
-      "Rus": "Ты был обманут<player.pronoun.verbEnding> моими фальшивыми наручниками! Яхуу!"
+      "Rus": "Ты был<player.pronoun.verbEnding> обманут<player.pronoun.verbEnding> моими фальшивыми наручниками! Яхуу!"
     }
   },
   {
