@@ -479,7 +479,7 @@
           "ancientconsolegui.config.json": 3
         },
         "bountyboard": {
-          "bountyboardgui.config.json": 10
+          "bountyboardgui.config.json": 12
         },
         "collections": {
           "collectionsgui.config.json": 4
@@ -11192,13 +11192,13 @@
       },
       "office": {
         "officecabinet": {
-          "officecabinet.object.json": 0
+          "officecabinet.object.json": 1
         },
         "officecomputer": {
-          "officecomputer.object.json": 0
+          "officecomputer.object.json": 9
         },
         "officedesk": {
-          "officedesk.object.json": 0
+          "officedesk.object.json": 9
         },
         "officelamp": {
           "officelamp.object.json": 0
@@ -11207,7 +11207,7 @@
           "officenoticeboard.object.json": 0
         },
         "officescanner": {
-          "officescanner.object.json": 0
+          "officescanner.object.json": 6
         },
         "officeserver": {
           "officeserver.object.json": 0
@@ -13182,7 +13182,7 @@
         }
       }
     },
-    "objects.json": 23,
+    "objects.json": 30,
     "particles": {
       "0.particle.json": 1,
       "1.particle.json": 1,
@@ -13640,28 +13640,28 @@
         "capture_bounty.questtemplate.json": 2,
         "capture_ship_bounty.questtemplate.json": 5,
         "capture_space_bounty.questtemplate.json": 2,
-        "clue_bounties.config.json": 9,
+        "clue_bounties.config.json": 25,
         "clue_items.config.json": 22,
         "clue_npcs.config.json": 0,
         "clue_objects.config.json": 0,
         "clue_scans.config.json": 0,
-        "cultist_mission1.questtemplate.json": 0,
+        "cultist_mission1.questtemplate.json": 2,
         "find_clue_item.questtemplate.json": 0,
         "find_clue_scan.questtemplate.json": 0,
         "find_space_clue_scan.questtemplate.json": 0,
-        "find_tutorial_clues.questtemplate.json": 0,
-        "gang.config.json": 308,
+        "find_tutorial_clues.questtemplate.json": 6,
+        "gang.config.json": 320,
         "generator.config.json": 9,
         "kill_bounty_monster.questtemplate.json": 0,
         "pre_bounty.questtemplate.json": 1,
-        "pre_bounty_capstone.questtemplate.json": 0,
-        "pre_bounty_minor_monster.questtemplate.json": 0,
-        "pre_bounty_minor_npc.questtemplate.json": 0,
+        "pre_bounty_capstone.questtemplate.json": 1,
+        "pre_bounty_minor_monster.questtemplate.json": 3,
+        "pre_bounty_minor_npc.questtemplate.json": 1,
         "scan_planets.questtemplate.json": 0,
         "shared_.config.json": 1,
         "shared_.questtemplate.json": 28,
         "shared__clue_npc.questtemplate.json": 4,
-        "shared__clue_object.questtemplate.json": 0,
+        "shared__clue_object.questtemplate.json": 4,
         "shared_find_space_clue_.json": 4
       },
       "food": {
@@ -13845,7 +13845,7 @@
     "shared_modernplatform.mat.json": 4,
     "shared_monster.json": 13,
     "shared_monstert.json": 5,
-    "shared_name.json": 65,
+    "shared_name.json": 67,
     "shared_outpostplatform.mat.json": 5,
     "shared_plantplatform.mat.json": 5,
     "shared_platform.json": 2,
@@ -13865,7 +13865,7 @@
     "shared_tarcrystal": {
       "shared_tarcrystal.json": 1
     },
-    "shared_teleporter.json": 0,
+    "shared_teleporter.json": 1,
     "shared_thorns.json": 1,
     "shared_throwingblock..json": 1,
     "shared_tribalplatform.mat.json": 4,
