@@ -96,7 +96,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "У флорана есть для тебя ещё задание. ^orange;<target> ^white; совершил<target.pronoun.verbEnding> нечто постыдное и теперь флоран требует справедливости! ^green;Иди и передай <target.pronoun.object> эту ^orange;повестку^green;, затем забери ^orange;<item.accusative>^green;  в качестве платы."
+    ],
     "Files": {
       "quests/generated/templates/collect_fine.questtemplate": [
         "/scriptConfig/generatedText/text/next/floran/0"
@@ -108,7 +110,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флоран свершил правосссудие, и мы получили <item.accusative> за это. Флоран сможет найти применение этой вещи..."
+    ],
     "Files": {
       "quests/generated/templates/collect_fine.questtemplate": [
         "/scriptConfig/generatedText/completionText/first/floran/1"
@@ -120,7 +124,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флоран обнаружил, что ^orange;<target>^white; сделал<target.pronoun.verbEnding> нечто плохое! Вот ^orange;повестка. ^green;Передай её <target.dative> и возьми у н<target.pronoun.reflexive> ^orange;<item.accusative>^green; в качестве штрафа^white; за хулиганство."
+    ],
     "Files": {
       "quests/generated/templates/collect_fine.questtemplate": [
         "/scriptConfig/generatedText/text/default/floran/1"
@@ -132,7 +138,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "У флорана много дел, так что он очень занят. Поможешшшь флорану? ^orange;<target>^white; совершил<target.pronoun.verbEnding> постыдное преступление, а закон должен быть сссоблюдён! ^green;Иди и отдай эту ^orange;повестку^green; <target.dative> и забери у н<target.pronoun.reflexive> ^orange;<item.accusative>^green; в качестве оплаты."
+    ],
     "Files": {
       "quests/generated/templates/collect_fine.questtemplate": [
         "/scriptConfig/generatedText/text/first/floran/0"
@@ -144,7 +152,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "У флорана поссследнее задание для тебя. ^orange;<target>^white; совершил<target.pronoun.verbEnding> постыдное преступление, а справедливость должна быть восстановлена! ^green;Иди и отдай <target.pronoun.object> эту ^orange;повестку^green;, а затем забери ^orange;<item.accusative>^green; в качестве штрафа."
+    ],
     "Files": {
       "quests/generated/templates/collect_fine.questtemplate": [
         "/scriptConfig/generatedText/text/last/floran/0"
@@ -156,7 +166,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флоран слышал, что ^orange;<target>^white; плохо себя вел<target.pronoun.verbEnding>. Флоран хочет, чтобы ты разобрался с этим без лишнего шума: ^green;отнеси эту ^orange;повестку^green; <target.dative> и забери у н<target.pronoun.reflexive> ^orange;<item.accusative>^green; в качестве оплаты."
+    ],
     "Files": {
       "quests/generated/templates/collect_fine.questtemplate": [
         "/scriptConfig/generatedText/text/first/floran/1"
@@ -168,7 +180,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Флоран слышал, что ^orange;<target>^white; творит ужасссные вещи. Флоран написал <target.pronoun.object> ^orange;повестку^white;. ^green;Доставь её и забери у <target.accusative> ^orange;<item.accusative>^green; в качестве платы."
+    ],
     "Files": {
       "quests/generated/templates/collect_fine.questtemplate": [
         "/scriptConfig/generatedText/text/next/floran/1"
@@ -180,7 +194,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Надеюсь, <target> усвоил<target.pronoun.verbEnding> урок: никогда не попадайссся... Кстати, <item.accusative> можешь оставить себе, если хочешь."
+    ],
     "Files": {
       "quests/generated/templates/collect_fine.questtemplate": [
         "/scriptConfig/generatedText/completionText/default/floran/1"
@@ -204,7 +220,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "У меня не вышло собрать штраф с <target.accusative>. Может <questGiver.dative> стоит перестать просить прохожишь выполнять <questGiver.pronoun.reflexive> работу...?"
+    ],
     "Files": {
       "quests/generated/templates/collect_fine.questtemplate": [
         "/scriptConfig/generatedText/failureText/2"
@@ -682,7 +700,7 @@
     },
     "Texts": {
       "Eng": "^cyan;You look like you can handle yourself. Will you help me bring <target> to justice? ",
-      "Rus": ""
+      "Rus": "^cyan;Ты выглядишь так, будто можешь постоять за себя. Поможешь мне привлечь <target> к ответственности"
     }
   },
   {
@@ -754,7 +772,7 @@
     },
     "Texts": {
       "Eng": "disturbing the peace",
-      "Rus": ""
+      "Rus": "нарушение спокойствия"
     }
   },
   {
@@ -766,7 +784,7 @@
     },
     "Texts": {
       "Eng": "intrusion",
-      "Rus": ""
+      "Rus": "вторжение"
     }
   },
   {
@@ -790,7 +808,7 @@
     },
     "Texts": {
       "Eng": "petty theft",
-      "Rus": ""
+      "Rus": "мелкая кража"
     }
   },
   {
@@ -802,7 +820,7 @@
     },
     "Texts": {
       "Eng": "spoiling the fun",
-      "Rus": ""
+      "Rus": "испортил удовольствие"
     }
   },
   {
@@ -814,7 +832,7 @@
     },
     "Texts": {
       "Eng": "unfriendly behaviour",
-      "Rus": ""
+      "Rus": "недружелюбное поведение"
     }
   },
   {
@@ -826,7 +844,7 @@
     },
     "Texts": {
       "Eng": "upsetting others",
-      "Rus": ""
+      "Rus": "расстраивать других"
     }
   }
 ]
