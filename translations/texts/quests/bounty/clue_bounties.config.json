@@ -129,7 +129,7 @@
     },
     "Texts": {
       "Eng": "Are you lookin' for that famous wrongdoer, <bounty.name>? Word around the saloon is that they were last seen on ^orange;<next.coordinate.name>^reset;!",
-      "Rus": ""
+      "Rus": "Ищешь <bounty.accusative>, чья дурная слава дошла и до тебя? В салуне поговаривают, что <bounty.pronoun.reflexive> видели на ^orange;<next.coordinate.name>^reset;!"
     }
   },
   {
@@ -143,7 +143,7 @@
     },
     "Texts": {
       "Eng": "Are you lookin' for that notorious criminal, <bounty.name>? Word on the street is that they were last seen on ^orange;<next.coordinate.name>^reset;!",
-      "Rus": ""
+      "Rus": "Ищешь отъявленного преступника, <bounty.accusative>? Говорят, <bounty.pronoun.reflexive> видели на ^orange;<next.coordinate.name>^reset;!"
     }
   },
   {
@@ -155,7 +155,7 @@
     },
     "Texts": {
       "Eng": "Are you looking for that infamous vagabond, <bounty.name>? Word on the street is that they were last seen on ^orange;<next.coordinate.name>^reset;!",
-      "Rus": ""
+      "Rus": "Ты ищешь бродягу, <bounty.accusative>? Говорят, <bounty.pronoun.reflexive> видели на ^orange;<next.coordinate.name>^reset;!"
     }
   },
   {
@@ -167,7 +167,7 @@
     },
     "Texts": {
       "Eng": "Are you searching for <bounty.name>, famous bad guy? Word on the street is that they were last seen on ^orange;<next.coordinate.name>^reset;!",
-      "Rus": ""
+      "Rus": "Ты ищешь головореза <bounty.accusative>? Говорят, <bounty.pronoun.reflexive> видели на ^orange;<next.coordinate.name>^reset;!"
     }
   },
   {
@@ -179,7 +179,7 @@
     },
     "Texts": {
       "Eng": "Are you the Peacekeeper lookin' for <bounty.name>? Lucky for you, I can help you out - they're on ^orange;<next.coordinate.name>^reset;!",
-      "Rus": ""
+      "Rus": "Ты Миротворец, что ищет <bounty.accusative>? Тебе повезло, я могу помочь: <bounty.pronoun.subject> на ^orange;<next.coordinate.name>^reset;!"
     }
   },
   {
@@ -195,7 +195,7 @@
     },
     "Texts": {
       "Eng": "Are you the Peacekeeper looking for <bounty.name>? Well luckily I can help you out - they're on ^orange;<next.coordinate.name>^reset;!",
-      "Rus": ""
+      "Rus": "Ты Миротворец, что ищет <bounty.accusative>? Ну, к счастью я могу помочь: <bounty.pronoun.subject> на ^orange;<next.coordinate.name>^reset;!"
     }
   },
   {
@@ -207,7 +207,7 @@
     },
     "Texts": {
       "Eng": "Criminals sure do love to talk loudly about their plans! You'd better make your way on over to ^green;<next.coordinate.name>^reset;.",
-      "Rus": ""
+      "Rus": "Преступники явно любят громко говорить о своих планах! Тебе лучше отправиться на ^green;<next.coordinate.name>^reset;."
     }
   },
   {
@@ -220,7 +220,7 @@
     },
     "Texts": {
       "Eng": "Dagnabbit, I've been spotted! better make my way to ^orange;<next.coordinate.name>^reset;!",
-      "Rus": ""
+      "Rus": "О чёрт, меня заметили! Лучше бы свалить на ^orange;<next.coordinate.systemName>^reset;!"
     }
   },
   {
@@ -232,7 +232,7 @@
     },
     "Texts": {
       "Eng": "Dagnabbit, I've been spotted! better make my way to ^orange;<next.coordinate.systemName>^reset;!",
-      "Rus": ""
+      "Rus": "О чёрт, меня заметили! Лучше бы свалить на ^orange;<next.coordinate.systemName>^reset;!"
     }
   },
   {
@@ -244,7 +244,7 @@
     },
     "Texts": {
       "Eng": "Floran hasss seen <bounty.name>! Floran sssaw them on ^orange;<next.coordinate.name>^reset;.",
-      "Rus": ""
+      "Rus": "Флоран видел преступника! Флоран его видел на ^orange;<next.coordinate.name>^reset;."
     }
   },
   {
@@ -256,7 +256,7 @@
     },
     "Texts": {
       "Eng": "Floran hasss seen criminal! Floran sssaw them on ^orange;<next.coordinate.name>^reset;.",
-      "Rus": ""
+      "Rus": "Флоран видел преступника! Флоран его видел на ^orange;<next.coordinate.name>^reset;."
     }
   },
   {
@@ -269,7 +269,7 @@
     },
     "Texts": {
       "Eng": "Floran isss going to ^orange;<next.coordinate.name>^reset;!",
-      "Rus": ""
+      "Rus": "Флоран собирается на ^orange;<next.coordinate.systemName>^reset;!"
     }
   },
   {
@@ -281,7 +281,7 @@
     },
     "Texts": {
       "Eng": "Floran isss going to ^orange;<next.coordinate.systemName>^reset;!",
-      "Rus": ""
+      "Rus": "Флоран собирается на ^orange;<next.coordinate.systemName>^reset;!"
     }
   },
   {
@@ -293,7 +293,7 @@
     },
     "Texts": {
       "Eng": "Floran knowssss where crime perssson isss! Crime perssson is on ^orange;<next.coordinate.name>^reset;!",
-      "Rus": ""
+      "Rus": "Флоран знает, где преступник! Преступник на ^orange;<next.coordinate.name>^reset;!"
     }
   },
   {
@@ -306,7 +306,7 @@
     },
     "Texts": {
       "Eng": "Floran needsss to fly to ^orange;<next.coordinate.name>^reset;!",
-      "Rus": ""
+      "Rus": "Флорану нужно лететь на ^orange;<next.coordinate.name>^reset;!"
     }
   },
   {
@@ -318,7 +318,7 @@
     },
     "Texts": {
       "Eng": "Floran needsss to fly to ^orange;<next.coordinate.systemName>^reset;!",
-      "Rus": ""
+      "Rus": "Флорану нужно лететь на ^orange;<next.coordinate.systemName>^reset;!"
     }
   },
   {
