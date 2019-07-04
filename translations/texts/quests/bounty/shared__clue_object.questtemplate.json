@@ -10,7 +10,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;<coordinate.name>^reset;:\nComputer records here told me that that <bounty.name> is <next.coordinate.preposition> <next.coordinate.name>.\n\n"
+      "Eng": "^green;<coordinate.name>^reset;:\nComputer records here told me that that <bounty.name> is <next.coordinate.preposition> <next.coordinate.name>.\n\n",
+      "Rus": "^green;<coordinate.name>^reset;:\nЗаписи на компьютери указали мне, что <bounty.name> <next.coordinate.preposition> <next.coordinate.name>."
     }
   },
   {
@@ -24,7 +25,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;<coordinate.name>^reset;:\nCracking the criminal's secure database gave me the location \"<next.coordinate.name>\".\n\n"
+      "Eng": "^green;<coordinate.name>^reset;:\nCracking the criminal's secure database gave me the location \"<next.coordinate.name>\".\n\n",
+      "Rus": "^green;<coordinate.name>^reset;:\nВзлом секретной преступной базы данных дал мне местонахождение: \"<next.coordinate.name>\"."
     }
   },
   {
@@ -38,7 +40,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;<coordinate.name>^reset;:\nMy advanced hacking skills have led me to <next.coordinate.name>.\n\n"
+      "Eng": "^green;<coordinate.name>^reset;:\nMy advanced hacking skills have led me to <next.coordinate.name>.\n\n",
+      "Rus": "^green;<coordinate.name>^reset;:\nМои продвинутые навыки взлома привели меня на <next.coordinate.name>."
     }
   },
   {
@@ -52,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;<coordinate.name>^reset;:\nMy master hacking skills have led me to <next.coordinate.name>.\n\n"
+      "Eng": "^green;<coordinate.name>^reset;:\nMy master hacking skills have led me to <next.coordinate.name>.\n\n",
+      "Rus": "^green;<coordinate.name>^reset;:\nМоё мастерство взлома привело меня на <next.coordinate.name>."
     }
   }
 ]
