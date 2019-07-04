@@ -4782,9 +4782,9 @@
       }
     },
     "names": {
-      "ancientgreek.namesource.json": 610,
+      "ancientgreek.namesource.json": 611,
       "aztec.namesource.json": 138,
-      "pets.namesource.json": 0,
+      "pets.namesource.json": 149,
       "russianfemale.namesource.json": 80,
       "russianmale.namesource.json": 72,
       "russiansurname.namesource.json": 178,
@@ -13905,7 +13905,7 @@
     "stats": {
       "effects": {
         "arrested": {
-          "arrested.statuseffect.json": 0
+          "arrested.statuseffect.json": 1
         },
         "bed": {
           "shared_.statuseffect.json": 1
@@ -13991,7 +13991,7 @@
           "melting.statuseffect.json": 1
         },
         "neon": {
-          "neon.statuseffect.json": 0
+          "neon.statuseffect.json": 1
         },
         "nofalldamage": {
           "nofalldamage.statuseffect.json": 1
@@ -14044,7 +14044,7 @@
           "timefreeze.statuseffect.json": 1
         },
         "ufobeamstun": {
-          "ufobeamstun.statuseffect.json": 0
+          "ufobeamstun.statuseffect.json": 1
         },
         "weakpoison": {
           "weakpoison.statuseffect.json": 1
@@ -14057,7 +14057,7 @@
         }
       }
     },
-    "system_objects.config.json": 23,
+    "system_objects.config.json": 24,
     "tech": {
       "dash": {
         "airdash.tech.json": 2,
