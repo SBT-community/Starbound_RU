@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "We've been recieving word of a local legend <coordinate.preposition> <coordinate.name>. A strangely-coloured creature called ^orange;<bounty.name>^reset; has been known to harass locals for some time, and they're darn sick of it. Can you go and sort out this mess?\n\n- REWARDS -\nKill: ^yellow;<rewards.money>^reset; pixels, +<rewards.rank> rank"
+      "Eng": "We've been recieving word of a local legend <coordinate.preposition> <coordinate.name>. A strangely-coloured creature called ^orange;<bounty.name>^reset; has been known to harass locals for some time, and they're darn sick of it. Can you go and sort out this mess?\n\n- REWARDS -\nKill: ^yellow;<rewards.money>^reset; pixels, +<rewards.rank> rank",
+      "Rus": "Мы слышали местную легенду <coordinate.preposition> <coordinate.name>. В ней говорилось, что существо странного окраса по имени ^orange;<bounty.name>^reset; изводило местных, и они от этого чертовски устали. Сможешь уладить этот бардак?\n\n- НАГРАДА -\nУбийство: ^yellow;<rewards.money>^reset; пикселов, +<rewards.rank> к рангу"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "We've had reports of a creature running loose <coordinate.preposition> <coordinate.name>. Some darn fool named it '^orange;<bounty.name>^reset;' and now nobody has the heart to put it down. You'd better get over there and put a stop to this monstrosity before anyone else gets hurt.\n\n- REWARDS -\nKill: ^yellow;<rewards.money>^reset; pixels, +<rewards.rank> rank"
+      "Eng": "We've had reports of a creature running loose <coordinate.preposition> <coordinate.name>. Some darn fool named it '^orange;<bounty.name>^reset;' and now nobody has the heart to put it down. You'd better get over there and put a stop to this monstrosity before anyone else gets hurt.\n\n- REWARDS -\nKill: ^yellow;<rewards.money>^reset; pixels, +<rewards.rank> rank",
+      "Rus": "Нам сообщили о создании, обитающем где-то <coordinate.preposition> <coordinate.name>. Какой-то чёртов дурак назвал его '^orange;<bounty.name>^reset;' и теперь никому не хватает храбрости это существо прогнать. Тебе стоит наведаться туда и остановить это чудище прежде чем кто-то ещё пострадает.\n\n- НАГРАДА -\nУбийство: ^yellow;<rewards.money>^reset; пикселов, +<rewards.rank> к рангу"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "We've had reports of a creature wreaking havoc <coordinate.preposition> <coordinate.name>! The locals have taken to calling it '^orange;<bounty.name>^reset;' and they're too afraid to leave their homes. Can you travel there and take care of it?\n\n- REWARDS -\nKill: ^yellow;<rewards.money>^reset; pixels, +<rewards.rank> rank"
+      "Eng": "We've had reports of a creature wreaking havoc <coordinate.preposition> <coordinate.name>! The locals have taken to calling it '^orange;<bounty.name>^reset;' and they're too afraid to leave their homes. Can you travel there and take care of it?\n\n- REWARDS -\nKill: ^yellow;<rewards.money>^reset; pixels, +<rewards.rank> rank",
+      "Rus": "Поступили донесения о создании, сеящем хаос <coordinate.preposition> <coordinate.name>! Местные прозвали его '^orange;<bounty.name>^reset;' и теперь слишком напуганы, чтобы покинуть свои дома. Можешь отправиться туда и позаботиться об этом?\n\n- НАГРАДА -\nУбийство: ^yellow;<rewards.money>^reset; пикселов, +<rewards.rank> к рангу"
     }
   }
 ]
