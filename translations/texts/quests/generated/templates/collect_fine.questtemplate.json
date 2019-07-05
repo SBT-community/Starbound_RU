@@ -620,7 +620,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ты случайно, не занят? ^orange;<target>^white; нарушил закон и должен понести наказание. Было-бы неплохо если ты ^green;отнёс это ^orange;извещение^green; к <target.pronoun.object>^white; и ^green;взял с него<target.pronoun.possessiveDet> ^orange;<item.accusative>^white; в качестве штрафа. Я-бы сделал это сам... Но что-то не хочу."
+    ],
     "Files": {
       "quests/generated/templates/collect_fine.questtemplate": [
         "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
@@ -632,7 +634,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "^cyan;<target> в последнее время устраивает неприятности. Пришло время поставить <target.pronoun.object> на место."
+    ],
     "Files": {
       "quests/generated/templates/collect_fine.questtemplate": [
         "/scriptConfig/generatedText/goalText/default/1"
