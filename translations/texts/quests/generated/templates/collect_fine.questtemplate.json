@@ -620,7 +620,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ты случайно, не занят? ^orange;<target>^white; нарушил закон и должен понести наказание. Было-бы неплохо если ты ^green;отнёс это ^orange;извещение^green; к <target.pronoun.object>^white; и ^green;взял с него<target.pronoun.possessiveDet> ^orange;<item.accusative>^white; в качестве штрафа. Я-бы сделал это сам... Но что-то не хочу."
+    ],
     "Files": {
       "quests/generated/templates/collect_fine.questtemplate": [
         "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
@@ -628,11 +630,13 @@
     },
     "Texts": {
       "Eng": "You wouldn't happen to be busy, would you? ^orange;<target>^white; has broken the law and owes a fine. Will you ^green;deliver this ^orange;notice^green; to <target.pronoun.object>^white; and ^green;collect <target.pronoun.possessiveDet> ^orange;<item>^white; as payment? I would do it myself, but I... Don't want to.",
-      "Rus": "Ты случайно, не занят? ^orange;<target>^white; нарушил закон и должен понести наказание. Было-бы неплохо если ты ^green;отнёс это ^orange;извещение^green; к <target.pronoun.object>^white; и ^green;взял с него<target.pronoun.possessiveDet> ^orange;<item>^white; в качестве штрафа. Я-бы сделал это сам... Но что-то не хочу."
+      "Rus": "Ты случайно, не занят<player.pronoun.verbEnding>? ^orange;<target>^white; нарушил<target.pronoun.verbEnding> закон и долж<target.pronoun.verb2Ending> понести наказание. Было-бы неплохо если бы ты ^green;отнёс<player.pronoun.verb4Ending> это ^orange;извещение^green; к <target.pronoun.object>^white; и ^green;взял<player.pronoun.verbEnding> с н<target.pronoun.reflexive> ^orange;<item.accusative>^white; в качестве штрафа. Я-бы сделал<questGiver.pronoun.verbEnding> это сам<questGiver.pronoun.verbEnding>... Но что-то не хочу."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "^cyan;<target> в последнее время устраивает неприятности. Пришло время поставить <target.pronoun.object> на место."
+    ],
     "Files": {
       "quests/generated/templates/collect_fine.questtemplate": [
         "/scriptConfig/generatedText/goalText/default/1"
@@ -640,7 +644,7 @@
     },
     "Texts": {
       "Eng": "^cyan;<target> has been causing a nuisance around here lately - It's time I set <target.pronoun.object> straight.",
-      "Rus": "^cyan;<target> в последнее время устраивает неприятности. Пришло время поставить <target.pronoun.object> на место."
+      "Rus": "^cyan;<target> в последнее время устраивает неприятности. Пришло время поставить <target.pronoun.reflexive> на место."
     }
   },
   {
@@ -652,7 +656,7 @@
     },
     "Texts": {
       "Eng": "^cyan;Help Floran deliver jusstice to <target>!",
-      "Rus": "^cyan;Помоги Флорану найти <target> и воссстановить сссправедливость!"
+      "Rus": "^cyan;Помоги Флорану найти <target.accusative> и воссстановить сссправедливость!"
     }
   },
   {
@@ -664,7 +668,7 @@
     },
     "Texts": {
       "Eng": "^cyan;Make <target> pay for breaking rulesss!",
-      "Rus": "^cyan;Пора <target> заплатить за нарушение правил!"
+      "Rus": "^cyan;Пора <target.dative> заплатить за нарушение правил!"
     }
   },
   {
@@ -676,7 +680,7 @@
     },
     "Texts": {
       "Eng": "^cyan;Obsessive. Will you help me bring <target> to justice? I have a plan...",
-      "Rus": "^cyan;Навязчиво. Поможешь мне привлечь <target> к ответственности? У меня есть план..."
+      "Rus": "^cyan;Навязчиво. Поможешь мне привлечь <target.accusative> к ответственности? У меня есть план..."
     }
   },
   {
@@ -700,7 +704,7 @@
     },
     "Texts": {
       "Eng": "^cyan;You look like you can handle yourself. Will you help me bring <target> to justice? ",
-      "Rus": "^cyan;Ты выглядишь так, будто можешь постоять за себя. Поможешь мне привлечь <target> к ответственности"
+      "Rus": "^cyan;Ты выглядишь так, будто можешь постоять за себя. Поможешь мне привлечь <target.accusative> к ответственности"
     }
   },
   {
