@@ -200,7 +200,7 @@
     },
     "Texts": {
       "Eng": "Howdy there, Officer <entityname>! Do you know if Captain Noble is single? I'm askin' for... A friend.",
-      "Rus": "Эй, там, Офицер <entityname>! Как ты думаешь, Капитань Нобель одинок? Я ищу... друга."
+      "Rus": "Эй, там, Офицер <entityname>! Как ты думаешь, у Капитана Нобеля есть пара? Я спрашиваю для... друга."
     }
   },
   {
@@ -308,7 +308,7 @@
     },
     "Texts": {
       "Eng": "I sure would like to get my OWN desk one day.",
-      "Rus": "Я уверен<self.pronoun.verbEnding>, что получу однажды свой СОБСТВЕННЫЙ стол."
+      "Rus": "Я уверен<self.pronoun.verbEnding>, что однажды получу свой СОБСТВЕННЫЙ стол."
     }
   },
   {
@@ -320,7 +320,7 @@
     },
     "Texts": {
       "Eng": "I'll work my way up the Peacekeeper chain until I can take on the Miniknog myself!",
-      "Rus": "Я буду пробивать себе путь вверх по карьерной лестнице Миротворца, пока не смогу однажды лично померятся силой с Министерством!"
+      "Rus": "Я буду пробивать себе путь вверх по карьерной лестнице Миротворцев, пока не смогу однажды лично померятся силой с Министерством!"
     }
   },
   {
@@ -632,7 +632,7 @@
     },
     "Texts": {
       "Eng": "There's a few new cases I've been researching just for you, Officer <entityname>.",
-      "Rus": "Вот несколько новых случаев, которые я откопал специально для Вас, Офицер <entityname>."
+      "Rus": "Вот несколько новых случаев, которые я откопал<self.pronoun.verbEnding> специально для Вас, Офицер <entityname>."
     }
   },
   {
@@ -704,7 +704,7 @@
     },
     "Texts": {
       "Eng": "Well ruffle my feathers - you're Officer <entityname>! The Captain has such kind words to say about you!",
-      "Rus": "Хорошо же Вы потрепали мне нервы, Офицер <entityname>! У Капитана есть столь любезные слова для вас!"
+      "Rus": "Ну и достали же Вы меня, Офицер <entityname>! Капитан вечно так хорошо о Вас отзывается!"
     }
   },
   {
