@@ -56,7 +56,7 @@
     },
     "Texts": {
       "Eng": "Captain Noble has me working on finding some new cases for you, Officer <entityname>!",
-      "Rus": "Капитан Нобель заставил меня работать над поиском каких-нибудь новых дел для вас, Офицер <entityname>!"
+      "Rus": "Капитан Нобель заставил меня работать над поиском новых дел для Вас, Офицер <entityname>!"
     }
   },
   {
@@ -200,7 +200,7 @@
     },
     "Texts": {
       "Eng": "Howdy there, Officer <entityname>! Do you know if Captain Noble is single? I'm askin' for... A friend.",
-      "Rus": "Эй, там, Офицер <entityname>! Ты слышал, что Капитан Нобель одинок? Я говорю о... другом."
+      "Rus": "Эй, там, Офицер <entityname>! Как ты думаешь, Капитань Нобель одинок? Я ищу... друга."
     }
   },
   {
@@ -224,7 +224,7 @@
     },
     "Texts": {
       "Eng": "Howdy! I'm Officer <selfname>, and I'm ready to bust up some bad guys!",
-      "Rus": "Приветствую! Я Офицер <selfname>, и я готов отправить за решетку плохих парней!"
+      "Rus": "Приветствую! Я Офицер <selfname>, и я готов<self.pronoun.verbEnding> отправить за решетку плохих парней!"
     }
   },
   {
@@ -236,7 +236,7 @@
     },
     "Texts": {
       "Eng": "I am determined to bring peace to this sector once more!",
-      "Rus": "Я полон решимости принести мир в этот сектор еще раз!"
+      "Rus": "Я горю решимостью принести мир в этот сектор еще раз!"
     }
   },
   {
@@ -296,7 +296,7 @@
     },
     "Texts": {
       "Eng": "I joined up with the Peacekeepers mostly because of the Captain's sheer enthusiasm. Such charisma!",
-      "Rus": "Я присоединился к Миротворцам в основном из-за того, что Капитан прямо сияет энтузиазмом. Такая харизма!"
+      "Rus": "Я присоединил<self.pronoun.verb3Ending> к Миротворцам в основном из-за того, что Капитан прямо сияет энтузиазмом. Такая харизма!"
     }
   },
   {
@@ -308,7 +308,7 @@
     },
     "Texts": {
       "Eng": "I sure would like to get my OWN desk one day.",
-      "Rus": "Я уверен<self.pronoun.verbEnding>, что получу однажды свой собственный стол."
+      "Rus": "Я уверен<self.pronoun.verbEnding>, что получу однажды свой СОБСТВЕННЫЙ стол."
     }
   },
   {
@@ -320,7 +320,7 @@
     },
     "Texts": {
       "Eng": "I'll work my way up the Peacekeeper chain until I can take on the Miniknog myself!",
-      "Rus": "Я буду пробивать себе путь вверх по цепочке Миротворца, пока не смогу однажды лично померятся силой с Министерством!"
+      "Rus": "Я буду пробивать себе путь вверх по карьерной лестнице Миротворца, пока не смогу однажды лично померятся силой с Министерством!"
     }
   },
   {
@@ -452,7 +452,7 @@
     },
     "Texts": {
       "Eng": "Keep your chin up, Officer -  It's a tough job but I believe in you!",
-      "Rus": "Выше голову, Офицер - это сложная работа, но я верю в вас!"
+      "Rus": "Выше голову, Офицер - это сложная работа, но я верю в Вас!"
     }
   },
   {
@@ -476,7 +476,7 @@
     },
     "Texts": {
       "Eng": "My role is to gather intel on our local gangs. It's your job, Officer <entityname>, to take the fight to them!",
-      "Rus": "Моя задача - сбор информации о местных бандах. Драться с ними - ваша работа, Офицер <entityname>!"
+      "Rus": "Моя задача - сбор информации о местных бандах. Драться с ними - Ваша работа, Офицер <entityname>!"
     }
   },
   {
@@ -512,7 +512,7 @@
     },
     "Texts": {
       "Eng": "Officer <entityname>? The Captain told me you're the one who has helped get this operation running again. You have my admiration.",
-      "Rus": "Офицер <entityname>? Капитан сказал мне, что именно вы помогли продолжить работу над этой операцией. Я восхищен вами."
+      "Rus": "Офицер <entityname>? Капитан сказал мне, что именно Вы помогли продолжить работу над этой операцией. Я восхищен Вами."
     }
   },
   {
@@ -548,7 +548,7 @@
     },
     "Texts": {
       "Eng": "Officer <selfname>, here to help! The Captain has me researching cases for you to take on!",
-      "Rus": "Офицер <selfname> здесь, чтобы помочь вам! Капитан заставляет меня исследовать дела, которыми вы могли бы заняться!"
+      "Rus": "Офицер <selfname> здесь, чтобы помочь Вам! Капитан заставляет меня исследовать дела, которыми Вы могли бы заняться!"
     }
   },
   {
@@ -572,7 +572,7 @@
     },
     "Texts": {
       "Eng": "The Captain exudes confidence. I one day hope to be even half as inspirational as he is!",
-      "Rus": "Капитан излучает уверенность. Я надеюсь в один день стать хотя бы вполовину так<self.pronoun.adj4Ending> же вдохновляющ<self.pronoun.adj4Ending>, как он!"
+      "Rus": "Капитан излучает уверенность. Я надеюсь однажды стать хотя бы вполовину так<self.pronoun.adj4Ending> же вдохновляющ<self.pronoun.adj4Ending>, как он!"
     }
   },
   {
@@ -584,7 +584,7 @@
     },
     "Texts": {
       "Eng": "The Captain has informed me of your prowess, Officer <entityname>.",
-      "Rus": "Капитан проинформировал меня о вашей доблести, Офицер <entityname>."
+      "Rus": "Капитан проинформировал меня о Вашей доблести, Офицер <entityname>."
     }
   },
   {
@@ -596,7 +596,7 @@
     },
     "Texts": {
       "Eng": "The Captain has me investigating local criminal activity. These gangs sure do pick the weirdest gang names, huh?",
-      "Rus": "Капитан заставляет меня расследовать местную преступную деятельность. Эти банды наверняка выбирают самые странные названия, правда?"
+      "Rus": "Капитан заставляет меня расследовать местную преступную деятельность. Эти банды явно выбирают самые странные названия, правда?"
     }
   },
   {
@@ -632,7 +632,7 @@
     },
     "Texts": {
       "Eng": "There's a few new cases I've been researching just for you, Officer <entityname>.",
-      "Rus": "Вот несколько новых случаев, которые я откопал специально для вас, Офицер <entityname>."
+      "Rus": "Вот несколько новых случаев, которые я откопал специально для Вас, Офицер <entityname>."
     }
   },
   {
@@ -704,7 +704,7 @@
     },
     "Texts": {
       "Eng": "Well ruffle my feathers - you're Officer <entityname>! The Captain has such kind words to say about you!",
-      "Rus": "Хорошо же вы потрепали мне перья, Офицер <entityname>! У Капитана есть столь любезные слова для вас!"
+      "Rus": "Хорошо же Вы потрепали мне нервы, Офицер <entityname>! У Капитана есть столь любезные слова для вас!"
     }
   },
   {
@@ -728,7 +728,7 @@
     },
     "Texts": {
       "Eng": "Without a Matter Manipulator, there's only so much field work I can do. Not like you, Officer <entityname>!",
-      "Rus": "Без Манипулятора Материи это все, что я могу сделать. Не то что вы, Офицер <entityname>!"
+      "Rus": "Без Манипулятора Материи это все, что я могу сделать. Не то что Вы, Офицер <entityname>!"
     }
   },
   {
@@ -740,7 +740,7 @@
     },
     "Texts": {
       "Eng": "Word around the station is that you're a real sharp-shooter, Officer <entityname>!",
-      "Rus": "По станции ходит слух, что вы настоящий снайпер, Офицер <entityname>!"
+      "Rus": "По станции ходит слух, что Вы настоящий снайпер, Офицер <entityname>!"
     }
   },
   {
@@ -752,7 +752,7 @@
     },
     "Texts": {
       "Eng": "You're Officer <entityname>?! I've heard so much about you from the Captain! You look different to how I imagined...",
-      "Rus": "Вы Офицер <entityname>?! Я так много слышал<self.pronoun.verbEnding> о вас от Капитана! Вы выглядите совершенно иначе, чем я представлял<self.pronoun.verbEnding> себе..."
+      "Rus": "Вы Офицер <entityname>?! Я так много слышал<self.pronoun.verbEnding> о Вас от Капитана! Вы выглядите совершенно иначе, чем я представлял<self.pronoun.verbEnding> себе..."
     }
   }
 ]
