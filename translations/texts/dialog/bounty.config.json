@@ -542,7 +542,7 @@
     },
     "Texts": {
       "Eng": "Ha! I tricked you with those fake handcuffs! You haven't caught me just yet!",
-      "Rus": "Ха! Я обманул тебя этими фальшивыми наручниками! Ты еще не поймал меня!"
+      "Rus": "Ха! Я обманул<self.pronount.verbEnding> тебя этими фальшивыми наручниками! Ты еще не поймал меня!"
     }
   },
   {
@@ -557,7 +557,7 @@
     },
     "Texts": {
       "Eng": "Haha, you haven't actually caught me. Those were fake handcuffs I put on myself!",
-      "Rus": "Хаха, ты еще не поймал<player.pronoun.verbEnding>  меня. Это были фальшивые наручники, которые я на себя одел<self.pronoun.verbEnding> !"
+      "Rus": "Хаха, ты еще не поймал<player.pronoun.verbEnding>  меня. Это были фальшивые наручники, которые я на себя надел<self.pronoun.verbEnding> !"
     }
   },
   {
@@ -1686,7 +1686,7 @@
     },
     "Texts": {
       "Eng": "The secret truth is that everything is pixelly and flat! It can't just be me who sees it, can it?!",
-      "Rus": "Секрет в том, что все пиксельно и плоско! Я не могу быть всего лишь т<self.pronoun.adj4Ending>, кто это видит, не так ли ?!"
+      "Rus": "Секрет в том, что все пиксельно и плоско! Я не могу же только я это видеть, не так ли?!"
     }
   },
   {
