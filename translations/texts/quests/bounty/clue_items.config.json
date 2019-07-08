@@ -335,7 +335,7 @@
     },
     "Texts": {
       "Eng": "Dear Diary,\n\nToday I helped <bounty.name> by taking some loot to <next.coordinate.name>.\nI hinted that I would like a raise for my recent hard-working efforts, but <bounty.name> didn't seem to notice.\nI should probably hide this page for now in case someone finds it.",
-      "Rus": ""
+      "Rus": "Дорогой дневник,\n\nСегодня я помогла <bounty.dative> с доставкой добычи на <next.coordinate.name>.\nЯ отметила, что не отказалась бы от повышения за мои старания, но <bounty.name>, похоже, даже не заметил<bounty.pronoun.verbEnding>.\n\nПожалуй стоит пока спрятать эту страницу, на случай, если кто-нибудь найдёт дневник."
     }
   },
   {
@@ -350,7 +350,7 @@
     },
     "Texts": {
       "Eng": "Dear Diary,\n\nToday I helped <bounty.name> by taking the loot to <next.coordinate.name>.\nI hope I'll get a raise soon!\nI should probably hide this page for now in case someone finds it.",
-      "Rus": "Дорогой дневник,\n\nСегодня я помогал <bounty.dative> с доставкой добычи на <next.coordinate.name>.\nНадеюсь, скоро получу повышение!\nПожалуй стоит пока спрятать эту страницу, на случай, если кто-нибудь найдёт дневник."
+      "Rus": "Дорогой дневник,\n\nСегодня я помогал <bounty.dative> с доставкой добычи на <next.coordinate.name>.\nНадеюсь, скоро получу повышение!\n\nПожалуй стоит пока спрятать эту страницу, на случай, если кто-нибудь найдёт дневник."
     }
   },
   {
@@ -362,7 +362,7 @@
     },
     "Texts": {
       "Eng": "Dear Diary,\n\nToday I spent time with <bounty.name> on our way to <next.coordinate.name>.\nI made a joke, and <bounty.name> laughed!\nI hope someday <bounty.name> can see me as something more than just a hired goon «\n\nI should probably hide this page for now in case someone finds it.",
-      "Rus": ""
+      "Rus": "Дорогой дневник,\n\nСегодня я была в обществе <bounty.accusative> во время поездки на <next.coordinate.name>.\nЯ пошутила и <bounty.name> засмеял<bounty.pronoun.verb3Ending>!\nНадеюсь, однажды <bounty.name> сможет разглядеть во мне нечто большее чем просто наёмника «\n\nНаверное стоит спрятать эту страницу, на случай, если кто-то найдёт дневник."
     }
   },
   {
@@ -374,7 +374,7 @@
     },
     "Texts": {
       "Eng": "Due to a change in gang policy, we are now converting all records to a digital format for easier storage. Please go to our computer office <next.coordinate.preposition> <next.coordinate.name> in order to:\n\n> Review your financial records!\n\n> Recieve your bi-quarterly review!\n\n> Memorise the combinations to our security vaults!\n\n> Place an order for your required gang headwear!",
-      "Rus": ""
+      "Rus": "В связи с изменениями в политике банды, теперь мы заменяем все бумажные записи цифровыми для простоты хранения. Пожалуйста, посетите наш компьютерный офис <next.coordinate.preposition> <next.coordinate.name>, чтобы:\n\n> Проверить свои финансовые записи!\n\n> Получить свой би-квартальный отчёт!\n\n> Запомнить комбинации от наших защищённых хранилищ!\n\n> Разместить заказ на свою бандитскую шляпу (обязательно)!"
     }
   },
   {
@@ -386,7 +386,7 @@
     },
     "Texts": {
       "Eng": "Hey Crew,\n\nYou're never gonna believe this!\nI TOTALLY fooled a Peacekeeper earlier by pretending to be someone else!\nThey were well and truly pranked.\n\nUntil next time,\n<bounty.name>",
-      "Rus": ""
+      "Rus": "Эй команда,\n\nВы ни за что не поверите!\nЯ ПОЛНОСТЬЮ одурачил<bounty.pronoun.verbEnding> Миротворца прикинувшись прохожим! <player.pronoun.capitalSubject> и правда повёлся.\n\nДо скорого,\n<bounty.name>"
     }
   },
   {
@@ -398,7 +398,7 @@
     },
     "Texts": {
       "Eng": "Hi <bounty.name>,\n\nI forgot the code to the vault, so I am going to the hideout <next.coordinate.preposition> <next.coordinate.name> to ask the others for it.\nSorry for the inconvenience!",
-      "Rus": ""
+      "Rus": "Привет, <bounty.name>,\n\nЯ забыла код от хранилища и теперь направляюсь в убежище <next.coordinate.preposition> <next.coordinate.name>, чтобы спросить его у остальных.\nПрошу прощения за неудобства!"
     }
   },
   {
@@ -424,7 +424,7 @@
     },
     "Texts": {
       "Eng": "I don't think we're dealin' with smart folks on this case. You better head to <next.coordinate.name>!",
-      "Rus": ""
+      "Rus": "Не думаю, что в нашем случае мы имеем дело с умными парнями. Тебе стоит отправиться на <next.coordinate.name>!"
     }
   },
   {
@@ -436,7 +436,7 @@
     },
     "Texts": {
       "Eng": "I guess ah appreciate their desire not to waste paper! You gotta look after the planet... Every planet. You should go an' check out <next.coordinate.name>.",
-      "Rus": ""
+      "Rus": "Пожалуй я... эм... оценил их желание не тратить бумагу попусту! Нужно заботиться о планете... Каждой планете. Тебе стоит отправиться и проверить <next.coordinate.name>."
     }
   },
   {
@@ -448,7 +448,7 @@
     },
     "Texts": {
       "Eng": "I hope you're good with computers, because you gotta find that vault code! You should head to <next.coordinate.name>.",
-      "Rus": ""
+      "Rus": "Надеюсь ты дружишь с компьютером, поскольку ты должен достать этот код от хранилища! Отправляйся на <next.coordinate.name>."
     }
   },
   {
@@ -472,7 +472,7 @@
     },
     "Texts": {
       "Eng": "I wonder what made these folks turn to a life of crime? It looks like <next.coordinate.name> is your next stop on this case, partner!",
-      "Rus": ""
+      "Rus": "Интересно, что сподвигло этих ребят преступить закон? Похоже <next.coordinate.name> - твоя следующая остановка, партнёр!"
     }
   },
   {
@@ -488,7 +488,7 @@
     },
     "Texts": {
       "Eng": "If you're gonna dispose of written evidence, you gotta do a better job than hidin' it! You should head on over to <next.coordinate.name>.",
-      "Rus": ""
+      "Rus": "Если хочешь избавиться от письменного свидетельства, то стоит придумать кое-что получше, чем просто спрятать его! Тебе пора направиться на <next.coordinate.name>."
     }
   },
   {
@@ -529,7 +529,7 @@
     },
     "Texts": {
       "Eng": "It sounds like <next.coordinate.name> is where you should start headin' towards, partner!",
-      "Rus": ""
+      "Rus": "Звучит будто <next.coordinate.name> - то место, откуда тебе следует начать поиски, партнёр!"
     }
   },
   {
@@ -557,7 +557,7 @@
     },
     "Texts": {
       "Eng": "Lackey,\n\nFor the last time, stop writing notes with the vault combination on around the vault!\nI can't even begin to explain to you why that's a bad idea!\n If you forget the code AGAIN, leave a reminder at our hideout <next.coordinate.preposition> <next.coordinate.name>, instead.\n\nRegards,\n<bounty.name>",
-      "Rus": ""
+      "Rus": "Приспешник,\n\nПоследний раз предупреждаю, прекращай разбрасывать записки с кодом от хранилища вокруг хранилища!\nЯ даже не знаю с чего начать объяснение почему это плохая идея!\nЕсли забудешь код ОПЯТЬ, оставь лучше напоминание в нашем укрытии <next.coordinate.preposition> <next.coordinate.name>.\n\nС уважением,\n<bounty.name>"
     }
   },
   {
@@ -574,7 +574,7 @@
     },
     "Texts": {
       "Eng": "Lackey,\n\nThe goods are now <next.coordinate.preposition> <next.coordinate.name>.\nMake sure you aren't being followed.\n\nRegards,\n<bounty.name>",
-      "Rus": ""
+      "Rus": "Приспешник,\n\nТовар теперь <next.coordinate.preposition> <next.coordinate.name>.\nУбедись, что за тобой нет хвоста."
     }
   },
   {
@@ -589,7 +589,7 @@
     },
     "Texts": {
       "Eng": "Looks like they're half a step ahead of us - but it's seemin' like we can catch 'em at <next.coordinate.name>!",
-      "Rus": ""
+      "Rus": "Похоже они на шаг впереди нас - но видимо мы ещё можем перехватить их на <next.coordinate.name>!"
     }
   },
   {
@@ -601,7 +601,7 @@
     },
     "Texts": {
       "Eng": "Note to self:\n\n<bounty.name> is getting really mad that I keep leaving notes around with the vault code written on them.\nAll remaining notes should be quietly stored <next.coordinate.preposition> <next.coordinate.name> instead.",
-      "Rus": ""
+      "Rus": "Напоминание для себя:\n\n<bounty.name> ужастно бесится когда я оставляю записки с кодом от хранилища возле хранилища.\nВсе записки с напоминаниями должны быть, вместо этого, по тихому сложены <next.coordinate.preposition> <next.coordinate.name>."
     }
   },
   {
@@ -613,7 +613,7 @@
     },
     "Texts": {
       "Eng": "Note to self:\n\nThe code for the vault <next.coordinate.preposition> <next.coordinate.name> is <password>.\n\nDon't leave this note somewhere again!",
-      "Rus": ""
+      "Rus": "Напоминание себе:\n\nКод от хранилища <next.coordinate.preposition> <next.coordinate.name> - <password>.\n\nНе оставляй эту записку где попало снова!"
     }
   },
   {
