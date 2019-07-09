@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A beautiful soft flower, what power does it hold?"
+      "Eng": "A beautiful soft flower, what power does it hold?",
+      "Rus": "Чудесный цветок, что за сила в нем хранится?"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A fancy lookin' flower growin' in a pot."
+      "Eng": "A fancy lookin' flower growin' in a pot.",
+      "Rus": "Этот цветок в горшке такой чудной."
     }
   },
   {
@@ -29,18 +31,22 @@
       ]
     },
     "Texts": {
-      "Eng": "A fiery-looking flower in a pot."
+      "Eng": "A fiery-looking flower in a pot.",
+      "Rus": "Пламяподобный цветок в горшке."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Огненный цветок"
+    ],
     "Files": {
       "objects/generic/fireflowerpot/fireflowerpot.object": [
         "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Fiery Flower"
+      "Eng": "Fiery Flower",
+      "Rus": "Пламенный цветок"
     }
   },
   {
@@ -51,7 +57,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Flowers on the surface are so vibrant."
+      "Eng": "Flowers on the surface are so vibrant.",
+      "Rus": "Цветы на поверхности очень яркие."
     }
   },
   {
@@ -62,7 +69,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The colour and shape of this flower closely resemble fire."
+      "Eng": "The colour and shape of this flower closely resemble fire.",
+      "Rus": "Цвет и форма этого цветка напоминает пламя."
     }
   },
   {
@@ -73,7 +81,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The movement of this flower in the breeze looks like fire."
+      "Eng": "The movement of this flower in the breeze looks like fire.",
+      "Rus": "При дуновении ветра этот цветок похож на пламя."
     }
   },
   {
@@ -84,7 +93,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The petals of this flower look like tongues of flame."
+      "Eng": "The petals of this flower look like tongues of flame.",
+      "Rus": "Лепестки этого цветка выглядят как языки пламени."
     }
   },
   {
@@ -95,7 +105,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Ugly flower lookss like flamesss."
+      "Eng": "Ugly flower lookss like flamesss.",
+      "Rus": "Уродливый цветок, похожий на пламя."
     }
   }
 ]
