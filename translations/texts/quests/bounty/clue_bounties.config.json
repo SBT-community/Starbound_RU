@@ -331,7 +331,7 @@
     },
     "Texts": {
       "Eng": "I ain't gettin' caught this easily - beam me out, <randomName>! Where? To ^orange;<next.coordinate.name>^reset;, of course!",
-      "Rus": ""
+      "Rus": "Так просто меня не поймать - <randomName>, вытащи меня отсюда! Куда? В ^orange;<next.coordinate.systemName>^reset;, конечно!"
     }
   },
   {
@@ -343,7 +343,7 @@
     },
     "Texts": {
       "Eng": "I ain't gettin' caught this easily - beam me out, <randomName>! Where? To ^orange;<next.coordinate.systemName>^reset;, of course!",
-      "Rus": ""
+      "Rus": "Так просто меня не поймать - <randomName>, вытащи меня отсюда! Куда? В ^orange;<next.coordinate.systemName>^reset;, конечно!"
     }
   },
   {
@@ -356,7 +356,7 @@
     },
     "Texts": {
       "Eng": "I have been spotted! better make my way to ^orange;<next.coordinate.name>^reset;!",
-      "Rus": ""
+      "Rus": "Меня засекли! Лучше свалить на ^orange;<next.coordinate.name>^reset;!"
     }
   },
   {
@@ -368,7 +368,7 @@
     },
     "Texts": {
       "Eng": "I have been spotted! better make my way to ^orange;<next.coordinate.systemName>^reset;!",
-      "Rus": ""
+      "Rus": "Меня засекли! Лучше свалить в ^orange;<next.coordinate.systemName>^reset;!"
     }
   },
   {
@@ -392,7 +392,7 @@
     },
     "Texts": {
       "Eng": "I hear a lot of gossip - you're looking for <bounty.name>? I hear they've been hanging around ^orange;<next.coordinate.name>^reset;.",
-      "Rus": ""
+      "Rus": "Было много слухов, что ты ищешь <bounty.accusative>. Я слышал<self.pronoun.verbEnding> <bounty.pronoun.subject> ошивается где-то на ^orange;<next.coordinate.name>^reset;."
     }
   },
   {
@@ -407,7 +407,7 @@
     },
     "Texts": {
       "Eng": "I've been found - beam me out, <randomName>! Where? To ^orange;<next.coordinate.name>^reset;, of course!",
-      "Rus": ""
+      "Rus": "Меня обнаружили - вытаскивай меня отсюда, <randomName>! Что значит куда? На ^orange;<next.coordinate.name>^reset;, конечно!"
     }
   },
   {
@@ -420,7 +420,7 @@
     },
     "Texts": {
       "Eng": "I've been found - beam me out, <randomName>! Where? To ^orange;<next.coordinate.systemName>^reset;, of course!",
-      "Rus": ""
+      "Rus": "Меня обнаружили - вытаскивай меня отсюда, <randomName>! Что значит куда? В ^orange;<next.coordinate.systemName>^reset;, конечно!"
     }
   },
   {
@@ -433,7 +433,7 @@
     },
     "Texts": {
       "Eng": "I've been found - beam me up, <randomName>! Where? To ^orange;<next.coordinate.name>^reset;, of course!",
-      "Rus": ""
+      "Rus": "Меня обнаружили - вытаскивай меня отсюда, <randomName>! Куда? На ^orange;<next.coordinate.name>^reset;, конечно!"
     }
   },
   {
@@ -445,7 +445,7 @@
     },
     "Texts": {
       "Eng": "I've been found - beam me up, <randomName>! Where? To ^orange;<next.coordinate.systemName>^reset;, of course!",
-      "Rus": ""
+      "Rus": "Меня обнаружили - вытаскивай меня отсюда, <randomName>! Куда? В ^orange;<next.coordinate.systemName>^reset;, конечно!"
     }
   },
   {
@@ -458,7 +458,7 @@
     },
     "Texts": {
       "Eng": "I've been spotted - time to fly! I better make my way to ^orange;<next.coordinate.name>^reset;!",
-      "Rus": ""
+      "Rus": "Меня засекли - пора улетать! Отправлюсь-ка лучше на ^orange;<next.coordinate.name>^reset;!"
     }
   },
   {
@@ -470,7 +470,7 @@
     },
     "Texts": {
       "Eng": "I've been spotted - time to fly! I better make my way to ^orange;<next.coordinate.systemName>^reset;!",
-      "Rus": ""
+      "Rus": "Меня засекли - пора улетать! Отправлюсь-ка лучше в ^orange;<next.coordinate.systemName>^reset;!"
     }
   },
   {
@@ -494,7 +494,7 @@
     },
     "Texts": {
       "Eng": "Mighty convenient that the target told us where they're goin'! You'd better make your way on over to ^green;<next.coordinate.systemName>^reset;.",
-      "Rus": ""
+      "Rus": "Весьма удобно, что цель сама доложила нам куда направляется! Тебе лучше отправиться за ней в ^green;<next.coordinate.systemName>^reset;."
     }
   },
   {
@@ -507,7 +507,7 @@
     },
     "Texts": {
       "Eng": "My position is compromised - beam me out, <randomName>! Where? To ^orange;<next.coordinate.name>^reset;, of course!",
-      "Rus": ""
+      "Rus": "Моё местонахождение раскрыто - <randomName>, вытаскивай меня отсюда! Как куда? На ^orange;<next.coordinate.name>^reset;, естественно!"
     }
   },
   {
@@ -519,7 +519,7 @@
     },
     "Texts": {
       "Eng": "My position is compromised - beam me out, <randomName>! Where? To ^orange;<next.coordinate.systemName>^reset;, of course!",
-      "Rus": ""
+      "Rus": "Моё местонахождение раскрыто - <randomName>, вытаскивай меня отсюда! Как куда? В систему ^orange;<next.coordinate.systemName>^reset;, естественно!"
     }
   },
   {
@@ -532,7 +532,7 @@
     },
     "Texts": {
       "Eng": "The Peacekeepers are here! I better make my way to ^orange;<next.coordinate.name>^reset;!",
-      "Rus": ""
+      "Rus": "Миротворцы здесь! Лучше отправлюсь на ^orange;<next.coordinate.name>^reset;!"
     }
   },
   {
@@ -544,7 +544,7 @@
     },
     "Texts": {
       "Eng": "The Peacekeepers are here! I better make my way to ^orange;<next.coordinate.systemName>^reset;!",
-      "Rus": ""
+      "Rus": "Миротворцы здесь! Я лучше отправлюсь в cистему ^orange;<next.coordinate.systemName>^reset;!"
     }
   },
   {
