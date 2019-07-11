@@ -9,7 +9,9 @@ Starbound translation framework.
 
 [Страница в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=731751231)
 
+_____________________________________________________________________________________________________________
 По всем повросам:
+
 [ЧаВо в Steam](https://steamcommunity.com/workshop/filedetails/discussion/731751231/133257324797830429/)
 
 [Тема по ошибкам в Steam](https://steamcommunity.com/workshop/filedetails/discussion/731751231/352788917764662146/)
