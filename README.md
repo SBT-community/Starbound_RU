@@ -9,6 +9,8 @@ Starbound translation framework.
 
 [Страница в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=731751231)
 
+Перевод осуществляется [на сайте](https://sbt-community.github.io/)
+
 _____________________________________________________________________________________________________________
 По всем повросам:
 
@@ -18,6 +20,5 @@ ________________________________________________________________________________
 
 [Группа в VK](https://vk.com/sbt_rus)
 
-Перевод осуществляется [на сайте](https://sbt-community.github.io/)
 
 SBT Community RU | 2016-2019
