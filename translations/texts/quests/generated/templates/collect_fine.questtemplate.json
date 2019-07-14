@@ -716,7 +716,7 @@
     },
     "Texts": {
       "Eng": "^green;Deliver this ^orange;crime notice^green; to ^orange;<target>^white;. <target.pronoun.capitalSubject>'s agreed to give <target.pronoun.possessiveDet> ^orange;<item>^white; as compensation for <target.pronoun.possessiveDet> behaviour.",
-      "Rus": ""
+      "Rus": "^green;Доставь это ^orange;извещение о преступлении^green; к ^orange;<target>^white;. <target.pronoun.capitalSubject> согласился отдать <target.pronoun.possessiveDet> ^orange;<item>^white; в качестве конпенсации за <target.pronoun.possessiveDet> поведение."
     }
   },
   {
@@ -728,7 +728,7 @@
     },
     "Texts": {
       "Eng": "^green;I need you to take this ^orange;fine notice^white; to ^orange;<target>^white;. <target.pronoun.capitalSubject>'s already agreed to give up <target.pronoun.possessiveDet> ^orange;<item>^white; as payment of damages.",
-      "Rus": ""
+      "Rus": "^green;Мне надо что бы передал ^orange;штрафное извещение^white; к ^orange;<target>^white;. <target.pronoun.capitalSubject> уже согласился отдать <target.pronoun.possessiveDet> ^orange;<item>^white; в качестве возмещения убытков."
     }
   },
   {
@@ -740,7 +740,7 @@
     },
     "Texts": {
       "Eng": "^orange;<target>^white; has been up to some unethical business, and I wish to teach <target.pronoun.object> a lesson. ^green;Deliver this ^orange;crime notice^white; to <target.pronoun.object>,^white; and ^green;take <target.pronoun.possessiveDet> ^orange;<item>^white; as compensation for <target.pronoun.possessiveDet> behaviour. Hopefully <target.pronoun.subject>'ll learn!",
-      "Rus": ""
+      "Rus": "^orange;<target>^white; затеял какое-то неэтичное дело, и я хочу преподать \n<target.pronoun.object> урок. ^green;Доставь это ^orange;сообщение о преступлении^white; к <target.pronoun.object>,^white; и ^green;взять <target.pronoun.possessiveDet> ^orange;<item>^white; в качестве конпенсации <target.pronoun.possessiveDet> поведение. Надеюсь <target.pronoun.subject>выучит урок!"
     }
   },
   {
@@ -752,7 +752,7 @@
     },
     "Texts": {
       "Eng": "^orange;<target>^white; has committed a crime and owes a fine. Will you ^green;deliver this ^orange;notice^green; to <target.pronoun.object>^white; and ^green;take <target.pronoun.possessiveDet> ^orange;<item>^white; as payment of damages? It is a trivial task and I'm far too busy for it.",
-      "Rus": ""
+      "Rus": "^orange;<target>^white; совершил преступление и должен заплатить. Ты должен ^green;доставить это ^orange;сообщение^green; к <target.pronoun.object>^white; и ^green;забери <target.pronoun.possessiveDet> ^orange;<item>^white; в качестве возмещения ущерба? Это тривиальная задача и я слишком занят для этого."
     }
   },
   {
@@ -764,7 +764,7 @@
     },
     "Texts": {
       "Eng": "being a jerk",
-      "Rus": ""
+      "Rus": "Сопляк"
     }
   },
   {
