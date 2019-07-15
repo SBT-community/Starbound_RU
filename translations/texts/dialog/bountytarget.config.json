@@ -744,7 +744,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я давно не издевался над новичками! Это будет очень весело!"
+    ],
     "Files": {
       "dialog/bountytarget.config": [
         "/attack/novakid/default/3"
@@ -1060,7 +1062,7 @@
     },
     "Texts": {
       "Eng": "I thought I was winning...",
-      "Rus": "Я думал что выигрываю..."
+      "Rus": "Я думал<player.pronoun.verbEnding> что выигрываю..."
     }
   },
   {
