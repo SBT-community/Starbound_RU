@@ -1054,7 +1054,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я думал что выигрываю..."
+    ],
     "Files": {
       "dialog/bountytarget.config": [
         "/arrested/avian/default/2"
@@ -1098,7 +1100,7 @@
     },
     "Texts": {
       "Eng": "I underestimated you, Peacekeeper. You got me fair and square.",
-      "Rus": "Я недооценил тебя, Миротворец. Ты поймал меня по-честному."
+      "Rus": "Я недооценил<player.pronoun.verbEnding> тебя, Миротворец. Ты поймал<player.pronoun.verbEnding> меня по-честному."
     }
   },
   {
@@ -1110,7 +1112,7 @@
     },
     "Texts": {
       "Eng": "I underestimated you, Peacekeeper...",
-      "Rus": "Я недооценил тебя, Миротворец..."
+      "Rus": "Я недооценил<player.pronoun.verbEnding> тебя, Миротворец..."
     }
   },
   {
