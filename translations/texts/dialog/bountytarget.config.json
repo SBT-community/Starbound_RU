@@ -752,7 +752,7 @@
     },
     "Texts": {
       "Eng": "I ain't hazed a tenderfoot for a while! This'll be mighty fun!",
-      "Rus": "Я давно не издевался над новичками! Это будет очень весело!"
+      "Rus": "Я давно не издевал<player.pronoun.verb3Ending> над новичками! Это будет очень весело!"
     }
   },
   {
@@ -975,7 +975,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я знаю что я проиграл! Прекрати нападать на меня!"
+    ],
     "Files": {
       "dialog/bountytarget.config": [
         "/arrested/avian/default/8"
