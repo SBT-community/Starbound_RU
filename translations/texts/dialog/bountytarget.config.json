@@ -1295,7 +1295,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я тренировался для боёв всю свою жизнь - как я проиграл?!"
+    ],
     "Files": {
       "dialog/bountytarget.config": [
         "/arrested/avian/default/4"
@@ -1307,7 +1309,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я ждал тебя, Миротворец!"
+    ],
     "Files": {
       "dialog/bountytarget.config": [
         "/attack/apex/default/2",
@@ -1460,7 +1464,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Похоже, Миротворец струсил! Как я и ожидал."
+    ],
     "Files": {
       "dialog/bountytarget.config": [
         "/lostTarget/apex/default/1",
@@ -1475,7 +1481,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Похоже, Миротворец сбежал! Уверен, в ближайшее время они сюда не придут..."
+    ],
     "Files": {
       "dialog/bountytarget.config": [
         "/lostTarget/novakid/default/1"
@@ -1499,7 +1507,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Мой боевой дух истощен... Я потерпел неудачу."
+    ],
     "Files": {
       "dialog/bountytarget.config": [
         "/arrested/avian/default/7"
@@ -1567,7 +1577,7 @@
     },
     "Texts": {
       "Eng": "No, don't! I'm allergic to handcuffs - you need to take them off quick!",
-      "Rus": "Нет, не надо! у меня аллергия на наручники - ты должен снять их быстро!"
+      "Rus": "Нет, не надо! у меня аллергия на наручники - ты долж<player.pronoun.verb2Ending> снять их быстро!"
     }
   },
   {
@@ -1579,7 +1589,7 @@
     },
     "Texts": {
       "Eng": "No, don't! handcuffs are bad for my feathers - you need to take them off quick!",
-      "Rus": "Нет, не надо! наручники вредны для моих перьев - ты должен снять их быстро!"
+      "Rus": "Нет, не надо! наручники вредны для моих перьев - ты долж<player.pronoun.verb2Ending> снять их быстро!"
     }
   },
   {
@@ -1630,7 +1640,7 @@
     },
     "Texts": {
       "Eng": "Okay, okay, you got me!",
-      "Rus": "Ладно, ладно, ты поймал меня!"
+      "Rus": "Ладно, ладно, ты поймал<player.pronoun.verbEnding> меня!"
     }
   },
   {
