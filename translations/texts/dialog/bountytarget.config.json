@@ -1569,7 +1569,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Нет, не надо! у меня аллергия на наручники - ты должен снять их быстро!"
+    ],
     "Files": {
       "dialog/bountytarget.config": [
         "/arrested/default/default/1"
@@ -1581,7 +1583,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Нет, не надо! наручники вредны для моих перьев - ты должен снять их быстро!"
+    ],
     "Files": {
       "dialog/bountytarget.config": [
         "/arrested/avian/default/1"
@@ -1632,7 +1636,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ладно, ладно, ты поймал меня!"
+    ],
     "Files": {
       "dialog/bountytarget.config": [
         "/arrested/hylotl/default/2"
@@ -1736,7 +1742,7 @@
     },
     "Texts": {
       "Eng": "Set me free - I promise I'll be good in future! I promise!",
-      "Rus": "Освободи меня - я обещаю, что стану хорошим! Обещаю!"
+      "Rus": "Освободи меня - я обещаю, что буду лучше! Обещаю!"
     }
   },
   {
