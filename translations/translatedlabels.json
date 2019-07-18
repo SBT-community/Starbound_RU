@@ -656,7 +656,7 @@
             "arrester.activeitem.json": 0
           },
           "audiodisc": {
-            "audiodisc.activeitem.json": 0
+            "audiodisc.activeitem.json": 2
           },
           "broom": {
             "broom.activeitem.json": 2
@@ -671,20 +671,20 @@
             "geode.activeitem.json": 1
           },
           "handcuffs": {
-            "handcuffs.activeitem.json": 0
+            "handcuffs.activeitem.json": 2
           },
           "laserminer": {
-            "laserminer.activeitem.json": 0
+            "laserminer.activeitem.json": 1
           },
           "miningdrone": {
-            "miningdrone.activeitem.json": 0
+            "miningdrone.activeitem.json": 1
           },
           "oredetector": {
             "cavedetector.activeitem.json": 2,
             "oredetector.activeitem.json": 2
           },
           "papernote": {
-            "papernote.activeitem.json": 0
+            "papernote.activeitem.json": 2
           },
           "parasol": {
             "parasol.activeitem.json": 2
@@ -988,7 +988,7 @@
             "npcfeneroxspear.activeitem.json": 1,
             "npcfirebow.activeitem.json": 1,
             "npcfloranassaultrifle.activeitem.json": 2,
-            "npcgangbroadsword.activeitem.json": 1,
+            "npcgangbroadsword.activeitem.json": 2,
             "npchammer.activeitem.json": 1,
             "npcmachinepistol.activeitem.json": 1,
             "npcpistol.activeitem.json": 1,
@@ -1201,26 +1201,26 @@
                 "gluesprayer.activeitem.json": 2
               },
               "neolaserlauncher": {
-                "neolaserlauncher.activeitem.json": 0
+                "neolaserlauncher.activeitem.json": 2
               },
               "neomagnum": {
-                "neomagnum2.activeitem.json": 0,
-                "neomagnum3.activeitem.json": 0,
-                "neomagnum4.activeitem.json": 0
+                "neomagnum2.activeitem.json": 1,
+                "neomagnum3.activeitem.json": 1,
+                "neomagnum4.activeitem.json": 1
               },
               "neopistol": {
-                "neopistol.activeitem.json": 0,
-                "shared_neopistol.activeitem.json": 0
+                "neopistol.activeitem.json": 1,
+                "shared_neopistol.activeitem.json": 1
               },
               "neoshotgun": {
-                "neoshotgun.activeitem.json": 0
+                "neoshotgun.activeitem.json": 2
               },
               "neotommygun": {
-                "neotommygun.activeitem.json": 0
+                "neotommygun.activeitem.json": 2
               },
               "neouzi": {
-                "neouzi.activeitem.json": 0,
-                "shared_neouzi.activeitem.json": 0
+                "neouzi.activeitem.json": 1,
+                "shared_neouzi.activeitem.json": 1
               },
               "paintgun": {
                 "paintgunblue.activeitem.json": 2,
@@ -1235,7 +1235,7 @@
               },
               "shared_n.activeitem.json": 1,
               "shared_neo": {
-                "shared_.activeitem.json": 0
+                "shared_.activeitem.json": 1
               },
               "snowgun": {
                 "snowgun.activeitem.json": 2
@@ -2880,7 +2880,7 @@
             "camo.legs.json": 2
           },
           "captainnoble": {
-            "captainnoble.head.json": 0
+            "captainnoble.head.json": 2
           },
           "caretaker": {
             "caretaker.chest.json": 2,
@@ -2939,7 +2939,7 @@
           },
           "peacekeeper": {
             "peacekeeper.chest.json": 1,
-            "peacekeeper.head.json": 1,
+            "peacekeeper.head.json": 2,
             "peacekeeper.legs.json": 1,
             "shared_peacekeeper..json": 1
           },
@@ -4784,7 +4784,7 @@
     "names": {
       "ancientgreek.namesource.json": 611,
       "aztec.namesource.json": 138,
-      "pets.namesource.json": 149,
+      "pets.namesource.json": 150,
       "russianfemale.namesource.json": 80,
       "russianmale.namesource.json": 72,
       "russiansurname.namesource.json": 178,
@@ -13690,7 +13690,7 @@
           "add_object_to_house.questtemplate.json": 23,
           "barter.questtemplate.json": 7,
           "borrow.questtemplate.json": 25,
-          "bribe.questtemplate.json": 36,
+          "bribe.questtemplate.json": 37,
           "build_home.questtemplate.json": 25,
           "capture_pet.questtemplate.json": 46,
           "collect_fine.questtemplate.json": 64,
@@ -13805,7 +13805,7 @@
       "exploration.radiomessages.json": 7,
       "intro.radiomessages.json": 16,
       "mech.radiomessages.json": 13,
-      "missions.radiomessages.json": 70,
+      "missions.radiomessages.json": 71,
       "quests.radiomessages.json": 6,
       "ship.radiomessages.json": 3,
       "techchallenge.radiomessages.json": 8,
@@ -14035,7 +14035,7 @@
           "swimboostcola.statuseffect.json": 1
         },
         "techstun": {
-          "techstun.statuseffect.json": 0
+          "techstun.statuseffect.json": 1
         },
         "thorns": {
           "shared_nova.statuseffect.json": 1
