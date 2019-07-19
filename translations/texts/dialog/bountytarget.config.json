@@ -1307,7 +1307,7 @@
     },
     "Texts": {
       "Eng": "I've been training in combat my whole life - how did I lose?!",
-      "Rus": "Я тренировал<player.pronoun.verb3Ending> для боёв всю свою жизнь - как я проиграл<player.pronoun.verbEnding>?!"
+      "Rus": "Я тренировал<self.pronoun.verb3Ending> для боёв всю свою жизнь - как я проиграл<self.pronoun.verbEnding>?!"
     }
   },
   {
@@ -1324,7 +1324,7 @@
     },
     "Texts": {
       "Eng": "I've been waiting for you, Peacekeeper!",
-      "Rus": "Я ждал<player.pronoun.verbEnding> тебя, Миротворец!"
+      "Rus": "Я ждал<self.pronoun.verbEnding> тебя, Миротворец!"
     }
   },
   {
@@ -1479,7 +1479,7 @@
     },
     "Texts": {
       "Eng": "Looks like the Peacekeeper chickened out! Just as I thought.",
-      "Rus": "Похоже, Миротворец струсил! Как я и ожидал<player.pronoun.verbEnding>."
+      "Rus": "Похоже, Миротворец струсил! Как я и ожидал<self.pronoun.verbEnding>."
     }
   },
   {
@@ -1493,7 +1493,7 @@
     },
     "Texts": {
       "Eng": "Looks like the Peacekeeper ran away! They ain't gonna come round these parts anytime soon, I'm sure...",
-      "Rus": "Похоже, Миротворец сбежал<player.pronoun.verbEnding>! Уверен<player.pronoun.verbEnding>, в ближайшее время они сюда не придут..."
+      "Rus": "Похоже, Миротворец сбежал<player.pronoun.verbEnding>! Уверен<self.pronoun.verbEnding>, в ближайшее время они сюда не придут..."
     }
   },
   {
@@ -1519,7 +1519,7 @@
     },
     "Texts": {
       "Eng": "My fighting spirit is depleted... I have failed.",
-      "Rus": "Мой боевой дух истощен... Я потерпел<player.pronoun.verbEnding> неудачу."
+      "Rus": "Мой боевой дух истощен... Я потерпел<self.pronoun.verbEnding> неудачу."
     }
   },
   {
