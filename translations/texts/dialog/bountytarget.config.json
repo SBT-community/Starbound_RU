@@ -973,7 +973,7 @@
     },
     "Texts": {
       "Eng": "I have... Failed.",
-      "Rus": "Я... Провалил<player.pronoun.verb3Ending>ся"
+      "Rus": "Я... Провалил<self.pronoun.verb3Ending>ся"
     }
   },
   {
@@ -987,7 +987,7 @@
     },
     "Texts": {
       "Eng": "I know when I've lost! Just stop attacking me!",
-      "Rus": "Я знаю что я проиграл<player.pronoun.verbEnding>! Прекрати нападать на меня!"
+      "Rus": "Я знаю что я проиграл<se.pronoun.verbEnding>! Прекрати нападать на меня!"
     }
   },
   {
@@ -1064,7 +1064,7 @@
     },
     "Texts": {
       "Eng": "I thought I was winning...",
-      "Rus": "Я думал<player.pronoun.verbEnding> что выигрываю..."
+      "Rus": "Я думал<self.pronoun.verbEnding> что выигрываю..."
     }
   },
   {
@@ -1102,7 +1102,7 @@
     },
     "Texts": {
       "Eng": "I underestimated you, Peacekeeper. You got me fair and square.",
-      "Rus": "Я недооценил<player.pronoun.verbEnding> тебя, Миротворец. Ты поймал<player.pronoun.verbEnding> меня по-честному."
+      "Rus": "Я недооценил<self.pronoun.verbEnding> тебя, Миротворец. Ты поймал<player.pronoun.verbEnding> меня по-честному."
     }
   },
   {
@@ -1116,7 +1116,7 @@
     },
     "Texts": {
       "Eng": "I underestimated you, Peacekeeper...",
-      "Rus": "Я недооценил<player.pronoun.verbEnding> тебя, Миротворец..."
+      "Rus": "Я недооценил<self.pronoun.verbEnding> тебя, Миротворец..."
     }
   },
   {
