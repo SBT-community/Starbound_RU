@@ -4121,7 +4121,7 @@
           "shared_minion.monstertype.json": 1
         },
         "ophanim": {
-          "ophanim.monstertype.json": 0
+          "ophanim.monstertype.json": 1
         },
         "penguinUfo": {
           "skills": {
@@ -4157,15 +4157,15 @@
       "crawlers": {
         "crustoise": {
           "crustoise.monstertype.json": 1,
-          "icecrustoise.monstertype.json": 0
+          "icecrustoise.monstertype.json": 1
         },
         "iguarmor": {
-          "iceiguarmor.monstertype.json": 0,
+          "iceiguarmor.monstertype.json": 1,
           "iguarmor.monstertype.json": 1,
           "shared_iguarmor.monstertype.json": 1
         },
         "oculob": {
-          "fireoculob.monstertype.json": 0,
+          "fireoculob.monstertype.json": 1,
           "oculob.monstertype.json": 1,
           "shared_oculob.monstertype.json": 1
         },
@@ -4184,7 +4184,7 @@
           "tentaclecrawler.monstertype.json": 1
         },
         "tintic": {
-          "electrictintic.monstertype.json": 0,
+          "electrictintic.monstertype.json": 1,
           "shared_tintic.monstertype.json": 1
         },
         "triplod": {
@@ -4628,7 +4628,7 @@
         },
         "crutter": {
           "crutter.monstertype.json": 1,
-          "electriccrutter.monstertype.json": 0
+          "electriccrutter.monstertype.json": 1
         },
         "fennix": {
           "fennix.monstertype.json": 1,
@@ -4648,7 +4648,7 @@
           "shared_hemogoblinbutt.monstertype.json": 1
         },
         "hemogoblinhead": {
-          "electrichemogoblinhead.monstertype.json": 0,
+          "electrichemogoblinhead.monstertype.json": 1,
           "hemogoblinhead.monstertype.json": 1,
           "shared_hemogoblinhead.monstertype.json": 1
         },
@@ -4766,7 +4766,7 @@
           "toumingo.monstertype.json": 1
         },
         "trictus": {
-          "poisontrictus.monstertype.json": 0,
+          "poisontrictus.monstertype.json": 1,
           "shared_trictus.monstertype.json": 1,
           "trictus.monstertype.json": 1
         },
