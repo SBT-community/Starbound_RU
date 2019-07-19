@@ -965,7 +965,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я... Провалил<self.pronoun.verb3Ending>ся"
+    ],
     "Files": {
       "dialog/bountytarget.config": [
         "/arrested/apex/default/10"
@@ -973,7 +975,7 @@
     },
     "Texts": {
       "Eng": "I have... Failed.",
-      "Rus": "Я... Провалил<self.pronoun.verb3Ending>ся"
+      "Rus": "Я... Провалил<self.pronoun.verb3Ending>"
     }
   },
   {
@@ -987,7 +989,7 @@
     },
     "Texts": {
       "Eng": "I know when I've lost! Just stop attacking me!",
-      "Rus": "Я знаю что я проиграл<se.pronoun.verbEnding>! Прекрати нападать на меня!"
+      "Rus": "Я знаю что я проиграл<self.pronoun.verbEnding>! Прекрати нападать на меня!"
     }
   },
   {
