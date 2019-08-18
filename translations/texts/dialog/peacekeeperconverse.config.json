@@ -408,7 +408,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " Если быть действительно честным, то я стал<self.pronoun.verbEnding> Миротворцем, чтобы носить эту потрясную форму."
+    ],
     "Files": {
       "dialog/peacekeeperconverse.config": [
         "/converse/glitch/default/7/glitchEmotedText"

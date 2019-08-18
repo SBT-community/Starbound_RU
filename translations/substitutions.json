@@ -15715,6 +15715,32 @@
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/generic/volcanopod/volcanopod.object.json"
   },
+  "objects/generic/wargroovebanner/wargroovebanner1.object": {
+    "/floranDescription": "texts/objects/generic/wargroovebanner/shared_wargroovebanner.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/generic/wargroovebanner/shared_wargroovebanner.json",
+    "/hylotlDescription": "texts/objects/generic/wargroovebanner/shared_wargroovebanner.json",
+    "/novakidDescription": "texts/objects/generic/wargroovebanner/shared_wargroovebanner.json"
+  },
+  "objects/generic/wargroovebanner/wargroovebanner2.object": {
+    "/floranDescription": "texts/objects/generic/wargroovebanner/shared_wargroovebanner.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/generic/wargroovebanner/shared_wargroovebanner.json",
+    "/hylotlDescription": "texts/objects/generic/wargroovebanner/shared_wargroovebanner.json",
+    "/novakidDescription": "texts/objects/generic/wargroovebanner/shared_wargroovebanner.json"
+  },
+  "objects/generic/wargroovebanner/wargroovebanner3.object": {
+    "/floranDescription": "texts/objects/generic/wargroovebanner/shared_wargroovebanner.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/generic/wargroovebanner/shared_wargroovebanner.json",
+    "/hylotlDescription": "texts/objects/generic/wargroovebanner/shared_wargroovebanner.json",
+    "/novakidDescription": "texts/objects/generic/wargroovebanner/shared_wargroovebanner.json"
+  },
+  "objects/generic/wargroovebanner/wargroovebanner4.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/generic/wargroovebanner/shared_wargroovebanner.json",
+    "/novakidDescription": "texts/objects/generic/wargroovebanner/shared_wargroovebanner.json"
+  },
   "objects/generic/weaponchest/weaponchest.object": {
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/generic/shared_chest/shared_chest.object.json",
@@ -25937,7 +25963,6 @@
   },
   "quests/bounty/cultist_mission1.questtemplate": {
     "/completionText": "texts/quests/bounty/shared_.questtemplate.json",
-    "/scriptConfig/generatedText/complete/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
@@ -26083,7 +26108,6 @@
   },
   "quests/bounty/kill_bounty_monster.questtemplate": {
     "/completionText": "texts/quests/bounty/shared_.questtemplate.json",
-    "/scriptConfig/generatedText/complete/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/failure/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/0": "texts/quests/bounty/shared_.questtemplate.json",

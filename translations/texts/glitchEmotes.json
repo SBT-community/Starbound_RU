@@ -4083,6 +4083,18 @@
       "objects/generic/stepladder/stepladder.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/generic/wargroovebanner/wargroovebanner1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/generic/wargroovebanner/wargroovebanner2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/generic/wargroovebanner/wargroovebanner3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/generic/wargroovebanner/wargroovebanner4.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/generic/woodencrate1/woodencrate1.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -16910,7 +16922,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Тщеславно. "
+    ],
     "Files": {
       "dialog/peacekeeperconverse.config": [
         "/converse/glitch/default/7/glitchEmote"
@@ -16918,7 +16932,7 @@
     },
     "Texts": {
       "Eng": "Vain.",
-      "Rus": "Тщеславно. "
+      "Rus": "Тщеславно."
     }
   },
   {
