@@ -653,7 +653,7 @@
         },
         "unsorted": {
           "arrester": {
-            "arrester.activeitem.json": 0
+            "arrester.activeitem.json": 2
           },
           "audiodisc": {
             "audiodisc.activeitem.json": 2
@@ -710,7 +710,7 @@
             "shared_rewardbag.activeitem.json": 1
           },
           "stunmine": {
-            "stunmine.activeitem.json": 0
+            "stunmine.activeitem.json": 2
           },
           "superrewardbag": {
             "superrewardbag.activeitem.json": 1
@@ -4269,13 +4269,13 @@
             "fishingeel.monstertype.json": 2
           },
           "fang": {
-            "fishingfang.monstertype.json": 1
+            "fishingfang.monstertype.json": 2
           },
           "funny": {
-            "fishingfunny.monstertype.json": 0
+            "fishingfunny.monstertype.json": 2
           },
           "gaze": {
-            "fishinggaze.monstertype.json": 1
+            "fishinggaze.monstertype.json": 2
           },
           "glob": {
             "fishingglob.monstertype.json": 2
@@ -4284,37 +4284,37 @@
             "fishingjaw.monstertype.json": 2
           },
           "leech": {
-            "fishingleech.monstertype.json": 1
+            "fishingleech.monstertype.json": 2
           },
           "nose": {
-            "fishingnose.monstertype.json": 0
+            "fishingnose.monstertype.json": 2
           },
           "redeye": {
             "fishingredeye.monstertype.json": 2
           },
           "shell": {
-            "fishingshell.monstertype.json": 0
+            "fishingshell.monstertype.json": 2
           },
           "shrimp": {
-            "fishingshrimp.monstertype.json": 0
+            "fishingshrimp.monstertype.json": 2
           },
           "spot": {
-            "fishingspot.monstertype.json": 0
+            "fishingspot.monstertype.json": 2
           },
           "square": {
-            "fishingsquare.monstertype.json": 0
+            "fishingsquare.monstertype.json": 2
           },
           "stripe": {
-            "fishingstripe.monstertype.json": 0
+            "fishingstripe.monstertype.json": 2
           },
           "tendril": {
-            "fishingtendril.monstertype.json": 0
+            "fishingtendril.monstertype.json": 2
           },
           "tongue": {
-            "fishingtongue.monstertype.json": 0
+            "fishingtongue.monstertype.json": 2
           },
           "whisker": {
-            "fishingwhisker.monstertype.json": 0
+            "fishingwhisker.monstertype.json": 2
           }
         },
         "small": {
@@ -4334,64 +4334,64 @@
             "fishingdirt.monstertype.json": 2
           },
           "dragon": {
-            "fishingdragon.monstertype.json": 0
+            "fishingdragon.monstertype.json": 2
           },
           "eye": {
-            "fishingeye.monstertype.json": 0
+            "fishingeye.monstertype.json": 2
           },
           "frill": {
-            "fishingfrill.monstertype.json": 0
+            "fishingfrill.monstertype.json": 2
           },
           "jerk": {
-            "fishingjerk.monstertype.json": 0
+            "fishingjerk.monstertype.json": 2
           },
           "pincer": {
-            "fishingpincer.monstertype.json": 0
+            "fishingpincer.monstertype.json": 2
           },
           "ramp": {
-            "fishingramp.monstertype.json": 0
+            "fishingramp.monstertype.json": 2
           },
           "saber": {
-            "fishingsaber.monstertype.json": 0
+            "fishingsaber.monstertype.json": 2
           },
           "spear": {
-            "fishingspear.monstertype.json": 0
+            "fishingspear.monstertype.json": 2
           },
           "swindle": {
-            "fishingswindle.monstertype.json": 0
+            "fishingswindle.monstertype.json": 2
           },
           "tad": {
-            "fishingtad.monstertype.json": 0
+            "fishingtad.monstertype.json": 2
           },
           "wimp": {
-            "fishingwimp.monstertype.json": 0
+            "fishingwimp.monstertype.json": 2
           },
           "worm": {
-            "fishingworm.monstertype.json": 0
+            "fishingworm.monstertype.json": 2
           }
         }
       },
       "flyers": {
         "agrobat": {
           "agrobat.monstertype.json": 1,
-          "iceagrobat.monstertype.json": 0,
+          "iceagrobat.monstertype.json": 1,
           "shared_agrobat.monstertype.json": 1
         },
         "batong": {
           "batong.monstertype.json": 1,
-          "poisonbatong.monstertype.json": 0,
+          "poisonbatong.monstertype.json": 1,
           "shared_batong.monstertype.json": 1
         },
         "bobfae": {
           "bobfae.monstertype.json": 1,
-          "poisonbobfae.monstertype.json": 0,
+          "poisonbobfae.monstertype.json": 1,
           "shared_bobfae.monstertype.json": 1
         },
         "cosmicintruder": {
-          "cosmicintruder.monstertype.json": 0
+          "cosmicintruder.monstertype.json": 2
         },
         "monopus": {
-          "firemonopus.monstertype.json": 0,
+          "firemonopus.monstertype.json": 1,
           "shared_monopus.monstertype.json": 1
         },
         "parasprite": {
@@ -4401,11 +4401,11 @@
           "shared_paratail.monstertype.json": 2
         },
         "pteropod": {
-          "firepteropod.monstertype.json": 0,
+          "firepteropod.monstertype.json": 2,
           "pteropod.monstertype.json": 1
         },
         "scandroid": {
-          "cultistscandroid.monstertype.json": 0,
+          "cultistscandroid.monstertype.json": 2,
           "scandroid.monstertype.json": 2
         },
         "tentaclebomb": {
@@ -4511,7 +4511,7 @@
         },
         "shared_t.monstertype.json": 1,
         "skimbus": {
-          "electricskimbus.monstertype.json": 0,
+          "electricskimbus.monstertype.json": 1,
           "shared_skimbus.monstertype.json": 1,
           "skimbus.monstertype.json": 1
         },
@@ -4614,11 +4614,11 @@
           "shared_bobot.monstertype.json": 1
         },
         "bulbop": {
-          "poisonbulbop.monstertype.json": 0,
+          "poisonbulbop.monstertype.json": 1,
           "shared_bulbop.monstertype.json": 1
         },
         "capricoat": {
-          "electriccapricoat.monstertype.json": 0,
+          "electriccapricoat.monstertype.json": 1,
           "shared_capricoat.monstertype.json": 1
         },
         "crabcano": {
@@ -4628,14 +4628,14 @@
         },
         "crutter": {
           "crutter.monstertype.json": 1,
-          "electriccrutter.monstertype.json": 1
+          "electriccrutter.monstertype.json": 2
         },
         "fennix": {
           "fennix.monstertype.json": 1,
           "icefennix.monstertype.json": 2
         },
         "gleap": {
-          "firegleap.monstertype.json": 0,
+          "firegleap.monstertype.json": 1,
           "shared_gleap.monstertype.json": 1
         },
         "hemogoblin": {
@@ -4654,20 +4654,20 @@
         },
         "hypnare": {
           "hypnare.monstertype.json": 1,
-          "icehypnare.monstertype.json": 0,
+          "icehypnare.monstertype.json": 1,
           "shared_hypnare.monstertype.json": 1
         },
         "kingnutmidgeling": {
           "kingnutmidgeling.monstertype.json": 2,
-          "poisonkingnutmidgeling.monstertype.json": 0
+          "poisonkingnutmidgeling.monstertype.json": 1
         },
         "lilodon": {
-          "firelilodon.monstertype.json": 0,
+          "firelilodon.monstertype.json": 1,
           "shared_lilodon.monstertype.json": 1
         },
         "mandraflora": {
           "mandraflora.monstertype.json": 1,
-          "poisonmandraflora.monstertype.json": 0,
+          "poisonmandraflora.monstertype.json": 1,
           "shared_mandraflora.monstertype.json": 1
         },
         "miasmop": {
@@ -4675,39 +4675,39 @@
           "miasmop.monstertype.json": 1
         },
         "narfin": {
-          "icenarfin.monstertype.json": 0,
+          "icenarfin.monstertype.json": 1,
           "narfin.monstertype.json": 1,
           "shared_narfin.monstertype.json": 1
         },
         "nutmidge": {
-          "poisonnutmidge.monstertype.json": 0,
+          "poisonnutmidge.monstertype.json": 1,
           "shared_nutmidge.monstertype.json": 1
         },
         "nutmidgeling": {
           "nutmidgeling.monstertype.json": 1,
-          "poisonnutmidgeling.monstertype.json": 0
+          "poisonnutmidgeling.monstertype.json": 1
         },
         "oogler": {
-          "fireoogler.monstertype.json": 0,
+          "fireoogler.monstertype.json": 1,
           "oogler.monstertype.json": 1,
           "shared_oogler.monstertype.json": 1
         },
         "orbide": {
-          "iceorbide.monstertype.json": 0,
+          "iceorbide.monstertype.json": 1,
           "orbide.monstertype.json": 1,
           "shared_orbide.monstertype.json": 1
         },
         "peblit": {
-          "icepeblit.monstertype.json": 0,
+          "icepeblit.monstertype.json": 1,
           "shared_peblit.monstertype.json": 1
         },
         "petricub": {
-          "electricpetricub.monstertype.json": 0,
+          "electricpetricub.monstertype.json": 1,
           "shared_petricub.monstertype.json": 1
         },
         "pipkin": {
           "pipkin.monstertype.json": 1,
-          "poisonpipkin.monstertype.json": 0,
+          "poisonpipkin.monstertype.json": 1,
           "shared_pipkin.monstertype.json": 1
         },
         "poptop": {
@@ -4715,7 +4715,7 @@
           "shared_poptop.monstertype.json": 1
         },
         "quagmutt": {
-          "electricquagmutt.monstertype.json": 0,
+          "electricquagmutt.monstertype.json": 1,
           "quagmutt.monstertype.json": 1,
           "shared_quagmutt.monstertype.json": 1
         },
@@ -4728,18 +4728,18 @@
           "shared_ringram.monstertype.json": 1
         },
         "scaveran": {
-          "poisonscaveran.monstertype.json": 0,
+          "poisonscaveran.monstertype.json": 1,
           "shared_scaveran.monstertype.json": 1
         },
         "shared_nutmidgeling": {
           "shared_nutmidgeling.monstertype.json": 1
         },
         "smoglin": {
-          "poisonsmoglin.monstertype.json": 1,
+          "poisonsmoglin.monstertype.json": 2,
           "smoglin.monstertype.json": 1
         },
         "snaunt": {
-          "electricsnaunt.monstertype.json": 0,
+          "electricsnaunt.monstertype.json": 1,
           "shared_snaunt.monstertype.json": 1
         },
         "snuffish": {
@@ -4748,12 +4748,12 @@
           "snuffish.monstertype.json": 1
         },
         "sporgus": {
-          "poisonsporgus.monstertype.json": 0,
+          "poisonsporgus.monstertype.json": 1,
           "shared_sporgus.monstertype.json": 1,
           "sporgus.monstertype.json": 1
         },
         "taroni": {
-          "firetaroni.monstertype.json": 0,
+          "firetaroni.monstertype.json": 1,
           "shared_taroni.monstertype.json": 1,
           "taroni.monstertype.json": 1
         },
@@ -4761,7 +4761,7 @@
           "tentacleclam.monstertype.json": 2
         },
         "toumingo": {
-          "firetoumingo.monstertype.json": 0,
+          "firetoumingo.monstertype.json": 1,
           "shared_toumingo.monstertype.json": 1,
           "toumingo.monstertype.json": 1
         },
@@ -4771,7 +4771,7 @@
           "trictus.monstertype.json": 1
         },
         "voltip": {
-          "electricvoltip.monstertype.json": 0,
+          "electricvoltip.monstertype.json": 1,
           "shared_voltip.monstertype.json": 1
         },
         "yokat": {
@@ -5041,8 +5041,8 @@
         "humanprison.npctype.json": 7,
         "lunarbase.npctype.json": 4,
         "neon.npctype.json": 8,
-        "office.npctype.json": 2,
-        "peacekeepertenant.npctype.json": 3,
+        "office.npctype.json": 3,
+        "peacekeepertenant.npctype.json": 7,
         "philanthropist.npctype.json": 3,
         "scientist.npctype.json": 9,
         "socialite.npctype.json": 16
