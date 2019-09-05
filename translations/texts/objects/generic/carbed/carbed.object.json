@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Кровать в виде автомобиля! Мне хотелось такую, как эта, в детстве."
+    ],
     "Files": {
       "objects/generic/carbed/carbed.object": [
         "/humanDescription"
@@ -80,7 +82,7 @@
     },
     "Texts": {
       "Eng": "Floran not sssure what thiss is... Bed or car?",
-      "Rus": ""
+      "Rus": "Флоран не уверен, что это... Кровать, или автомобиль?"
     }
   },
   {
