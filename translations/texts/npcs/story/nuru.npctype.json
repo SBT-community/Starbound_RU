@@ -8,7 +8,7 @@
     },
     "Texts": {
       "Eng": "Buuut now you're stuck. The phrase 'slow clap' ssprings to mind. Here; I can open that.",
-      "Rus": "Ну вот ты и застрял. Думал сам справишься? Ладно, я могу открыть её."
+      "Rus": "Ну вот ты и застрял<player.pronoun.verbEnding>. Думал<player.pronoun.verbEnding> сам<player.pronoun.verbEnding> справишься? Ладно, я могу открыть её."
     }
   },
   {
@@ -44,7 +44,7 @@
     },
     "Texts": {
       "Eng": "Hey! Over here! I can't believe you made it this far. Nice work.",
-      "Rus": "Эй! Ссюда! Не могу поверить, что ты добрался. Отличная работа."
+      "Rus": "Эй! Ссюда! Не могу поверить, что ты добрал<player.pronoun.verb3Ending>. Отличная работа."
     }
   },
   {
