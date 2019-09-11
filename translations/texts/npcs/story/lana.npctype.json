@@ -20,7 +20,7 @@
     },
     "Texts": {
       "Eng": "Hey! Soldier! Quick, we need you down in the tunnels!",
-      "Rus": "Эй, солдат! Быстрее, нам нужно чтобы ты спустился в туннель."
+      "Rus": "Эй, солдат! Быстрее, нам нужно чтобы ты спустил<player.pronoun.verb3Ending> в туннель."
     }
   },
   {
@@ -44,7 +44,7 @@
     },
     "Texts": {
       "Eng": "Oh, this is what you're here for? ...Take it.",
-      "Rus": "А, это то, за чем ты пришел?... Забирай."
+      "Rus": "А, это то, за чем ты здесь? ...Забирай."
     }
   },
   {
@@ -56,7 +56,7 @@
     },
     "Texts": {
       "Eng": "Oh. Wait. You're not one of mine. If you're here to join us, we could use you! We need a scout underground!",
-      "Rus": "Ой. Подожди. Ты не один из нас. Раз уж ты решил присоединиться, ты нам поможешь! Будешь проводником в подземелье!"
+      "Rus": "Ой. Подожди. Ты не один из нас. Раз уж ты решил<player.pronoun.verbEnding> присоединиться, ты нам поможешь! Будешь проводником в подземелье!"
     }
   },
   {
@@ -68,7 +68,7 @@
     },
     "Texts": {
       "Eng": "Soldier, I'd like to help you, I think you've earned some assistance. I have skills that might be useful to you.",
-      "Rus": "Солдат, я хочу помочь тебе. Мне кажется, ты заслужил некоторую благодарность. У меня есть навыки, которые могут быть тебе полезны."
+      "Rus": "Солдат, я хочу помочь тебе. Мне кажется, ты заслужил<player.pronoun.verbEnding> некоторую благодарность. У меня есть навыки, которые могут быть тебе полезны."
     }
   },
   {
@@ -80,7 +80,7 @@
     },
     "Texts": {
       "Eng": "The name's ^orange;Lana Blake^white;, and if you want into this Miniknog stronghold as bad as I do then get down there.",
-      "Rus": "Меня зовут Лана Блейк. Если ты хочешь попасть в крепость Министерства так же неофициально как и я, тогда спускайся вниз."
+      "Rus": "Меня зовут ^orange;Лана Блейк^white;. Если ты хочешь попасть в крепость Министерства так же неофициально как и я, тогда спускайся вниз."
     }
   },
   {
@@ -116,7 +116,7 @@
     },
     "Texts": {
       "Eng": "You made it! Good... I'm wounded... I need you to finish what we started, to take out the final defenses.",
-      "Rus": "Ты сделал это! Боже... я ранен... Ты должен завершить то, что мы начали. Отключи оставшуюся защиту."
+      "Rus": "Ты сделал<player.pronoun.verbEnding> это! Хорошо... я ранена... Ты долж<player.pronoun.verb2Ending> завершить то, что мы начали. Отключи оставшуюся защиту."
     }
   }
 ]

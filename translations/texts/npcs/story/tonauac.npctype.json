@@ -8,7 +8,7 @@
     },
     "Texts": {
       "Eng": "... I see what you were up to! The whole time!!",
-      "Rus": "...Я знал, что ты затеваешь! Всё это время!!!"
+      "Rus": "...Я знал<player.pronoun.verbEnding>, что ты затеваешь! Всё это время!!!"
     }
   },
   {
@@ -128,7 +128,7 @@
     },
     "Texts": {
       "Eng": "Oh, there you are! I'm so relieved you're safe! I suppose you got lost...You really shouldn't be here...",
-      "Rus": "О, вот ты где! Хорошо, что с тобой ничего не случилось! Я думал, ты потерялся... Ведь тебе тут нельзя быть..."
+      "Rus": "О, вот ты где! Хорошо, что с тобой ничего не случилось! Я думал, ты потерял<player.pronoun.verb3Ending>... Ведь тебе тут нельзя быть..."
     }
   },
   {
@@ -250,7 +250,7 @@
     },
     "Texts": {
       "Eng": "This is a statue of an old Avian warrior! These are his spears...",
-      "Rus": "Это статуя старого авианского воина! Вот тут копья..."
+      "Rus": "Это статуя старого авианского воина! Вот тут его  копья..."
     }
   },
   {
@@ -300,7 +300,7 @@
     },
     "Texts": {
       "Eng": "Welcome to the temple! It's lovely to have you here. I'm ^orange;Tonauac^white;, the temple caretaker.",
-      "Rus": "Добро пожаловать в храм! Приятно видеть тебя здесь. Я - ^orange;Тонуаук^white;, хранитель храма."
+      "Rus": "Добро пожаловать в храм! Приятно видеть тебя здесь. Я - ^orange;Тонауак^white;, хранитель храма."
     }
   },
   {

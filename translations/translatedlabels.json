@@ -4821,20 +4821,20 @@
       },
       "blacksmith.npctype.json": 9,
       "bounty": {
-        "bountytarget.npctype.json": 0,
-        "ignobletarget.npctype.json": 2,
+        "bountytarget.npctype.json": 4,
+        "ignobletarget.npctype.json": 3,
         "nobleclue.npctype.json": 1,
         "shared_.npctype.json": 2
       },
       "crew": {
         "crewmember.npctype.json": 165,
-        "crewmemberchemist.npctype.json": 9,
+        "crewmemberchemist.npctype.json": 13,
         "crewmemberengineer.npctype.json": 3,
         "crewmemberjanitor.npctype.json": 9,
         "crewmembermechanic.npctype.json": 3,
         "crewmembermedic.npctype.json": 19,
         "crewmemberoutlaw.npctype.json": 49,
-        "crewmembertailor.npctype.json": 18,
+        "crewmembertailor.npctype.json": 21,
         "shared_crewmember.json": 8
       },
       "dungeon": {
@@ -5474,7 +5474,7 @@
           "apexbananasign.object.json": 8
         },
         "apexbed": {
-          "apexbed.object.json": 7
+          "apexbed.object.json": 8
         },
         "apexbloodbank": {
           "apexbloodbank.object.json": 8
@@ -5498,19 +5498,19 @@
           "apexconsolekeyboard.object.json": 7
         },
         "apexcoolbookcase": {
-          "apexcoolbookcase.object.json": 8
+          "apexcoolbookcase.object.json": 9
         },
         "apexcoolchair": {
-          "apexcoolchair.object.json": 7
+          "apexcoolchair.object.json": 8
         },
         "apexcoolcomputer": {
-          "apexcoolcomputer.object.json": 7
+          "apexcoolcomputer.object.json": 9
         },
         "apexcoolcupboard": {
           "apexcoolcupboard.object.json": 6
         },
         "apexcooldesk": {
-          "apexcooldesk.object.json": 6
+          "apexcooldesk.object.json": 8
         },
         "apexcooldoor": {
           "apexcooldoor.object.json": 9
@@ -5537,7 +5537,7 @@
           "apexcounter2.object.json": 0
         },
         "apexcurtain": {
-          "apexcurtain.object.json": 6
+          "apexcurtain.object.json": 7
         },
         "apexdesk": {
           "apexdesk.object.json": 9
@@ -5552,7 +5552,7 @@
           "apexfridge.object.json": 7
         },
         "apexhdtv": {
-          "apexhdtv.object.json": 7
+          "apexhdtv.object.json": 8
         },
         "apexlamp1": {
           "apexlamp1.object.json": 7
@@ -6003,7 +6003,7 @@
           "ashjar2.object.json": 9
         },
         "ashjar3": {
-          "ashjar3.object.json": 5
+          "ashjar3.object.json": 8
         },
         "avianbanner1": {
           "avianbanner1.object.json": 9
@@ -6056,13 +6056,13 @@
           "birddoor.object.json": 5
         },
         "birdgodemblem": {
-          "birdgodemblem.object.json": 0
+          "birdgodemblem.object.json": 2
         },
         "birdgong1": {
-          "birdgong1.object.json": 6
+          "birdgong1.object.json": 7
         },
         "birdgong2": {
-          "birdgong2.object.json": 0
+          "birdgong2.object.json": 8
         },
         "birdgroundlantern": {
           "birdgroundlantern.object.json": 0
@@ -6086,7 +6086,7 @@
           "chestavian2.object.json": 2
         },
         "chestmedavian": {
-          "chestmedavian1.object.json": 1
+          "chestmedavian1.object.json": 5
         },
         "chestmedavian2": {
           "chestmedavian2.object.json": 2
@@ -6161,7 +6161,7 @@
           "marketstall5.object.json": 0
         },
         "mask1": {
-          "mask1.object.json": 0
+          "mask1.object.json": 7
         },
         "mask2": {
           "mask2.object.json": 0
@@ -6250,7 +6250,7 @@
           "shared_tombstone.json": 5
         },
         "shipwheel": {
-          "shipwheel.object.json": 0
+          "shipwheel.object.json": 6
         },
         "smalljar1": {
           "smalljar1.object.json": 4
@@ -6355,7 +6355,7 @@
           "tribalserver.object.json": 0
         },
         "tribaltable": {
-          "tribaltable.object.json": 0
+          "tribaltable.object.json": 8
         },
         "tribalwallcabinet": {
           "tribalwallcabinet.object.json": 8
@@ -8659,7 +8659,7 @@
           "capsulespace.object.json": 0
         },
         "carbed": {
-          "carbed.object.json": 4
+          "carbed.object.json": 5
         },
         "cardboard1": {
           "cardboard1.object.json": 2
@@ -9235,7 +9235,7 @@
           "castlehiddentrapdoor.object.json": 0
         },
         "castleswitch": {
-          "castleswitch.object.json": 0
+          "castleswitch.object.json": 6
         },
         "chessbishop": {
           "chessbishop.object.json": 2
@@ -9739,7 +9739,7 @@
           "lollipop2.object.json": 0
         },
         "menorah": {
-          "menorah.object.json": 0
+          "menorah.object.json": 9
         },
         "present1": {
           "present1.object.json": 2
@@ -9985,7 +9985,7 @@
           "dangersignv.object.json": 0
         },
         "fridge": {
-          "fridge.object.json": 3
+          "fridge.object.json": 4
         },
         "glasspanel": {
           "glasspanel.object.json": 8
@@ -10076,7 +10076,7 @@
           "prisongraffiti1.object.json": 0
         },
         "prisongraffiti2": {
-          "prisongraffiti2.object.json": 1
+          "prisongraffiti2.object.json": 4
         },
         "prisongraffiti3": {
           "prisongraffiti3.object.json": 0
@@ -10181,10 +10181,10 @@
           "shared_bunkertable.json": 2
         },
         "shared_dangersign": {
-          "shared_dangersign.json": 0
+          "shared_dangersign.json": 7
         },
         "shared_hazardtape": {
-          "shared_hazardtape.json": 0
+          "shared_hazardtape.json": 4
         },
         "shared_prison": {
           "shared_.object.json": 12
@@ -10217,7 +10217,7 @@
           "vendingmachine.object.json": 9
         },
         "watermachine": {
-          "watermachine.object.json": 0
+          "watermachine.object.json": 6
         }
       },
       "hylotl": {
@@ -10264,7 +10264,7 @@
           "bearplush.object.json": 5
         },
         "beautifulattempt": {
-          "beautifulattempt.object.json": 0
+          "beautifulattempt.object.json": 7
         },
         "classicbanner1": {
           "classicbanner1.object.json": 1
@@ -10361,7 +10361,7 @@
           "hylotlchair.object.json": 6
         },
         "hylotlcityposter": {
-          "hylotlcityposter.object.json": 0
+          "hylotlcityposter.object.json": 8
         },
         "hylotlclassicbookcase": {
           "hylotlclassicbookcase.object.json": 0
@@ -11254,7 +11254,7 @@
           "bench.object.json": 7
         },
         "bountyboard": {
-          "bountyboard.object.json": 0
+          "bountyboard.object.json": 2
         },
         "coffeemachine": {
           "coffeemachine.object.json": 10
@@ -11279,7 +11279,7 @@
           "frogfurnishingclosed.object.json": 7
         },
         "hangingbooster": {
-          "hangingbooster.object.json": 0
+          "hangingbooster.object.json": 8
         },
         "infinityexpress": {
           "infinityexpress.object.json": 10
@@ -11346,13 +11346,13 @@
           "outpostceilinglight.object.json": 0
         },
         "outpostchair": {
-          "outpostchair.object.json": 0
+          "outpostchair.object.json": 8
         },
         "outpostconsole": {
-          "outpostconsole.object.json": 3
+          "outpostconsole.object.json": 5
         },
         "outpostcookingtable": {
-          "outpostcookingtable.object.json": 0
+          "outpostcookingtable.object.json": 8
         },
         "outpostcrane": {
           "outpostcrane.object.json": 9
@@ -11371,7 +11371,7 @@
           "outpostrailhatch.object.json": 1
         },
         "outpostkeypad": {
-          "outpostkeypad.object.json": 0
+          "outpostkeypad.object.json": 8
         },
         "outpostlamp": {
           "outpostlamp.object.json": 1
@@ -11383,13 +11383,13 @@
           "outpostlocker.object.json": 9
         },
         "outpostmicrowave": {
-          "outpostmicrowave.object.json": 0
+          "outpostmicrowave.object.json": 9
         },
         "outpostmonitor": {
-          "outpostmonitor.object.json": 0
+          "outpostmonitor.object.json": 8
         },
         "outpostpc": {
-          "outpostpc.object.json": 0
+          "outpostpc.object.json": 8
         },
         "outpostpeacekeeperposter": {
           "outpostpeacekeeperposter.object.json": 0
@@ -11413,13 +11413,13 @@
           "outpostslidingdoor.object.json": 5
         },
         "outpostsmallmonitor": {
-          "outpostsmallmonitor.object.json": 0
+          "outpostsmallmonitor.object.json": 8
         },
         "outpoststandingdesk": {
           "outpoststandingdesk.object.json": 0
         },
         "outposttable": {
-          "outposttable.object.json": 0
+          "outposttable.object.json": 6
         },
         "outposttank": {
           "outposttank.object.json": 0
@@ -11482,9 +11482,9 @@
           "shipyardwelding.object.json": 12
         },
         "signstore": {
-          "signdispenser.object.json": 0,
-          "signstore.object.json": 0,
-          "signstoreclosed.object.json": 0
+          "signdispenser.object.json": 8,
+          "signstore.object.json": 5,
+          "signstoreclosed.object.json": 6
         },
         "techlab": {
           "shared_techlabconsole1.json": 1,
@@ -11547,16 +11547,16 @@
           "peacekeeperpainting.object.json": 0
         },
         "peacekeeperposter1": {
-          "peacekeeperposter1.object.json": 0
+          "peacekeeperposter1.object.json": 1
         },
         "peacekeeperposter2": {
-          "peacekeeperposter2.object.json": 0
+          "peacekeeperposter2.object.json": 1
         },
         "peacekeeperstore": {
           "shared_peacekeeperstore.json": 0
         },
         "peacekeepertable": {
-          "peacekeepertable.object.json": 0
+          "peacekeepertable.object.json": 5
         },
         "peacekeepervendingmachine": {
           "peacekeepervendingmachine.object.json": 0
@@ -11868,7 +11868,7 @@
       },
       "shared_cabinet": {
         "shared_cabinet.json": 1,
-        "shared_cabinet.object.json": 1
+        "shared_cabinet.object.json": 3
       },
       "shared_cactiflowerpot.json": 8,
       "shared_chair.json": 3,
@@ -11963,7 +11963,7 @@
       "shared_register.json": 7,
       "shared_root.json": 2,
       "shared_sawblade": {
-        "shared_sawblade.json": 3
+        "shared_sawblade.json": 4
       },
       "shared_shelf.json": 2,
       "shared_sign": {
