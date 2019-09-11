@@ -84,9 +84,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Это одна из тех питьевых машин, что люди используют для болтовни."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/human/watermachine/watermachine.object": [
         "/description"
@@ -94,7 +92,7 @@
     },
     "Texts": {
       "Eng": "It's one of those drinking machines people use to make small-talk.",
-      "Rus": ""
+      "Rus": "Это одна из тех питьевых машин, что люди используют для болтовни."
     }
   }
 ]
