@@ -683,7 +683,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "\"Ваша история надумана, мистер Лавкасл, начинает она, \"но вы не выглядите и не говорите как тот, кого я когда-либо знал. Возможно, ваша история правдива\"."
+    ],
     "Files": {
       "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
         "/scenes/pagoda4a/text"
@@ -703,7 +705,7 @@
     },
     "Texts": {
       "Eng": "\"Your story sounds insane,\" she begins, \"But you don't look or talk like anyone I've ever known. Perhaps your story is true.\"",
-      "Rus": ""
+      "Rus": "\"Ваша история звучит безумно\", начинает она, \"Но вы не выглядите и не говорите, как тот, кого я когда-либо знал. Возможно, ваша история правдива\"."
     }
   },
   {
