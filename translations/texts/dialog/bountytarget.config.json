@@ -1234,7 +1234,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я отомщу за это - я никогда не забуду твоё лицо!"
+    ],
     "Files": {
       "dialog/bountytarget.config": [
         "/completeArrest/default/default/7"
@@ -1266,7 +1268,7 @@
     },
     "Texts": {
       "Eng": "I'm a goner!",
-      "Rus": ""
+      "Rus": "Я конченый!"
     }
   },
   {
@@ -2689,7 +2691,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You really made a monkey out of me..."
+      "Eng": "You really made a monkey out of me...",
+      "Rus": ""
     }
   },
   {
@@ -2700,7 +2703,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You think to get me, but it is YOU who will be got!"
+      "Eng": "You think to get me, but it is YOU who will be got!",
+      "Rus": ""
     }
   },
   {
@@ -2711,7 +2715,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You think you can ssstop the ^orange;<gangName>^reset;?"
+      "Eng": "You think you can ssstop the ^orange;<gangName>^reset;?",
+      "Rus": ""
     }
   },
   {
@@ -2722,7 +2727,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You won't imprison me - I'm a free bird!"
+      "Eng": "You won't imprison me - I'm a free bird!",
+      "Rus": ""
     }
   },
   {
@@ -2733,7 +2739,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You won't ssstop Floran!"
+      "Eng": "You won't ssstop Floran!",
+      "Rus": ""
     }
   },
   {
@@ -2744,7 +2751,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You'll never stop the ^orange;<gangName>^reset;!"
+      "Eng": "You'll never stop the ^orange;<gangName>^reset;!",
+      "Rus": ""
     }
   },
   {
@@ -2758,7 +2766,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You'll never take me alive!"
+      "Eng": "You'll never take me alive!",
+      "Rus": ""
     }
   },
   {
@@ -2773,7 +2782,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You're going to try and arrest me? I was hoping for a gunfight!"
+      "Eng": "You're going to try and arrest me? I was hoping for a gunfight!",
+      "Rus": ""
     }
   },
   {
@@ -2787,7 +2797,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You're gonna wish you didn't come after the ^orange;<gangName>^reset;!"
+      "Eng": "You're gonna wish you didn't come after the ^orange;<gangName>^reset;!",
+      "Rus": ""
     }
   },
   {
@@ -2802,7 +2813,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You're trying to arrest me? How cute!"
+      "Eng": "You're trying to arrest me? How cute!",
+      "Rus": ""
     }
   },
   {
@@ -2813,7 +2825,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You've just made an enemy for life!"
+      "Eng": "You've just made an enemy for life!",
+      "Rus": ""
     }
   },
   {
@@ -2827,7 +2840,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You've made a mistake messing with the ^orange;<gangName>^reset;!"
+      "Eng": "You've made a mistake messing with the ^orange;<gangName>^reset;!",
+      "Rus": ""
     }
   }
 ]
