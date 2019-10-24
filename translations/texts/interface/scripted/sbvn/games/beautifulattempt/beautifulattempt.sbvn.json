@@ -1588,7 +1588,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Краска?"
+    ],
     "Files": {
       "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
         "/scenes/ritual6/options/0/0"
@@ -1740,7 +1742,7 @@
     },
     "Texts": {
       "Eng": "She thinks my name is Vaughn St. Lovecastle. If we are truly destined for one another, would she appreciate my true name? Could she ever?",
-      "Rus": ""
+      "Rus": "Она думает, что меня зовут Вон Сент-Лавкасл. Если мы действительно предназначены друг для друга, будет ли она ценить моё настоящее имя? Сможет ли она когда-нибудь?"
     }
   },
   {
