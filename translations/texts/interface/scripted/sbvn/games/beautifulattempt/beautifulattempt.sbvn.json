@@ -200,7 +200,7 @@
     },
     "Texts": {
       "Eng": "\"I am Kasumi, a shrine maiden sent to bless the Grand Hylotl Library before its opening next week.\" She explains.",
-      "Rus": "\"Меня зовут Касуми, святая дева, посланная благославить Великую Библиоткеу хилотлов, до открытия на следующей неделе.\" - объясняла она."
+      "Rus": "\"Меня зовут Касуми, святая дева, посланная благословить Великую Библиотеку хилотлов, до открытия на следующей неделе.\" - объясняла она."
     }
   },
   {
@@ -643,7 +643,7 @@
     },
     "Texts": {
       "Eng": "\"Yelling? Sure. In fact, I think I have something...\" she says.",
-      "Rus": "\"Кричать? Конечно. На самом деле, я думаю, у меня что-то есть...\" сказала она."
+      "Rus": ""
     }
   },
   {
@@ -679,13 +679,11 @@
     },
     "Texts": {
       "Eng": "\"You're at the Grand Hylotl Library, which is opening one week from tonight.\" She explains.",
-      "Rus": "\"Вы в Большой библиотеке хилотлов, которая открывается через неделю с сегодняшнего дня\". Объяснила она."
+      "Rus": ""
     }
   },
   {
-    "DeniedAlternatives": [
-      "\"Ваша история надумана, мистер Лавкасл, начинает она, \"но вы не выглядите и не говорите как тот, кого я когда-либо знал. Возможно, ваша история правдива\"."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
         "/scenes/pagoda4a/text"
@@ -693,7 +691,7 @@
     },
     "Texts": {
       "Eng": "\"Your story is far-fetched, Mr. Lovecastle,\" she begins, \"But you don't look or talk like anyone I've ever known. Perhaps your story is true.\"",
-      "Rus": "\"Ваша история надумана, мистер Лавкасл\", начинает она, \"Но вы не выглядите и не говорите как тот, кого я когда-либо знал. Возможно, ваша история правдива\"."
+      "Rus": ""
     }
   },
   {
@@ -705,7 +703,7 @@
     },
     "Texts": {
       "Eng": "\"Your story sounds insane,\" she begins, \"But you don't look or talk like anyone I've ever known. Perhaps your story is true.\"",
-      "Rus": "\"Ваша история звучит безумно\", начинает она, \"Но вы не выглядите и не говорите как тот, кого я когда-либо знал. Возможно, ваша история правдива\"."
+      "Rus": ""
     }
   },
   {
@@ -803,7 +801,7 @@
     },
     "Texts": {
       "Eng": "After what feels like a millenia, but also only maybe five or six minutes, I wake up where I began.",
-      "Rus": "После того, что кажется тысячелетиями, но также может быть пятью или шестью минутами, я просыпаюсь с того места, где начал."
+      "Rus": ""
     }
   },
   {
@@ -827,7 +825,7 @@
     },
     "Texts": {
       "Eng": "An ethereal light suddenly fills the area as her words of power leave her lips. My stomach churns like a washing machine left out in the sun.",
-      "Rus": "Эфирный свет внезапно заполняет пространство, когда её слова силы покидают её губы. Мой желудок вздувается, как стиральная машина, оставленная под солнцем."
+      "Rus": ""
     }
   },
   {
@@ -839,7 +837,7 @@
     },
     "Texts": {
       "Eng": "An unfamiliar land, a pounding headache... I decide to approach this situation with stealth. I crouch low, making my way across the beach towards the pagoda.",
-      "Rus": "Незнакомая земля, колющая боль... Я решаю подходить к этой ситуации с осторожностью. Я низко присел, пробираясь через пляж к пагоде."
+      "Rus": ""
     }
   },
   {
@@ -851,7 +849,7 @@
     },
     "Texts": {
       "Eng": "Beautiful Attempt! Sakura Shrine Maiden Hearts+",
-      "Rus": "Хорошая попытка! Храм Сакуры Девичьи Сердца+"
+      "Rus": ""
     }
   },
   {
@@ -863,7 +861,7 @@
     },
     "Texts": {
       "Eng": "But at least I'll have my games.",
-      "Rus": "Но по крайней мере у меня будут свои игры."
+      "Rus": ""
     }
   },
   {
@@ -1010,7 +1008,7 @@
     },
     "Texts": {
       "Eng": "However, the thoughts of Air Hockey have gripped me once more. But my studies cannot be ignored...",
-      "Rus": "Однако, мысли о воздушном хоккее снова охватили меня. Но мои исследования нельзя игнорировать..."
+      "Rus": ""
     }
   },
   {
@@ -1022,7 +1020,7 @@
     },
     "Texts": {
       "Eng": "However, who instead greets me is a beautiful girl, dressed in strange ceremonial robes. Grasped in her hands is a pink staff.",
-      "Rus": "Однако вместо этого меня встречает красивая девушка в странных церемониальных одеждах. В руках у неё розовый посох."
+      "Rus": ""
     }
   },
   {
@@ -1034,7 +1032,7 @@
     },
     "Texts": {
       "Eng": "I am not on fire, but that doesn't give me much reassurance. The place I am in is almost entirely unfamiliar.",
-      "Rus": "Я не в огне, но это не даёт мне много уверенности. Место, в котором я нахожусь, мне почти незнакомо."
+      "Rus": ""
     }
   },
   {
@@ -1046,7 +1044,7 @@
     },
     "Texts": {
       "Eng": "I am on the shore of a small island, in the center of which is a grand pagoda. A sun sets above me. It is clear to me that I must plan my next move very carefully...",
-      "Rus": "Я на берегу небольшого острова, в центре которого расположена грандиозная пагода. Солнце садится надо мной. Это значит, что я должен планировать свой следующий ход очень осторожно..."
+      "Rus": ""
     }
   },
   {
@@ -1083,7 +1081,7 @@
     },
     "Texts": {
       "Eng": "I cannot tell if this beautiful girl is a genius or insane.",
-      "Rus": "Я не могу сказать, является ли эта красивая девушка гением или безумной."
+      "Rus": ""
     }
   },
   {
@@ -1095,7 +1093,7 @@
     },
     "Texts": {
       "Eng": "I collapse to the ground sobbing, next to the destroyed table. It was too real - Kasumi can't just be a dream, can she?",
-      "Rus": "Я падаю на землю, рыдая, рядом с разрушенным столом. Это было слишком реально - Касуми не может быть просто мечтой, не так ли?"
+      "Rus": ""
     }
   },
   {
@@ -1107,7 +1105,7 @@
     },
     "Texts": {
       "Eng": "I could never destroy this Hockey table. Beautiful shrine maidens may come and go...",
-      "Rus": "Я никогда не смогу уничтожить этот хоккейный стол. Красивые святые девы могут приходить и уходить..."
+      "Rus": ""
     }
   },
   {
@@ -1119,7 +1117,7 @@
     },
     "Texts": {
       "Eng": "I cry out in a dramatic and wimpering rage. This Hockey table is nothing compared to love. In my anger, I attempt to flip the table, but my weak arms fail me.",
-      "Rus": "Я кричу в драматическом и хныкающем гневе. Этот хоккейный стол ничто в сравнении с любовью. В своём гневе я пытаюсь перевернуть стол, но слабые руки подводят меня."
+      "Rus": ""
     }
   },
   {
@@ -1131,7 +1129,7 @@
     },
     "Texts": {
       "Eng": "I cry out in a dramatic and wimpering rage. This Hockey table is nothing compared to love. In my anger, I flip the table over, sending it crashing to the ground.",
-      "Rus": "Я кричу в драматическом и хныкающем гневе. Этот хоккейный стол ничто в сравнении с любовью. В своём гневе я переворачиваю стол, разбивая его о землю."
+      "Rus": ""
     }
   },
   {
@@ -1143,7 +1141,7 @@
     },
     "Texts": {
       "Eng": "I figure that I may have upset her, and desperately think of a way to move the conversation forward.",
-      "Rus": "Я полагаю, что мог расстроить её и отчаянно думаю о пути продвижения разговора."
+      "Rus": ""
     }
   },
   {
@@ -1155,7 +1153,7 @@
     },
     "Texts": {
       "Eng": "I find myself at the campus arcade, my three eyes staring at the beauty I see before me. We meet again, friend.",
-      "Rus": "Я нахожусь в галерее кампуса, мои три глаза смотрят на красоту, которую я вижу перед собой. Мы снова встретились, друг."
+      "Rus": ""
     }
   },
   {
@@ -1167,7 +1165,7 @@
     },
     "Texts": {
       "Eng": "I have a short time go gather my thoughts.",
-      "Rus": "У меня есть немного времени, чтобы собраться с мыслями."
+      "Rus": ""
     }
   },
   {
@@ -1179,7 +1177,7 @@
     },
     "Texts": {
       "Eng": "I have precious seconds left. I may fail at winning her love, but I must make an attempt! A BEAUTIFUL ATTEMPT!",
-      "Rus": "У меня остались драгоценные секунды. Я могу потерпеть неудачу в завоевании её любви, но я должен сделать попытку! ХОРОШУЮ ПОПЫТКУ!"
+      "Rus": ""
     }
   },
   {
@@ -1191,7 +1189,7 @@
     },
     "Texts": {
       "Eng": "I hear voices! I hide behind a nearby post. The architecture is all Hylotl, so at least my chances of being in Floran territory seems low.",
-      "Rus": "Я слышу голоса! Я прячусь за соседний пост. Это всё архитектура хилотлов, так что, по крайней мере, мои шансы оказаться на территории флоран маловероятны."
+      "Rus": ""
     }
   },
   {
@@ -1203,7 +1201,7 @@
     },
     "Texts": {
       "Eng": "I leave my dormitory quietly, remaining careful not to let my excitement overwhelm me and cause me to involuntarily yell out 'air hockey!', like the last time I snuck out.",
-      "Rus": "Я тихо покидаю своё общежитие, стараясь не допустить, чтобы волнение переполнило меня и заставило невольно выкрикнуть \"воздушный хоккей!\", Как в прошлый раз, когда я крался."
+      "Rus": ""
     }
   },
   {
