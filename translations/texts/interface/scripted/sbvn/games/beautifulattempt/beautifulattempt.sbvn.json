@@ -1602,7 +1602,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Практикуемся в воздушном хоккее."
+    ],
     "Files": {
       "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
         "/scenes/intro3/options/1/0"
@@ -1854,7 +1856,7 @@
     },
     "Texts": {
       "Eng": "The air is quiet, except for the soft lapping of waves on this mysterious beach. The ocean appears to be water, and not acid or magma. This fact calms me somewhat.",
-      "Rus": ""
+      "Rus": "Воздух тихий, если не считать мягких волн на этом загадочном пляже. Океан кажется водой, а не кислотой или магмой. Этот факт меня несколько успокаивает."
     }
   },
   {
