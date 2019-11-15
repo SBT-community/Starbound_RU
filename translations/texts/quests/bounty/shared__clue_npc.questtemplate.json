@@ -10,7 +10,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Find target"
+      "Eng": "Find target",
+      "Rus": "Найдите цель"
     }
   },
   {
@@ -24,7 +25,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;<coordinate.name>^reset;:\nA henchman I interrogated gave me the location \"<next.coordinate.name>\".\n\n"
+      "Eng": "^green;<coordinate.name>^reset;:\nA henchman I interrogated gave me the location \"<next.coordinate.name>\".\n\n",
+      "Rus": "^green;<coordinate.name>^reset;:\nДопрошенный приспешник выдал мне местонахождение: \"<next.coordinate.name>\"."
     }
   },
   {
@@ -38,7 +40,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;<coordinate.name>^reset;:\nAfter some encouragement, a henchman gave me the location \"<next.coordinate.name>\".\n\n"
+      "Eng": "^green;<coordinate.name>^reset;:\nAfter some encouragement, a henchman gave me the location \"<next.coordinate.name>\".\n\n",
+      "Rus": "^green;<coordinate.name>^reset;:\nПосле некоторого ободрения, приспешник выдал мне местонахождение: \"<next.coordinate.name>\"."
     }
   },
   {
@@ -52,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;<coordinate.name>^reset;:\nOne of <bounty.name>'s lackeys led me to \"<next.coordinate.name>\".\n\n"
+      "Eng": "^green;<coordinate.name>^reset;:\nOne of <bounty.name>'s lackeys led me to \"<next.coordinate.name>\".\n\n",
+      "Rus": "^green;<coordinate.name>^reset;:\nОдин из приспешников <bounty.accusative> привёл меня к \"<next.coordinate.name>\"."
     }
   }
 ]

@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "It's time to take down the ^orange;<bounty.gang.name>^reset; for good. We've picked up the trail of their leader, ^orange;<bounty.name>^reset;, <coordinate.preposition> <coordinate.name>.\n\nMake sure you're well prepared for this one - their base is sure to be heavily fortified.\n\n- REWARDS -\nCapture: ^yellow;<rewards.money>^reset; pixels, +<rewards.rank> rank"
+      "Eng": "It's time to take down the ^orange;<bounty.gang.name>^reset; for good. We've picked up the trail of their leader, ^orange;<bounty.name>^reset;, <coordinate.preposition> <coordinate.name>.\n\nMake sure you're well prepared for this one - their base is sure to be heavily fortified.\n\n- REWARDS -\nCapture: ^yellow;<rewards.money>^reset; pixels, +<rewards.rank> rank",
+      "Rus": "Пришло время накрыть банду ^orange;<bounty.gang.name>^reset; ради всеобщего блага. Мы взяли след их предводителя, ^orange;<bounty.accusative>^reset;, <coordinate.preposition> <coordinate.name>.\n\nУбедись, что хорошо подготовил<player.pronoun.verb3Ending> - их база наверняка хорошо укреплена.\n\n- НАГРАДА -\nЗахват: ^yellow;<rewards.money>^reset; пикселей, +<rewards.rank> к рангу"
     }
   }
 ]

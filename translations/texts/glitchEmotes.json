@@ -1689,7 +1689,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Awoken."
+      "Eng": "Awoken.",
+      "Rus": "Спросонья."
     }
   },
   {
@@ -4082,6 +4083,18 @@
       "objects/generic/stepladder/stepladder.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/generic/wargroovebanner/wargroovebanner1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/generic/wargroovebanner/wargroovebanner2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/generic/wargroovebanner/wargroovebanner3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/generic/wargroovebanner/wargroovebanner4.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/generic/woodencrate1/woodencrate1.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -5809,7 +5822,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Dutiful."
+      "Eng": "Dutiful.",
+      "Rus": "Покорно."
     }
   },
   {
@@ -6045,7 +6059,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Embarassed."
+      "Eng": "Embarassed.",
+      "Rus": "Смущённо."
     }
   },
   {
@@ -6231,7 +6246,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Enlightened."
+      "Eng": "Enlightened.",
+      "Rus": "Просвещенно."
     }
   },
   {
@@ -7379,7 +7395,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Furious."
+      "Eng": "Furious.",
+      "Rus": "Неистово."
     }
   },
   {
@@ -7631,7 +7648,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Guilty."
+      "Eng": "Guilty.",
+      "Rus": "Виновато."
     }
   },
   {
@@ -9611,7 +9629,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Intimidating."
+      "Eng": "Intimidating.",
+      "Rus": "Угрожающе."
     }
   },
   {
@@ -9884,7 +9903,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Intriguing."
+      "Eng": "Intriguing.",
+      "Rus": "Интригующе."
     }
   },
   {
@@ -10323,7 +10343,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Loyal."
+      "Eng": "Loyal.",
+      "Rus": "Преданно."
     }
   },
   {
@@ -12361,7 +12382,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Panicking."
+      "Eng": "Panicking.",
+      "Rus": "Паникующе."
     }
   },
   {
@@ -16900,14 +16922,17 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Тщеславно. "
+    ],
     "Files": {
       "dialog/peacekeeperconverse.config": [
         "/converse/glitch/default/7/glitchEmote"
       ]
     },
     "Texts": {
-      "Eng": "Vain."
+      "Eng": "Vain.",
+      "Rus": "Тщеславно."
     }
   },
   {
@@ -16918,7 +16943,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Valiant."
+      "Eng": "Valiant.",
+      "Rus": "Храбро."
     }
   },
   {

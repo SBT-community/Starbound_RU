@@ -171,7 +171,7 @@
     },
     "Texts": {
       "Eng": "Startled. Do you hear that?",
-      "Rus": "Испуганно. Ты слышал это?"
+      "Rus": "Испуганно. Ты слышал<player.pronoun.verbEnding> это?"
     }
   },
   {
@@ -209,7 +209,7 @@
     },
     "Texts": {
       "Eng": "You've certainly earned your bauble!",
-      "Rus": "Ты определенно заслужил эту безделушку!"
+      "Rus": "Ты определенно заслужил<player.pronoun.verbEnding> эту безделушку!"
     }
   }
 ]

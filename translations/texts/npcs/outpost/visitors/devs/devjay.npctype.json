@@ -10,5 +10,17 @@
       "Eng": "Hey, I'm Jay. I heard Earth was destroyed? That's bad pancakes.",
       "Rus": "Привет, я Джей. Я слышал Земля уничтожена? Вот же блин."
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/devs/devjay.npctype": [
+        "/identity/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jay",
+      "Rus": "Джей"
+    }
   }
 ]

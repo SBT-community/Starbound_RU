@@ -10,5 +10,17 @@
       "Eng": "Hi! I'm Tom. I'm working on cataloguing the entire Universe! I'm quite the Starbounder.",
       "Rus": "Привет! Я Том. Я составляю каталог на всю Вселенную! Меня можно назвать Старбаундером."
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/devs/devtomkat.npctype": [
+        "/identity/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tom",
+      "Rus": "Том"
+    }
   }
 ]

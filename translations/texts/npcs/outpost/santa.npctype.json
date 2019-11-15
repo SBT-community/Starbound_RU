@@ -71,5 +71,17 @@
       "Eng": "Ho ho ho!",
       "Rus": "Хо-хо-хо!"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/santa.npctype": [
+        "/identity/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Santa Claus",
+      "Rus": "Санта Клаус"
+    }
   }
 ]

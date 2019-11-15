@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/outpost/visitors/devs/devdonna.npctype": [
+        "/identity/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Donna",
+      "Rus": "Донна"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/devs/devdonna.npctype": [
         "/scriptConfig/dialog/converse/default/default/0"
       ]
     },

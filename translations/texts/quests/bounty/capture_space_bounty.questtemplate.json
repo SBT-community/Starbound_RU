@@ -7,7 +7,20 @@
       ]
     },
     "Texts": {
-      "Eng": "Nice work goin' to space and capturin' <bounty.name>! You're a real galactic hero.\n\nCome by the Peacekeeper Station to collect your reward!"
+      "Eng": "Nice work goin' to space and capturin' <bounty.name>! You're a real galactic hero.\n\nCome by the Peacekeeper Station to collect your reward!",
+      "Rus": "У тебя отлично получилось захватить <bounty.accusative> в космосе! Ты настоящий герой галактики.\n\nЗагляни на Станцию Миротворцев, чтобы забрать свою награду!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/capture_space_bounty.questtemplate": [
+        "/scriptConfig/objectives/killBountyStage/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Search^reset; space for the ^green;hideout^reset;",
+      "Rus": "^orange;Исследуйте^reset; космос  в поисках ^green;убежища^reset;"
     }
   }
 ]

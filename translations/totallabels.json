@@ -134,6 +134,9 @@
       }
     },
     "blueprint.config.json": 2,
+    "bounty": {
+      "shared_ign.json": 1
+    },
     "celestial.config.json": 32,
     "cinematics": {
       "intro": {
@@ -284,7 +287,7 @@
         },
         "cultist mission": {
           "cultistmission1.codex.json": 5,
-          "cultistmission2.codex.json": 5,
+          "cultistmission2.codex.json": 6,
           "shared_cultistmission.json": 1
         },
         "floran mission": {
@@ -476,7 +479,7 @@
           "ancientconsolegui.config.json": 3
         },
         "bountyboard": {
-          "bountyboardgui.config.json": 11
+          "bountyboardgui.config.json": 13
         },
         "collections": {
           "collectionsgui.config.json": 4
@@ -530,7 +533,7 @@
           "weaponupgradegui.config.json": 5
         }
       },
-      "shared_.config.json": 17,
+      "shared_.config.json": 16,
       "shared_bow..json": 1,
       "shared_gun..json": 1,
       "shared_mecharm..json": 2,
@@ -583,7 +586,7 @@
         "craftingwheel.config.json": 2,
         "deletedialog.config.json": 1,
         "error.config.json": 1,
-        "graphicsmenu.config.json": 10,
+        "graphicsmenu.config.json": 11,
         "joinrequest.config.json": 6,
         "keybindingsmenu.config.json": 51,
         "merchant.config.json": 2,
@@ -594,7 +597,7 @@
         "questcomplete.config.json": 1,
         "questfailed.config.json": 1,
         "questlog.config.json": 10,
-        "shared_.config.json": 14,
+        "shared_.config.json": 13,
         "shared_crafting.json": 5,
         "songbook.config.json": 6,
         "teambar.config.json": 1,
@@ -4794,11 +4797,12 @@
         "arenaadvisor1.npctype.json": 4,
         "arenaadvisor2.npctype.json": 4,
         "arenaadvisor3.npctype.json": 4,
-        "arenabruiser.npctype.json": 2,
+        "arenabruiser.npctype.json": 3,
         "arenafighter.npctype.json": 1,
-        "arenahunter.npctype.json": 6,
-        "arenapyro.npctype.json": 12,
+        "arenahunter.npctype.json": 7,
+        "arenapyro.npctype.json": 13,
         "arenashooter.npctype.json": 7,
+        "shared_arenaadvisor.json": 1,
         "shared_er.npctype.json": 7
       },
       "bandit.npctype.json": 7,
@@ -4817,7 +4821,8 @@
       },
       "blacksmith.npctype.json": 9,
       "bounty": {
-        "ignobletarget.npctype.json": 4,
+        "bountytarget.npctype.json": 4,
+        "ignobletarget.npctype.json": 3,
         "nobleclue.npctype.json": 1,
         "shared_.npctype.json": 2
       },
@@ -4927,42 +4932,43 @@
         "outpostbountyhunter.npctype.json": 1,
         "outpostfloranexplorer.npctype.json": 1,
         "outpostfloranfan.npctype.json": 3,
-        "outpostfloranhunter.npctype.json": 3,
+        "outpostfloranhunter.npctype.json": 4,
         "outpostglitchmechanic.npctype.json": 3,
         "outpostglitchmercenary.npctype.json": 3,
         "outposthumanexcon.npctype.json": 2,
         "outposthumanscientist.npctype.json": 2,
         "outposthumansurvivor.npctype.json": 2,
-        "outposthylotlcurator.npctype.json": 2,
+        "outposthylotlcurator.npctype.json": 3,
         "outposthylotlperformer.npctype.json": 6,
         "outposthylotlwarrior.npctype.json": 3,
         "outpostpenguinpromoter.npctype.json": 1,
         "outpostpenguinscientist.npctype.json": 1,
         "outpostundersideman.npctype.json": 8,
-        "santa.npctype.json": 6,
+        "santa.npctype.json": 7,
         "tonauacoutpost.npctype.json": 5,
         "vaultkeytrader.npctype.json": 1,
         "visitors": {
           "backervisitor.npctype.json": 6,
           "colourfulvisitor.npctype.json": 4,
           "devs": {
-            "devabi.npctype.json": 1,
-            "devadam.npctype.json": 1,
-            "devdonna.npctype.json": 1,
-            "devdoris.npctype.json": 1,
-            "devgeorge.npctype.json": 1,
-            "devharriet.npctype.json": 1,
-            "devjay.npctype.json": 1,
-            "devkyren.npctype.json": 1,
-            "devlili.npctype.json": 1,
-            "devmeta.npctype.json": 1,
-            "devmolly.npctype.json": 1,
-            "devrosie.npctype.json": 1,
-            "devstephen.npctype.json": 1,
+            "devabi.npctype.json": 2,
+            "devadam.npctype.json": 2,
+            "devdonna.npctype.json": 2,
+            "devdoris.npctype.json": 2,
+            "devgeorge.npctype.json": 2,
+            "devharriet.npctype.json": 2,
+            "devjay.npctype.json": 2,
+            "devkyren.npctype.json": 2,
+            "devlili.npctype.json": 2,
+            "devmeta.npctype.json": 2,
+            "devmolly.npctype.json": 2,
+            "devrosie.npctype.json": 2,
+            "devstephen.npctype.json": 2,
             "devtiy.npctype.json": 1,
             "devtom.npctype.json": 1,
-            "devtomkat.npctype.json": 1,
-            "devwilliam.npctype.json": 1
+            "devtomkat.npctype.json": 2,
+            "devwilliam.npctype.json": 2,
+            "shared_.npctype.json": 1
           },
           "electricianvisitor.npctype.json": 3,
           "feneroxvisitor.npctype.json": 4,
@@ -7970,7 +7976,7 @@
             "craftingfarm.object.json": 14
           },
           "craftingfurnace": {
-            "craftingfurnace.object.json": 33
+            "craftingfurnace.object.json": 34
           },
           "craftingfurniture": {
             "craftingfurniture.object.json": 15
@@ -9066,6 +9072,13 @@
         },
         "volcanopod": {
           "volcanopod.object.json": 8
+        },
+        "wargroovebanner": {
+          "shared_wargroovebanner.json": 4,
+          "wargroovebanner1.object.json": 5,
+          "wargroovebanner2.object.json": 5,
+          "wargroovebanner3.object.json": 5,
+          "wargroovebanner4.object.json": 7
         },
         "weaponchest": {
           "weaponchest.object.json": 7
@@ -13627,30 +13640,36 @@
     "player.config.json": 3,
     "quests": {
       "bounty": {
-        "assignment.config.json": 5,
+        "assignment.config.json": 6,
+        "bounty.config.json": 99,
         "bounty_gen.questtemplate.json": 3,
-        "bountyassignment.questtemplate.json": 8,
+        "bountyassignment.questtemplate.json": 21,
         "capture_bounty.questtemplate.json": 2,
-        "capture_ship_bounty.questtemplate.json": 2,
-        "capture_space_bounty.questtemplate.json": 1,
+        "capture_ship_bounty.questtemplate.json": 5,
+        "capture_space_bounty.questtemplate.json": 2,
         "clue_bounties.config.json": 56,
         "clue_items.config.json": 69,
         "clue_npcs.config.json": 87,
         "clue_objects.config.json": 16,
         "clue_scans.config.json": 6,
+        "cultist_mission1.questtemplate.json": 3,
         "find_clue_item.questtemplate.json": 2,
         "find_clue_scan.questtemplate.json": 3,
-        "find_tutorial_clues.questtemplate.json": 2,
-        "generator.config.json": 9,
+        "find_space_clue_scan.questtemplate.json": 1,
+        "find_tutorial_clues.questtemplate.json": 6,
+        "gang.config.json": 332,
+        "generator.config.json": 12,
+        "kill_bounty_monster.questtemplate.json": 2,
         "pre_bounty.questtemplate.json": 1,
         "pre_bounty_capstone.questtemplate.json": 1,
         "pre_bounty_minor_monster.questtemplate.json": 3,
         "pre_bounty_minor_npc.questtemplate.json": 1,
-        "scan_planets.questtemplate.json": 3,
-        "shared_.questtemplate.json": 23,
+        "scan_planets.questtemplate.json": 5,
+        "shared_.config.json": 1,
+        "shared_.questtemplate.json": 32,
         "shared__clue_npc.questtemplate.json": 4,
         "shared__clue_object.questtemplate.json": 4,
-        "shared_find_space_clue_.json": 3
+        "shared_find_space_clue_.json": 4
       },
       "food": {
         "firstcrops.questtemplate.json": 3,
@@ -14161,6 +14180,6 @@
       }
     },
     "universe_server.config.json": 2,
-    "wide_spread_fields.json": 83
+    "wide_spread_fields.json": 85
   }
 }

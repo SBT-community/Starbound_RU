@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;<coordinate.name>^reset;:\nI discovered leads here that take me to <next.coordinate.name>.\n\n"
+      "Eng": "^green;<coordinate.name>^reset;:\nI discovered leads here that take me to <next.coordinate.name>.\n\n",
+      "Rus": "^green;<coordinate.name>^reset;:\nЗдесь мной обнаружены зацепки, что привели меня на <next.coordinate.name>."
     }
   },
   {
@@ -18,7 +19,56 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;<coordinate.name>^reset;:\nSeveral clues I found here have led me to <next.coordinate.name>.\n\n"
+      "Eng": "^green;<coordinate.name>^reset;:\nSeveral clues I found here have led me to <next.coordinate.name>.\n\n",
+      "Rus": "^green;<coordinate.name>^reset;:\nМной найдено несколько свидетельств, что ведут к <next.coordinate.name>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/find_tutorial_clues.questtemplate": [
+        "/scriptConfig/objectives/tutorialClueStage/1/findNpc"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Interrogate criminal^reset; for clues",
+      "Rus": "^orange;Допросите преступника^reset; чтобы получить зацепку"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/find_tutorial_clues.questtemplate": [
+        "/scriptConfig/objectives/tutorialClueStage/1/findScan"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Scan^reset; for clues",
+      "Rus": "^orange;Просканируйте^reset; окружение в поисках зацепок"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/find_tutorial_clues.questtemplate": [
+        "/scriptConfig/objectives/tutorialClueStage/1/findObject"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Search computers^reset; for clues",
+      "Rus": "^orange;Обыщите компьютеры^reset; на предмет зацепок"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/find_tutorial_clues.questtemplate": [
+        "/scriptConfig/objectives/tutorialClueStage/1/findItem"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Search containers^reset; for clues",
+      "Rus": "^orange;Обыщите вещи^reset;, чтобы найти зацепки"
     }
   }
 ]

@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/outpost/visitors/devs/devadam.npctype": [
+        "/identity/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Adam",
+      "Rus": "Адам"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/devs/devadam.npctype": [
         "/scriptConfig/dialog/converse/default/default/0"
       ]
     },

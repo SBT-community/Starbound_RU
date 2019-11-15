@@ -52,7 +52,8 @@
       ]
     },
     "Texts": {
-      "Eng": "--TODO--"
+      "Eng": "--TODO--",
+      "Rus": "--TODO--"
     }
   },
   {
@@ -113,7 +114,7 @@
     },
     "Texts": {
       "Eng": "-todo-",
-      "Rus": ""
+      "Rus": "-todo-"
     }
   },
   {
@@ -370,6 +371,39 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/editBookmarkFrame/children/ok/caption"
+      ],
+      "interface/optionsmenu/optionsmenu.config": [
+        "/paneLayout/acceptButton/caption"
+      ],
+      "interface/windowconfig/editbookmark.config": [
+        "/paneLayout/ok/caption"
+      ],
+      "interface/windowconfig/keybindingsmenu.config": [
+        "/paneLayout/accept/caption"
+      ],
+      "interface/windowconfig/newquest.config": [
+        "/paneLayout/btnAccept/caption"
+      ],
+      "interface/windowconfig/newquestshort.config": [
+        "/paneLayout/btnAccept/caption"
+      ],
+      "interface/windowconfig/teaminvitation.config": [
+        "/paneLayout/ok/caption"
+      ],
+      "npcs/bounty/bountytarget.npctype": [
+        "/scriptConfig/behaviorConfig/bribeOk"
+      ]
+    },
+    "Texts": {
+      "Eng": "Accept",
+      "Rus": "Принять"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "biomes/surface/alien.biome": [
         "/friendlyName"
       ],
@@ -407,7 +441,8 @@
         "/shortdescription"
       ],
       "quests/bounty/assignment.config": [
-        "/bountyTypes/occasusCommander/questConfig/target/monster/parameters/shortdescription"
+        "/bountyTypes/occasusCommander/questConfig/target/monster/parameters/shortdescription",
+        "/bountyTypes/occasusCommander/questConfig/target/name"
       ],
       "radiomessages/missions.radiomessages": [
         "/cultistmission06b/senderName",
@@ -616,9 +651,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/bounty/nobleclue.npctype": [
+        "/identity/name",
         "/npcname"
       ],
       "npcs/outpost/captainnoble.npctype": [
+        "/identity/name",
         "/npcname"
       ],
       "radiomessages/bounty.radiomessages": [
@@ -642,7 +679,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Captain Noble"
+      "Eng": "Captain Noble",
+      "Rus": "Капитан Нобель"
     }
   },
   {
@@ -673,6 +711,29 @@
     "Texts": {
       "Eng": "Crystal Erchius Fuel",
       "Rus": "Кристаллы эркиевого топлива"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Отменить"
+    ],
+    "Files": {
+      "interface/windowconfig/newquest.config": [
+        "/paneLayout/btnDecline/caption"
+      ],
+      "interface/windowconfig/newquestshort.config": [
+        "/paneLayout/btnDecline/caption"
+      ],
+      "interface/windowconfig/teaminvitation.config": [
+        "/paneLayout/close/caption"
+      ],
+      "npcs/bounty/bountytarget.npctype": [
+        "/scriptConfig/behaviorConfig/bribeCancel"
+      ]
+    },
+    "Texts": {
+      "Eng": "Decline",
+      "Rus": "Отклонить"
     }
   },
   {

@@ -10,5 +10,17 @@
       "Eng": "Hey, I'm Stephen! I can make lots of different noises. Boop!",
       "Rus": "Привет, я Стефан! Я могу издавать кучу разных звуков. Биип!"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/devs/devstephen.npctype": [
+        "/identity/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stephen",
+      "Rus": "Стефан"
+    }
   }
 ]

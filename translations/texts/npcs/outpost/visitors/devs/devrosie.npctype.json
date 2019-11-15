@@ -10,5 +10,17 @@
       "Eng": "Hi, I'm Rosie! The Universe is such a large place, I want to smell every flower, catch every bug and climb every tree.",
       "Rus": "Привет, я Роза! Космос такой большой! Я хочу понюхать каждый цветок, поймать каждого жучка, забраться на каждое дерево."
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/devs/devrosie.npctype": [
+        "/identity/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rosie",
+      "Rus": "Роза"
+    }
   }
 ]

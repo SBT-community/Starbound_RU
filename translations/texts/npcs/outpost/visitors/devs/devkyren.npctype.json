@@ -10,5 +10,17 @@
       "Eng": "Hi, I'm Kyren! I'm very much interested in the origins of the Universe.",
       "Rus": "Привет, я Кайрен! Я интересуюсь зарождением Вселенной."
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/devs/devkyren.npctype": [
+        "/identity/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kyren",
+      "Rus": "Кайрен"
+    }
   }
 ]

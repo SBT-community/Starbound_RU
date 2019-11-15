@@ -3,12 +3,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/outpost/visitors/devs/devgeorge.npctype": [
+        "/identity/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "George",
+      "Rus": "Джордж"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/devs/devgeorge.npctype": [
         "/scriptConfig/dialog/converse/default/default/0"
       ]
     },
     "Texts": {
       "Eng": "Hey, I'm George!",
-      "Rus": "Привет, я Джорж!"
+      "Rus": "Привет, я Джордж!"
     }
   }
 ]

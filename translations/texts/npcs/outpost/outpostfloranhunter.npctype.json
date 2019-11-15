@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/outpost/outpostfloranhunter.npctype": [
+        "/identity/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Miles",
+      "Rus": "Майлз"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outpostfloranhunter.npctype": [
         "/scriptConfig/dialog/converse/default/default/0"
       ]
     },

@@ -10,5 +10,17 @@
       "Eng": "It's-a me, Mollygos!",
       "Rus": "Это же мы, РУССКОЕ КОМЬЮНИТИ!"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/devs/devmolly.npctype": [
+        "/identity/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Molly",
+      "Rus": "РК"
+    }
   }
 ]

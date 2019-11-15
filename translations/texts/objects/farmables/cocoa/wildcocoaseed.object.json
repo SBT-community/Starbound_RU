@@ -15,24 +15,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/cocoa/wildcocoaseed.object": [
-        "/hylotlDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "See beyond its bitter taste and cocoa is a useful resource.",
-      "Rus": ""
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/cocoa/wildcocoaseed.object": [
         "/avianDescription"
       ]
     },
     "Texts": {
-      "Eng": "cocoa beans look a tempting treat, but are extremely bitter.",
-      "Rus": ""
+      "Eng": "Cocoa beans look a tempting treat, but are extremely bitter."
     }
   },
   {
@@ -43,8 +30,7 @@
       ]
     },
     "Texts": {
-      "Eng": "cocoa is sought after for its pep-giving properties",
-      "Rus": ""
+      "Eng": "Cocoa is sought after for its pep-giving properties"
     }
   },
   {
@@ -55,8 +41,7 @@
       ]
     },
     "Texts": {
-      "Eng": "cocoa keepsss Floran awake.",
-      "Rus": ""
+      "Eng": "Cocoa keepsss Floran awake."
     }
   },
   {
@@ -67,8 +52,7 @@
       ]
     },
     "Texts": {
-      "Eng": "cocoa smells good, but I've never noticed any beneficial side-effects to drinkin' the stuff.",
-      "Rus": ""
+      "Eng": "Cocoa smells good, but I've never noticed any beneficial side-effects to drinkin' the stuff."
     }
   },
   {
@@ -79,7 +63,18 @@
       ]
     },
     "Texts": {
-      "Eng": "cocoa, the perkiest plant known to man.",
+      "Eng": "Cocoa, the perkiest plant known to man."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/cocoa/wildcocoaseed.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "See beyond its bitter taste and cocoa is a useful resource.",
       "Rus": ""
     }
   }

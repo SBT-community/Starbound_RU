@@ -8,7 +8,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Good job taking <bounty.name> and their crew! You're a darn brave soul, partner!\n\nCome by the Peacekeeper Station to collect your reward!"
+      "Eng": "Good job taking <bounty.name> and their crew! You're a darn brave soul, partner!\n\nCome by the Peacekeeper Station to collect your reward!",
+      "Rus": "Ты отлично поработал<player.pronoun.verbEnding> над арестом <bounty.accusative> и <bounty.pronoun.reflexive> команды! Ты чертовски храбр<player.pronoun.adj2Ending> духом, партнёр!\n\nЗагляни на Станцию Миротворцев за наградой!"
     }
   },
   {
@@ -19,7 +20,44 @@
       ]
     },
     "Texts": {
-      "Eng": "You apprehended the bounty!"
+      "Eng": "You apprehended the bounty!",
+      "Rus": "Ты поймал преступника!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/capture_ship_bounty.questtemplate": [
+        "/scriptConfig/objectives/findSpaceBountyStage/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Approach^reset; the ^green;Suspicious Ship^reset;",
+      "Rus": "^orange;Доберитесь^reset; до ^green;Подозрительного Корабля^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/capture_ship_bounty.questtemplate": [
+        "/scriptConfig/objectives/findSpaceBountyStage/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Deploy^reset; to the ^green;Suspicious Ship^reset;",
+      "Rus": "^orange;Совершите высадку^reset; на ^green;Подозрительный Корабль^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/capture_ship_bounty.questtemplate": [
+        "/scriptConfig/objectives/killBountyStage/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Find^reset; the target's ^green; ship^reset;",
+      "Rus": "^orange;Найдите^reset; ^green;корабль^reset; цели"
     }
   }
 ]

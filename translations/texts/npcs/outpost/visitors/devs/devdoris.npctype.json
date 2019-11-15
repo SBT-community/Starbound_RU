@@ -8,7 +8,19 @@
     },
     "Texts": {
       "Eng": "'Ello I'm Doris. My 'overboard flew off a cliff and I 'av come 'ere to buy a new one.",
-      "Rus": "Привет, я Дорис. Мой 'оверборд упал с обрыва и я тут 'тобы купить новый."
+      "Rus": "Прифет, я Дорис. Мой хоферборт упал ф обрыва и я тут фтобы купить нофый."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/devs/devdoris.npctype": [
+        "/identity/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Doris",
+      "Rus": "Дорис"
     }
   }
 ]

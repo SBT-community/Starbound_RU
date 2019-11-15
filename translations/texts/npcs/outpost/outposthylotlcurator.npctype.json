@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/outpost/outposthylotlcurator.npctype": [
+        "/identity/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Daichi",
+      "Rus": "Дайчи"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outposthylotlcurator.npctype": [
         "/scriptConfig/dialog/converse/Hylotl/default/0",
         "/scriptConfig/dialog/converse/default/default/0"
       ]

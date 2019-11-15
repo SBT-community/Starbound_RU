@@ -45,4 +45,9 @@ specialSections = [
     ["^.*kill_monster_group\.questtemplate$"], True),
   SpecialSection("Родительный падеж", ["^.+/name$"],
     ["^.*pools/monsterthreats\.config$"], True),
+  SpecialSection("Префикс названия банды", ["^.*Prefix/.*"], ["^.*quests/bounty/gang\.config"], True),
+  SpecialSection("Основная часть названия банды", ["^.*Mid/.*"], ["^.*quests/bounty/gang\.config"], True),
+  SpecialSection("Окончание названия банды", ["^.*suffix/.*"], ["^.*quests/bounty/gang\.config"], True),
+  SpecialSection("Префикс главаря банды", ["^.*prefix/.*"], ["^.*quests/bounty/bounty\.config"], True),
+  SpecialSection("Окончание главаря банды", ["^.*suffix/.*"], ["^.*quests/bounty/bounty\.config"], True),
 ]

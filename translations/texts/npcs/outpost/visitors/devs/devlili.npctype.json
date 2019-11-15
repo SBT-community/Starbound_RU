@@ -10,5 +10,17 @@
       "Eng": "Hi, I'm Lili! I want to catch every single monster across the stars. Especially the chubby ones.",
       "Rus": "Привет, я Лили! Я хочу поймать всех монстров во всем мире. Особенно пухленьких."
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/devs/devlili.npctype": [
+        "/identity/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lili",
+      "Rus": "Лили"
+    }
   }
 ]

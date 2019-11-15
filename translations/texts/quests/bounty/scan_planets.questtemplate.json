@@ -7,7 +7,20 @@
       ]
     },
     "Texts": {
-      "Eng": "<bounty.name> was last seen somewhere in <coordinate.systemName>."
+      "Eng": "<bounty.name> was last seen somewhere in <coordinate.systemName>.",
+      "Rus": "<bounty.accusative> последний раз видели где-то в системе <coordinate.systemName>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/scan_planets.questtemplate": [
+        "/scriptConfig/objectives/scanPlanetsStage/searching"
+      ]
+    },
+    "Texts": {
+      "Eng": "Searching for planets...",
+      "Rus": "Поиск планет..."
     }
   },
   {
@@ -18,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;<coordinate.name>^reset;:\nBy scanning the planets in this system, I located the target signature at <next.coordinate.name>.\n\n"
+      "Eng": "^green;<coordinate.name>^reset;:\nBy scanning the planets in this system, I located the target signature at <next.coordinate.name>.\n\n",
+      "Rus": "^green;<coordinate.name>^reset;:\nСканируя планеты этой системы я обнаружил сигнатуру цели на <next.coordinate.name>."
     }
   },
   {
@@ -29,7 +43,20 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;<coordinate.name>^reset;:\nScanning for the target signature led me to <next.coordinate.name>.\n\n"
+      "Eng": "^green;<coordinate.name>^reset;:\nScanning for the target signature led me to <next.coordinate.name>.\n\n",
+      "Rus": "^green;<coordinate.name>^reset;:\nСканирование сигнатуры цели привело меня к <next.coordinate.name>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/scan_planets.questtemplate": [
+        "/scriptConfig/objectives/scanPlanetsStage/scan"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Enter orbit^reset; around ^orange;%s^reset;",
+      "Rus": "^orange;Выйдите на орбиту^reset; планеты ^orange;%s^reset;"
     }
   }
 ]

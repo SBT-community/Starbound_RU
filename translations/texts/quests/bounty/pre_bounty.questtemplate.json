@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "We need you to locate and apprehend ^orange;<bounty.name>^reset;. We've received a tip that there may be information <coordinate.preposition> <coordinate.name>, so you should start your investigation there.\n\n- REWARDS -\nCapture: ^yellow;<rewards.money>^reset; pixels, +<rewards.rank> rank"
+      "Eng": "We need you to locate and apprehend ^orange;<bounty.name>^reset;. We've received a tip that there may be information <coordinate.preposition> <coordinate.name>, so you should start your investigation there.\n\n- REWARDS -\nCapture: ^yellow;<rewards.money>^reset; pixels, +<rewards.rank> rank",
+      "Rus": "Нам нужно, чтобы ты обнаружил<player.pronoun.verbEnding> и захватил<player.pronoun.verbEnding> ^orange;<bounty.accusative>^reset;. Мы получили намёк, что информация о цели может быть <coordinate.preposition> <coordinate.name>, так что тебе следует начать своё расследование оттуда.\n\n- НАГРАДА -\nЗахват: ^yellow;<rewards.money>^reset; пикселей,  +<rewards.rank> к рангу"
     }
   }
 ]

@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "We need you to apprehend a small-time crook known as ^orange;<bounty.name>^reset; <coordinate.preposition> <coordinate.name>.\n\nThey're pretty small-time, so they ain't gonna cause you too much of a problem.\n\n- REWARDS -\nCapture: ^yellow;<rewards.money>^reset; pixels, +<rewards.rank> rank"
+      "Eng": "We need you to apprehend a small-time crook known as ^orange;<bounty.name>^reset; <coordinate.preposition> <coordinate.name>.\n\nThey're pretty small-time, so they ain't gonna cause you too much of a problem.\n\n- REWARDS -\nCapture: ^yellow;<rewards.money>^reset; pixels, +<rewards.rank> rank",
+      "Rus": "Нам нужно арестовать мелкого жулика по имени ^orange;<bounty.name>^reset; <coordinate.preposition> <coordinate.name>.\n\n<bounty.pronoun.capitalSubject> не слишком матёр<bounty.pronoun.adj2Ending>, так что не долж<bounty.pronoun.verb2Ending> доставить много проблем.\n\n- НАГРАДА -\nЗахват: ^yellow;<rewards.money>^reset; пикселей, +<rewards.rank> к рангу"
     }
   }
 ]

@@ -8,7 +8,19 @@
     },
     "Texts": {
       "Eng": "Hey, I'm Metadept! I enjoy programming and the colour grey.",
-      "Rus": "Привет, я Метадепт!  Мне нравится программирование и серый цвет."
+      "Rus": "Привет, я Метадепт! Мне нравится программирование и серый цвет."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/devs/devmeta.npctype": [
+        "/identity/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metadept",
+      "Rus": "Метадепт"
     }
   }
 ]
