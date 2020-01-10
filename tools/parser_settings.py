@@ -1,6 +1,9 @@
 
 from re import compile as regex
 
+ignore_files = set([
+  "backernamegen.config",
+])
 
 foi = {
   "*": [".*escription$","^(.+/)?[Tt]ext$","^(.+/)?[Dd]ialog/[^/]+/[^/]+/.*[0-9]+$",

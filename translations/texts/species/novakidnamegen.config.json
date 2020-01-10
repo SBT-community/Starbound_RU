@@ -238,6 +238,19 @@
     "DeniedAlternatives": [],
     "Files": {
       "species/novakidnamegen.config": [
+        "/names/1/1/21"
+      ]
+    },
+    "Texts": {
+      "Eng": "Buck",
+      "Rus": "Бак"
+    }
+  },
+  {
+    "Comment": "Имена персонажей",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/novakidnamegen.config": [
         "/names/1/1/22"
       ]
     },
@@ -790,6 +803,19 @@
     "Texts": {
       "Eng": "Flint",
       "Rus": "Флинт"
+    }
+  },
+  {
+    "Comment": "Имена персонажей",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/novakidnamegen.config": [
+        "/names/1/1/65"
+      ]
+    },
+    "Texts": {
+      "Eng": "Freon",
+      "Rus": "Фреон"
     }
   },
   {
@@ -1761,6 +1787,36 @@
   {
     "Comment": "Имена персонажей",
     "DeniedAlternatives": [
+      "Скаут"
+    ],
+    "Files": {
+      "species/novakidnamegen.config": [
+        "/names/1/1/145"
+      ]
+    },
+    "Texts": {
+      "Eng": "Seth",
+      "Rus": "Сет"
+    }
+  },
+  {
+    "Comment": "Имена персонажей",
+    "DeniedAlternatives": [
+      "Сет"
+    ],
+    "Files": {
+      "species/novakidnamegen.config": [
+        "/names/1/1/146"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shade",
+      "Rus": "Шейд"
+    }
+  },
+  {
+    "Comment": "Имена персонажей",
+    "DeniedAlternatives": [
       "Стайр"
     ],
     "Files": {
@@ -2067,6 +2123,21 @@
     "Texts": {
       "Eng": "Xylene",
       "Rus": "Ксилен"
+    }
+  },
+  {
+    "Comment": "Имена персонажей",
+    "DeniedAlternatives": [
+      "Ксенон"
+    ],
+    "Files": {
+      "species/novakidnamegen.config": [
+        "/names/1/1/173"
+      ]
+    },
+    "Texts": {
+      "Eng": "Zane",
+      "Rus": "Зейн"
     }
   },
   {

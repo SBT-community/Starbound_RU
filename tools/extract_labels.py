@@ -17,7 +17,7 @@ from re import compile as regex
 from multiprocessing import Pool
 from os import walk, makedirs, remove
 from json import load, dump, loads
-from parser_settings import files_of_interest
+from parser_settings import files_of_interest, ignore_files
 from utils import get_answer
 from bisect import insort_left
 from special_cases import specialSections
@@ -117,7 +117,7 @@ def construct_db(assets_dir):
   endings = tuple(files_of_interest.keys())
   for subdir, dirs, files in walk(assets_dir):
     for thefile in files:
-      if thefile.endswith(endings):
+      if thefile.endswith(endings) and thefile not in ignore_files:
         foi.append(normpath(join(subdir, thefile)))
   with Pool() as p:
     r = p.imap_unordered(parseFile, foi)
