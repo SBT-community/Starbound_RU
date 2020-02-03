@@ -4,9 +4,10 @@ function itemShortDescription(itemDescriptor)
 end
 
 local function getCountEnding(count)
-  local residue = count % 10
-  if count > 10 and count < 21 then return ""
-  elseif resudue == 1 then return "а"
+  local residue = math.abs(count) % 100
+  if residue > 10 and residue < 20 then return "" end
+  residue = residue % 10
+  if residue == 1 then return "а"
   elseif residue > 1 and residue < 5 then return "и"
   else return "" end
 end
